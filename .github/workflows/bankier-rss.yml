@@ -29,26 +29,25 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 feedgen pytz
 
-      - name: Generate RSS file
+      - name: Generate RSS & JSON files
         run: |
           mkdir -p docs
-          python bankier_rss.py > docs/bankier-rss.xml
+          python bankier_rss.py rss  > docs/bankier-rss.xml
+          python bankier_rss.py json > docs/bankier-feed.json
 
       - name: Commit and push changes (if any)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # dodaj plik do indexu (działa i dla nowych, i zmienionych plików)
-          git add docs/bankier-rss.xml || true
+          git add docs/bankier-rss.xml docs/bankier-feed.json || true
 
-          # jeśli po dodaniu nic nie jest staged → brak zmian
           if git diff --cached --quiet; then
-            echo "Brak zmian w RSS – pomijam commit."
+            echo "Brak zmian w RSS/JSON – pomijam commit."
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "Update Bankier RSS feed"
+          git commit -m "Update Bankier RSS & JSON feed"
           git push
