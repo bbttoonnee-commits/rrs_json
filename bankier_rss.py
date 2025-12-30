@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Generuje kanał RSS z działu wiadomości Bankier.pl
+Generuje kanał RSS **lub** JSON (JSON Feed) z działu wiadomości Bankier.pl
 – skanowanie pierwszych 5 stron, tylko artykuły z ostatnich 48h.
 
-Wymagane pakiety:
-    pip install requests beautifulsoup4 feedgen pytz
+Użycie:
+    python bankier_rss.py rss   > docs/bankier-rss.xml
+    python bankier_rss.py json  > docs/bankier-feed.json
 """
 
 import logging
 import time
+import sys
+import json
 from datetime import datetime, timedelta
 from typing import List, Dict, Optional
 from urllib.parse import urljoin
@@ -42,6 +45,10 @@ HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Connection": "close",
 }
+
+# 👉 PODMIEŃ NA WŁAŚCIWY URL GitHub Pages:
+# Przykład: https://twoj-login.github.io/twoj-repo/bankier-feed.json
+FEED_JSON_URL = "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
 
 logging.basicConfig(
     level=logging.INFO,
@@ -193,6 +200,11 @@ def collect_recent_articles() -> List[Dict]:
     return all_articles
 
 
+# --------------------------------------------------------------------
+# GENERATORY: RSS + JSON
+# --------------------------------------------------------------------
+
+
 def generate_rss(articles: List[Dict]) -> bytes:
     """Buduje kanał RSS 2.0 na podstawie listy artykułów i zwraca XML jako bytes."""
     fg = FeedGenerator()
@@ -201,7 +213,7 @@ def generate_rss(articles: List[Dict]) -> bytes:
     fg.title("Bankier.pl – Najnowsze wiadomości")
     fg.link(href=NEWS_SECTION_URL, rel="alternate")
     fg.link(href=NEWS_SECTION_URL, rel="self")
-    fg.description("Automatyczny kanał RSS z Bankier.pl (ostatnie 48 godzin)")
+    fg.description(f"Automatyczny kanał RSS z Bankier.pl (ostatnie {HOURS_BACK} godzin)")
     fg.language("pl")
 
     if articles:
@@ -221,17 +233,60 @@ def generate_rss(articles: List[Dict]) -> bytes:
     return fg.rss_str(pretty=True)
 
 
+def generate_json_feed(articles: List[Dict], feed_url: Optional[str] = None) -> str:
+    """
+    Buduje JSON Feed 1.0 (w stylu Inoreader /view/json).
+    Zwraca string JSON (unicode).
+    """
+    feed: Dict = {
+        "version": "https://jsonfeed.org/version/1",
+        "title": "Bankier.pl – Najnowsze wiadomości",
+        "home_page_url": NEWS_SECTION_URL,
+        "description": f"Automatyczny kanał JSON z Bankier.pl (ostatnie {HOURS_BACK} godzin)",
+        "items": [],
+    }
+
+    if feed_url:
+        feed["feed_url"] = feed_url
+
+    items = []
+    for art in articles:
+        item = {
+            "id": art["link"],
+            "url": art["link"],
+            "title": art["title"],
+            # teaser jako content_html – możesz później rozbudować o pełną treść
+            "content_html": art["teaser"],
+            # ISO-8601 z informacją o strefie czasowej
+            "date_published": art["pub_date"].isoformat(),
+        }
+        items.append(item)
+
+    feed["items"] = items
+
+    # ensure_ascii=False żeby polskie znaki były normalne, nie \u0144 itd.
+    return json.dumps(feed, ensure_ascii=False, indent=2)
+
+
 # --------------------------------------------------------------------
 # MAIN
 # --------------------------------------------------------------------
 
 
 def main() -> None:
+    # domyślnie "rss", ale można podać "json"
+    fmt = sys.argv[1].lower() if len(sys.argv) > 1 else "rss"
+
     articles = collect_recent_articles()
-    rss_bytes = generate_rss(articles)
-    # drukujemy na stdout – w GitHub Actions można zrobić:
-    # python bankier_rss.py > docs/bankier-rss.xml
-    print(rss_bytes.decode("utf-8"))
+
+    if fmt == "rss":
+        rss_bytes = generate_rss(articles)
+        print(rss_bytes.decode("utf-8"))
+    elif fmt == "json":
+        json_str = generate_json_feed(articles, feed_url=FEED_JSON_URL)
+        print(json_str)
+    else:
+        raise SystemExit(f"Nieznany format: {fmt!r}. Użyj: rss albo json.")
 
 
 if __name__ == "__main__":
