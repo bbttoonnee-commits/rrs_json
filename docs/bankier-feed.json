@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zwiazkowcy-chca-udzialu-pulawskich-Azotow-w-inwestycjach-strategicznych-panstwa-9062765.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwiazkowcy-chca-udzialu-pulawskich-Azotow-w-inwestycjach-strategicznych-panstwa-9062765.html",
+      "title": "Związkowcy chcą udziału puławskich Azotów w inwestycjach strategicznych państwa",
+      "content_html": "Uwzględnienia zakładów azotowych w Puławach (Lubelskie) w strategicznych inwestycjach obronnych państwa domagają się od rządu związkowcy z Solidarności. Zarząd Grupy Azoty zapewnia o działaniach na rzecz poprawy trudnej sytuacji firmy i apeluje...",
+      "date_published": "2025-12-31T16:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-9062737.html",
       "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-9062737.html",
       "title": "PKP Cargo ma umowę inwestycyjną z PKP PLK dot. sprzedaży Cargotor",
       "content_html": "PKP Cargo zawarło z PKP PLK umowę inwestycyjną określającą warunki sprzedaży 100 proc. udziałów w spółce Cargotor, będących w posiadaniu PKP Cargo - podała spółka PKP Cargo w komunikacie. Cena sprzedaży została ustalona na 28,8 mln zł...",
-      "date_published": "2025-12-31T15:32:00+01:00"
+      "date_published": "2025-12-31T16:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-opis-9062750.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-opis-9062750.html",
+      "title": "PKP Cargo ma umowę inwestycyjną z PKP PLK dot. sprzedaży Cargotor (opis)",
+      "content_html": "PKP Cargo zawarło z PKP PLK umowę inwestycyjną określającą warunki sprzedaży 100 proc. udziałów w spółce Cargotor, będących w posiadaniu PKP Cargo - podała spółka PKP Cargo w komunikacie. Cena sprzedaży została ustalona na 28,8 mln zł...",
+      "date_published": "2025-12-31T15:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-minister-PiS-Janowi-Krzysztofo-Ardanowski-na-lawie-oskarzonych-Prokuratura-Wyrzadzily-szkode-interesowi-publicznemu-9062671.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-minister-PiS-Janowi-Krzysztofo-Ardanowski-na-lawie-oskarzonych-Prokuratura-Wyrzadzily-szkode-interesowi-publicznemu-9062671.html",
+      "title": "Były minister PiS na ławie oskarżonych. Prokuratura: Wyrządziły szkodę interesowi publicznemu",
+      "content_html": "Jest akt oskarżenia m.in. przeciw byłemu ministrowi rolnictwa z rządu PiS Janowi Krzysztofowi Ardanowskiemu ws. Krajowego Ośrodka Wsparcia Rolnictwa i gwarancji bankowych oraz kredytowych dla dwóch firm - poinformowała w środę Prokuratura Regionalna...",
+      "date_published": "2025-12-31T15:43:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Najbogatsi-jeszcze-bogatsi-Majatek-500-najwiekszych-wzrosl-w-2025-roku-o-2-2-bln-dolarow-9062721.html",
@@ -23,6 +44,13 @@
       "title": "Cyberatak na serwery Dom Development. Spółka zgłasza atak do prokuratury",
       "content_html": "Zaawansowany cyberatak na serwery spółki Dom Development, który miał miejsce na początku grudnia, został zgłoszony do prokuratury i Prezesa UODO - przekazało PAP biuro prasowe firmy. Dom Development współpracuje też w tej sprawie z CERT Polska...",
       "date_published": "2025-12-31T15:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mapy-do-zmiany-Od-stycznia-przybedzie-nam-szesc-nowych-miast-9062715.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mapy-do-zmiany-Od-stycznia-przybedzie-nam-szesc-nowych-miast-9062715.html",
+      "title": "Mapy do zmiany. Od stycznia przybędzie nam sześć nowych miast",
+      "content_html": "Zgodnie z rozporządzeniem Rady Ministrów od nowego roku w Polsce przybędzie sześć miast. Prawa miejskie otrzymały miejscowości w województwach: mazowieckim, lubelskim, opolskim i śląskim.",
+      "date_published": "2025-12-31T15:01:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ogromne-zakupy-i-zapowiedzi-kolejnych-Szef-MON-W-2025-zbudowalismy-realna-sile-panstwa-9062712.html",
@@ -51,13 +79,6 @@
       "title": "Chiny naciskają sprawę Tajwanu. Xi: Reunifikacja jest nie do powstrzymania",
       "content_html": "Przywódca Chin Xi Jinping oświadczył w środę w orędziu noworocznym, że proces „reunifikacji” Chin jest nieuchronny. Deklarację tę wygłosił krótko po zakończeniu chińskich manewrów wojskowych wokół Tajwanu.",
       "date_published": "2025-12-31T14:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Byly-minister-PiS-Janowi-Krzysztofo-Ardanowski-na-lawie-oskarzonych-Prokuratura-Wyrzadzily-szkode-interesowi-publicznemu-9062671.html",
-      "url": "https://www.bankier.pl/wiadomosc/Byly-minister-PiS-Janowi-Krzysztofo-Ardanowski-na-lawie-oskarzonych-Prokuratura-Wyrzadzily-szkode-interesowi-publicznemu-9062671.html",
-      "title": "Były minister PiS na ławie oskarżonych. Prokuratura: Wyrządziły szkodę interesowi publicznemu",
-      "content_html": "Jest akt oskarżenia m.in. przeciw byłemu ministrowi rolnictwa z rządu PiS Janowi Krzysztofowi Ardanowskiemu ws. Krajowego Ośrodka Wsparcia Rolnictwa i gwarancji bankowych oraz kredytowych dla dwóch firm - poinformowała w środę Prokuratura Regionalna...",
-      "date_published": "2025-12-31T13:58:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nie-bedzie-reformy-mediow-i-likwidacji-abonamentu-Ministerstwo-Finansow-Budzet-tego-nie-udzwignie-9062669.html",
@@ -142,6 +163,27 @@
       "title": "Prokurator generalny Iranu grozi „stanowczą reakcją” na protesty",
       "content_html": "Wymiar sprawiedliwości okaże „stanowczość”, jeśli protesty przeciwko inflacji w Iranie zostaną wykorzystane do „destabilizacji” państwa - zapowiedział w środę prokurator generalny Republiki Islamskiej w wywiadzie dla państwowej telewizji...",
       "date_published": "2025-12-31T12:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-co-przyniesie-poczatek-2026-roku-9062599.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-co-przyniesie-poczatek-2026-roku-9062599.html",
+      "title": "Tym będą żyły rynki: co przyniesie początek 2026 roku?",
+      "content_html": "Choć układ kalendarza w Polsce nadal będzie sprzyjać planom urlopowym, to po Nowym Roku światowe rynki finansowe ruszą z kopyta.",
+      "date_published": "2025-12-31T12:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bezpieczny-start-pod-parasolem-Zabki-9049155.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bezpieczny-start-pod-parasolem-Zabki-9049155.html",
+      "title": "Bezpieczny start pod parasolem Żabki",
+      "content_html": "Zaufało jej już 10 tys. osób, które postanowiły zostać przedsiębiorcami. Obecnie prowadzą 12 tys. sklepów franczyzowych Żabka. A do społeczności dołączają już dziesiątki kolejnych.",
+      "date_published": "2025-12-31T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/I-po-swietach-Zgarnij-najnowszego-Apple-Watcha-SE-w-prostej-promocji-Citi-pomoze-Ci-zrzucic-oponke-do-lata-9061898.html",
+      "url": "https://www.bankier.pl/wiadomosc/I-po-swietach-Zgarnij-najnowszego-Apple-Watcha-SE-w-prostej-promocji-Citi-pomoze-Ci-zrzucic-oponke-do-lata-9061898.html",
+      "title": "I po świętach. Zgarnij Apple Watcha SE w prostej promocji Citi i zrzuć oponkę do lata",
+      "content_html": "Święta, święta i po świętach. Jeśli po kilku dniach przy stole czujecie, że przyda się reset, to Apple Watch SE 3 może być dobrym pretekstem, żeby wrócić do ruchu i zacząć „zrzucać oponkę” z myślą o lecie. Tym bardziej, że teraz...",
+      "date_published": "2025-12-31T12:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sylwester-w-Rzymie-bez-petard-i-rac-Burmistrz-Tylko-zimne-ognie-i-konfetti-9062266.html",
@@ -403,6 +445,20 @@
       "date_published": "2025-12-31T06:06:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Najwazniejsze-wydarzenia-w-swiecie-pieniadza-w-2025-roku-Dolar-zloto-WIG20-i-nie-tylko-9061578.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najwazniejsze-wydarzenia-w-swiecie-pieniadza-w-2025-roku-Dolar-zloto-WIG20-i-nie-tylko-9061578.html",
+      "title": "Najważniejsze wydarzenia w świecie pieniądza w 2025 roku. Dolar, złoto, WIG20 i nie tylko",
+      "content_html": "Był to rok mocnego złotego i pięknej hossy na warszawskiej giełdzie. Rok rajdu cen złota i zapaści długoterminowego długu suwerennego. Był to też kolejny rok przybliżający nas do „globalnego resetu” systemu finansowego.",
+      "date_published": "2025-12-31T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ten-pociag-juz-odjechal-Ekonomista-mBanku-ostrzega-rzad-i-firmy-przed-spowalnianiem-zmian-9061704.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ten-pociag-juz-odjechal-Ekonomista-mBanku-ostrzega-rzad-i-firmy-przed-spowalnianiem-zmian-9061704.html",
+      "title": "\"Ten pociąg już odjechał\". Ekonomista mBanku ostrzega rząd i firmy przed spowalnianiem zmian",
+      "content_html": "Bankier.pl zapytał głównych ekonomistów banków o to, jak postrzegają wpływ zrównoważonego rozwoju na polską gospodarkę, przedsiębiorstwa i sektor bankowy. Zależy nam, żeby to zagadnienie pokazać przez pryzmat twardych danych oraz trwałych...",
+      "date_published": "2025-12-31T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Na-nic-protesty-szykuje-sie-dokrecenie-sruby-w-kredytach-9061993.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-nic-protesty-szykuje-sie-dokrecenie-sruby-w-kredytach-9061993.html",
       "title": "Na nic protesty, szykuje się dokręcenie śruby w kredytach",
@@ -543,6 +599,13 @@
       "date_published": "2025-12-30T18:54:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojska-amerykanskie-na-Ukrainie-Zelenski-Silne-gwarancje-bezpieczenstwa-9062275.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojska-amerykanskie-na-Ukrainie-Zelenski-Silne-gwarancje-bezpieczenstwa-9062275.html",
+      "title": "Wojska amerykańskie na Ukrainie? Zełenski: Silne gwarancje bezpieczeństwa",
+      "content_html": "Ukraina rozmawia z prezydentem USA Donaldem Trumpem i przedstawicielami koalicji chętnych możliwość rozmieszczenia amerykańskich wojsk w ramach gwarancji bezpieczeństwa, jednak decyzja zależy od Waszyngtonu – oświadczył we wtorek prezydent...",
+      "date_published": "2025-12-30T18:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-oddalil-kasacje-Oszust-na-policjanta-posiedzi-4-5-roku-9062270.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-oddalil-kasacje-Oszust-na-policjanta-posiedzi-4-5-roku-9062270.html",
       "title": "Sąd Najwyższy oddalił kasację. Oszust „na policjanta” posiedzi 4,5 roku",
@@ -639,48 +702,6 @@
       "title": "Nie więcej niż 1725 zł na podróże. Marszałek Sejmu \"zaostrza\" zasady kilometrówek",
       "content_html": "Marszałek Sejmu Włodzimierz Czarzasty podpisał we wtorek zmianę zarządzenia dot. tworzenia i finansowania biur poselskich. Zmiany regulują zasady rozliczania tzw. poselskich kilometrówek, i mają zwiększyć kontrolę i przejrzystość rozliczeń...",
       "date_published": "2025-12-30T16:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-prac-nad-zwiazkami-partnerskimi-Rzad-stawia-na-ustawe-o-osobie-najblizszej-9062125.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-prac-nad-zwiazkami-partnerskimi-Rzad-stawia-na-ustawe-o-osobie-najblizszej-9062125.html",
-      "title": "Koniec prac nad „związkami partnerskimi”. Rząd stawia na ustawę o osobie najbliższej",
-      "content_html": "Fakt, że Rada Ministrów przyjęła projekt ustawy o statusie osoby najbliższej w związku to krok w kierunku bezpieczeństwa i ochrony prawnej osób żyjących w związkach jednopłciowych - oceniła sekretarz stanu w KPRM Katarzyna Kotula podczas...",
-      "date_published": "2025-12-30T16:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ostra-reakcja-na-reklame-z-pijacym-Mikolajem-Bedzie-zawiadomienie-do-prokuratury-9062141.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ostra-reakcja-na-reklame-z-pijacym-Mikolajem-Bedzie-zawiadomienie-do-prokuratury-9062141.html",
-      "title": "Ostra reakcja na reklamę z pijącym Mikołajem. Będzie zawiadomienie do prokuratury",
-      "content_html": "Reklama piwa wykorzystująca wizerunek św. Mikołaja naruszyła dobre obyczaje - oceniła w rozmowie z PAP dyrektorka Krajowego Centrum Przeciwdziałania Uzależnieniom dr n. med. Bogusława Bukowska. Dodała, że złoży do prokuratury zawiadomienie...",
-      "date_published": "2025-12-30T16:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Londyn-odciety-od-Europy-Eurostar-wstrzymuje-ruch-tunelem-do-odwolania-9062065.html",
-      "url": "https://www.bankier.pl/wiadomosc/Londyn-odciety-od-Europy-Eurostar-wstrzymuje-ruch-tunelem-do-odwolania-9062065.html",
-      "title": "Londyn odcięty od Europy. Eurostar wstrzymuje ruch tunelem do odwołania",
-      "content_html": "Przewoźnik kolejowy Eurostar poinformował we wtorek o awarii zasilania w tunelu pod kanałem La Manche oraz problemach technicznych pociągu na trasie między Londynem a Paryżem. Zawieszono kursowanie wszystkich składów Eurostar między Londynem...",
-      "date_published": "2025-12-30T16:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ryzykowny-ruch-Zuckerberga-Meta-kupuje-chinskie-AI-9062145.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ryzykowny-ruch-Zuckerberga-Meta-kupuje-chinskie-AI-9062145.html",
-      "title": "Ryzykowny ruch Zuckerberga. Meta kupuje chińskie AI",
-      "content_html": "Firma Meta, której szefem jest Mark Zuckerberg, kupuje chiński start-up Manus zajmujący się sztuczną inteligencją – podał we wtorek „Financial Times”. Według chińskiego źródła transakcja ta będzie trzecim co do wielkości przejęciem...",
-      "date_published": "2025-12-30T16:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-symuluja-blokade-portow-Ostra-reakcja-prezydenta-Tajwanu-na-razaca-prowokacje-9062030.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-symuluja-blokade-portow-Ostra-reakcja-prezydenta-Tajwanu-na-razaca-prowokacje-9062030.html",
-      "title": "Chiny symulują blokadę portów. Ostra reakcja prezydenta Tajwanu na „rażącą prowokację”",
-      "content_html": "Prezydent Tajwanu Lai Ching-te zdecydowanie potępił we wtorek trwające chińskie manewry wokół wyspy. Ministerstwo obrony poinformowało, że w drugim dniu ćwiczeń zaobserwowano 71 chińskich samolotów i 24 okręty.",
-      "date_published": "2025-12-30T16:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-ostrzega-Mlode-Polki-nawolujace-do-polexitu-to-rosyjskie-boty-9062156.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-ostrzega-Mlode-Polki-nawolujace-do-polexitu-to-rosyjskie-boty-9062156.html",
-      "title": "Rząd ostrzega: „Młode Polki” nawołujące do polexitu to rosyjskie boty",
-      "content_html": "Pojawiające się w internecie nagrania, w których „młode polskie kobiety” krytykują m.in. Unię Europejską, to wygenerowana przez sztuczną inteligencję rosyjska dezinformacja - powiedział we wtorek rzecznik rządu Adam Szłapka. Dodał, że...",
-      "date_published": "2025-12-30T16:33:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
