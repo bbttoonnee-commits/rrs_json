@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Generuje kanał RSS **lub** JSON (JSON Feed) z działu wiadomości Bankier.pl
+Generuje kanały RSS oraz JSON (JSON Feed) z działów wiadomości Bankier.pl
 – skanowanie pierwszych stron, tylko artykuły z ostatnich 48h.
 
 Obsługiwane sekcje:
-  - "news"   -> https://www.bankier.pl/wiadomosc/        (pierwsze 5 stron)
-  - "gielda" -> https://www.bankier.pl/gielda/wiadomosci (pierwsza strona)
+  - "news"   -> https://www.bankier.pl/wiadomosc/         (pierwsze 5 stron)
+  - "gielda" -> https://www.bankier.pl/gielda/wiadomosci/ (pierwsze 5 stron)
 
 Użycie (przykłady):
+
+    # sekcja ogólna /wiadomosc/
     python bankier_rss.py rss              > docs/bankier-rss.xml
     python bankier_rss.py json             > docs/bankier-feed.json
+
+    # sekcja giełdowa /gielda/wiadomosci/
     python bankier_rss.py rss  gielda      > docs/bankier-gielda-rss.xml
     python bankier_rss.py json gielda      > docs/bankier-gielda-feed.json
 """
@@ -37,11 +41,11 @@ BASE_URL = "https://www.bankier.pl"
 
 # Sekcja ogólna wiadomości
 NEWS_SECTION_URL = "https://www.bankier.pl/wiadomosc/"
-NUM_PAGES_NEWS = 5  # ile stron /wiadomosc/, /wiadomosc/2 ... /wiadomosc/5
+NUM_PAGES_NEWS = 5  # /wiadomosc/, /wiadomosc/2 ... /wiadomosc/5
 
-# Sekcja giełdowa
-GIELD_SECTION_URL = "https://www.bankier.pl/gielda/wiadomosci"
-NUM_PAGES_GIELDA = 1  # obecnie tylko pierwsza strona (reszta ładowana JS)
+# Sekcja giełdowa – UWAGA: z ukośnikiem na końcu!
+GIELD_SECTION_URL = "https://www.bankier.pl/gielda/wiadomosci/"
+NUM_PAGES_GIELDA = 5  # /gielda/wiadomosci/, /2, /3, /4, /5
 
 SLEEP_BETWEEN_REQUESTS = 2.5  # sekundy
 HOURS_BACK = 48  # filtr czasu – ostatnie 48 godzin
@@ -62,8 +66,8 @@ HEADERS = {
 
 # 👉 PODMIEŃ NA WŁAŚCIWE URL-e GitHub Pages:
 # Przykład:
-#   https://twoj-login.github.io/twoj-repo/bankier-feed.json
-#   https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json
+#   FEED_JSON_URL_NEWS   = "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
+#   FEED_JSON_URL_GIELDA = "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
 FEED_JSON_URL_NEWS = "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
 FEED_JSON_URL_GIELDA = "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
 
@@ -181,14 +185,13 @@ def parse_article_list(html: str) -> List[Dict]:
 
 
 # --------------------------------------------------------------------
-# PARSOWANIE LISTY ARTYKUŁÓW – SEKCJA /gielda/wiadomosci
+# PARSOWANIE LISTY ARTYKUŁÓW – SEKCJA /gielda/wiadomosci/
 # --------------------------------------------------------------------
 
 
 def parse_gielda_list(html: str) -> List[Dict]:
     """
-    Parsuje HTML strony https://www.bankier.pl/gielda/wiadomosci.
-
+    Parsuje HTML strony https://www.bankier.pl/gielda/wiadomosci/ (+ /2, /3...)
     Na tej podstronie lista jest renderowana jako linki, których tekst
     zaczyna się od:
         YYYY-MM-DD HH:MM Tytuł...
@@ -253,7 +256,7 @@ def collect_recent_articles(section: str = "news") -> List[Dict]:
 
     section:
       - "news"   -> /wiadomosc/ (+ numer strony)
-      - "gielda" -> /gielda/wiadomosci (obecnie tylko pierwsza strona)
+      - "gielda" -> /gielda/wiadomosci/ (+ numer strony)
     """
     section = section.lower().strip()
     if section not in {"news", "gielda"}:
@@ -281,10 +284,9 @@ def collect_recent_articles(section: str = "news") -> List[Dict]:
 
     for page in range(1, num_pages + 1):
         if page == 1:
-            url = base_url
+            url = base_url  # np. .../wiadomosc/ lub .../gielda/wiadomosci/
         else:
-            # /wiadomosc/2, /wiadomosc/3, ...
-            # (dla giełdy num_pages=1, więc tu nie wchodzimy)
+            # /wiadomosc/2, /3, ... i /gielda/wiadomosci/2, /3...
             url = f"{base_url}{page}"
 
         html = fetch_page_html(url)
