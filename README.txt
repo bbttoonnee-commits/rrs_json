@@ -1,136 +1,208 @@
+Bankier.pl – Automatyczny kanał RSS + JSON Feed
 
-Bankier.pl – Automatyczny kanał RSS
-
-Ten projekt generuje automatyczny kanał RSS z działu „Wiadomości” serwisu Bankier.pl (https://www.bankier.pl/wiadomosc/).
+Ten projekt generuje automatyczny kanał RSS oraz JSON Feed z działu „Wiadomości” serwisu Bankier.pl
+👉 https://www.bankier.pl/wiadomosc/
 
 Skrypt w Pythonie:
-- pobiera nagłówki wiadomości z pierwszych 5 stron działu,
-- wyciąga tytuł, link, datę (publikacji/aktualizacji) oraz zajawkę,
-- filtruje newsy do ostatnich 48 godzin,
-- generuje poprawny kanał RSS 2.0 z wykorzystaniem biblioteki feedgen,
-- może być uruchamiany automatycznie przez GitHub Actions,
-- publikowany jest przez GitHub Pages jako statyczny plik XML.
 
-Docelowa ścieżka RSS:
-docs/bankier-rss.xml
+pobiera nagłówki wiadomości z pierwszych 5 stron działu
 
-Adres RSS przy GitHub Pages:
-https://<username>.github.io/<repo>/bankier-rss.xml
+wyciąga tytuł, link, datę (publikacji/aktualizacji) oraz zajawkę
 
+filtruje newsy do ostatnich 48 godzin
 
-STRUKTURA PROJEKTU
+generuje:
 
+RSS 2.0 (biblioteka feedgen)
+
+JSON Feed 1.0 (kompatybilny ze stylem Inoreader /view/json)
+
+uruchamiany jest automatycznie przez GitHub Actions
+
+wynik publikowany jest przez GitHub Pages jako statyczne pliki
+
+🔗 Adresy feedów
+RSS
+https://bbttoonnee-commits.github.io/rrs_json/bankier-rss.xml
+
+JSON Feed
+https://bbttoonnee-commits.github.io/rrs_json/bankier-feed.json
+
+📁 Struktura projektu
 .
-├── bankier_rss.py              # Główny skrypt generujący kanał RSS
-├── requirements.txt            # (opcjonalnie) lista zależności Pythona
+├── bankier_rss.py              # Skrypt generujący RSS i JSON
+├── requirements.txt
 ├── docs/
-│   └── bankier-rss.xml         # Wygenerowany plik RSS (commitowany przez Actions)
+│   ├── bankier-rss.xml         # Wygenerowany RSS
+│   └── bankier-feed.json       # Wygenerowany JSON Feed
 └── .github/
     └── workflows/
         └── bankier-rss.yml     # Workflow GitHub Actions
 
+⚙️ Jak działa skrypt
 
-JAK DZIAŁA SKRYPT
+Pobiera HTML z:
 
-1. Pobiera HTML z sekcji wiadomości:
-   - https://www.bankier.pl/wiadomosc/
-   - https://www.bankier.pl/wiadomosc/2
-   - …do 5 strony
+https://www.bankier.pl/wiadomosc/
 
-2. Wydobywa z listy artykułów:
-   - tytuł
-   - pełny link
-   - datę (publikacji lub aktualizacji – jeżeli są dwie, używana jest nowsza)
-   - zajawkę (bez linku „Czytaj dalej”)
+https://www.bankier.pl/wiadomosc/2
 
-3. Konwertuje czas do strefy Europe/Warsaw
+… do 5 strony
 
-4. Filtrowane są artykuły młodsze niż 48 godzin
+Z listy artykułów wyciąga:
 
-5. Tworzony jest kanał RSS 2.0 przy użyciu feedgen:
-   - GUID = pełny URL artykułu
-   - opis = zajawka
-   - pubDate = czas ze strefą czasową
+tytuł
 
-6. Skrypt wypisuje XML na stdout, a workflow zapisuje go do docs/bankier-rss.xml
+pełny link
+
+datę (publikacji lub aktualizacji – używana jest nowsza)
+
+zajawkę (bez „Czytaj dalej”)
+
+Konwertuje czas do Europe/Warsaw
+
+Filtrowane są artykuły z ostatnich 48h
+
+Tworzone są dwa feedy:
+
+RSS 2.0
+
+GUID = pełny URL artykułu
+
+opis = zajawka
+
+pubDate = data ze strefą TZ
+
+JSON Feed 1.0
+
+Każdy wpis zawiera m.in.:
+
+{
+  "id": "<URL>",
+  "url": "<URL>",
+  "title": "Tytuł",
+  "content_html": "Zajawka",
+  "date_published": "2025-12-30T21:09:00+01:00"
+}
 
 
-KONFIGURACJA
+Workflow zapisuje pliki do:
 
-W pliku bankier_rss.py możesz zmienić:
+docs/bankier-rss.xml
+docs/bankier-feed.json
 
-NUM_PAGES = 5              # liczba stron do zeskanowania
-HOURS_BACK = 48            # filtr czasu
-SLEEP_BETWEEN_REQUESTS = 2.5  # opóźnienie między zapytaniami w sekundach
+🔧 Konfiguracja
 
-Możesz np. ustawić:
+W bankier_rss.py możesz zmienić:
+
+NUM_PAGES = 5
+HOURS_BACK = 48
+SLEEP_BETWEEN_REQUESTS = 2.5
+
+
+np.:
+
 HOURS_BACK = 72
 NUM_PAGES = 3
-SLEEP_BETWEEN_REQUESTS = 1.0
-
-Nagłówki HTTP możesz dopasować w HEADERS:
-- User-Agent
-- Accept-Language
-- Referer
 
 
-RĘCZNE URUCHOMIENIE
+Nagłówki HTTP ustawisz w HEADERS.
+
+▶️ Ręczne uruchomienie
 
 Instalacja zależności:
+
 pip install requests beautifulsoup4 feedgen pytz
+
+
 lub
+
 pip install -r requirements.txt
 
+
 Generowanie RSS:
-python bankier_rss.py > docs/bankier-rss.xml
+
+python bankier_rss.py rss > docs/bankier-rss.xml
 
 
-GITHUB ACTIONS
+Generowanie JSON Feed:
 
-Workflow znajduje się w:
+python bankier_rss.py json > docs/bankier-feed.json
+
+🤖 GitHub Actions
+
+Workflow:
+
 .github/workflows/bankier-rss.yml
 
+
 Uruchamia się:
-- co 30 minut
-- lub ręcznie z zakładki Actions
 
-Commit wykonywany jest tylko gdy RSS faktycznie się zmieni.
+co 30 minut
 
+lub ręcznie
 
-GITHUB PAGES
+Commit jest tworzony tylko gdy pliki się zmienią.
+
+🌐 GitHub Pages
 
 Ustaw w repozytorium:
+
 Settings → Pages
+
 Source: Deploy from a branch
+
 Branch: main
+
 Folder: /docs
 
-RSS dostępny pod:
-https://<username>.github.io/<repo>/bankier-rss.xml
+Feed RSS dostępny pod:
+
+https://bbttoonnee-commits.github.io/rrs_json/bankier-rss.xml
 
 
-TROUBLESHOOTING
+Feed JSON pod:
 
-Brak pliku bankier-rss.xml:
-- sprawdź logi Actions
-- upewnij się, że commit został wykonany
+https://bbttoonnee-commits.github.io/rrs_json/bankier-feed.json
 
-Brak nowych artykułów w RSS:
-- pamiętaj że używany jest filtr ostatnich 48 godzin
-- możesz zmienić HOURS_BACK lub częstotliwość cron
+🛠 Troubleshooting
 
+Brak pliku RSS/JSON
 
-POMYSŁY NA ROZWÓJ
+sprawdź logi Actions
 
-- parametryzacja przez zmienne środowiskowe
-- cache zapytań HTTP
-- dodatkowy JSON feed
-- weryfikacja poprawności XML w workflow
+upewnij się, że commit się wykonał
 
+Brak nowych artykułów
 
-Projekt wykorzystuje:
-- Python
-- GitHub Actions
-- GitHub Pages
+działa filtr ostatnich 48h
 
-i nie wymaga własnego serwera.
+zmień HOURS_BACK
+
+Za dużo requestów
+
+zwiększ SLEEP_BETWEEN_REQUESTS
+
+🚀 Pomysły na rozwój
+
+parametryzacja przez zmienne środowiskowe
+
+pełne pobieranie treści artykułu
+
+cache HTTP
+
+walidacja XML/JSON w workflow
+
+paginacja JSON Feed
+
+webhook / Telegram bot
+
+🧩 Technologie
+
+Python
+
+GitHub Actions
+
+GitHub Pages
+
+➡️ bez własnego serwera, w pełni serverless
