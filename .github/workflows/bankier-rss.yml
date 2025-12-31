@@ -32,14 +32,23 @@ jobs:
       - name: Generate RSS & JSON files
         run: |
           mkdir -p docs
-          python bankier_rss.py rss  > docs/bankier-rss.xml
-          python bankier_rss.py json > docs/bankier-feed.json
+          # Sekcja ogólna /wiadomosc/
+          python bankier_rss.py rss        > docs/bankier-rss.xml
+          python bankier_rss.py json       > docs/bankier-feed.json
+          # Sekcja giełdowa /gielda/wiadomosci
+          python bankier_rss.py rss  gielda > docs/bankier-gielda-rss.xml
+          python bankier_rss.py json gielda > docs/bankier-gielda-feed.json
 
       - name: Commit and push changes (if any)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add docs/bankier-rss.xml docs/bankier-feed.json || true
+          git add \
+            docs/bankier-rss.xml \
+            docs/bankier-feed.json \
+            docs/bankier-gielda-rss.xml \
+            docs/bankier-gielda-feed.json \
+            || true
 
           if git diff --cached --quiet; then
             echo "Brak zmian w RSS/JSON – pomijam commit."
@@ -49,5 +58,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "Update Bankier RSS & JSON feed"
+          git commit -m "Update Bankier RSS & JSON feeds (news + gielda)"
           git push
