@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trudne-warunki-atmosferyczne-Tusk-Musimy-przyjmowac-warianty-pesymistyczne-9062766.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trudne-warunki-atmosferyczne-Tusk-Musimy-przyjmowac-warianty-pesymistyczne-9062766.html",
+      "title": "Trudne warunki atmosferyczne. Tusk: Musimy przyjmować warianty pesymistyczne",
+      "content_html": "Premier Donald Tusk w środę po godzinie 16.00 przed kolejnym posiedzeniem sztabu kryzysowego podkreślił, że w związku z trudnymi warunkami atmosferycznymi należy przyjmować warianty pesymistyczne.",
+      "date_published": "2025-12-31T16:23:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zwiazkowcy-chca-udzialu-pulawskich-Azotow-w-inwestycjach-strategicznych-panstwa-9062765.html",
       "url": "https://www.bankier.pl/wiadomosc/Zwiazkowcy-chca-udzialu-pulawskich-Azotow-w-inwestycjach-strategicznych-panstwa-9062765.html",
       "title": "Związkowcy chcą udziału puławskich Azotów w inwestycjach strategicznych państwa",
@@ -11,18 +18,18 @@
       "date_published": "2025-12-31T16:18:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Protesty-w-Iranie-Demonstranci-zaatakowali-siedzibe-wladz-w-Fasa-9062760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Protesty-w-Iranie-Demonstranci-zaatakowali-siedzibe-wladz-w-Fasa-9062760.html",
+      "title": "Protesty w Iranie. Demonstranci zaatakowali siedzibę władz w Fasa",
+      "content_html": "Budynek władz w położonym na południu mieście Fasa został zaatakowany w środę, czwartym dniu protestów w Iranie - przekazała agencja AFP, powołując się na portal sądowniczy Mizan. Zatrzymano 28-letnią przywódczynię ataku.",
+      "date_published": "2025-12-31T16:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-9062737.html",
       "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-9062737.html",
       "title": "PKP Cargo ma umowę inwestycyjną z PKP PLK dot. sprzedaży Cargotor",
       "content_html": "PKP Cargo zawarło z PKP PLK umowę inwestycyjną określającą warunki sprzedaży 100 proc. udziałów w spółce Cargotor, będących w posiadaniu PKP Cargo - podała spółka PKP Cargo w komunikacie. Cena sprzedaży została ustalona na 28,8 mln zł...",
       "date_published": "2025-12-31T16:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-opis-9062750.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-ma-umowe-inwestycyjna-z-PKP-PLK-dot-sprzedazy-Cargotor-opis-9062750.html",
-      "title": "PKP Cargo ma umowę inwestycyjną z PKP PLK dot. sprzedaży Cargotor (opis)",
-      "content_html": "PKP Cargo zawarło z PKP PLK umowę inwestycyjną określającą warunki sprzedaży 100 proc. udziałów w spółce Cargotor, będących w posiadaniu PKP Cargo - podała spółka PKP Cargo w komunikacie. Cena sprzedaży została ustalona na 28,8 mln zł...",
-      "date_published": "2025-12-31T15:58:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Byly-minister-PiS-Janowi-Krzysztofo-Ardanowski-na-lawie-oskarzonych-Prokuratura-Wyrzadzily-szkode-interesowi-publicznemu-9062671.html",
@@ -695,13 +702,6 @@
       "title": "Spółka z grupy Grenevia z warunkową umową o dofinansowanie realizacji inwestycji z NFOŚiGW",
       "content_html": "Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz PST (spółka z segmentu OZE Grupy Grenevia) zawarły ostatnią z trzech warunkowych umów o dofinansowanie w ramach programu priorytetowego \"Magazyny energii elektrycznej i związana z nimi...",
       "date_published": "2025-12-30T16:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-wiecej-niz-1725-zl-na-podroze-Marszalek-Sejmu-zaostrza-zasady-kilometrowek-9062167.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-wiecej-niz-1725-zl-na-podroze-Marszalek-Sejmu-zaostrza-zasady-kilometrowek-9062167.html",
-      "title": "Nie więcej niż 1725 zł na podróże. Marszałek Sejmu \"zaostrza\" zasady kilometrówek",
-      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty podpisał we wtorek zmianę zarządzenia dot. tworzenia i finansowania biur poselskich. Zmiany regulują zasady rozliczania tzw. poselskich kilometrówek, i mają zwiększyć kontrolę i przejrzystość rozliczeń...",
-      "date_published": "2025-12-30T16:57:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
