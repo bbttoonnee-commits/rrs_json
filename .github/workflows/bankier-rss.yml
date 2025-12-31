@@ -1,8 +1,8 @@
-name: Generate Bankier RSS
+name: Generate Bankier RSS & JSON
 
 on:
   schedule:
-    # co 30 minut (UTC) – możesz zmienić według potrzeb
+    # co 30 minut (UTC)
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
@@ -29,13 +29,15 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 feedgen pytz
 
-      - name: Generate RSS & JSON files
+      - name: Generate RSS & JSON feeds
         run: |
           mkdir -p docs
-          # Sekcja ogólna /wiadomosc/
+
+          # --- Sekcja ogólna /wiadomosc/ ---
           python bankier_rss.py rss        > docs/bankier-rss.xml
           python bankier_rss.py json       > docs/bankier-feed.json
-          # Sekcja giełdowa /gielda/wiadomosci
+
+          # --- Sekcja giełdowa /gielda/wiadomosci/ ---
           python bankier_rss.py rss  gielda > docs/bankier-gielda-rss.xml
           python bankier_rss.py json gielda > docs/bankier-gielda-feed.json
 
@@ -51,7 +53,7 @@ jobs:
             || true
 
           if git diff --cached --quiet; then
-            echo "Brak zmian w RSS/JSON – pomijam commit."
+            echo "Brak zmian — pomijam commit."
             exit 0
           fi
 
