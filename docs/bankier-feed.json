@@ -2,8 +2,21 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "Bankier.pl – Najnowsze wiadomości",
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
-  "description": "Automatyczny kanał JSON z Bankier.pl (ostatnie 48 godzin)",
   "items": [
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cypr-przejmuje-od-Danii-prezydencje-w-Radzie-UE-9062515.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cypr-przejmuje-od-Danii-prezydencje-w-Radzie-UE-9062515.html",
+      "title": "Cypr przejmuje od Danii prezydencję w Radzie UE",
+      "content_html": "Cypr obejmie 1 stycznia przewodnictwo w Radzie UE, reprezentującej państwa członkowskie. Rząd w Nikozji zamierza kontynuować prace nad częścią priorytetów poprzednich prezydencji, Polski i Danii, m.in. w dziedzinach obronności i rozszerzenia...",
+      "date_published": "2025-12-31T10:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-grudniu-2025-spadla-ponizej-celu-NBP-Inflacja-w-2025-roku-wyniosla-3-6-9062501.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-grudniu-2025-spadla-ponizej-celu-NBP-Inflacja-w-2025-roku-wyniosla-3-6-9062501.html",
+      "title": "Inflacja w grudniu spadła poniżej celu NBP. Ale całorocznie go przekroczyła",
+      "content_html": "Grudniowa inflacja w Polsce okazała się nieco niższa od oczekiwań ekonomistów i w ten sposób znalazła się minimalnie poniżej 2,5-procentowego celu NBP.",
+      "date_published": "2025-12-31T10:00:00+01:00"
+    },
     {
       "id": "https://www.bankier.pl/wiadomosc/Atak-zimy-i-paraliz-na-polnocy-Sztab-kryzysowy-zwoluje-kolejne-posiedzenie-9062365.html",
       "url": "https://www.bankier.pl/wiadomosc/Atak-zimy-i-paraliz-na-polnocy-Sztab-kryzysowy-zwoluje-kolejne-posiedzenie-9062365.html",
@@ -142,6 +155,13 @@
       "url": "https://www.bankier.pl/wiadomosc/Europa-nie-wierzy-Moskwie-Brak-dowodow-na-atak-dronow-na-rezydencje-Putina-9062276.html",
       "title": "Europa nie wierzy Moskwie, a co z USA? „Brak dowodów” na atak dronów na rezydencję Putina",
       "content_html": "Berlin i Paryż stanowczo reagują na rosyjskie oskarżenia dotyczące rzekomego ataku ukraińskich dronów na rezydencję Władimira Putina. Rząd kanclerza Friedricha Merza ostrzega, że Moskwa może wykorzystać ten incydent jako pretekst do eskalacji...",
+      "date_published": "2025-12-31T07:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Paraliz-na-lotnisku-w-Lizbonie-Rzad-zawiesza-unijny-system-EES-9062388.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paraliz-na-lotnisku-w-Lizbonie-Rzad-zawiesza-unijny-system-EES-9062388.html",
+      "title": "Paraliż na lotnisku w Lizbonie. Rząd zawiesza unijny system EES",
+      "content_html": "Rząd Portugalii ogłosił we wtorek wstrzymanie procesu wdrażania na lotnisku w Lizbonie nowego systemu kontroli granic Entry/Exit System (EES). Wprowadzany od października system, jak twierdzą portugalskie władze, był źródłem częstego paraliżu...",
       "date_published": "2025-12-31T07:04:00+01:00"
     },
     {
@@ -304,6 +324,13 @@
       "title": "Była dyrektor Sbierbanku wolna od sankcji. USA aktualizuje listę po pozwie sądowym",
       "content_html": "Resort finansów USA poinformował we wtorek o usunięciu z listy osób objętych sankcjami byłej dyrektorki rosyjskiego Sbierbanku Aleksandry Buriko. Kobieta była w grupie członków zarządu tego państwowego banku, którzy odeszli z pracy niedługo...",
       "date_published": "2025-12-30T19:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/51-3-mln-zl-na-rozwoj-Kuchni-Vikinga-SSSE-wspiera-duza-inwestycje-w-Bialymstoku-9061950.html",
+      "url": "https://www.bankier.pl/wiadomosc/51-3-mln-zl-na-rozwoj-Kuchni-Vikinga-SSSE-wspiera-duza-inwestycje-w-Bialymstoku-9061950.html",
+      "title": "51,3 mln zł na rozwój „Kuchni Vikinga”. SSSE wspiera dużą inwestycję w Białymstoku",
+      "content_html": "Suwalska Specjalna Strefa Ekonomiczna zdecydowała o wsparciu spółki Wschodni Front, działającej w branży spożywczej i zarządzającej marką cateringu dietetycznego Kuchnia Vikinga - podała SSSE w komunikacie prasowym. Deklarowana wartość nakładów...",
+      "date_published": "2025-12-30T19:06:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-Polyolefins-zlozyla-pozew-w-postepowaniu-arbitrazowym-przeciwko-Hyundai-Engineering-9062304.html",
@@ -675,20 +702,6 @@
       "title": "Dywidenda Quantum Software: 1,5 mln zł z kapitału zapasowego",
       "content_html": "Zarząd spółki zależnej od Quantum Software, Quantum Qguar, podjął uchwałę o wypłacie 1,5 mln zł dywidendy z kapitału zapasowego - podał Quantum Software w komunikacie. Termin wypłaty ustalono na 31 grudnia 2025 roku.",
       "date_published": "2025-12-30T11:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spyrosoft-kontynuuje-proces-due-diligence-dot-niemieckiego-podmiotu-z-branzy-IT-9061945.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spyrosoft-kontynuuje-proces-due-diligence-dot-niemieckiego-podmiotu-z-branzy-IT-9061945.html",
-      "title": "Spyrosoft prowadzi due diligence niemieckiej firmy IT",
-      "content_html": "Spyrosoft kontynuuje proces due diligence dot. niemieckiego podmiotu z branży IT, który powinien zakończyć się w I kwartale 2026 roku - poinformowała spółka w komunikacie. Spółka przedłużyła także okres trwania procesu przeglądu opcji strategicznych...",
-      "date_published": "2025-12-30T10:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielton-chce-uzupelnic-portfel-o-nowe-kategorie-produktow-Bielak-Wielton-wywiad-9061940.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielton-chce-uzupelnic-portfel-o-nowe-kategorie-produktow-Bielak-Wielton-wywiad-9061940.html",
-      "title": "Wielton chce uzupełnić portfel o nowe kategorie produktów",
-      "content_html": "Wielton chce zrealizować pomysły związane z uzupełnieniem portfela o nowe kategorie produktów, gdy sytuacja finansowa grupy ustabilizuje się - poinformował PAP Biznes Bartosz Bielak, wiceprezes oraz CFO Grupy Wielton. Jego zdaniem, 2026 rok może...",
-      "date_published": "2025-12-30T10:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
