@@ -1,81 +1,98 @@
-Bankier.pl – Automatyczny kanał RSS + JSON Feed
+Bankier.pl – Automatyczny kanał RSS + JSON Feed (News + Giełda)
 
-Ten projekt generuje automatyczny kanał RSS oraz JSON Feed z działu „Wiadomości” serwisu Bankier.pl
+Ten projekt generuje automatyczne kanały RSS 2.0 oraz JSON Feed 1.0 z serwisu Bankier.pl:
+
+📰 „Wiadomości”
+
 👉 https://www.bankier.pl/wiadomosc/
+
+📈 „Giełda – Wiadomości”
+
+👉 https://www.bankier.pl/gielda/wiadomosci/
 
 Skrypt w Pythonie:
 
-pobiera nagłówki wiadomości z pierwszych 5 stron działu
-
-wyciąga tytuł, link, datę (publikacji/aktualizacji) oraz zajawkę
-
-filtruje newsy do ostatnich 48 godzin
-
-generuje:
+✔ pobiera artykuły z pierwszych 5 stron obu działów
+✔ wyciąga tytuł, link, datę i zajawkę (jeśli dostępna)
+✔ filtruje newsy do ostatnich 48 godzin
+✔ generuje:
 
 RSS 2.0 (biblioteka feedgen)
 
-JSON Feed 1.0 (kompatybilny ze stylem Inoreader /view/json)
+JSON Feed 1.0 (kompatybilny ze stylem …/view/json np. Inoreader)
 
-uruchamiany jest automatycznie przez GitHub Actions
-
-wynik publikowany jest przez GitHub Pages jako statyczne pliki
+✔ działa automatycznie przez GitHub Actions
+✔ wynik publikowany jest jako statyczne pliki przez GitHub Pages
 
 🔗 Adresy feedów
-RSS
+📰 Wiadomości – RSS
+
 https://bbttoonnee-commits.github.io/rrs_json/bankier-rss.xml
 
-JSON Feed
+📰 Wiadomości – JSON Feed
+
 https://bbttoonnee-commits.github.io/rrs_json/bankier-feed.json
+
+📈 Giełda – RSS
+
+https://bbttoonnee-commits.github.io/rrs_json/bankier-gielda-rss.xml
+
+📈 Giełda – JSON Feed
+
+https://bbttoonnee-commits.github.io/rrs_json/bankier-gielda-feed.json
 
 📁 Struktura projektu
 .
 ├── bankier_rss.py              # Skrypt generujący RSS i JSON
 ├── requirements.txt
 ├── docs/
-│   ├── bankier-rss.xml         # Wygenerowany RSS
-│   └── bankier-feed.json       # Wygenerowany JSON Feed
+│   ├── bankier-rss.xml         # RSS – Wiadomości
+│   ├── bankier-feed.json       # JSON – Wiadomości
+│   ├── bankier-gielda-rss.xml  # RSS – Giełda
+│   └── bankier-gielda-feed.json# JSON – Giełda
 └── .github/
     └── workflows/
         └── bankier-rss.yml     # Workflow GitHub Actions
 
 ⚙️ Jak działa skrypt
-
 Pobiera HTML z:
+📰 Wiadomości
+/wiadomosc/
+/wiadomosc/2
+/wiadomosc/3
+/wiadomosc/4
+/wiadomosc/5
 
-https://www.bankier.pl/wiadomosc/
+📈 Wiadomości giełdowe
+/gielda/wiadomosci/
+/gielda/wiadomosci/2
+/gielda/wiadomosci/3
+/gielda/wiadomosci/4
+/gielda/wiadomosci/5
 
-https://www.bankier.pl/wiadomosc/2
+Dla każdego artykułu zapisywane są:
 
-… do 5 strony
+✔ tytuł
+✔ pełny link
+✔ data publikacji / aktualizacji (używana nowsza)
+✔ zajawka (jeśli jest — bez „Czytaj dalej”)
 
-Z listy artykułów wyciąga:
+Czas jest konwertowany do Europe/Warsaw (CET/CEST).
 
-tytuł
+➡️ Do feedów trafiają tylko artykuły z ostatnich 48h.
 
-pełny link
-
-datę (publikacji lub aktualizacji – używana jest nowsza)
-
-zajawkę (bez „Czytaj dalej”)
-
-Konwertuje czas do Europe/Warsaw
-
-Filtrowane są artykuły z ostatnich 48h
-
-Tworzone są dwa feedy:
-
+📡 Tworzone są dwa formaty feedów
 RSS 2.0
 
 GUID = pełny URL artykułu
 
-opis = zajawka
+description = zajawka
 
-pubDate = data ze strefą TZ
+pubDate = data z timezone
 
 JSON Feed 1.0
 
-Każdy wpis zawiera m.in.:
+Każdy wpis ma m.in.:
 
 {
   "id": "<URL>",
@@ -85,17 +102,18 @@ Każdy wpis zawiera m.in.:
   "date_published": "2025-12-30T21:09:00+01:00"
 }
 
-
-Workflow zapisuje pliki do:
-
+Pliki zapisywane są do:
 docs/bankier-rss.xml
 docs/bankier-feed.json
+docs/bankier-gielda-rss.xml
+docs/bankier-gielda-feed.json
 
 🔧 Konfiguracja
 
 W bankier_rss.py możesz zmienić:
 
-NUM_PAGES = 5
+NUM_PAGES_NEWS = 5
+NUM_PAGES_GIELDA = 5
 HOURS_BACK = 48
 SLEEP_BETWEEN_REQUESTS = 2.5
 
@@ -103,7 +121,7 @@ SLEEP_BETWEEN_REQUESTS = 2.5
 np.:
 
 HOURS_BACK = 72
-NUM_PAGES = 3
+NUM_PAGES_NEWS = 3
 
 
 Nagłówki HTTP ustawisz w HEADERS.
@@ -115,19 +133,21 @@ Instalacja zależności:
 pip install requests beautifulsoup4 feedgen pytz
 
 
-lub
+lub:
 
 pip install -r requirements.txt
 
-
-Generowanie RSS:
-
+Generowanie RSS — Wiadomości
 python bankier_rss.py rss > docs/bankier-rss.xml
 
-
-Generowanie JSON Feed:
-
+Generowanie JSON — Wiadomości
 python bankier_rss.py json > docs/bankier-feed.json
+
+Generowanie RSS — Giełda
+python bankier_rss.py rss gielda > docs/bankier-gielda-rss.xml
+
+Generowanie JSON — Giełda
+python bankier_rss.py json gielda > docs/bankier-gielda-feed.json
 
 🤖 GitHub Actions
 
@@ -138,15 +158,14 @@ Workflow:
 
 Uruchamia się:
 
-co 30 minut
+✔ co 30 minut
+✔ lub ręcznie
 
-lub ręcznie
-
-Commit jest tworzony tylko gdy pliki się zmienią.
+Commit tworzony jest tylko jeśli pliki się zmieniły.
 
 🌐 GitHub Pages
 
-Ustaw w repozytorium:
+Włącz w repozytorium:
 
 Settings → Pages
 
@@ -156,38 +175,45 @@ Branch: main
 
 Folder: /docs
 
-Feed RSS dostępny pod:
+📡 Finalne adresy feedów
+📰 RSS
 
 https://bbttoonnee-commits.github.io/rrs_json/bankier-rss.xml
 
-
-Feed JSON pod:
+📰 JSON
 
 https://bbttoonnee-commits.github.io/rrs_json/bankier-feed.json
 
+📈 RSS
+
+https://bbttoonnee-commits.github.io/rrs_json/bankier-gielda-rss.xml
+
+📈 JSON
+
+https://bbttoonnee-commits.github.io/rrs_json/bankier-gielda-feed.json
+
 🛠 Troubleshooting
+❌ Brak pliku RSS/JSON
 
-Brak pliku RSS/JSON
+✔ sprawdź logi Actions
+✔ upewnij się, że commit się wykonał
 
-sprawdź logi Actions
+🕑 Brak nowych artykułów
 
-upewnij się, że commit się wykonał
+✔ działa filtr ostatnich 48h
+➡️ zmień HOURS_BACK
 
-Brak nowych artykułów
+🚦 „Too many requests”
 
-działa filtr ostatnich 48h
+✔ zwiększ:
 
-zmień HOURS_BACK
-
-Za dużo requestów
-
-zwiększ SLEEP_BETWEEN_REQUESTS
+SLEEP_BETWEEN_REQUESTS
 
 🚀 Pomysły na rozwój
 
 parametryzacja przez zmienne środowiskowe
 
-pełne pobieranie treści artykułu
+pobieranie pełnej treści artykułu
 
 cache HTTP
 
@@ -195,7 +221,9 @@ walidacja XML/JSON w workflow
 
 paginacja JSON Feed
 
-webhook / Telegram bot
+integracja z Telegram bot / webhook
+
+automatyczne testy
 
 🧩 Technologie
 
@@ -205,4 +233,4 @@ GitHub Actions
 
 GitHub Pages
 
-➡️ bez własnego serwera, w pełni serverless
+➡️ bez własnego serwera — w pełni serverless
