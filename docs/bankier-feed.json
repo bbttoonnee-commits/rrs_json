@@ -5,6 +5,55 @@
   "description": "Automatyczny kanał JSON z Bankier.pl (ostatnie 48 godzin)",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Najwazniejsze-wydarzenia-w-swiecie-pieniadza-w-2025-roku-Dolar-zloto-WIG20-i-nie-tylko-9061578.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najwazniejsze-wydarzenia-w-swiecie-pieniadza-w-2025-roku-Dolar-zloto-WIG20-i-nie-tylko-9061578.html",
+      "title": "Najważniejsze wydarzenia w świecie pieniądza w 2025 roku. Dolar, złoto, WIG20 i nie tylko",
+      "content_html": "Był to rok mocnego złotego i pięknej hossy na warszawskiej giełdzie. Rok rajdu cen złota i zapaści długoterminowego długu suwerennego. Był to też kolejny rok przybliżający nas do „globalnego resetu” systemu finansowego.",
+      "date_published": "2025-12-31T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ten-pociag-juz-odjechal-Ekonomista-mBanku-ostrzega-rzad-i-firmy-przed-spowalnianiem-zmian-9061704.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ten-pociag-juz-odjechal-Ekonomista-mBanku-ostrzega-rzad-i-firmy-przed-spowalnianiem-zmian-9061704.html",
+      "title": "\"Ten pociąg już odjechał\". Ekonomista mBanku ostrzega rząd i firmy przed spowalnianiem zmian",
+      "content_html": "Bankier.pl zapytał głównych ekonomistów banków o to, jak postrzegają wpływ zrównoważonego rozwoju na polską gospodarkę, przedsiębiorstwa i sektor bankowy. Zależy nam, żeby to zagadnienie pokazać przez pryzmat twardych danych oraz trwałych...",
+      "date_published": "2025-12-31T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Na-nic-protesty-szykuje-sie-dokrecenie-sruby-w-kredytach-9061993.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-nic-protesty-szykuje-sie-dokrecenie-sruby-w-kredytach-9061993.html",
+      "title": "Na nic protesty, szykuje się dokręcenie śruby w kredytach",
+      "content_html": "Tabela zajmująca blisko 1000 stron – taki jest efekt opiniowania nowej ustawy o kredycie konsumenckim. Uwagi zgłaszano do niemal każdego artykułu projektu. W wielu kontrowersyjnych kwestiach UOKiK pozostaje jednak nieugięty.",
+      "date_published": "2025-12-31T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rynek-nieruchomosci-w-2026-roku-eksperci-mowia-co-z-cenami-mieszkan-dzialek-i-najmu-9062087.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-nieruchomosci-w-2026-roku-eksperci-mowia-co-z-cenami-mieszkan-dzialek-i-najmu-9062087.html",
+      "title": "Co w nieruchomościach w 2026 roku? Najpierw stabilizacja cen, a później podwyżki",
+      "content_html": "Pierwsze miesiące ze stabilnymi stawkami i odpalenie wzrostów cen mieszkań w drugiej połowie 2026 r. – tak na rynku nieruchomości ma wyglądać rozpoczynający się lada chwila 2026 r. Wiele zależeć będzie jednak od dalszego zwiększania dostępności...",
+      "date_published": "2025-12-31T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-2025-roku-nie-brakowalo-zwolnien-Te-firmy-pozbyly-sie-najwiecej-pracownikow-9062206.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-2025-roku-nie-brakowalo-zwolnien-Te-firmy-pozbyly-sie-najwiecej-pracownikow-9062206.html",
+      "title": "Firmy tną etaty. Tysiące Polaków straciło pracę w 2025 roku",
+      "content_html": "W mijającym roku polski rynek pracy zmagał się z jedną z największych fal zwolnień grupowych ostatnich lat. Redukcje dotknęły zarówno duże korporacje, jak PKP Cargo, Poczta Polska czy Fujitsu, jak i mniejsze przedsiębiorstwa produkcyjne, a...",
+      "date_published": "2025-12-31T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-ponownie-konczy-dzien-z-niewielkimi-spadkami-9062370.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-ponownie-konczy-dzien-z-niewielkimi-spadkami-9062370.html",
+      "title": "Wall Street ponownie kończy dzień z niewielkimi spadkami",
+      "content_html": "Wtorkowa sesja na Wall Street zakończyła się ponownie niewielkimi spadkami głównych indeksów. W centrum uwagi były rosnące akcje Meta Platforms, ale indeksy ciągnęły w dół inne firmy technologiczne oraz spółki finansowe.",
+      "date_published": "2025-12-30T23:01:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-zimy-i-paraliz-na-polnocy-Sztab-kryzysowy-zwoluje-kolejne-posiedzenie-9062365.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-zimy-i-paraliz-na-polnocy-Sztab-kryzysowy-zwoluje-kolejne-posiedzenie-9062365.html",
+      "title": "Atak zimy i paraliż na północy. Sztab kryzysowy zwołuje kolejne posiedzenie",
+      "content_html": "We wtorek w całym kraju panują trudne warunki pogodowe. Ostrzeżenia przed śnieżycami i oblodzeniem wydały IMiGW i RCB. Kolejne spotkanie sztabu kryzysowego w związku z zagrożeniami pogodowymi odbędzie się w środę o godz. 9.00.",
+      "date_published": "2025-12-30T22:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Disney-zaplaci-10-mln-dolarow-kary-Nielegalnie-zbieral-dane-dzieci-9062340.html",
       "url": "https://www.bankier.pl/wiadomosc/Disney-zaplaci-10-mln-dolarow-kary-Nielegalnie-zbieral-dane-dzieci-9062340.html",
       "title": "Disney zapłaci 10 mln dolarów kary. Nielegalnie zbierał dane dzieci",
@@ -516,13 +565,6 @@
       "date_published": "2025-12-30T10:30:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Spolki-zalezne-Agory-rozpoczely-procedury-konsultacji-ws-zmniejszenia-zatrudnienia-9061925.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolki-zalezne-Agory-rozpoczely-procedury-konsultacji-ws-zmniejszenia-zatrudnienia-9061925.html",
-      "title": "Duże cięcia w mediach. Znamy skalę zwolnień w poszczególnych redakcjach",
-      "content_html": "Spółki zależne Agory, Wyborcza, Gazeta.pl oraz Eurozet Consulting, rozpoczęły procedury konsultacji w sprawie zmniejszenia zatrudnienia - poinformowała Agora w komunikacie. Łącznie GK Agora w ramach restrukturyzacji zatrudnienia chce zwolnić...",
-      "date_published": "2025-12-30T10:24:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Start-budowy-Portu-Polska-W-2026-roku-rusza-prace-ziemne-9061901.html",
       "url": "https://www.bankier.pl/wiadomosc/Start-budowy-Portu-Polska-W-2026-roku-rusza-prace-ziemne-9061901.html",
       "title": "Start budowy Portu Polska. W 2026 roku ruszą prace ziemne",
@@ -661,48 +703,6 @@
       "title": "Ceny miedzi w Londynie zwyżkują już 10. sesję",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną już 10. sesję i zmierzają do zaliczenia najdłuższej serii zwyżek od 2017 r. - informują maklerzy.",
       "date_published": "2025-12-30T07:51:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kryzys-dzietnosci-w-Polsce-powiatowej-Scenariusz-koreanski-realizuje-sie-w-Polsce-9061813.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kryzys-dzietnosci-w-Polsce-powiatowej-Scenariusz-koreanski-realizuje-sie-w-Polsce-9061813.html",
-      "title": "Kryzys dzietności w Polsce powiatowej. Scenariusz koreański realizuje się w naszym kraju",
-      "content_html": "Już w dziewięćdziesięciu powiatach wskaźnik dzietności wynosi poniżej jednego dziecka na kobietę. Dzietność powyżej średniej krajowej jest w rejonach skupionych wokół największych miast - podaje wtorkowy „Puls Biznesu”.",
-      "date_published": "2025-12-30T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-uderzyly-na-terenie-Wenezueli-Instalacje-te-zostaly-po-prostu-wysadzone-9061770.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-uderzyly-na-terenie-Wenezueli-Instalacje-te-zostaly-po-prostu-wysadzone-9061770.html",
-      "title": "USA uderzyły na terenie Wenezueli. \"Instalacje te zostały po prostu wysadzone\"",
-      "content_html": "Prezydent USA Donald Trump powiedział w poniedziałek, że siły amerykańskie doprowadziły do eksplozji w dokach w jednym z portów w Wenezueli, gdzie przemytnicy narkotyków mieli załadowywać swoje łodzie. Do ataku miało dojść w ubiegłym tygodniu...",
-      "date_published": "2025-12-30T07:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-stabilne-Inwestorzy-waza-ryzyka-geopolityczne-9061872.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-stabilne-Inwestorzy-waza-ryzyka-geopolityczne-9061872.html",
-      "title": "Ceny ropy stabilne. Inwestorzy ważą ryzyka geopolityczne",
-      "content_html": "Ropa naftowa notuje we wtorek niewielkie zmiany notowań. Inwestorzy oceniają napięcia geopolityczne - od Wenezueli, przez Rosję, po Iran, a także niepokoją się o nadwyżkę ropy na globalnych rynkach paliw - informują maklerzy.",
-      "date_published": "2025-12-30T07:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/System-Oriesznik-na-Bialorusi-Putin-chce-wypchnac-NATO-za-Labe-9061829.html",
-      "url": "https://www.bankier.pl/wiadomosc/System-Oriesznik-na-Bialorusi-Putin-chce-wypchnac-NATO-za-Labe-9061829.html",
-      "title": "System Oriesznik na Białorusi. \"Putin chce wypchnąć NATO za Łabę\"",
-      "content_html": "Rosja dąży do przekształcenia naszej części Europy w strefę buforową de facto bezbronną lub niemal bezbronną wobec jej sił zbrojnych – powiedział PAP Witold Rodkiewicz z OSW, komentując informacje o rozmieszczeniu systemu balistycznego Oriesznik...",
-      "date_published": "2025-12-30T07:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-uspokaja-Xi-nie-zaatakuje-Tajwanu-Tymczasem-manewry-trwaja-kolejny-dzien-9061795.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-uspokaja-Xi-nie-zaatakuje-Tajwanu-Tymczasem-manewry-trwaja-kolejny-dzien-9061795.html",
-      "title": "Trump uspokaja: Xi nie zaatakuje Tajwanu. Tymczasem manewry trwają kolejny dzień",
-      "content_html": "Prezydent USA Donald Trump powiedział w poniedziałek, że nie martwią go manewry chińskiego wojska wokół Tajwanu i ocenił, że chiński przywódca Xi Jinping nie zdecyduje się na agresję wobec wyspy. Zaznaczył, że Chiny wielokrotnie wcześniej...",
-      "date_published": "2025-12-30T07:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lawrow-poucza-Zachod-Rosja-ma-strategiczna-inicjatywe-na-Ukrainie-9061788.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lawrow-poucza-Zachod-Rosja-ma-strategiczna-inicjatywe-na-Ukrainie-9061788.html",
-      "title": "Ławrow poucza Zachód: Rosja ma strategiczną inicjatywę na Ukrainie",
-      "content_html": "Zachód musi zrozumieć, że Rosja ma strategiczną inicjatywę na Ukrainie - powiedział w poniedziałkowym wywiadzie dla rosyjskiej prasy minister spraw zagranicznych Rosji Siergiej Ławrow, cytowany przez agencję Reutera.",
-      "date_published": "2025-12-30T07:19:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
