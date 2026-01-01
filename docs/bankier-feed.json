@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html",
+      "title": "Ofiary śmiertelne i strzały na prowincji. Protesty w Iranie przybierają na sile",
+      "content_html": "Co najmniej trzy osoby zginęły czwartek w trakcie protestów w Iranie - poinformowała w piątek agencja AFP powołując się na lokalne media. Demonstracje rozprzestrzeniły się poza największe miasta - przekazała AP.",
+      "date_published": "2026-01-01T18:42:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
       "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
       "title": "Tragedia w Sylwestra. Dziesiątki ofiar śmiertelnych w Szwajcarii",
@@ -27,7 +34,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/ZUS-ma-czas-do-marca-Rusza-wyplata-wyrownan-dla-ponad-100-tys-osob-9062902.html",
       "url": "https://www.bankier.pl/wiadomosc/ZUS-ma-czas-do-marca-Rusza-wyplata-wyrownan-dla-ponad-100-tys-osob-9062902.html",
-      "title": "ZUS ma czas do marca. Rusza wypłata wyrównań dla ponad 100 tys. osób",
+      "title": "Rusza wypłata wyrównań dla ponad 100 tys. osób. ZUS ma czas do marca",
       "content_html": "1 stycznia weszły w życie przepisy w sprawie ponownego przeliczenia wysokości emerytur przyznanych lub przeliczonych w czerwcu w latach 2009–2019, a także rent rodzinnych po osobach, które miały takie świadczenia. ZUS przeliczy je automatycznie...",
       "date_published": "2026-01-01T18:00:00+01:00"
     },
@@ -695,13 +702,6 @@
       "title": "W Polsce ruszy pierwsza piaskownica regulacyjna. Znamy datę",
       "content_html": "Ministerstwo Cyfryzacji uruchomi pierwszą w Polsce piaskownicę regulacyjną do 2 sierpnia 2026 r. - podało MC w komunikacie. Wskazano, że umożliwi ona przedsiębiorcom bezpieczne testowanie rozwiązań AI.",
       "date_published": "2025-12-31T10:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kobosko-rezygnuje-z-udzialu-w-wyborach-na-szefa-Polski-2050-9062527.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kobosko-rezygnuje-z-udzialu-w-wyborach-na-szefa-Polski-2050-9062527.html",
-      "title": "Kobosko rezygnuje z udziału w wyborach na szefa Polski 2050",
-      "content_html": "Polska 2050 musi zejść ze ścieżki wegetacji; by tak się stało, w wyborach na szefa partii należy opowiedzieć się za totalną zmianą - napisał Michał Kobosko w liście do działaczy partii. Europoseł, który zrezygnował ze startu w tych wyborach...",
-      "date_published": "2025-12-31T10:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
