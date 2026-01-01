@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/A-co-jesli-rynki-sie-myla-Scenariusze-na-2026-rok-ktorych-nikt-nie-bierze-pod-uwage-9056153.html",
+      "url": "https://www.bankier.pl/wiadomosc/A-co-jesli-rynki-sie-myla-Scenariusze-na-2026-rok-ktorych-nikt-nie-bierze-pod-uwage-9056153.html",
+      "title": "BANKIER.PL A co, jeśli rynki się mylą? Scenariusze na 2026 rok, których nikt nie bierze pod uwagę Rynki finansowe nie lubią próżni. Gdy przez dłuższy czas „nic się nie dzieje”, inwestorzy zaczynają wierzyć, że tak będzie zawsze. A potem przychodzi jeden kwartał, jedno zdarzenie, jeden nagłówek – i świat wywraca się do góry nogami.",
+      "content_html": "",
+      "date_published": "2026-01-01T16:33:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Najwazniejsze-wydarzenia-w-swiecie-pieniadza-w-2025-roku-Dolar-zloto-WIG20-i-nie-tylko-9061578.html",
       "url": "https://www.bankier.pl/wiadomosc/Najwazniejsze-wydarzenia-w-swiecie-pieniadza-w-2025-roku-Dolar-zloto-WIG20-i-nie-tylko-9061578.html",
       "title": "TYLKO U NAS Najważniejsze wydarzenia w świecie pieniądza w 2025 roku. Dolar, złoto, WIG20 i nie tylko Był to rok mocnego złotego i pięknej hossy na warszawskiej giełdzie. Rok rajdu cen złota i zapaści długoterminowego długu suwerennego. Był to też kolejny rok przybliżający nas do „globalnego resetu” systemu finansowego.",
@@ -149,20 +156,6 @@
       "title": "Spółka z grupy Grenevia z warunkową umową o dofinansowanie realizacji inwestycji z NFOŚiGW Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej oraz PST (spółka z segmentu OZE Grupy Grenevia) zawarły ostatnią z trzech warunkowych umów o dofinansowanie w ramach programu priorytetowego \"Magazyny energii elektrycznej i związana z nimi infrastruktura dla poprawy stabilności polskiej sieci elektroenergetycznej\" - poinformowała Grenevia w komunikacie.",
       "content_html": "",
       "date_published": "2025-12-30T16:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-zawarl-z-NFOSiGW-umowy-o-dofinansowanie-z-Funduszu-Modernizacyjnego-w-wys-537-75-mln-zl-9062195.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-zawarl-z-NFOSiGW-umowy-o-dofinansowanie-z-Funduszu-Modernizacyjnego-w-wys-537-75-mln-zl-9062195.html",
-      "title": "Tauron zawarł z NFOŚiGW umowy o dofinansowanie z Funduszu Modernizacyjnego w wys. 537,75 mln zł Spółki z grupy Tauron zawarły z Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej umowy o dofinansowanie z Funduszu Modernizacyjnego o łącznej wartości 537,75 mln zł - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2025-12-30T16:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-LPP-do-25-879-zl-9062174.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-LPP-do-25-879-zl-9062174.html",
-      "title": "DM BOŚ podwyższył wycenę akcji LPP do 25 879 zł Analitycy DM BOŚ, w raporcie z 15 grudnia, podwyższyli wycenę akcji LPP w horyzoncie 12-miesięcznym do 25.879 zł z 20.454 zł ostatnio, utrzymując rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2025-12-30T16:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
