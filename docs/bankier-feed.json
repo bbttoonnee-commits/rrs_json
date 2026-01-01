@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wzrosla-akcyza-na-wyroby-alkoholowe-i-papierosy-9062927.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wzrosla-akcyza-na-wyroby-alkoholowe-i-papierosy-9062927.html",
+      "title": "Wzrosła akcyza na wyroby alkoholowe i papierosy",
+      "content_html": "1 stycznia w górę idzie akcyza na wyroby alkoholowe, papierosy i wyroby tytoniowe oraz na e-papierosy. Jest to efekt ustaw uchwalonych m.in. w 2025 r.",
+      "date_published": "2026-01-01T10:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Putin-w-oredziu-noworocznym-wyrazil-wiare-w-zwyciestwo-w-Ukrainie-9062852.html",
+      "url": "https://www.bankier.pl/wiadomosc/Putin-w-oredziu-noworocznym-wyrazil-wiare-w-zwyciestwo-w-Ukrainie-9062852.html",
+      "title": "Putin w orędziu noworocznym wyraził wiarę w zwycięstwo w Ukrainie",
+      "content_html": "Przywódca Rosji Władimir Putin oświadczył w środę w orędziu noworocznym, że kraj solidaryzuje się z żołnierzami stacjonującymi w Ukrainie i wierzy w zwycięstwo. Zapewnił, że Rosja będzie osiągać postawione cele.",
+      "date_published": "2026-01-01T09:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koncern-NIS-bedzie-dzialal-mimo-sankcji-Specjalna-zgoda-od-USA-9062867.html",
       "url": "https://www.bankier.pl/wiadomosc/Koncern-NIS-bedzie-dzialal-mimo-sankcji-Specjalna-zgoda-od-USA-9062867.html",
       "title": "Koncern NIS będzie działał mimo sankcji. Specjalna zgoda od USA",
@@ -142,6 +156,41 @@
       "title": "5 mln dolarów dla każdego Afroamerykanina? Kontrowersyjna ustawa burmistrza San Francisco",
       "content_html": "Burmistrz San Francisco Daniel Lurie podpisał kontrowersyjną ustawę o odszkodowaniach, na mocy której powstanie Fundusz Reperacyjny. Będzie on mógł przyznać każdemu uprawnionemu do otrzymania odszkodowania Afroamerykaninowi 5 mln dolarów.",
       "date_published": "2026-01-01T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Premier-Starmer-w-oredziu-przywrocenie-stabilnosci-w-kraju-bedzie-nasza-sila-9062888.html",
+      "url": "https://www.bankier.pl/wiadomosc/Premier-Starmer-w-oredziu-przywrocenie-stabilnosci-w-kraju-bedzie-nasza-sila-9062888.html",
+      "title": "Premier Starmer w orędziu: przywrócenie stabilności w kraju będzie naszą siłą",
+      "content_html": "Brytyjski premier Keir Starmer w wygłoszonym w środę przed północą orędziu noworocznym przyznał, że sytuacja w kraju „od jakiegoś czasu” jest trudna i frustruje go tempo zachodzących zmian. Jednocześnie obiecał przywrócenie stabilności...",
+      "date_published": "2026-01-01T00:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-w-oredziu-Ukraincy-chca-zakonczenia-wojny-ale-nie-konca-Ukrainy-9062885.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-w-oredziu-Ukraincy-chca-zakonczenia-wojny-ale-nie-konca-Ukrainy-9062885.html",
+      "title": "Zełenski w orędziu: Ukraińcy chcą zakończenia wojny, ale nie końca Ukrainy",
+      "content_html": "W orędziu noworocznym wygłoszonym w środę wieczorem prezydent Ukrainy Wołodymyr Zełenski oświadczył, że Ukraińcy chcą zakończenia wojny, ale nie końca Ukrainy i w żadnym razie nie poddadzą się Rosji.",
+      "date_published": "2025-12-31T23:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sily-USA-przeprowadzily-kolejny-atak-na-lodzie-domniemanych-przemytnikow-narkotykow-9062884.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sily-USA-przeprowadzily-kolejny-atak-na-lodzie-domniemanych-przemytnikow-narkotykow-9062884.html",
+      "title": "Siły USA przeprowadziły kolejny atak na łodzie domniemanych przemytników narkotyków",
+      "content_html": "Siły USA przeprowadziły we wtorek kolejny atak na trzy łodzie domniemanych przemytników narkotyków, zabijając trzy osoby - poinformowało w środę Dowództwo Południowe USA (SOUTHCOM), Część pasażerów zdołała wyskoczyć z łodzi przed zatopieniem...",
+      "date_published": "2025-12-31T23:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-oglosil-wycofanie-Gwardii-Narodowej-Sad-nigdy-nie-pozwolil-na-jej-wejscie-9062883.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-oglosil-wycofanie-Gwardii-Narodowej-Sad-nigdy-nie-pozwolil-na-jej-wejscie-9062883.html",
+      "title": "Trump ogłosił \"wycofanie\" Gwardii Narodowej. Sąd nigdy nie pozwolił na jej wejście",
+      "content_html": "Prezydent USA Donald Trump ogłosił w środę, że wycofa wojska Gwardii Narodowej z Los Angeles, Portland i Chicago. Nie wykluczył jednak ich powrotu w przypadku wzrostu przestępczości. Decyzje Trumpa o wysyłaniu Gwardii Narodowej były kwestionowane...",
+      "date_published": "2025-12-31T23:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-rok-na-minusach-ale-S-P-500-zyskal-16-proc-w-25-9062877.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-rok-na-minusach-ale-S-P-500-zyskal-16-proc-w-25-9062877.html",
+      "title": "Wall Street kończy rok na minusach, ale S&P 500 zyskał 16 proc. w '25",
+      "content_html": "Środowa sesja na Wall Street zakończyła się trzeci dzień z rzędu spadkami głównych indeksów. W skali całego roku indeksy zanotowały jednak wyraźne wzrosty napędzane hossą na spółki związane ze sztuczną inteligencją.",
+      "date_published": "2025-12-31T22:20:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lider-Ruchu-Obrony-Granic-stanie-przed-sadem-Jest-akt-oskarzenia-przeciwko-Bakiewiczowi-9062843.html",
@@ -653,20 +702,6 @@
       "title": "Co w nieruchomościach w 2026 roku? Najpierw stabilizacja cen, a później podwyżki",
       "content_html": "Pierwsze miesiące ze stabilnymi stawkami i odpalenie wzrostów cen mieszkań w drugiej połowie 2026 r. – tak na rynku nieruchomości ma wyglądać rozpoczynający się lada chwila 2026 r. Wiele zależeć będzie jednak od dalszego zwiększania dostępności...",
       "date_published": "2025-12-31T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-2025-roku-nie-brakowalo-zwolnien-Te-firmy-pozbyly-sie-najwiecej-pracownikow-9062206.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-2025-roku-nie-brakowalo-zwolnien-Te-firmy-pozbyly-sie-najwiecej-pracownikow-9062206.html",
-      "title": "Firmy tną etaty. Tysiące Polaków straciło pracę w 2025 roku",
-      "content_html": "W mijającym roku polski rynek pracy zmagał się z jedną z największych fal zwolnień grupowych ostatnich lat. Redukcje dotknęły zarówno duże korporacje, jak PKP Cargo, Poczta Polska czy Fujitsu, jak i mniejsze przedsiębiorstwa produkcyjne, a...",
-      "date_published": "2025-12-31T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-ponownie-konczy-dzien-z-niewielkimi-spadkami-9062370.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-ponownie-konczy-dzien-z-niewielkimi-spadkami-9062370.html",
-      "title": "Wall Street ponownie kończy dzień z niewielkimi spadkami",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się ponownie niewielkimi spadkami głównych indeksów. W centrum uwagi były rosnące akcje Meta Platforms, ale indeksy ciągnęły w dół inne firmy technologiczne oraz spółki finansowe.",
-      "date_published": "2025-12-30T23:01:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
