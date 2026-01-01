@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
+      "title": "Tragedia w Sylwestra. Dziesiątki ofiar śmiertelnych w Szwajcarii",
+      "content_html": "Kilkadziesiąt osób zginęło, a około stu zostało rannych, przeważnie ciężko, w noc sylwestrową wskutek pożaru, który wybuchł w kurorcie narciarskim Crans-Montana w południowej Szwajcarii – poinformowała w czwartek policja.",
+      "date_published": "2026-01-01T12:21:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Badzcie-jak-Polska-Donald-Tusk-z-noworocznym-przeslaniem-do-Europy-9062999.html",
       "url": "https://www.bankier.pl/wiadomosc/Badzcie-jak-Polska-Donald-Tusk-z-noworocznym-przeslaniem-do-Europy-9062999.html",
       "title": "„Bądźcie jak Polska”. Donald Tusk z noworocznym przesłaniem do Europy",
@@ -23,13 +30,6 @@
       "title": "Rekordowe straty Rosji. \"Najkrwawsze 10 miesięcy od początku inwazji\"",
       "content_html": "Liczba Rosjan poległych na froncie w ciągu ostatnich 10 miesięcy jest najwyższa od rozpoczęcia przez Kreml pełnowymiarowej inwazji na Ukrainę w 2022 r. – wynika z opublikowanej we wtorek analizy brytyjskiej stacji BBC i rosyjskiego portalu Mediazona...",
       "date_published": "2026-01-01T10:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
-      "title": "Tragedia w Sylwestra. Dziesiątki ofiar śmiertelnych w Szwajcarii",
-      "content_html": "Dziesiątki osób zginęły, a około 100 odniosło obrażenia na skutek eksplozji i pożaru w noc sylwestrową w kurorcie narciarskim Crans-Montana w południowej Szwajcarii – poinformowała w czwartek regionalna policja. Zdarzenie nie jest uważane...",
-      "date_published": "2026-01-01T10:39:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-zredukuje-armie-Gen-Syrski-komentuje-zalozenia-planu-pokojowego-9061933.html",
