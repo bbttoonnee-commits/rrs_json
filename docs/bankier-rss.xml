@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 01 Jan 2026 21:22:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 21:39:00 +0100</lastBuildDate>
     <item>
       <title>Prokurator generalny Iranu grozi „stanowczą reakcją” na protesty</title>
       <link>https://www.bankier.pl/wiadomosc/Prokurator-generalny-Iranu-grozi-stanowcza-reakcja-na-protesty-9062602.html</link>
@@ -619,13 +619,6 @@
       <pubDate>Thu, 01 Jan 2026 18:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Ofiary śmiertelne i strzały na prowincji. Protesty w Iranie przybierają na sile</title>
-      <link>https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html</link>
-      <description>Co najmniej trzy osoby zginęły czwartek w trakcie protestów w Iranie - poinformowała w piątek agencja AFP powołując się na lokalne media. Demonstracje rozprzestrzeniły się poza największe miasta - przekazała AP.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html</guid>
-      <pubDate>Thu, 01 Jan 2026 18:42:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Burkina Faso i Mali nałożyły sankcje na obywateli USA</title>
       <link>https://www.bankier.pl/wiadomosc/Burkina-Faso-i-Mali-nalozyly-sankcje-na-obywateli-USA-9063064.html</link>
       <description>Przywódcy Burkina Faso i Mali, kapitan Ibrahim Traore i pułkownik Assimi Goita ogłosili pełny zakaz podróży dla obywateli Stanów Zjednoczonych w odpowiedzi na podobny krok Waszyngtonu wobec obywateli tych dwóch krajów Afryki Zachodniej. Restrykcje...</description>
@@ -701,6 +694,20 @@
       <description>Administracja Trumpa przyznała wizę Lauren Chen, prawicowej publicystce z Kanady, która zmuszona była opuścić USA po ujawnieniu afery związanej z finansowaniem jej firmy i prawicowych influencerów przez rosyjskie służby - podał portal The Bulwark...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-rehabilituje-prawicowe-media-Lauren-Chen-wraca-mimo-zarzutow-o-pranie-pieniedzy-z-Rosji-9062333.html</guid>
       <pubDate>Thu, 01 Jan 2026 21:22:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rosja poprosiła USA o zaprzestanie pościgu za tankowcem</title>
+      <link>https://www.bankier.pl/wiadomosc/Rosja-poprosila-USA-o-zaprzestanie-poscigu-za-tankowcem-9063075.html</link>
+      <description>Rząd Rosji zwrócił się formalnie do Stanów Zjednoczonych z wnioskiem dyplomatycznym o zaprzestanie pościgu za tankowcem, który płynął do Wenezueli, a obecnie ucieka przed Strażą Przybrzeżną na Oceanie Atlantyckim - poinformował w czwartek...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rosja-poprosila-USA-o-zaprzestanie-poscigu-za-tankowcem-9063075.html</guid>
+      <pubDate>Thu, 01 Jan 2026 21:25:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Ofiary śmiertelne i strzały na prowincji. Protesty w Iranie przybierają na sile</title>
+      <link>https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html</link>
+      <description>Co najmniej trzy osoby zginęły czwartek w trakcie protestów w Iranie - poinformowała w piątek agencja AFP powołując się na lokalne media. Demonstracje rozprzestrzeniły się poza największe miasta - przekazała AP.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html</guid>
+      <pubDate>Thu, 01 Jan 2026 21:39:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
