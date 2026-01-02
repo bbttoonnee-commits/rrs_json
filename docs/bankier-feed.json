@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html",
+      "url": "https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html",
+      "title": "CSU chce deportacji większości syryjskich uchodźców. Powstanie specjalny terminal?",
+      "content_html": "Bawarskie CSU zamierza doprowadzić do deportacji z Niemiec większości syryjskich uchodźców - wynika z dokumentu partyjnego, z którym zapoznała się agencja dpa. Partia proponuje w tym celu budowę na lotnisku w Monachium „deportacyjnego terminalu”...",
+      "date_published": "2026-01-02T20:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tesla-traci-korone-Elon-Musk-pokonany-przez-chinskiego-giganta-BYD-9063450.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tesla-traci-korone-Elon-Musk-pokonany-przez-chinskiego-giganta-BYD-9063450.html",
+      "title": "Tesla traci koronę. Elon Musk pokonany przez chińskiego giganta BYD",
+      "content_html": "Należący do Elona Muska koncern Tesla zanotował w 2025 r. drugi z rzędu spadek w liczbie dostarczonych samochodów i stracił status globalnego lidera rynku na rzecz chińskiego BYD - wynika z kwartalnych wyników spółek. Tesla dostarczyła 1,64...",
+      "date_published": "2026-01-02T19:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/FBI-udaremnilo-zamach-18-latek-planowal-zrobic-dzihad-9063444.html",
+      "url": "https://www.bankier.pl/wiadomosc/FBI-udaremnilo-zamach-18-latek-planowal-zrobic-dzihad-9063444.html",
+      "title": "FBI udaremniło zamach. 18-latek planował \"zrobić dżihad\"",
+      "content_html": "Federalne Biuro Śledcze (FBI) podało w piątek, że udaremniło zamach 18-letniego dżihadysty inspirowany ideologią Państwa Islamskiego. Mężczyzna planował zaatakować młotkami i nożami klientów supermarketu w Karolinie Północnej, lecz został...",
+      "date_published": "2026-01-02T19:04:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ewakuacja-3000-dzieci-z-44-przyfrontowych-miejscowosci-Trudna-sytuacja-w-zakresie-bezpieczenstwa-9063441.html",
       "url": "https://www.bankier.pl/wiadomosc/Ewakuacja-3000-dzieci-z-44-przyfrontowych-miejscowosci-Trudna-sytuacja-w-zakresie-bezpieczenstwa-9063441.html",
       "title": "Ewakuacja 3000 dzieci z 44 przyfrontowych miejscowości. \"Trudna sytuacja w zakresie bezpieczeństwa\"",
@@ -51,13 +72,6 @@
       "title": "Orlen najmocniejszy w WIG20 i znów powyżej 100 zł. WIG przebił 120 tys. pkt. pierwszy raz w historii",
       "content_html": "Po znakomitym 2025 r. na warszawskiej giełdzie, nowy rok zaczął się w wyśmienitych nastrojach, przynosząc kolejne rekordy na indeksach oraz zwyżki cen akcji liderów hossy. Pierwsza sesja 2026 r. wyniosła indeks szerokiego rynku WIG po raz pierwszy...",
       "date_published": "2026-01-02T17:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html",
-      "url": "https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html",
-      "title": "CSU chce deportacji większości syryjskich uchodźców. Powstanie specjalny terminal?",
-      "content_html": "Bawarskie CSU zamierza doprowadzić do deportacji z Niemiec większości syryjskich uchodźców - wynika z dokumentu partyjnego, z którym zapoznała się agencja dpa. Partia proponuje w tym celu budowę na lotnisku w Monachium „deportacyjnego terminalu”...",
-      "date_published": "2026-01-02T17:13:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-teokracji-w-Iranie-Protestujacy-krzycza-smierc-dyktatorowi-9063401.html",
@@ -408,6 +422,20 @@
       "title": "Spadek produkcji, wzrost oczekiwań. Koniunktura w polskim przemyśle znów się pogorszyła",
       "content_html": "W ostatnim miesiącu 2025 roku koniunktura w polskim przemyśle pogorszyła się w większym stopniu, niż oczekiwali tego ekonomiści. Produkcja przemysłowa dalej maleje, ale prognozy się poprawiają - podali autorzy odczytu PMI.",
       "date_published": "2026-01-02T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Obawy-o-atak-USA-na-Wenezuele-9063166.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Obawy-o-atak-USA-na-Wenezuele-9063166.html",
+      "title": "Ceny ropy rosną. Obawy o atak USA na Wenezuelę",
+      "content_html": "Ceny ropy naftowej są na plusach wobec obaw o zakłócenia w dostawach z Wenezueli. Analitycy wskazują jednak, że na rynku oddziałują także czynniki fundamentalne, jak obawa o nadpodaż surowca w 2026 r.",
+      "date_published": "2026-01-02T08:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Abonament-RTV-w-gore-KRRiT-przypomina-Nie-zwalnia-z-niego-oplata-za-kablowke-9063157.html",
+      "url": "https://www.bankier.pl/wiadomosc/Abonament-RTV-w-gore-KRRiT-przypomina-Nie-zwalnia-z-niego-oplata-za-kablowke-9063157.html",
+      "title": "Abonament RTV w górę. KRRiT przypomina: Nie zwalnia z niego opłata za kablówkę",
+      "content_html": "Od stycznia 2026 roku wchodzą w życie wyższe stawki abonamentu RTV. Miesięczna opłata za telewizor wzrośnie do 30,50 zł, a za radio do 9,50 zł. Krajowa Rada Radiofonii i Telewizji przypomina, że obowiązek ten dotyczy także abonentów telewizji...",
+      "date_published": "2026-01-02T08:43:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Starzejaca-sie-Polska-nie-zatopi-ZUS-u-Wplywy-i-wydatki-do-2080-roku-9063160.html",
