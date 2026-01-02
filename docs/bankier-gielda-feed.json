@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wykupil-przedterminowo-obligacje-serii-P2022B-za-lacznie-55-46-mln-zl-9063204.html",
+      "url": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wykupil-przedterminowo-obligacje-serii-P2022B-za-lacznie-55-46-mln-zl-9063204.html",
+      "title": "Marvipol Development wykupił przedterminowo obligacje serii P2022B za łącznie 55,46 mln zł Zarząd Marvipol Development podjął uchwałę o skorzystaniu z opcji przedterminowego wykupu wszystkich niewykupionych dotąd obligacji serii P2022B - poinformowała spółka w komunikacie. Marvipol Development wykupił 55.467 sztuk o łącznej wartości 55,46 mln zł.",
+      "content_html": "",
+      "date_published": "2026-01-02T10:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-zamraza-stawki-celne-USA-lagodza-kurs-wobec-importowanych-mebli-9063192.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-zamraza-stawki-celne-USA-lagodza-kurs-wobec-importowanych-mebli-9063192.html",
+      "title": "Trump zamraża stawki celne. USA łagodzą kurs wobec importowanych mebli Prezydent USA Donald Trump odroczył o rok wprowadzenie nowych podwyżek ceł na meble tapicerowane, szafki kuchenne i meble łazienkowe, przesuwając ich wejście w życie na 2027 r. – wynika z komunikatu Białego Domu.",
+      "content_html": "",
+      "date_published": "2026-01-02T10:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Presja-placowa-i-droga-energia-Ceny-pojda-w-gore-srednio-o-5-7-proc-9063184.html",
+      "url": "https://www.bankier.pl/wiadomosc/Presja-placowa-i-droga-energia-Ceny-pojda-w-gore-srednio-o-5-7-proc-9063184.html",
+      "title": "Presja płacowa i droga energia. Ceny pójdą w górę średnio o 5-7 proc. 60 proc. średnich i dużych firm w Polsce zapowiada podwyżki cen swoich towarów i usług w 2026 roku, to o 3 pkt. proc. więcej niż przed rokiem - wynika z badania Grant Thornton. Presję inflacyjną łagodzić będzie mrożenie cen energii oraz korzystniejszy kurs złotego.",
+      "content_html": "",
+      "date_published": "2026-01-02T10:11:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-rok-na-gieldzie-Male-i-srednie-spolki-moga-liczyc-na-efekt-stycznia-9063171.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-rok-na-gieldzie-Male-i-srednie-spolki-moga-liczyc-na-efekt-stycznia-9063171.html",
       "title": "Nowy rok na giełdzie. Małe i średnie spółki mogą liczyć na efekt stycznia? Ostatnia sesja w 2025 r. w wykonaniu WIG20 może sugerować lokalny punkt przegięcia i początek odreagowania po grudniowych wzrostach. Przeciwny obraz wygenerowały najmniejsze spółki, gdzie ostatnie sesje poprzedniego roku były udane – wskazują w pierwszym w 2026 roku porannym komentarzu analitycy Biura Maklerskiego Banku BNP Paribas.",
@@ -86,20 +107,6 @@
       "title": "Tym będą żyły rynki: co przyniesie początek 2026 roku? Choć układ kalendarza w Polsce nadal będzie sprzyjać planom urlopowym, to po Nowym Roku światowe rynki finansowe ruszą z kopyta.",
       "content_html": "",
       "date_published": "2025-12-31T12:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-Polsce-ruszy-pierwsza-piaskownica-regulacyjna-Znamy-date-9062537.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-Polsce-ruszy-pierwsza-piaskownica-regulacyjna-Znamy-date-9062537.html",
-      "title": "AI W Polsce ruszy pierwsza piaskownica regulacyjna. Znamy datę Ministerstwo Cyfryzacji uruchomi pierwszą w Polsce piaskownicę regulacyjną do 2 sierpnia 2026 r. - podało MC w komunikacie. Wskazano, że umożliwi ona przedsiębiorcom bezpieczne testowanie rozwiązań AI.",
-      "content_html": "",
-      "date_published": "2025-12-31T10:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-grudniu-2025-spadla-ponizej-celu-NBP-Inflacja-w-2025-roku-wyniosla-3-6-9062501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-grudniu-2025-spadla-ponizej-celu-NBP-Inflacja-w-2025-roku-wyniosla-3-6-9062501.html",
-      "title": "Inflacja w grudniu spadła poniżej celu NBP. Ale całorocznie go przekroczyła Grudniowa inflacja w Polsce okazała się nieco niższa od oczekiwań ekonomistów i w ten sposób znalazła się minimalnie poniżej 2,5-procentowego celu NBP.",
-      "content_html": "",
-      "date_published": "2025-12-31T10:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
