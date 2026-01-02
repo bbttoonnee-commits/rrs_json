@@ -4,11 +4,46 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-kosmos-nabiera-tempa-Chinski-dyplomata-w-ONZ-uderza-w-satelity-Starlink-9063385.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-kosmos-nabiera-tempa-Chinski-dyplomata-w-ONZ-uderza-w-satelity-Starlink-9063385.html",
+      "title": "Wojna o kosmos nabiera tempa. Chiński dyplomata w ONZ uderza w satelity Starlink",
+      "content_html": "Przedstawiciel Chin ostrzegł na forum Rady Bezpieczeństwa ONZ, że szybka ekspansja konstelacji satelitów internetowych, takich jak Starlink firmy SpaceX, stwarza poważne wyzwania dla bezpieczeństwa – przekazał w piątek dziennik „South China...",
+      "date_published": "2026-01-02T16:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jest-skarga-na-oplaty-cmentarne-w-Gdansku-Lupienie-ludzi-w-najtrudniejszych-chwilach-9063380.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jest-skarga-na-oplaty-cmentarne-w-Gdansku-Lupienie-ludzi-w-najtrudniejszych-chwilach-9063380.html",
+      "title": "Jest skarga na opłaty cmentarne w Gdańsku. \"Łupienie ludzi w najtrudniejszych chwilach\"",
+      "content_html": "Poseł PiS Kacper Płażyński oraz przedstawiciele branży pogrzebowej złożyli do Wojewódzkiego Sądu Administracyjnego skargi dotyczące opłat związanych z pochówkiem w Gdańsku. Władze miasta podkreślają, że pobór opłat jest zgodny z prawem...",
+      "date_published": "2026-01-02T16:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-45-mld-zl-w-PPK-Liczba-uczestnikow-funduszy-przekroczyla-4-mln-osob-9063371.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-45-mld-zl-w-PPK-Liczba-uczestnikow-funduszy-przekroczyla-4-mln-osob-9063371.html",
+      "title": "Ponad 45 mld zł w PPK. Liczba uczestników funduszy przekroczyła 4 mln osób",
+      "content_html": "Na koniec 2025 r. aktywa zgromadzone w Pracowniczych Planach Kapitałowych wyniosły ponad 45 mld zł, to o 4 mld zł więcej niż zakładał plan - poinformował w piątek PFR Portal PPK. Liczba uczestników funduszy przekroczyła 4 mln osób.",
+      "date_published": "2026-01-02T16:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Falszywe-filmy-ws-polexitu-na-TikToku-Komisja-Europejska-kontra-AI-9063369.html",
+      "url": "https://www.bankier.pl/wiadomosc/Falszywe-filmy-ws-polexitu-na-TikToku-Komisja-Europejska-kontra-AI-9063369.html",
+      "title": "Fałszywe filmy ws. polexitu na TikToku. Komisja Europejska kontra AI",
+      "content_html": "Komisja Europejska zwróciła się do resortu cyfryzacji z prośbą o przekazanie materiałów ws. masowego zamieszczania treści generowanych przez AI, niezgodnych z regulaminem TikToka - poinformował na platformie X wiceminister cyfryzacji Dariusz...",
+      "date_published": "2026-01-02T16:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gospodarka-Bulgarii-pedzi-trzy-razy-szybciej-od-strefy-euro-9063343.html",
       "url": "https://www.bankier.pl/wiadomosc/Gospodarka-Bulgarii-pedzi-trzy-razy-szybciej-od-strefy-euro-9063343.html",
       "title": "Gospodarka Bułgarii pędzi trzy razy szybciej od strefy euro",
       "content_html": "Gospodarka Bułgarii, która w czwartek wprowadziła euro, rośnie ponad trzy razy szybciej od średniej dla strefy euro, przy podobnym wskaźniku inflacji. Jednocześnie średni roczny dochód w Bułgarii jest trzy razy niższy od przeciętnego w eurolandzie...",
-      "date_published": "2026-01-02T15:12:00+01:00"
+      "date_published": "2026-01-02T15:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Remont-w-Pilchowicach-Tauron-wyda-miliony-zlotych-na-modernizacje-slynnej-zapory-9063360.html",
+      "url": "https://www.bankier.pl/wiadomosc/Remont-w-Pilchowicach-Tauron-wyda-miliony-zlotych-na-modernizacje-slynnej-zapory-9063360.html",
+      "title": "Remont w Pilchowicach. Tauron wyda miliony złotych na modernizację słynnej zapory",
+      "content_html": "Spółka Tauron Ekoenergia podpisała z wykonawcą umowę na remont zbiornika w Pilchowicach. Prace mają kosztować 93 mln zł i rozpocząć się w styczniu br. Będą prowadzone w obrębie zapory i zbiornika, a zakończą się w ciągu dwóch lat. W...",
+      "date_published": "2026-01-02T15:51:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Afera-w-Hongkongu-Milionowe-lapowki-za-remonty-i-mroczne-powiazania-z-mafia-9063294.html",
@@ -107,13 +142,6 @@
       "title": "ZEA nalicza kary firmom, które nie zatrudniają wystarczająco wielu obywateli",
       "content_html": "Ministerstwo zasobów ludzkich Zjednoczonych Emiratów Arabskich zaczęło naliczać kary wobec firm, które nie spełniły wymogów tzw. emiratyzacji i nie zatrudniły w ubiegłym roku wystarczająco wielu obywateli ZEA - poinformował w piątek portal...",
       "date_published": "2026-01-02T12:51:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-biogazu-i-ulatwienia-dla-wiatrakow-Nie-bedzie-limitu-odleglosci-w-ustawie-9063256.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-biogazu-i-ulatwienia-dla-wiatrakow-Nie-bedzie-limitu-odleglosci-w-ustawie-9063256.html",
-      "title": "Wsparcie dla biogazu i ułatwienia dla wiatraków. Nie będzie limitu odległości w ustawie?",
-      "content_html": "Resort klimatu ponawia zapisy wdrażające aukcje dla instalacji wytwarzających biometan o mocy powyżej 1 MW; proponuje też usprawnienia procesu inwestycyjnego dla lądowych farm wiatrowych, tym razem bez zapisów o minimalnej odległości od zabudowań...",
-      "date_published": "2026-01-02T12:34:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-Aillerona-do-akumuluj-cena-docelowa-w-dol-do17-3-zl-9063253.html",
@@ -254,13 +282,6 @@
       "title": "Presja płacowa i droga energia. Ceny pójdą w górę średnio o 5-7 proc.",
       "content_html": "60 proc. średnich i dużych firm w Polsce zapowiada podwyżki cen swoich towarów i usług w 2026 roku, to o 3 pkt. proc. więcej niż przed rokiem - wynika z badania Grant Thornton. Presję inflacyjną łagodzić będzie mrożenie cen energii oraz korzystniejszy...",
       "date_published": "2026-01-02T10:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Europa-cyfrowa-kolonia-USA-Ekspert-Pelna-suwerennosc-danych-to-nierealistyczne-marzenie-9063194.html",
-      "url": "https://www.bankier.pl/wiadomosc/Europa-cyfrowa-kolonia-USA-Ekspert-Pelna-suwerennosc-danych-to-nierealistyczne-marzenie-9063194.html",
-      "title": "Europa cyfrową kolonią USA? Ekspert: Straciliśmy chmurę. Straciliśmy internet",
-      "content_html": "Pod względem infrastruktury cyfrowej Europa jest daleko w tyle za Stanami Zjednoczonymi – ocenił w piątek Miguel De Bruycker, dyrektor Belgijskiego Centrum Cyberbezpieczeństwa (CCB), w rozmowie z „Financial Times”. Europa „straciła internet”...",
-      "date_published": "2026-01-02T10:07:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trzynastka-dla-Pierwszej-Damy-Znamy-wysokosc-emerytury-Marty-Nawrockiej-9063179.html",
@@ -674,34 +695,6 @@
       "title": "Nowy sposób na niepłacących alimentów – zawieszenie prawa jazdy",
       "content_html": "Od 1 stycznia 2026 w prowincji Quebec w Kanadzie wchodzi w życie nowe prawo wymierzone w niepłacących alimentów, które pozwala po sześciu miesiącach zaległości zawiesić prawo jazdy osobie, która zalega z zapłatą.",
       "date_published": "2026-01-01T16:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-41-tys-migrantow-pokonalo-w-2025-roku-nielegalnie-kanal-La-Manche-9063050.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-41-tys-migrantow-pokonalo-w-2025-roku-nielegalnie-kanal-La-Manche-9063050.html",
-      "title": "Ponad 41 tys. migrantów pokonało w 2025 roku nielegalnie kanał La Manche",
-      "content_html": "Według statystyk brytyjskiego ministerstwa spraw wewnętrznych (Home Office) 41 472 migrantów pokonało w 2025 roku nielegalnie kanał La Manche na łodziach i pontonach, docierając do Anglii. To o 13 proc. więcej w porównaniu z rokiem 2024 i o 41...",
-      "date_published": "2026-01-01T16:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szwecja-i-Estonia-rozlaczne-Podmorski-kabel-uszkodzony-w-tajemniczy-sposob-9062808.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szwecja-i-Estonia-rozlaczne-Podmorski-kabel-uszkodzony-w-tajemniczy-sposob-9062808.html",
-      "title": "Szwecja i Estonia rozłączone. Podmorski kabel uszkodzony w tajemniczy sposób",
-      "content_html": "Uszkodzony został podmorski kabel światłowodowy między Estonią a Szwecją – powiadomił w środę szwedzki Urząd ds. Poczty i Telekomunikacji (PTS). Wcześniej fińskie władze poinformowały o awarii kabla łączącego Helsinki z Tallinem.",
-      "date_published": "2026-01-01T14:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/4-na-10-imigrantow-z-Ukrainy-moze-zostac-w-Polsce-na-stale-9057096.html",
-      "url": "https://www.bankier.pl/wiadomosc/4-na-10-imigrantow-z-Ukrainy-moze-zostac-w-Polsce-na-stale-9057096.html",
-      "title": "4 na 10 imigrantów z Ukrainy może zostać w Polsce na stałe",
-      "content_html": "W przypadku 4 na każdych 10 dorosłych imigrantów z Ukrainy istnieje bardzo wysokie lub wysokie prawdopodobieństwo pozostania w Polsce na stałe - szacują analitycy Polskiego Instytut Ekonomicznego. Decyzja o pozostaniu w Polsce w większym stopniu...",
-      "date_published": "2026-01-01T14:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-to-za-malo-Dlaczego-szpitale-wstrzymuja-zabiegi-mimo-rekordowych-nakladow-9062563.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-to-za-malo-Dlaczego-szpitale-wstrzymuja-zabiegi-mimo-rekordowych-nakladow-9062563.html",
-      "title": "Miliardy to za mało. Dlaczego szpitale wstrzymują zabiegi mimo rekordowych nakładów?",
-      "content_html": "W 2025 r. odpowiedzialność za system lecznictwa przeszła w ręce nowej minister zdrowia Jolanty Sobierańskiej-Grendy. Największym wyzwaniem okazał się rekordowy deficyt w finansowaniu lecznictwa.",
-      "date_published": "2026-01-01T14:02:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
