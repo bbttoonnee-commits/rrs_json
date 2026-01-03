@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nadciaga-cybertsunami-Eksperci-ostrzegaja-przed-bezprecedensowa-fala-cyberatakow-9061815.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nadciaga-cybertsunami-Eksperci-ostrzegaja-przed-bezprecedensowa-fala-cyberatakow-9061815.html",
+      "title": "Nadciąga cybertsunami. Eksperci ostrzegają przed bezprecedensową falą cyberataków",
+      "content_html": "Czeka nas bezprecedensowa skala zagrożeń w sieci; eksperci prognozują, że 2026 r. będzie dla bezpieczeństwa IT krytyczny - czytamy w „Rzeczpospolitej”. Dziennik wskazuje na możliwość ataków geopolitycznych, dla okupu czy uderzenia w sieć...",
+      "date_published": "2026-01-03T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-latwego-wzrostu-Dlaczego-polska-gospodarka-potrzebuje-nowej-strategii-9061052.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-latwego-wzrostu-Dlaczego-polska-gospodarka-potrzebuje-nowej-strategii-9061052.html",
+      "title": "Koniec łatwego wzrostu. Dlaczego polska gospodarka potrzebuje nowej strategii?",
+      "content_html": "Wyczerpuje się dotychczasowy model wzrostu gospodarczego Polski, a tempo doganiania najbogatszych gospodarek Europy wyraźnie słabnie - uważają analitycy Warsaw Enterprise Institute. Ich zdaniem, utrzymanie dynamiki wzrostu PKB wymaga jakościowej...",
+      "date_published": "2026-01-03T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Wenezuele-Eksplozje-w-Caracas-Maduro-wprowadzil-stan-wyjatkowy-9063516.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Wenezuele-Eksplozje-w-Caracas-Maduro-wprowadzil-stan-wyjatkowy-9063516.html",
+      "title": "USA zaatakowały Wenezuelę. Eksplozje w Caracas, Maduro wprowadził stan wyjątkowy",
+      "content_html": "W stolicy Wenezueli, Caracas, odnotowano w sobotę nad ranem głośne eksplozje, którym towarzyszyły dźwięki przypominające przelatujące samoloty - podała agencja AFP. Ponadto według Reutersa południowa część miasta, w pobliżu bazy wojskowej...",
+      "date_published": "2026-01-03T09:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Setki-kobiet-i-nastolatek-ofiarami-Groka-Rzady-Francji-i-Indii-reaguja-9063457.html",
+      "url": "https://www.bankier.pl/wiadomosc/Setki-kobiet-i-nastolatek-ofiarami-Groka-Rzady-Francji-i-Indii-reaguja-9063457.html",
+      "title": "Setki kobiet i nastolatek ofiarami Groka. Rządy Francji i Indii reagują",
+      "content_html": "Chatbot Grok, stworzony przez firmę xAI należącą do miliardera Elona Muska, ponownie stał się obiektem kontrowersji. Tym razem ich powodem są generowane przez niego treści natury seksualnej, dotyczące także nieletnich. Działania w tej sprawie...",
+      "date_published": "2026-01-03T09:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rodzina-krolewska-ma-uratowac-umowe-handlowa-z-Donaldem-Trumpem-9061024.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rodzina-krolewska-ma-uratowac-umowe-handlowa-z-Donaldem-Trumpem-9061024.html",
+      "title": "Rodzina królewska ma uratować umowę handlową z Donaldem Trumpem",
+      "content_html": "Brytyjski monarcha Karol III złoży prawdopodobnie w kwietniu 2026 r. oficjalną wizytę w USA – poinformował „Times”, powołując się na źródło bliskie sprawie. W nadchodzącym roku, Stany Zjednoczone ma także odwiedzić, ale w innym terminie...",
+      "date_published": "2026-01-03T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-nocnych-wedrowek-po-Tatrach-TPN-rozwaza-caloroczny-zakaz-9063505.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-nocnych-wedrowek-po-Tatrach-TPN-rozwaza-caloroczny-zakaz-9063505.html",
+      "title": "Koniec nocnych wędrówek po Tatrach? TPN rozważa całoroczny zakaz",
+      "content_html": "Dyrekcja Tatrzańskiego Parku Narodowego (TPN) rozważa wprowadzenie całorocznego zakazu poruszania się po szlakach nocą. To rezultat sylwestrowych incydentów i rosnącej popularności nocnych wyjść w Tatry.",
+      "date_published": "2026-01-03T09:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-armia-na-kredyt-W-2028-roku-pieniedzy-wystarczy-tylko-na-splate-dlugow-9061046.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-armia-na-kredyt-W-2028-roku-pieniedzy-wystarczy-tylko-na-splate-dlugow-9061046.html",
       "title": "Polska armia na kredyt. W 2028 roku pieniędzy wystarczy tylko na spłatę długów?",
@@ -51,6 +93,13 @@
       "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w grudniu, na drugim miejscu BOFA",
       "content_html": "Goldman Sachs w grudniu 2025 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
       "date_published": "2026-01-02T22:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanskie-gieldy-zaczely-2026-rok-z-przewaga-wzrostow-9063479.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanskie-gieldy-zaczely-2026-rok-z-przewaga-wzrostow-9063479.html",
+      "title": "Amerykańskie giełdy zaczęły 2026 rok z przewagą wzrostów",
+      "content_html": "Piątkowa, pierwsza w 2026 roku, sesja na Wall Street zakończyła się przewagą wzrostów wśród głównych indeksów. W gronie liderów zwyżek byli producenci chipów. Analitycy póki co pozostają optymistami i spodziewają się w tym roku kontynuacji...",
+      "date_published": "2026-01-02T22:20:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html",
@@ -219,20 +268,6 @@
       "title": "Taryfy dynamiczne dla prosumentów? Resort energii szykuje zmiany w rachunkach",
       "content_html": "W styczniu rozpoczyna pracę zespół do spraw kształtowania taryf, jednym z możliwych rozwiązań są taryfy dynamiczne dla prosumentów z odpowiednim limitem cenowym - wynika z wypowiedzi szefa ME Miłosza Motyki w TVN24. Resort energii rozważa też...",
       "date_published": "2026-01-02T14:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejne-ataki-w-Jemenie-Walki-o-bazy-wojskowe-i-tereny-bogate-w-rope-9063309.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-ataki-w-Jemenie-Walki-o-bazy-wojskowe-i-tereny-bogate-w-rope-9063309.html",
-      "title": "Kolejne ataki w Jemenie. Walki o bazy wojskowe i tereny bogate w ropę",
-      "content_html": "Jeden z przywódców rebelianckiej Rady Przejściowej Południa (STC) poinformował w piątek, że siedem osób zginęło, a ponad 20 zostało rannych w atakach koalicji pod kierunkiem Arabii Saudyjskiej na pozycje rebeliantów w prowincji Hadramaut na...",
-      "date_published": "2026-01-02T14:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/CCGT-w-Turku-nie-bedzie-w-stanie-w-terminie-rozpoczac-swiadczenia-obowiazku-mocowego-ZE-PAK-9063304.html",
-      "url": "https://www.bankier.pl/wiadomosc/CCGT-w-Turku-nie-bedzie-w-stanie-w-terminie-rozpoczac-swiadczenia-obowiazku-mocowego-ZE-PAK-9063304.html",
-      "title": "CCGT w Turku nie będzie w stanie w terminie rozpocząć świadczenia obowiązku mocowego",
-      "content_html": "CCGT w Turku nie będzie w stanie w terminie rozpocząć świadczenia obowiązku mocowego - podał ZE PAK w komunikacie. Zgodnie z zawartą umową mocową, jednostka rynku mocy w projekcie powinna rozpocząć świadczenie obowiązku mocowego od stycznia...",
-      "date_published": "2026-01-02T14:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Likwidacja-kopalni-Wujek-Katowice-przejely-29-obiektow-legendarnego-zakladu-9063301.html",
@@ -639,62 +674,6 @@
       "title": "Rzucić etat w 2026 roku? Sprawdzamy, czy przejście z umowy o pracę na B2B się opłaca",
       "content_html": "Model współpracy B2B często przedstawiany jest jako sposób na wyższe zarobki i większą swobodę zawodową. Prowadzenie działalności gospodarczej może rzeczywiście zwiększyć poziom wynagrodzenia i elastyczność pracy, wymaga jednocześnie...",
       "date_published": "2026-01-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rok-duzych-zmian-dla-portfeli-Polakow-Co-zmieni-sie-w-2026-roku-9062462.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rok-duzych-zmian-dla-portfeli-Polakow-Co-zmieni-sie-w-2026-roku-9062462.html",
-      "title": "Rok dużych zmian dla portfeli Polaków. Co zmieni się w 2026 roku?",
-      "content_html": "Wyższy zasiłek pogrzebowy, kolejna podwyżka płacy minimalnej, nowe zasady liczenia stażu pracy i przyznawania świadczenia wspierającego oraz zmiany w podatkach i cyfrowej administracji – 2026 rok przyniesie pakiet zmian, które realnie wpłyną...",
-      "date_published": "2026-01-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html",
-      "title": "Ofiary śmiertelne i strzały na prowincji. Protesty w Iranie przybierają na sile",
-      "content_html": "Co najmniej trzy osoby zginęły czwartek w trakcie protestów w Iranie - poinformowała w piątek agencja AFP powołując się na lokalne media. Demonstracje rozprzestrzeniły się poza największe miasta - przekazała AP.",
-      "date_published": "2026-01-01T21:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-poprosila-USA-o-zaprzestanie-poscigu-za-tankowcem-9063075.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-poprosila-USA-o-zaprzestanie-poscigu-za-tankowcem-9063075.html",
-      "title": "Rosja poprosiła USA o zaprzestanie pościgu za tankowcem",
-      "content_html": "Rząd Rosji zwrócił się formalnie do Stanów Zjednoczonych z wnioskiem dyplomatycznym o zaprzestanie pościgu za tankowcem, który płynął do Wenezueli, a obecnie ucieka przed Strażą Przybrzeżną na Oceanie Atlantyckim - poinformował w czwartek...",
-      "date_published": "2026-01-01T21:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-rehabilituje-prawicowe-media-Lauren-Chen-wraca-mimo-zarzutow-o-pranie-pieniedzy-z-Rosji-9062333.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-rehabilituje-prawicowe-media-Lauren-Chen-wraca-mimo-zarzutow-o-pranie-pieniedzy-z-Rosji-9062333.html",
-      "title": "Trump rehabilituje prawicowe media. Lauren Chen wraca, mimo zarzutów o pranie pieniędzy z Rosji",
-      "content_html": "Administracja Trumpa przyznała wizę Lauren Chen, prawicowej publicystce z Kanady, która zmuszona była opuścić USA po ujawnieniu afery związanej z finansowaniem jej firmy i prawicowych influencerów przez rosyjskie służby - podał portal The Bulwark...",
-      "date_published": "2026-01-01T21:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rok-polskiego-przyspieszenia-Tusk-zapowiada-najsilniejsza-armie-i-dokrecenie-sruby-przestepcom-9063074.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rok-polskiego-przyspieszenia-Tusk-zapowiada-najsilniejsza-armie-i-dokrecenie-sruby-przestepcom-9063074.html",
-      "title": "\"Rok polskiego przyspieszenia\". Tusk zapowiada najsilniejszą armię i \"dokręcenie śruby\" przestępcom",
-      "content_html": "Premier Donald Tusk w noworocznym orędziu podkreślił, że 2026 będzie rokiem polskiego przyspieszenia; budowy najsilniejszej armii w Europie, zintensyfikowania inwestycji infrastrukturalnych i odbudowy przemysłu, w tym obronnego. Zapowiedział też...",
-      "date_published": "2026-01-01T21:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html",
-      "title": "Tragedia w Sylwestra. Dziesiątki ofiar śmiertelnych w Szwajcarii",
-      "content_html": "Kilkadziesiąt osób zginęło, a około stu zostało rannych, przeważnie ciężko, w noc sylwestrową wskutek pożaru, który wybuchł w kurorcie narciarskim Crans-Montana w południowej Szwajcarii – poinformowała w czwartek policja.",
-      "date_published": "2026-01-01T21:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Specjalne-prokuratury-do-walki-z-hejtem-Minister-Zurek-szykuje-rozporzadzenie-9063068.html",
-      "url": "https://www.bankier.pl/wiadomosc/Specjalne-prokuratury-do-walki-z-hejtem-Minister-Zurek-szykuje-rozporzadzenie-9063068.html",
-      "title": "Specjalne prokuratury do walki z hejtem. Minister Żurek szykuje rozporządzenie",
-      "content_html": "Minister sprawiedliwości Waldemar Żurek chce wyznaczyć rozporządzeniem kilkanaście prokuratur, specjalizujących się w ściganiu hejtu, w tym także tego na Ukraińców. W działania zaangażowany ma zostać m.in. prokurator Maciej Młynarczyk...",
-      "date_published": "2026-01-01T21:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szpiedzy-namierzeni-przez-reklamy-Wielki-wyciek-danych-lokalizacyjnych-francuskich-sluzb-9054329.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szpiedzy-namierzeni-przez-reklamy-Wielki-wyciek-danych-lokalizacyjnych-francuskich-sluzb-9054329.html",
-      "title": "Szpiedzy namierzeni przez reklamy. Wielki wyciek danych lokalizacyjnych francuskich służb",
-      "content_html": "Przy wykorzystaniu danych reklamowych, udostępnianych przez telefony, można wyśledzić pracowników służb francuskich; również tych, którzy pracują w Pałacu Elizejskim i odpowiadają za bezpieczeństwo prezydenta - ujawniło międzynarodowe...",
-      "date_published": "2026-01-01T21:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
