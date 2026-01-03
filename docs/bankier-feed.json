@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-szykuje-bron-biologiczna-i-chemiczna-Scenariusz-konfliktu-na-duza-skale-9061394.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-szykuje-bron-biologiczna-i-chemiczna-Scenariusz-konfliktu-na-duza-skale-9061394.html",
+      "title": "Iran szykuje broń biologiczną i chemiczną? \"Scenariusz konfliktu na dużą skalę\"",
+      "content_html": "Irański Korpus Strażników Rewolucji Islamskiej (IRGC) pracuje nad głowicami służącymi do przenoszenia broni biologicznej i chemicznej przez rakiety balistyczne dalekiego zasięgu - poinformował emigracyjny portal Iran International, powołując...",
+      "date_published": "2026-01-03T11:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nadciaga-cybertsunami-Eksperci-ostrzegaja-przed-bezprecedensowa-fala-cyberatakow-9061815.html",
       "url": "https://www.bankier.pl/wiadomosc/Nadciaga-cybertsunami-Eksperci-ostrzegaja-przed-bezprecedensowa-fala-cyberatakow-9061815.html",
       "title": "Nadciąga cybertsunami. Eksperci ostrzegają przed bezprecedensową falą cyberataków",
@@ -11,18 +18,25 @@
       "date_published": "2026-01-03T11:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Wenezuele-Eksplozje-w-Caracas-Maduro-wprowadzil-stan-wyjatkowy-9063516.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Wenezuele-Eksplozje-w-Caracas-Maduro-wprowadzil-stan-wyjatkowy-9063516.html",
+      "title": "USA zaatakowały Wenezuelę. Eksplozje w Caracas, Maduro wprowadził stan wyjątkowy",
+      "content_html": "W stolicy Wenezueli, Caracas, odnotowano w sobotę nad ranem głośne eksplozje, którym towarzyszyły dźwięki przypominające przelatujące samoloty - podała agencja AFP. Ponadto według Reutersa południowa część miasta, w pobliżu bazy wojskowej...",
+      "date_published": "2026-01-03T10:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rodzice-i-nauczyciele-publikuja-zdjecia-dzieci-bez-ich-zgody-Rzeczniczka-Praw-Dziecka-alarmuje-9058327.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rodzice-i-nauczyciele-publikuja-zdjecia-dzieci-bez-ich-zgody-Rzeczniczka-Praw-Dziecka-alarmuje-9058327.html",
+      "title": "Rodzice i nauczyciele publikują zdjęcia dzieci bez ich zgody. Rzeczniczka Praw Dziecka alarmuje",
+      "content_html": "Publikowanie wizerunku dzieci i nastolatków w internecie może się wiązać z poważnymi zagrożeniami - zdjęcia czy filmy mogą się stać powodem hejterskich ataków, ale też mogą zostać przerobione...",
+      "date_published": "2026-01-03T10:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-latwego-wzrostu-Dlaczego-polska-gospodarka-potrzebuje-nowej-strategii-9061052.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-latwego-wzrostu-Dlaczego-polska-gospodarka-potrzebuje-nowej-strategii-9061052.html",
       "title": "Koniec łatwego wzrostu. Dlaczego polska gospodarka potrzebuje nowej strategii?",
       "content_html": "Wyczerpuje się dotychczasowy model wzrostu gospodarczego Polski, a tempo doganiania najbogatszych gospodarek Europy wyraźnie słabnie - uważają analitycy Warsaw Enterprise Institute. Ich zdaniem, utrzymanie dynamiki wzrostu PKB wymaga jakościowej...",
       "date_published": "2026-01-03T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Wenezuele-Eksplozje-w-Caracas-Maduro-wprowadzil-stan-wyjatkowy-9063516.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Wenezuele-Eksplozje-w-Caracas-Maduro-wprowadzil-stan-wyjatkowy-9063516.html",
-      "title": "USA zaatakowały Wenezuelę. Eksplozje w Caracas, Maduro wprowadził stan wyjątkowy",
-      "content_html": "W stolicy Wenezueli, Caracas, odnotowano w sobotę nad ranem głośne eksplozje, którym towarzyszyły dźwięki przypominające przelatujące samoloty - podała agencja AFP. Ponadto według Reutersa południowa część miasta, w pobliżu bazy wojskowej...",
-      "date_published": "2026-01-03T09:27:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Setki-kobiet-i-nastolatek-ofiarami-Groka-Rzady-Francji-i-Indii-reaguja-9063457.html",
@@ -88,9 +102,23 @@
       "date_published": "2026-01-03T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Blokada-w-Strefie-Gazy-Izrael-uderza-m-in-w-Caritas-i-Lekarzy-bez-Granic-9063493.html",
+      "url": "https://www.bankier.pl/wiadomosc/Blokada-w-Strefie-Gazy-Izrael-uderza-m-in-w-Caritas-i-Lekarzy-bez-Granic-9063493.html",
+      "title": "Blokada w Strefie Gazy. Izrael uderza m.in. w Caritas i Lekarzy bez Granic",
+      "content_html": "Sekretarz generalny ONZ Antonio Guterres wzywa Izrael do cofnięcia decyzji o zakazie wjazdu do Strefy Gazy wielu międzynarodowych organizacji humanitarnych - poinformował w piątek wieczorem czasu miejscowego jego rzecznik Stephane Dujarric.",
+      "date_published": "2026-01-03T05:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-TikToka-dla-mlodych-Wiceminister-zapowiada-rewolucyjny-przepis-9063485.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-TikToka-dla-mlodych-Wiceminister-zapowiada-rewolucyjny-przepis-9063485.html",
+      "title": "Koniec TikToka dla młodych? Wiceminister zapowiada rewolucyjny przepis",
+      "content_html": "Należy wprowadzić przepis odcinający młodzież od portali społecznościowych; nie przesądzam od jakiego wieku, bo to powinno być poprzedzone ekspertyzą i dyskusją - ocenił w piątek wieczorem wiceminister cyfryzacji Dariusz Standerski. Dodał...",
+      "date_published": "2026-01-02T22:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-grudniu-na-drugim-miejscu-BOFA-9063481.html",
       "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-grudniu-na-drugim-miejscu-BOFA-9063481.html",
-      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w grudniu, na drugim miejscu BOFA",
+      "title": "Goldman Sachs dominuje na GPW. Amerykanie przejęli handel w Warszawie",
       "content_html": "Goldman Sachs w grudniu 2025 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
       "date_published": "2026-01-02T22:40:00+01:00"
     },
@@ -100,6 +128,20 @@
       "title": "Amerykańskie giełdy zaczęły 2026 rok z przewagą wzrostów",
       "content_html": "Piątkowa, pierwsza w 2026 roku, sesja na Wall Street zakończyła się przewagą wzrostów wśród głównych indeksów. W gronie liderów zwyżek byli producenci chipów. Analitycy póki co pozostają optymistami i spodziewają się w tym roku kontynuacji...",
       "date_published": "2026-01-02T22:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Deportacje-z-USA-ICE-rozpoczelo-polowanie-na-czarownice-w-Los-Angeles-9063478.html",
+      "url": "https://www.bankier.pl/wiadomosc/Deportacje-z-USA-ICE-rozpoczelo-polowanie-na-czarownice-w-Los-Angeles-9063478.html",
+      "title": "Deportacje z USA. ICE rozpoczęło \"polowanie na czarownice\" w Los Angeles",
+      "content_html": "Meksykański dziennik „El Universal” opisał w piątek codzienne w ostatnich miesiącach aresztowania meksykańskich migrantów w Los Angeles, które nazwał „polowaniem na czarownice”.",
+      "date_published": "2026-01-02T22:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-Wielkiej-Brytanii-tak-cieplo-jeszcze-nie-bylo-Najgoretszy-rok-od-140-lat-9063469.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Wielkiej-Brytanii-tak-cieplo-jeszcze-nie-bylo-Najgoretszy-rok-od-140-lat-9063469.html",
+      "title": "W Wielkiej Brytanii tak ciepło jeszcze nie było. Najgorętszy rok od 140 lat",
+      "content_html": "Brytyjskie biuro meteorologiczne (Met Office) poinformowało w piątek, że 2025 był najgorętszym rokiem od 1884 r., kiedy to rozpoczęto prowadzić pomiary w Wielkiej Brytanii. Średnia temperatura odnotowana w ubiegłym roku wyniosła 10,9 st. C...",
+      "date_published": "2026-01-02T21:41:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/CSU-chce-deportacji-wiekszosci-syryjskich-uchodzcow-Powstanie-specjalny-terminal-9063411.html",
@@ -268,6 +310,20 @@
       "title": "Taryfy dynamiczne dla prosumentów? Resort energii szykuje zmiany w rachunkach",
       "content_html": "W styczniu rozpoczyna pracę zespół do spraw kształtowania taryf, jednym z możliwych rozwiązań są taryfy dynamiczne dla prosumentów z odpowiednim limitem cenowym - wynika z wypowiedzi szefa ME Miłosza Motyki w TVN24. Resort energii rozważa też...",
       "date_published": "2026-01-02T14:12:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-ataki-w-Jemenie-Walki-o-bazy-wojskowe-i-tereny-bogate-w-rope-9063309.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-ataki-w-Jemenie-Walki-o-bazy-wojskowe-i-tereny-bogate-w-rope-9063309.html",
+      "title": "Kolejne ataki w Jemenie. Walki o bazy wojskowe i tereny bogate w ropę",
+      "content_html": "Jeden z przywódców rebelianckiej Rady Przejściowej Południa (STC) poinformował w piątek, że siedem osób zginęło, a ponad 20 zostało rannych w atakach koalicji pod kierunkiem Arabii Saudyjskiej na pozycje rebeliantów w prowincji Hadramaut na...",
+      "date_published": "2026-01-02T14:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CCGT-w-Turku-nie-bedzie-w-stanie-w-terminie-rozpoczac-swiadczenia-obowiazku-mocowego-ZE-PAK-9063304.html",
+      "url": "https://www.bankier.pl/wiadomosc/CCGT-w-Turku-nie-bedzie-w-stanie-w-terminie-rozpoczac-swiadczenia-obowiazku-mocowego-ZE-PAK-9063304.html",
+      "title": "CCGT w Turku nie będzie w stanie w terminie rozpocząć świadczenia obowiązku mocowego",
+      "content_html": "CCGT w Turku nie będzie w stanie w terminie rozpocząć świadczenia obowiązku mocowego - podał ZE PAK w komunikacie. Zgodnie z zawartą umową mocową, jednostka rynku mocy w projekcie powinna rozpocząć świadczenie obowiązku mocowego od stycznia...",
+      "date_published": "2026-01-02T14:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Likwidacja-kopalni-Wujek-Katowice-przejely-29-obiektow-legendarnego-zakladu-9063301.html",
@@ -501,13 +557,6 @@
       "date_published": "2026-01-02T09:01:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/PMI-dla-Polski-w-grudniu-ponizej-oczekiwan-Produkcja-wciaz-sie-kurczy-9063167.html",
-      "url": "https://www.bankier.pl/wiadomosc/PMI-dla-Polski-w-grudniu-ponizej-oczekiwan-Produkcja-wciaz-sie-kurczy-9063167.html",
-      "title": "Spadek produkcji, wzrost oczekiwań. Koniunktura w polskim przemyśle znów się pogorszyła",
-      "content_html": "W ostatnim miesiącu 2025 roku koniunktura w polskim przemyśle pogorszyła się w większym stopniu, niż oczekiwali tego ekonomiści. Produkcja przemysłowa dalej maleje, ale prognozy się poprawiają - podali autorzy odczytu PMI.",
-      "date_published": "2026-01-02T09:00:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Obawy-o-atak-USA-na-Wenezuele-9063166.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Obawy-o-atak-USA-na-Wenezuele-9063166.html",
       "title": "Ceny ropy rosną. Obawy o atak USA na Wenezuelę",
@@ -646,34 +695,6 @@
       "title": "Podatki dla bogaczy i zamrożenie czynszów. Plan Mamdaniego dla Nowego Jorku",
       "content_html": "W inauguracyjnym wystąpieniu nowy burmistrz Nowego Jorku, Zohran Mamdani, przypomniał zwycięstwo lewicy i zapowiedział, że jego administracja \"udowodni krajowi skuteczność progresywnych rządów\". Potwierdził wierność ideologii demokratycznego...",
       "date_published": "2026-01-02T06:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fiskus-szykuje-rewolucje-podatkowa-dla-przedsiebiorcow-Odkryj-10-najwazniejszych-zmian-dla-firm-9061391.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fiskus-szykuje-rewolucje-podatkowa-dla-przedsiebiorcow-Odkryj-10-najwazniejszych-zmian-dla-firm-9061391.html",
-      "title": "Fiskus szykuje rewolucję podatkową dla przedsiębiorców. Odkryj 10 najważniejszych zmian dla firm",
-      "content_html": "10 zmian w podatkach czeka na przedsiębiorców w 2026 roku. Część z nich zwiększy bezpośrednie koszty prowadzenia firmy, inne wpłyną na liczbę obowiązków związanych z raportowaniem do urzędu skarbowego. Sprawdź, jak nowe przepisy dotyczą...",
-      "date_published": "2026-01-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinskie-auta-tansze-o-50-tys-zlotych-od-reszty-swiata-Sprawdzamy-ile-faktycznie-kosztuja-9061422.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinskie-auta-tansze-o-50-tys-zlotych-od-reszty-swiata-Sprawdzamy-ile-faktycznie-kosztuja-9061422.html",
-      "title": "Chińskie auta tańsze o 50 tys. złotych od reszty świata? Sprawdzamy, ile faktycznie kosztują",
-      "content_html": "W listopadzie udział nowych chińskich samochodów osobowych w polskim rynku po raz pierwszy przekroczył 10 proc. Auta z Państwa Środka zaczynają wypierać resztę konkurencji przede wszystkim ceną. Jak wynika z raportu EFL, są one przeciętnie...",
-      "date_published": "2026-01-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-paszczy-scamerow-To-jednak-zycie-pisze-najlepsze-scenariusze-PODCAST-9062144.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-paszczy-scamerow-To-jednak-zycie-pisze-najlepsze-scenariusze-PODCAST-9062144.html",
-      "title": "Życie pisze najczarniejsze scenariusze. Pisarz na tropie finansowych przekrętów",
-      "content_html": "Łukasz Orbitowski jest jednym z kilku pisarzy tworzących cykl słuchowisk o oszustwach finansowych Jazzgot. Ile w opowiadaniu jest fikcji, a ile prawdy?",
-      "date_published": "2026-01-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzucic-etat-w-2026-roku-Sprawdzamy-czy-przejscie-z-umowy-o-prace-na-B2B-sie-oplaca-9062441.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzucic-etat-w-2026-roku-Sprawdzamy-czy-przejscie-z-umowy-o-prace-na-B2B-sie-oplaca-9062441.html",
-      "title": "Rzucić etat w 2026 roku? Sprawdzamy, czy przejście z umowy o pracę na B2B się opłaca",
-      "content_html": "Model współpracy B2B często przedstawiany jest jako sposób na wyższe zarobki i większą swobodę zawodową. Prowadzenie działalności gospodarczej może rzeczywiście zwiększyć poziom wynagrodzenia i elastyczność pracy, wymaga jednocześnie...",
-      "date_published": "2026-01-02T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
