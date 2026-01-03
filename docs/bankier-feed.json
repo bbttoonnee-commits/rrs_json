@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kolumbia-rozmieszcza-wojska-przy-granicy-z-Wenezuela-Hiszpania-oferuje-mediacje-9063581.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolumbia-rozmieszcza-wojska-przy-granicy-z-Wenezuela-Hiszpania-oferuje-mediacje-9063581.html",
+      "title": "Kolumbia rozmieszcza wojska przy granicy z Wenezuelą. Hiszpania oferuje mediację",
+      "content_html": "Kolumbia poinformowała w sobotę o rozmieszczeniu swoich wojsk przy granicy z Wenezuelą, a Hiszpania zadeklarowała gotowość mediacji w celu pokojowego rozwiązania konfliktu po tym, jak amerykańskie wojska zaatakowały Caracas. Atak USA potępiły...",
+      "date_published": "2026-01-03T15:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-zaproponowal-Szmyhalowi-stanowisko-wicepremiera-i-ministra-energetyki-9063601.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-zaproponowal-Szmyhalowi-stanowisko-wicepremiera-i-ministra-energetyki-9063601.html",
+      "title": "Zełenski zaproponował Szmyhalowi stanowisko wicepremiera i ministra energetyki",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski zaproponował w sobotę, by stanowisko wicepremiera i ministra energetyki objął były premier i obecny szef resortu obrony Denys Szmyhal. Liczę na poparcie tej kandydatury przez parlament – dodał szef państwa...",
+      "date_published": "2026-01-03T14:44:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Maduro-oskarzony-w-USA-ws-narkotykow-i-terroryzmu-9063592.html",
       "url": "https://www.bankier.pl/wiadomosc/Maduro-oskarzony-w-USA-ws-narkotykow-i-terroryzmu-9063592.html",
       "title": "Maduro oskarżony w USA ws. narkotyków i terroryzmu",
@@ -58,13 +72,6 @@
       "title": "MRR Grupy Text spadł o 1,7 proc. rdr, a płatności pozyskane wzrosły o 2,1 proc.",
       "content_html": "Text szacuje, że na koniec III kwartału roku finansowego 2025/26 wartość miesięcznych powtarzalnych przychodów subskrypcyjnych (MRR - Monthly Recurring Revenue) Grupy wyniosła 6,98 mln USD - poinformowała notowana na warszawskiej giełdzie spółka...",
       "date_published": "2026-01-03T12:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolumbia-rozmieszcza-wojska-przy-granicy-z-Wenezuela-Hiszpania-oferuje-mediacje-9063581.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolumbia-rozmieszcza-wojska-przy-granicy-z-Wenezuela-Hiszpania-oferuje-mediacje-9063581.html",
-      "title": "Kolumbia rozmieszcza wojska przy granicy z Wenezuelą. Hiszpania oferuje mediację",
-      "content_html": "Kolumbia poinformowała w sobotę o rozmieszczeniu swoich wojsk przy granicy z Wenezuelą, a Hiszpania zadeklarowała gotowość mediacji w celu pokojowego rozwiązania konfliktu po tym, jak amerykańskie wojska zaatakowały Caracas. Atak USA potępiły...",
-      "date_published": "2026-01-03T12:40:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kurierzy-maja-mniej-dlugow-Pierwszy-taki-spadek-od-lat-9058322.html",
@@ -410,13 +417,6 @@
       "date_published": "2026-01-02T14:15:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Taryfy-dynamiczne-dla-prosumentow-Resort-energii-szykuje-zmiany-w-rachunkach-9063310.html",
-      "url": "https://www.bankier.pl/wiadomosc/Taryfy-dynamiczne-dla-prosumentow-Resort-energii-szykuje-zmiany-w-rachunkach-9063310.html",
-      "title": "Taryfy dynamiczne dla prosumentów? Resort energii szykuje zmiany w rachunkach",
-      "content_html": "W styczniu rozpoczyna pracę zespół do spraw kształtowania taryf, jednym z możliwych rozwiązań są taryfy dynamiczne dla prosumentów z odpowiednim limitem cenowym - wynika z wypowiedzi szefa ME Miłosza Motyki w TVN24. Resort energii rozważa też...",
-      "date_published": "2026-01-02T14:12:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Kolejne-ataki-w-Jemenie-Walki-o-bazy-wojskowe-i-tereny-bogate-w-rope-9063309.html",
       "url": "https://www.bankier.pl/wiadomosc/Kolejne-ataki-w-Jemenie-Walki-o-bazy-wojskowe-i-tereny-bogate-w-rope-9063309.html",
       "title": "Kolejne ataki w Jemenie. Walki o bazy wojskowe i tereny bogate w ropę",
@@ -688,20 +688,6 @@
       "title": "Starzejąca się Polska nie zatopi ZUS-u? Wpływy i wydatki do 2080 roku",
       "content_html": "Mimo niekorzystnych zmian demograficznych polski system emerytalny zachowa stabilność aż do 2080 roku – wynika z najnowszej, długoterminowej prognozy Zakładu Ubezpieczeń Społecznych. Największym wyzwaniem będzie rok 2060, kiedy liczba emerytów...",
       "date_published": "2026-01-02T08:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/30-proc-CIT-dla-bankow-Wchodza-w-zycie-nowe-przepisy-podatkowe-9062943.html",
-      "url": "https://www.bankier.pl/wiadomosc/30-proc-CIT-dla-bankow-Wchodza-w-zycie-nowe-przepisy-podatkowe-9062943.html",
-      "title": "30 proc. CIT dla banków. Wchodzą w życie nowe przepisy podatkowe",
-      "content_html": "1 stycznia w życie wchodzą przepisy, które skutkują podwyższeniem stawki podatku dochodowego płaconego przez banki. W 2026 r. wyniesie ona 30 proc. Mniej zapłacą podmioty rozpoczynające działalność, SKOK-i, małe podmioty oraz banki w procesach...",
-      "date_published": "2026-01-02T08:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ofiaromat-zamiast-koperty-z-gotowka-do-reki-Koleda-wchodzi-w-XXI-wiek-9063121.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ofiaromat-zamiast-koperty-z-gotowka-do-reki-Koleda-wchodzi-w-XXI-wiek-9063121.html",
-      "title": "Ofiaromat zamiast koperty z gotówką do ręki. Kolęda wchodzi w XXI wiek",
-      "content_html": "Po Bożym Narodzeniu w parafiach zaczyna się kolęda. W większości przebiega tradycyjnie, ale niektórzy księża wprowadzili zmiany. Część zrezygnowała z ofiar, inni wprowadzili udogodnienia elektroniczne. W poznańskiej parafii ksiądz nie chodzi...",
-      "date_published": "2026-01-02T08:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
