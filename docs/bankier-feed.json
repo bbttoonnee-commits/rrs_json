@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Maduro-oskarzony-w-USA-ws-narkotykow-i-terroryzmu-9063592.html",
+      "url": "https://www.bankier.pl/wiadomosc/Maduro-oskarzony-w-USA-ws-narkotykow-i-terroryzmu-9063592.html",
+      "title": "Maduro oskarżony w USA ws. narkotyków i terroryzmu",
+      "content_html": "Prokuratura federalna w Nowym Jorku opublikowała w sobotę nowe, uaktualnione zarzuty wobec obalonego przywódcy Wenezueli Nicolasa Maduro, jego żony Cilii Flores, syna i ministrów. USA oskarżają Maduro m.in. o uczestnictwo w „zmowie narkoterrorystycznej”...",
+      "date_published": "2026-01-04T07:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Placa-minimalna-2026-ile-wyniesie-minimalne-wynagrodzenie-i-jak-wplynie-na-pracownikow-oraz-firmy-9061261.html",
       "url": "https://www.bankier.pl/wiadomosc/Placa-minimalna-2026-ile-wyniesie-minimalne-wynagrodzenie-i-jak-wplynie-na-pracownikow-oraz-firmy-9061261.html",
       "title": "Płaca minimalna 2026: ile wyniesie minimalne wynagrodzenie i jak wpłynie na pracowników oraz firmy?",
@@ -30,6 +37,20 @@
       "title": "Dług polskiego przemysłu sięga 7,5 mld zł. Mniej dłużników, ale większe kwoty",
       "content_html": "Łączne przeterminowane zadłużenie sektora produkcji wzrosło w ciągu roku o 4,3 proc. osiągając na koniec września br. poziom blisko 7,5 mld zł - podał w raporcie BIG InfoMonitor. Spadła jednak liczba zadłużonych firm.",
       "date_published": "2026-01-04T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Krwawy-atak-USA-na-Wenezuele-Zginelo-co-najmniej-40-osob-9063677.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krwawy-atak-USA-na-Wenezuele-Zginelo-co-najmniej-40-osob-9063677.html",
+      "title": "Krwawy atak USA na Wenezuelę. Zginęło co najmniej 40 osób",
+      "content_html": "W sobotnim ataku USA na Wenezuelę zginęło co najmniej 40 osób, wśród nich żołnierze i cywile – podał w nocy z soboty na niedzielę dziennik „New York Times”, powołując się na niewymienionego z nazwiska, wysokiego rangą urzędnika wenezuelskiego...",
+      "date_published": "2026-01-04T00:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-Nie-jestem-zachwycony-Putinem-zabija-zbyt-wielu-ludzi-9063653.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Nie-jestem-zachwycony-Putinem-zabija-zbyt-wielu-ludzi-9063653.html",
+      "title": "Trump: Nie jestem zachwycony Putinem, zabija zbyt wielu ludzi",
+      "content_html": "Prezydent USA Donald Trump powiedział w sobotę, że „nie jest zachwycony” Władimirem Putinem, bo „zabija zbyt wielu ludzi”. Zaznaczył jednak, że choć wojna w Ukrainie nie jest jego wojną, to chce ją powstrzymać. Dodał, że widzi postęp...",
+      "date_published": "2026-01-03T20:22:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Prezydent-Kolumbii-musi-uwazac-na-tylek-9063644.html",
@@ -142,13 +163,6 @@
       "title": "Zełenski zaproponował Szmyhalowi stanowisko wicepremiera i ministra energetyki",
       "content_html": "Prezydent Ukrainy Wołodymyr Zełenski zaproponował w sobotę, by stanowisko wicepremiera i ministra energetyki objął były premier i obecny szef resortu obrony Denys Szmyhal. Liczę na poparcie tej kandydatury przez parlament – dodał szef państwa...",
       "date_published": "2026-01-03T14:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Maduro-oskarzony-w-USA-ws-narkotykow-i-terroryzmu-9063592.html",
-      "url": "https://www.bankier.pl/wiadomosc/Maduro-oskarzony-w-USA-ws-narkotykow-i-terroryzmu-9063592.html",
-      "title": "Maduro oskarżony w USA ws. narkotyków i terroryzmu",
-      "content_html": "Prokuratorka generalna USA Pam Bondi oświadczyła, że schwytani przez siły amerykańskie przywódca Wenezueli Nicolas Maduro i jego żona Cilia Flores zostali oskarżeni o przestępstwa związane z narkotykami i terroryzmem oraz będą sądzeni w Nowym...",
-      "date_published": "2026-01-03T14:37:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zjezdzaja-na-jabluszkach-z-Kasprowego-To-proszenie-sie-o-tragedie-9061930.html",
@@ -688,20 +702,6 @@
       "title": "Polska znika. W 2080 roku będzie nas o 10 milionów mniej, a statystyczny Polak skończy 56 lat",
       "content_html": "Do 2080 roku populacja Polski skurczy się aż o 10 milionów osób, spadając do poziomu 27,2 mln – wynika z najnowszej prognozy Ministerstwa Finansów przygotowanej dla ZUS. Resort ostrzega, że procesy te są „co najmniej niepokojące” dla systemu...",
       "date_published": "2026-01-02T11:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jemen-oglasza-pokojowe-przejmowanie-baz-od-separatystow-9063208.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jemen-oglasza-pokojowe-przejmowanie-baz-od-separatystow-9063208.html",
-      "title": "Jemen ogłasza „pokojowe” przejmowanie baz od separatystów",
-      "content_html": "Gubernator prowincji Hadramaut, na południowym wschodzie Jemenu, ogłosił rozpoczęcie operacji „pokojowego” przejmowania w regionie baz wojskowych po zajęciu nowych terenów przez separatystów wspieranych przez Zjednoczone Emiraty Arabskie –...",
-      "date_published": "2026-01-02T10:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-celu-czas-na-tanszy-pieniadz-Eksperci-NBP-wieszcza-dalsze-obnizki-stop-9063209.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-celu-czas-na-tanszy-pieniadz-Eksperci-NBP-wieszcza-dalsze-obnizki-stop-9063209.html",
-      "title": "Inflacja w celu, czas na tańszy pieniądz? Eksperci NBP wieszczą dalsze obniżki stóp",
-      "content_html": "Według najnowszej ankiety NBP przeprowadzonej wśród profesjonalnych prognostów, CPI w Polsce w 2026 r. wyniesie 2,6 proc., z typowym rozkładem prognoz 2,2-3,0 proc., a w 2027 r. 2,5 proc., z rozkładem 2,0-3,3 proc. Ankietowani widzą jedną obniżkę...",
-      "date_published": "2026-01-02T10:55:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
