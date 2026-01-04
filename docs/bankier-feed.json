@@ -11,6 +11,13 @@
       "date_published": "2026-01-04T12:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/USA-wracaja-z-pomoca-do-ONZ-Ale-przekaza-o-wiele-mniej-niz-dotad-9061714.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-wracaja-z-pomoca-do-ONZ-Ale-przekaza-o-wiele-mniej-niz-dotad-9061714.html",
+      "title": "USA wracają z pomocą do ONZ. Ale przekażą o wiele mniej niż dotąd",
+      "content_html": "Departament Stanu USA poinformował, że Stany Zjednoczone zobowiązały przekazać 2 mld dolarów na pomoc humanitarną zarządzaną przez ONZ w przyszłym roku - przekazała agencja Reutera. W 2025 roku amerykańska administracja dokonała wielu cięć...",
+      "date_published": "2026-01-04T11:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-poluja-na-biura-parki-handlowe-i-dyskonty-Zachodnie-fundusze-znow-patrza-na-Polske-9061384.html",
       "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-poluja-na-biura-parki-handlowe-i-dyskonty-Zachodnie-fundusze-znow-patrza-na-Polske-9061384.html",
       "title": "Inwestorzy polują na biura, parki handlowe i dyskonty. Zachodnie fundusze znów patrzą na Polskę",
@@ -695,13 +702,6 @@
       "title": "Drożyzna w odwrocie? Nowy koszyk inflacyjny może namieszać w danych",
       "content_html": "Na początku 2026 r. wskaźnik inflacji CPI w Polsce obniży się w okolice 2,0 proc. rdr - prognozują ekonomiści BOŚ. Szacunki inflacji na początku roku kalendarzowego są jednak obarczone niepewnością związaną z coroczną zmianą koszyka inflacyjnego...",
       "date_published": "2026-01-02T13:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przychody-AC-w-IV-kw-wyniosly-42-48-mln-zl-mniej-rdr-o-7-9-proc-wstepne-dane-9063274.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przychody-AC-w-IV-kw-wyniosly-42-48-mln-zl-mniej-rdr-o-7-9-proc-wstepne-dane-9063274.html",
-      "title": "Przychody AC w IV kw. wstępnie wyniosły 42,48 mln zł, mniej rdr o 7,9 proc.",
-      "content_html": "Przychody ze sprzedaży spółki AC w IV kwartale 2025 roku wyniosły 42,48 mln zł i są niższe rdr o 7,9 proc. - podała spółka w komunikacie dotyczącym wstępnych danych.",
-      "date_published": "2026-01-02T13:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
