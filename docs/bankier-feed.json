@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Klastry-energii-w-Polsce-napotykaja-bariery-Wysoki-prog-wejscia-hamuje-energetyke-obywatelska-9055189.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klastry-energii-w-Polsce-napotykaja-bariery-Wysoki-prog-wejscia-hamuje-energetyke-obywatelska-9055189.html",
+      "title": "Klastry energii w Polsce napotykają bariery. Wysoki próg wejścia hamuje energetykę obywatelską",
+      "content_html": "Tworzenie w Polsce klastrów energii napotyka szereg barier utrudniających ich rozwój - zauważyli eksperci Polskiego Instytutu Ekonomicznego. Wskazali m.in. na wysoki próg wejścia, jeśli chodzi o nakłady finansowe uczestników, czy niewystarczające...",
+      "date_published": "2026-01-04T12:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ponuro-nad-Sekwana-Francja-na-dnie-rankingu-nastrojow-gorzej-tylko-w-Korei-9061994.html",
       "url": "https://www.bankier.pl/wiadomosc/Ponuro-nad-Sekwana-Francja-na-dnie-rankingu-nastrojow-gorzej-tylko-w-Korei-9061994.html",
       "title": "Ponuro nad Sekwaną. Francja na dnie rankingu nastrojów (gorzej tylko w Korei)",
@@ -695,13 +702,6 @@
       "title": "Paraliż na lotnisku Schiphol. Odwołano dziesiątki lotów, gigantyczne opóźnienia",
       "content_html": "Śnieg i silny wiatr doprowadził w piątek do opóźnienia ponad 100 i odwołania kilkudziesięciu połączeń na lotnisku Schiphol w Amsterdamie. Z powodu złych warunków pogodowych przepustowość portu lotniczego znacząco spadła. Utrudnienia możliwe...",
       "date_published": "2026-01-02T13:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drozyzna-w-odwrocie-Nowy-koszyk-inflacyjny-moze-namieszac-w-danych-9063287.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drozyzna-w-odwrocie-Nowy-koszyk-inflacyjny-moze-namieszac-w-danych-9063287.html",
-      "title": "Drożyzna w odwrocie? Nowy koszyk inflacyjny może namieszać w danych",
-      "content_html": "Na początku 2026 r. wskaźnik inflacji CPI w Polsce obniży się w okolice 2,0 proc. rdr - prognozują ekonomiści BOŚ. Szacunki inflacji na początku roku kalendarzowego są jednak obarczone niepewnością związaną z coroczną zmianą koszyka inflacyjnego...",
-      "date_published": "2026-01-02T13:38:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
