@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Roszady-w-Sluzbie-Bezpieczenstwa-Ukrainy-Zelenski-wymienia-kadry-9063958.html",
+      "url": "https://www.bankier.pl/wiadomosc/Roszady-w-Sluzbie-Bezpieczenstwa-Ukrainy-Zelenski-wymienia-kadry-9063958.html",
+      "title": "Roszady w Służbie Bezpieczeństwa Ukrainy. Zełenski wymienia kadry",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski poinformował w poniedziałek, że chce zastąpić szefa Służby Bezpieczeństwa Ukrainy (SBU) generała Wasyla Maluka w ramach szerszych zmian personalnych w strukturach władzy. Maluk potwierdził, że odchodzi...",
+      "date_published": "2026-01-05T18:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trzezwosc-parlamentarzystow-pod-znakiem-zapytania-UODO-mowi-o-danych-wrazliwych-9064114.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzezwosc-parlamentarzystow-pod-znakiem-zapytania-UODO-mowi-o-danych-wrazliwych-9064114.html",
+      "title": "Trzeźwość parlamentarzystów pod znakiem zapytania. UODO mówi o „danych wrażliwych”",
+      "content_html": "Prezes UODO Mirosław Wróblewski zgłosił uwagi do poselskiego projektu nowelizacji ustawy o wykonywaniu mandatu posła i senatora oraz ustawy o Straży Marszałkowskiej, która ma umożliwić przeprowadzenie badania parlamentarzystów pod kątem trzeźwości...",
+      "date_published": "2026-01-05T17:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Wittchen-szacuje-ze-miala-w-IV-kw-150-2-mln-zl-przychodow-wiecej-o-13-proc-rdr-9064113.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Wittchen-szacuje-ze-miala-w-IV-kw-150-2-mln-zl-przychodow-wiecej-o-13-proc-rdr-9064113.html",
+      "title": "Grupa Wittchen szacuje, że miała w IV kw. 150,2 mln zł przychodów, więcej o 13 proc. rdr",
+      "content_html": "Grupa Wittchen szacuje, że w czwartym kwartale 2025 roku miała 150,2 mln zł, co oznacza wzrost o 13 proc. w porównaniu z tym samym okresem 2024 roku - poinformowała spółka w komunikacie.",
+      "date_published": "2026-01-05T17:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tim-Walz-zrezygnowal-z-walki-o-reelekcje-na-gubernatora-Minnesoty-W-tle-wielki-skandal-9064112.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tim-Walz-zrezygnowal-z-walki-o-reelekcje-na-gubernatora-Minnesoty-W-tle-wielki-skandal-9064112.html",
+      "title": "Tim Walz zrezygnował z walki o reelekcję na gubernatora Minnesoty. W tle wielki skandal",
+      "content_html": "Gubernator Minnesoty i były kandydat na wiceprezydenta USA Tim Walz ogłosił w poniedziałek, że wycofa się z walki o reelekcję. Decyzję tę podjął w obliczu afery związanej z wyłudzaniem miliardów dolarów świadczeń socjalnych przez członków...",
+      "date_published": "2026-01-05T17:49:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Auto-Partner-mial-w-grudniu-322-mln-zl-przychodow-wzrost-rdr-o-17-9-proc-9064097.html",
       "url": "https://www.bankier.pl/wiadomosc/Auto-Partner-mial-w-grudniu-322-mln-zl-przychodow-wzrost-rdr-o-17-9-proc-9064097.html",
       "title": "Auto Partner miał w grudniu 322 mln zł przychodów, wzrost rdr o 17,9 proc.",
@@ -93,13 +121,6 @@
       "title": "Chaos w Luwrze tuż po nowym roku. Pracownicy podjęli decyzję o strajku",
       "content_html": "Pracownicy paryskiego Luwru opowiedzieli się w poniedziałek rano za wznowieniem strajku, który personel muzeum prowadził w grudniu ub.r. Luwr jest tego dnia częściowo otwarty. Dostępne są największe arcydzieła, w tym „Mona Lisa” i rzeźba...",
       "date_published": "2026-01-05T14:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Roszady-w-Sluzbie-Bezpieczenstwa-Ukrainy-Zelenski-wymienia-kadry-9063958.html",
-      "url": "https://www.bankier.pl/wiadomosc/Roszady-w-Sluzbie-Bezpieczenstwa-Ukrainy-Zelenski-wymienia-kadry-9063958.html",
-      "title": "Roszady w Służbie Bezpieczeństwa Ukrainy. Zełenski wymienia kadry",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski poinformował w poniedziałek, że chce zastąpić szefa Służby Bezpieczeństwa Ukrainy (SBU) generała Wasyla Maluka w ramach szerszych zmian personalnych w strukturach władzy. Maluk potwierdził, że odchodzi...",
-      "date_published": "2026-01-05T14:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-podsumowuje-rok-2025-Przyspieszenie-zakupow-i-rozwoj-Wojska-Polskiego-9064001.html",
@@ -660,48 +681,6 @@
       "title": "Duża awaria prądu w Berlinie. \"Przyznały się środowiska lewicowo-ekstremistyczne\"",
       "content_html": "Rozległa przerwa w dostawach prądu w południowo-zachodniej części Berlina to wynik celowego ataku, za który odpowiadają lewicowi ekstremiści - poinformował w niedzielę burmistrz niemieckiej stolicy Kai Wegner. Gospodarstwom domowym powoli przywracana...",
       "date_published": "2026-01-04T14:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Z-samej-fotowoltaiki-na-magazyny-energii-Fundusz-szykuje-zmiany-w-programie-Moj-prad-9061193.html",
-      "url": "https://www.bankier.pl/wiadomosc/Z-samej-fotowoltaiki-na-magazyny-energii-Fundusz-szykuje-zmiany-w-programie-Moj-prad-9061193.html",
-      "title": "Z samej fotowoltaiki na magazyny energii. Fundusz szykuje zmiany w programie „Mój prąd”",
-      "content_html": "W 2026 r., po zmianie programu „Mój Prąd”, Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej chce uruchomić program, z którego właściciele fotowoltaiki będą mogli otrzymać dotacje do kupna magazynów energii – poinformowała PAP...",
-      "date_published": "2026-01-04T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Graniczny-podatek-weglowy-siegnie-takze-Chin-Ekspertka-wyjasnia-9061843.html",
-      "url": "https://www.bankier.pl/wiadomosc/Graniczny-podatek-weglowy-siegnie-takze-Chin-Ekspertka-wyjasnia-9061843.html",
-      "title": "Graniczny podatek węglowy sięgnie także Chin? Ekspertka wyjaśnia",
-      "content_html": "Chińskie firmy mogą w bliskiej przyszłości mierzyć się z porównywalnymi wymaganiami w zakresie dekarbonizacji, co europejskie, zwłaszcza w związku z wyzwaniami, jakie będą wynikały dla nich z unijnego mechanizmu CBAM, czyli granicznego podatku...",
-      "date_published": "2026-01-04T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-Rady-ds-Kobiet-MNiSW-laczy-gremia-i-zapowiada-nowy-zespol-9061924.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-Rady-ds-Kobiet-MNiSW-laczy-gremia-i-zapowiada-nowy-zespol-9061924.html",
-      "title": "Koniec Rady ds. Kobiet. MNiSW łączy gremia i zapowiada nowy zespół",
-      "content_html": "W pierwszym kwartale 2026 r. planowane jest powołanie nowego zespołu do spraw równości - poinformował PAP resort nauki. Zastąpić ma on pracę dwóch innych ministerialnych zespołów, w tym Rady ds. kobiet.",
-      "date_published": "2026-01-04T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paraliz-na-lotniskach-w-Grecji-Zamknieto-przestrzen-powietrzna-nad-calym-krajem-9063742.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paraliz-na-lotniskach-w-Grecji-Zamknieto-przestrzen-powietrzna-nad-calym-krajem-9063742.html",
-      "title": "Paraliż na lotniskach w Grecji. Zamknięto przestrzeń powietrzną nad całym krajem",
-      "content_html": "Lotniska w całej Grecji zawiesiły w niedzielę przyloty i odloty z powodu niesprecyzowanych problemów z częstotliwościami radiowymi - podał krajowy Urząd Lotnictwa Cywilnego. Ambasada RP w Grecji podała, że z powodu awarii zamknięto przestrzeń...",
-      "date_published": "2026-01-04T12:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-oplat-roamingowych-dla-Ukrainy-i-Moldawii-KE-zdecydowala-9063736.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-oplat-roamingowych-dla-Ukrainy-i-Moldawii-KE-zdecydowala-9063736.html",
-      "title": "Koniec opłat roamingowych dla Ukrainy i Mołdawii. KE zdecydowała",
-      "content_html": "Od 2026 roku posiadacze ukraińskich i mołdawskich numerów telefonów korzystają z usług telekomunikacyjnych w Unii Europejskiej bez dodatkowych opłat. Dołączenie Ukrainy i Mołdawii do unijnego obszaru roamingu przybliża te kraje do wejścia...",
-      "date_published": "2026-01-04T12:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Klastry-energii-w-Polsce-napotykaja-bariery-Wysoki-prog-wejscia-hamuje-energetyke-obywatelska-9055189.html",
-      "url": "https://www.bankier.pl/wiadomosc/Klastry-energii-w-Polsce-napotykaja-bariery-Wysoki-prog-wejscia-hamuje-energetyke-obywatelska-9055189.html",
-      "title": "Klastry energii w Polsce napotykają bariery. Wysoki próg wejścia hamuje energetykę obywatelską",
-      "content_html": "Tworzenie w Polsce klastrów energii napotyka szereg barier utrudniających ich rozwój - zauważyli eksperci Polskiego Instytutu Ekonomicznego. Wskazali m.in. na wysoki próg wejścia, jeśli chodzi o nakłady finansowe uczestników, czy niewystarczające...",
-      "date_published": "2026-01-04T12:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
