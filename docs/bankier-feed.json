@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Boom-urodzen-wsrod-cudzoziemcow-Prawie-dwukrotny-wzrost-w-ciagu-5-lat-9061838.html",
+      "url": "https://www.bankier.pl/wiadomosc/Boom-urodzen-wsrod-cudzoziemcow-Prawie-dwukrotny-wzrost-w-ciagu-5-lat-9061838.html",
+      "title": "Boom urodzeń wśród cudzoziemców. Prawie dwukrotny wzrost w ciągu 5 lat",
+      "content_html": "Dane GUS i Ministerstwa Cyfryzacji potwierdzają znaczący wzrost urodzeń dzieci cudzoziemców w Polsce. Jednak eksperci podkreślają, że choć jest to zauważalne zjawisko, może tylko nieco złagodzić problem demograficzny, jakim jest spadek liczby...",
+      "date_published": "2026-01-06T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html",
+      "title": "Rosjanie zbombardowali dronami amerykańskie przedsiębiorstwo w Dnieprze",
+      "content_html": "Rosyjskie wojska zbombardowały w mieście Dniepr na środkowym wschodzie Ukrainy przedsiębiorstwo dużego amerykańskiego producenta rolnego Bunge; w wyniku ataku na ulice miasta wylało się 300 ton oleju roślinnego – powiadomił w poniedziałek...",
+      "date_published": "2026-01-05T20:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Maduro-stanal-przed-amerykanskim-sadem-Nie-przyznal-sie-do-winy-9064125.html",
       "url": "https://www.bankier.pl/wiadomosc/Maduro-stanal-przed-amerykanskim-sadem-Nie-przyznal-sie-do-winy-9064125.html",
       "title": "Maduro stanął przed amerykańskim sądem. Nie przyznał się do winy",
@@ -121,13 +135,6 @@
       "title": "Prezydentka Meksyku: odrzucamy ingerencję w sprawy wewnętrzne innych krajów",
       "content_html": "Prezydentka Meksyku Claudia Sheinbaum oświadczyła w poniedziałek, że jej rząd kategorycznie odrzuca ingerencję w sprawy wewnętrzne innych krajów - przekazała agencja Reutera.",
       "date_published": "2026-01-05T16:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosjanie-zbombardowali-dronami-amerykanskie-przedsiebiorstwo-w-Dnieprze-9064053.html",
-      "title": "Rosjanie zbombardowali dronami amerykańskie przedsiębiorstwo w Dnieprze",
-      "content_html": "Rosyjskie wojska zbombardowały w mieście Dniepr na środkowym wschodzie Ukrainy przedsiębiorstwo dużego amerykańskiego producenta rolnego Bunge; w wyniku ataku na ulice miasta wylało się 300 ton oleju roślinnego – powiadomił w poniedziałek...",
-      "date_published": "2026-01-05T15:56:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tragiczny-pozar-w-Crans-Montanie-Dwie-osoby-z-Polski-wsrod-rannych-9064031.html",
@@ -695,13 +702,6 @@
       "title": "USA stawiają Wenezueli warunki. Rubio: Blokada będzie kontynuowana",
       "content_html": "Sekretarz stanu USA Marco Rubio powiedział w niedzielę telewizji ABC, że USA będą wykorzystywać blokadę Wenezueli jako środek nacisku na reżim w Caracas, by wprowadził pożądane przez USA zmiany, w tym w sektorze naftowym. Odpowiedział w ten...",
       "date_published": "2026-01-04T17:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zasilek-pogrzebowy-w-gore-z-4-do-7-tys-zl-Co-trzeba-wypelnic-9062946.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zasilek-pogrzebowy-w-gore-z-4-do-7-tys-zl-Co-trzeba-wypelnic-9062946.html",
-      "title": "Zasiłek pogrzebowy w górę z 4 do 7 tys. zł. Co trzeba wypełnić?",
-      "content_html": "Od 1 stycznia 2026 r. zasiłek pogrzebowy wzrósł z 4 do 7 tys. zł, a czas jego wypłaty skróci się z 30 do 14 dni. Według danych ZUS w ubiegłym roku wypłacono blisko 360 tys. zasiłków pogrzebowych, najwięcej w województwie śląskim (50,5...",
-      "date_published": "2026-01-04T17:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
