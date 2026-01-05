@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Text-w-26-skoncentruje-sie-na-akwizycji-klientow-priorytetem-powrot-do-wzrostu-przychodow-i-MRR-9063979.html",
+      "url": "https://www.bankier.pl/wiadomosc/Text-w-26-skoncentruje-sie-na-akwizycji-klientow-priorytetem-powrot-do-wzrostu-przychodow-i-MRR-9063979.html",
+      "title": "Text w '26 skoncentruje się na akwizycji klientów. Priorytetem powrót do wzrostu przychodów i MRR Text w 2026 r. nadal będzie rozwijać ofertę produktową, ale bardziej skoncentruje się na dotarciu do klientów oraz ich akwizycji - poinformowali przedstawiciele spółki na konferencji prasowej. Podano, że priorytetem Text'u jest powrót do wzrostu na poziomie przychodów i MRR.",
+      "content_html": "",
+      "date_published": "2026-01-05T13:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-na-Wenezuele-wzmocni-dolata-Polityka-moze-namieszac-na-gieldach-9063973.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-na-Wenezuele-wzmocni-dolata-Polityka-moze-namieszac-na-gieldach-9063973.html",
+      "title": "OPINIA Atak na Wenezuelę wzmocni dolara? Polityka może namieszać na giełdach Rynek walutowy uznał, że sprawa Wenezueli została załatwiona, dlatego w poniedziałek rano nie było widać większych zmian – powiedział PAP główny analityk walutowy DM BOŚ Marek Rogalski. Jego zdaniem jednak sprawa się jeszcze nie skończyła, a to może się przełożyć na dolara i giełdy.",
+      "content_html": "",
+      "date_published": "2026-01-05T13:33:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CGI-sfinalizowalo-przejecie-Comarch-Polska-9063951.html",
+      "url": "https://www.bankier.pl/wiadomosc/CGI-sfinalizowalo-przejecie-Comarch-Polska-9063951.html",
+      "title": "Zielone światło od UOKiK. Comarch Polska oficjalnie w rękach CGI CGI sfinalizowało przejęcie Comarch Polska SA za pośrednictwem swojej spółki zależnej CGI Information Systems and Management Consultants Polska - poinformowało CGI w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-05T12:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Aktywa-pod-zarzadzaniem-Quercus-TFI-pod-koniec-25-wyniosly-9-02-mld-zl-wzrosly-42-3-proc-rdr-9063947.html",
       "url": "https://www.bankier.pl/wiadomosc/Aktywa-pod-zarzadzaniem-Quercus-TFI-pod-koniec-25-wyniosly-9-02-mld-zl-wzrosly-42-3-proc-rdr-9063947.html",
       "title": "Aktywa pod zarządzaniem Quercus TFI pod koniec '25 wyniosły 9,02 mld zł, wzrosły 42,3 proc. rdr Wartość aktywów pod zarządzaniem Quercus TFI na koniec 2025 r. wyniosła 9.021 mln zł, czyli wzrosła 42,3 proc. rdr - poinformowała spółka w komunikacie.",
@@ -72,13 +93,6 @@
       "title": "Gawkowski: Budowa kompetencji cyfrowych to jedyny sposób na suwerenność Unia Europejska intensyfikuje działania na rzecz wzmocnienia swojej pozycji technologicznej. W projekcie nowych wieloletnich ram finansowych Komisja Europejska zapowiedziała ponad 400 mld euro z Europejskiego Funduszu Konkurencyjności...",
       "content_html": "",
       "date_published": "2026-01-03T18:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MRR-Grupy-Text-spadl-o-1-7-proc-rdr-a-platnosci-pozyskane-wzrosly-o-2-1-proc-9063582.html",
-      "url": "https://www.bankier.pl/wiadomosc/MRR-Grupy-Text-spadl-o-1-7-proc-rdr-a-platnosci-pozyskane-wzrosly-o-2-1-proc-9063582.html",
-      "title": "MRR Grupy Text spadł o 1,7 proc. rdr, a płatności pozyskane wzrosły o 2,1 proc. Text szacuje, że na koniec III kwartału roku finansowego 2025/26 wartość miesięcznych powtarzalnych przychodów subskrypcyjnych (MRR - Monthly Recurring Revenue) Grupy wyniosła 6,98 mln USD - poinformowała notowana na warszawskiej giełdzie spółka.",
-      "content_html": "",
-      "date_published": "2026-01-03T12:52:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
