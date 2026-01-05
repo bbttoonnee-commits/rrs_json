@@ -2,49 +2,6 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "Bankier.pl – Giełda – Wiadomości",
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
-  "items": [
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-poluja-na-biura-parki-handlowe-i-dyskonty-Zachodnie-fundusze-znow-patrza-na-Polske-9061384.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-poluja-na-biura-parki-handlowe-i-dyskonty-Zachodnie-fundusze-znow-patrza-na-Polske-9061384.html",
-      "title": "Inwestorzy polują na biura, parki handlowe i dyskonty. Zachodnie fundusze znów patrzą na Polskę Polski rynek nieruchomości komercyjnych staje się coraz bardziej atrakcyjny dla nieinstytucjonalnych graczy i inwestorów prywatnych z regionu CEE, ale w 2026 r. na polski rynek mogą wrócić zachodnie podmioty - ocenia firma doradcza JLL. Liderem rynku inwestycyjnego w 2026 r. może być sektor biurowy.",
-      "content_html": "",
-      "date_published": "2026-01-04T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gawkowski-Budowa-kompetencji-cyfrowych-to-jedyny-sposob-na-suwerennosc-9058330.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gawkowski-Budowa-kompetencji-cyfrowych-to-jedyny-sposob-na-suwerennosc-9058330.html",
-      "title": "Gawkowski: Budowa kompetencji cyfrowych to jedyny sposób na suwerenność Unia Europejska intensyfikuje działania na rzecz wzmocnienia swojej pozycji technologicznej. W projekcie nowych wieloletnich ram finansowych Komisja Europejska zapowiedziała ponad 400 mld euro z Europejskiego Funduszu Konkurencyjności...",
-      "content_html": "",
-      "date_published": "2026-01-03T18:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MRR-Grupy-Text-spadl-o-1-7-proc-rdr-a-platnosci-pozyskane-wzrosly-o-2-1-proc-9063582.html",
-      "url": "https://www.bankier.pl/wiadomosc/MRR-Grupy-Text-spadl-o-1-7-proc-rdr-a-platnosci-pozyskane-wzrosly-o-2-1-proc-9063582.html",
-      "title": "MRR Grupy Text spadł o 1,7 proc. rdr, a płatności pozyskane wzrosły o 2,1 proc. Text szacuje, że na koniec III kwartału roku finansowego 2025/26 wartość miesięcznych powtarzalnych przychodów subskrypcyjnych (MRR - Monthly Recurring Revenue) Grupy wyniosła 6,98 mln USD - poinformowała notowana na warszawskiej giełdzie spółka.",
-      "content_html": "",
-      "date_published": "2026-01-03T12:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pozegnanie-Buffetta-ostrzezenie-przed-Tesla-prognozy-dla-bitcoina-i-nie-tylko-O-tym-mowi-Wall-Street-9063539.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozegnanie-Buffetta-ostrzezenie-przed-Tesla-prognozy-dla-bitcoina-i-nie-tylko-O-tym-mowi-Wall-Street-9063539.html",
-      "title": "O TYM MÓWI WALL STREET Pożegnanie Buffetta, ostrzeżenie przed Teslą, prognozy dla bitcoina i nie tylko Obserwatorzy rynków akcji przewidują kolejny rok dwucyfrowych wzrostów indeksu S&P 500, podczas gdy analitycy sektora kryptowalut przedstawiają mocne argumenty za rekordowymi wycenami bitcoina. W centrum uwagi pozostaje jednak historyczna zmiana w Berkshire Hathaway oraz pesymistyczne prognozy Michaela Burry’ego dotyczące najpopularniejszego producenta samochodów elektrycznych.",
-      "content_html": "",
-      "date_published": "2026-01-03T12:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paryz-w-cenie-Co-kryje-sie-za-rekordowymi-zakupami-klanu-Arnault-9061465.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paryz-w-cenie-Co-kryje-sie-za-rekordowymi-zakupami-klanu-Arnault-9061465.html",
-      "title": "Paryż w cenie. Co kryje się za rekordowymi zakupami klanu Arnault? Gdy inni miliarderzy w obawie przed podatkami wyprzedają swój majątek, rodzina Arnault wybiera odmienną strategię. W ciągu roku wydała blisko 200 mln euro na zakup trzech adresów, płacąc najwyższe stawki na paryskim rynku nieruchomości w ostatnich dwunastu miesiącach. Ten krok to nie tylko inwestycja kapitałowa, ale też silny impuls ożywiający rynek luksusowych nieruchomości - podaje \"Financial Times\".",
-      "content_html": "",
-      "date_published": "2026-01-03T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-pod-kontrola-niskie-ceny-ropy-i-rekordy-na-GPW-9062523.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-pod-kontrola-niskie-ceny-ropy-i-rekordy-na-GPW-9062523.html",
-      "title": "WYKRESY TYGODNIA Inflacja pod kontrolą, niskie ceny ropy i rekordy na GPW Ostatni grudniowy tydzień 2025 roku poskutkował publikacją danych o inflacji, informacją BIK-u o liczbie udzielonych przez banki kredytów czy ciekawym finiszem roku na GPW. Zobaczmy to na wykresach.",
-      "content_html": "",
-      "date_published": "2026-01-03T06:00:00+01:00"
-    }
-  ],
+  "items": [],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
 }
