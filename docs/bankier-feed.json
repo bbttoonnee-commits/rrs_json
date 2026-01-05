@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Maduro-stanal-przed-amerykanskim-sadem-Nie-przyznal-sie-do-winy-9064125.html",
+      "url": "https://www.bankier.pl/wiadomosc/Maduro-stanal-przed-amerykanskim-sadem-Nie-przyznal-sie-do-winy-9064125.html",
+      "title": "Maduro stanął przed amerykańskim sądem. Nie przyznał się do winy",
+      "content_html": "Obalony przywódca Wenezueli Nicolas Maduro i jego żona Cilia Flores usłyszeli w poniedziałek w sądzie federalnym w Nowym Jorku cztery zarzuty, w tym m.in. uczestnictwa w zmowie narkoterrorystycznej i sprowadzania kokainy do USA. Nie przyznali się...",
+      "date_published": "2026-01-05T19:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-Syrii-wznowil-negocjacje-z-Izraelem-Posrednicza-w-nich-USA-9064159.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-Syrii-wznowil-negocjacje-z-Izraelem-Posrednicza-w-nich-USA-9064159.html",
+      "title": "Rząd Syrii wznowił negocjacje z Izraelem. Pośredniczą w nich USA",
+      "content_html": "Syryjska państwowa agencja prasowa SANA poinformowała w poniedziałek, że delegacja tego kraju wznowiła rokowania z Izraelem w sprawie uregulowania stosunków dwustronnych. Mediatorem w negocjacjach, które przerwano w październiku, są Stany Zjednoczone...",
+      "date_published": "2026-01-05T19:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-Dadelo-w-IV-kw-wyniosly-65-mln-zl-wiecej-o-58-5-proc-rdr-szacunki-9064152.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-Dadelo-w-IV-kw-wyniosly-65-mln-zl-wiecej-o-58-5-proc-rdr-szacunki-9064152.html",
+      "title": "Szacunkowe przychody Dadelo w IV kw. wyniosły 65 mln zł, więcej o 58,5 proc. rdr",
+      "content_html": "Przychody Dadelo w czwartym kwartale 2025 roku wyniosły 65 mln zł, więcej o 58,5 proc. rdr - podała spółka w komunikacie z szacunkami.",
+      "date_published": "2026-01-05T19:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-nietykalnosci-Maduro-Szwajcaria-uderza-w-jego-aktywa-9063967.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-nietykalnosci-Maduro-Szwajcaria-uderza-w-jego-aktywa-9063967.html",
+      "title": "Koniec nietykalności Maduro. Szwajcaria uderza w jego aktywa",
+      "content_html": "Szwajcaria zamroziła zdeponowane w tym kraju aktywa należące do Nicolasa Maduro i jego współpracowników - poinformowała w poniedziałek Rada Federalna (rząd). Przywódca Wenezueli został ujęty w sobotę w Caracas przez siły USA i ma stanąć...",
+      "date_published": "2026-01-05T18:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-reklamami-chipsow-przed-21-00-Brytyjski-rzad-chce-walczyc-z-plaga-otylosci-9064132.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-reklamami-chipsow-przed-21-00-Brytyjski-rzad-chce-walczyc-z-plaga-otylosci-9064132.html",
+      "title": "Koniec z reklamami chipsów przed 21:00. Brytyjski rząd chce walczyć z otyłością",
+      "content_html": "Od poniedziałku w Wielkiej Brytanii obowiązuje zakaz emitowania reklam śmieciowego jedzenia przed godziną 21. Celem jest ochrona dzieci przed produktami o wysokiej zawartości tłuszczu, soli i cukru, uważanymi za najważniejszą przyczynę otyłości...",
+      "date_published": "2026-01-05T18:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Putin-w-Budapeszcie-Orban-To-nie-jest-dobry-czas-na-wizyte-9064131.html",
+      "url": "https://www.bankier.pl/wiadomosc/Putin-w-Budapeszcie-Orban-To-nie-jest-dobry-czas-na-wizyte-9064131.html",
+      "title": "Putin w Budapeszcie? Orban: To nie jest dobry czas na wizytę",
+      "content_html": "To nie jest dobry czas na wizytę prezydenta Rosji Władimira Putina na Węgrzech - stwierdził podczas poniedziałkowej konferencji prasowej węgierski premier Viktor Orban. Skomentował też m.in. stosunek Budapesztu do Unii Europejskiej i interwencji...",
+      "date_published": "2026-01-05T18:28:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Roszady-w-Sluzbie-Bezpieczenstwa-Ukrainy-Zelenski-wymienia-kadry-9063958.html",
       "url": "https://www.bankier.pl/wiadomosc/Roszady-w-Sluzbie-Bezpieczenstwa-Ukrainy-Zelenski-wymienia-kadry-9063958.html",
       "title": "Roszady w Służbie Bezpieczeństwa Ukrainy. Zełenski wymienia kadry",
@@ -184,13 +226,6 @@
       "title": "Siarczysty mróz do minus 18 nadciąga nad Polskę. Alerty od Dolnego Śląska po Podlasie",
       "content_html": "Instytut Meteorologii i Gospodarki Wodnej wydał w poniedziałek ostrzeżenia I stopnia przed silnym mrozem dla siedmiu województw. Na tych obszarach prognozowana jest temperatura minimalna w nocy do minus 18 st. C oraz wiatr o średniej prędkości...",
       "date_published": "2026-01-05T13:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-nietykalnosci-Maduro-Szwajcaria-uderza-w-jego-aktywa-9063967.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-nietykalnosci-Maduro-Szwajcaria-uderza-w-jego-aktywa-9063967.html",
-      "title": "Koniec nietykalności Maduro. Szwajcaria uderza w jego aktywa",
-      "content_html": "Szwajcaria zamroziła zdeponowane w tym kraju aktywa należące do Nicolasa Maduro i jego współpracowników - poinformowała w poniedziałek Rada Federalna (rząd). Przywódca Wenezueli został ujęty w sobotę w Caracas przez siły USA i ma stanąć...",
-      "date_published": "2026-01-05T13:23:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nowa-aplikacja-od-tworcow-Twittera-i-Pinteresta-Dobra-era-social-mediow-mozliwa-9063924.html",
@@ -667,20 +702,6 @@
       "title": "Zasiłek pogrzebowy w górę z 4 do 7 tys. zł. Co trzeba wypełnić?",
       "content_html": "Od 1 stycznia 2026 r. zasiłek pogrzebowy wzrósł z 4 do 7 tys. zł, a czas jego wypłaty skróci się z 30 do 14 dni. Według danych ZUS w ubiegłym roku wypłacono blisko 360 tys. zasiłków pogrzebowych, najwięcej w województwie śląskim (50,5...",
       "date_published": "2026-01-04T17:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Francji-swiat-bedzie-coraz-bardziej-brutalny-9063763.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Francji-swiat-bedzie-coraz-bardziej-brutalny-9063763.html",
-      "title": "Szef MSZ Francji: świat będzie coraz bardziej brutalny",
-      "content_html": "Szef MSZ Francji Jean-Noel Barrot powiedział w niedzielę, że Paryż w obliczu coraz częstszych naruszeń prawa międzynarodowego będzie bronić swych zasad. Zarazem, przygotowuje się na to, że świat będzie bardziej brutalny. Barrot mówił o...",
-      "date_published": "2026-01-04T16:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Duza-awaria-pradu-w-Berlinie-Przyznaly-sie-srodowiska-lewicowo-ekstremistyczne-9063756.html",
-      "url": "https://www.bankier.pl/wiadomosc/Duza-awaria-pradu-w-Berlinie-Przyznaly-sie-srodowiska-lewicowo-ekstremistyczne-9063756.html",
-      "title": "Duża awaria prądu w Berlinie. \"Przyznały się środowiska lewicowo-ekstremistyczne\"",
-      "content_html": "Rozległa przerwa w dostawach prądu w południowo-zachodniej części Berlina to wynik celowego ataku, za który odpowiadają lewicowi ekstremiści - poinformował w niedzielę burmistrz niemieckiej stolicy Kai Wegner. Gospodarstwom domowym powoli przywracana...",
-      "date_published": "2026-01-04T14:56:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
