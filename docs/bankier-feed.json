@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Advent-stoi-za-warta-6-mld-euro-oferta-przejecia-InPostu-Sky-News-9064363.html",
+      "url": "https://www.bankier.pl/wiadomosc/Advent-stoi-za-warta-6-mld-euro-oferta-przejecia-InPostu-Sky-News-9064363.html",
+      "title": "Advent stoi za wartą 6 mld euro ofertą przejęcia InPostu - Sky News",
+      "content_html": "Fundusz private equity Advent International jest częścią konsorsjum, które stoi za wartą 6 mld euro ofertą przejęcia InPostu, operatora logistycznego dla branży e-commerce - poinformował Sky News, nie podając źródeł swojej informacji.",
+      "date_published": "2026-01-06T16:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-zastrzezonych-numerow-PESEL-Zrobilo-to-juz-7-5-miliona-Polakow-9054771.html",
       "url": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-zastrzezonych-numerow-PESEL-Zrobilo-to-juz-7-5-miliona-Polakow-9054771.html",
       "title": "Rekordowa liczba zastrzeżonych numerów PESEL. Zrobiło to już 7,5 miliona Polaków",
@@ -695,13 +702,6 @@
       "title": "Co z chińskimi interesami w Wenezueli? Pekin chce je kontynuować",
       "content_html": "Chiny potępiły w poniedziałek użycie siły przez USA w Wenezueli, uznając to za rażące naruszenie suwerenności i prawa międzynarodowego. MSZ w Pekinie zażądało natychmiastowego uwolnienia wywiezionego z kraju prezydenta Nicolasa Maduro oraz...",
       "date_published": "2026-01-05T09:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podzeganie-do-przemocy-Teheran-oskarza-Izrael-i-USA-o-podsycanie-protestow-9063875.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podzeganie-do-przemocy-Teheran-oskarza-Izrael-i-USA-o-podsycanie-protestow-9063875.html",
-      "title": "„Podżeganie do przemocy”. Teheran oskarża Izrael i USA o podsycanie protestów",
-      "content_html": "MSZ Iranu oskarżyło w poniedziałek władze Izraela o próbę „podważenia jedności narodowej” po tym, jak premier Izraela Benjamin Netanjahu wyraził „solidarność z walką” irańskiego narodu, mając na myśli ostatnie protesty antyrządowe...",
-      "date_published": "2026-01-05T09:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
