@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-zastrzezonych-numerow-PESEL-Zrobilo-to-juz-7-5-miliona-Polakow-9054771.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-zastrzezonych-numerow-PESEL-Zrobilo-to-juz-7-5-miliona-Polakow-9054771.html",
+      "title": "Rekordowa liczba zastrzeżonych numerów PESEL. Zrobiło to już 7,5 miliona Polaków",
+      "content_html": "Blisko 7,5 mln Polek i Polaków zastrzegło swój PESEL - poinformował resort cyfryzacji. 75 proc. wszystkich zastrzeżeń dokonano w aplikacji mObywatel. Resort przypomniał, że aby zastrzec PESEL wystarczy jedno kliknięcie.",
+      "date_published": "2026-01-06T15:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polacy-wybrali-Nawrocki-i-Trump-politykami-roku-2025-9064007.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-wybrali-Nawrocki-i-Trump-politykami-roku-2025-9064007.html",
+      "title": "Polacy wybrali. Nawrocki i Trump politykami roku 2025",
+      "content_html": "Politykiem roku 2025 w kraju został prezydent RP Karol Nawrocki (wskazało go 16 proc. ogółu ankietowanych); na arenie międzynarodowej na ten tytuł zasłużył prezydent USA Donald Trump (11 proc.) – wynika z sondażu CBOS.",
+      "date_published": "2026-01-06T14:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koalicja-chetnych-zwiera-szyki-Powstaje-specjalny-sztab-w-Paryzu-9064315.html",
       "url": "https://www.bankier.pl/wiadomosc/Koalicja-chetnych-zwiera-szyki-Powstaje-specjalny-sztab-w-Paryzu-9064315.html",
       "title": "Koalicja chętnych zwiera szyki. Powstaje specjalny sztab w Paryżu",
@@ -688,20 +702,6 @@
       "title": "„Podżeganie do przemocy”. Teheran oskarża Izrael i USA o podsycanie protestów",
       "content_html": "MSZ Iranu oskarżyło w poniedziałek władze Izraela o próbę „podważenia jedności narodowej” po tym, jak premier Izraela Benjamin Netanjahu wyraził „solidarność z walką” irańskiego narodu, mając na myśli ostatnie protesty antyrządowe...",
       "date_published": "2026-01-05T09:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mocne-spadki-na-rynku-gazu-Inwestorzy-reaguja-na-prognozy-pogody-9063876.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mocne-spadki-na-rynku-gazu-Inwestorzy-reaguja-na-prognozy-pogody-9063876.html",
-      "title": "Mocne spadki na rynku gazu. Inwestorzy reagują na prognozy pogody",
-      "content_html": "Ceny gazu w Europie w poniedziałek mocniej spadają po prognozach łagodniejszej pogody i większych dostaw paliwa - informują maklerzy.",
-      "date_published": "2026-01-05T09:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinska-polityka-zero-tolerancji-Pekin-zada-ochrony-swoich-inwestycji-w-Pakistanie-9063850.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinska-polityka-zero-tolerancji-Pekin-zada-ochrony-swoich-inwestycji-w-Pakistanie-9063850.html",
-      "title": "Pakistańska polityka \"zero tolerancji”. Pekin żąda ochrony swoich inwestycji",
-      "content_html": "Ministrowie spraw zagranicznych Chin i Pakistanu uzgodnili wzmocnienie wysiłków w walce z terroryzmem – podała w poniedziałek agencja Xinhua. W ramach nowej wersji Chińsko-Pakistańskiego Korytarza Gospodarczego (CPEC) oba kraje skoncentrują się...",
-      "date_published": "2026-01-05T09:40:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
