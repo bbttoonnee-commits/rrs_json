@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/USA-przejmuja-rosyjski-tankowiec-Marinero-Final-poscigu-na-Atlantyku-9064776.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-przejmuja-rosyjski-tankowiec-Marinero-Final-poscigu-na-Atlantyku-9064776.html",
+      "title": "USA przejmują rosyjski tankowiec \"Marinero\". Finał pościgu na Atlantyku USA przejęły kontrolę nad tankowcem Marinero pływającym pod banderą Rosji i powiązanym z Wenezuelą po trwającym ponad dwa tygodnie pościgu przez Atlantyk – podała w środę agencja Reutera.",
+      "content_html": "",
+      "date_published": "2026-01-07T16:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-baza-wiedzy-o-finansach-Integracja-uslug-finansowych-i-rynkow-kapitalowych-9064769.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-baza-wiedzy-o-finansach-Integracja-uslug-finansowych-i-rynkow-kapitalowych-9064769.html",
+      "title": "Wielka baza wiedzy o finansach. \"Integracja usług finansowych i rynków kapitałowych\" Rząd w środę przyjął projekt ustawy dotyczącej przekazywania danych o instytucjach finansowych do europejskiego pojedynczego punktu dostępu – wynika z komunikatu kancelarii premiera. Dane te będą przekazywać m.in. KNF czy BFG.",
+      "content_html": "",
+      "date_published": "2026-01-07T15:53:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pekao-zdecydowalo-o-wczesniejszym-wykupie-obligacji-SP-serii-SP2-9064767.html",
       "url": "https://www.bankier.pl/wiadomosc/Pekao-zdecydowalo-o-wczesniejszym-wykupie-obligacji-SP-serii-SP2-9064767.html",
       "title": "Pekao zdecydowało o wcześniejszym wykupie obligacji SP serii SP2 Bank Pekao zdecydował o wcześniejszym wykupie senioralnych obligacji uprzywilejowanych serii SP2 wyemitowanych 30 lipca 2024 r. Wcześniejszy wykup nastąpić ma 29 stycznia 2026 r. - poinformował bank w komunikacie.",
@@ -275,13 +289,6 @@
       "title": "SESJA NA GPW Trio z rekordami, KGHM blisko 300 zł. W oczekiwaniu na rekord WIG20 Pierwsza sesja nowego tygodnia przyniosła kontynuację dobrych nastrojów na krajowej giełdzie. Tym razem pierwsze skrzypce grały mniejsze spółki, skupione w sWIG80, który zyskał w ciągu dnia najwięcej z głównych indeksów i pobił historyczny rekord. Nowe szczyty osiągnęły także mWIG40 i szeroki WIG. WIG20 na razie zatrzymał się w drodze po swój rekord, do którego indeks dzieli nieco ponad 20 proc. Podbitka na rynku surowców po wydarzeniach z Wenezueli wsparła notowania KGHM, którego kurs zbliżył się do 300 zł za akcję.",
       "content_html": "",
       "date_published": "2026-01-05T17:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Creepy-Jar-do-416-zl-9064074.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Creepy-Jar-do-416-zl-9064074.html",
-      "title": "Noble Securities obniżył cenę docelową akcji Creepy Jar Analitycy Noble Securities, w raporcie z 5 stycznia, obniżyli cenę docelową akcji Creepy Jar w horyzoncie 9-miesięcznym do 416 zł z 495 zł oraz utrzymali rekomendację \"trzymaj\".",
-      "content_html": "",
-      "date_published": "2026-01-05T16:38:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
