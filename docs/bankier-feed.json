@@ -4,6 +4,55 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Opozycja-zada-wladzy-po-aresztowaniu-Maduro-Machado-apeluje-w-CBS-News-9064652.html",
+      "url": "https://www.bankier.pl/wiadomosc/Opozycja-zada-wladzy-po-aresztowaniu-Maduro-Machado-apeluje-w-CBS-News-9064652.html",
+      "title": "Opozycja żąda władzy po aresztowaniu Maduro. Machado apeluje w CBS News",
+      "content_html": "Liderka wenezuelskiej opozycji Maria Corina Machado oświadczyła, że jej ugrupowanie powinno przejąć władzę w kraju po obaleniu Nicolasa Maduro. Jesteśmy gotowi – podkreśliła w opublikowanym w nocy z wtorku na środę wywiadzie dla stacji CBS...",
+      "date_published": "2026-01-07T15:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-zaklada-zawieszenie-na-trzy-lata-czesci-swiadczen-i-gwarancji-zwiazki-zawodowe-9064749.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-zaklada-zawieszenie-na-trzy-lata-czesci-swiadczen-i-gwarancji-zwiazki-zawodowe-9064749.html",
+      "title": "Koniec z Barbórką i premiami? Dramatyczny wybór przed załogą JSW",
+      "content_html": "Projekt tzw. porozumienia zawieszającego, przedstawiony przez zarząd Jastrzębskiej Spółki Węglowej w ostatnich dniach, oznacza trzy lata obniżenia dochodów pracowników, osłabienia ich ochrony i ograniczenia świadczeń - przekonuje strona społeczna...",
+      "date_published": "2026-01-07T15:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-mcr-zdecydowalo-ws-skupu-do-6-279-069-akcji-wlasnych-9064733.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-mcr-zdecydowalo-ws-skupu-do-6-279-069-akcji-wlasnych-9064733.html",
+      "title": "Skup akcji MCR do 6,28 mln zatwierdzony przez NWZ",
+      "content_html": "Nadzwyczajne walne zgromadzenia mcr zdecydowało w sprawie skupu nie więcej niż 6.279.069 akcji własnych za maksymalnie 135 mln zł - poinformowała spółka. Akcje będą nabywane w celu ich umorzenia.",
+      "date_published": "2026-01-07T14:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Warner-Bros-Discovery-jednoglosnie-odmawia-Paramountowi-Dostanie-go-Netflix-9064669.html",
+      "url": "https://www.bankier.pl/wiadomosc/Warner-Bros-Discovery-jednoglosnie-odmawia-Paramountowi-Dostanie-go-Netflix-9064669.html",
+      "title": "Zwrot akcji w medialnej fuzji. Warner Bros. Discovery odpowiada Paramountowi",
+      "content_html": "Koncern medialny Warner Bros. Discovery (WBD) oświadczył w środę, że jego zarząd jednogłośnie odrzucił poprawioną ofertę przejęcia ze strony Paramount Skydance i potwierdził poparcie dla propozycji zakupu części aktywów złożonej przez...",
+      "date_published": "2026-01-07T14:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-w-finansach-publicznych-KAS-zawiadamia-prokurature-w-sprawie-104-mld-zl-9064727.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-w-finansach-publicznych-KAS-zawiadamia-prokurature-w-sprawie-104-mld-zl-9064727.html",
+      "title": "Trzęsienie ziemi w finansach publicznych. KAS zawiadamia prokuraturę w sprawie 104 mld zł",
+      "content_html": "Dyrektorzy Izb Administracji Skarbowej w związku z nieprawidłowościami stwierdzonymi w toku audytów złożyli do prokuratury 200 zawiadomień o możliwości popełnienia przestępstwa na kwotę prawie 104 mld zł – podała w środę KAS.",
+      "date_published": "2026-01-07T14:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolki-energetyczne-sa-przygotowane-do-odpierania-cyberatakow-Motyka-ME-9064724.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolki-energetyczne-sa-przygotowane-do-odpierania-cyberatakow-Motyka-ME-9064724.html",
+      "title": "Motyka: Spółki energetyczne są przygotowane do odpierania cyberataków",
+      "content_html": "Spółki energetyczne są przygotowane do odpierania cyberataków; w ostatnich tygodniach widoczna jest nadaktywność w tym zakresie - poinformował minister energii Miłosz Motyka. Zapowiedział zwiększone inwestycje w ochronę infrastruktury energetycznej...",
+      "date_published": "2026-01-07T14:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ruszyla-wysylka-listow-z-ZUS-Sprawdz-czy-masz-nadplate-lub-dlug-na-koncie-9064706.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ruszyla-wysylka-listow-z-ZUS-Sprawdz-czy-masz-nadplate-lub-dlug-na-koncie-9064706.html",
+      "title": "Ruszyła wysyłka listów z ZUS. Sprawdź, czy masz nadpłatę lub dług na koncie",
+      "content_html": "Ponad 3,4 mln przedsiębiorców otrzyma od ZUS roczne rozliczenie za 2025 rok. W dokumencie płatnicy składek dowiedzą się, czy mają nadpłatę, niedopłatę lub czy ich saldo wynosi zero.",
+      "date_published": "2026-01-07T14:28:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Motyka-To-koniec-ryzyka-blackoutu-Rzad-przyjal-projekt-nowelizacji-Prawa-energetycznego-9064684.html",
       "url": "https://www.bankier.pl/wiadomosc/Motyka-To-koniec-ryzyka-blackoutu-Rzad-przyjal-projekt-nowelizacji-Prawa-energetycznego-9064684.html",
       "title": "Motyka: To koniec ryzyka blackoutu. Rząd przyjął projekt nowelizacji Prawa energetycznego",
@@ -25,6 +74,13 @@
       "date_published": "2026-01-07T14:24:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zwrot-w-sprawie-HREIT-Dlaczego-spolka-rezygnuje-z-zarzadu-wlasnego-9064693.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwrot-w-sprawie-HREIT-Dlaczego-spolka-rezygnuje-z-zarzadu-wlasnego-9064693.html",
+      "title": "Zwrot w sprawie HREIT. Dlaczego spółka rezygnuje z zarządu własnego?",
+      "content_html": "HREIT cofnął wniosek o pozostawienie zarządu własnego i wniósł o otwarcie postępowania sanacyjnego z powierzeniem wykonywania zarządu niezależnemu zarządcy masy sanacyjnej. Ponadto, wniosek do sądu o sanację złożył kolejny wierzyciel HREIT...",
+      "date_published": "2026-01-07T14:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Miedz-bije-rekordy-i-celuje-w-14-tys-dolarow-za-tone-Analitycy-Citi-tak-oceniaja-potencjal-9064683.html",
       "url": "https://www.bankier.pl/wiadomosc/Miedz-bije-rekordy-i-celuje-w-14-tys-dolarow-za-tone-Analitycy-Citi-tak-oceniaja-potencjal-9064683.html",
       "title": "Miedź bije rekordy i celuje w 14 tys. dolarów za tonę. Analitycy Citi tak oceniają potencjał",
@@ -44,13 +100,6 @@
       "title": "KNF uderza w Agro Ubezpieczenia. 1,3 mln zł kary za zaniżane składki OC",
       "content_html": "Komisja Nadzoru Finansowego uznała składki ubezpieczeń OC posiadaczy pojazdów mechanicznych oferowanych przez Agro Ubezpieczenia Towarzystwo Ubezpieczeń Wzajemnych za nieadekwatne i z tego powodu nałożyła karę 1,3 mln zł na ubezpieczyciela -...",
       "date_published": "2026-01-07T14:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Warner-Bros-Discovery-jednoglosnie-odmawia-Paramountowi-Dostanie-go-Netflix-9064669.html",
-      "url": "https://www.bankier.pl/wiadomosc/Warner-Bros-Discovery-jednoglosnie-odmawia-Paramountowi-Dostanie-go-Netflix-9064669.html",
-      "title": "Zwrot akcji w medialnej fuzji. Warner Bros. Discovery odpowiada Paramountowi",
-      "content_html": "Koncern medialny Warner Bros. Discovery oświadczył w środę, że jego zarząd jednogłośnie odrzucił poprawioną ofertę przejęcia ze strony Paramount Skydance i potwierdził poparcie dla propozycji zakupu części aktywów złożonej przez Netflixa...",
-      "date_published": "2026-01-07T13:52:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Helio-szacuje-przychody-ze-sprzedazy-w-II-kw-2025-26-na-200-mln-zl-wobec-148-mln-zl-rok-wczesniej-9064670.html",
@@ -93,13 +142,6 @@
       "title": "Wycena nawet do 50 mld euro? Właściciel CSG odkrywa karty w sprawie IPO",
       "content_html": "Czeska grupa przemysłowa Czechoslovak Group (CSG) przeprowadziła rozmowy z bankami na temat ewentualnej pierwotnej oferty publicznej (IPO) ok. 15 proc. akcji spółki - poinformował właściciel CSG Michal Strnad agencję Reuters. Dodał, że decyzja...",
       "date_published": "2026-01-07T13:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Opozycja-zada-wladzy-po-aresztowaniu-Maduro-Machado-apeluje-w-CBS-News-9064652.html",
-      "url": "https://www.bankier.pl/wiadomosc/Opozycja-zada-wladzy-po-aresztowaniu-Maduro-Machado-apeluje-w-CBS-News-9064652.html",
-      "title": "Opozycja żąda władzy po aresztowaniu Maduro. Machado apeluje w CBS News",
-      "content_html": "Liderka wenezuelskiej opozycji Maria Corina Machado oświadczyła, że jej ugrupowanie powinno przejąć władzę w kraju po obaleniu Nicolasa Maduro. Jesteśmy gotowi – podkreśliła w opublikowanym w nocy z wtorku na środę wywiadzie dla stacji CBS...",
-      "date_published": "2026-01-07T13:09:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Z-Warszawy-wyjechalo-nawet-782-tys-osob-To-efekt-swiat-w-stolicy-9064614.html",
@@ -452,13 +494,6 @@
       "date_published": "2026-01-07T06:51:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Decydujace-godziny-dla-portfeli-medykow-Resort-zdrowia-odkrywa-karty-9064454.html",
-      "url": "https://www.bankier.pl/wiadomosc/Decydujace-godziny-dla-portfeli-medykow-Resort-zdrowia-odkrywa-karty-9064454.html",
-      "title": "Decydujące godziny dla portfeli medyków. Resort zdrowia odkrywa karty",
-      "content_html": "W środę odbędzie się kolejne posiedzenie Trójstronnego Zespołu ds. Ochrony Zdrowia. Ministerstwo Zdrowia ma zaprezentować jego uczestnikom propozycje zmian w ustawie o wynagrodzeniach w ochronie zdrowia.",
-      "date_published": "2026-01-07T06:46:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-nie-wysle-wojska-na-Ukraine-Tusk-W-zadnym-z-wariantow-9064382.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-nie-wysle-wojska-na-Ukraine-Tusk-W-zadnym-z-wariantow-9064382.html",
       "title": "Polska nie wyśle wojska na Ukrainę. Tusk: W żadnym z wariantów",
@@ -646,48 +681,6 @@
       "title": "Polacy wybrali. Nawrocki i Trump politykami roku 2025",
       "content_html": "Politykiem roku 2025 w kraju został prezydent RP Karol Nawrocki (wskazało go 16 proc. ogółu ankietowanych); na arenie międzynarodowej na ten tytuł zasłużył prezydent USA Donald Trump (11 proc.) – wynika z sondażu CBOS.",
       "date_published": "2026-01-06T14:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koalicja-chetnych-zwiera-szyki-Powstaje-specjalny-sztab-w-Paryzu-9064315.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koalicja-chetnych-zwiera-szyki-Powstaje-specjalny-sztab-w-Paryzu-9064315.html",
-      "title": "Koalicja chętnych zwiera szyki. Powstaje specjalny sztab w Paryżu",
-      "content_html": "Koalicja chętnych, grupa państw wspierających Ukrainę, zdecydowała o powołaniu komórki koordynacyjnej w sztabie koalicji w Paryżu - podała we wtorek agencja Reutera, powołując się na projekt oświadczenia, który wymaga zatwierdzenia na spotkaniu...",
-      "date_published": "2026-01-06T13:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/InPost-otrzymal-wstepna-propozycje-przejecia-wszystkich-swoich-akcji-9064263.html",
-      "url": "https://www.bankier.pl/wiadomosc/InPost-otrzymal-wstepna-propozycje-przejecia-wszystkich-swoich-akcji-9064263.html",
-      "title": "InPost otrzymał wstępną propozycję przejęcia wszystkich swoich akcji",
-      "content_html": "InPost otrzymał wstępną propozycję przejęcia wszystkich akcji spółki - poinformowała spółka notowana na giełdzie w Amsterdamie. Powołany został specjalny zespół złożony z członków rady nadzorczej i zarządu InPostu, który ma przeanalizować...",
-      "date_published": "2026-01-06T13:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paryz-drozszy-dla-turystow-spoza-Europy-Pieniadze-pojda-na-remonty-9063276.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paryz-drozszy-dla-turystow-spoza-Europy-Pieniadze-pojda-na-remonty-9063276.html",
-      "title": "Paryż droższy dla części turystów. Pieniądze pójdą na remonty",
-      "content_html": "W Paryżu od połowy stycznia cudzoziemcy spoza Europy będą musieli zapłacić więcej za bilety wejściowe do: Luwru, Opery i Świętej Kaplicy (Saint-Chapelle). Podwyżki takie wprowadzą również pałac w Wersalu pod Paryżem i zamek w Chambord...",
-      "date_published": "2026-01-06T13:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wieziony-bez-procesu-Sad-Najwyzszy-Indii-bezlitosny-dla-krytyka-rzadu-9063893.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wieziony-bez-procesu-Sad-Najwyzszy-Indii-bezlitosny-dla-krytyka-rzadu-9063893.html",
-      "title": "Więziony bez procesu. Sąd Najwyższy Indii bezlitosny dla krytyka rządu",
-      "content_html": "Sąd Najwyższy Indii oddalił w poniedziałek wniosek o uwolnienie mężczyzny, który od ponad pięciu lat jest więziony bez procesu za rzekomy udział w zamieszkach na tle religijnym w Delhi w 2020 roku - przekazała agencja AFP.",
-      "date_published": "2026-01-06T13:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-epoki-ePUAP-Od-teraz-e-Doreczenia-to-jedyny-pewny-sposob-kontaktu-z-urzedem-9062957.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-epoki-ePUAP-Od-teraz-e-Doreczenia-to-jedyny-pewny-sposob-kontaktu-z-urzedem-9062957.html",
-      "title": "Koniec epoki ePUAP. Od teraz e-Doręczenia to jedyny pewny sposób kontaktu z urzędem",
-      "content_html": "1 stycznia system e-Doręczeń stał się podstawowym sposobem doręczania pism, co oznacza, że wielu spraw nie można załatwić już przez ePUAP. 31 grudnia 2025 r. dla większości podmiotów publicznych, w tym urzędów, skończył się okres przejściowy...",
-      "date_published": "2026-01-06T12:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Policyjne-parkingi-pekaja-w-szwach-Rekordowe-konfiskaty-samochodow-w-Polsce-9060211.html",
-      "url": "https://www.bankier.pl/wiadomosc/Policyjne-parkingi-pekaja-w-szwach-Rekordowe-konfiskaty-samochodow-w-Polsce-9060211.html",
-      "title": "Policyjne parkingi pękają w szwach. Rekordowe konfiskaty samochodów w Polsce",
-      "content_html": "Od marca 2024 r., czyli od wejścia w życie przepisów pozwalających zarekwirować samochód, którego kierowca miał 1,5 promila lub więcej alkoholu w organizmie, policja tymczasowo zajęła 13 592 pojazdy. Najwięcej w województwach: śląskim,...",
-      "date_published": "2026-01-06T12:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
