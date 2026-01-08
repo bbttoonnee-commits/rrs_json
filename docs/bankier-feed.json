@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/100-tysiecy-dolarow-na-reke-dla-kazdego-Grenlandczyka-Plan-Trumpa-na-przejecie-wyspy-9065435.html",
+      "url": "https://www.bankier.pl/wiadomosc/100-tysiecy-dolarow-na-reke-dla-kazdego-Grenlandczyka-Plan-Trumpa-na-przejecie-wyspy-9065435.html",
+      "title": "100 tysięcy dolarów na rękę dla każdego Grenlandczyka. Plan Trumpa na przejęcie wyspy",
+      "content_html": "Agencja Reutera poinformowała w czwartek, że amerykański rząd rozważa wypłacenie mieszkańcom Grenlandii jednorazowo 10-100 tys. dolarów, by skłonić ich do odłączenia się od Danii i przyłączenia do USA. Władze Grenlandii i Danii wykluczają...",
+      "date_published": "2026-01-08T19:49:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/UniCredit-wyemitowal-obligacje-o-lacznej-wartosci-2-mld-euro-9065432.html",
       "url": "https://www.bankier.pl/wiadomosc/UniCredit-wyemitowal-obligacje-o-lacznej-wartosci-2-mld-euro-9065432.html",
       "title": "UniCredit wyemitował obligacje o łącznej wartości 2 mld euro",
@@ -695,13 +702,6 @@
       "title": "23,35 mln klientów w miesiąc. Allegro podsumowuje grudniowe żniwa",
       "content_html": "Allegro miało w grudniu 23,35 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 22,83 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.",
       "date_published": "2026-01-08T08:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prywatny-majatek-Maduro-wart-700-mln-dolarow-Sam-sie-zarzekal-Pieniedzy-nie-posiadam-w-zadnym-miejscu-na-swiecie-9064559.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prywatny-majatek-Maduro-wart-700-mln-dolarow-Sam-sie-zarzekal-Pieniedzy-nie-posiadam-w-zadnym-miejscu-na-swiecie-9064559.html",
-      "title": "Prywatny majątek Maduro wart 700 mln dolarów. Sam się zarzekał: Pieniędzy nie posiadam w żadnym miejscu na świecie",
-      "content_html": "Rezydencja na Dominikanie, prywatne odrzutowce i szwajcarskie zegarki - to tylko ulamek fortuny, jaką do dyspozycji miał Nicolas Maruro. Pochodzący z rodziny robotniczej przyszły prezydent Wenezueli szybko zapomniał o swoich korzeniach, gromadząc...",
-      "date_published": "2026-01-08T08:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
