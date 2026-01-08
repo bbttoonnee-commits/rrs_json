@@ -4,18 +4,81 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-sprzedal-w-IV-kw-2025-roku-48-lokali-wobec-35-przed-rokiem-opis-9065340.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-sprzedal-w-IV-kw-2025-roku-48-lokali-wobec-35-przed-rokiem-opis-9065340.html",
-      "title": "Lokum Deweloper sprzedał w IV kw. 2025 roku 48 lokali wobec 35 przed rokiem (opis)",
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Brazylii-zawetowal-ustawe-skracajaca-wyrok-Bolsonaro-9065381.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Brazylii-zawetowal-ustawe-skracajaca-wyrok-Bolsonaro-9065381.html",
+      "title": "Prezydent Brazylii zawetował ustawę skracającą wyrok Bolsonaro",
+      "content_html": "Prezydent Brazylii Luiz Inacio Lula da Silva zawetował w czwartek uchwaloną przez Kongres ustawę, przewidującą znaczne skrócenie kary więzienia jego przeciwnikowi politycznemu, poprzedniemu prezydentowi Jairowi Bolsonaro, skazanemu za planowanie...",
+      "date_published": "2026-01-08T17:33:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czeski-blad-kosztowal-PKP-Intercity-2-miliony-zlotych-RegioJet-nie-wyjechal-na-tory-9065349.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czeski-blad-kosztowal-PKP-Intercity-2-miliony-zlotych-RegioJet-nie-wyjechal-na-tory-9065349.html",
+      "title": "Czeski błąd kosztował PKP Intercity 2 miliony złotych. RegioJet nie wyjechał na tory",
+      "content_html": "PKP Intercity utraciło ok. 2 mln zł przychodów między 14 grudnia a 4 stycznia z tego powodu, że w miejsce 4 połączeń przewoźnika miały się pojawić połączenia czeskiej formy RegioJet - poinformował sejmową komisje infrastruktury prezes...",
+      "date_published": "2026-01-08T17:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Marza-Orlenu-spadla-o-42-proc-a-kurs-runal-o-7-proc-Przecena-na-GPW-Realizacja-zyskow-jak-najbardziej-jest-uzasadniona-9065373.html",
+      "url": "https://www.bankier.pl/wiadomosc/Marza-Orlenu-spadla-o-42-proc-a-kurs-runal-o-7-proc-Przecena-na-GPW-Realizacja-zyskow-jak-najbardziej-jest-uzasadniona-9065373.html",
+      "title": "Marża Orlenu spadła o 42 proc., a kurs runął o 7 proc. Przecena na GPW: „Realizacja zysków jak najbardziej jest uzasadniona”",
+      "content_html": "Po kilku sesjach wyraźnych wzrostów indeksy na GPW przyoblekły się w kolor czerwony. Najbardziej jaskrową odcień przybrał WIG20, który zliczył najgorszą sesję od wakacji i tąpnięcia na bankach po ogłoszeniu wprowadzenia wyższego CIT na...",
+      "date_published": "2026-01-08T17:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/B-Millennium-szacuje-rezerwe-na-ryzyko-prawne-zw-z-walutowymi-kredytami-hipotecznymi-w-IV-kw-na-487-mln-zl-9065371.html",
+      "url": "https://www.bankier.pl/wiadomosc/B-Millennium-szacuje-rezerwe-na-ryzyko-prawne-zw-z-walutowymi-kredytami-hipotecznymi-w-IV-kw-na-487-mln-zl-9065371.html",
+      "title": "Bank Millennium szacuje rezerwę na ryzyko prawne zw. z walutowymi kredytami hipotecznymi w IV kw. na 487 mln zł",
+      "content_html": "Bank Millennium szacuje rezerwę na ryzyko prawne związane z walutowymi kredytami hipotecznymi w IV kw. 2025 roku na 487 mln zł - podał bank w komunikacie.",
+      "date_published": "2026-01-08T17:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Funkcjonariusze-uzyli-kul-pieprzowych-przeciwko-demonstrantom-w-Minnesocie-9065370.html",
+      "url": "https://www.bankier.pl/wiadomosc/Funkcjonariusze-uzyli-kul-pieprzowych-przeciwko-demonstrantom-w-Minnesocie-9065370.html",
+      "title": "Funkcjonariusze użyli kul pieprzowych przeciwko demonstrantom w Minnesocie",
+      "content_html": "Funkcjonariusze służb użyli w czwartek kul pieprzowych przeciwko demonstrantom w stolicy stanu Minnesota - Saint Paul. Protestują oni przeciwko służbie imigracyjnej ICE. W St. Paul i Minneapolis zebrały się setki osób po zabiciu przez funkcjonariusza...",
+      "date_published": "2026-01-08T17:21:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Program-NaszEauto-blisko-wyczerpania-Wykorzystano-juz-84-proc-budzetu-9065357.html",
+      "url": "https://www.bankier.pl/wiadomosc/Program-NaszEauto-blisko-wyczerpania-Wykorzystano-juz-84-proc-budzetu-9065357.html",
+      "title": "Program NaszEauto blisko wyczerpania. Wykorzystano już 84 proc. budżetu",
+      "content_html": "Program dopłat do elektrycznych samochodów NaszEauto cieszy się dużym zainteresowaniem – do tej pory złożono ponad 31,5 tys. wniosków, które wykorzystują już 84 proc. dostępnych środków – poinformował w czwartek Narodowy Fundusz Ochrony...",
+      "date_published": "2026-01-08T17:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gangi-rzadza-Wenezuela-Po-aresztowaniu-Maduro-bandyci-przejmuja-miasta-9065334.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gangi-rzadza-Wenezuela-Po-aresztowaniu-Maduro-bandyci-przejmuja-miasta-9065334.html",
+      "title": "Gangi rządzą Wenezuelą. Po aresztowaniu Maduro bandyci przejmują miasta",
+      "content_html": "Sytuacja w Wenezueli po pojmaniu przez siły USA prezydenta Nicolasa Maduro staje się chaotyczna; do głosu coraz częściej dochodzą tam grupy przestępcze, w tym złożone z osób związanych z reżimem - ocenili w czwartek dziennikarze mediów portugalskich...",
+      "date_published": "2026-01-08T16:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-sprzedal-w-IV-kw-2025-roku-48-lokali-wobec-35-przed-rokiem-9065324.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-sprzedal-w-IV-kw-2025-roku-48-lokali-wobec-35-przed-rokiem-9065324.html",
+      "title": "Lokum Deweloper sprzedał w IV kw. 2025 roku 48 lokali wobec 35 przed rokiem",
       "content_html": "Grupa Lokum Deweloper sprzedała w czwartym kwartale 2025 roku 48 lokali wobec 35 lokali przed rokiem - podała spółka w komunikacie. Grupa rozpoznała w wyniku tego okresu 81 lokali wobec 28 lokali w analogicznym okresie poprzedniego roku.",
-      "date_published": "2026-01-08T16:34:00+01:00"
+      "date_published": "2026-01-08T16:51:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Porozumienie-z-USA-lezy-na-stole-Zelenski-Dokument-gotowy-do-podpisu-z-Trumpem-9065353.html",
+      "url": "https://www.bankier.pl/wiadomosc/Porozumienie-z-USA-lezy-na-stole-Zelenski-Dokument-gotowy-do-podpisu-z-Trumpem-9065353.html",
+      "title": "Porozumienie z USA leży na stole. Zełenski: Dokument gotowy do podpisu z Trumpem",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski oświadczył w czwartek, że dwustronny dokument, dotyczący gwarancji bezpieczeństwa USA dla Kijowa, jest niemal gotowy do ostatecznego uzgodnienia na najwyższym szczeblu, podczas spotkania z prezydentem Stanów...",
+      "date_published": "2026-01-08T16:51:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Agnieszka-Wolska-wiceprezesem-ING-Banku-Slaskiego-od-1-kwietnia-9065337.html",
       "url": "https://www.bankier.pl/wiadomosc/Agnieszka-Wolska-wiceprezesem-ING-Banku-Slaskiego-od-1-kwietnia-9065337.html",
       "title": "Agnieszka Wolska wiceprezesem ING Banku Śląskiego od 1 kwietnia",
       "content_html": "Agnieszka Wolska została powołana na stanowisko wiceprezesa ING Banku Śląskiego od 1 kwietnia 2026 roku - podał bank w komunikacie.",
-      "date_published": "2026-01-08T16:26:00+01:00"
+      "date_published": "2026-01-08T16:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedal-rano-odkupil-taniej-wieczorem-Tlumaczenia-PKP-Cargo-w-sprawie-gry-akcjami-9065343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedal-rano-odkupil-taniej-wieczorem-Tlumaczenia-PKP-Cargo-w-sprawie-gry-akcjami-9065343.html",
+      "title": "Sprzedał rano, odkupił taniej wieczorem. Tłumaczenia PKP Cargo w sprawie gry akcjami",
+      "content_html": "Informując o transakcjach na akcjach PKP Cargo, dokonanych przez b. wiceszefa rady nadzorczej spółki Marcina Wojewódkę, spółka zachowała się zgodnie z procedurami - poinformowała w czwartek sejmową komisję infrastruktury p.o. prezesa PKP Cargo...",
+      "date_published": "2026-01-08T16:39:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bloomberg-fundusz-Advent-prowadzi-rozmowy-z-Brzoska-i-PPF-ws-wspolpracy-przy-potencjalnym-wykupie-InPostu-9065336.html",
@@ -30,13 +93,6 @@
       "title": "Pijany dowódca oskarżony o gwałt na policjantce. Kierwiński: Będziemy wypalać takie przypadki rozgrzanym żelazem",
       "content_html": "Reakcja była natychmiastowa i uruchomione zostały wszelkie procedury wewnętrzne w policji - zapewnił w środę szef MSWiA Marcin Kierwiński, odnosząc się do sprawy gwałtu, którego miał się dopuścić pijany policjant. Dodał, że podejrzany...",
       "date_published": "2026-01-08T16:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-sprzedal-w-IV-kw-2025-roku-48-lokali-wobec-35-przed-rokiem-9065324.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-sprzedal-w-IV-kw-2025-roku-48-lokali-wobec-35-przed-rokiem-9065324.html",
-      "title": "Lokum Deweloper sprzedał w IV kw. 2025 roku 48 lokali wobec 35 przed rokiem",
-      "content_html": "Grupa Lokum Deweloper sprzedała w czwartym kwartale 2025 roku 48 lokali wobec 35 lokali przed rokiem - podała spółka w komunikacie. Grupa rozpoznała w wyniku tego okresu 81 lokali wobec 28 lokali w analogicznym okresie poprzedniego roku.",
-      "date_published": "2026-01-08T16:06:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Likwidacja-czy-reorganizacja-Burza-w-Sejmie-o-przyszlosc-TVP-Polonia-9065283.html",
@@ -282,6 +338,13 @@
       "title": "USA porzucają 66 światowych organizacji. \"Są zbyteczne, źle zarządzane\"",
       "content_html": "Prezydent USA Donald Trump podpisał w środę memorandum o wycofaniu Stanów Zjednoczonych 66 organizacji, agencji i komisji międzynarodowych - podał Biały Dom. Są to głównie ciała należące do systemu Narodów Zjednoczonych, ale też m.in. zajmujące...",
       "date_published": "2026-01-08T11:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-Bedziemy-latami-zarzadzac-Wenezuela-i-pobierac-jej-rope-9065136.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Bedziemy-latami-zarzadzac-Wenezuela-i-pobierac-jej-rope-9065136.html",
+      "title": "Trump: Będziemy latami zarządzać Wenezuelą i pobierać jej ropę",
+      "content_html": "Prezydent USA Donald Trump powiedział w wywiadzie dla dziennika \"New York Times\", że spodziewa się, iż Stany Zjednoczone będą latami zarządzać Wenezuelą i wydobywać ropę z jej ogromnych zasobów.",
+      "date_published": "2026-01-08T11:41:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-dobrowolnych-nabyc-pod-Port-Polska-dawniej-CPK-Wiekszosc-domow-juz-wykupiona-9065139.html",
@@ -639,55 +702,6 @@
       "title": "Entuzjazm klientów wyhamował. Rynek lokat pod presją spadków",
       "content_html": "Efekt obniżek stóp procentowych jest coraz mocniej widoczny w portfelach deponentów. Najnowsze dane NBP za listopad 2025 r. pokazują systematyczny zjazd stawek nowo otwartych przez klientów depozytów. Podczas gdy oferty kwartalne bronią się promocjami...",
       "date_published": "2026-01-08T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dotacyjne-hity-2026-r-Miliony-czekaja-na-chetnych-Kto-ma-szanse-na-granty-9064735.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dotacyjne-hity-2026-r-Miliony-czekaja-na-chetnych-Kto-ma-szanse-na-granty-9064735.html",
-      "title": "Dotacyjne hity 2026 r. Miliony czekają na chętnych. Kto ma szanse na granty?",
-      "content_html": "Ten rok jest pełen konkursów z dotacjami dla przedsiębiorców. Firmy mogą zdobyć granty m.in. na innowacyjne rozwiązania, podbój nowych rynków i projekty przyjazne środowisku. Co należy zrobić, aby skutecznie ubiegać się o dotacje i jak wysokie...",
-      "date_published": "2026-01-08T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prognozy-dla-rynku-ubezpieczen-na-2026-rok-9064775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prognozy-dla-rynku-ubezpieczen-na-2026-rok-9064775.html",
-      "title": "Nie ma co liczyć na rewolucję. W 2026 r. rynek ubezpieczeń musi się dopasować do klienta",
-      "content_html": "Początek nowego roku to zwykle czas przewidywań i prognoz i nie inaczej jest w przypadku branży ubezpieczeniowej. Nadchodzące miesiące, to czas wytężonej pracy ubezpieczycieli, którzy przygotowują się zarówno na nowe, jak i stare wyzwania...",
-      "date_published": "2026-01-08T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gieldowe-hity-i-kity-2025-r-Najslabsi-sa-jeszcze-gorsi-a-najlepsi-rosna-mocniej-9064780.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gieldowe-hity-i-kity-2025-r-Najslabsi-sa-jeszcze-gorsi-a-najlepsi-rosna-mocniej-9064780.html",
-      "title": "Blisko 700% drożej lub ponad 80% taniej. Hity i kity GPW w 2025 r.",
-      "content_html": "Hossa na GPW w 2025 r. sprawiła, że wszystkie główne indeksy zaliczyły imponujące stopy zwrotu. Wśród branż prym wiodły górnictwo i paliwa, ale nie zawiodły także banki. W WIG20 ceny akcji prawie wszystkich spółek podrożały przez ostatnie...",
-      "date_published": "2026-01-08T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-dalej-z-hossa-obligacjami-cenami-zlota-i-srebra-Xelion-zapowiada-ze-na-rynkach-na-pewno-bedzie-ciekawie-9064896.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-dalej-z-hossa-obligacjami-cenami-zlota-i-srebra-Xelion-zapowiada-ze-na-rynkach-na-pewno-bedzie-ciekawie-9064896.html",
-      "title": "Co dalej z hossą, obligacjami, cenami złota i srebra? Xelion zapowiada, że na rynkach \"na pewno będzie ciekawie\"",
-      "content_html": "To będzie kolejny rok hossy, ale pod znakiem dużo większej zmienności oraz przewagi małych i średnich spółek – przewidują eksperci Domu Inwestycyjnego Xelion. Atrakcyjne pozostaną obligacje skarbowe, a z kruszców bardziej opłaci się postawić...",
-      "date_published": "2026-01-08T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kaczynski-oglasza-nowy-plan-PiS-u-Marzenia-o-rozpadzie-sie-nie-spelnia-9064934.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kaczynski-oglasza-nowy-plan-PiS-u-Marzenia-o-rozpadzie-sie-nie-spelnia-9064934.html",
-      "title": "Kaczyński ogłosi nowy plan PiS-u: Marzenia o rozpadzie się nie spełnią",
-      "content_html": "Rzecznik PiS Rafał Bochenek przekazał po środowym posiedzeniu Prezydium Komitetu Politycznego PiS z udziałem ścisłego kierownictwa partii, że wśród polityków formacji „zapanowała zgoda co do kierunków działania na najbliższe miesiące...",
-      "date_published": "2026-01-07T23:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-idzie-na-reke-rolnikom-W-2026-zawiesi-cla-na-nawozy-9064927.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-idzie-na-reke-rolnikom-W-2026-zawiesi-cla-na-nawozy-9064927.html",
-      "title": "UE idzie na rękę rolnikom. W 2026 zawiesi cła na nawozy?",
-      "content_html": "Komisja Europejska zaproponowała w środę tymczasowe zawieszenie unijnych ceł na niektóre nawozy, aby obniżyć ich ceny i wspomóc rolników. Komisarz UE ds. handlu Marosz Szefczovicz powiedział, że środek ten może wejść w życie \"szybko w...",
-      "date_published": "2026-01-07T23:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-i-Thoroe-Nielsen-z-wieloletnim-kontraltem-na-dostawy-nawozow-na-rynek-skandynawski-9064954.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-i-Thoroe-Nielsen-z-wieloletnim-kontraltem-na-dostawy-nawozow-na-rynek-skandynawski-9064954.html",
-      "title": "Grupa Azoty i Thoroe Nielsen z wieloletnim kontraltem na dostawy nawozów na rynek skandynawski",
-      "content_html": "Grupa Azoty zawarła wieloletni kontrakt na dostawy nawozów wieloskładnikowych NPK i NP na rynek skandynawski z Thoroe Nielsen A/S - poinformowała w środę Grupa Azoty.",
-      "date_published": "2026-01-07T23:13:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
