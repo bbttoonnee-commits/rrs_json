@@ -4,9 +4,30 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bumech-podtrzymal-oferte-dzierzawy-zorganizowanej-czesci-PG-Silesia-9065420.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bumech-podtrzymal-oferte-dzierzawy-zorganizowanej-czesci-PG-Silesia-9065420.html",
+      "title": "Bumech podtrzymał ofertę dzierżawy zorganizowanej części PG \"Silesia\" Bumech podtrzymał ofertę dzierżawy zorganizowanej części Przedsiębiorstwa Górniczego \"Silesia\" sp. z o. o. w restrukturyzacji, w związku z umorzeniem postępowania restrukturyzacyjnego - podał Bumech w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-08T18:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-grupy-BoomBit-w-grudniu-wzrosly-do-22-04-mln-zl-9065418.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-grupy-BoomBit-w-grudniu-wzrosly-do-22-04-mln-zl-9065418.html",
+      "title": "Przychody grupy BoomBit w grudniu wzrosły do 22,04 mln zł Grupa BoomBit zanotowała w grudniu 2025 roku przychody ze sprzedaży na poziomie 22,04 mln zł, co oznacza wzrost o 7,3 proc. mdm i 19 proc. rdr - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-08T18:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-testuje-na-stacji-paliw-w-Czechach-samoobslugowa-pizzerie-i-pralnie-9065394.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-testuje-na-stacji-paliw-w-Czechach-samoobslugowa-pizzerie-i-pralnie-9065394.html",
+      "title": "Orlen testuje na stacji paliw w Czechach samoobsługową pizzerię i pralnię Samoobsługowy pizzamat oraz pralnia zostały uruchomione na stacji paliw Orlenu w Pruhonicach w Czechach, przy autostradzie D1 z Pragi do Brna - poinformował w czwartek koncern. Orlen wyjaśnił, iż w ramach pilotażu testuje w ten sposób nowe usługi.",
+      "content_html": "",
+      "date_published": "2026-01-08T18:07:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Marza-Orlenu-spadla-o-42-proc-a-kurs-runal-o-7-proc-Przecena-na-GPW-Realizacja-zyskow-jak-najbardziej-jest-uzasadniona-9065373.html",
       "url": "https://www.bankier.pl/wiadomosc/Marza-Orlenu-spadla-o-42-proc-a-kurs-runal-o-7-proc-Przecena-na-GPW-Realizacja-zyskow-jak-najbardziej-jest-uzasadniona-9065373.html",
-      "title": "Marża Orlenu spadła o 42 proc., a kurs runął o 7 proc. Przecena na GPW: „Realizacja zysków jak najbardziej jest uzasadniona” Po kilku sesjach wyraźnych wzrostów indeksy na GPW przyoblekły się w kolor czerwony. Najbardziej jaskrową odcień przybrał WIG20, który zliczył najgorszą sesję od wakacji i tąpnięcia na bankach po ogłoszeniu wprowadzenia wyższego CIT na banki. Ekspert PKO BP odsuwa teorię o ewentualnym końcu trendu wzrostowego, sugerując uzasadnioną korektę. „Dopóki jesteśmy powyżej 3175 pkt., to nie dzieje się nic złego” – tłumaczy w komentarzu dla PAP. Uwagę skupiała przecena akcji Orlen, który zaraportował ogromny spadek marży rafineryjnej.",
+      "title": "Marża Orlenu spadła o 42 proc., a kurs runął o 7 proc. Przecena na GPW: „Realizacja zysków jak najbardziej jest uzasadniona” Po kilku sesjach wyraźnych wzrostów indeksy na GPW przyoblekły się w kolor czerwony. Najbardziej jaskrową odcień przybrał WIG20, który zaliczył najgorszą sesję od wakacji i tąpnięcia na bankach po ogłoszeniu wprowadzenia wyższego CIT na banki. Ekspert PKO BP odsuwa teorię o ewentualnym końcu trendu wzrostowego, sugerując uzasadnioną korektę. „Dopóki jesteśmy powyżej 3175 pkt., to nie dzieje się nic złego” – tłumaczy w komentarzu dla PAP. Uwagę skupiała przecena akcji Orlen, który zaraportował ogromny spadek marży rafineryjnej.",
       "content_html": "",
       "date_published": "2026-01-08T17:23:00+01:00"
     },
@@ -174,7 +195,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Allegro-w-XII-mialo-23-35-mln-uzytkownikow-na-wszystkich-urzadzeniach-Mediapanel-9065019.html",
       "url": "https://www.bankier.pl/wiadomosc/Allegro-w-XII-mialo-23-35-mln-uzytkownikow-na-wszystkich-urzadzeniach-Mediapanel-9065019.html",
-      "title": "Allegro w XII miało 23,35 mln użytkowników na wszystkich urządzeniach Allegro miało w grudniu 23,35 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 22,83 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.",
+      "title": "23,35 mln klientów w miesiąc. Allegro podsumowuje grudniowe żniwa Allegro miało w grudniu 23,35 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 22,83 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.",
       "content_html": "",
       "date_published": "2026-01-08T08:12:00+01:00"
     },
