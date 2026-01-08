@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-GPM-Vindexus-zdecydowalo-o-wyplacie-0-30-zl-dywidendy-na-akcje-9065017.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-GPM-Vindexus-zdecydowalo-o-wyplacie-0-30-zl-dywidendy-na-akcje-9065017.html",
+      "title": "NWZ GPM Vindexus zdecydowało o wypłacie 0,30 zł dywidendy na akcję Nadzwyczajne walne zgromadzenie Giełdy Praw Majątkowych Vindexus zdecydowało o przeznaczeniu na wypłatę dywidendy kwoty 3,5 mln zł z części kapitału zapasowego, co oznacza 0,30 zł dywidendy nadzwyczajnej na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-08T07:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Co-dalej-z-hossa-obligacjami-cenami-zlota-i-srebra-Xelion-zapowiada-ze-na-rynkach-na-pewno-bedzie-ciekawie-9064896.html",
       "url": "https://www.bankier.pl/wiadomosc/Co-dalej-z-hossa-obligacjami-cenami-zlota-i-srebra-Xelion-zapowiada-ze-na-rynkach-na-pewno-bedzie-ciekawie-9064896.html",
       "title": "PROGNOZY Co dalej z hossą, obligacjami, cenami złota i srebra? Xelion zapowiada, że na rynkach \"na pewno będzie ciekawie\" To będzie kolejny rok hossy, ale pod znakiem dużo większej zmienności oraz przewagi małych i średnich spółek – przewidują eksperci Domu Inwestycyjnego Xelion. Atrakcyjne pozostaną obligacje skarbowe, a z kruszców bardziej opłaci się postawić na złoto niż na srebro, które okazało się inwestycyjnym przebojem 2025 roku.",
@@ -310,20 +317,6 @@
       "title": "Ceny gazu w Europie idą w górę. Arktyczny mróz uderzył w giełdę Ceny gazu w Europie rosną po zaliczeniu w poniedziałek mocnego spadku - do najniższego poziomu od 2 tygodni - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-01-06T08:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-spadaja-po-najsilniejszej-zwyzce-od-tygodnia-9064253.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-spadaja-po-najsilniejszej-zwyzce-od-tygodnia-9064253.html",
-      "title": "Ceny ropy spadają po najsilniejszej zwyżce od tygodnia Ropa naftowa tanieje we wtorek po zaliczeniu w poniedziałek nasilniejszego wzrostu ceny od tygodnia w reakcji na wydarzenia związane z Wenezuelą - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-01-06T07:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-zmierzaja-do-13300-USD-za-tone-9064248.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-zmierzaja-do-13300-USD-za-tone-9064248.html",
-      "title": "Ceny miedzi w Londynie zmierzają do 13300 USD za tonę Notowania miedzi na giełdzie metali LME w Londynie zaliczają kolejne rekordy i we wtorek zbliżyły się do 13 300 USD za tonę z powodu obaw o ograniczenie podaży metalu w 2026 r. - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-01-06T07:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
