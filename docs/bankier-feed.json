@@ -424,6 +424,13 @@
       "date_published": "2026-01-08T12:30:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gaming-Factory-ustalil-date-premiery-gry-Japanese-Drift-Master-w-wersji-PS5-na-6-II-26-9065175.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaming-Factory-ustalil-date-premiery-gry-Japanese-Drift-Master-w-wersji-PS5-na-6-II-26-9065175.html",
+      "title": "Gaming Factory ustalił datę premiery gry \"Japanese Drift Master\" w wersji PS5",
+      "content_html": "Gaming Factory ustalił datę premiery gry \"Japanese Drift Master\" w wersji PS5 na 6 lutego 2026 roku - podał producent gier w komunikacie. Cena bazowa gry została ustalona na 34,99 USD.",
+      "date_published": "2026-01-08T12:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wiatr-we-wlosach-i-bezkresna-przestrzen-czyli-harleyem-przez-swiat-9065170.html",
       "url": "https://www.bankier.pl/wiadomosc/Wiatr-we-wlosach-i-bezkresna-przestrzen-czyli-harleyem-przez-swiat-9065170.html",
       "title": "Wiatr we włosach i bezkresna przestrzeń, czyli harleyem przez świat",
@@ -695,13 +702,6 @@
       "title": "Mniej ofert, więcej zwolnień. Bezrobocie w Krakowie wśród zetek gwałtownie wzrosło",
       "content_html": "Niemal 2,3 tys. osób do 30. roku życia było zarejestrowanych jako bezrobotne w Krakowie na koniec III kwartału 2025 r. To o prawie 40 proc. więcej niż rok wcześniej – wynika z najnowszego raportu Grodzkiego Urzędu Pracy.",
       "date_published": "2026-01-08T08:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-USA-nasilaja-dzialaja-aby-przejac-kontrole-nad-Wenezuela-9065022.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-USA-nasilaja-dzialaja-aby-przejac-kontrole-nad-Wenezuela-9065022.html",
-      "title": "Ropa drożeje. USA nasilają działają, aby przejąć kontrolę nad Wenezuelą",
-      "content_html": "Ropa naftowa drożeje w trakcie czwartkowej sesji, a inwestorzy oceniają docierające na rynek wiadomości dotyczące kolejnych środków podjętych przez USA w celu przejęcia kontroli nad Wenezuelą - informują maklerzy.",
-      "date_published": "2026-01-08T08:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
