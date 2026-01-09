@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Demonstracyjny-krok-Moskwy-To-wyzwanie-dla-Warszawy-Bukaresztu-i-Budapesztu-9066312.html",
+      "url": "https://www.bankier.pl/wiadomosc/Demonstracyjny-krok-Moskwy-To-wyzwanie-dla-Warszawy-Bukaresztu-i-Budapesztu-9066312.html",
+      "title": "\"Demonstracyjny krok Moskwy\". To wyzwanie dla Warszawy, Bukaresztu i Budapesztu",
+      "content_html": "Zastosowanie przez Rosję rakiety balistycznej Oriesznik było ze strony Moskwy bardzo demonstracyjnym krokiem; jej uderzenie tuż u granic UE jest wyzwaniem dla Warszawy, Bukaresztu, a nawet Budapesztu – oświadczył w piątek wieczorem prezydent Ukrainy...",
+      "date_published": "2026-01-09T20:19:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Unibepu-na-rozbudowe-zakladu-opiekunczo-leczniczego-za-ok-20-9-mln-zl-najkorzystniejsza-9066317.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Unibepu-na-rozbudowe-zakladu-opiekunczo-leczniczego-za-ok-20-9-mln-zl-najkorzystniejsza-9066317.html",
       "title": "Unibep z najkorzystniejszą ofertą za 20,9 mln zł",
       "content_html": "Oferta Unihouse, spółki zależnej Unibepu, na rozbudowę zakładu opiekuńczo-leczniczego została wybrana jako najkorzystniejsza przez Wielospecjalistyczny Szpital - Samodzielny Publiczny Zakład Opieki Zdrowotnej w Zgorzelcu - podał Unibep w komunikacie...",
       "date_published": "2026-01-09T19:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-papierowymi-wnioskami-w-CEIDG-Sejm-pracuje-nad-pelna-cyfryzacja-9066315.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-papierowymi-wnioskami-w-CEIDG-Sejm-pracuje-nad-pelna-cyfryzacja-9066315.html",
+      "title": "Koniec z papierowymi wnioskami w CEIDG. Sejm pracuje nad pełną cyfryzacją",
+      "content_html": "Projekt ustawy o Centralnej Ewidencji i Informacji o Działalności Gospodarczej został w piątek skierowany do prac w połączonych komisjach.",
+      "date_published": "2026-01-09T19:33:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejni-Polacy-z-azylem-u-Orbana-Rzad-wciaz-nie-wie-kogo-chroni-Budapeszt-9066311.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejni-Polacy-z-azylem-u-Orbana-Rzad-wciaz-nie-wie-kogo-chroni-Budapeszt-9066311.html",
+      "title": "Kolejni Polacy z azylem u Orbana? Rząd wciąż nie wie, kogo chroni Budapeszt",
+      "content_html": "Rzecznik MSZ Maciej Wewiór poinformował PAP, że w piątek po południu do resortu przybył ambasador Węgier. W dalszym ciągu nie otrzymaliśmy odpowiedzi ze strony węgierskiej, kto został objęty azylem - dodał Wewiór.",
+      "date_published": "2026-01-09T19:31:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zwrot-w-sprawie-reformy-PIP-Tusk-i-Czarzasty-oglaszaja-wznowienie-prac-9066307.html",
@@ -557,6 +578,13 @@
       "date_published": "2026-01-09T10:28:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dziura-po-wecie-Nawrockiego-Ministerstwo-Finansow-liczy-straty-9065773.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dziura-po-wecie-Nawrockiego-Ministerstwo-Finansow-liczy-straty-9065773.html",
+      "title": "Dziura po wecie Nawrockiego. Ministerstwo Finansów liczy straty",
+      "content_html": "Przez prezydenckie weto 855 mln zł z opłaty cukrowej nie trafi do NFZ, a wpływy do budżetu przez zawetowanie zwiększenia podwyżek akcyzy na alkohol będą mniejsze o 1,8 mld zł w 2026 r. i 2,8 mld zł w 2027 r. - poinformował w piątek w Sejmie...",
+      "date_published": "2026-01-09T10:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przepychanek-wokol-RegioJet-ciag-dalszy-PKP-odpiera-zarzuty-o-ograniczanie-dostepu-do-rynku-9065195.html",
       "url": "https://www.bankier.pl/wiadomosc/Przepychanek-wokol-RegioJet-ciag-dalszy-PKP-odpiera-zarzuty-o-ograniczanie-dostepu-do-rynku-9065195.html",
       "title": "Przepychanek wokół RegioJet ciąg dalszy. PKP odpiera zarzuty o ograniczanie dostępu do rynku",
@@ -674,27 +702,6 @@
       "title": "Inflacja w Chinach: ceny rosną najszybciej od 3 lat, ale wolniej, niż chce władza",
       "content_html": "Chińska inflacja konsumencka wzrosła w grudniu do najwyższego poziomu od blisko 3 lat wraz ze wzrostem cen żywności. Patrząc na cały ubiegły rok wskaźnik cen towarów i usług konsumenckich w Państwie Środka pozostał na niezmienionym poziomie...",
       "date_published": "2026-01-09T08:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tyrowicz-Inflacja-bazowa-powinna-zmierzac-w-kierunku-2-proc-9065536.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tyrowicz-Inflacja-bazowa-powinna-zmierzac-w-kierunku-2-proc-9065536.html",
-      "title": "Tyrowicz: W danych o inflacji bazowej widać coś ciekawego",
-      "content_html": "Inflacja bazowa powinna zmierzać w kierunku 2 proc - napisała na platformie LinkedIn członkini Rady Polityki Pieniężnej Joanna Tyrowicz.",
-      "date_published": "2026-01-09T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UODO-ma-w-planach-kontrole-internetowych-platform-dostaw-9065542.html",
-      "url": "https://www.bankier.pl/wiadomosc/UODO-ma-w-planach-kontrole-internetowych-platform-dostaw-9065542.html",
-      "title": "UODO ma w planach kontrole internetowych platform dostaw",
-      "content_html": "Urząd Ochrony Danych Osobowych ma w planach kontrole internetowych platform dostaw - podał urząd w planie pracy na 2026 rok.",
-      "date_published": "2026-01-09T07:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-chcemy-polexitu-i-euro-Nowy-sondaz-9065541.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-chcemy-polexitu-i-euro-Nowy-sondaz-9065541.html",
-      "title": "Nie chcemy polexitu i euro. Nowy sondaż",
-      "content_html": "Z sondażu Instytutu Badań Pollster przeprowadzonego na zlecenie „Super Expressu” wynika, że 69 proc. ankietowanych odrzuca polexit, a 70 proc. nie chce przyjęcia euro.",
-      "date_published": "2026-01-09T07:56:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
