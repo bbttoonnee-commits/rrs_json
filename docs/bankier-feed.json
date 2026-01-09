@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tyrowicz-Inflacja-bazowa-powinna-zmierzac-w-kierunku-2-proc-9065536.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tyrowicz-Inflacja-bazowa-powinna-zmierzac-w-kierunku-2-proc-9065536.html",
+      "title": "Tyrowicz: W danych o inflacji bazowej widać coś ciekawego",
+      "content_html": "Inflacja bazowa powinna zmierzać w kierunku 2 proc - napisała na platformie LinkedIn członkini Rady Polityki Pieniężnej Joanna Tyrowicz.",
+      "date_published": "2026-01-09T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UODO-ma-w-planach-kontrole-internetowych-platform-dostaw-9065542.html",
+      "url": "https://www.bankier.pl/wiadomosc/UODO-ma-w-planach-kontrole-internetowych-platform-dostaw-9065542.html",
+      "title": "UODO ma w planach kontrole internetowych platform dostaw",
+      "content_html": "Urząd Ochrony Danych Osobowych ma w planach kontrole internetowych platform dostaw - podał urząd w planie pracy na 2026 rok.",
+      "date_published": "2026-01-09T07:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nie-chcemy-polexitu-i-euro-Nowy-sondaz-9065541.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-chcemy-polexitu-i-euro-Nowy-sondaz-9065541.html",
+      "title": "Nie chcemy polexitu i euro. Nowy sondaż",
+      "content_html": "Z sondażu Instytutu Badań Pollster przeprowadzonego na zlecenie „Super Expressu” wynika, że 69 proc. ankietowanych odrzuca polexit, a 70 proc. nie chce przyjęcia euro.",
+      "date_published": "2026-01-09T07:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-oglosil-zakup-obligacji-zabezpieczonych-hipoteka-o-wartosci-200-mld-USD-9065539.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-oglosil-zakup-obligacji-zabezpieczonych-hipoteka-o-wartosci-200-mld-USD-9065539.html",
+      "title": "Trump ogłosił zakup obligacji zabezpieczonych hipoteką o wartości 200 mld USD",
+      "content_html": "Prezydent USA Donald Trump nakazał państwowym spółkom Fannie Mae i Freddie Mac zakup obligacji zabezpieczonych hipoteką o wartości 200 mld USD. Posunięcie to określił jako swoją najnowszą próbę obniżenia kosztów mieszkaniowych przed listopadowymi...",
+      "date_published": "2026-01-09T07:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-zartow-z-prezydenta-Trump-obrazony-na-Putina-daje-zielone-swiatlo-dla-sankcji-9065414.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-zartow-z-prezydenta-Trump-obrazony-na-Putina-daje-zielone-swiatlo-dla-sankcji-9065414.html",
       "title": "Koniec żartów z prezydenta. Trump obrażony na Putina daje zielone światło dla sankcji",
@@ -674,34 +702,6 @@
       "title": "Inwazja na Grenlandię? Dania: Żołnierze mają strzelać bez rozkazu. To nie kwestia czy, a kiedy",
       "content_html": "Ministerstwo obrony Danii potwierdziło, że w razie inwazji obcych wojsk np. na terytorium Grenlandii, żołnierze mają podjąć natychmiastowy kontratak, bez czekania na rozkaz - poinformowały duńskie media.",
       "date_published": "2026-01-08T11:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanski-rynek-pracy-lapie-zadyszke-Czy-to-czas-na-zwrot-w-Fed-9065103.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanski-rynek-pracy-lapie-zadyszke-Czy-to-czas-na-zwrot-w-Fed-9065103.html",
-      "title": "Amerykański rynek pracy łapie zadyszkę. Najgorsze dane od ponad roku",
-      "content_html": "Najnowsze dane zza oceanu nie pozostawiają złudzeń: amerykański rynek pracy zaczyna wykazywać wyraźne oznaki zmęczenia. Połączenie coraz mniejszej liczby ofert pracy oraz większych zwolnień stawia Jerome’a Powella w trudnym położeniu. Listopadowy...",
-      "date_published": "2026-01-08T10:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-PLK-oglosily-przetarg-dotyczacy-elektryfikacji-linii-Tomaszow-Mazowiecki-Skarzysko-Kamienna-9065109.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-PLK-oglosily-przetarg-dotyczacy-elektryfikacji-linii-Tomaszow-Mazowiecki-Skarzysko-Kamienna-9065109.html",
-      "title": "Domykanie ciągu Łódź – Dębica. Będzie prąd, drugi tor i nowe perony",
-      "content_html": "Polskie Linie Kolejowe ogłosiły przetarg na dokumentację dla modernizacji i elektryfikacji linii kolejowej nr 25 na odcinku Tomaszów Mazowiecki – Skarżysko-Kamienna - poinformował w czwartek Rafał Wilgusiak z PKP PLK. Inwestycja ma skrócić...",
-      "date_published": "2026-01-08T10:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Strzelanina-w-USA-Trump-mowi-o-terrorystach-Burmistrz-ripostuje-Wypier-z-miasta-9064952.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strzelanina-w-USA-Trump-mowi-o-terrorystach-Burmistrz-ripostuje-Wypier-z-miasta-9064952.html",
-      "title": "Strzelanina w USA. Trump mówi o terrorystach. Burmistrz ripostuje: Wypier... z miasta",
-      "content_html": "Szkoły w Minneapolis w USA odwołały zajęcia w czwartek i piątek, a władze stanu Minnesota wezwały do zachowania spokoju po tym, jak w środę funkcjonariusz służb imigracyjnych (ICE) zastrzelił w mieście kobietę protestującą przeciw akcjom...",
-      "date_published": "2026-01-08T10:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MLP-Group-rozpoczelo-budowe-dwoch-hal-o-lacznej-powierzchni-30-tys-m-kw-9065101.html",
-      "url": "https://www.bankier.pl/wiadomosc/MLP-Group-rozpoczelo-budowe-dwoch-hal-o-lacznej-powierzchni-30-tys-m-kw-9065101.html",
-      "title": "MLP Group rozpoczęło budowę dwóch hal o łącznej powierzchni 30 tys. m kw.",
-      "content_html": "MLP Group pod koniec 2025 r. rozpoczęło budowę dwóch hal o łącznej powierzchni 30 tys. m kw. w ramach podwarszawskiego kompleksu MLP Pruszków II - podała spółka w komunikacie prasowym. Zakończenie budowy planowane jest na II kwartał 2026 roku...",
-      "date_published": "2026-01-08T10:28:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
