@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/UODO-ma-w-planach-kontrole-internetowych-platform-dostaw-9065542.html",
+      "url": "https://www.bankier.pl/wiadomosc/UODO-ma-w-planach-kontrole-internetowych-platform-dostaw-9065542.html",
+      "title": "UODO ma w planach kontrole internetowych platform dostaw Urząd Ochrony Danych Osobowych ma w planach kontrole internetowych platform dostaw - podał urząd w planie pracy na 2026 rok.",
+      "content_html": "",
+      "date_published": "2026-01-09T07:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bitcoin-prognozy-2026-Ile-bedzie-kosztowac-kryptowaluta-9065068.html",
       "url": "https://www.bankier.pl/wiadomosc/Bitcoin-prognozy-2026-Ile-bedzie-kosztowac-kryptowaluta-9065068.html",
       "title": "Ile będzie kosztować bitcoin w 2026 roku? Sprawdzamy kryptowalutowe prognozy Ile będzie kosztować bitcoin w 2026 roku? Czy szybciej kupimy go po 10 tys. czy 250 tys. dolarów? Zdania analityków dawno nie były tak podzielone. W scenariuszach, które kreślą na ten rok, koniec cyklu miesza się z nowym szefem Fed zrzucającym pieniądze z helikoptera, a kryptowalutowa zima kroczy pod rękę z największym rajdem wszech czasów.",
@@ -263,13 +270,6 @@
       "date_published": "2026-01-08T06:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-i-Thoroe-Nielsen-z-wieloletnim-kontraltem-na-dostawy-nawozow-na-rynek-skandynawski-9064954.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-i-Thoroe-Nielsen-z-wieloletnim-kontraltem-na-dostawy-nawozow-na-rynek-skandynawski-9064954.html",
-      "title": "Grupa Azoty i Thoroe Nielsen z wieloletnim kontraltem na dostawy nawozów na rynek skandynawski Grupa Azoty zawarła wieloletni kontrakt na dostawy nawozów wieloskładnikowych NPK i NP na rynek skandynawski z Thoroe Nielsen A/S - poinformowała w środę Grupa Azoty.",
-      "content_html": "",
-      "date_published": "2026-01-07T23:13:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-umorzyl-postepowanie-restrukturyzacyjne-PG-Silesia-9064858.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-umorzyl-postepowanie-restrukturyzacyjne-PG-Silesia-9064858.html",
       "title": "Sąd umorzył postępowanie restrukturyzacyjne PG Silesia Właściciel spółki eksploatującej kopalnię Silesia poinformował, że sąd umorzył jej postępowanie restrukturyzacyjne. To jedno z działań otwierających drogę do realizacji porozumienia ws. zabezpieczenia pracowników Silesii, zawartego pod koniec grudnia ub. roku.",
@@ -485,20 +485,6 @@
       "title": "Budimex realizuje dla GDDKiA 24 kontrakty warte 10,2 mld zł Budimex realizuje dla GDDKiA 24 kontrakty warte 10,2 mld zł - podała Generalna Dyrekcja Dróg Krajowych i Autostrad w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-07T08:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-szacuje-ze-w-IV-kw-przychody-wyniosly-10-2-mln-zl-wzrosly-74-proc-rdr-9064478.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-szacuje-ze-w-IV-kw-przychody-wyniosly-10-2-mln-zl-wzrosly-74-proc-rdr-9064478.html",
-      "title": "Medicalgorithmics szacuje, że w IV kw. przychody wyniosły 10,2 mln zł, wzrosły 74 proc. rdr Medicalgorithmics szacuje, że w czwartym kwartale 2025 r. skonsolidowane przychody ze sprzedaży wyniosły łącznie 10,2 mln zł, co oznacza wzrost o 74 proc. rdr - podała spółka w komunikacie prasowym. Wstępny, szacowany wynik EBITDA w przedmiotowym okresie wyniósł 982 tys. zł.",
-      "content_html": "",
-      "date_published": "2026-01-07T07:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Voxel-do-157-2-zl-9064473.html",
-      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Voxel-do-157-2-zl-9064473.html",
-      "title": "East Value Research obniżył cenę docelową akcji Voxel do 157,2 zł Analitycy East Value Research, w raporcie z 7 stycznia, obniżyli cenę docelową akcji Voxel do 157,2 zł z 158,7 zł wcześniej. Rekomendacja została podwyższona do \"kupuj\" z \"redukuj\".",
-      "content_html": "",
-      "date_published": "2026-01-07T07:04:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
