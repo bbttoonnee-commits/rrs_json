@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Esotiq-Henderson-zwiekszyl-przychody-w-grudniu-o-18-proc-rdr-9066352.html",
+      "url": "https://www.bankier.pl/wiadomosc/Esotiq-Henderson-zwiekszyl-przychody-w-grudniu-o-18-proc-rdr-9066352.html",
+      "title": "Esotiq&Henderson zwiększył przychody w grudniu o 18 proc. rdr",
+      "content_html": "Esotiq&Henderson w grudniu 2025 roku miał skonsolidowane przychody ze sprzedaży na poziomie około 38,8 mln zł, więcej o około 18 proc. od przychodów uzyskanych rok wcześniej. Skonsolidowane przychody w całym 2025 r. wyniosły około 319,5 mln...",
+      "date_published": "2026-01-09T21:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Blacksheep-Fund-Management-oraz-Alexis-Fortune-maja-ponizej-5-proc-Sygnity-9066338.html",
       "url": "https://www.bankier.pl/wiadomosc/Blacksheep-Fund-Management-oraz-Alexis-Fortune-maja-ponizej-5-proc-Sygnity-9066338.html",
       "title": "Blacksheep Fund Management oraz Alexis Fortune mają poniżej 5 proc. Sygnity",
@@ -695,13 +702,6 @@
       "title": "MF uplasowało euroobligacje 5- i 10-letnie o łącznej wartości nominalnej 3,25 mld euro",
       "content_html": "MF uplasowało na rynku euro 5- i 10-letnie obligacje benchmarkowe o łącznej wartości nominalnej 3,25 mld euro. - podał w komunikacie resort finansów.",
       "date_published": "2026-01-09T09:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PolTREG-ma-warunkowy-patent-od-chinskiego-urzedu-w-projekcie-terapii-opartych-na-CAR-TREG-9065561.html",
-      "url": "https://www.bankier.pl/wiadomosc/PolTREG-ma-warunkowy-patent-od-chinskiego-urzedu-w-projekcie-terapii-opartych-na-CAR-TREG-9065561.html",
-      "title": "PolTREG ma warunkowy patent od chińskiego urzędu w projekcie terapii opartych na CAR-TREG",
-      "content_html": "Urząd Patentowy Chińskiej Republiki Ludowej warunkowo przyznał patent dla projektu terapii opartych na CAR-TREG w leczeniu chorób neurodegeneracyjnych - podał PolTREG w komunikacie.",
-      "date_published": "2026-01-09T08:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
