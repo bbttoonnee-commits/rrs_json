@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Blacksheep-Fund-Management-oraz-Alexis-Fortune-maja-ponizej-5-proc-Sygnity-9066338.html",
+      "url": "https://www.bankier.pl/wiadomosc/Blacksheep-Fund-Management-oraz-Alexis-Fortune-maja-ponizej-5-proc-Sygnity-9066338.html",
+      "title": "Blacksheep Fund Management oraz Alexis Fortune mają poniżej 5 proc. Sygnity",
+      "content_html": "Blacksheep Fund Management Ltd. z siedzibą w Dublinie (BFM) oraz Alexis Fortune (UBO) zmniejszyły zaangażowanie w Sygnity i aktualnie posiadają 4,96 proc. udziału w liczbie głosów - poinformowała spółka w komunikacie.",
+      "date_published": "2026-01-09T21:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Demonstracyjny-krok-Moskwy-To-wyzwanie-dla-Warszawy-Bukaresztu-i-Budapesztu-9066312.html",
       "url": "https://www.bankier.pl/wiadomosc/Demonstracyjny-krok-Moskwy-To-wyzwanie-dla-Warszawy-Bukaresztu-i-Budapesztu-9066312.html",
       "title": "\"Demonstracyjny krok Moskwy\". To wyzwanie dla Warszawy, Bukaresztu i Budapesztu",
@@ -695,13 +702,6 @@
       "title": "PolTREG ma warunkowy patent od chińskiego urzędu w projekcie terapii opartych na CAR-TREG",
       "content_html": "Urząd Patentowy Chińskiej Republiki Ludowej warunkowo przyznał patent dla projektu terapii opartych na CAR-TREG w leczeniu chorób neurodegeneracyjnych - podał PolTREG w komunikacie.",
       "date_published": "2026-01-09T08:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-Chinach-ceny-rosna-najszybciej-od-3-lat-ale-wolniej-niz-chce-wladza-9065531.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-Chinach-ceny-rosna-najszybciej-od-3-lat-ale-wolniej-niz-chce-wladza-9065531.html",
-      "title": "Inflacja w Chinach: ceny rosną najszybciej od 3 lat, ale wolniej, niż chce władza",
-      "content_html": "Chińska inflacja konsumencka wzrosła w grudniu do najwyższego poziomu od blisko 3 lat wraz ze wzrostem cen żywności. Patrząc na cały ubiegły rok wskaźnik cen towarów i usług konsumenckich w Państwie Środka pozostał na niezmienionym poziomie...",
-      "date_published": "2026-01-09T08:45:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
