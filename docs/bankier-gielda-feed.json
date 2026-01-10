@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Piatkowa-sesja-na-Wall-Street-Kolejny-rekord-S-P-500-a-payrolls-pozytywnie-zaskakuja-9066366.html",
+      "url": "https://www.bankier.pl/wiadomosc/Piatkowa-sesja-na-Wall-Street-Kolejny-rekord-S-P-500-a-payrolls-pozytywnie-zaskakuja-9066366.html",
+      "title": "Piątkowa sesja na Wall Street. Kolejny rekord S&P 500, a payrolls pozytywnie zaskakują Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, a S&P 500 po raz kolejny w ostatnim czasie ustanowił historyczny rekord. W centrum uwagi były dane z amerykańskiego rynku pracy, które w opinii analityków zachęcą Fed do wstrzymania się z obniżką stóp proc. w styczniu.",
+      "content_html": "",
+      "date_published": "2026-01-10T08:11:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-odwrocie-Inwestorzy-wola-zloto-i-rynki-zagraniczne-od-amerykanskich-akcji-9066284.html",
       "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-odwrocie-Inwestorzy-wola-zloto-i-rynki-zagraniczne-od-amerykanskich-akcji-9066284.html",
       "title": "Wall Street w odwrocie? Inwestorzy wolą złoto i rynki zagraniczne od amerykańskich akcji Po podsumowaniu ubiegłorocznych wyników inwestorzy w USA muszą zmierzyć się z faktem, że rozgrzany amerykański rynek akcji został w tyle. W minionym roku tamtejsze indeksy radziły sobie gorzej nie tylko od wielu parkietów zagranicznych, ale nawet od złota. Eksperci wskazują na rodzące się bańki spekulacyjne i szukają szans w nowych sektorach. Sprawdzamy, o czym mówi się teraz na Wall Street.",
@@ -20,14 +27,14 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Esotiq-Henderson-zwiekszyl-przychody-w-grudniu-o-18-proc-rdr-9066352.html",
       "url": "https://www.bankier.pl/wiadomosc/Esotiq-Henderson-zwiekszyl-przychody-w-grudniu-o-18-proc-rdr-9066352.html",
-      "title": "Esotiq&Henderson zwiększył przychody w grudniu o 18 proc. rdr Esotiq&Henderson w grudniu 2025 roku miał skonsolidowane przychody ze sprzedaży na poziomie około 38,8 mln zł, więcej o około 18 proc. od przychodów uzyskanych rok wcześniej. Skonsolidowane przychody w całym 2025 r. wyniosły około 319,5 mln zł i były wyższe o ok. 8 proc. rdr.",
+      "title": "Esotiq zwiększył grudniowe przychody o 18% rdr Esotiq&Henderson w grudniu 2025 roku miał skonsolidowane przychody ze sprzedaży na poziomie około 38,8 mln zł, więcej o około 18 proc. od przychodów uzyskanych rok wcześniej. Skonsolidowane przychody w całym 2025 r. wyniosły około 319,5 mln zł i były wyższe o ok. 8 proc. rdr.",
       "content_html": "",
       "date_published": "2026-01-09T21:58:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Blacksheep-Fund-Management-oraz-Alexis-Fortune-maja-ponizej-5-proc-Sygnity-9066338.html",
       "url": "https://www.bankier.pl/wiadomosc/Blacksheep-Fund-Management-oraz-Alexis-Fortune-maja-ponizej-5-proc-Sygnity-9066338.html",
-      "title": "Blacksheep Fund Management oraz Alexis Fortune mają poniżej 5 proc. Sygnity Blacksheep Fund Management Ltd. z siedzibą w Dublinie (BFM) oraz Alexis Fortune (UBO) zmniejszyły zaangażowanie w Sygnity i aktualnie posiadają 4,96 proc. udziału w liczbie głosów - poinformowała spółka w komunikacie.",
+      "title": "Blacksheep i Alexis Fortune poniżej 5% w Sygnity Blacksheep Fund Management Ltd. z siedzibą w Dublinie (BFM) oraz Alexis Fortune (UBO) zmniejszyły zaangażowanie w Sygnity i aktualnie posiadają 4,96 proc. udziału w liczbie głosów - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-09T21:02:00+01:00"
     },
@@ -457,20 +464,6 @@
       "title": "InPost zniknie z giełdy? Kurs akcji w górę po tajemniczej ofercie Jednym z możliwych wariantów jest wycofanie InPostu z giełdy w Amsterdamie - powiedziała PAP dyrektor Polskiego Stowarzyszenia Inwestorów Kapitałowych Anna Wnuk, odnosząc się do informacji o propozycji przejęcia wszystkich akcji spółki.",
       "content_html": "",
       "date_published": "2026-01-08T08:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-w-XII-mialo-23-35-mln-uzytkownikow-na-wszystkich-urzadzeniach-Mediapanel-9065019.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-w-XII-mialo-23-35-mln-uzytkownikow-na-wszystkich-urzadzeniach-Mediapanel-9065019.html",
-      "title": "23,35 mln klientów w miesiąc. Allegro podsumowuje grudniowe żniwa Allegro miało w grudniu 23,35 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 22,83 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.",
-      "content_html": "",
-      "date_published": "2026-01-08T08:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-GPM-Vindexus-zdecydowalo-o-wyplacie-0-30-zl-dywidendy-na-akcje-9065017.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-GPM-Vindexus-zdecydowalo-o-wyplacie-0-30-zl-dywidendy-na-akcje-9065017.html",
-      "title": "NWZ GPM Vindexus zdecydowało o wypłacie 0,30 zł dywidendy na akcję Nadzwyczajne walne zgromadzenie Giełdy Praw Majątkowych Vindexus zdecydowało o przeznaczeniu na wypłatę dywidendy kwoty 3,5 mln zł z części kapitału zapasowego, co oznacza 0,30 zł dywidendy nadzwyczajnej na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-08T07:58:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
