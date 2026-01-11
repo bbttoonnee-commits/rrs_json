@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/45-mld-zl-w-11-miesiecy-Co-napedza-rekordowy-wzrost-aktywow-TFI-w-2025-roku-9066548.html",
+      "url": "https://www.bankier.pl/wiadomosc/45-mld-zl-w-11-miesiecy-Co-napedza-rekordowy-wzrost-aktywow-TFI-w-2025-roku-9066548.html",
+      "title": "45 mld zł w 11 miesięcy. Co napędza rekordowy wzrost aktywów TFI w 2025 roku? Aktywa funduszy inwestycyjnych w Polsce osiągnęły w 2025 r. rekordowy poziom, rosnąc głównie dzięki realnym napływom kapitału. Najwięcej środków trafiło do funduszy obligacyjnych i PPK, wynika z informacji przekazanych przez Polski Instytut Ekonomiczny.",
+      "content_html": "",
+      "date_published": "2026-01-11T09:09:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nietypowy-optymizm-na-Wall-Street-Analitycy-podnosza-prognozy-zyskow-S-P-500-9066500.html",
       "url": "https://www.bankier.pl/wiadomosc/Nietypowy-optymizm-na-Wall-Street-Analitycy-podnosza-prognozy-zyskow-S-P-500-9066500.html",
       "title": "Nietypowy optymizm na Wall Street. Analitycy podnoszą prognozy zysków S&P 500 Przed rozpoczęciem sezonu publikacji wyników finansowych, zarówno analitycy, jak i firmy wykazują większy niż zwykle optymizm w prognozach zysków spółek z indeksu S&P 500 na IV kwartał 2025 r. Jednak większość optymizmu koncentruje się w sektorze technologii informatycznych - wynika z danych FactSet.",
@@ -240,27 +247,6 @@
       "title": "Sprzedaż gry Gaming Factory \"JDM: Japanese Drift Master\" przekroczyła 200 tys. egzemplarzy Sprzedaż gry JDM: Japanese Drift Master przekroczyła 200 tys. egzemplarzy - podał Gaming Factory w komunikacie prasowym. Spółka planuje dalszą rozbudowę zawartości gry oraz konsekwentne rozwijanie i angażowanie społeczności skupionej wokół tytułu.",
       "content_html": "",
       "date_published": "2026-01-09T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarobki-nawet-trzy-razy-lepsze-niz-na-YouTube-Spotify-rzuca-wyzwanie-Google-i-placi-rekordowe-stawki-9065757.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarobki-nawet-trzy-razy-lepsze-niz-na-YouTube-Spotify-rzuca-wyzwanie-Google-i-placi-rekordowe-stawki-9065757.html",
-      "title": "Na Spotify zarabiają nawet trzy razy lepiej niż na You Tube. Płacą za wyświetlenia i ułatwiają obsługę konta Spotify kojarzone niemal wyłącznie z muzyką i podcastami audio, przechodzi fundamentalną transformację. Jak donosi Bloomberg, gigant streamingu intensyfikuje swoje działania, by odebrać twórców YouTube’owi. Strategia szwedzkiego giganta jest prosta: większe pieniądze, lepsza technologia i szerokie otwarcie się na mniejszych twórców.",
-      "content_html": "",
-      "date_published": "2026-01-09T09:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-PAD-RES-pozyskala-637-mln-zl-na-refinansowanie-oraz-dzialalnosc-operacyjna-farm-PV-9065568.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-PAD-RES-pozyskala-637-mln-zl-na-refinansowanie-oraz-dzialalnosc-operacyjna-farm-PV-9065568.html",
-      "title": "Grupa PAD RES pozyskała 637 mln zł na refinansowanie oraz działalność operacyjną farm PV Grupa PAD RES, inwestor i deweloper odnawialnych źródeł energii, pozyskała 637 mln zł od Santander Bank Polska, Bank Millennium i UniCredit na refinansowanie poniesionych nakładów inwestycyjnych oraz finansowanie operacyjne 9 farm fotowoltaicznych o łącznej mocy zainstalowanej 310 MW - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-01-09T09:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PolTREG-ma-warunkowy-patent-od-chinskiego-urzedu-w-projekcie-terapii-opartych-na-CAR-TREG-9065561.html",
-      "url": "https://www.bankier.pl/wiadomosc/PolTREG-ma-warunkowy-patent-od-chinskiego-urzedu-w-projekcie-terapii-opartych-na-CAR-TREG-9065561.html",
-      "title": "PolTREG ma warunkowy patent od chińskiego urzędu w projekcie terapii opartych na CAR-TREG Urząd Patentowy Chińskiej Republiki Ludowej warunkowo przyznał patent dla projektu terapii opartych na CAR-TREG w leczeniu chorób neurodegeneracyjnych - podał PolTREG w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-09T08:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
