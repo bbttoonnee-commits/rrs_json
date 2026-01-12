@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ipopema-Fund-Services-kupuje-9-98-proc-udzialow-w-DM-CVI-9067270.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ipopema-Fund-Services-kupuje-9-98-proc-udzialow-w-DM-CVI-9067270.html",
+      "title": "Ipopema Fund Services kupuje 9,98 proc. udziałów w DM CVI",
+      "content_html": "Ipopema Fund Services, podmiot pośrednio zależny od Ipopema Securities, kupiuje 9,98 proc. udziałów w CVI Dom Maklerski - poinformowała Ipopema Securities w komunikacie prasowym.",
+      "date_published": "2026-01-12T22:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Umowa-z-Mercosurem-trafi-do-sadu-Krajewski-Wniosek-do-TSUE-do-konca-miesiaca-9067233.html",
       "url": "https://www.bankier.pl/wiadomosc/Umowa-z-Mercosurem-trafi-do-sadu-Krajewski-Wniosek-do-TSUE-do-konca-miesiaca-9067233.html",
       "title": "Umowa z Mercosurem trafi do sądu. Krajewski: Wniosek do TSUE do końca miesiąca",
@@ -695,13 +702,6 @@
       "title": "Ropa notuje najmocniejszy 3-dniowy wzrost ceny od X 2025",
       "content_html": "Ropa naftowa drożeje nieznacznie w poniedziałek, ale łącznie w ciągu ostatnich 3 sesji zalicza najmocniejszy wzrost notowań od października 2025 r. Inwestorzy obawiają się, że protesty w Iranie zagrażają dostawom ropy naftowej od tego 4. co...",
       "date_published": "2026-01-12T07:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sledztwo-przeciwko-szefowi-Fed-Powell-oskarza-ludzi-Trumpa-o-polityczna-zemste-9066685.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sledztwo-przeciwko-szefowi-Fed-Powell-oskarza-ludzi-Trumpa-o-polityczna-zemste-9066685.html",
-      "title": "Bezprecedensowe śledztwo przeciwko szefowi Fed. Powell oskarża ludzi Trumpa o polityczną zemstę",
-      "content_html": "Prezes Rezerwy Federalnej (banku centralnego USA) Jerome Powell poinformował w niedzielę, że otrzymał wezwanie do zeznań w śledztwie karnym prokuratury federalnej. Powell oskarżył administrację Trumpa o atak na niezależność banku, twierdząc...",
-      "date_published": "2026-01-12T07:52:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
