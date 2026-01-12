@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zakonczono-faze-uruchamiania-platformy-satelitarnej-satelity-PIAST-M-Creotech-Instruments-9066744.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zakonczono-faze-uruchamiania-platformy-satelitarnej-satelity-PIAST-M-Creotech-Instruments-9066744.html",
+      "title": "Zakończono fazę uruchamiania platformy satelitarnej satelity PIAST-M Zakończono fazę uruchamiania platformy satelitarnej satelity PIAST-M, jednego z trzech satelitów konstelacji PIAST - poinformował Creotech Instruments w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-12T08:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tak-politycy-ze-zwiazkami-dobili-JSW-9066722.html",
       "url": "https://www.bankier.pl/wiadomosc/Tak-politycy-ze-zwiazkami-dobili-JSW-9066722.html",
       "title": "Tak politycy ze związkami dobili JSW Zarząd spółki bez doświadczenia, miliony na doradców od restrukturyzacji i polityczna „kiełbasa” dla pracowników w formie zbyt wysokich płac to - jak informuje poniedziałkowa „Rzeczpospolita” - przyczyny tragicznej sytuacji w Jastrzębskiej Spółki Węglowej (JSW). „Rz” dotarła do pisma, z którego wynika, że organizacje związkowe JSW wydały negatywne stanowisko wobec ostatnich propozycji zarządu.",
@@ -51,13 +58,6 @@
       "title": "Boom na rynku Catalyst. Przedsiębiorcy masowo sięgają po kapitał z giełdy Rynek Catalyst, na którym notowane są obligacje korporacyjne, komunalne i skarbowe, wchodzi w kolejny etap przyspieszenia. Z danych Giełdy Papierów Wartościowych wynika, że pod koniec 2025 roku było na nim notowanych blisko 800 serii instrumentów dłużnych o łącznej wartości ponad 1,5 bln zł, licząc razem z listami zastawnymi.",
       "content_html": "",
       "date_published": "2026-01-11T08:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Piatkowa-sesja-na-Wall-Street-Kolejny-rekord-S-P-500-a-payrolls-pozytywnie-zaskakuja-9066366.html",
-      "url": "https://www.bankier.pl/wiadomosc/Piatkowa-sesja-na-Wall-Street-Kolejny-rekord-S-P-500-a-payrolls-pozytywnie-zaskakuja-9066366.html",
-      "title": "Piątkowa sesja na Wall Street. Kolejny rekord S&P 500, a payrolls pozytywnie zaskakują Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, a S&P 500 po raz kolejny w ostatnim czasie ustanowił historyczny rekord. W centrum uwagi były dane z amerykańskiego rynku pracy, które w opinii analityków zachęcą Fed do wstrzymania się z obniżką stóp proc. w styczniu.",
-      "content_html": "",
-      "date_published": "2026-01-10T08:11:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
