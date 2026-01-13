@@ -4,11 +4,81 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Morskie-widma-Putina-Setki-nielegalnych-tankowcow-u-bram-Europy-9067556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Morskie-widma-Putina-Setki-nielegalnych-tankowcow-u-bram-Europy-9067556.html",
+      "title": "Morskie widma Putina. Setki nielegalnych tankowców u bram Europy",
+      "content_html": "Co najmniej 466 statków bezpaństwowych, tworzących głównie rosyjską i irańską flotę cieni, zaobserwowano w miniony poniedziałek na całym świecie, w tym 23 na wodach Unii Europejskiej - wynika z danych brytyjskiej gazety „Lloyd's List”...",
+      "date_published": "2026-01-13T16:39:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polski-atom-z-francuskimi-turbinami-PEJ-zatwierdza-wybor-Arabelli-9067598.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polski-atom-z-francuskimi-turbinami-PEJ-zatwierdza-wybor-Arabelli-9067598.html",
+      "title": "Polski atom z francuskimi turbinami. PEJ zatwierdza wybór Arabelli",
+      "content_html": "Wykonawcy pierwszej polskiej elektrowni jądrowej - konsorcjum Westinghouse-Bechtel - wybrali dla niej francuskie turbiny i generatory Arabelle. Wybór został zatwierdzony przez spółkę Polskie Elektrownie jądrowe - inwestora i operatora elektrowni...",
+      "date_published": "2026-01-13T16:39:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-miliony-z-abonamentu-RTV-rozstrzygniety-Sad-Zadania-KRRiT-byly-bezzasadne-9067660.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-miliony-z-abonamentu-RTV-rozstrzygniety-Sad-Zadania-KRRiT-byly-bezzasadne-9067660.html",
+      "title": "Spór o miliony z abonamentu RTV rozstrzygnięty? Sąd: Żądania KRRiT były bezzasadne",
+      "content_html": "WSA twierdzi, że KRRiT nie ma prawa wymagać od spółek mediów publicznych dodatkowych sprawozdań z wydatkowania środków z abonamentu na realizację misji publicznej i uzależniać od tego wypłat jego transz. Szefowa Radia Katowice Ewelina Kosałka-Passia...",
+      "date_published": "2026-01-13T16:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ministerstwo-Finansow-szykuje-pakiet-deregulacyjny-Beda-ulatwienia-w-PIT-i-CIT-9067654.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ministerstwo-Finansow-szykuje-pakiet-deregulacyjny-Beda-ulatwienia-w-PIT-i-CIT-9067654.html",
+      "title": "Ministerstwo Finansów szykuje pakiet deregulacyjny. Będą ułatwienia w PIT i CIT",
+      "content_html": "Ministerstwo Finansów proponuje zmiany w przepisach dotyczących m.in. dokumentowania cen transferowych przez firmy – wynika z opublikowanej we wtorek informacji o planowanej nowelizacji ustaw o podatku dochodowym od osób fizycznych oraz prawnych...",
+      "date_published": "2026-01-13T16:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-Rosji-na-Ukraine-Wsrod-zniszczen-polski-konsulat-w-Odessie-9067646.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-Rosji-na-Ukraine-Wsrod-zniszczen-polski-konsulat-w-Odessie-9067646.html",
+      "title": "Zmasowany atak Rosji na Ukrainę. Wśród zniszczeń polski konsulat w Odessie",
+      "content_html": "W wyniku nocnego bombardowania uszkodzony został budynek polskiego konsulatu w Odessie - poinformował we wtorek rzecznik MSZ Maciej Wewiór. Podkreślił, że żaden z pracowników konsulatu nie odniósł obrażeń.",
+      "date_published": "2026-01-13T16:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strajk-kierowcow-po-zabojstwie-w-stolicy-Peru-Prezydent-Jeri-Tez-jezdze-autobusem-9067618.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strajk-kierowcow-po-zabojstwie-w-stolicy-Peru-Prezydent-Jeri-Tez-jezdze-autobusem-9067618.html",
+      "title": "Strajk kierowców po zabójstwie w stolicy Peru. Prezydent Jeri: Też jeżdżę autobusem",
+      "content_html": "Prezydent Peru Jose Jeri oświadczył, że poprze strajk pracowników komunikacji miejskiej w stolicy kraju, Limie, zapowiedziany na najbliższą środę. Związki zawodowe organizują protest w związku z „mnożącymi się atakami zbrojnych band na...",
+      "date_published": "2026-01-13T16:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Investors-TFI-Obligacje-wciaz-dadza-zarobic-ale-rajd-na-zlocie-zwolni-9067612.html",
+      "url": "https://www.bankier.pl/wiadomosc/Investors-TFI-Obligacje-wciaz-dadza-zarobic-ale-rajd-na-zlocie-zwolni-9067612.html",
+      "title": "Investors TFI: Obligacje wciąż dadzą zarobić, ale rajd na złocie zwolni",
+      "content_html": "Polskie obligacje skarbowe nie mają przestrzeni do istotnych spadków rentowności, ale - zdaniem Jarosława Niedzielewskiego z Investors TFI - nawet przy stabilnych rentownościach obligacje długoterminowe mogą oferować bardzo przyzwoite realne stopy...",
+      "date_published": "2026-01-13T16:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Holownia-szefem-Polski-2050-Jesli-bedzie-trzeba-nie-bede-sie-uchylal-9067582.html",
+      "url": "https://www.bankier.pl/wiadomosc/Holownia-szefem-Polski-2050-Jesli-bedzie-trzeba-nie-bede-sie-uchylal-9067582.html",
+      "title": "Hołownia szefem Polski 2050? \"Jeśli będzie trzeba, nie będę się uchylał\"",
+      "content_html": "Szymon Hołownia nie wyklucza kandydowania na przewodniczącego Polski 2050, jeśli wybory będą powtórzone. Podkreślił, że nie podjął jeszcze w tej sprawie decyzji. - Jeżeli będzie to rozwiązanie, które ma pomóc Polsce 2050, to ja się od...",
+      "date_published": "2026-01-13T15:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gra-o-Grenlandie-Dania-wzywa-na-pomoc-NATO-ale-rozmawia-z-USA-9067536.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gra-o-Grenlandie-Dania-wzywa-na-pomoc-NATO-ale-rozmawia-z-USA-9067536.html",
+      "title": "Gra o Grenlandię. Dania wzywa na pomoc NATO, ale rozmawia z USA",
+      "content_html": "Wiceprezydent Stanów Zjednoczonych J.D. Vance weźmie udział w zaplanowanych na środę rozmowach władz Danii i Grenlandii z amerykańskim sekretarzem stanu Markiem Rubio – poinformował we wtorek szef duńskiej dyplomacji Lars Lokke Rasmussen.",
+      "date_published": "2026-01-13T15:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Swiatowi-bankierzy-bronia-szefa-Fed-Jerome-a-Powella-przed-Donaldem-Trumpem-9067605.html",
       "url": "https://www.bankier.pl/wiadomosc/Swiatowi-bankierzy-bronia-szefa-Fed-Jerome-a-Powella-przed-Donaldem-Trumpem-9067605.html",
       "title": "Światowi bankierzy bronią szefa Fed Jerome'a Powella przed Donaldem Trumpem",
       "content_html": "Szefowie banków centralnych dziewięciu państw oraz Europejskiego Banku Centralnego (EBC) i Banku Rozrachunków Międzynarodowych we wspólnym oświadczeniu we wtorek wystąpili w obronie prezesa Rezerwy Federalnej (banku centralnego USA) Jerome'a Powella...",
       "date_published": "2026-01-13T15:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyzszy-wzrost-gospodarczy-w-Polsce-BS-koryguje-dane-za-2025-i-2026-rok-9067678.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyzszy-wzrost-gospodarczy-w-Polsce-BS-koryguje-dane-za-2025-i-2026-rok-9067678.html",
+      "title": "Wyższy wzrost gospodarczy w Polsce. BŚ koryguje dane za 2025 i 2026 rok",
+      "content_html": "Wzrost polskiego PKB wyniesie 3,2 proc. w 2026 r., a nie 3 proc., jak wcześniej prognozowano - poinformował we wtorek Bank Światowy. Podniósł też o 0,1 pkt proc. szacunek wzrostu gospodarczego Polski w 2025 r., do 3,3 proc.",
+      "date_published": "2026-01-13T15:30:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Matematyka-nie-bierze-jencow-Panamera-z-gniazdkiem-to-dowod-na-to-ze-hybryda-to-wybor-ekonomiczny-a-nie-ekologiczny-9067609.html",
@@ -60,25 +130,11 @@
       "date_published": "2026-01-13T14:30:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gra-o-Grenlandie-Dania-wzywa-na-pomoc-NATO-ale-rozmawia-z-USA-9067536.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gra-o-Grenlandie-Dania-wzywa-na-pomoc-NATO-ale-rozmawia-z-USA-9067536.html",
-      "title": "Gra o Grenlandię. Dania wzywa na pomoc NATO, ale rozmawia z USA",
-      "content_html": "Wiceprezydent Stanów Zjednoczonych J.D. Vance weźmie udział w zaplanowanych na środę rozmowach władz Danii i Grenlandii z amerykańskim sekretarzem stanu Markiem Rubio – poinformował we wtorek szef duńskiej dyplomacji Lars Lokke Rasmussen.",
-      "date_published": "2026-01-13T14:28:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-ma-nowe-koncesje-na-Norweskim-Szelfie-Kontynentalnym-9067610.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-ma-nowe-koncesje-na-Norweskim-Szelfie-Kontynentalnym-9067610.html",
       "title": "Orlen ma nowe koncesje na Norweskim Szelfie Kontynentalnym",
       "content_html": "Orlen Upstream Norway otrzymał od norweskiego Ministerstwa Energii propozycję objęcia udziałów w sześciu nowych koncesjach poszukiwawczych i wydobywczych - poinformowała spółka w komunikacie, dodając, że jedna z zaproponowanych koncesji może...",
       "date_published": "2026-01-13T14:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Holownia-szefem-Polski-2050-Jesli-bedzie-trzeba-nie-bede-sie-uchylal-9067582.html",
-      "url": "https://www.bankier.pl/wiadomosc/Holownia-szefem-Polski-2050-Jesli-bedzie-trzeba-nie-bede-sie-uchylal-9067582.html",
-      "title": "Hołownia szefem Polski 2050? \"Jeśli będzie trzeba, nie będę się uchylał\"",
-      "content_html": "Szymon Hołownia nie wykluczył kandydowania na przewodniczącego Polski 2050, jeśli wybory na szefa partii zostaną powtórzone. Dodał, że w piątek zbierze się Rada Krajowa ugrupowania, która ma zdecydować, czy powtórzone zostaną całe wybory...",
-      "date_published": "2026-01-13T14:23:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nawrocki-broni-azylu-Ziobry-W-Polsce-nie-moga-liczyc-na-sprawiedliwy-proces-9067585.html",
@@ -93,13 +149,6 @@
       "title": "Zadyszka w polskim handlu zagranicznym. Słabsze wyniki eksportu i importu",
       "content_html": "W listopadzie eksport słabł lub pogłębiał spadki w większości kategorii - podał NBP omawiając wyniki w handlu zagranicznym w listopadzie.",
       "date_published": "2026-01-13T14:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polski-atom-z-francuskimi-turbinami-PEJ-zatwierdza-wybor-Arabelli-9067598.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polski-atom-z-francuskimi-turbinami-PEJ-zatwierdza-wybor-Arabelli-9067598.html",
-      "title": "Polski atom z francuskimi turbinami. PEJ zatwierdza wybór Arabelli",
-      "content_html": "Wykonawcy pierwszej polskiej elektrowni jądrowej - konsorcjum Westinghouse-Bechtel - wybrali dla niej francuskie turbiny i generatory Arabelle. Wybór został zatwierdzony przez spółkę Polskie Elektrownie jądrowe - inwestora i operatora elektrowni...",
-      "date_published": "2026-01-13T14:13:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mocne-wejscie-PKO-BP-w-nowy-rok-Nawet-600-zl-za-jedna-platnosc-w-miesiacu-9067548.html",
@@ -135,13 +184,6 @@
       "title": "Gospodarka przyspiesza do 4% PKB. Hossa na GPW ma solidne paliwo",
       "content_html": "Kilkunastoprocentowe stopy zwrotu z głównych indeksów GPW w 2026 r. pozostają w zasięgu i znajdują solidne uzasadnienie fundamentalne - uważa Jarosław Niedzielewski, dyrektor departamentu inwestycji Investors TFI. Zwraca jednak uwagę, że inwestycje...",
       "date_published": "2026-01-13T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Morskie-widma-Putina-Setki-nielegalnych-tankowcow-u-bram-Europy-9067556.html",
-      "url": "https://www.bankier.pl/wiadomosc/Morskie-widma-Putina-Setki-nielegalnych-tankowcow-u-bram-Europy-9067556.html",
-      "title": "Morskie widma Putina. Setki nielegalnych tankowców u bram Europy",
-      "content_html": "Co najmniej 466 statków bezpaństwowych, tworzących głównie rosyjską i irańską flotę cieni, zaobserwowano w miniony poniedziałek na całym świecie, w tym 23 na wodach Unii Europejskiej - wynika z danych brytyjskiej gazety „Lloyd's List”...",
-      "date_published": "2026-01-13T13:59:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Falszywe-bandery-na-Kanale-La-Manche-Brytyjscy-komandosi-zapoluja-na-statki-widmo-9067539.html",
@@ -380,20 +422,6 @@
       "title": "Poranna kawa będzie tańsza? Ceny ziarna tanieją na światowych rynkach",
       "content_html": "Kawa na światowych rynkach tanieje, maleją obawy o podaż ziarna - podaje International Coffee Organization, organizacja producentów kawy.",
       "date_published": "2026-01-13T09:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Carrefour-tnie-etaty-i-zamyka-sklepy-Nawet-250-osob-bez-pracy-9067333.html",
-      "url": "https://www.bankier.pl/wiadomosc/Carrefour-tnie-etaty-i-zamyka-sklepy-Nawet-250-osob-bez-pracy-9067333.html",
-      "title": "Carrefour tnie etaty i zamyka sklepy. Nawet 250 osób bez pracy",
-      "content_html": "Zakładowa NSZZ Solidarność w Carrefourze przekazała, że sieć zamierza przeprowadzić zwolnienia grupowe w sklepach w całej Polsce oraz centrali. Pracę ma stracić nawet 250 osób, w tym te z wieloletnim stażem. Związkowcy wzywają firmę do...",
-      "date_published": "2026-01-13T09:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Azja-tez-marznie-Fala-mrozow-wplynie-na-zwiekszenie-zakupu-gazu-9067391.html",
-      "url": "https://www.bankier.pl/wiadomosc/Azja-tez-marznie-Fala-mrozow-wplynie-na-zwiekszenie-zakupu-gazu-9067391.html",
-      "title": "Azja też marznie. Fala mrozów wpłynie na zwiększenie zakupu gazu",
-      "content_html": "Ceny gazu w Europie bardzo mocno rosną - o ponad 7 proc. Prognozy meteo wskazują na możliwą mroźną pogodę w ciągu najbliższych 2 tygodni zarówno w Europie jak i w Azji - informują maklerzy.",
-      "date_published": "2026-01-13T09:33:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wielki-powrot-kapitalu-na-rynki-wschodzace-Prawie-37-mld-dolarow-w-jeden-miesiac-9067371.html",
@@ -674,34 +702,6 @@
       "title": "Umowa z Mercosurem trafi do sądu. Krajewski: Wniosek do TSUE do końca miesiąca",
       "content_html": "Wiosek do Trybunału Sprawiedliwości Unii Europejskiej (TSUE) ws. umowy z krajami Mercosur powinien być gotowy do końca tego miesiąca - poinformował w poniedziałek minister rolnictwa i rozwoju wsi Stefan Krajewski.",
       "date_published": "2026-01-12T20:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-oczekuje-jasnej-deklaracji-Rosji-Zelenski-Jesli-jej-zabraknie-presja-powinna-rosnac-9067227.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-oczekuje-jasnej-deklaracji-Rosji-Zelenski-Jesli-jej-zabraknie-presja-powinna-rosnac-9067227.html",
-      "title": "Ukraina oczekuje jasnej deklaracji Rosji. Zełenski: Jeśli jej zabraknie, presja powinna rosnąć",
-      "content_html": "Rozumiemy, że USA rozmawiają z Rosją o politycznych ramach zakończenia wojny; przedstawiliśmy naszą wizję i oczekujemy jasnej odpowiedzi Moskwy, a jeśli jej zabraknie, presja na agresora powinna rosnąć - oświadczył w poniedziałek prezydent...",
-      "date_published": "2026-01-12T19:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Z-Bialego-Domu-do-Mety-Dina-Powell-McCormick-nowa-prezeska-giganta-9067216.html",
-      "url": "https://www.bankier.pl/wiadomosc/Z-Bialego-Domu-do-Mety-Dina-Powell-McCormick-nowa-prezeska-giganta-9067216.html",
-      "title": "Z Białego Domu do Mety. Dina Powell McCormick nową prezeską giganta",
-      "content_html": "Koncern Meta ogłosił w poniedziałek zatrudnienie byłej doradczyni prezydenta Donalda Trumpa Diny Powell McCormick na stanowisko prezesa spółki. Trump pochwalił wybór Marka Zuckerberga, który pozostanie dyrektorem wykonawczym (CEO) Mety.",
-      "date_published": "2026-01-12T19:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Indie-rynkiem-nadziei-dla-Niemiec-Handelsblatt-Moga-okazac-sie-wymagajacym-partnerem-9067215.html",
-      "url": "https://www.bankier.pl/wiadomosc/Indie-rynkiem-nadziei-dla-Niemiec-Handelsblatt-Moga-okazac-sie-wymagajacym-partnerem-9067215.html",
-      "title": "Indie rynkiem nadziei dla Niemiec? „Handelsblatt”: Mogą okazać się wymagającym partnerem",
-      "content_html": "Pierwsza duża podróż gospodarcza kanclerza RFN Friedricha Merza, prowadząca nie do Chin, lecz do Indii, jest sygnałem geopolitycznej zmiany. Indie są dziś „rynkiem nadziei”, ale mogą okazać się dla Niemiec wymagającym partnerem - ocenił...",
-      "date_published": "2026-01-12T19:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wegierski-wywiad-inwigilowal-UE-KE-Grupa-badajaca-szpiegostwo-podjela-prace-9067214.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wegierski-wywiad-inwigilowal-UE-KE-Grupa-badajaca-szpiegostwo-podjela-prace-9067214.html",
-      "title": "Węgierski wywiad inwigilował UE? KE: Grupa badająca szpiegostwo podjęła pracę",
-      "content_html": "Grupa zadaniowa, która miała zbadać doniesienia w sprawie domniemanej siatki szpiegowskiej, działającej w Brukseli w stałym przedstawicielstwie Węgier przy UE, już została powołana i rozpoczęła prace - poinformował w poniedziałek rzecznik...",
-      "date_published": "2026-01-12T19:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
