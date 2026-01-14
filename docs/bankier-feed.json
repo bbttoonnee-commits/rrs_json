@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Odpowiedz-na-presje-Trumpa-Wojska-Danii-ipanstw-NATO-zwiekszaja-obecnosc-na-Grenlandii-9068341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Odpowiedz-na-presje-Trumpa-Wojska-Danii-ipanstw-NATO-zwiekszaja-obecnosc-na-Grenlandii-9068341.html",
+      "title": "Odpowiedź na presję Trumpa? Wojska Danii i państw NATO zwiększają obecność na Grenlandii",
+      "content_html": "Wojska Danii oraz państw NATO zwiększają obecność na Grenlandii – oświadczyły w środę duńskie ministerstwo obrony, a także grenlandzkie ministerstwo spraw zagranicznych. Według komunikatu realizuje się to „poprzez ćwiczenia w ścisłej...",
+      "date_published": "2026-01-14T20:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-SKOK-Wolomin-Przesluchania-osob-zwiazanych-z-zarzadem-Kasy-Krajowej-9068484.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-SKOK-Wolomin-Przesluchania-osob-zwiazanych-z-zarzadem-Kasy-Krajowej-9068484.html",
+      "title": "Afera SKOK Wołomin. Przesłuchania osób związanych z zarządem Kasy Krajowej",
+      "content_html": "Warszawski sąd, przed którym toczy się proces byłych szefów KNF ws. nadzoru nad SKOK Wołomin, rozpoczął w środę przesłuchania - jako świadków - osób związanych z zarządem Kasy Krajowej w czasach funkcjonowania wołomińskiego SKOK. Przesłuchania...",
+      "date_published": "2026-01-14T19:24:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nawrocki-prezydent-zaprosil-Sikorskiego-na-spotkanie-Znamy-date-9068294.html",
       "url": "https://www.bankier.pl/wiadomosc/Nawrocki-prezydent-zaprosil-Sikorskiego-na-spotkanie-Znamy-date-9068294.html",
       "title": "Nawrocki zaprasza Sikorskiego. Znamy datę kluczowej rozmowy o ambasadorach",
@@ -23,13 +37,6 @@
       "title": "Mem od Białego Domu. Wybór Grenlandii między USA, a Rosją i Chinami",
       "content_html": "Oficjalne konto Białego Domu opublikowało w środę grafikę, na której przedstawia wybór stojący przed Grenlandczykami jako alternatywę między Stanami Zjednoczonymi, a Rosją i Chinami. To kolejny gest administracji Trumpa o dążeniu do przyłączenia...",
       "date_published": "2026-01-14T19:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Odpowiedz-na-presje-Trumpa-Wojska-Danii-ipanstw-NATO-zwiekszaja-obecnosc-na-Grenlandii-9068341.html",
-      "url": "https://www.bankier.pl/wiadomosc/Odpowiedz-na-presje-Trumpa-Wojska-Danii-ipanstw-NATO-zwiekszaja-obecnosc-na-Grenlandii-9068341.html",
-      "title": "Odpowiedź na presję Trumpa? Wojska Danii i państw NATO zwiększają obecność na Grenlandii",
-      "content_html": "Wojska Danii oraz państw NATO zwiększają obecność na Grenlandii – oświadczyły w środę duńskie ministerstwo obrony, a także grenlandzkie ministerstwo spraw zagranicznych. Według komunikatu realizuje się to „poprzez ćwiczenia w ścisłej...",
-      "date_published": "2026-01-14T19:05:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Santander-Bank-Polska-na-poziomie-A-9068475.html",
@@ -695,13 +702,6 @@
       "title": "Fundusze detaliczne pozyskały w grudniu 4,5 mld zł, a w całym roku ponad 48 mld zł",
       "content_html": "W grudniu detaliczne fundusze inwestycyjne pozyskały 4,5 mld zł netto, a roczny bilans sprzedaży przekroczył 48 mld zł, pobijając rekord z 2024 roku - podały w raporcie Analizy.pl.",
       "date_published": "2026-01-14T06:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ONZ-apeluje-o-finansowe-wsparcie-dla-Ukrainy-Za-nami-najtragiczniejszy-rok-dla-cywilow-od-poczatku-inwazji-9067949.html",
-      "url": "https://www.bankier.pl/wiadomosc/ONZ-apeluje-o-finansowe-wsparcie-dla-Ukrainy-Za-nami-najtragiczniejszy-rok-dla-cywilow-od-poczatku-inwazji-9067949.html",
-      "title": "ONZ apeluje o finansowe wsparcie dla Ukrainy. \"Za nami najtragiczniejszy rok dla cywilów od początku inwazji\"",
-      "content_html": "W obliczu nasilających się rosyjskich ataków ONZ ogłosiła we wtorek apel o wsparcie humanitarne dla Ukrainy w wysokości 2,3 mld dolarów na 2026 rok. Fundusze te mają pomóc ponad 4 mln najbardziej potrzebujących osób.",
-      "date_published": "2026-01-14T06:24:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
