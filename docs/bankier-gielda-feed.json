@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-utworzy-odpis-w-kwocie-586-mln-zl-co-obnizy-wyniki-jednostkowe-za-25-9068481.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-utworzy-odpis-w-kwocie-586-mln-zl-co-obnizy-wyniki-jednostkowe-za-25-9068481.html",
+      "title": "Grupa Azoty obniży wyniki 2025 r. odpisem 586 mln zł Grupa Azoty zakwalifikowała pożyczki udzielone Grupie Azoty Polyolefins jako aktywa z utratą wartości i utworzyła odpis aktualizujący w kwocie 586 mln zł - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-14T19:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Santander-Bank-Polska-na-poziomie-A-9068475.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Santander-Bank-Polska-na-poziomie-A-9068475.html",
+      "title": "Fitch potwierdził rating Santander Bank Polska na poziomie \"A-\" Agencja ratingowa Fitch potwierdziła długoterminowy rating IDR Santander Bank Polska na poziomie „A-” oraz usunęła ratingi banku z listy obserwacyjnej ze wskazaniem negatywnym (RWN) - podał Fitch w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-14T19:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/The-Farm-51-z-emisji-akcji-serii-L-planuje-pozyskac-do-10-4-mln-zl-9068450.html",
       "url": "https://www.bankier.pl/wiadomosc/The-Farm-51-z-emisji-akcji-serii-L-planuje-pozyskac-do-10-4-mln-zl-9068450.html",
       "title": "The Farm 51 z emisji akcji serii L planuje pozyskać do 10,4 mln zł NWZ The Farm 51 zdecydowało podwyższeniu kapitału zakładowego w drodze emisji akcji serii L w trybie subskrypcji zamkniętej, z zachowaniem prawa poboru dla dotychczasowych akcjonariuszy. Z emisji akcji spółka planuje pozyskać maksymalnie ok. 10,4 mln zł - poinformowała spółka w komunikacie.",
@@ -137,6 +151,13 @@
       "date_published": "2026-01-14T08:52:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nastroje-nadal-dobre-mimo-wielu-punktow-zapalnych-Dzis-dzien-z-PPI-i-RPP-9067999.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nastroje-nadal-dobre-mimo-wielu-punktow-zapalnych-Dzis-dzien-z-PPI-i-RPP-9067999.html",
+      "title": "Nastroje nadal dobre mimo wielu punktów zapalnych. Dziś dzień z PPI i RPP Mimo licznych punktów zapalnych w geopolityce, a także obaw o wysokie wyceny, gdy indeksy giełdowe od Londynu po Tokio i Frankfurt osiągają rekordowe poziomy, inwestorzy wydają się na razie zadowoleni z dalszych wzrostów rynków – wskazują w komentarzu analitycy Biura Maklerskiego Banku BNP Paribas.",
+      "content_html": "",
+      "date_published": "2026-01-14T08:44:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKO-Faktoring-celuje-w-zwiekszenie-wyniku-na-dzialalnosci-biznesowej-o-66-proc-9068014.html",
       "url": "https://www.bankier.pl/wiadomosc/PKO-Faktoring-celuje-w-zwiekszenie-wyniku-na-dzialalnosci-biznesowej-o-66-proc-9068014.html",
       "title": "PKO Faktoring celuje w zwiększenie wyniku na działalności biznesowej o 66 proc. PKO Faktoring, spółka wchodząca w skład grupy PKO PB, w strategii do 2027 r. planuje rozwijać się dwa razy szybciej niż rynek faktoringu pod względem wartości sfinansowanych faktur oraz zwiększyć wynik na działalności biznesowej o 66 proc. - podała spółka w komunikacie prasowym.",
@@ -147,13 +168,6 @@
       "id": "https://www.bankier.pl/wiadomosc/Podmioty-krajowe-i-zagraniczne-zainteresowane-kupnem-Polska-Press-Balczun-MAP-9068013.html",
       "url": "https://www.bankier.pl/wiadomosc/Podmioty-krajowe-i-zagraniczne-zainteresowane-kupnem-Polska-Press-Balczun-MAP-9068013.html",
       "title": "Polska Press znów na sprzedaż. Balczun: Podmioty krajowe i zagraniczne zainteresowane kupnem Zarówno podmioty krajowe, jak i zagraniczne wyrażają zainteresowanie kupnem należącej do Orlenu spółki Polska Press, ale na razie nie ma decyzji o sprzedaży - poinformował minister aktywów państwowych Wojciech Balczun.",
-      "content_html": "",
-      "date_published": "2026-01-14T08:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nastroje-nadal-dobre-mimo-wielu-punktow-zapalnych-Dzis-dzien-z-PPI-i-RPP-9067999.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nastroje-nadal-dobre-mimo-wielu-punktow-zapalnych-Dzis-dzien-z-PPI-i-RPP-9067999.html",
-      "title": "Nastroje nadal dobre mimo wielu punktów zapalnych. Dziś dzień z PPI i RPP Mimo licznych punktów zapalnych w geopolityce, a także obaw o wysokie wyceny, gdy indeksy giełdowe od Londynu po Tokio i Frankfurt osiągają rekordowe poziomy, inwestorzy wydają się na razie zadowoleni z dalszych wzrostów rynków – wskazują w komentarzu analitycy Biura Maklerskiego Banku BNP Paribas.",
       "content_html": "",
       "date_published": "2026-01-14T08:44:00+01:00"
     },
@@ -422,13 +436,6 @@
       "title": "Ipopema Fund Services kupuje 9,98 proc. udziałów w DM CVI Ipopema Fund Services, podmiot pośrednio zależny od Ipopema Securities, kupiuje 9,98 proc. udziałów w CVI Dom Maklerski - poinformowała Ipopema Securities w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-01-12T22:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Z-Bialego-Domu-do-Mety-Dina-Powell-McCormick-nowa-prezeska-giganta-9067216.html",
-      "url": "https://www.bankier.pl/wiadomosc/Z-Bialego-Domu-do-Mety-Dina-Powell-McCormick-nowa-prezeska-giganta-9067216.html",
-      "title": "Z Białego Domu do Mety. Dina Powell McCormick nową prezeską giganta Koncern Meta ogłosił w poniedziałek zatrudnienie byłej doradczyni prezydenta Donalda Trumpa Diny Powell McCormick na stanowisko prezesa spółki. Trump pochwalił wybór Marka Zuckerberga, który pozostanie dyrektorem wykonawczym (CEO) Mety.",
-      "content_html": "",
-      "date_published": "2026-01-12T19:20:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
