@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-S-P500-spadl-ze-szczytu-hossy-9068536.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-S-P500-spadl-ze-szczytu-hossy-9068536.html",
+      "title": "Spadki na Wall Street. S&P500 spadł ze szczytu hossy",
+      "content_html": "Środa przyniosła przewagę spadków na nowojorskich giełdach. Oberwało się zwłaszcza spółkom technologicznym.",
+      "date_published": "2026-01-14T22:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/TS-nie-rozpozna-sprawy-Manowskiej-bez-zajecia-stanowiska-przez-Barskiego-9068499.html",
       "url": "https://www.bankier.pl/wiadomosc/TS-nie-rozpozna-sprawy-Manowskiej-bez-zajecia-stanowiska-przez-Barskiego-9068499.html",
       "title": "TS nie rozpozna sprawy Manowskiej bez zajęcia stanowiska przez Barskiego",
@@ -275,6 +282,13 @@
       "title": "Rząd ostrzega: jeśli budżet trafi do Trybunału, budżetówka nie dostanie podwyżek",
       "content_html": "W przypadku skierowania przez prezydenta Karola Nawrockiego ustawy budżetowej na 2026 r. do Trybunału Konstytucyjnego, rząd będzie rządził na podstawie projektu budżetu złożonego do Sejmu - poinformował w poniedziałek minister finansów i gospodarki...",
       "date_published": "2026-01-14T13:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Europa-ucieka-Polsce-Srednia-unijna-OZE-to-blisko-50-proc-w-Polsce-30-proc-9068174.html",
+      "url": "https://www.bankier.pl/wiadomosc/Europa-ucieka-Polsce-Srednia-unijna-OZE-to-blisko-50-proc-w-Polsce-30-proc-9068174.html",
+      "title": "Europa ucieka Polsce? Średnia unijna OZE to blisko 50 proc., w Polsce 30 proc.",
+      "content_html": "Udział OZE w całkowitej konsumpcji energii w Polsce w 2024 roku wyniósł 30,37 proc. przy średniej UE 47,5 proc. - podał Eurostat.",
+      "date_published": "2026-01-14T13:40:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/ETF-y-rosna-w-sile-Czas-sprawdzic-kto-i-jak-z-nich-korzysta-9068190.html",
@@ -688,13 +702,6 @@
       "title": "Gra o Grenlandię. Premier: Chcemy NATO, Danię i UE. Trump: To będzie duży problem",
       "content_html": "Prezydent USA Donald Trump z lekceważeniem odniósł się we wtorek do deklaracji premiera Grenlandii, który stwierdził, że jeśli musi wybierać między pozostaniem przy Danii i wchłonięciem przez Amerykę, wybiera Danię. Trump odparł, że „to...",
       "date_published": "2026-01-14T07:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Masowe-protesty-w-Portugalii-Pracownicy-nie-chca-ulatwiac-firmom-zwolnien-9067922.html",
-      "url": "https://www.bankier.pl/wiadomosc/Masowe-protesty-w-Portugalii-Pracownicy-nie-chca-ulatwiac-firmom-zwolnien-9067922.html",
-      "title": "Masowe protesty w Portugalii. Pracownicy nie chcą ułatwiać firmom zwolnień",
-      "content_html": "Kilka tysięcy osób, głównie członków największego portugalskiego związku zawodowego CGTP, wzięło udział we wtorkowej manifestacji w centrum Lizbony przeciwko rządowemu planowi zmiany kodeksu pracy.",
-      "date_published": "2026-01-14T07:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
