@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Fundusze-detaliczne-pozyskaly-w-grudniu-4-5-mld-zl-a-w-calym-roku-ponad-48-mld-zl-9067958.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fundusze-detaliczne-pozyskaly-w-grudniu-4-5-mld-zl-a-w-calym-roku-ponad-48-mld-zl-9067958.html",
+      "title": "ANALIZY.PL Fundusze detaliczne pozyskały w grudniu 4,5 mld zł, a w całym roku ponad 48 mld zł W grudniu detaliczne fundusze inwestycyjne pozyskały 4,5 mld zł netto, a roczny bilans sprzedaży przekroczył 48 mld zł, pobijając rekord z 2024 roku - podały w raporcie Analizy.pl.",
+      "content_html": "",
+      "date_published": "2026-01-14T06:44:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Jest-ryzyko-zalamania-na-Wall-Street-AgioFunds-TFI-o-perspektywach-akcji-i-obligacji-w-2026-roku-9067076.html",
       "url": "https://www.bankier.pl/wiadomosc/Jest-ryzyko-zalamania-na-Wall-Street-AgioFunds-TFI-o-perspektywach-akcji-i-obligacji-w-2026-roku-9067076.html",
       "title": "„Jest ryzyko załamania na Wall Street”. AgioFunds TFI o perspektywach akcji i obligacji w 2026 roku Polska ma szansę pozostać najszybciej rosnącą dużą gospodarką w Europie, a kapitał zagraniczny w końcu traktuje nasz kraj na równi z rynkami zachodni. To zdaniem zarządzających AgioFunds TFI tworzy dobre fundamenty pod dalszą hossę na GPW. Jednak ostrzegają oni przed nadmiernym optymizmem m.in. ze względu na wysokie wyceny za oceanem – scenariusza załamania na Wall Street nie można wykluczyć. Dużo trudniej będzie też w tym roku o zyski z obligacji.",
@@ -13,7 +20,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/OKI-tansze-niz-pierwotna-propozycja-rzadu-Panstwo-straci-tylko-1-mld-zl-zamiast-4-5-mld-9067798.html",
       "url": "https://www.bankier.pl/wiadomosc/OKI-tansze-niz-pierwotna-propozycja-rzadu-Panstwo-straci-tylko-1-mld-zl-zamiast-4-5-mld-9067798.html",
-      "title": "OKI tańsze niż pierwotna propozycja rządu. Państwo straci „tylko” 1 mld zł Wprowadzenie Osobistych Kont Inwestycyjnych (OKI) to kolejna próba zmierzenia się rządu z jedną z flagowych obietnic wyborczych, jaką było zniesienie podatku Belki dla oszczędności i inwestycji do kwoty 100 tys. zł. Okazuje się, że obecnie procedowany pomysł jest o wiele bardziej korzystny dla budżetu niż pierwotna propozycja, o której większość już zapomniała.",
+      "title": "OKI tańsze niż pierwotna propozycja rządu. Państwo straci „tylko” 1 mld zł zamiast 4,3 mld Wprowadzenie Osobistych Kont Inwestycyjnych (OKI) to kolejna próba zmierzenia się rządu z jedną z flagowych obietnic wyborczych, jaką było zniesienie podatku Belki dla oszczędności i inwestycji do kwoty 100 tys. zł. Okazuje się, że obecnie procedowany pomysł jest o wiele bardziej korzystny dla budżetu niż pierwotna propozycja, o której większość już zapomniała.",
       "content_html": "",
       "date_published": "2026-01-14T06:00:00+01:00"
     },
@@ -401,20 +408,6 @@
       "title": "Zakończono fazę uruchamiania platformy satelitarnej satelity PIAST-M Zakończono fazę uruchamiania platformy satelitarnej satelity PIAST-M, jednego z trzech satelitów konstelacji PIAST - poinformował Creotech Instruments w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-12T08:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tak-politycy-ze-zwiazkami-dobili-JSW-9066722.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tak-politycy-ze-zwiazkami-dobili-JSW-9066722.html",
-      "title": "Tak politycy ze związkami dobili JSW Zarząd spółki bez doświadczenia, miliony na doradców od restrukturyzacji i polityczna „kiełbasa” dla pracowników w formie zbyt wysokich płac to - jak informuje poniedziałkowa „Rzeczpospolita” - przyczyny tragicznej sytuacji w Jastrzębskiej Spółki Węglowej (JSW). „Rz” dotarła do pisma, z którego wynika, że organizacje związkowe JSW wydały negatywne stanowisko wobec ostatnich propozycji zarządu.",
-      "content_html": "",
-      "date_published": "2026-01-12T07:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jak-zachowa-sie-RPP-w-nowym-roku-Przed-nami-decyzje-o-stopach-dane-o-inflacji-i-wyniki-z-Wall-Street-9065902.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-zachowa-sie-RPP-w-nowym-roku-Przed-nami-decyzje-o-stopach-dane-o-inflacji-i-wyniki-z-Wall-Street-9065902.html",
-      "title": "TYM BĘDĄ ŻYŁY RYNKI Jak zachowa się RPP w nowym roku? Przed nami decyzje o stopach, dane o inflacji i wyniki z Wall Street W drugim tygodniu stycznia czeka nas pierwsza w tym roku decyzja RPP dotycząca wysokości stóp procentowych. GUS pokaże finalny raport o inflacji w Polsce, jednak rynki obchodzić będzie przede wszystkim odczyt CPI w USA. Największe banki rozpoczną sezon wynikowy na Wall Street.",
-      "content_html": "",
-      "date_published": "2026-01-12T07:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
