@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/MOL-chce-wykupic-wiekszosc-udzialow-w-objetym-amerykanskimi-sankcjami-NIS-szef-MSZ-Wegier-9069237.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-chce-wykupic-wiekszosc-udzialow-w-objetym-amerykanskimi-sankcjami-NIS-szef-MSZ-Wegier-9069237.html",
+      "title": "MOL chce wykupić większość udziałów w objętym amerykańskimi sankcjami NIS - szef MSZ Węgier",
+      "content_html": "Węgierski koncern paliwowy MOL chce pozyskać większościowy pakiet udziałów w Serbskim Przemyśle Naftowym (NIS) – zapowiedział w czwartek w Belgradzie szef węgierskiej dyplomacji Peter Szijjarto. NIS trafił na listę sankcyjną USA, ponieważ...",
+      "date_published": "2026-01-15T20:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Projekt-Selvity-rekomendowany-do-dofinansowania-w-ramach-programu-FENG-9069230.html",
+      "url": "https://www.bankier.pl/wiadomosc/Projekt-Selvity-rekomendowany-do-dofinansowania-w-ramach-programu-FENG-9069230.html",
+      "title": "Projekt Selvity rekomendowany do dofinansowania w ramach programu FENG",
+      "content_html": "Projekt Selvity \"Zaawansowana platforma E3Explorer produkcji białek ligaz E3 wraz z charakteryzacją jako podstawa innowacyjnych terapii celowanych PROTAC\" jest na liście projektów wybranych do dofinansowania w ramach Programu FENG - podała spółka...",
+      "date_published": "2026-01-15T20:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-wstrzymany-Kulisy-nocnych-rozmow-9069169.html",
       "url": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-wstrzymany-Kulisy-nocnych-rozmow-9069169.html",
       "title": "Atak na Iran wstrzymany. Kulisy nocnych rozmów",
@@ -688,20 +702,6 @@
       "title": "Wyludnione centrum Warszawy zamyka przedszkola. Budynki nie będą stać puste",
       "content_html": "Na czwartkowej sesji radni zajmą się projektami uchwał dotyczącymi zamiaru likwidacji czterech śródmiejskich przedszkoli. Przewodnicząca komisji edukacji radna Beata Michalec wyjaśniła, że przyczyną jest niż demograficzny i wyludnienie centrum...",
       "date_published": "2026-01-15T06:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-naklada-25-proc-cla-na-eksport-chipow-Nvidia-i-AMD-zaplaca-za-dostep-do-Chin-9068595.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-naklada-25-proc-cla-na-eksport-chipow-Nvidia-i-AMD-zaplaca-za-dostep-do-Chin-9068595.html",
-      "title": "Trump nakłada 25 proc. cła na eksport chipów. Nvidia i AMD zapłacą za dostęp do Chin",
-      "content_html": "Prezydent USA Donald Trump podpisał w środę rozporządzenie nakładające 25 proc. cła na zaawansowane półprzewodniki sprzedawane poza USA. To część jego zapowiedzi o pobieraniu 25 proc. przychodów ze sprzedaży chipów AMD i Nvidii do Chin...",
-      "date_published": "2026-01-15T06:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zwolnienie-srodkow-spod-zajecia-komorniczego-jakie-sa-obowiazki-banku-9068168.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zwolnienie-srodkow-spod-zajecia-komorniczego-jakie-sa-obowiazki-banku-9068168.html",
-      "title": "ING przekazał środki ze stypendium komornikowi. Klient idzie do prokuratury",
-      "content_html": "Przełom starego i nowego roku okazał się wyjątkowo pechowy dla jednego z klientów ING. Na rachunek objęty zajęciem komorniczym wpływało stypendium socjalne, a mimo to bank przekazał środki zwolnione z egzekucji komornikowi. Klient zgłosił...",
-      "date_published": "2026-01-15T06:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
