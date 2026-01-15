@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-uzyciem-wojska-w-Minnesocie-Powoluje-sie-na-Insurrection-Act-9069073.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-uzyciem-wojska-w-Minnesocie-Powoluje-sie-na-Insurrection-Act-9069073.html",
+      "title": "Trump grozi użyciem wojska w Minnesocie. Powołuje się na Insurrection Act",
+      "content_html": "Prezydent USA Donald Trump zagroził w czwartek użyciem ustawy o powstaniach zbrojnych (Insurrection Act) w Minnesocie, gdzie trwają protesty przeciwko działaniom służb federalnych. Ustawa ta pozwala na wykorzystanie wojska do pacyfikacji zamieszek...",
+      "date_published": "2026-01-15T16:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szefowie-sluzb-w-Palacu-Koniec-impasu-9069069.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szefowie-sluzb-w-Palacu-Koniec-impasu-9069069.html",
+      "title": "Szefowie służb w Pałacu. Koniec impasu?",
+      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz zapowiedział w czwartek po spotkaniu z prezydentem Karolem Nawrockim, że wnioski ws. nominacji oficerskich w służbach ponownie wpłyną do Kancelarii Prezydenta. Możemy optymistyczniej patrzeć na...",
+      "date_published": "2026-01-15T16:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Posiedzenie-aresztowe-Ziobry-Sad-odroczyl-sprawe-do-lutego-9069025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Posiedzenie-aresztowe-Ziobry-Sad-odroczyl-sprawe-do-lutego-9069025.html",
+      "title": "Posiedzenie aresztowe Ziobry. Sąd odroczył sprawę do lutego",
+      "content_html": "Kierujący śledztwem w sprawie Funduszu Sprawiedliwości prokurator Piotr Woźniak ocenił, że obronie Zbigniewa Ziobry nie zależało, aby w czwartek został rozpoznany wniosek prokuratury o zastosowanie tymczasowego aresztu wobec byłego ministra...",
+      "date_published": "2026-01-15T16:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-ma-umowe-z-GDDKiA-na-budowe-obwodnicy-o-wart-174-09-mln-zl-netto-9069061.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-ma-umowe-z-GDDKiA-na-budowe-obwodnicy-o-wart-174-09-mln-zl-netto-9069061.html",
+      "title": "Budimex ma umowę z GDDKiA na budowę obwodnicy o wart. 174,09 mln zł netto",
+      "content_html": "Budimex ma umowę z GDDKiA na budowę obwodnicy Radomska w ciągu drogi krajowej nr DK42 i DK91 wraz z rozbudową DK 91 i budową mostu na rzece Warcie w województwie łódzkim w podziale na 3 odcinki - podał Budimex w komunikacie. Wartość umowy to...",
+      "date_published": "2026-01-15T16:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wycena-spolek-Skarbu-Panstwa-na-gieldzie-wzrosla-o-ponad-65-proc-9069059.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wycena-spolek-Skarbu-Panstwa-na-gieldzie-wzrosla-o-ponad-65-proc-9069059.html",
+      "title": "Wycena Spółek Skarbu Państwa na giełdzie wzrosła o ponad 65 proc.",
+      "content_html": "O ponad 65,5 proc., do 467 mld zł wzrosła wycena spółek z udziałem Skarbu Państwa notowanych na warszawskim parkiecie - poinformowało w czwartek Ministerstwo Aktywów Państwowych. Podało, że to wzrost o ponad 185 mld zł w ciągu roku.",
+      "date_published": "2026-01-15T16:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Alstom-ma-kontrakt-na-500-mln-euro-Dostarczy-26-dodatkowych-pociagow-do-Niemiec-9069046.html",
+      "url": "https://www.bankier.pl/wiadomosc/Alstom-ma-kontrakt-na-500-mln-euro-Dostarczy-26-dodatkowych-pociagow-do-Niemiec-9069046.html",
+      "title": "Alstom ma kontrakt na 500 mln euro. Dostarczy 26 dodatkowych pociągów do Niemiec",
+      "content_html": "Alstom podpisał umowę na dostawę 26 dodatkowych pociągów piętrowych Coradia Max dla Landesanstalt Schienenfahrzeuge Baden-Württemberg - poinformował Alstom w komunikacie prasowym. Wartość kontraktu wynosi blisko 500 mln euro, obejmując serwis...",
+      "date_published": "2026-01-15T15:56:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sikorski-do-Wegrow-wo-azylu-dla-Ziobry-Gest-solidarnosci-ze-skorumpowanymi-nacjonalistami-9068843.html",
       "url": "https://www.bankier.pl/wiadomosc/Sikorski-do-Wegrow-wo-azylu-dla-Ziobry-Gest-solidarnosci-ze-skorumpowanymi-nacjonalistami-9068843.html",
       "title": "Sikorski do Węgrów o azylu dla Ziobry: Gest solidarności ze skorumpowanymi nacjonalistami",
@@ -11,16 +53,23 @@
       "date_published": "2026-01-15T15:49:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Posiedzenie-aresztowe-Ziobry-Sad-odroczyl-sprawe-do-lutego-9069025.html",
-      "url": "https://www.bankier.pl/wiadomosc/Posiedzenie-aresztowe-Ziobry-Sad-odroczyl-sprawe-do-lutego-9069025.html",
-      "title": "Posiedzenie aresztowe Ziobry. Sąd odroczył sprawę do lutego",
-      "content_html": "Warszawski sąd rejonowy odroczył do 5 lutego posiedzenie w sprawie wniosku prokuratury o zastosowanie tymczasowego aresztu wobec byłego szefa MS, obecnie posła PiS Zbigniewa Ziobry - poinformowali jego obrońcy. Przyczyną odroczenia był wniosek...",
-      "date_published": "2026-01-15T15:39:00+01:00"
+      "id": "https://www.bankier.pl/wiadomosc/Europa-ma-dwa-realne-sposoby-obrony-Grenlandii-przed-Trumpem-9069039.html",
+      "url": "https://www.bankier.pl/wiadomosc/Europa-ma-dwa-realne-sposoby-obrony-Grenlandii-przed-Trumpem-9069039.html",
+      "title": "Europa ma dwa realne sposoby obrony Grenlandii przed Trumpem",
+      "content_html": "Prezydent USA Donald Trump głosi, że zamierza przejąć kontrolę nad Grenlandią; Europa ma dwa realne sposoby jej obrony, ale największą szansą Europejczyków jest to, że zajęcie wyspy wymagałoby długotrwałych, skomplikowanych przygotowań...",
+      "date_published": "2026-01-15T15:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-wiceminister-finansow-oskarzony-w-sledztwie-dotyczacym-tzw-luki-vatowskiej-9069029.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-wiceminister-finansow-oskarzony-w-sledztwie-dotyczacym-tzw-luki-vatowskiej-9069029.html",
+      "title": "Były wiceminister finansów oskarżony w śledztwie dotyczącym tzw. luki vatowskiej",
+      "content_html": "Prokuratura Regionalna w Białymstoku skierowała w czwartek do sądu w Warszawie akt oskarżenia dotyczący zarzutu niedopełnienia obowiązków przez b. wiceministra finansów Macieja Hipolita G. Wieloletnie śledztwo dotyczyło przeciwdziałania wyłudzeniom...",
+      "date_published": "2026-01-15T15:42:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zlote-rezerwy-i-decyzja-RPP-w-opinii-prezesa-NBP-Komentarz-prof-Adama-Glapinskiego-9068700.html",
       "url": "https://www.bankier.pl/wiadomosc/Zlote-rezerwy-i-decyzja-RPP-w-opinii-prezesa-NBP-Komentarz-prof-Adama-Glapinskiego-9068700.html",
-      "title": "700 ton złota po raz pierwszy. Prezes NBP widzi stopy na poziomie 3,5 proc.",
+      "title": "Prezes NBP widzi stopy na poziomie 3,5 proc. Chce mieć też 700 ton złota w rezerwach banku centralnego",
       "content_html": "Rada Polityki Pieniężnej na pierwszym posiedzeniu w 2026 r. zgodnie z powszechnymi oczekiwaniami utrzymała stopy procentowe na dotychczasowym poziomie. Ponadto według ostatnich danych NBO zwiększył udział złota w rezerwach walutowych do przeszło...",
       "date_published": "2026-01-15T15:38:00+01:00"
     },
@@ -95,20 +144,6 @@
       "date_published": "2026-01-15T14:23:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/KGS-kupi-Carrefoura-Ministerstwo-Spolka-decyduje-sama-liczy-sie-zysk-9068923.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGS-kupi-Carrefoura-Ministerstwo-Spolka-decyduje-sama-liczy-sie-zysk-9068923.html",
-      "title": "KGS kupi Carrefoura? Ministerstwo: Spółka decyduje sama, liczy się zysk",
-      "content_html": "Decyzję o ewentualnym zakupie sieci handlowej Carrefour może podjąć tylko Krajowa Grupa Spożywcza, kierując się rachunkiem ekonomicznym - poinformowało Ministerstwo Aktywów Państwowych w odpowiedzi na pismo Krajowej Rady Izb Rolniczych w tej...",
-      "date_published": "2026-01-15T14:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bundeswehra-na-Grenlandii-NATO-nie-pozwoli-Rosji-i-Chinom-na-dzialania-wojskowe-w-Arktyce-9068922.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bundeswehra-na-Grenlandii-NATO-nie-pozwoli-Rosji-i-Chinom-na-dzialania-wojskowe-w-Arktyce-9068922.html",
-      "title": "Bundeswehra na Grenlandii. \"NATO nie pozwoli Rosji i Chinom na działania wojskowe w Arktyce\"",
-      "content_html": "NATO nie pozwoli Rosji ani Chinom wykorzystywać regionu Arktyki do celów wojskowych – powiedział w czwartek minister obrony Niemiec Boris Pistorius po wysłaniu na Grenlandię kilkunastu żołnierzy Bundeswehry.",
-      "date_published": "2026-01-15T14:13:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-TSUE-Linie-lotnicze-musza-zwracac-takze-prowizje-posrednikow-9068897.html",
       "url": "https://www.bankier.pl/wiadomosc/Przelomowy-wyrok-TSUE-Linie-lotnicze-musza-zwracac-takze-prowizje-posrednikow-9068897.html",
       "title": "Przełomowy wyrok TSUE. Linie lotnicze muszą zwracać także prowizje pośredników",
@@ -142,6 +177,13 @@
       "title": "Grenlandia lub NATO. Premierka Danii o spotkaniu z USA: Nie odpuściły sobie Grenlandii",
       "content_html": "Amerykańskie ambicje przejęcia Grenlandii są niezmienione – oświadczyła w czwartek premierka Danii Mette Frederiksen, odnosząc się do rozmów duńsko-grenlandzkiej delegacji z władzami USA w Waszyngtonie.",
       "date_published": "2026-01-15T13:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-na-akcje-Goldman-Sachs-w-IV-kw-wyniosl-14-01-USD-9068881.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-na-akcje-Goldman-Sachs-w-IV-kw-wyniosl-14-01-USD-9068881.html",
+      "title": "Zysk na akcję Goldman Sachs w IV kw. wyniósł 14,01 USD",
+      "content_html": "Zysk na akcję Goldman Sachs w IV kw. wyniósł 14,01 USD - podał bank w komunikacie. Rynek oczekiwał 11,62 USD.",
+      "date_published": "2026-01-15T13:30:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Liczba-wakatow-w-Strazy-Granicznej-spadla-do-poziomu-1-5-proc-9068882.html",
@@ -417,6 +459,13 @@
       "date_published": "2026-01-15T08:26:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-dal-sie-przekonac-w-sprawie-Iranu-Doradcy-nie-dali-gwarancji-zwyciestwa-9068608.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-dal-sie-przekonac-w-sprawie-Iranu-Doradcy-nie-dali-gwarancji-zwyciestwa-9068608.html",
+      "title": "Trump dał się przekonać w sprawie Iranu. Reżim przelał już 1,5 mld dolarów do Dubaju",
+      "content_html": "Prezydent USA Donald Trump zasugerował w środę, że może odstąpić od uderzenia na Iran, jeśli władze tego kraju zrezygnują z egzekucji antyrządowych demonstrantów. Wcześniej szef irańskiego sądownictwa Golamhosejn Mohseni Edżei oświadczył...",
+      "date_published": "2026-01-15T08:09:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-czy-Hennig-Kloska-A-moze-jednak-Holownia-Decyzja-w-piatek-9068577.html",
       "url": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-czy-Hennig-Kloska-A-moze-jednak-Holownia-Decyzja-w-piatek-9068577.html",
       "title": "Pełczyńska-Nałęcz czy Hennig-Kloska? A może jednak Hołownia? Decyzja w piątek",
@@ -653,41 +702,6 @@
       "title": "\"Strefa Gazy ma zostać zdemilitaryzowana i odbudowana\". Druga faza rozejmu",
       "content_html": "Przechodzimy do drugiej fazy rozejmu między Izraelem a Hamasem w Strefie Gazy - ogłosił w środę Steve Witkoff, doradca prezydenta USA Donalda Trumpa. W ramach drugiego etapu władzę od Hamasu ma przejąć niezależny palestyński samorząd. Strefa...",
       "date_published": "2026-01-14T18:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/30-milionow-ludzi-bez-panstwa-Kwestia-kurdyjska-wplywa-a-protesty-w-Iranie-9068457.html",
-      "url": "https://www.bankier.pl/wiadomosc/30-milionow-ludzi-bez-panstwa-Kwestia-kurdyjska-wplywa-a-protesty-w-Iranie-9068457.html",
-      "title": "30 milionów ludzi bez państwa. Kwestia kurdyjska wpływa, a protesty w Iranie?",
-      "content_html": "Uzbrojone grupy kurdyjskich separatystów próbowały przedostać się z Iraku do Iranu i starły się z tamtejszą Gwardią Rewolucyjną - poinformowała w środę agencja Reutera. Dodano, że Kurdowie próbują wykorzystać niestabilność w Iranie...",
-      "date_published": "2026-01-14T18:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nieudana-proba-obalenia-rzadu-Mercosur-i-budzet-w-tle-politycznej-burzy-9068454.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nieudana-proba-obalenia-rzadu-Mercosur-i-budzet-w-tle-politycznej-burzy-9068454.html",
-      "title": "Nieudana próba obalenia rządu. Mercosur i budżet w tle politycznej burzy",
-      "content_html": "Zgromadzenie Narodowe, niższa izba parlamentu Francji, odrzuciła w środę dwa wnioski o wotum nieufności wobec rządu premiera Sebastiena Lecornu. Powodem tych kolejnych prób obalenia rządu, wymierzonych głównie przeciw prezydentowi Emmanuelowi...",
-      "date_published": "2026-01-14T18:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/The-Farm-51-z-emisji-akcji-serii-L-planuje-pozyskac-do-10-4-mln-zl-9068450.html",
-      "url": "https://www.bankier.pl/wiadomosc/The-Farm-51-z-emisji-akcji-serii-L-planuje-pozyskac-do-10-4-mln-zl-9068450.html",
-      "title": "The Farm 51 z emisji akcji serii L planuje pozyskać do 10,4 mln zł",
-      "content_html": "NWZ The Farm 51 zdecydowało podwyższeniu kapitału zakładowego w drodze emisji akcji serii L w trybie subskrypcji zamkniętej, z zachowaniem prawa poboru dla dotychczasowych akcjonariuszy. Z emisji akcji spółka planuje pozyskać maksymalnie ok. 10...",
-      "date_published": "2026-01-14T18:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zurek-nie-wyklucza-skargi-do-TSUE-na-Wegry-Chcemy-zobaczyc-dokument-o-azylu-Ziobry-9068368.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zurek-nie-wyklucza-skargi-do-TSUE-na-Wegry-Chcemy-zobaczyc-dokument-o-azylu-Ziobry-9068368.html",
-      "title": "Żurek nie wyklucza skargi do TSUE na Węgry. \"Chcemy zobaczyć dokument o azylu Ziobry\"",
-      "content_html": "Minister sprawiedliwości Waldemar Żurek powiedział w środę, że nie wyklucza skierowania skargi na Węgry do Trybunału Sprawiedliwości UE w związku z udzieleniem azylu Zbigniewowi Ziobrze. Jak jednak zastrzegł, najpierw chce zobaczyć dokument...",
-      "date_published": "2026-01-14T17:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rynek-funduszy-inwestycyjnych-rosnie-do-435-mld-zl-Fundusze-dluzne-na-prowadzeniu-9068431.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rynek-funduszy-inwestycyjnych-rosnie-do-435-mld-zl-Fundusze-dluzne-na-prowadzeniu-9068431.html",
-      "title": "Rynek funduszy inwestycyjnych rośnie do 435 mld zł. Fundusze dłużne na prowadzeniu",
-      "content_html": "W ub.r. aktywa krajowych funduszy inwestycyjnych wzrosły o 55,6 mld zł (14,6 proc.) do 435,1 mld zł - podały w raporcie Analizy.pl oraz Izba Zarządzających Funduszami i Aktywami. W grudniu aktywa funduszy powiększyły się o 10,3 mld zł, czyli...",
-      "date_published": "2026-01-14T17:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
