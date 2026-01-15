@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Przydacz-wieszczy-koniec-misji-Klicha-Tusk-ucina-spekulacje-Palacu-Prezydenckiego-9068796.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przydacz-wieszczy-koniec-misji-Klicha-Tusk-ucina-spekulacje-Palacu-Prezydenckiego-9068796.html",
+      "title": "Przydacz wieszczy koniec misji Klicha. Tusk ucina spekulacje Pałacu Prezydenckiego",
+      "content_html": "Premier Donald Tusk poinformował w czwartek, że nie ma żadnej decyzji zakładającej odwołanie polskiego chargé d’affaires Bogdana Klicha z polskiej ambasady w USA.",
+      "date_published": "2026-01-15T12:07:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niepodpisanie-budzetu-2026-to-zlosliwa-fanaberia-Tuska-nie-interesuje-opinia-Nawrockiego-9068793.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niepodpisanie-budzetu-2026-to-zlosliwa-fanaberia-Tuska-nie-interesuje-opinia-Nawrockiego-9068793.html",
+      "title": "Niepodpisanie budżetu 2026 to \"złośliwa fanaberia\". Tuska nie interesuje opinia Nawrockiego",
+      "content_html": "Ewentualne niepodpisanie tegorocznej ustawy budżetowej przez prezydenta nie będzie miało znaczenia dla funkcjonowania państwa, ponieważ budżet i tak będzie realizowany - powiedział w czwartek premier Donald Tusk.",
+      "date_published": "2026-01-15T12:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-z-rekordowa-nadwyzka-mocy-Wyprodukowano-30-GW-z-wegla-gazu-i-OZE-9068797.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-z-rekordowa-nadwyzka-mocy-Wyprodukowano-30-GW-z-wegla-gazu-i-OZE-9068797.html",
+      "title": "Polska z rekordową nadwyżką mocy. Wyprodukowano 30 GW z węgla, gazu i OZE",
+      "content_html": "W środę polskie elektrownie zapewniły rekordową moc 30 gigawatów energii elektrycznej dostarczanej do sieci - poinformował w czwartek premier Donald Tusk. Dodał, że tego dnia mimo równie rekordowego zapotrzebowania, Polska eksportowała prąd...",
+      "date_published": "2026-01-15T11:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Blackout-w-ogole-nie-wchodzil-w-rachube-Tusk-po-naradzie-ze-sluzbami-w-sprawie-cyberatakow-na-infrastrukture-krytyczna-9068773.html",
       "url": "https://www.bankier.pl/wiadomosc/Blackout-w-ogole-nie-wchodzil-w-rachube-Tusk-po-naradzie-ze-sluzbami-w-sprawie-cyberatakow-na-infrastrukture-krytyczna-9068773.html",
       "title": "\"Blackout dla 500 tys. Polaków\". Tusk po naradzie ze służbami w sprawie cyberataków na infrastrukturę krytyczną",
-      "content_html": "Podczas grudniowych ataków na infrastrukturę energetyczną ani przez chwilę nie była zagrożona infrastruktura krytyczna - przekazał premier Donald Tusk po spotkaniu m.in. ze służbami, ministrami i instytucjami odpowiedzialnymi za bezpieczeństwo...",
-      "date_published": "2026-01-15T11:37:00+01:00"
+      "content_html": "Nawet 500 tys. ludzi byłoby pozbawionych ciepła, gdyby powiódł się atak cybernetyczny na Polskę z końca 2025 r. - poinformował w czwartek premier Donald Tusk. Jak dodał, atak ten mógł zdezorganizować pracę farm wiatrowych i dwóch elektrociepłowni...",
+      "date_published": "2026-01-15T11:43:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inflacja-u-celu-czas-na-RPP-Ekonomista-zapowiada-ciecia-stop-w-tym-roku-9068761.html",
@@ -23,6 +44,13 @@
       "title": "„USA rzuciły granat”. Duńskie media: Katastrofa zażegnana, ale zbroimy Grenlandię",
       "content_html": "Katastrofa na razie nie nastąpiła, USA „rzuciły granat”, ale sojusznicy NATO stanęli po stronie Danii – tak komentują w czwartek duńskie media wynik spotkania w Waszyngtonie duńsko-grenlandzkiej delegacji z władzami Stanów Zjednoczonych...",
       "date_published": "2026-01-15T11:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strach-czy-chciwosc-da-zarobic-Wskazniki-nastrojow-sa-bardzo-pomocne-przy-decyzjach-inwestycyjnych-9068770.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strach-czy-chciwosc-da-zarobic-Wskazniki-nastrojow-sa-bardzo-pomocne-przy-decyzjach-inwestycyjnych-9068770.html",
+      "title": "Strach czy chciwość da zarobić? „Wskaźniki nastrojów są bardzo pomocne przy decyzjach inwestycyjnych”",
+      "content_html": "Początek roku przyniósł wzrost indeksów, ale też wyraźną poprawę nastrojów na rynkach. Obliczany przez nas indeks strachu i chciwości Bankier.pl przeszedł z poziomu neutralnego do strefy chciwości, a inne wskaźniki znalazły się nawet wyżej...",
+      "date_published": "2026-01-15T11:20:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/NWAI-Dom-Maklerski-rozpoczyna-przeglad-opcji-strategicznych-9068762.html",
@@ -247,13 +275,6 @@
       "title": "Ceny miedzi w Londynie w dół. Rosną zapasy metalu na LME",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają w trakcie sesji w czwartek. Zapasy metalu rosną - informują maklerzy.",
       "date_published": "2026-01-15T07:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trudne-czasy-dla-flipperow-i-deweloperow-Rzad-uderza-w-mikrokawalerki-9068569.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trudne-czasy-dla-flipperow-i-deweloperow-Rzad-uderza-w-mikrokawalerki-9068569.html",
-      "title": "Trudne czasy dla flipperów i deweloperów. Rząd uderza w mikrokawalerki",
-      "content_html": "Od decyzji gminy będzie zależało, czy mikrokawalerki i mieszkania inwestycyjne dostaną zaświadczenie o samodzielności lokalu – pisze w czwartek „Dziennik Gazeta Prawna”.",
-      "date_published": "2026-01-15T07:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pepco-Group-mialo-w-I-kw-2025-26-1-443-mln-euro-przychodow-wzrost-o-4-3-proc-rdr-opis-9068621.html",
@@ -674,34 +695,6 @@
       "title": "Krajowa generacja mocy po raz pierwszy przekroczyła 30 GW",
       "content_html": "W środę po raz pierwszy w historii krajowa generacja przekroczyła 30 GW mocy, przy eksporcie blisko 2,5 GW - poinformował na platformie X minister energii Miłosz Motyka.",
       "date_published": "2026-01-14T12:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-PIP-uspokaja-firmy-nie-chcielismy-likwidowac-smieciowek-Bedzie-kompromis-9068138.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-PIP-uspokaja-firmy-nie-chcielismy-likwidowac-smieciowek-Bedzie-kompromis-9068138.html",
-      "title": "Szef PIP uspokaja firmy: nie chcieliśmy likwidować śmieciówek. Będzie kompromis?",
-      "content_html": "Główny inspektor pracy Marcin Stanecki podkreślił w Studiu PAP, że celem planowanej reformy Państwowej Inspekcji Pracy nie była likwidacja śmieciówek ani pogorszenie kondycji firm. Według niego możliwe są pewne zmiany w reformie, które będą...",
-      "date_published": "2026-01-14T12:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-mieszkan-rosnie-ale-oferta-wciaz-puchnie-Bez-obnizek-stop-deweloperzy-beda-zmuszeni-obnizac-ceny-9068140.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-mieszkan-rosnie-ale-oferta-wciaz-puchnie-Bez-obnizek-stop-deweloperzy-beda-zmuszeni-obnizac-ceny-9068140.html",
-      "title": "Sprzedaż mieszkań rośnie, ale oferta wciąż puchnie. „Bez obniżek stóp, deweloperzy będą zmuszeni obniżać ceny”",
-      "content_html": "Rosnący popyt, ale wciąż nienadążający za podażą, przekłada się na wciąż puchnącą ofertę mieszkań w największych polskich miastach. Czy popyt w dalszym ciągu będzie rósł i pozwoli deweloperom walczyć z nadpodażą, będzie zależało...",
-      "date_published": "2026-01-14T12:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ARP-podpisala-trzecia-umowe-pozyczki-z-Mirbudem-w-wys-50-mln-zl-9068143.html",
-      "url": "https://www.bankier.pl/wiadomosc/ARP-podpisala-trzecia-umowe-pozyczki-z-Mirbudem-w-wys-50-mln-zl-9068143.html",
-      "title": "ARP podpisała trzecią umowę pożyczki z Mirbudem w wys. 50 mln zł",
-      "content_html": "Agencja Rozwoju Przemysłu podpisała trzecią umowę pożyczki z Mirbudem, a kwota nowego finansowania wynosi 50 mln zł - podało ARP w komunikacie. Okres spłaty obejmuje 64 miesiące.",
-      "date_published": "2026-01-14T12:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podwyzki-za-Amazon-Prime-w-Polsce-od-stycznia-2026-9067974.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podwyzki-za-Amazon-Prime-w-Polsce-od-stycznia-2026-9067974.html",
-      "title": "Koniec taryfy ulgowej. Gigant streamingu podnosi ceny za subskrypcje",
-      "content_html": "Tego można było się w końcu spodziewać. Po kilku latach obecności w Polsce Amazon po raz pierwszy podnosi ceny za subskrypcję programu Amazon Prime. Skala podwyżek robi wrażenie, ale roczny koszt korzystania z darmowych dostaw i biblioteki wideo...",
-      "date_published": "2026-01-14T12:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
