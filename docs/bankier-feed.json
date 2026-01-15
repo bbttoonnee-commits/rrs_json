@@ -4,11 +4,74 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szturm-na-ZUS-200-tys-osob-chce-doliczyc-B2B-i-zlecenia-do-stazu-pracy-9068592.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szturm-na-ZUS-200-tys-osob-chce-doliczyc-B2B-i-zlecenia-do-stazu-pracy-9068592.html",
+      "title": "Stawka to 26 dni urlopu. 200 tys. osób chce doliczyć B2B i umowy-zlecenia do stażu pracy",
+      "content_html": "Od początku roku okresy prowadzenia jednoosobowej działalności gospodarczej i wykonywania pracy na podstawie umów-zleceń wliczane są do stażu pracy. Zakład Ubezpieczeń Społecznych przekazał PAP, że do ZUS wpłynęło już ponad 196 tys. wniosków...",
+      "date_published": "2026-01-15T08:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-dal-sie-przekonac-w-sprawie-Iranu-Doradcy-nie-dali-gwarancji-zwyciestwa-9068608.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-dal-sie-przekonac-w-sprawie-Iranu-Doradcy-nie-dali-gwarancji-zwyciestwa-9068608.html",
-      "title": "Trump dał się przekonać w sprawie Iranu. Doradcy nie dali gwarancji zwycięstwa?",
+      "title": "Trump dał się przekonać w sprawie Iranu. Reżim przelał już 1,5 mld dolarów do Dubaju",
       "content_html": "Prezydent USA Donald Trump zasugerował w środę, że może odstąpić od uderzenia na Iran, jeśli władze tego kraju zrezygnują z egzekucji antyrządowych demonstrantów. Wcześniej szef irańskiego sądownictwa Golamhosejn Mohseni Edżei oświadczył...",
-      "date_published": "2026-01-15T07:44:00+01:00"
+      "date_published": "2026-01-15T08:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-czy-Hennig-Kloska-A-moze-jednak-Holownia-Decyzja-w-piatek-9068577.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-czy-Hennig-Kloska-A-moze-jednak-Holownia-Decyzja-w-piatek-9068577.html",
+      "title": "Pełczyńska-Nałęcz czy Hennig-Kloska? A może jednak Hołownia? Decyzja w piątek",
+      "content_html": "W piątek Rada Krajowa Polski 2050 zdecyduje, czy powtórzyć II turę unieważnionego głosowania, czy jednak przeprowadzić cały proces wyborczy od nowa. Rozmówcy PAP uważają, że scenariusz z nowymi wyborami jest możliwy, choć mało prawdopodobny...",
+      "date_published": "2026-01-15T08:07:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Estonii-ostrzega-Wyslannik-UE-do-rozmow-z-Rosja-to-niebezpieczny-krok-9068561.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Estonii-ostrzega-Wyslannik-UE-do-rozmow-z-Rosja-to-niebezpieczny-krok-9068561.html",
+      "title": "Szef MSZ Estonii ostrzega: Wysłannik UE do rozmów z Rosją to \"niebezpieczny krok\"",
+      "content_html": "Minister spraw zagranicznych Margus Tsahkna nazwał doniesienia o planowanym powołaniu przez UE wysłannika do rozmów z Rosją na temat wojny w Ukrainie „niebezpiecznym” krokiem. Pomysł, forsowany przez kraje geograficznie bardziej oddalone od...",
+      "date_published": "2026-01-15T08:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-ING-wspiera-przedsiebiorcow-w-integracji-z-KSeF-9068537.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-ING-wspiera-przedsiebiorcow-w-integracji-z-KSeF-9068537.html",
+      "title": "Bank ING wspiera przedsiębiorców w integracji z KSeF",
+      "content_html": "Krajowy System e-Faktur wkrótce stanie się obowiązkowym elementem rozliczeń każdej firmy, niezależnie od jej wielkości. Zmiana obejmuje nie tylko sposób wystawiania faktur, ale również ich odbiór, archiwizację i rozliczanie. W nowym modelu...",
+      "date_published": "2026-01-15T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kierunek-poludnie-Tak-moze-wskazywac-wczorajsza-sesja-9068638.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kierunek-poludnie-Tak-moze-wskazywac-wczorajsza-sesja-9068638.html",
+      "title": "Kierunek południe? Tak może wskazywać wczorajsza sesja",
+      "content_html": "Wczorajszy handel przyniósł jasne wskazanie, w którym kierunku mogą podążać indeksy w najbliższych dniach. Największa realizacja zysków nastąpiła za oceanem, a wpływ na to miały m.in. kolejne polityczne komentarze Donalda Trumpa oraz dane...",
+      "date_published": "2026-01-15T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lotwa-ma-dowody-Tak-Minsk-steruje-nielegalna-migracja-9068557.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lotwa-ma-dowody-Tak-Minsk-steruje-nielegalna-migracja-9068557.html",
+      "title": "Łotwa ma dowody. Tak Mińsk steruje nielegalną migracją",
+      "content_html": "Łotewskie ministerstwo obrony poinformowało, że posiada dowody potwierdzające współpracę władz Białorusi z migrantami przy próbach nielegalnego przedostania się na teren Unii Europejskiej.",
+      "date_published": "2026-01-15T07:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polsce-niebezpiecznie-uzalezniona-od-lekow-z-Azji-Ludzie-beda-umierac-bez-jednego-wystrzalu-9068576.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polsce-niebezpiecznie-uzalezniona-od-lekow-z-Azji-Ludzie-beda-umierac-bez-jednego-wystrzalu-9068576.html",
+      "title": "Polska niebezpiecznie uzależniona od leków z Azji. \"Ludzie będą umierać bez jednego wystrzału\"",
+      "content_html": "Antybiotyki, leki anestezjologiczne, kardiologiczne powinny być produkowane w kraju, bo efekt ich braku odczujemy natychmiast - powiedział PAP prezes Krajowych Producentów Leków Krzysztof Kopeć. Dodał, że obecnie zaledwie 20 proc. pozycji z listy...",
+      "date_published": "2026-01-15T07:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaryjny-lot-powrotny-na-Ziemie-Pierwszy-taki-przypadek-ewakuacji-od-25-lat-9068553.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaryjny-lot-powrotny-na-Ziemie-Pierwszy-taki-przypadek-ewakuacji-od-25-lat-9068553.html",
+      "title": "Awaryjny lot powrotny na Ziemię. Pierwszy taki przypadek ewakuacji od 25 lat",
+      "content_html": "Kapsuła SpaceX odłączyła się w środę od Międzynarodowej Stacji Kosmicznej (ISS), zabierając na pokład czteroosobową załogę w awaryjnym locie powrotnym na Ziemię. Ewakuację została spowodowana chorobą jednego z astronautów.",
+      "date_published": "2026-01-15T07:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-mocne-spadki-cen-9068639.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-mocne-spadki-cen-9068639.html",
+      "title": "Ropa mocno tanieje po słowach Trumpa. Koniec sześciodniowego rajdu",
+      "content_html": "Ropa naftowa mocno tanieje w czasie porannego handlu w czwartek. To pierwszy spadek notowań tego surowca od 6 sesji - informują maklerzy.",
+      "date_published": "2026-01-15T07:51:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Odpowiedz-na-presje-Trumpa-Wojska-Danii-ipanstw-NATO-zwiekszaja-obecnosc-na-Grenlandii-9068341.html",
@@ -16,6 +79,13 @@
       "title": "Trump naciska w sprawie Grenlandii. Sojusznicy z NATO odpowiadają wzmocnieniem obecności",
       "content_html": "Wojska Danii oraz państw NATO zwiększają obecność na Grenlandii – oświadczyły w środę duńskie ministerstwo obrony, a także grenlandzkie ministerstwo spraw zagranicznych. Według komunikatu realizuje się to „poprzez ćwiczenia w ścisłej...",
       "date_published": "2026-01-15T07:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-w-dol-rosna-zapasy-metalu-na-LME-9068634.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-w-dol-rosna-zapasy-metalu-na-LME-9068634.html",
+      "title": "Ceny miedzi w Londynie w dół. Rosną zapasy metalu na LME",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają w trakcie sesji w czwartek. Zapasy metalu rosną - informują maklerzy.",
+      "date_published": "2026-01-15T07:39:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trudne-czasy-dla-flipperow-i-deweloperow-Rzad-uderza-w-mikrokawalerki-9068569.html",
@@ -37,13 +107,6 @@
       "title": "Rynek pracy zamyka się na zetki. AI podnosi im za wysoko poprzeczkę?",
       "content_html": "W ub. r. na portalu Pracuj.pl zamieszczono o jedną trzecią mniej ogłoszeń dla osób rozpoczynających karierę zawodową niż rok wcześniej – podaje w czwartek „Rzeczpospolita”.",
       "date_published": "2026-01-15T07:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polsce-niebezpiecznie-uzalezniona-od-lekow-z-Azji-Ludzie-beda-umierac-bez-jednego-wystrzalu-9068576.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polsce-niebezpiecznie-uzalezniona-od-lekow-z-Azji-Ludzie-beda-umierac-bez-jednego-wystrzalu-9068576.html",
-      "title": "Polsce niebezpiecznie uzależniona od leków z Azji. \"Ludzie będą umierać bez jednego wystrzału\"",
-      "content_html": "Antybiotyki, leki anestezjologiczne, kardiologiczne powinny być produkowane w kraju, bo efekt ich braku odczujemy natychmiast - powiedział PAP prezes Krajowych Producentów Leków Krzysztof Kopeć. Dodał, że obecnie zaledwie 20 proc. pozycji z listy...",
-      "date_published": "2026-01-15T07:04:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyludnione-centrum-Warszawy-zamyka-przedszkola-Budynki-nie-beda-stac-puste-9068588.html",
@@ -354,13 +417,6 @@
       "date_published": "2026-01-14T14:43:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Atal-zaklada-w-26-wydanie-2500-3000-mieszkan-9068236.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Atal-zaklada-w-26-wydanie-2500-3000-mieszkan-9068236.html",
-      "title": "Grupa Atal zakłada w 2026 wydanie 2500-3000 mieszkań",
-      "content_html": "Grupa Atal, która w 2025 roku wydała 2065 mieszkań i lokali usługowych, spodziewa się w 2026 roku dalszej poprawy sytuacji na rynku, liczba przekazań może sięgnąć ok. 3000 lokali - poinformowała spółka w komunikacie.",
-      "date_published": "2026-01-14T14:38:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/RPP-wcisnela-pauze-Stopy-procentowe-w-styczniu-2026-pozostaja-bez-zmian-9068128.html",
       "url": "https://www.bankier.pl/wiadomosc/RPP-wcisnela-pauze-Stopy-procentowe-w-styczniu-2026-pozostaja-bez-zmian-9068128.html",
       "title": "RPP wcisnęła pauzę. Stopy procentowe w styczniu zostają bez zmian",
@@ -557,6 +613,20 @@
       "date_published": "2026-01-14T10:54:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Obronca-Romanowskiego-z-wnioskiem-o-wylaczenie-sedzi-wyznaczonej-do-ponownego-rozpatrzenia-ENA-9067995.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obronca-Romanowskiego-z-wnioskiem-o-wylaczenie-sedzi-wyznaczonej-do-ponownego-rozpatrzenia-ENA-9067995.html",
+      "title": "Obrońca Romanowskiego z wnioskiem o wyłączenie sędzi wyznaczonej do ponownego rozpatrzenia ENA",
+      "content_html": "Obrońca b. wiceszefa MS Marcina Romanowskiego, Bartosz Lewandowski złożył wniosek do SO w Warszawie o wyłączenie sędzi Izabeli Ledzion ze sprawy ponownego rozpatrzenia wniosku o Europejski Nakaz Aresztowania wobec posła PiS. Jak argumentował...",
+      "date_published": "2026-01-14T10:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pierwsza-kobieta-na-czele-Red-Arrows-zespolu-akrobacyjnego-RAF-9068079.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pierwsza-kobieta-na-czele-Red-Arrows-zespolu-akrobacyjnego-RAF-9068079.html",
+      "title": "Pierwsza kobieta na czele Red Arrows - zespołu akrobacyjnego RAF",
+      "content_html": "Pierwszy raz w historii na czele Red Arrows, zespołu akrobacyjnego brytyjskich Królewskich Sił Powietrznych (RAF), stanęła kobieta. Dowodzenie jedną z najbardziej znanych na świecie jednostek akrobacji lotniczych przejęła w poniedziałek doświadczona...",
+      "date_published": "2026-01-14T10:46:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowa-edycja-promocji-stara-stawka-6-50-dla-oszczednosci-w-VeloBanku-9068036.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowa-edycja-promocji-stara-stawka-6-50-dla-oszczednosci-w-VeloBanku-9068036.html",
       "title": "Nowa edycja promocji, stara stawka. 6,50% dla oszczędności w VeloBanku",
@@ -625,76 +695,6 @@
       "title": "Scholz o polityce Niemiec wobec Rosji: Zgodzilibyśmy się na warunki Putina, by uniknąć wojny",
       "content_html": "Dziś jestem głęboko przekonany, że prezydent Rosji Władimir Putin zaplanował pełną inwazję przeciwko Ukrainie dwa lata przed 2022 rokiem i niewiele mogło go odwieść od tego pomysłu - powiedział we wtorek były kanclerz Niemiec Olaf Scholz...",
       "date_published": "2026-01-14T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-w-dol-po-3-dniach-zwyzek-9068030.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-w-dol-po-3-dniach-zwyzek-9068030.html",
-      "title": "Ceny gazu w Europie w dół po 3 dniach zwyżek",
-      "content_html": "Ceny gazu w Europie spadają po 3 dniach zwyżek. Prognozy meteo zmieniły się na razie na łagodniejsze, a dostawy skroplonego gazu ziemnego do Europy rosną - informują maklerzy.",
-      "date_published": "2026-01-14T09:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-pozostaje-przyklejony-do-euro-Dzis-poznamy-decyzje-RPP-9068044.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-pozostaje-przyklejony-do-euro-Dzis-poznamy-decyzje-RPP-9068044.html",
-      "title": "Złoty pozostaje „przyklejony” do euro. Dziś poznamy decyzję RPP",
-      "content_html": "Kurs euro „przykleił” się do poziomu 4,21 zł, a dolar amerykański notowany jest w pobliżu 3,60 zł. W środę po południu powinniśmy otrzymać decyzję i komunikat z Rady Polityki Pieniężnej.",
-      "date_published": "2026-01-14T09:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Nie-otrzymalismy-kopii-aktu-przyznania-Ziobrze-azylu-na-Wegrzech-9068043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Nie-otrzymalismy-kopii-aktu-przyznania-Ziobrze-azylu-na-Wegrzech-9068043.html",
-      "title": "Szef MSZ: Nie otrzymaliśmy kopii aktu przyznania Ziobrze azylu na Węgrzech",
-      "content_html": "Strona polska ma informacje od ambasadora Węgier, że dwoje polskich obywateli dostało azyl, ale nie otrzymaliśmy kopii samego aktu jego przyznania - powiedział w środę wicepremier, szef MSZ Radosław Sikorski pytany o przyznanie azylu b. ministrowi...",
-      "date_published": "2026-01-14T09:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Starlink-oknem-na-swiat-dla-Iranu-Doniesienia-o-darmowym-internecie-mimo-blokady-9068021.html",
-      "url": "https://www.bankier.pl/wiadomosc/Starlink-oknem-na-swiat-dla-Iranu-Doniesienia-o-darmowym-internecie-mimo-blokady-9068021.html",
-      "title": "Starlink oknem na świat dla Iranu? Doniesienia o darmowym internecie mimo blokady",
-      "content_html": "Dostawca internetu satelitarnego Starlink obecnie oferuje bezpłatne usługi w ogarniętym protestami Iranie - przekazała w środę agencja AP za irańskimi aktywistami. Naziemny internet jest w kraju zablokowany siódmy dzień z rzędu - podała ONZ...",
-      "date_published": "2026-01-14T09:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-sciskal-przestepce-Dragona-Sluzba-Ochrony-Panstwa-zabiera-glos-9067941.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-sciskal-przestepce-Dragona-Sluzba-Ochrony-Panstwa-zabiera-glos-9067941.html",
-      "title": "Nawrocki ściskał przestępcę Dragona. SOP: To KPRP zapraszała",
-      "content_html": "Służba Ochrony Państwa odcina się od kontrowersyjnego spotkania prezydenta Karola Nawrockiego z kibicami na Jasnej Górze, podczas którego głowa państwa serdecznie uściskała wielokrotnie karanego przestępcę o pseudonimie \"Dragon\". Jak informuje...",
-      "date_published": "2026-01-14T09:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowa-nadwyzka-Chin-1-2-biliona-dolarow-na-plusie-mimo-wojen-handlowych-9067998.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowa-nadwyzka-Chin-1-2-biliona-dolarow-na-plusie-mimo-wojen-handlowych-9067998.html",
-      "title": "Rekordowa nadwyżka Chin: 1,2 biliona dolarów na plusie mimo wojen handlowych",
-      "content_html": "Chiny odnotowały w 2025 r. rekordową nadwyżkę handlową wynoszącą 1,189 biliona dolarów – poinformowały w środę władze w Pekinie. Druga gospodarka świata zwiększyła eksport, przekierowując towary do Azji i Afryki, co zrównoważyło spadek...",
-      "date_published": "2026-01-14T09:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Urzedy-pracy-bez-pieniedzy-Miliardy-leza-na-koncie-ale-nie-trafia-do-bezrobotnych-9067960.html",
-      "url": "https://www.bankier.pl/wiadomosc/Urzedy-pracy-bez-pieniedzy-Miliardy-leza-na-koncie-ale-nie-trafia-do-bezrobotnych-9067960.html",
-      "title": "Urzędy pracy bez pieniędzy. Miliardy leżą na koncie, ale nie trafią do bezrobotnych",
-      "content_html": "Samorządy otrzymały informację, ile dostaną na aktywizację zawodową bezrobotnych w 2026 r. Potwierdziły się obawy o drastycznych cięciach w finansowaniu pomocy - informuje w środę \"Dziennik Gazeta Prawna\".",
-      "date_published": "2026-01-14T09:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-ma-pewnosci-czy-dojdzie-do-polaczenia-PZU-i-Pekao-w-tej-kadencji-Sejmu-Balczun-9068020.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-ma-pewnosci-czy-dojdzie-do-polaczenia-PZU-i-Pekao-w-tej-kadencji-Sejmu-Balczun-9068020.html",
-      "title": "Fuzja PZU i Pekao pod znakiem zapytania? Balczun: Nie ma pewności co do tej kadencji",
-      "content_html": "Nie ma pewności, czy dojdzie w obecnej kadencji Sejmu do planowanej restrukturyzacji kapitałowej PZU i Banku Pekao - uważa minister aktywów państwowych Wojciech Balczun. Wskazuje, że jest to bardzo złożony proces wymagający m.in. nowelizacji...",
-      "date_published": "2026-01-14T09:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-dla-BBC-Tylko-Trump-moze-powstrzymac-Putina-9067996.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-dla-BBC-Tylko-Trump-moze-powstrzymac-Putina-9067996.html",
-      "title": "Prezydent Nawrocki dla BBC: Tylko Trump może powstrzymać Putina",
-      "content_html": "Prezydent Karol Nawrocki oświadczył w wywiadzie udzielonym brytyjskiemu nadawcy publicznemu BBC, że Donald Trump jest jedynym światowym przywódcą zdolnym powstrzymać przywódcę Rosji Władimira Putina przed zagrażaniem Europie - przekazał w...",
-      "date_published": "2026-01-14T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fundusze-rynku-pienieznego-zamiast-lokat-w-OKI-Nowa-propozycja-IZFiA-9068025.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fundusze-rynku-pienieznego-zamiast-lokat-w-OKI-Nowa-propozycja-IZFiA-9068025.html",
-      "title": "Fundusze rynku pieniężnego zamiast lokat w OKI. Nowa propozycja IZFiA",
-      "content_html": "IZFiA w opinii do projektu ustawy o OKI podała, że liczy na rozważenie możliwości objęcia projektem także certyfikatów inwestycyjnych niepublicznych funduszy inwestycyjnych zamkniętych oraz usług zarządzania portfelem. IZFiA ocenia, że wejście...",
-      "date_published": "2026-01-14T09:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
