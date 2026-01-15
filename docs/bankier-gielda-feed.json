@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-grudniu-2025-roku-potwierdzona-ponizej-celu-NBP-To-dzieki-tanszym-paliwom-9068692.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-grudniu-2025-roku-potwierdzona-ponizej-celu-NBP-To-dzieki-tanszym-paliwom-9068692.html",
+      "title": "Grudniowa inflacja potwierdzona poniżej celu NBP. To dzięki tańszym paliwom Inflacja CPI w grudniu 2025 roku wyniosła 2,4% i w znalazła się tuż poniżej 2,5-procentowego celu Narodowego Banku Polskiego.",
+      "content_html": "",
+      "date_published": "2026-01-15T10:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Radoslaw-Solan-obejmuje-nadzor-nad-ryzykiem-w-Skarbiec-TFI-9068698.html",
       "url": "https://www.bankier.pl/wiadomosc/Radoslaw-Solan-obejmuje-nadzor-nad-ryzykiem-w-Skarbiec-TFI-9068698.html",
       "title": "Radosław Solan obejmuje nadzór nad ryzykiem w Skarbiec TFI Komisja Nadzoru Finansowego wyraziła zgodę na powierzenie Radosławowi Solanowi funkcji członka zarządu Skarbiec TFI nadzorującego system zarządzania ryzykiem w Towarzystwie - poinformował Skarbiec w komunikacie prasowym.",
@@ -429,13 +436,6 @@
       "title": "Koniec snu o elektrykach? LG notuje straty i koryguje kurs w polskim zakładzie LG Energy Solution, koreański producent baterii do samochodów elektrycznych, którego ogromne zakłady działają we Wrocławiu, poinformował o niespodziewanej stracie operacyjnej za czwarty kwartał minionego roku. Wszystko przez przeszacowanie producentów i spadający popyt na samochody elektryczne na kluczowych rynkach.",
       "content_html": "",
       "date_published": "2026-01-13T11:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Scanway-w-I-kw-skupi-sie-na-uruchomieniu-dodatkowych-przestrzeni-produkcyjnych-wywiad-9067434.html",
-      "url": "https://www.bankier.pl/wiadomosc/Scanway-w-I-kw-skupi-sie-na-uruchomieniu-dodatkowych-przestrzeni-produkcyjnych-wywiad-9067434.html",
-      "title": "WYWIAD Scanway w fazie ekspansji. Rekordowy portfel, misje ESA i kurs na główny rynek Scanway w pierwszym kwartale 2026 roku skupi się na uruchomieniu dodatkowych przestrzeni produkcyjnych i integracyjnych do elementów teleskopów wysokorozdzielczych - poinformował PAP Biznes prezes Scanway Jędrzej Kowalewski. Wskazał, że niemal cały obecny backlog spółki, który w połowie listopada wynosił ponad 58 mln zł, przypada na lata 2026 - 2027.",
-      "content_html": "",
-      "date_published": "2026-01-13T10:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
