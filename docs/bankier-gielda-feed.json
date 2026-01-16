@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Miedz-hamuje-Ceny-spadaja-po-silnych-wzrostach-9069370.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miedz-hamuje-Ceny-spadaja-po-silnych-wzrostach-9069370.html",
+      "title": "Miedź hamuje. Ceny spadają po silnych wzrostach Notowania miedzi na giełdzie metali LME w Londynie zniżkują. Nastroje na rynku pogorszyły się po doniesieniach o chińskich restrykcjach dotyczących handlu wysokich częstotliwości, które nastąpiły po sporym wzroście cen metalu w tym tygodniu.",
+      "content_html": "",
+      "date_published": "2026-01-16T09:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Finax-mysli-o-gieldzie-Slowacki-fintech-warty-prawie-100-mln-euro-9069348.html",
+      "url": "https://www.bankier.pl/wiadomosc/Finax-mysli-o-gieldzie-Slowacki-fintech-warty-prawie-100-mln-euro-9069348.html",
+      "title": "Finax myśli o giełdzie. Słowacki fintech warty prawie 100 mln euro Finax pozyskał 8,4 mln euro z pierwszej w swojej historii publicznej oferty akcji. Cena za sztukę wyniosła 108,85 euro, a wycena spółki (post-money) sięgnęła 93,4 mln euro - poinformował fintech specjalizujący się w inwestowaniu pasywnym.",
+      "content_html": "",
+      "date_published": "2026-01-16T08:56:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Deeskalacja-napiec-sprzyja-powrotowi-indeksow-pod-szczyty-I-nie-wiadomo-co-dalej-9069339.html",
       "url": "https://www.bankier.pl/wiadomosc/Deeskalacja-napiec-sprzyja-powrotowi-indeksow-pod-szczyty-I-nie-wiadomo-co-dalej-9069339.html",
       "title": "Deeskalacja napięć sprzyja powrotowi indeksów pod szczyty. I nie wiadomo, co dalej Przy dość pustym kalendarium ekonomicznym, o ile nie pojawią się istotniejsze newsy z zakresu geopolityki, trudno będzie dziś o wyraźniejszy zwrot amerykańskich indeksów, które konsolidują się w pobliżu historycznych maksimów – wskazują w komentarzu eksperci Biura Maklerskiego Banku BNP Paribas.",
@@ -121,13 +135,6 @@
       "title": "Zysk na akcję Goldman Sachs w IV kw. wyniósł 14,01 USD Zysk na akcję Goldman Sachs w IV kw. wyniósł 14,01 USD - podał bank w komunikacie. Rynek oczekiwał 11,62 USD.",
       "content_html": "",
       "date_published": "2026-01-15T13:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-Wittchen-zdecydowalo-ws-buybacku-9068857.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-Wittchen-zdecydowalo-ws-buybacku-9068857.html",
-      "title": "NWZ Wittchen zdecydowało ws. buybacku Akcjonariusze Wittchen zdecydowali o upoważnieniu zarządu do nabycia nie więcej niż 3.687.219 akcji własnych po cenie nie wyższej niż 22 zł za akcję - wynika z uchwał podjętych przez NWZ.",
-      "content_html": "",
-      "date_published": "2026-01-15T13:25:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Best-zainwestowal-w-IV-kwartale-369-6-mln-zl-w-portfele-wierzytelnosci-9068820.html",
@@ -359,34 +366,6 @@
       "title": "Orlen w '25 dostarczył do klientów ponad 245 tys. ton skroplonego gazu ziemnego Orlen w 2025 roku dostarczył do klientów ponad 245 tys. ton skroplonego gazu ziemnego - poinformowała spółka w komunikacie prasowym. LNG pochodzi głównie z terminalu w Świnoujściu, a także stacji przeładunkowej w Kłajpedzie i produkcji własnej.",
       "content_html": "",
       "date_published": "2026-01-14T10:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-w-dol-po-3-dniach-zwyzek-9068030.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-w-dol-po-3-dniach-zwyzek-9068030.html",
-      "title": "Ceny gazu w Europie w dół po 3 dniach zwyżek Ceny gazu w Europie spadają po 3 dniach zwyżek. Prognozy meteo zmieniły się na razie na łagodniejsze, a dostawy skroplonego gazu ziemnego do Europy rosną - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-01-14T09:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-ma-pewnosci-czy-dojdzie-do-polaczenia-PZU-i-Pekao-w-tej-kadencji-Sejmu-Balczun-9068020.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-ma-pewnosci-czy-dojdzie-do-polaczenia-PZU-i-Pekao-w-tej-kadencji-Sejmu-Balczun-9068020.html",
-      "title": "Fuzja PZU i Pekao pod znakiem zapytania? Balczun: Nie ma pewności co do tej kadencji Nie ma pewności, czy dojdzie w obecnej kadencji Sejmu do planowanej restrukturyzacji kapitałowej PZU i Banku Pekao - uważa minister aktywów państwowych Wojciech Balczun. Wskazuje, że jest to bardzo złożony proces wymagający m.in. nowelizacji czterech ustaw.",
-      "content_html": "",
-      "date_published": "2026-01-14T09:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fundusze-rynku-pienieznego-zamiast-lokat-w-OKI-Nowa-propozycja-IZFiA-9068025.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fundusze-rynku-pienieznego-zamiast-lokat-w-OKI-Nowa-propozycja-IZFiA-9068025.html",
-      "title": "Fundusze rynku pieniężnego zamiast lokat w OKI. Nowa propozycja IZFiA IZFiA w opinii do projektu ustawy o OKI podała, że liczy na rozważenie możliwości objęcia projektem także certyfikatów inwestycyjnych niepublicznych funduszy inwestycyjnych zamkniętych oraz usług zarządzania portfelem. IZFiA ocenia, że wejście w życie ustawy powinno być przesunięte na 1 stycznia 2027 r.",
-      "content_html": "",
-      "date_published": "2026-01-14T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/P4-ma-umowe-kredytu-z-Bankiem-Handlowym-na-kwote-450-mln-zl-9068018.html",
-      "url": "https://www.bankier.pl/wiadomosc/P4-ma-umowe-kredytu-z-Bankiem-Handlowym-na-kwote-450-mln-zl-9068018.html",
-      "title": "P4 ma umowę kredytu z Bankiem Handlowym na kwotę 450 mln zł P4, spółka należąca do francuskiej grupy Iliad, zawarła z Bankiem Handlowym w Warszawie nową umowę kredytową na kwotę 450 mln zł - podała spółka w komunikacie. Środki wykorzystane zostaną przez Play na częściowe finansowanie zakupów sprzętu telekomunikacyjnego oraz usług od Ericsson w latach 2025-2027.",
-      "content_html": "",
-      "date_published": "2026-01-14T08:52:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
