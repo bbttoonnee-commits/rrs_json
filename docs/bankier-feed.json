@@ -11,6 +11,13 @@
       "date_published": "2026-01-17T18:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-tylko-z-bronia-od-UE-Spor-wokol-wydatkow-zbrojenia-za-europejskie-pieniadze-9067780.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-tylko-z-bronia-od-UE-Spor-wokol-wydatkow-zbrojenia-za-europejskie-pieniadze-9067780.html",
+      "title": "Ukraina tylko z bronią od UE? Spór wokół wydatków zbrojenia za europejskie pieniądze",
+      "content_html": "Francja chce, by Kijów mógł kupować tylko broń wyprodukowaną w UE – podał serwis Politico. Realizacja takiego pomysłu oznaczałaby komplikacje nie tylko dla Kijowa, ale i na szeroko pojętej arenie międzynarodowej – powiedział PAP Andrzej...",
+      "date_published": "2026-01-17T18:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Majatek-przejal-gangster-rolnik-nie-zyje-Sledczy-zamykaja-sprawe-9069079.html",
       "url": "https://www.bankier.pl/wiadomosc/Majatek-przejal-gangster-rolnik-nie-zyje-Sledczy-zamykaja-sprawe-9069079.html",
       "title": "Majątek przejął gangster, rolnik nie żyje. Śledczy zamykają sprawę",
@@ -695,13 +702,6 @@
       "title": "Przerwy w bankach na weekend. Karta można nie zadziałać",
       "content_html": "Po względnie spokojnym początku roku banki wróciły do konieczności przeprowadzania usprawnień swoich serwisów transakcyjnych. Na liście niedostępnych usług królują przelewy ekspresowe czy przelewy na numer telefonu Blik. Jeden z dużych banków...",
       "date_published": "2026-01-16T14:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zelenski-Porozumienie-w-sprawie-pokoju-moze-byc-podpisane-w-Davos-9069588.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-Porozumienie-w-sprawie-pokoju-moze-byc-podpisane-w-Davos-9069588.html",
-      "title": "Zełenski: Porozumienie w sprawie pokoju może być podpisane w Davos",
-      "content_html": "Dokumenty w sprawie porozumienia pokojowego w wojnie Rosji przeciw Ukrainie są praktycznie gotowe i do ich podpisania może dojść już nawet w przyszłym tygodniu, podczas Światowego Forum Ekonomicznego w Davos – oświadczył w piątek ukraiński...",
-      "date_published": "2026-01-16T14:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
