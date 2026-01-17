@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Creepy-Jar-sprzedal-na-Steamie-ponad-pol-miliona-kopii-gry-StarRupture-9069982.html",
+      "url": "https://www.bankier.pl/wiadomosc/Creepy-Jar-sprzedal-na-Steamie-ponad-pol-miliona-kopii-gry-StarRupture-9069982.html",
+      "title": "Creepy Jar sprzedał na Steamie ponad pół miliona kopii gry StarRupture Creepy Jar w ciągu 11 dni od premiery sprzedał ponad 500 tys. kopii gry StarPupture na platformie Steam - poinformowała notowana na warszawskiej giełdzie spółka. Wartość sprzedaży brutto gry wyniosła ponad 8,7 mln USD.",
+      "content_html": "",
+      "date_published": "2026-01-17T12:46:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Warszawa-Wroclaw-w-1h-40m-Pierwszy-przetarg-na-KDP-i-miliardy-zlotych-na-stole-9068611.html",
       "url": "https://www.bankier.pl/wiadomosc/Warszawa-Wroclaw-w-1h-40m-Pierwszy-przetarg-na-KDP-i-miliardy-zlotych-na-stole-9068611.html",
       "title": "Warszawa-Wrocław w 1h 40m? Pierwszy przetarg na KDP i miliardy złotych na stole Ogłoszenie pierwszego w Polsce przetargu na budowę odcinka kolei dużych prędkości (KDP) oraz zapowiedź postępowań o łącznej wartości kilkudziesięciu miliardów złotych w 2026 roku oznaczają przejście...",
@@ -268,34 +275,6 @@
       "title": "Action przeprowadzi skup do 1 mln akcji własnych Walne zgromadzenie Action upoważniło zarząd spółki do nabywania do 1 mln akcji własnych oraz utworzony został kapitał rezerwowy w celu sfinansowania nabywania akcji. Maksymalna kwota przeznaczona na program nabywania akcji to 35,1 mln zł - podała spółka w komunikacie po walnym.",
       "content_html": "",
       "date_published": "2026-01-15T14:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-szacuje-koszty-ryzyka-prawnego-walutowych-kredytow-hipot-w-IV-kw-na-990-mln-zl-9068903.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-szacuje-koszty-ryzyka-prawnego-walutowych-kredytow-hipot-w-IV-kw-na-990-mln-zl-9068903.html",
-      "title": "PKO BP szacuje koszty ryzyka prawnego walutowych kredytów hipot. w IV kw. na 990 mln zł PKO BP szacuje koszty ryzyka prawnego związanego z kredytami hipotecznymi denominowanymi i indeksowanymi do walut obcych ujęte w ciężar wyników IV kwartału 2025 roku na 990 mln zł - podał bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-15T13:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-na-akcje-Goldman-Sachs-w-IV-kw-wyniosl-14-01-USD-9068881.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-na-akcje-Goldman-Sachs-w-IV-kw-wyniosl-14-01-USD-9068881.html",
-      "title": "Zysk na akcję Goldman Sachs w IV kw. wyniósł 14,01 USD Zysk na akcję Goldman Sachs w IV kw. wyniósł 14,01 USD - podał bank w komunikacie. Rynek oczekiwał 11,62 USD.",
-      "content_html": "",
-      "date_published": "2026-01-15T13:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-Wittchen-zdecydowalo-ws-buybacku-9068857.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-Wittchen-zdecydowalo-ws-buybacku-9068857.html",
-      "title": "NWZ Wittchen zdecydowało ws. buybacku Akcjonariusze Wittchen zdecydowali o upoważnieniu zarządu do nabycia nie więcej niż 3.687.219 akcji własnych po cenie nie wyższej niż 22 zł za akcję - wynika z uchwał podjętych przez NWZ.",
-      "content_html": "",
-      "date_published": "2026-01-15T13:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Best-zainwestowal-w-IV-kwartale-369-6-mln-zl-w-portfele-wierzytelnosci-9068820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Best-zainwestowal-w-IV-kwartale-369-6-mln-zl-w-portfele-wierzytelnosci-9068820.html",
-      "title": "Best zainwestował w IV kwartale 369,6 mln zł w portfele wierzytelności Best zainwestował w czwartym kwartale 2025 roku 369,6 mln zł w portfele wierzytelności, co oznacza wzrost o 298 proc. rdr - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-15T12:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
