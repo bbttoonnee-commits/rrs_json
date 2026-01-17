@@ -4,10 +4,45 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bruksela-bierze-sie-za-WhatsAppa-Komunikator-moze-trafic-na-liste-gigantow-DSA-9066189.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bruksela-bierze-sie-za-WhatsAppa-Komunikator-moze-trafic-na-liste-gigantow-DSA-9066189.html",
+      "title": "Bruksela bierze się za WhatsAppa. Komunikator może trafić na listę gigantów DSA",
+      "content_html": "Rzecznik Komisji Europejskiej ds. cyfryzacji Thomas Regnier potwierdził w Brukseli doniesienia o tym, że KE rozważa uznanie, należącego do koncernu Meta, komunikatora WhatsApp za bardzo dużą platformę w ramach aktu o usługach cyfrowych (DSA)...",
+      "date_published": "2026-01-17T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Majatek-przejal-gangster-rolnik-nie-zyje-Sledczy-zamykaja-sprawe-9069079.html",
+      "url": "https://www.bankier.pl/wiadomosc/Majatek-przejal-gangster-rolnik-nie-zyje-Sledczy-zamykaja-sprawe-9069079.html",
+      "title": "Majątek przejął gangster, rolnik nie żyje. Śledczy zamykają sprawę",
+      "content_html": "Prokuratura Rejonowa w Pucku umorzyła śledztwo po śmierci rolnika spod Gdyni – 77-letniego Stanisława W., którego wart 8 mln zł majątek przejął były gangster. Postanowienie nie jest prawomocne.",
+      "date_published": "2026-01-17T16:33:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chamenei-uderza-w-Trumpa-To-przestepca-Oskarzenia-z-Teheranu-o-amerykanski-spisek-9069990.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chamenei-uderza-w-Trumpa-To-przestepca-Oskarzenia-z-Teheranu-o-amerykanski-spisek-9069990.html",
+      "title": "Chamenei uderza w Trumpa: „To przestępca”. Oskarżenia z Teheranu o amerykański spisek",
+      "content_html": "Najwyższy przywódca duchowy i polityczny Iranu, ajatollah Ali Chamenei, nazwał prezydenta USA Donalda Trumpa „przestępcą”, oskarżając go o spowodowanie ofiar, szkód i wypowiadanie oszczerstw wobec Irańczyków - przekazała w sobotę agencja...",
+      "date_published": "2026-01-17T16:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iranczycy-po-raz-pierwszy-od-wprowadzenia-blokady-moga-wysylac-SMS-y-9069972.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iranczycy-po-raz-pierwszy-od-wprowadzenia-blokady-moga-wysylac-SMS-y-9069972.html",
+      "title": "Irańczycy po raz pierwszy od wprowadzenia blokady mogą wysyłać SMS-y",
+      "content_html": "W Iranie dostęp do globalnego internetu pozostaje zablokowany dziesiąty dzień z rzędu, jednak od soboty Irańczycy po raz pierwszy od wprowadzenia blokady mogą wysyłać SMS-y - informują mieszkańcy Teheranu, cytowani przez agencję dpa. Wiadomości...",
+      "date_published": "2026-01-17T16:03:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Farmy-trolli-to-przeszlosc-Teraz-groza-nam-farmy-tresci-AI-Eksperci-alarmuja-9066409.html",
       "url": "https://www.bankier.pl/wiadomosc/Farmy-trolli-to-przeszlosc-Teraz-groza-nam-farmy-tresci-AI-Eksperci-alarmuja-9066409.html",
       "title": "Farmy trolli to przeszłość. Teraz grożą nam farmy treści AI. Eksperci alarmują",
       "content_html": "Strony z fałszywymi treściami generowanymi przez AI mogą być destrukcyjne dla społeczeństwa, negatywnie wpływać na zaufanie do mediów oraz rozpoznawanie dezinformacji - wskazali PAP prof. Aleksandra Przegalińska oraz prezes ZPWC Maciej Kossowski...",
+      "date_published": "2026-01-17T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kreml-rekrutuje-sabotazystow-a-ekstremisci-werbuja-12-latkow-9068794.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kreml-rekrutuje-sabotazystow-a-ekstremisci-werbuja-12-latkow-9068794.html",
+      "title": "Kreml rekrutuje sabotażystów, a ekstremiści werbują 12-latków",
+      "content_html": "Belgia mierzy się z rosnącą liczbą zagrożeń dla swego bezpieczeństwa, od rosyjskich działań wywiadowczych po przestępczość narkotykową; Rosja jest też największym zewnętrznym zagrożeniem – wynika z raportu belgijskiej Służby Bezpieczeństwa...",
       "date_published": "2026-01-17T16:00:00+01:00"
     },
     {
@@ -667,13 +702,6 @@
       "title": "Zełenski: Porozumienie w sprawie pokoju może być podpisane w Davos",
       "content_html": "Dokumenty w sprawie porozumienia pokojowego w wojnie Rosji przeciw Ukrainie są praktycznie gotowe i do ich podpisania może dojść już nawet w przyszłym tygodniu, podczas Światowego Forum Ekonomicznego w Davos – oświadczył w piątek ukraiński...",
       "date_published": "2026-01-16T14:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stellantis-zwalnia-Tychy-oferuja-pomoc-Wiemy-kto-moze-przejac-ludzi-9069583.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stellantis-zwalnia-Tychy-oferuja-pomoc-Wiemy-kto-moze-przejac-ludzi-9069583.html",
-      "title": "Stellantis zwalnia, Tychy oferują pomoc. Wiemy, kto może przejąć ludzi",
-      "content_html": "Samorząd Tychów szuka możliwości nowego zatrudnienia lub np. szkoleń dla pracowników, którzy stracą w tamtejszej fabryce samochodów Stellantis, wobec jej przygotowywanego przejścia z trybu trzyzmianowego na dwuzmianowy. Według związków może...",
-      "date_published": "2026-01-16T14:26:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
