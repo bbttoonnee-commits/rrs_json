@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Luwr-wprowadzil-podwyzszone-ceny-biletow-dla-turystow-spoza-Europy-9068513.html",
+      "url": "https://www.bankier.pl/wiadomosc/Luwr-wprowadzil-podwyzszone-ceny-biletow-dla-turystow-spoza-Europy-9068513.html",
+      "title": "Luwr wprowadził podwyższone ceny biletów dla turystów spoza Europy",
+      "content_html": "W paryskim Luwrze obowiązują wyższe ceny biletów dla turystów spoza Europy. Goście z Azji, Ameryki Południowej czy USA muszą teraz płacić za bilet 32 euro, w miejsce 22 euro. Niektórzy turyści przyjęli nową cenę ze zrozumieniem, inni uważają...",
+      "date_published": "2026-01-18T10:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szaflary-odkryly-energetyczne-zloto-To-bedzie-pierwsza-taka-elektrownia-w-Polsce-9070127.html",
       "url": "https://www.bankier.pl/wiadomosc/Szaflary-odkryly-energetyczne-zloto-To-bedzie-pierwsza-taka-elektrownia-w-Polsce-9070127.html",
       "title": "Szaflary odkryły „energetyczne złoto”. To będzie pierwsza taka elektrownia w Polsce",
@@ -695,13 +702,6 @@
       "title": "Wall Street mówi „dość”. Złoto już jest za drogie, a kapitał lepiej lokować poza USA",
       "content_html": "Złoto bije kolejne rekordy, forsując barierę 4600 USD, jednak na Wall Street narasta sceptycyzm. Legendarny inwestor Mark Mobius ostrzega, że kruszec stał się zbyt kosztowny, a nieprzewidywalność polityki Waszyngtonu oraz presja na Fed skłaniają...",
       "date_published": "2026-01-17T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyzwania-nadchodzacej-dekady-tematami-Leaders-Forum-powered-by-Poland-9069910.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyzwania-nadchodzacej-dekady-tematami-Leaders-Forum-powered-by-Poland-9069910.html",
-      "title": "Wyzwania nadchodzącej dekady tematami „Leaders Forum powered by Poland”",
-      "content_html": "Kluczowe wyzwania nadchodzącej dekady, w tym bezpieczeństwo energetyczne, globalizacja i nowe technologie będą tematami rozmów zagranicznych i krajowych ekspertów podczas „Leaders Forum powered by Poland” organizowanym w trakcie Światowego...",
-      "date_published": "2026-01-17T05:31:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
