@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zwiazki-zawodowe-beda-kontynuowaly-rozmowy-z-zarzadem-JSW-9070744.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwiazki-zawodowe-beda-kontynuowaly-rozmowy-z-zarzadem-JSW-9070744.html",
+      "title": "Związki zawodowe będą kontynuowały rozmowy z zarządem JSW",
+      "content_html": "Po poniedziałkowym spotkaniu zarządu Jastrzębskiej Spółki Węglowej z reprezentatywnymi związkami zawodowymi ws. porozumienia, które ma dostosować koszty wynagrodzeń do możliwości finansowych spółki rozmowy będą kontynuowane - podała w...",
+      "date_published": "2026-01-19T19:33:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Napiecie-na-linii-z-Waszyngtonem-Jesli-nie-zareagujemy-stanowczo-damy-sygnal-slabosci-9070742.html",
+      "url": "https://www.bankier.pl/wiadomosc/Napiecie-na-linii-z-Waszyngtonem-Jesli-nie-zareagujemy-stanowczo-damy-sygnal-slabosci-9070742.html",
+      "title": "Napięcie na linii z Waszyngtonem. \"Jeśli nie zareagujemy stanowczo, damy sygnał słabości\"",
+      "content_html": "Szefowa unijnej dyplomacji Kaja Kallas oświadczyła w poniedziałek po spotkaniu z ministrami z Danii i Grenlandii, że UE nie ma interesu we wszczynaniu sporów, ale będzie bronić swojego stanowiska. Jak dodała, groźby celne prezydenta USA Donalda...",
+      "date_published": "2026-01-19T19:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budzet-2026-Prezydent-zdecydowal-o-skierowaniu-go-do-Trybunalu-Konstytucyjnego-9070752.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budzet-2026-Prezydent-zdecydowal-o-skierowaniu-go-do-Trybunalu-Konstytucyjnego-9070752.html",
+      "title": "Budżet 2026. Prezydent zdecydował o skierowaniu go do Trybunału Konstytucyjnego",
+      "content_html": "Prezydent Karol Nawrocki podpisał ustawę budżetową na 2026 r. – poinformowała w poniedziałek na X kancelaria prezydenta. Jednocześnie prezydent zdecydował o skierowaniu ustawy do Trybunału Konstytucyjnego.",
+      "date_published": "2026-01-19T18:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sejm-dla-prawicy-PiS-z-Konfederacja-i-Braunem-zgarniaja-ponad-47-procent-9070743.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sejm-dla-prawicy-PiS-z-Konfederacja-i-Braunem-zgarniaja-ponad-47-procent-9070743.html",
+      "title": "Sejm dla prawicy. PiS z Konfederacją i Braunem zgarniają ponad 47 procent",
+      "content_html": "Gdyby wybory odbyły się w najbliższą niedzielę, Koalicja Obywatelska mogłaby liczyć na 31,8 proc. poparcia, PiS na 26,2 proc., a Konfederacja na 14 proc. - wynika z sondażu United Surveys dla wp.pl. Do Sejmu weszłyby jeszcze Konfederacja Korony...",
+      "date_published": "2026-01-19T18:43:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-Boryszewa-ze-zgoda-na-budowe-instalacji-termicznego-przeksztalcania-odpadow-niebezpiecznych-9070732.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-Boryszewa-ze-zgoda-na-budowe-instalacji-termicznego-przeksztalcania-odpadow-niebezpiecznych-9070732.html",
       "title": "Spółka Boryszewa ze zgodą na budowę instalacji termicznego przekształcania odpadów niebezpiecznych",
@@ -90,7 +118,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Awaria-Blika-w-mBanku-Klienci-maja-trudnosci-z-platnosciami-9070599.html",
       "url": "https://www.bankier.pl/wiadomosc/Awaria-Blika-w-mBanku-Klienci-maja-trudnosci-z-platnosciami-9070599.html",
-      "title": "Awaria Blika w mBanku. Klienci mają trudności z płatnościami",
+      "title": "Awaria Blika w mBanku. Klienci mieli trudności z płatnościami",
       "content_html": "Część użytkowników BLIKA może mieć trudności w korzystaniu z wybranych usług; jest to związane z zakłóceniami technicznymi po stronie jednego z wydawców i nie dotyczy całego systemu - poinformowało PAP w poniedziałek biuro prasowe BLIK...",
       "date_published": "2026-01-19T16:03:00+01:00"
     },
@@ -529,13 +557,6 @@
       "date_published": "2026-01-19T09:57:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
-      "title": "Chiny reagują na polską blokadę ich elektryków. \"To nadużycie\"",
-      "content_html": "Należy położyć kres nadużywaniu pojęcia bezpieczeństwa narodowego – oświadczył w poniedziałek rzecznik chińskiego MSZ, odpowiadając na pytanie PAP. To reakcja Pekinu na doniesienia o planowanym przez polską armię zakazie wjazdu na tereny...",
-      "date_published": "2026-01-19T09:48:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
       "url": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
       "title": "Państwowy bank traci cierpliwość do Grupy Azoty. Żąda prawie 4 mld zł",
@@ -674,34 +695,6 @@
       "title": "Kuba szykuje się do wojny. Władze zatwierdziły plan działań w sytuacji konfliktu zbrojnego",
       "content_html": "Kubańskie władze zatwierdziły plan działań w razie ogłoszenia stanu wojny - poinformowały prorządowe media, podkreślając, że decyzja ta zbiegła się w czasie ze wzrostem napięcia w regionie po amerykańskich atakach na Wenezuelę i pojmaniu...",
       "date_published": "2026-01-19T07:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Komitet-Staly-RM-uchyli-uchwale-rzadu-w-sprawie-wydzielenia-aktywow-weglowych-9070294.html",
-      "url": "https://www.bankier.pl/wiadomosc/Komitet-Staly-RM-uchyli-uchwale-rzadu-w-sprawie-wydzielenia-aktywow-weglowych-9070294.html",
-      "title": "Komitet Stały RM cofnie uchwałę o wydzieleniu aktywów węglowych",
-      "content_html": "Komitet Stały Rady Ministrów na posiedzeniu w czwartek uchyli uchwałę rządu z marca 2022 roku w sprawie wydzielenia aktywów węglowych ze spółek Skarbu Państwa - podano na stronie KPRM.",
-      "date_published": "2026-01-19T07:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wenezuela-otwiera-swoje-wiezienia-Wsrod-uwolnionych-jest-Polak-9070246.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wenezuela-otwiera-swoje-wiezienia-Wsrod-uwolnionych-jest-Polak-9070246.html",
-      "title": "Wenezuela otwiera swoje więzienia. Wśród uwolnionych jest Polak",
-      "content_html": "Do niedzielnego wieczora reżim wenezuelski uwolnił 143 więźniów politycznych, przekazała pozarządowa organizacja Foro Penal.",
-      "date_published": "2026-01-19T07:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-euro-na-zbrojenia-Polska-bierze-najwiecej-z-calej-UE-9070278.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-euro-na-zbrojenia-Polska-bierze-najwiecej-z-calej-UE-9070278.html",
-      "title": "Miliardy euro na zbrojenia. Polska bierze najwięcej z całej UE",
-      "content_html": "15 stycznia 2026 roku Komisja Europejska zatwierdziła krajowe plany obronne ośmiu państw członkowskich w ramach procedury SAFE, czyli unijnego programu pożyczek na inwestycje w obronność. Wśród nich znalazło się osiem państw członkowskich...",
-      "date_published": "2026-01-19T07:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-sie-kurcza-Czwarty-rok-spadku-populacji-i-rekordowo-malo-urodzen-9070292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-sie-kurcza-Czwarty-rok-spadku-populacji-i-rekordowo-malo-urodzen-9070292.html",
-      "title": "Chiny się kurczą. Czwarty rok spadku populacji i rekordowo mało urodzeń",
-      "content_html": "Populacja Chin zmniejszyła się w 2025 roku o 3,39 mln osób i spadła do poziomu 1,405 mld — podało w poniedziałek Narodowe Biuro Statystyczne. To czwarty z rzędu rok spadków, spowodowany rekordowo niską liczbą urodzeń oraz rosnącą liczbą...",
-      "date_published": "2026-01-19T07:21:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
