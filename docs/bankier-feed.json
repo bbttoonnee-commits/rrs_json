@@ -4,11 +4,95 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
+      "title": "Chiny reagują na polską blokadę ich elektryków. \"To nadużycie\"",
+      "content_html": "Należy położyć kres nadużywaniu pojęcia bezpieczeństwa narodowego – oświadczył w poniedziałek rzecznik chińskiego MSZ, odpowiadając na pytanie PAP. To reakcja Pekinu na doniesienia o planowanym przez polską armię zakazie wjazdu na tereny...",
+      "date_published": "2026-01-19T09:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
+      "title": "Państwowy bank traci cierpliwość do Grupy Azoty. Żąda prawie 4 mld zł",
+      "content_html": "Bank Pekao, działający jako agent kredytu, zawiadomił o postawieniu w stan wymagalności zobowiązań Grupy Azoty Polyolefins wynikających z umowy kredytów uprzywilejowanych - terminowego, obrotowego i VAT z dnia 31 maja 2020 roku o szacunkowej wartości...",
+      "date_published": "2026-01-19T09:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bolt-Tchibo-i-Zara-z-zarzutami-UOKiK-Greenwashing-ma-sie-dobrze-9070310.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bolt-Tchibo-i-Zara-z-zarzutami-UOKiK-Greenwashing-ma-sie-dobrze-9070310.html",
+      "title": "Greenwashing ma się dobrze? Bolt, Tchibo i Zara z zarzutami UOKiK",
+      "content_html": "Prezes UOKiK postawił spółkom Bolt, Tchibo i Zara zarzuty dotyczące tzw. greenwashingu, a kary mogą wynieść do 10 proc. obrotu za każdą zakwestionowaną praktykę - poinformował UOKiK w komunikacie.",
+      "date_published": "2026-01-19T09:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-energii-dla-gospodarstw-domowych-w-tym-roku-wzrosna-o-ok-4-proc-E-ON-Polska-9070348.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-energii-dla-gospodarstw-domowych-w-tym-roku-wzrosna-o-ok-4-proc-E-ON-Polska-9070348.html",
+      "title": "Rachunki za prąd w górę. E.ON szacuje wzrost kosztów w 2026 roku",
+      "content_html": "Ceny energii dla gospodarstw domowych w tym roku wzrosną o ok. 4 proc. - ocenia w comiesięcznym biuletynie E.ON Polska.",
+      "date_published": "2026-01-19T09:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-hakerski-w-Iranie-Syn-obalonego-szacha-ma-specjalna-wiadomosc-dla-wojska-9070334.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-hakerski-w-Iranie-Syn-obalonego-szacha-ma-specjalna-wiadomosc-dla-wojska-9070334.html",
+      "title": "Atak hakerski w Iranie. Syn obalonego szacha ma wiadomość dla wojska",
+      "content_html": "Hakerom udało się przejąć na krótko kontrolę nad kilkoma kanałami irańskiej telewizji państwowej - podała w poniedziałek AP. Przejęte kanały wyemitowały nagrania protestów oraz apel syna obalonego w 1979 r. szacha, by żołnierze przyłączyli...",
+      "date_published": "2026-01-19T09:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-zuzyla-caly-kilkumiliardowy-fundusz-stabilizacyjny-Zadluza-sie-na-miliony-zl-co-miesiac-9070291.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-zuzyla-caly-kilkumiliardowy-fundusz-stabilizacyjny-Zadluza-sie-na-miliony-zl-co-miesiac-9070291.html",
+      "title": "MAP stawia ultimatum górnikom? \"JSW musi dostosować koszty pracy do rynku\"",
+      "content_html": "Poniedziałkowe rozmowy zarządu Jastrzębskiej Spółki Węglowej ze związkami zawodowymi, dotyczące obniżenia kosztów płacowych zdecydują o tym, czy spółka będzie mogła uniknąć bankructwa - ocenił w poniedziałek wiceminister aktywów państwowych...",
+      "date_published": "2026-01-19T09:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Biura-w-Warszawie-maja-wziecie-Rekordowy-popyt-przy-zerowej-nowej-podazy-9070343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Biura-w-Warszawie-maja-wziecie-Rekordowy-popyt-przy-zerowej-nowej-podazy-9070343.html",
+      "title": "Biura w Warszawie mają wzięcie. Rekordowy popyt przy zerowej nowej podaży",
+      "content_html": "Na koniec grudnia 2025 roku zasoby nowoczesnej powierzchni biurowej w Warszawie wyniosły niemal 6 232 400 mkw. - poinformowała w komunikacie Polska Izba Nieruchomości Komercyjnych (PINK). W IV kwartale na warszawskim rynku nie oddano do użytku żadnej...",
+      "date_published": "2026-01-19T09:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-tydzien-nowe-rekordy-zlota-i-srebra-Pretekst-Grenlandia-9070337.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-tydzien-nowe-rekordy-zlota-i-srebra-Pretekst-Grenlandia-9070337.html",
+      "title": "Nowy tydzień, nowe rekordy złota i srebra. Pretekst: Grenlandia",
+      "content_html": "Złoto i srebro są nominalnie najdroższe w historii, a notowania tego drugiego usiłują zbliżyć się do poziomu stu dolarów za uncję trojańską. Pretekstem tych zwyżek jest polityczno-medialna burza wokół Grenlandii.",
+      "date_published": "2026-01-19T09:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Udzial-przewozow-kolejowych-w-masie-towarow-do-2030-roku-utrzyma-obecny-poziom-UTK-9070330.html",
+      "url": "https://www.bankier.pl/wiadomosc/Udzial-przewozow-kolejowych-w-masie-towarow-do-2030-roku-utrzyma-obecny-poziom-UTK-9070330.html",
+      "title": "Kolej w transporcie towarowym stabilna, intermodal w górę do 2030 roku",
+      "content_html": "Udział przewozów kolejowych w masie towarów w perspektywie 2030 roku utrzyma obecny poziom, perspektywy transportu intermodalnego są bardziej optymistyczne niż w przypadku klasycznych gałęzi transportu kolejowego - wynika z ankiety przeprowadzonej...",
+      "date_published": "2026-01-19T09:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Powerdot-wybuduje-250-punktow-ladowania-przy-sklepach-Decathlon-9070327.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powerdot-wybuduje-250-punktow-ladowania-przy-sklepach-Decathlon-9070327.html",
+      "title": "Powerdot wybuduje 250 punktów ładowania przy sklepach Decathlon",
+      "content_html": "Powerdot w ramach zawartego partnerstwa z Decathlon uruchomi przy tych sklepach huby ładowania aut elektrycznych w 28 lokalizacjach. Udostępnionych zostanie 250 punktów, o łącznej mocy przekraczającej 10 MW - poinformowano w komunikacie prasowym...",
+      "date_published": "2026-01-19T08:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sojusz-jest-skonczony-Berlin-ostrzega-przed-maczuga-celna-Waszyngtonu-9070325.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sojusz-jest-skonczony-Berlin-ostrzega-przed-maczuga-celna-Waszyngtonu-9070325.html",
+      "title": "\"Sojusz jest skończony\". Berlin ostrzega przed \"maczugą celną\" Waszyngtonu",
+      "content_html": "Niemiecka prasa krytykuje planowane przez prezydenta USA Donalda Trumpa przejęcie kontroli nad Grenlandią, ostrzegając, że siłowa aneksja wyspy oznaczałaby ostateczny koniec NATO. Komentatorzy zastanawiają się, czy UE powinna odpowiedzieć Waszyngtonowi...",
+      "date_published": "2026-01-19T08:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rynki-rozpoczynaja-nowy-tydzien-Ile-warte-sa-grozby-Trumpa-zwiazane-z-Grenlandia-9070323.html",
       "url": "https://www.bankier.pl/wiadomosc/Rynki-rozpoczynaja-nowy-tydzien-Ile-warte-sa-grozby-Trumpa-zwiazane-z-Grenlandia-9070323.html",
       "title": "Rynki rozpoczynają nowy tydzień. Ile warte są groźby Trumpa związane z Grenlandią?",
       "content_html": "Początek tego tygodnia może charakteryzować się na giełdach nieco mniejszą zmiennością niż zwykle z uwagi na obchodzony w USA Dzień Martina Luthera Kinga. Jednak inwestorzy w Europie będą wyceniać napięcia handlowe – wskazują w porannym...",
       "date_published": "2026-01-19T08:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UniCredit-promuje-konto-za-0-zl-bez-warunkow-Dodaje-9-miesiecy-Spotify-Premium-9070318.html",
+      "url": "https://www.bankier.pl/wiadomosc/UniCredit-promuje-konto-za-0-zl-bez-warunkow-Dodaje-9-miesiecy-Spotify-Premium-9070318.html",
+      "title": "UniCredit promuje konto za \"0 zł bez warunków\". Dodaje 9 miesięcy Spotify Premium",
+      "content_html": "UniCredit promuje konto osobiste w pakiecie Easy jako rachunek „za 0 zł bez warunków”, czyli bez klasycznych wymagań w rodzaju miesięcznych wpływów czy określonej liczby transakcji, a jednocześnie z bezpłatnymi przelewami natychmiastowymi...",
+      "date_published": "2026-01-19T08:31:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-znow-uderza-w-Kanade-porownujac-ja-do-Grenlandii-Nie-byliby-w-stanie-sie-obronic-9070236.html",
@@ -25,6 +109,13 @@
       "date_published": "2026-01-19T08:11:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/KGS-nie-jest-zainteresowana-przejeciem-Carrefoura-Mozemy-rozwijac-to-co-jest-juz-na-rynku-9070312.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGS-nie-jest-zainteresowana-przejeciem-Carrefoura-Mozemy-rozwijac-to-co-jest-juz-na-rynku-9070312.html",
+      "title": "KGS nie jest zainteresowana przejęciem Carrefoura. \"Możemy rozwijać to, co jest już na rynku\"",
+      "content_html": "Krajowa Grupa Spożywcza nie jest zainteresowana przejęciem Carrefoura - powiedział w Radiu RMF24 wiceminister aktywów państwowych Grzegorz Wrona.",
+      "date_published": "2026-01-19T08:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-spadki-Inwestorzy-patrza-na-Iran-i-Grenlandie-9070311.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-spadki-Inwestorzy-patrza-na-Iran-i-Grenlandie-9070311.html",
       "title": "Na rynkach ropy spadki. Inwestorzy patrzą na Iran i Grenlandię",
@@ -39,13 +130,6 @@
       "date_published": "2026-01-19T08:08:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Bolt-Tchibo-i-Zara-z-zarzutami-UOKiK-Greenwashing-ma-sie-dobrze-9070310.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bolt-Tchibo-i-Zara-z-zarzutami-UOKiK-Greenwashing-ma-sie-dobrze-9070310.html",
-      "title": "Greenwashing ma się dobrze? Bolt, Tchibo i Zara z zarzutami UOKiK",
-      "content_html": "Prezes UOKiK postawił spółkom Bolt, Tchibo i Zara zarzuty dotyczące tzw. greenwashingu, a kary mogą wynieść do 10 proc. obrotu za każdą zakwestionowaną praktykę - poinformował UOKiK w komunikacie.",
-      "date_published": "2026-01-19T08:04:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/W-25-w-serwisie-Pracuj-pl-opublikowano-762-8-tys-ofert-pracy-liczba-aplikacji-wzrosla-o-5-proc-rdr-9070308.html",
       "url": "https://www.bankier.pl/wiadomosc/W-25-w-serwisie-Pracuj-pl-opublikowano-762-8-tys-ofert-pracy-liczba-aplikacji-wzrosla-o-5-proc-rdr-9070308.html",
       "title": "Pracuj.pl w 2025 r.: 762,8 tys. ogłoszeń, wzrost aplikacji o 5%",
@@ -58,20 +142,6 @@
       "title": "PKB Chin dobre na papierze. Wzrost najsłabszy od pandemii COVID-19",
       "content_html": "Chiński PKB wzrósł w ciągu minionego roku o 5 proc. – wynika z danych opublikowanych w poniedziałek przez chiński urząd statystyczny. Eksperci wymieniają jednak wewnętrzne problemy chińskiej gospodarki, takie jak słabszy popyt wewnętrzny...",
       "date_published": "2026-01-19T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-otrzymalo-protokol-ze-spotkania-z-FDA-w-sprawie-romacyklibu-RVU120-9070303.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-otrzymalo-protokol-ze-spotkania-z-FDA-w-sprawie-romacyklibu-RVU120-9070303.html",
-      "title": "Ryvu Therapeutics po spotkaniu z FDA ws. romacyklibu",
-      "content_html": "Ryvu Therapeutics otrzymało protokół ze spotkania Typu C z amerykańską Agencją Żywności i Leków (FDA) w sprawie romacyklibu (RVU120) - poinformowała spółka w komunikacie.",
-      "date_published": "2026-01-19T07:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JSW-zuzyla-caly-kilkumiliardowy-fundusz-stabilizacyjny-Zadluza-sie-na-miliony-zl-co-miesiac-9070291.html",
-      "url": "https://www.bankier.pl/wiadomosc/JSW-zuzyla-caly-kilkumiliardowy-fundusz-stabilizacyjny-Zadluza-sie-na-miliony-zl-co-miesiac-9070291.html",
-      "title": "JSW zużyła cały kilkumiliardowy fundusz stabilizacyjny. Zadłuża się na miliony zł co miesiąc",
-      "content_html": "Jastrzębska Spółka Węglowa, największy w Unii Europejskiej producent węgla koksującego używanego do produkcji stali, jest w postępującym kryzysie. Według ministra aktywów państwowych Wojciecha Balczuna spółka może utracić płynność...",
-      "date_published": "2026-01-19T07:46:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miedz-podaza-teraz-za-zlotem-i-srebrem-Jej-notowania-rosna-o-ponad-procent-9070300.html",
@@ -142,6 +212,13 @@
       "title": "Irak przejmuje pełną kontrolę nad bazą lotniczą po wycofaniu się USA. Katar grozi: Jesteście tylko lokatorami",
       "content_html": "Siły amerykańskie wycofały się z irackiej bazy lotniczej Ain al-Asad w zachodnim Iraku, armia iracka przejęła nad nią pełną kontrolę, poinformowało w sobotę irackie ministerstwo obrony.",
       "date_published": "2026-01-19T07:13:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lotwa-szykuje-banki-na-kryzys-z-Rosja-Karty-offline-i-bankomaty-z-awaryjnym-zasilaniem-9070290.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lotwa-szykuje-banki-na-kryzys-z-Rosja-Karty-offline-i-bankomaty-z-awaryjnym-zasilaniem-9070290.html",
+      "title": "Łotwa szykuje banki na kryzys z Rosją. Karty \"offline\" i bankomaty z awaryjnym zasilaniem",
+      "content_html": "Łotwa wdrożyła rozwiązania, które mają utrzymać dostęp do pieniędzy podczas blackoutu lub cyberataku. Chodzi o sieć „krytycznych” bankomatów z zapewnionym zasilaniem oraz płatności kartą offline w aptekach i na stacjach paliw.",
+      "date_published": "2026-01-19T07:11:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Osiem-panstw-europejskich-murem-za-Grenlandia-Wydaly-wspolne-oswiadczenie-9070183.html",
@@ -618,83 +695,6 @@
       "title": "Szaflary odkryły „energetyczne złoto”. To będzie pierwsza taka elektrownia w Polsce",
       "content_html": "Najnowszy odwiert geotermalny w Szaflarach ma znacznie wyższy potencjał złoża niż zakładano – powiedział PAP wójt gminy Szaflary Rafał Szkaradziński. Temperatura wody sięga 120 st. C, a wydajność złoża może wynosić ok. 400 m sześc...",
       "date_published": "2026-01-18T09:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Masowe-protesty-w-Minneapolis-przeciwko-nalotom-imigracyjnym-9070090.html",
-      "url": "https://www.bankier.pl/wiadomosc/Masowe-protesty-w-Minneapolis-przeciwko-nalotom-imigracyjnym-9070090.html",
-      "title": "Masowe protesty w Minneapolis przeciwko nalotom imigracyjnym",
-      "content_html": "Setki przeciwników agencji ICE wyszły w sobotę na ulice Minneapolis, aby zaprotestować przeciwko nasilonym nalotom imigracyjnym oraz obecności federalnych agentów w mieście. Demonstracja była również odpowiedzią na agresję nielicznej grupy...",
-      "date_published": "2026-01-18T08:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-wstrzymal-atak-ale-armia-nie-przestala-Drugi-lotniskowiec-plynie-na-Bliski-Wschod-9070085.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-wstrzymal-atak-ale-armia-nie-przestala-Drugi-lotniskowiec-plynie-na-Bliski-Wschod-9070085.html",
-      "title": "Trump wstrzymał atak, ale armia nie przestała. Drugi lotniskowiec płynie na Bliski Wschód",
-      "content_html": "Armia Stanów Zjednoczonych po wysłaniu na Bliski Wschód co najmniej jednego lotniskowca z towarzyszącą mu grupą uderzeniową i kilkudziesięciu samolotów transportowych oraz bombowców i myśliwców, w mijającym tygodniu rozmieściła w tym regionie...",
-      "date_published": "2026-01-18T08:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliard-dolarow-za-stale-miejsce-przy-stole-Trump-buduje-rywala-dla-ONZ-9070088.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliard-dolarow-za-stale-miejsce-przy-stole-Trump-buduje-rywala-dla-ONZ-9070088.html",
-      "title": "Miliard dolarów za stałe miejsce przy stole. Trump buduje rywala dla ONZ",
-      "content_html": "Administracja prezydenta USA Donalda Trumpa chce, by kraje wpłaciły co najmniej po 1 mld dolarów za stałe członkostwo w jego nowej Radzie Pokoju - poinformowała w sobotę agencja Bloomberga. Krytycy obawiają się, iż Trump próbuje zbudować podmiot...",
-      "date_published": "2026-01-18T08:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Naduzywanie-klauzul-przez-Francje-i-Polske-Gorace-komentarze-z-Ameryki-Pld-po-podpisaniu-umowy-UE-Mercosur-9070109.html",
-      "url": "https://www.bankier.pl/wiadomosc/Naduzywanie-klauzul-przez-Francje-i-Polske-Gorace-komentarze-z-Ameryki-Pld-po-podpisaniu-umowy-UE-Mercosur-9070109.html",
-      "title": "„Nadużywanie klauzul przez Francję i Polskę”. Gorące komentarze z Ameryki Płd. po podpisaniu umowy UE-Mercosur",
-      "content_html": "Komentatorzy w krajach Mercosuru pozytywnie oceniają podpisanie porozumienia handlowego z UE. Argentyna spodziewa się znacznego zwiększenia eksportu, Brazylia liczy na rozwój wielu gałęzi przemysłu, a Urugwaj – na wzrost PKB, liczby miejsc pracy...",
-      "date_published": "2026-01-18T08:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-zachorowan-na-odre-Karolina-Poludniowa-centrum-zakazen-9070107.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowa-liczba-zachorowan-na-odre-Karolina-Poludniowa-centrum-zakazen-9070107.html",
-      "title": "Rekordowa liczba zachorowań na odrę. Karolina Południowa centrum zakażeń",
-      "content_html": "Liczba zachorowań na odrę w Stanach Zjednoczonych osiągnęła najwyższy poziom od lat. Gwałtowny wzrost przypadków w Karolinie Południowej stał się symbolem ogólnokrajowego problemu z malejącą odpornością populacji.",
-      "date_published": "2026-01-18T08:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloto-narkotyki-i-pranie-pieniedzy-Gruba-teczka-sluzb-na-Delcy-Rodriguez-Trump-o-tym-milczal-9070075.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloto-narkotyki-i-pranie-pieniedzy-Gruba-teczka-sluzb-na-Delcy-Rodriguez-Trump-o-tym-milczal-9070075.html",
-      "title": "Złoto, narkotyki i pranie pieniędzy. Grubą teczka służb na Delcy Rodriguez. Trump o tym milczał?",
-      "content_html": "Delcy Rodriguez, która przejęła obowiązki prezydenta Wenezueli po obaleniu przez siły USA Nicolasa Maduro, od lat jest przedmiotem zainteresowania amerykańskich służb antynarkotykowych; określiły ją one jako „cel priorytetowy” – ujawniła...",
-      "date_published": "2026-01-18T08:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bruksela-zwoluje-sztab-kryzysowy-w-niedziele-Tajna-narada-ambasadorow-ws-grozb-Trumpa-9070073.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bruksela-zwoluje-sztab-kryzysowy-w-niedziele-Tajna-narada-ambasadorow-ws-grozb-Trumpa-9070073.html",
-      "title": "Bruksela zwołuje sztab kryzysowy w niedzielę. Tajna narada ambasadorów ws. gróźb Trumpa",
-      "content_html": "W niedzielę po południu w Brukseli odbędzie się nadzwyczajne spotkanie ambasadorów państw członkowskich przy UE - poinformowała w sobotę wieczorem cypryjska prezydencja. Spotkanie będzie miało charakter niejawny i ma dotyczyć gróźb prezydenta...",
-      "date_published": "2026-01-18T08:07:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przyjmiesz-inny-paszport-stracisz-nikaraguanski-Rezim-Ortegi-zaostrza-przepisy-9068559.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przyjmiesz-inny-paszport-stracisz-nikaraguanski-Rezim-Ortegi-zaostrza-przepisy-9068559.html",
-      "title": "Przyjmiesz inny paszport, stracisz nikaraguański. Reżim Ortegi zaostrza przepisy",
-      "content_html": "Zgromadzenie Narodowe, jednoizbowy parlament Nikaragui, zatwierdził przepisy znoszące możliwość posiadania przez Nikaraguańczyków podwójnego obywatelstwa.",
-      "date_published": "2026-01-18T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-kolejkami-w-przychodniach-Sprawdz-na-co-zaszczepisz-sie-u-farmaceuty-9068567.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-kolejkami-w-przychodniach-Sprawdz-na-co-zaszczepisz-sie-u-farmaceuty-9068567.html",
-      "title": "Koniec z kolejkami w przychodniach? Sprawdź, na co zaszczepisz się u farmaceuty",
-      "content_html": "Rozszerzenie katalogu szczepień wykonywanych w aptekach to jedno z najskuteczniejszych działań zwiększających wyszczepialność dorosłych w Polsce - ocenia socjolog prof. Tomasz Sobierajski. Od 1 lutego br. Ministerstwo Zdrowia poszerza listę chorób...",
-      "date_published": "2026-01-18T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Naukowe-fajerwerki-na-Grenlandii-Polityka-mocarstw-zagraza-nauce-Okiem-paleontologa-9068571.html",
-      "url": "https://www.bankier.pl/wiadomosc/Naukowe-fajerwerki-na-Grenlandii-Polityka-mocarstw-zagraza-nauce-Okiem-paleontologa-9068571.html",
-      "title": "\"Naukowe fajerwerki\" na Grenlandii. Polityka mocarstw zagraża nauce? Okiem paleontologa",
-      "content_html": "Na Grenlandii nadal są miejsca, a nawet całe rejony, gdzie stopy nie postawił dotąd żaden naukowiec. Paleontolog i kierownik wypraw dr Grzegorz Niedźwiedzki przeczuwa, że w kolejnych latach właśnie na tej wyspie pojawi się sporo „naukowych...",
-      "date_published": "2026-01-18T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Senatorowie-USA-o-clach-apelujemy-do-administracji-o-zaprzestanie-grozb-9070078.html",
-      "url": "https://www.bankier.pl/wiadomosc/Senatorowie-USA-o-clach-apelujemy-do-administracji-o-zaprzestanie-grozb-9070078.html",
-      "title": "Senatorowie USA o cłach: apelujemy do administracji o zaprzestanie gróźb",
-      "content_html": "Amerykańscy senatorowie - Demokratka Jeanne Shaheen i Republikanin Thom Tillis - wydali w sobotę w Kopenhadze oświadczenie , w którym potępili zapowiedzi prezydenta USA Donalda Trumpa dotyczące ceł i zaapelowali do administracji o „odstąpienie...",
-      "date_published": "2026-01-18T08:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
