@@ -4,11 +4,102 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-krajach-Unii-EUropejskiej-w-grudniu-2025-Rumunia-wciaz-liderem-9070385.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-krajach-Unii-EUropejskiej-w-grudniu-2025-Rumunia-wciaz-liderem-9070385.html",
+      "title": "Rumunia i długo, długo nic. Inflacyjny lider UE nie spuszcza z tonu",
+      "content_html": "Rumunia kolejny miesiąc z rzędu utrzymała się w siodle inflacyjnego lidera Unii Europejskiej.",
+      "date_published": "2026-01-19T12:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/InPost-otrzymal-wstepna-propozycje-przejecia-wszystkich-swoich-akcji-9064263.html",
+      "url": "https://www.bankier.pl/wiadomosc/InPost-otrzymal-wstepna-propozycje-przejecia-wszystkich-swoich-akcji-9064263.html",
+      "title": "InPost otrzymał wstępną propozycję przejęcia wszystkich swoich akcji",
+      "content_html": "InPost otrzymał wstępną propozycję przejęcia wszystkich akcji spółki - poinformowała spółka notowana na giełdzie w Amsterdamie. Powołany został specjalny zespół złożony z członków rady nadzorczej i zarządu InPostu, który ma przeanalizować...",
+      "date_published": "2026-01-19T12:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dywidendowy-ETF-od-Bety-nie-wyplaci-kwartalnych-zyskow-Pieniadze-jednak-nie-przepadna-9070443.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dywidendowy-ETF-od-Bety-nie-wyplaci-kwartalnych-zyskow-Pieniadze-jednak-nie-przepadna-9070443.html",
+      "title": "Dywidendowy ETF od Bety nie wypłaci kwartalnych zysków. Pieniądze jednak nie przepadną",
+      "content_html": "W pierwszym kwartale 2026 roku fundusz BETA ETF Dywidenda Plus, notowany na GPW w Warszawie nie zrealizuje wypłaty dochodu – podał dostawca ETF-a. Decyzja ma mieć charakter czysto techniczny i statutowy, wynikający z rekordowo szybkiego przyrostu...",
+      "date_published": "2026-01-19T12:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wiekszosc-pracodawcow-planuje-wyzsze-budzety-na-rekrutacje-w-26-Grupa-Pracuj-wywiad-9070439.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wiekszosc-pracodawcow-planuje-wyzsze-budzety-na-rekrutacje-w-26-Grupa-Pracuj-wywiad-9070439.html",
+      "title": "Większość pracodawców planuje wyższe budżety na rekrutacje w '26 - Grupa Pracuj (wywiad)",
+      "content_html": "2026 r. zapowiada się jako stabilny okres na polskim rynku rekrutacji, a większość pracodawców planuje wyższe budżety na rekrutacje. Poprawia się sentyment m.in. w branży IT - poinformował członek zarządu i dyrektor operacyjny Grupy Pracuj...",
+      "date_published": "2026-01-19T12:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wladimir-Putin-w-Radzie-Pokoju-Szokujaca-propozycja-Donalda-Trumpa-9070392.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wladimir-Putin-w-Radzie-Pokoju-Szokujaca-propozycja-Donalda-Trumpa-9070392.html",
+      "title": "Władimir Putin w Radzie Pokoju? Szokująca propozycja Donalda Trumpa",
+      "content_html": "Rosyjski przywódca Władimir Putin otrzymał zaproszenie od Stanów Zjednoczonych do dołączenia do Rady Pokoju, która ma zarządzać Strefą Gazy - poinformował w poniedziałek rzecznik Kremla Dmitrij Pieskow.",
+      "date_published": "2026-01-19T12:13:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wiekszosc-pracodawcow-planuje-wyzsze-budzety-na-rekrutacje-w-26-Grupa-Pracuj-wywiad-9070434.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wiekszosc-pracodawcow-planuje-wyzsze-budzety-na-rekrutacje-w-26-Grupa-Pracuj-wywiad-9070434.html",
+      "title": "Rynek pracy 2026: stabilizacja i wyższe budżety na rekrutację - prognozy Grupy Pracuj",
+      "content_html": "2026 r. zapowiada się jako stabilny okres na polskim rynku rekrutacji, a większość pracodawców planuje wyższe budżety na rekrutacje. Poprawia się sentyment m.in. w branży IT - poinformował członek zarządu i dyrektor operacyjny Grupy Pracuj...",
+      "date_published": "2026-01-19T12:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NaszEauto-na-wyczerpaniu-Kiedy-skoncza-sie-doplaty-do-elektrykow-9070372.html",
+      "url": "https://www.bankier.pl/wiadomosc/NaszEauto-na-wyczerpaniu-Kiedy-skoncza-sie-doplaty-do-elektrykow-9070372.html",
+      "title": "Dopłaty do elektryków na wyczerpaniu. \"NaszEauto\" wystarczy do końca stycznia",
+      "content_html": "Przy obecnej dynamice składania wniosków budżet programu NaszEauto wyczerpie się jeszcze przed końcem stycznia - wynika z analiz fundacji EV Klub Polska i elektromobilni.pl. W programie złożono już ponad 34 tys. wniosków na ok.1,08 mld zł, podczas...",
+      "date_published": "2026-01-19T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-biznes-Dino-Juz-nie-tylko-handel-9070389.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-biznes-Dino-Juz-nie-tylko-handel-9070389.html",
+      "title": "Dino wchodzi w nowy biznes. Teraz będzie zarabiać nie tylko na sprzedaży",
+      "content_html": "Dino Polska już nie tylko zajmuje się prowadzeniem marketów spożywczych. Teraz oferuje także podnajem powierzchni handlowo-usługowych przy swoich sklepach. Chętne firmy mogą skorzystać z tej propozycji w trzech polskich miastach – podaje serwis...",
+      "date_published": "2026-01-19T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosnaca-potega-superbogaczy-oslabia-demokracje-9070405.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosnaca-potega-superbogaczy-oslabia-demokracje-9070405.html",
+      "title": "Rosnąca potęga superbogaczy osłabia demokrację",
+      "content_html": "Rosnąca potęga miliarderów na świecie osłabia demokrację i pogłębia nierówności - ostrzega organizacja Oxfam Novib. W raporcie opublikowanym w związku ze Światowym Forum Ekonomicznym (WEF) w Davos wskazuje na rekordowe majątki najbogatszych...",
+      "date_published": "2026-01-19T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Celny-szantaz-USA-Niemcy-i-Francja-szykuja-odpowiedz-dla-Trumpa-Granica-zostala-przekroczona-9070414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Celny-szantaz-USA-Niemcy-i-Francja-szykuja-odpowiedz-dla-Trumpa-Granica-zostala-przekroczona-9070414.html",
+      "title": "Szantaż ekonomiczny USA. Niemcy i Francja szykują odpowiedź. \"Granica została przekroczona\"",
+      "content_html": "Ministrowie finansów Niemiec i Francji, Lars Klingbeil i Roland Lescure, oświadczyli w poniedziałek na wspólnej konferencji prasowej w Berlinie, że państwa europejskie nie ulegną „szantażowi” amerykańskiego prezydenta Donalda Trumpa i przygotowują...",
+      "date_published": "2026-01-19T11:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-ma-umowe-z-GDDKiA-na-budowe-drogi-ekspresowej-o-wart-312-2-mln-zl-netto-9070429.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-ma-umowe-z-GDDKiA-na-budowe-drogi-ekspresowej-o-wart-312-2-mln-zl-netto-9070429.html",
+      "title": "Budimex z kontraktem na drogę ekspresową za 312 mln zł",
+      "content_html": "Budimex ma umowę z GDDKiA na zaprojektowanie i wybudowanie drogi ekspresowej S8 Wrocław-Kłodzko, zadanie 4 - odc. węzeł Łagiewniki Zachód (bez węzła) - węzeł Niemcza (z węzłem), długości ok. 9,34 km - podał Budimex w komunikacie. Wartość...",
+      "date_published": "2026-01-19T11:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-Bank-Polski-i-Credit-Agricole-tna-stawki-na-lokatach-9070428.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-Bank-Polski-i-Credit-Agricole-tna-stawki-na-lokatach-9070428.html",
+      "title": "PKO Bank Polski i Credit Agricole tną stawki na lokatach",
+      "content_html": "Ostatnie dni przyniosły kolejne informacje o obniżkach na lokatach terminowych. W połowie stycznia swój cennik produktów oszczędnościowych zmienił największy bank w Polsce – PKO Bank Polski. W Blue Monday niższe oprocentowanie zaczęło natomiast...",
+      "date_published": "2026-01-19T11:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Fabrity-ma-umowe-ramowa-z-Fronteksem-ws-swiadczenia-uslug-w-modelu-Time-and-Means-9070422.html",
       "url": "https://www.bankier.pl/wiadomosc/Fabrity-ma-umowe-ramowa-z-Fronteksem-ws-swiadczenia-uslug-w-modelu-Time-and-Means-9070422.html",
-      "title": "Fabrity ma umowę ramową z Fronteksem ws. świadczenia usług w modelu Time and Means",
+      "title": "Fabrity podpisało ramową umowę z Fronteksem na usługi IT",
       "content_html": "Fabrity zawarł umowę ramową z Fronteksem (European Border and Coast Guard Agency) ws. świadczenia usług w modelu Time and Means (DESOPS), które obejmują ponad 70 profili kompetencyjnych, w tym w obszarach Cyberbezpieczeństwa, Cloud i Data - podała...",
       "date_published": "2026-01-19T11:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Kazachstanu-dolaczy-do-Rady-Pokoju-dla-Gazy-9070420.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Kazachstanu-dolaczy-do-Rady-Pokoju-dla-Gazy-9070420.html",
+      "title": "Prezydent Kazachstanu dołączy do Rady Pokoju dla Gazy",
+      "content_html": "Prezydent Kazachstanu Kasym-Żomart Tokajew przyjął zaproszenie od USA do wejścia w skład tworzonej Rady Pokoju dla Strefy Gazy, a Kazachstanowi zaproponowano zostanie jednym z państw-założycieli tego organu - poinformował w poniedziałek rzecznik...",
+      "date_published": "2026-01-19T11:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Swiatowe-Forum-Ekonomiczne-w-Davos-Polska-zabierze-glos-w-kluczowych-kwestiach-9070256.html",
@@ -51,27 +142,6 @@
       "title": "Wzrost PKB utrzyma się na stabilnym poziomie. AI może \"dać kopa\" gospodarce",
       "content_html": "Międzynarodowy Fundusz Walutowy podniósł prognozę wzrostu światowego PKB na 2026 r. do 3,3 proc., a na 2027 r. pozostawił na poziomie 3,2 proc. - podano w styczniowej edycji World Economic Outlook.",
       "date_published": "2026-01-19T11:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wladimir-Putin-w-Radzie-Pokoju-Szokujaca-propozycja-Donalda-Trumpa-9070392.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wladimir-Putin-w-Radzie-Pokoju-Szokujaca-propozycja-Donalda-Trumpa-9070392.html",
-      "title": "Władimir Putin w Radzie Pokoju? Szokująca propozycja Donalda Trumpa",
-      "content_html": "Rosyjski przywódca Władimir Putin otrzymał zaproszenie od Stanów Zjednoczonych do dołączenia do Rady Pokoju, która ma zarządzać Strefą Gazy - poinformował w poniedziałek rzecznik Kremla Dmitrij Pieskow.",
-      "date_published": "2026-01-19T11:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Hiszpanii-Premier-Sytuacja-jest-bardzo-powazna-9070242.html",
-      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Hiszpanii-Premier-Sytuacja-jest-bardzo-powazna-9070242.html",
-      "title": "Katastrofa kolejowa w Hiszpanii. Premier: Sytuacja jest bardzo poważna",
-      "content_html": "Dwa pociągi dużych prędkości wykoleiły się w niedzielę wieczorem w Adamuz w prowincji Kordoba w Andaluzji na południu Hiszpanii. W katastrofie zginęło co najmniej 39 osób, kilkadziesiąt zostało rannych. Przyczyny wypadku wciąż są badane...",
-      "date_published": "2026-01-19T10:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-przejelo-portfel-kredytow-konsorcjalnych-finansujacych-projekty-OZE-o-wart-ponad-1-mld-zl-9070383.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-przejelo-portfel-kredytow-konsorcjalnych-finansujacych-projekty-OZE-o-wart-ponad-1-mld-zl-9070383.html",
-      "title": "PKO BP przejmuje kredyty OZE o wartości ponad 1 mld zł",
-      "content_html": "PKO BP przejęło portfel kredytów konsorcjalnych finansujących projekty OZE o wartości ponad 1 mld zł - podał bank na platformie LinkedIn. Wskazano, że łączna moc finansowanych instalacji wynosi 700 MW, a ich roczna produkcja energii przekracza...",
-      "date_published": "2026-01-19T10:48:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-trzymaja-miliony-z-wenezuelskiej-ropy-w-Katarze-Caracas-ich-szybko-nie-zobaczy-9070315.html",
@@ -142,6 +212,20 @@
       "title": "Osiem państw europejskich murem za Grenlandią. Wydały wspólne oświadczenie",
       "content_html": "Osiem krajów europejskich, których dotyczą zapowiedzi prezydenta USA Donalda Trumpa o wprowadzeniu nowych ceł, powtórzyło zapewnienia o solidarności z Danią i Grenlandii. Wspólne oświadczenie w tej sprawie wydały w niedzielę Dania, Finlandia...",
       "date_published": "2026-01-19T09:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
+      "title": "Chiny reagują na polską blokadę ich elektryków. \"To nadużycie\"",
+      "content_html": "Należy położyć kres nadużywaniu pojęcia bezpieczeństwa narodowego – oświadczył w poniedziałek rzecznik chińskiego MSZ, odpowiadając na pytanie PAP. To reakcja Pekinu na doniesienia o planowanym przez polską armię zakazie wjazdu na tereny...",
+      "date_published": "2026-01-19T09:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
+      "title": "Państwowy bank traci cierpliwość do Grupy Azoty. Żąda prawie 4 mld zł",
+      "content_html": "Bank Pekao, działający jako agent kredytu, zawiadomił o postawieniu w stan wymagalności zobowiązań Grupy Azoty Polyolefins wynikających z umowy kredytów uprzywilejowanych - terminowego, obrotowego i VAT z dnia 31 maja 2020 roku o szacunkowej wartości...",
+      "date_published": "2026-01-19T09:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bolt-Tchibo-i-Zara-z-zarzutami-UOKiK-Greenwashing-ma-sie-dobrze-9070310.html",
@@ -403,6 +487,27 @@
       "date_published": "2026-01-19T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Stan-wyjatkowy-w-Gwatemali-Wojsko-odbilo-3-wiezienia-9070243.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stan-wyjatkowy-w-Gwatemali-Wojsko-odbilo-3-wiezienia-9070243.html",
+      "title": "Stan wyjątkowy w Gwatemali. Wojsko odbiło 3 więzienia",
+      "content_html": "Prezydent Gwatemali Bernardo Arevalo ogłosił w niedzielę 30-dniowy stan wyjątkowy w następstwie ostatnich ataków na funkcjonariuszy policji oraz zamieszek w trzech zakładach karnych.",
+      "date_published": "2026-01-19T03:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-Syrii-i-SDF-zawarly-porozumienie-o-zawieszeniu-broni-9070204.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-Syrii-i-SDF-zawarly-porozumienie-o-zawieszeniu-broni-9070204.html",
+      "title": "Rząd Syrii i SDF zawarły porozumienie o zawieszeniu broni",
+      "content_html": "Rząd Syrii i Syryjskie Siły Demokratyczne (SDF), w większości składające się z Kurdów, zawarły w niedzielę porozumienie o natychmiastowym zawieszeniu broni na wszystkich frontach - poinformowały państwowe media syryjskie.",
+      "date_published": "2026-01-18T20:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliony-odblokowane-KRRiT-przelewa-pieniadze-z-abonamentu-spolkom-mediow-publicznych-9068503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliony-odblokowane-KRRiT-przelewa-pieniadze-z-abonamentu-spolkom-mediow-publicznych-9068503.html",
+      "title": "Miliony odblokowane? KRRiT przelewa pieniądze z abonamentu spółkom mediów publicznych",
+      "content_html": "Krajowa Rada Radiofonii i Telewizji poinformowała o przekazaniu ponad 21 mln zł z wpływów abonamentowych ośmiu spółkom mediów publicznych, w tym Polskiemu Radiu i Radiu Gdańsk. To efekt zwrócenia do KRRiT środków z rachunku depozytowego Ministra...",
+      "date_published": "2026-01-18T20:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/12-tys-zl-za-ogrzewanie-co-zime-Ekspert-nie-ma-zludzen-Taniej-juz-bylo-9068106.html",
       "url": "https://www.bankier.pl/wiadomosc/12-tys-zl-za-ogrzewanie-co-zime-Ekspert-nie-ma-zludzen-Taniej-juz-bylo-9068106.html",
       "title": "12 tys. zł za ogrzewanie co zimę? Ekspert nie ma złudzeń: Taniej już było",
@@ -576,90 +681,6 @@
       "title": "Wielki powrót węglówki. Śląsk i porty połączone szybką koleją towarową",
       "content_html": "Łódzka Kolej Aglomeracyjna wprowadza nowe poranne połączenie z Koluszek do Łodzi i dodatkowe postoje na stacjach na tej linii. Duże inwestycje na trasach kolejowych w Łódzkiem zapowiadają na 2026 r. Polskie Linie Kolejowe. Węglówka znów stanie...",
       "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-bezpiecznego-sasiedztwa-Trump-Rosja-i-slaba-Europa-osaczaja-Kanade-9066680.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-bezpiecznego-sasiedztwa-Trump-Rosja-i-slaba-Europa-osaczaja-Kanade-9066680.html",
-      "title": "Koniec bezpiecznego sąsiedztwa. Trump, Rosja i słaba Europa osaczają Kanadę",
-      "content_html": "Kanada jest krajem najbardziej zagrożonym polityczną niestabilnością w USA i zmianami wynikającymi z amerykańskiej rewolucji politycznej – oceniła w najnowszym raporcie firma Eurasia Group specjalizująca się w ocenie ryzyka. Raport podkreśla...",
-      "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szczury-wyposazone-w-plecaki-beda-szukac-ocalalych-pod-gruzami-9066703.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szczury-wyposazone-w-plecaki-beda-szukac-ocalalych-pod-gruzami-9066703.html",
-      "title": "Szczury wyposażone w plecaki będą szukać ocalałych pod gruzami",
-      "content_html": "Wyposażane w plecaki wielkoszczury gambijskie są w Turcji przygotowywane do pracy z oddziałami ratunkowymi poszukującymi ocalałych pod gruzami m.in. po trzęsieniach ziemi - poinformowała turecka gazeta „Hurriyet”.",
-      "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Biedniejszy-krewny-systemu-Uczelnie-prywatne-zadaja-rownych-dotacji-od-panstwa-9066899.html",
-      "url": "https://www.bankier.pl/wiadomosc/Biedniejszy-krewny-systemu-Uczelnie-prywatne-zadaja-rownych-dotacji-od-panstwa-9066899.html",
-      "title": "Biedniejszy krewny systemu. Uczelnie prywatne żądają równych dotacji od państwa",
-      "content_html": "Zdaniem rektora Uniwersytetu Civitas prof. Stanisława Mocka uczelnie niepubliczne od lat nie są równo z publicznymi traktowane przez resort nauki przy podziale subwencji, np. na prowadzenie kształcenia. Zapowiedział, że będzie to jedna z kwestii...",
-      "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Willa-Gawronskich-zostala-wpisana-do-rejestru-zabytkow-9066901.html",
-      "url": "https://www.bankier.pl/wiadomosc/Willa-Gawronskich-zostala-wpisana-do-rejestru-zabytkow-9066901.html",
-      "title": "Willa Gawrońskich została wpisana do rejestru zabytków",
-      "content_html": "Willa Gawrońskich przy Alejach Ujazdowskich 23 w Warszawie została wpisana do rejestru zabytków. Kiedyś mieściły się w niej ambasady, teraz jest własnością prywatną.",
-      "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szczescie-to-wymysl-Zachodu-Badania-PAN-Reszta-swiata-woli-spokoj-i-harmonie-9067304.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szczescie-to-wymysl-Zachodu-Badania-PAN-Reszta-swiata-woli-spokoj-i-harmonie-9067304.html",
-      "title": "Szczęście to wymysł Zachodu? Badania PAN: Reszta świata woli spokój i harmonię",
-      "content_html": "Maksymalizacja szczęścia nie jest uniwersalnym ludzkim dążeniem. Im bogatsze, bardziej wykształcone i demokratyczne społeczeństwo, tym wyższy poziom szczęścia uznaje się za idealny – pokazało badanie. Przeprowadził je międzynarodowy zespół...",
-      "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Reforma-PIP-po-nowemu-Eksperci-komentuja-nowe-pomysly-rzadu-9069544.html",
-      "url": "https://www.bankier.pl/wiadomosc/Reforma-PIP-po-nowemu-Eksperci-komentuja-nowe-pomysly-rzadu-9069544.html",
-      "title": "Reforma PIP po nowemu. Eksperci komentują nowe pomysły rządu",
-      "content_html": "Nowa propozycja reformy PIP, która zakłada, że ostateczną instancją decydującą o przekształcaniu umów będzie sąd, idzie w dobrym kierunku - wskazują eksperci w rozmowie z PAP. W ich ocenie doprecyzowania wymaga jednak rola stron w rozstrzyganiu...",
-      "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szok-w-Oslo-Dyrektor-Nordea-Banku-ujawnia-skale-wojennych-zyskow-Norwegii-z-gazu-9070174.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szok-w-Oslo-Dyrektor-Nordea-Banku-ujawnia-skale-wojennych-zyskow-Norwegii-z-gazu-9070174.html",
-      "title": "Szok w Oslo. Dyrektor Nordea Banku ujawnia skalę „wojennych zysków” Norwegii z gazu",
-      "content_html": "Robert Naess, jeden z dyrektorów największego banku w regionie nordyckim, Nordea Bank, oszacował w dzienniku „Stavanger Aftenblad”, że od agresji Rosji na Ukrainę w 2022 r. Norwegia zarobiła dodatkowo równowartość ok. biliona zł. W tym czasie...",
-      "date_published": "2026-01-18T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Viktor-Orban-otrzymal-od-Trumpa-zaproszenie-do-Rady-Pokoju-dla-Gazy-9070177.html",
-      "url": "https://www.bankier.pl/wiadomosc/Viktor-Orban-otrzymal-od-Trumpa-zaproszenie-do-Rady-Pokoju-dla-Gazy-9070177.html",
-      "title": "Viktor Orban otrzymał od Trumpa zaproszenie do Rady Pokoju dla Gazy",
-      "content_html": "Premier Węgier Viktor Orban opublikował w niedzielę list, w którym prezydent USA Donald Trump zaprosił go do dołączenia do Rady Pokoju dla Gazy. Węgierski przywódca poinformował, że zaakceptował to „zaszczytne zaproszenie”.",
-      "date_published": "2026-01-18T15:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jedyna-w-kraju-rafineria-ropy-naftowej-wznowila-prace-9070165.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jedyna-w-kraju-rafineria-ropy-naftowej-wznowila-prace-9070165.html",
-      "title": "Jedyna w kraju rafineria ropy naftowej wznowiła pracę",
-      "content_html": "Produkcja w rafinerii ropy naftowej w Panczevie w centralnej Serbii została wznowiona - poinformowała w niedzielę Dubravka Djdović Handanović, minister górnictwa i energetyki Serbii. Prace zostały zawieszone w związku z objęciem NIS, własciciela...",
-      "date_published": "2026-01-18T15:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niemieckie-media-dosadnie-o-Trumpie-Unizone-gesty-nie-przyniosly-zadnego-efektu-9070161.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemieckie-media-dosadnie-o-Trumpie-Unizone-gesty-nie-przyniosly-zadnego-efektu-9070161.html",
-      "title": "Niemieckie media dosadnie o Trumpie. \"Uniżone gesty nie przyniosły żadnego efektu\"",
-      "content_html": "Komentując groźbę nałożenia ceł na kraje europejskie przez prezydenta USA Donalda Trumpa niemieckie media wzywają w niedzielę rząd w Berlinie i UE do postawienia się Amerykanom. Za nieskuteczną uważają dotychczasową strategię europejskich...",
-      "date_published": "2026-01-18T15:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Technologia-ciagnie-Wall-Street-Analitycy-podnosza-prognozy-przed-startem-sezonu-wynikow-9066455.html",
-      "url": "https://www.bankier.pl/wiadomosc/Technologia-ciagnie-Wall-Street-Analitycy-podnosza-prognozy-przed-startem-sezonu-wynikow-9066455.html",
-      "title": "Technologia ciągnie Wall Street. Analitycy podnoszą prognozy przed startem sezonu wyników",
-      "content_html": "Przed rozpoczęciem sezonu publikacji wyników finansowych zarówno analitycy, jak i firmy wykazują większy niż zwykle optymizm w prognozach zysków spółek z indeksu S&P 500 na IV kwartał 2025 r. Jednak większość optymizmu koncentruje się...",
-      "date_published": "2026-01-18T14:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wieliczka-z-rekordem-Blisko-2-mln-turystow-zwiedzilo-slynna-polska-kopalnie-9068921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wieliczka-z-rekordem-Blisko-2-mln-turystow-zwiedzilo-slynna-polska-kopalnie-9068921.html",
-      "title": "Wieliczka z rekordem. Blisko 2 mln turystów zwiedziło słynną polską kopalnię",
-      "content_html": "Rekordowe 1,91 mln osób odwiedziło w zeszłym roku Kopalnię Soli „Wieliczka”. Według dyrekcji było to o ponad 10 proc. więcej niż w 2024 r. Turyści coraz częściej korzystają z wdrożonego przez kopalnię systemu wirtualnych asystentów...",
-      "date_published": "2026-01-18T14:12:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
