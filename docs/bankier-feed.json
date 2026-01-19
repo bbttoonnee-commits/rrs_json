@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KIO-nakazalo-PKP-PLK-odrzucenie-oferty-Torpolu-i-Mirbudu-w-postepowaniu-przetargowym-9070773.html",
+      "url": "https://www.bankier.pl/wiadomosc/KIO-nakazalo-PKP-PLK-odrzucenie-oferty-Torpolu-i-Mirbudu-w-postepowaniu-przetargowym-9070773.html",
+      "title": "KIO nakazało PKP PLK odrzucenie oferty Torpolu i Mirbudu w postępowaniu przetargowym",
+      "content_html": "Krajowa Izba Odwoławcza nakazała PKP Polskie Linie Kolejowe unieważnienie wyboru oferty konsorcjum Torpolu i Mirbudu z 6 listopada 2025 roku jako najkorzystniejszej w postępowaniu oraz przeprowadzenie ponownego badania i oceny ofert, a w ramach tej...",
+      "date_published": "2026-01-19T19:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zwiazki-zawodowe-beda-kontynuowaly-rozmowy-z-zarzadem-JSW-9070744.html",
       "url": "https://www.bankier.pl/wiadomosc/Zwiazki-zawodowe-beda-kontynuowaly-rozmowy-z-zarzadem-JSW-9070744.html",
       "title": "Związki zawodowe będą kontynuowały rozmowy z zarządem JSW",
@@ -557,6 +564,13 @@
       "date_published": "2026-01-19T09:57:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-reaguja-na-polska-blokade-ich-elektrykow-To-naduzycie-9070346.html",
+      "title": "Chiny reagują na polską blokadę ich elektryków. \"To nadużycie\"",
+      "content_html": "Należy położyć kres nadużywaniu pojęcia bezpieczeństwa narodowego – oświadczył w poniedziałek rzecznik chińskiego MSZ, odpowiadając na pytanie PAP. To reakcja Pekinu na doniesienia o planowanym przez polską armię zakazie wjazdu na tereny...",
+      "date_published": "2026-01-19T09:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
       "url": "https://www.bankier.pl/wiadomosc/Bank-Pekao-domaga-sie-splaty-przez-Grupe-Azoty-Polyolefins-3-952-mld-zl-zobowiazan-9069895.html",
       "title": "Państwowy bank traci cierpliwość do Grupy Azoty. Żąda prawie 4 mld zł",
@@ -688,13 +702,6 @@
       "title": "Miedź podąża teraz za złotem i srebrem. Jej notowania rosną o ponad procent",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną o ponad 1 proc. i zbliżyły się do 13.000 USD za tonę - informują maklerzy.",
       "date_published": "2026-01-19T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kuba-szykuje-sie-do-wojny-Wladze-zatwierdzily-plan-dzialan-w-sytuacji-konfliktu-zbrojnego-9070272.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kuba-szykuje-sie-do-wojny-Wladze-zatwierdzily-plan-dzialan-w-sytuacji-konfliktu-zbrojnego-9070272.html",
-      "title": "Kuba szykuje się do wojny. Władze zatwierdziły plan działań w sytuacji konfliktu zbrojnego",
-      "content_html": "Kubańskie władze zatwierdziły plan działań w razie ogłoszenia stanu wojny - poinformowały prorządowe media, podkreślając, że decyzja ta zbiegła się w czasie ze wzrostem napięcia w regionie po amerykańskich atakach na Wenezuelę i pojmaniu...",
-      "date_published": "2026-01-19T07:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
