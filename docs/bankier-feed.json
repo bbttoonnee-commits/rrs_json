@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rozmowy-ze-strona-spoleczna-dot-JSW-bardzo-trudne-ale-konstruktywne-minister-Balczun-9070809.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozmowy-ze-strona-spoleczna-dot-JSW-bardzo-trudne-ale-konstruktywne-minister-Balczun-9070809.html",
+      "title": "Rozmowy ze stroną społeczną dot. JSW bardzo trudne, ale konstruktywne – minister Balczun",
+      "content_html": "Minister aktywów państwowych Wojciech Balczun wierzy, że Jastrzębska Spółka Węglowa przetrwa trudny okres. Prowadzone ze stroną społeczną rozmowy są bardzo trudne, ale zaczął się konstruktywny dialog.",
+      "date_published": "2026-01-19T20:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KIO-nakazalo-PKP-PLK-odrzucenie-oferty-Torpolu-i-Mirbudu-w-postepowaniu-przetargowym-9070773.html",
       "url": "https://www.bankier.pl/wiadomosc/KIO-nakazalo-PKP-PLK-odrzucenie-oferty-Torpolu-i-Mirbudu-w-postepowaniu-przetargowym-9070773.html",
       "title": "KIO nakazało PKP PLK odrzucenie oferty Torpolu i Mirbudu w postępowaniu przetargowym",
       "content_html": "Krajowa Izba Odwoławcza nakazała PKP Polskie Linie Kolejowe unieważnienie wyboru oferty konsorcjum Torpolu i Mirbudu z 6 listopada 2025 roku jako najkorzystniejszej w postępowaniu oraz przeprowadzenie ponownego badania i oceny ofert, a w ramach tej...",
       "date_published": "2026-01-19T19:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NATO-przybedzie-z-misja-na-Grenlandie-Na-razie-przybywaja-kolejni-dunscy-zolnierze-9070771.html",
+      "url": "https://www.bankier.pl/wiadomosc/NATO-przybedzie-z-misja-na-Grenlandie-Na-razie-przybywaja-kolejni-dunscy-zolnierze-9070771.html",
+      "title": "NATO przybędzie z misją na Grenlandię? Na razie przybywają kolejni duńscy żołnierze",
+      "content_html": "Duński minister obrony Troels Lund Poulsen powiedział w poniedziałek po spotkaniu z sekretarzem generalnym NATO Markiem Rutte, że rozmowa z szefem Sojuszu dotyczyła możliwości utworzenia misji NATO na Grenlandii i w Arktyce. Rozmawialiśmy o tym...",
+      "date_published": "2026-01-19T19:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zwiazki-zawodowe-beda-kontynuowaly-rozmowy-z-zarzadem-JSW-9070744.html",
@@ -688,20 +702,6 @@
       "title": "PKB Chin dobre na papierze. Wzrost najsłabszy od pandemii COVID-19",
       "content_html": "Chiński PKB wzrósł w ciągu minionego roku o 5 proc. – wynika z danych opublikowanych w poniedziałek przez chiński urząd statystyczny. Eksperci wymieniają jednak wewnętrzne problemy chińskiej gospodarki, takie jak słabszy popyt wewnętrzny...",
       "date_published": "2026-01-19T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-otrzymalo-protokol-ze-spotkania-z-FDA-w-sprawie-romacyklibu-RVU120-9070303.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-otrzymalo-protokol-ze-spotkania-z-FDA-w-sprawie-romacyklibu-RVU120-9070303.html",
-      "title": "Ryvu Therapeutics po spotkaniu z FDA ws. romacyklibu",
-      "content_html": "Ryvu Therapeutics otrzymało protokół ze spotkania Typu C z amerykańską Agencją Żywności i Leków (FDA) w sprawie romacyklibu (RVU120) - poinformowała spółka w komunikacie.",
-      "date_published": "2026-01-19T07:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miedz-podaza-teraz-za-zlotem-i-srebrem-Jej-notowania-rosna-o-ponad-procent-9070300.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miedz-podaza-teraz-za-zlotem-i-srebrem-Jej-notowania-rosna-o-ponad-procent-9070300.html",
-      "title": "Miedź podąża teraz za złotem i srebrem. Jej notowania rosną o ponad procent",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną o ponad 1 proc. i zbliżyły się do 13.000 USD za tonę - informują maklerzy.",
-      "date_published": "2026-01-19T07:44:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
