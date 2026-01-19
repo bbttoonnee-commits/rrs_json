@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-25-w-serwisie-Pracuj-pl-opublikowano-762-8-tys-ofert-pracy-liczba-aplikacji-wzrosla-o-5-proc-rdr-9070308.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-25-w-serwisie-Pracuj-pl-opublikowano-762-8-tys-ofert-pracy-liczba-aplikacji-wzrosla-o-5-proc-rdr-9070308.html",
+      "title": "Pracuj.pl w 2025 r.: 762,8 tys. ogłoszeń, wzrost aplikacji o 5% W 2025 r. w serwisie Pracuj.pl opublikowano 762,8 tys. ofert pracy - wynika z raportu Rynek Pracy Specjalistów. Liczba aktywnych klientów wyniosła 61.762, co jest rekordowym wynikiem, a liczba aplikacji w Pracuj.pl wzrosła rdr o 5 proc.",
+      "content_html": "",
+      "date_published": "2026-01-19T08:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-otrzymalo-protokol-ze-spotkania-z-FDA-w-sprawie-romacyklibu-RVU120-9070303.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-otrzymalo-protokol-ze-spotkania-z-FDA-w-sprawie-romacyklibu-RVU120-9070303.html",
+      "title": "Ryvu Therapeutics po spotkaniu z FDA ws. romacyklibu Ryvu Therapeutics otrzymało protokół ze spotkania Typu C z amerykańską Agencją Żywności i Leków (FDA) w sprawie romacyklibu (RVU120) - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-19T07:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Komitet-Staly-RM-uchyli-uchwale-rzadu-w-sprawie-wydzielenia-aktywow-weglowych-9070294.html",
+      "url": "https://www.bankier.pl/wiadomosc/Komitet-Staly-RM-uchyli-uchwale-rzadu-w-sprawie-wydzielenia-aktywow-weglowych-9070294.html",
+      "title": "Komitet Stały RM cofnie uchwałę o wydzieleniu aktywów węglowych Komitet Stały Rady Ministrów na posiedzeniu w czwartek uchyli uchwałę rządu z marca 2022 roku w sprawie wydzielenia aktywów węglowych ze spółek Skarbu Państwa - podano na stronie KPRM.",
+      "content_html": "",
+      "date_published": "2026-01-19T07:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-ma-umowe-z-peruwianskim-dystrybutorem-Sharp-Tech-9070282.html",
+      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-ma-umowe-z-peruwianskim-dystrybutorem-Sharp-Tech-9070282.html",
+      "title": "Medicalgorithmics i umowa z peruwiańskim dystrybutorem Sharp Tech Medicalgorithmics podpisał umowę z pierwszym partnerem z Ameryki Południowej – firmą Sharp Tech, peruwiańskim dystrybutorem oprogramowania i sprzętu medycznego - poinformowała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-01-19T06:56:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-121-6-mln-zl-najkorzystniejsza-w-przetargu-na-modernizacje-sieci-LAN-9070208.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-121-6-mln-zl-najkorzystniejsza-w-przetargu-na-modernizacje-sieci-LAN-9070208.html",
       "title": "Oferta Wasko za 121,6 mln zł najkorzystniejsza w przetargu na modernizację sieci LAN Oferta Wasko o łącznej wartości 121,6 mln zł brutto została uznana przez Naukową i Akademicką Sieć Komputerową - Państwowy Instytut Badawczy za najkorzystniejszą w przetargu na zaprojektowanie i wykonanie modernizacji sieci LAN w wybranych jednostkach oświatowych na terenie Polski.",
@@ -30,13 +58,6 @@
       "title": "Creepy Jar sprzedał na Steamie ponad pół miliona kopii gry StarRupture Creepy Jar w ciągu 11 dni od premiery sprzedał ponad 500 tys. kopii gry StarPupture na platformie Steam - poinformowała notowana na warszawskiej giełdzie spółka. Wartość sprzedaży brutto gry wyniosła ponad 8,7 mln USD.",
       "content_html": "",
       "date_published": "2026-01-17T12:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Warszawa-Wroclaw-w-1h-40m-Pierwszy-przetarg-na-KDP-i-miliardy-zlotych-na-stole-9068611.html",
-      "url": "https://www.bankier.pl/wiadomosc/Warszawa-Wroclaw-w-1h-40m-Pierwszy-przetarg-na-KDP-i-miliardy-zlotych-na-stole-9068611.html",
-      "title": "Warszawa-Wrocław w 1h 40m? Pierwszy przetarg na KDP i miliardy złotych na stole Ogłoszenie pierwszego w Polsce przetargu na budowę odcinka kolei dużych prędkości (KDP) oraz zapowiedź postępowań o łącznej wartości kilkudziesięciu miliardów złotych w 2026 roku oznaczają przejście...",
-      "content_html": "",
-      "date_published": "2026-01-17T08:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
