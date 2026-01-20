@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Aktualizacja-budzetow-kontraktow-zwiekszy-wynik-brutto-Trakcji-o-49-3-mln-zl-9071455.html",
+      "url": "https://www.bankier.pl/wiadomosc/Aktualizacja-budzetow-kontraktow-zwiekszy-wynik-brutto-Trakcji-o-49-3-mln-zl-9071455.html",
+      "title": "Aktualizacja budżetów kontraktów zwiększy wynik brutto Trakcji o 49,3 mln zł",
+      "content_html": "W czwartym kwartale 2025 roku łączny wpływ aktualizacji budżetów kontraktów na wynik brutto Trakcji wyniósł 49,3 mln zł - poinformowała budowlana spółka w komunikacie.",
+      "date_published": "2026-01-20T22:52:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sell-America-wraca-do-gry-Na-Wall-Street-najmocniejsze-spadki-od-pazdziernika-9071446.html",
       "url": "https://www.bankier.pl/wiadomosc/Sell-America-wraca-do-gry-Na-Wall-Street-najmocniejsze-spadki-od-pazdziernika-9071446.html",
       "title": "„Sell America” wraca do gry? Na Wall Street najmocniejsze spadki od października",
@@ -695,13 +702,6 @@
       "title": "Ceny miedzi w Londynie spadają wraz z notowaniami innych metali bazowych",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają, podobnie jak większości innych metali bazowych. Inwestorzy zastanawiają się nad możliwym spadkiem popytu na metale w Chinach - informują maklerzy.",
       "date_published": "2026-01-20T07:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-ceny-sie-wahaja-Trwa-kryzys-zwiazany-z-Grenlandia-9070914.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-ceny-sie-wahaja-Trwa-kryzys-zwiazany-z-Grenlandia-9070914.html",
-      "title": "Na rynkach ropy ceny się wahają. Trwa kryzys związany z Grenlandią",
-      "content_html": "Ropa naftowa notuje wahania cen w trakcie wtorkowego handlu. Trwa kryzys związany z przyszłością Grenlandii, a obawy o nadpodaż ropy na globalnych rynkach nie słabną - informują maklerzy.",
-      "date_published": "2026-01-20T07:51:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
