@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sell-America-wraca-do-gry-Na-Wall-Street-najmocniejsze-spadki-od-pazdziernika-9071446.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sell-America-wraca-do-gry-Na-Wall-Street-najmocniejsze-spadki-od-pazdziernika-9071446.html",
+      "title": "„Sell America” wraca do gry? Na Wall Street najmocniejsze spadki od października",
+      "content_html": "Reakcja nie ograniczyła się tylko do rynku akcji. Oberwało się też dolarowi i obligacjom skarbowym Wuja Sama.",
+      "date_published": "2026-01-20T22:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielton-rezygnuje-ze-wsparcia-projektu-dot-cyfryzacji-i-robotyzacji-procesow-produkcyjnych-9071414.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielton-rezygnuje-ze-wsparcia-projektu-dot-cyfryzacji-i-robotyzacji-procesow-produkcyjnych-9071414.html",
       "title": "Wielton rezygnuje ze wsparcia projektu dot. cyfryzacji i robotyzacji procesów produkcyjnych",
@@ -695,13 +702,6 @@
       "title": "Na rynkach ropy ceny się wahają. Trwa kryzys związany z Grenlandią",
       "content_html": "Ropa naftowa notuje wahania cen w trakcie wtorkowego handlu. Trwa kryzys związany z przyszłością Grenlandii, a obawy o nadpodaż ropy na globalnych rynkach nie słabną - informują maklerzy.",
       "date_published": "2026-01-20T07:51:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Status-Grenlandii-musi-byc-decyzja-Grenlandczykow-i-Danii-Odpowiedzi-na-grozby-Trumpa-9070865.html",
-      "url": "https://www.bankier.pl/wiadomosc/Status-Grenlandii-musi-byc-decyzja-Grenlandczykow-i-Danii-Odpowiedzi-na-grozby-Trumpa-9070865.html",
-      "title": "Status Grenlandii musi być decyzją \"Grenlandczyków i Danii\". Odpowiedzi UE na groźby Trumpa",
-      "content_html": "Duńskie siły zbrojne wysłały w poniedziałek kolejnych żołnierzy na Grenlandię, autonomiczne terytorium Danii, do którego roszczenia zgłasza prezydent Stanów Zjednoczonych Donald Trump. Przywódca USA odmówił odpowiedzi na pytanie, czy może...",
-      "date_published": "2026-01-20T07:49:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
