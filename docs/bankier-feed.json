@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bazooka-handlowa-Premier-Danii-ostro-o-amerykanskich-grozbach-9071271.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bazooka-handlowa-Premier-Danii-ostro-o-amerykanskich-grozbach-9071271.html",
+      "title": "\"Bazooka handlowa w mrocznych czasach\". Premier Danii ostro o amerykańskich groźbach",
+      "content_html": "Premier Danii Mette Frederiksen powiedziała we wtorek, że jej rząd „nie zamierza porzucić Grenlandii”. Na forum duńskiego parlamentu podkreśliła, że Kopenhaga zaproponuje trwałą obecność wojskową w Arktyce na wzór misji „Baltic Sentry”...",
+      "date_published": "2026-01-20T16:49:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Leyen-UE-stawia-na-sprawiedliwy-handel-zamiast-cel-i-izolacji-9071017.html",
+      "url": "https://www.bankier.pl/wiadomosc/Leyen-UE-stawia-na-sprawiedliwy-handel-zamiast-cel-i-izolacji-9071017.html",
+      "title": "Leyen: UE stawia na sprawiedliwy handel zamiast ceł i izolacji",
+      "content_html": "Umowa handlowa z Mercosurem wysyła jasny sygnał, że UE stawia na sprawiedliwy handel zamiast ceł i na partnerstwo zamiast izolacji - powiedziała we wtorek przewodnicząca Komisji Europejskiej Ursula von der Leyen. UE jest też gotowa podpisać z...",
+      "date_published": "2026-01-20T16:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Postawienie-w-stan-wymagalnosci-kredytow-nie-wplywa-na-restrukturyzacje-GA-Polyolefins-prezes-9071243.html",
+      "url": "https://www.bankier.pl/wiadomosc/Postawienie-w-stan-wymagalnosci-kredytow-nie-wplywa-na-restrukturyzacje-GA-Polyolefins-prezes-9071243.html",
+      "title": "Pekao stawia długi Polimerów Police w stan wymagalności. Grupa Azoty reaguje",
+      "content_html": "Postawienie przez banki w stan wymagalności wszystkich zobowiązań wynikających z umowy kredytowej i żądanie od GA Polyolefins ich wcześniejszej spłaty nie ma wpływu na plan restrukturyzacji tej spółki - ocenia prezes Grupy Azoty Andrzej Skolmowski...",
+      "date_published": "2026-01-20T16:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bessent-do-Europy-Wezcie-gleboki-oddech-Wojna-celna-to-najgorszy-scenariusz-9071253.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bessent-do-Europy-Wezcie-gleboki-oddech-Wojna-celna-to-najgorszy-scenariusz-9071253.html",
+      "title": "Bessent do Europy: Weźcie głęboki oddech. Wojna celna to najgorszy scenariusz",
+      "content_html": "Minister finansów USA Scott Bessent poradził państwom europejskim we wtorek, by „wzięły głęboki oddech” i nie odpowiadały odwetem na zapowiedź nałożenia nowych ceł przez USA. Minister uzasadniał też chęć pozyskania Grenlandii, wskazując...",
+      "date_published": "2026-01-20T16:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Macron-oskarza-Stany-Zjednoczone-o-nieczysta-gre-Celem-USA-jest-oslabienie-Europy-9071189.html",
       "url": "https://www.bankier.pl/wiadomosc/Macron-oskarza-Stany-Zjednoczone-o-nieczysta-gre-Celem-USA-jest-oslabienie-Europy-9071189.html",
       "title": "Macron oskarża Stany Zjednoczone o nieczystą grę: Celem USA jest osłabienie Europy i jej wasalizacja",
@@ -184,13 +212,6 @@
       "title": "Cztery filary bezpiecznej uczelni. Jak zmienią się polskie uniwersytety?",
       "content_html": "Policja będzie w stałej współpracy uczelniami. Będzie służyć radą, wsparciem i twardą interwencją, gdy będzie to niezbędne – powiedział we wtorek szef MSWiA Marcin Kierwiński podczas podpisania porozumienia między resortami spraw wewnętrznych...",
       "date_published": "2026-01-20T12:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Leyen-UE-stawia-na-sprawiedliwy-handel-zamiast-cel-i-izolacji-9071017.html",
-      "url": "https://www.bankier.pl/wiadomosc/Leyen-UE-stawia-na-sprawiedliwy-handel-zamiast-cel-i-izolacji-9071017.html",
-      "title": "Leyen: UE stawia na sprawiedliwy handel zamiast ceł i izolacji",
-      "content_html": "Umowa handlowa z Mercosurem wysyła jasny sygnał, że UE stawia na sprawiedliwy handel zamiast ceł i na partnerstwo zamiast izolacji - powiedziała we wtorek przewodnicząca Komisji Europejskiej Ursula von der Leyen. UE jest też gotowa podpisać z...",
-      "date_published": "2026-01-20T12:29:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Niemcy-cofaja-obietnice-Rzad-kanclerza-Merza-zablokowal-wjazd-dla-1000-Afganczykow-9071050.html",
@@ -415,6 +436,20 @@
       "title": "Napoje 0% i energetyki mocno zdrożeją. Resort finansów planuje rewolucję w VAT",
       "content_html": "Ministerstwo Finansów chce podnieść VAT na napoje bezalkoholowe będące odpowiednikami alkoholowych oraz tzw. energetyki. Zmiana ma wejść w życie jeszcze w tym roku. Rzecznik MŚP ostrzega, że zmiana uderzy przede wszystkim w małe sklepy, gastronomię...",
       "date_published": "2026-01-20T08:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wlochy-Najwyzszy-stopien-alertu-pogodowego-na-duzym-obszarze-Sycylii-9070853.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wlochy-Najwyzszy-stopien-alertu-pogodowego-na-duzym-obszarze-Sycylii-9070853.html",
+      "title": "Cyklon Harry uderza w Sycylię. Burmistrzowie zamykają szkoły i obiekty publiczne",
+      "content_html": "Najwyższy stopień alertu pogodowego ogłoszono dla Sycylii w związku z prognozowaną falą ekstremalnych zjawisk, jakie ma przynieść cyklon Harry. W 150 miastach i miejscowościach na wyspie we wtorek będą zamknięte szkoły. Władze apelują do...",
+      "date_published": "2026-01-20T08:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tyle-proc-Polakow-chce-sprowadzenia-Zbigniewa-Ziobry-przed-sad-9070905.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tyle-proc-Polakow-chce-sprowadzenia-Zbigniewa-Ziobry-przed-sad-9070905.html",
+      "title": "Tyle proc. Polaków chce sprowadzenia Zbigniewa Ziobry przed sąd",
+      "content_html": "52 proc. ankietowanych popiera działania rządu zmierzające do sprowadzenia do Polski Zbigniewa Ziobry i postawienia go przed sądem - wynika z sondażu Opinia 24 przeprowadzonego na zlecenie RMF FM.",
+      "date_published": "2026-01-20T08:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kijow-zamarza-przy-14-stopniach-Ponad-5-6-tys-domow-bez-ogrzewania-po-ataku-Rosji-9070913.html",
@@ -667,34 +702,6 @@
       "title": "Sejm dla prawicy. PiS z Konfederacją i Braunem zgarniają ponad 47 procent",
       "content_html": "Gdyby wybory odbyły się w najbliższą niedzielę, Koalicja Obywatelska mogłaby liczyć na 31,8 proc. poparcia, PiS na 26,2 proc., a Konfederacja na 14 proc. - wynika z sondażu United Surveys dla wp.pl. Do Sejmu weszłyby jeszcze Konfederacja Korony...",
       "date_published": "2026-01-19T18:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-Boryszewa-ze-zgoda-na-budowe-instalacji-termicznego-przeksztalcania-odpadow-niebezpiecznych-9070732.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-Boryszewa-ze-zgoda-na-budowe-instalacji-termicznego-przeksztalcania-odpadow-niebezpiecznych-9070732.html",
-      "title": "Spółka Boryszewa ze zgodą na budowę instalacji termicznego przekształcania odpadów niebezpiecznych",
-      "content_html": "Zarząd Zakładu Utylizacji Odpadów, spółki zależnej Boryszewa, uzyskał decyzję w sprawie zatwierdzenia projektu budowlanego dla budowy instalacji termicznego przekształcania odpadów, planowanej do realizacji w Koninie - podała spółka w komunikacie...",
-      "date_published": "2026-01-19T18:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-nie-dostanie-czeskich-mysliwcow-Premier-Babisz-samoloty-nie-sa-dostepne-9070719.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-nie-dostanie-czeskich-mysliwcow-Premier-Babisz-samoloty-nie-sa-dostepne-9070719.html",
-      "title": "Ukraina nie dostanie czeskich myśliwców. Premier Babisz: samoloty nie są dostępne",
-      "content_html": "Czechy nie będą sprzedawać lub przekazywać Ukrainie lekkich myśliwców do walki z dronami - oświadczył w poniedziałek premier Andrej Babisz. Deklaracja padła trzy dni po tym, gdy prezydent Czech Petr Pavel zapowiedział w Kijowie, że Ukraina...",
-      "date_published": "2026-01-19T18:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podpis-czy-Trybunal-Konstytucyjny-Przydacz-Prezydent-zdecyduje-ws-budzetu-w-poniedzialek-9070706.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podpis-czy-Trybunal-Konstytucyjny-Przydacz-Prezydent-zdecyduje-ws-budzetu-w-poniedzialek-9070706.html",
-      "title": "Podpis czy Trybunał Konstytucyjny? Przydacz: Prezydent zdecyduje ws. budżetu w poniedziałek",
-      "content_html": "W poniedziałek prezydent Karol Nawrocki podejmie decyzję ws. ustawy budżetowej na 2026 r. - zapowiedział szef Biura Polityki Międzynarodowej w kancelarii prezydenta Marcin Przydacz. Dodał, że decyzja zostanie zakomunikowana niebawem.",
-      "date_published": "2026-01-19T18:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-leci-do-Davos-Na-agendzie-bezpieczenstwo-i-promocja-Trojmorza-9070709.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-leci-do-Davos-Na-agendzie-bezpieczenstwo-i-promocja-Trojmorza-9070709.html",
-      "title": "Nawrocki leci do Davos. Na agendzie bezpieczeństwo i promocja Trójmorza",
-      "content_html": "Prezydent Karol Nawrocki udaje się na Światowe Forum Ekonomiczne w Davos. Szef BPM Marcin Przydacz zaznaczył przed wylotem do Szwajcarii, że Forum będzie okazją m.in. do szeregu kuluarowych spotkań z ważnymi postaciami światowej polityki i biznesu...",
-      "date_published": "2026-01-19T17:52:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
