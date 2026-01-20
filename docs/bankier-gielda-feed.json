@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-i-Equinor-odkryli-zloze-gazu-na-Morzu-Polnocnym-9070946.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-i-Equinor-odkryli-zloze-gazu-na-Morzu-Polnocnym-9070946.html",
+      "title": "Orlen i Equinor odkryli złoże gazu na Morzu Północnym Orlen Upstream Norway wspólnie z Equinor odkryli nowe zasoby gazu ziemnego na Norweskim Szelfie Kontynentalnym. Wielkość złoża, nazwanego Sissel, pozwoli koncernowi wydobyć i przesłać do Polski prawie miliard metrów sześciennych gazu - podał Orlen w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-01-20T11:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-PKO-BP-powolalo-do-rady-nadzorczej-Grzegorza-Mazurka-9070990.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-PKO-BP-powolalo-do-rady-nadzorczej-Grzegorza-Mazurka-9070990.html",
       "title": "NWZ PKO BP powołało do rady nadzorczej Grzegorza Mazurka Wtorkowe nadzwyczajne walne zgromadzenie PKO BP powołało w skład rady nadzorczej banku Grzegorza Mazurka. Został on wcześniej zgłoszony na to stanowisko przez Skarb Państwa.",
@@ -30,13 +37,6 @@
       "title": "Nowojorska giełda sięga po tokenizowane akcje. Handel całą dobę już wkrótce? Właściciel New York Stock Exchange (NYSE) stworzył platformę do handlu tokenizowanymi akcjami, która wystartuje po uzyskaniu zgody od regulatorów, umożliwiając całodobowy handel papierami wartościowymi amerykańskich spółek i natychmiastowe rozliczenia z wykorzystaniem stablecoinów.",
       "content_html": "",
       "date_published": "2026-01-20T09:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-i-Equinor-odkryli-zloze-gazu-na-Morzu-Polnocnym-9070946.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-i-Equinor-odkryli-zloze-gazu-na-Morzu-Polnocnym-9070946.html",
-      "title": "Orlen i Equinor odkryli złoże gazu na Morzu Północnym Orlen Upstream Norway wspólnie z Equinor odkryli nowe zasoby gazu ziemnego na Norweskim Szelfie Kontynentalnym. Wielkość złoża, nazwanego Sissel, pozwoli koncernowi wydobyć i przesłać do Polski prawie miliard metrów sześciennych gazu - podał Orlen w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-01-20T09:10:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-bedzie-negocjowal-z-BioFund-ws-zmiany-warunkow-pozyczki-i-jej-konwersji-na-akcje-9070942.html",
