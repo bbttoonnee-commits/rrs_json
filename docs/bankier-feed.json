@@ -4,11 +4,74 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-KGHM-powolalo-nowych-czlonkow-rady-nadzorczej-spolki-9071062.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-KGHM-powolalo-nowych-czlonkow-rady-nadzorczej-spolki-9071062.html",
+      "title": "NWZ KGHM powołało nowych członków rady nadzorczej spółki",
+      "content_html": "Nadzwyczajne Walne Zgromadzenie KGHM Polska Miedź powołało we wtorek czterech nowych członków rady nadzorczej.",
+      "date_published": "2026-01-20T12:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cztery-filary-bezpiecznej-uczelni-Jak-zmienia-sie-polskie-uniwersytety-9071033.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cztery-filary-bezpiecznej-uczelni-Jak-zmienia-sie-polskie-uniwersytety-9071033.html",
+      "title": "Cztery filary bezpiecznej uczelni. Jak zmienią się polskie uniwersytety?",
+      "content_html": "Policja będzie w stałej współpracy uczelniami. Będzie służyć radą, wsparciem i twardą interwencją, gdy będzie to niezbędne – powiedział we wtorek szef MSWiA Marcin Kierwiński podczas podpisania porozumienia między resortami spraw wewnętrznych...",
+      "date_published": "2026-01-20T12:31:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Leyen-UE-stawia-na-sprawiedliwy-handel-zamiast-cel-i-izolacji-9071017.html",
       "url": "https://www.bankier.pl/wiadomosc/Leyen-UE-stawia-na-sprawiedliwy-handel-zamiast-cel-i-izolacji-9071017.html",
       "title": "Leyen: UE stawia na sprawiedliwy handel zamiast ceł i izolacji",
       "content_html": "Umowa handlowa z Mercosurem wysyła jasny sygnał, że UE stawia na sprawiedliwy handel zamiast ceł i na partnerstwo zamiast izolacji - powiedziała we wtorek przewodnicząca Komisji Europejskiej Ursula von der Leyen. UE jest też gotowa podpisać z...",
-      "date_published": "2026-01-20T11:46:00+01:00"
+      "date_published": "2026-01-20T12:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dyscyplinarka-w-SOP-Komendant-zawieszony-po-kontroli-MSWiA-9071038.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dyscyplinarka-w-SOP-Komendant-zawieszony-po-kontroli-MSWiA-9071038.html",
+      "title": "Dyscyplinarka w SOP. Komendant zawieszony po kontroli MSWiA",
+      "content_html": "Wszczęto postępowanie dyscyplinarne wobec komendanta SOP gen. bryg. Radosława Jaworskiego. W związku z tym został on zawieszony w pełnieniu czynności służbowych - poinformowało we wtorek Ministerstwo Spraw Wewnętrznych i Administracji.",
+      "date_published": "2026-01-20T12:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Moldawia-zjednoczy-sie-z-Rumunia-Lawrow-Zniszczyloby-to-jej-panstwowosc-9071047.html",
+      "url": "https://www.bankier.pl/wiadomosc/Moldawia-zjednoczy-sie-z-Rumunia-Lawrow-Zniszczyloby-to-jej-panstwowosc-9071047.html",
+      "title": "Mołdawia zjednoczy się z Rumunią? Ławrow: Zniszczyłoby to jej państwowość",
+      "content_html": "Przeprowadzenie referendum w sprawie ewentualnego przyłączenia Mołdawii do Rumunii byłoby destrukcyjne dla mołdawskiej państwowości - oświadczył we wtorek rosyjski minister spraw zagranicznych Siergiej Ławrow. Wcześniej zjednoczenie Moldawii...",
+      "date_published": "2026-01-20T12:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cla-lewarem-na-Europe-Amerykanie-chca-grozba-wymusic-ustepstwa-9070852.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cla-lewarem-na-Europe-Amerykanie-chca-grozba-wymusic-ustepstwa-9070852.html",
+      "title": "Cła lewarem na Europę. Amerykanie chcą groźbą wymusić ustępstwa",
+      "content_html": "Prezydent USA Donald Trump nasila agresywną retorykę w sprawie aneksji Grenlandii i nie wyklucza użycia środków militarnych, lecz wielu jego doradców jest ostrożnych co do takiego kroku. Wolą, by prezydent wykorzystał groźbę nałożenia ceł...",
+      "date_published": "2026-01-20T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tajwan-szykuje-sie-na-chinska-agresje-40-miliardow-dolarow-na-armie-dronow-i-systemy-AI-9071035.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajwan-szykuje-sie-na-chinska-agresje-40-miliardow-dolarow-na-armie-dronow-i-systemy-AI-9071035.html",
+      "title": "Tajwan szykuje się na chińską agresję. 40 miliardów dolarów na armię dronów i systemy AI",
+      "content_html": "W ramach wartego 40 mld USD specjalnego budżetu obronnego ministerstwo obrony Tajwanu planuje zakup ponad 200 tys. dronów, dziesiątków systemów HIMARS i haubic - podał we wtorek dziennik „Taipei Times”. Resort stawia na budowę systemu obrony...",
+      "date_published": "2026-01-20T11:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-Davos-zabraknie-Ukrainy-Chyba-ze-Zelenski-bedzie-mogl-spotkac-sie-z-Trumpem-9071030.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Davos-zabraknie-Ukrainy-Chyba-ze-Zelenski-bedzie-mogl-spotkac-sie-z-Trumpem-9071030.html",
+      "title": "W Davos zabraknie Ukrainy. Chyba że Zełenski będzie mógł spotkać się z Trumpem",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski nie podjął jeszcze decyzji w sprawie udziału w Forum Ekonomicznym w Davos. Wyjazd Zełenskiego do Szwajcarii byłby możliwy, gdyby miało dojść do jego spotkania z prezydentem USA Donaldem Trumpem – poinformowała...",
+      "date_published": "2026-01-20T11:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Solaris-z-kontraktem-w-Szwajcarii-Dostarczy-do-115-autobusow-elektrycznych-9071027.html",
+      "url": "https://www.bankier.pl/wiadomosc/Solaris-z-kontraktem-w-Szwajcarii-Dostarczy-do-115-autobusow-elektrycznych-9071027.html",
+      "title": "Solaris z kontraktem w Szwajcarii. Dostarczy do 115 autobusów elektrycznych",
+      "content_html": "Szwajcarski przewoźnik PostAuto oraz Solaris Bus & Coach podpisali umowę ramową na dostawę do 115 autobusów elektrycznych - podał Solaris w komunikacie prasowym. W ramach tej umowy PostAuto będzie zamawiało autobusy do różnych miast w Szwajcarii...",
+      "date_published": "2026-01-20T11:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wietnam-idzie-droga-Chin-To-Lam-kumuluje-wladze-i-uderza-w-urzednikow-9071023.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wietnam-idzie-droga-Chin-To-Lam-kumuluje-wladze-i-uderza-w-urzednikow-9071023.html",
+      "title": "Wietnam idzie drogą Chin. To Lam kumuluje władzę i uderza w urzędników",
+      "content_html": "Przywódca Wietnamu To Lam otworzył we wtorek w Hanoi zjazd Komunistycznej Partii Wietnamu (KPW), deklarując kontynuację kampanii antykorupcyjnej. Sekretarz generalny, dążący do skupienia w swym ręku niespotykanej dotąd władzy, podkreślił,...",
+      "date_published": "2026-01-20T11:38:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojskowe-drony-od-Renault-Ruszy-produkcja-wraz-z-Turgis-Gaillard-9071019.html",
@@ -277,6 +340,13 @@
       "date_published": "2026-01-20T07:38:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-Nie-sadze-by-Europejczycy-sie-zbytnio-opierali-w-sprawie-Grenlandii-9070903.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Nie-sadze-by-Europejczycy-sie-zbytnio-opierali-w-sprawie-Grenlandii-9070903.html",
+      "title": "Trump: Nie sądzę, by Europejczycy się zbytnio opierali w sprawie Grenlandii",
+      "content_html": "Prezydent USA Donald Trump oświadczył w poniedziałek, że nie sądzi, by europejscy przywódcy stawili zbyt duży opór jego staraniom o przejęcie Grenlandii. Zagroził też prezydentowi Francji Emmanuelowi Macronowi wprowadzeniem 200 proc. ceł na...",
+      "date_published": "2026-01-20T07:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Waska-specjalizacja-kluczem-do-sukcesu-Liczba-sklepow-w-Polsce-wzrosla-pierwszy-raz-od-2008-roku-9070858.html",
       "url": "https://www.bankier.pl/wiadomosc/Waska-specjalizacja-kluczem-do-sukcesu-Liczba-sklepow-w-Polsce-wzrosla-pierwszy-raz-od-2008-roku-9070858.html",
       "title": "Wąska specjalizacja kluczem do sukcesu? Liczba sklepów w Polsce wzrosła pierwszy raz od 2008 roku",
@@ -473,27 +543,6 @@
       "date_published": "2026-01-19T18:03:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-leci-do-Davos-Na-agendzie-bezpieczenstwo-i-promocja-Trojmorza-9070709.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-leci-do-Davos-Na-agendzie-bezpieczenstwo-i-promocja-Trojmorza-9070709.html",
-      "title": "Nawrocki leci do Davos. Na agendzie bezpieczeństwo i promocja Trójmorza",
-      "content_html": "Prezydent Karol Nawrocki udaje się na Światowe Forum Ekonomiczne w Davos. Szef BPM Marcin Przydacz zaznaczył przed wylotem do Szwajcarii, że Forum będzie okazją m.in. do szeregu kuluarowych spotkań z ważnymi postaciami światowej polityki i biznesu...",
-      "date_published": "2026-01-19T17:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-uzyja-sily-by-zajac-Grenlandie-Trump-odmawia-komentarza-ale-potwierdza-cla-9070708.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-uzyja-sily-by-zajac-Grenlandie-Trump-odmawia-komentarza-ale-potwierdza-cla-9070708.html",
-      "title": "USA użyją siły, by zająć Grenlandię? Trump odmawia komentarza, ale potwierdza cła",
-      "content_html": "Prezydent USA Donald Trump odmówił w poniedziałek odpowiedzi na pytanie, czy może użyć siły do zajęcia Grenlandii. Zapowiedział jednak, że „na 100 procent” nałoży cła na państwa europejskie, które wysłały wojska na wyspę i polecił...",
-      "date_published": "2026-01-19T17:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-obok-Putina-i-Lukaszenki-Trump-zaprosil-prezydenta-do-Rady-Pokoju-9070696.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-obok-Putina-i-Lukaszenki-Trump-zaprosil-prezydenta-do-Rady-Pokoju-9070696.html",
-      "title": "Nawrocki obok Putina i Łukaszenki? Trump zaprosił prezydenta do Rady Pokoju",
-      "content_html": "Prezydent Karol Nawrocki otrzymał od prezydenta Donalda Trumpa zaproszenie do udziału pracach Rady Pokoju - poinformował szef prezydenckiego BPM Marcin Przydacz. Będzie to przedmiotem rozmów ze stroną amerykańską w najbliższym czasie - dodał...",
-      "date_published": "2026-01-19T17:22:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/USA-przestrzega-Europe-przed-celnym-odwetem-Bessent-Byloby-to-bardzo-nierozsadne-9070688.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-przestrzega-Europe-przed-celnym-odwetem-Bessent-Byloby-to-bardzo-nierozsadne-9070688.html",
       "title": "USA przestrzega Europę przed celnym odwetem. Bessent: Byłoby to bardzo nierozsądne",
@@ -632,69 +681,6 @@
       "title": "Zwolnienia grupowe w Agorze. Z pracą pożegna się ponad 100 osób",
       "content_html": "Spółki zależne Agory, Wyborcza, Gazeta.pl oraz Eurozet Consulting zawarły porozumienia ze związkiem zawodowym działającym przy spółkach oraz, w przypadku Wyborczej, przy udziale Rady Pracowników oraz podjęły uchwały o przeprowadzeniu zwolnień...",
       "date_published": "2026-01-19T14:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jednolity-rynek-nie-taki-jednolity-KE-Nalozenie-cel-na-wybrane-panstwa-technicznie-mozliwe-9070562.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jednolity-rynek-nie-taki-jednolity-KE-Nalozenie-cel-na-wybrane-panstwa-technicznie-mozliwe-9070562.html",
-      "title": "Jednolity rynek nie taki jednolity? KE: Nałożenie ceł na wybrane państwa technicznie możliwe",
-      "content_html": "Rzecznik Komisji Europejskiej Olof Gill poinformował w poniedziałek w Brukseli, że mimo jednolitego rynku nałożenie ceł na wybrane państwa UE jest technicznie możliwe, ale niezwykle skomplikowane pod względem biurokratycznym i proceduralnym.",
-      "date_published": "2026-01-19T14:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Musk-chce-kupic-Ryanaira-Miliarder-o-O-Leary-To-skonczony-idiota-9070505.html",
-      "url": "https://www.bankier.pl/wiadomosc/Musk-chce-kupic-Ryanaira-Miliarder-o-O-Leary-To-skonczony-idiota-9070505.html",
-      "title": "Musk Air zamiast Ryanaira? Miliarder o szefie linii lotniczych: To skończony idiota",
-      "content_html": "Nikt nie prosił, każdy potrzebował. Elon Musk i Michael O'Leary stanęli do pojedynku słownego, wymieniając się ciosami na X. Miliarder tak się zacietrzewił, że rozważa nawet przejęcie Ryanair Holding. Zaczęło się niewinnie - od pomysłu...",
-      "date_published": "2026-01-19T14:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanie-uderza-na-Grenlandie-Starmer-Nie-sadze-9070546.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanie-uderza-na-Grenlandie-Starmer-Nie-sadze-9070546.html",
-      "title": "Amerykanie uderzą na Grenlandię? Starmer: Nie sądzę",
-      "content_html": "Brytyjski premier Keir Starmer powiedział w poniedziałek, że nie sądzi, by amerykański prezydent Donald Trump rozważał działania militarne wobec Grenlandii. W sobotę Trump zagroził nałożeniem ceł na kraje sprzeciwiające się planom USA dotyczącym...",
-      "date_published": "2026-01-19T14:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-ma-NATO-bez-USA-i-potegi-USA-bez-NATO-Szef-MON-Nikomu-nie-oplaca-sie-oslabianie-9070538.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-ma-NATO-bez-USA-i-potegi-USA-bez-NATO-Szef-MON-Nikomu-nie-oplaca-sie-oslabianie-9070538.html",
-      "title": "Nie ma NATO bez USA i potęgi USA bez NATO. Szef MON: Nikomu nie opłaca się osłabianie",
-      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz stwierdził, że jest spokojny o przyszłość Sojuszu Północnoatlantyckiego. - Nie ma NATO bez Stanów Zjednoczonych i nie ma potęgi USA bez ich obecności w NATO - powiedział, pytany o spór ws...",
-      "date_published": "2026-01-19T14:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Robyg-w-2025-r-sprzedala-ponad-2-570-lokali-9070537.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Robyg-w-2025-r-sprzedala-ponad-2-570-lokali-9070537.html",
-      "title": "Grupa Robyg w 2025 r. sprzedała ponad 2.570 lokali",
-      "content_html": "Grupa Robyg w 2025 r. sprzedała ponad 2.570 lokali - podał Robyg w komunikacie prasowym. Grupa z optymizmem patrzy na 2026 r. i oczekuje, że stabilizacja stóp procentowych oraz poprawa dostępności kredytów mieszkaniowych będą wspierały popyt...",
-      "date_published": "2026-01-19T14:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-Intercity-z-rekordem-W-rok-przewiozlo-blisko-90-mln-pasazerow-9070536.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-Intercity-z-rekordem-W-rok-przewiozlo-blisko-90-mln-pasazerow-9070536.html",
-      "title": "PKP Intercity z rekordem. W rok przewiozło blisko 90 mln pasażerów",
-      "content_html": "W 2025 r. z usług PKP Intercity skorzystało 89,2 mln pasażerów, o 13 proc. więcej w porównaniu z 2024 r. i o 31 proc. wobec 2023 r. - poinformował przewoźnik w poniedziałkowym komunikacie. Rekordowym miesiącem ub.r. był sierpień, gdy pociągami...",
-      "date_published": "2026-01-19T14:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Domanski-MF-nie-planuje-wstrzymywac-OKI-9070533.html",
-      "url": "https://www.bankier.pl/wiadomosc/Domanski-MF-nie-planuje-wstrzymywac-OKI-9070533.html",
-      "title": "Domański: MF nie planuje wstrzymywać OKI. \"Polacy mają za mało akcji\"",
-      "content_html": "Resort finansów nie planuje wstrzymywać programu Osobistych Kont Inwestycyjnych (OKI) - poinformował minister finansów i gospodarki Andrzej Domański.",
-      "date_published": "2026-01-19T14:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zbigniew-Derdziuk-wezwany-do-dymisji-Zwiazkowcy-w-ZUS-mowia-o-zlamaniu-prawa-9070495.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbigniew-Derdziuk-wezwany-do-dymisji-Zwiazkowcy-w-ZUS-mowia-o-zlamaniu-prawa-9070495.html",
-      "title": "Prezes ZUS wezwany do dymisji. Związkowcy mówią o złamaniu prawa",
-      "content_html": "Prezes ZUS złamał prawo? Związek Zawodowy Związkowa Alternatywa w Zakładzie Ubezpieczeń Społecznych wnioskuje o natychmiastową dymisję Zbigniewa Derdziuka. Powodem jest równoczesne pełnienie funkcji przewodniczącego rady nadzorczej w RELPOL...",
-      "date_published": "2026-01-19T13:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Davos-bez-Danii-Rzad-rezygnuje-z-udzialu-w-zwiazku-ze-sporem-wokol-Grenlandii-9070502.html",
-      "url": "https://www.bankier.pl/wiadomosc/Davos-bez-Danii-Rzad-rezygnuje-z-udzialu-w-zwiazku-ze-sporem-wokol-Grenlandii-9070502.html",
-      "title": "Davos bez Danii. Rząd rezygnuje z udziału w związku ze sporem wokół Grenlandii",
-      "content_html": "W związku z narastającym sporem wokół Grenlandii przedstawiciele rządu Danii postanowili nie brać udziału w zaplanowanym na ten tydzień Światowym Forum Ekonomicznym w Davos - podała w poniedziałek agencja Bloomberga.",
-      "date_published": "2026-01-19T13:41:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
