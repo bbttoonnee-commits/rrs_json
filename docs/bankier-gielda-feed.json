@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wielton-rezygnuje-ze-wsparcia-projektu-dot-cyfryzacji-i-robotyzacji-procesow-produkcyjnych-9071414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielton-rezygnuje-ze-wsparcia-projektu-dot-cyfryzacji-i-robotyzacji-procesow-produkcyjnych-9071414.html",
+      "title": "Wielton rezygnuje ze wsparcia projektu dot. cyfryzacji i robotyzacji procesów produkcyjnych Zarząd Wieltonu podjął decyzję o rezygnacji ze wsparcia projektu dot. cyfryzacji i robotyzacji procesów produkcyjnych i wniósł o rozwiązanie umowy zawartej ze Skarbem Państwa - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-20T21:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pekabex-wybuduje-akademik-w-Gdansku-9071341.html",
       "url": "https://www.bankier.pl/wiadomosc/Pekabex-wybuduje-akademik-w-Gdansku-9071341.html",
       "title": "Pekabex wybuduje akademik w Gdańsku Pekabex wybuduje akademik w Gdańsku - podała spółka w komunikacie prasowym. Inwestycja obejmuje obiekt dla 517 najemców z częścią usługową oraz pełną infrastrukturą towarzyszącą.",
@@ -380,13 +387,6 @@
       "title": "Medicalgorithmics i umowa z peruwiańskim dystrybutorem Sharp Tech Medicalgorithmics podpisał umowę z pierwszym partnerem z Ameryki Południowej – firmą Sharp Tech, peruwiańskim dystrybutorem oprogramowania i sprzętu medycznego - poinformowała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-01-19T06:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-121-6-mln-zl-najkorzystniejsza-w-przetargu-na-modernizacje-sieci-LAN-9070208.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-121-6-mln-zl-najkorzystniejsza-w-przetargu-na-modernizacje-sieci-LAN-9070208.html",
-      "title": "Oferta Wasko za 121,6 mln zł najkorzystniejsza w przetargu na modernizację sieci LAN Oferta Wasko o łącznej wartości 121,6 mln zł brutto została uznana przez Naukową i Akademicką Sieć Komputerową - Państwowy Instytut Badawczy za najkorzystniejszą w przetargu na zaprojektowanie i wykonanie modernizacji sieci LAN w wybranych jednostkach oświatowych na terenie Polski.",
-      "content_html": "",
-      "date_published": "2026-01-18T19:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
