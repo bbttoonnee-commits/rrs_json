@@ -11,6 +11,13 @@
       "date_published": "2026-01-22T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-AB-miala-37-7-mln-zl-zysku-netto-w-IV-kwartale-powyzej-konsensusu-9072192.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-AB-miala-37-7-mln-zl-zysku-netto-w-IV-kwartale-powyzej-konsensusu-9072192.html",
+      "title": "Grupa AB miała 37,7 mln zł zysku netto w IV kwartale, powyżej konsensusu",
+      "content_html": "Grupa AB w czwartym kwartale roku obrotowego 2024/25 (zakończonego 30 września 2025 roku) zanotowała zysk netto na poziomie 37,7 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu dystrybutora sprzętu IT. Wynik jest lepszy od oczekiwań...",
+      "date_published": "2026-01-22T00:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-wycofuje-sie-z-cel-na-Europe-Wall-Street-odrabia-straty-9072171.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-wycofuje-sie-z-cel-na-Europe-Wall-Street-odrabia-straty-9072171.html",
       "title": "Trump wycofuje się z ceł na Europę. Wall Street odrabia straty",
@@ -695,13 +702,6 @@
       "title": "Benjamin Netanjahu przyjął zaproszenie do Rady Pokoju",
       "content_html": "Premier Izraela Benjamin Netanjahu przyjął zaproszenie prezydenta USA Donalda Trumpa do dołączenia do Rady Pokoju - przekazała w środę agencja Reutera, powołując się na komunikat kancelarii szefa izraelskiego rządu.",
       "date_published": "2026-01-21T08:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Francja-prosi-o-cwiczenia-NATO-na-Grenlandii-9071549.html",
-      "url": "https://www.bankier.pl/wiadomosc/Francja-prosi-o-cwiczenia-NATO-na-Grenlandii-9071549.html",
-      "title": "Francja prosi o ćwiczenia NATO na Grenlandii",
-      "content_html": "Pałac Elizejski poinformował w środę, że Francja zwraca się o zorganizowanie ćwiczeń NATO na Grenlandii i jest gotowa wnieść w nie swój wkład. Informację tę przekazały francuskie media, powołując się na kancelarię prezydenta.",
-      "date_published": "2026-01-21T08:09:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
