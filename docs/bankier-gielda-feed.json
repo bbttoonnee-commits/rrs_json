@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dekpol-sprzedal-w-2025-r-666-lokali-9071918.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dekpol-sprzedal-w-2025-r-666-lokali-9071918.html",
+      "title": "Dekpol sprzedał w 2025 r. 666 lokali Grupa Dekpol sprzedała w 2025 roku 666 lokali, rozpozna w wyniku finansowym tego okresu 665 lokali - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-21T16:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bogdanka-szacuje-ze-w-25-miala-543-1-mln-zl-EBITDA-i-263-8-mln-zl-zysku-netto-9071800.html",
       "url": "https://www.bankier.pl/wiadomosc/Bogdanka-szacuje-ze-w-25-miala-543-1-mln-zl-EBITDA-i-263-8-mln-zl-zysku-netto-9071800.html",
       "title": "Bogdanka: 543 mln zł EBITDA, 264 mln zł zysku netto Grupa Bogdanka szacuje, że w 2025 roku miała 543,1 mln zł EBITDA i 263,8 mln zł zysku netto - podała spółka w komunikacie. Produkcja węgla handlowego w omawianym okresie wyniosła 7,57 mln ton, a sprzedaż 7,65 mln ton.",
@@ -90,7 +97,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Analiza-udzialow-OFE-w-akcjonariatach-spolek-z-GPW-Instytucjonalne-smart-money-przemeblowalo-portfele-w-2025-roku-9071259.html",
       "url": "https://www.bankier.pl/wiadomosc/Analiza-udzialow-OFE-w-akcjonariatach-spolek-z-GPW-Instytucjonalne-smart-money-przemeblowalo-portfele-w-2025-roku-9071259.html",
-      "title": "Analiza udziałów OFE w spółkach z GPW. Jak ABB napędzało zakupy w 2025 r. Otwarte Fundusze Emerytalne (OFE) pozostają jednymi z kluczowych graczy instytucjonalnych na warszawskim parkiecie, a ich decyzje inwestycyjne są wnikliwie śledzone jako wskaźnik nastrojów rynkowych. Analizy zmian w akcjonariatach spółek z głównych indeksów GPW pokazują kilka zaskakujących przetasowań i odwrotów od niektórych sektorów.",
+      "title": "OFE uciekają z tych spółek. Gracze zmienili strategię na 2026 rok Otwarte Fundusze Emerytalne (OFE) pozostają jednymi z kluczowych graczy instytucjonalnych na warszawskim parkiecie, a ich decyzje inwestycyjne są wnikliwie śledzone jako wskaźnik nastrojów rynkowych. Analizy zmian w akcjonariatach spółek z głównych indeksów GPW pokazują kilka zaskakujących przetasowań i odwrotów od niektórych sektorów.",
       "content_html": "",
       "date_published": "2026-01-21T06:00:00+01:00"
     },
@@ -310,13 +317,6 @@
       "title": "INC PE zawarł umowę nabycia od Biofund 2,1 mln sztuk akcji Medicalgorithmics INC Private Equity ASI zawarł umowę nabycia od Biofund Capital Management LLC 2,1 mln sztuk akcji Medicalgorithmics za cenę 32,50 zł za jedną akcję (łącznie 68,9 mln zł) - podał INC Private Equity ASI w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-19T16:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gazprom-i-MOL-osiagnely-porozumienie-ws-rafinerii-NIS-Ministerstwo-Energii-Serbii-9070585.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gazprom-i-MOL-osiagnely-porozumienie-ws-rafinerii-NIS-Ministerstwo-Energii-Serbii-9070585.html",
-      "title": "MOL przejmuje serbskiego giganta. Jest porozumienie z Gazpromem Węgierski koncern paliwowy MOL osiągnął porozumienie z rosyjskim Gazpromem ws. przejęcia większościowego pakietu udziałów w Serbskim Przemyśle Naftowym (NIS) – podało w poniedziałek Ministerstwo Energii Serbii.",
-      "content_html": "",
-      "date_published": "2026-01-19T15:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
