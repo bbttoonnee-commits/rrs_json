@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-podpisala-umowe-na-dystrybucje-systemow-BACTEROMIC-w-Rumunii-9071715.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-podpisala-umowe-na-dystrybucje-systemow-BACTEROMIC-w-Rumunii-9071715.html",
+      "title": "Spółka zależna Scope Fluidics podpisała umowę na dystrybucję systemów BACTEROMIC w Rumunii Bacteromic, spółka zależna Scope Fluidics, podpisała ramową umowę dystrybucyjną z rumuńską SC ELTA 90 Medical Research SRL (ELTA MR). Firma będzie zajmowała się dystrybucją i promocją na terenie Rumunii systemów BACTEROMIC - podał Scope Fluidics w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-21T12:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Develia-wprowadza-do-przedsprzedazy-127-mieszkan-w-Gdansku-9071668.html",
       "url": "https://www.bankier.pl/wiadomosc/Develia-wprowadza-do-przedsprzedazy-127-mieszkan-w-Gdansku-9071668.html",
       "title": "Develia wprowadza do przedsprzedaży 127 mieszkań w Gdańsku Develia rozpoczęła przedsprzedaż 127 mieszkań w ramach nowego projektu Żywiecka Vita, który powstanie we Wrzeszczu Dolnym w Gdańsku - podała spółka w komunikacie prasowym.",
@@ -317,27 +324,6 @@
       "title": "Koniec budowania \"w ciemno\". Na nowy magazyn trzeba czekać nawet 7 miesięcy Nastroje na polskim rynku magazynowym są umiarkowanie optymistyczne, a rosnąca liczba zapytań ze strony klientów może przełożyć się na ożywienie - ocenia Michał Śniadała, dyrektor działu powierzchni magazynowych i przemysłowych w CBRE. Widać odbicie w branży logistycznej, ale na rynku mniej jest projektów spekulacyjnych.",
       "content_html": "",
       "date_published": "2026-01-19T12:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-krajach-Unii-EUropejskiej-w-grudniu-2025-Rumunia-wciaz-liderem-9070385.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-krajach-Unii-EUropejskiej-w-grudniu-2025-Rumunia-wciaz-liderem-9070385.html",
-      "title": "Rumunia i długo, długo nic. Inflacyjny lider UE nie spuszcza z tonu Rumunia kolejny miesiąc z rzędu utrzymała się w siodle inflacyjnego lidera Unii Europejskiej.",
-      "content_html": "",
-      "date_published": "2026-01-19T12:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/InPost-otrzymal-wstepna-propozycje-przejecia-wszystkich-swoich-akcji-9064263.html",
-      "url": "https://www.bankier.pl/wiadomosc/InPost-otrzymal-wstepna-propozycje-przejecia-wszystkich-swoich-akcji-9064263.html",
-      "title": "InPost otrzymał wstępną propozycję przejęcia wszystkich swoich akcji InPost otrzymał wstępną propozycję przejęcia wszystkich akcji spółki - poinformowała spółka notowana na giełdzie w Amsterdamie. Powołany został specjalny zespół złożony z członków rady nadzorczej i zarządu InPostu, który ma przeanalizować wszystkie aspekty potencjalnej transakcji.",
-      "content_html": "",
-      "date_published": "2026-01-19T12:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dywidendowy-ETF-od-Bety-nie-wyplaci-kwartalnych-zyskow-Pieniadze-jednak-nie-przepadna-9070443.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dywidendowy-ETF-od-Bety-nie-wyplaci-kwartalnych-zyskow-Pieniadze-jednak-nie-przepadna-9070443.html",
-      "title": "BETA ETF Dywidenda Plus nie wypłaci kwartalnych zysków. Pieniądze jednak nie przepadną W pierwszym kwartale 2026 roku fundusz BETA ETF Dywidenda Plus, notowany na GPW w Warszawie nie zrealizuje wypłaty dochodu – podał dostawca ETF-a. Decyzja ma mieć charakter czysto techniczny i statutowy, wynikający z rekordowo szybkiego przyrostu aktywów oraz momentu debiutu funduszu. W związku z tym inwestorzy, mogą spodziewać się powiększonej wypłaty w kolejnym kwartale.",
-      "content_html": "",
-      "date_published": "2026-01-19T12:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
