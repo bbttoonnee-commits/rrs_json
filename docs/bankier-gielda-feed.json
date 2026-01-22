@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Moody-s-utrzymala-dlugoterminowa-ocene-ratingowa-w-walucie-krajowej-Energi-na-poziomie-Baa1-z-perspektywa-stabilna-9072741.html",
+      "url": "https://www.bankier.pl/wiadomosc/Moody-s-utrzymala-dlugoterminowa-ocene-ratingowa-w-walucie-krajowej-Energi-na-poziomie-Baa1-z-perspektywa-stabilna-9072741.html",
+      "title": "Moody's utrzymała długoterminową ocenę ratingową w walucie krajowej Energi na poziomie \"Baa1\" z perspektywą stabilną Agencja Moody's utrzymała długoterminową ocenę ratingową w walucie krajowej Energi na poziomie \"Baa1\" z perspektywą stabilną oraz pozostałe ratingi związane - podała Energa w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-22T17:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Projekt-Ryvu-Therapeutics-rekomendowany-do-19-9-mln-zl-dofinansowania-w-ramach-konkursu-NCBR-9072685.html",
+      "url": "https://www.bankier.pl/wiadomosc/Projekt-Ryvu-Therapeutics-rekomendowany-do-19-9-mln-zl-dofinansowania-w-ramach-konkursu-NCBR-9072685.html",
+      "title": "Projekt Ryvu Therapeutics rekomendowany do 19,9 mln zł dofinansowania w ramach konkursu NCBR Projekt Ryvu Therapeutics PERO został rekomendowany do dofinansowania w ramach konkursu NCBR - podała spółka w komunikacie. Całkowita wartość projektu netto wynosi 32,3 mln zł, a rekomendowana wartość dofinansowania to 19,9 mln zł.",
+      "content_html": "",
+      "date_published": "2026-01-22T16:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rozmowy-zarzadu-i-strony-spolecznej-JSW-z-udzialem-MAP-beda-kontynuowane-w-poniedzialek-9072646.html",
       "url": "https://www.bankier.pl/wiadomosc/Rozmowy-zarzadu-i-strony-spolecznej-JSW-z-udzialem-MAP-beda-kontynuowane-w-poniedzialek-9072646.html",
       "title": "Rozmowy zarządu i strony społecznej JSW z udziałem MAP będą kontynuowane w poniedziałek Zaplanowane na piątek spotkanie zarządu JSW z reprezentatywnymi związkami zawodowymi z udziałem wiceministra aktywów państwowych Grzegorza Wrony zostało przesunięte na poniedziałek, 26 stycznia - podała JSW w komunikacie prasowym.",
@@ -338,13 +352,6 @@
       "title": "Zaskakujący zwrot akcji na GPW. Warszawa oparła się czerwieni z Wall Street i Europy Wtorkowy handel na GPW upłynął pod znakiem dominacji podaży w pierwszej połowie dnia. Z kolei w drugiej części sesji wiedzieliśmy zwrot na północ giełdowych indeksów. WIG20 skończył na plusie jako jeden z nielicznych głównych benchmarków w Europie. Do handlu po dniu przerwy powrócili Amerykanie, ale tam czerwień zdradzała nerwowość inwestorów wobec kolejnych niezrozumiałych działań Donalda Trumpa, który ostentacyjnie odwraca się od swoich sojuszników.",
       "content_html": "",
       "date_published": "2026-01-20T17:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Postawienie-w-stan-wymagalnosci-kredytow-nie-wplywa-na-restrukturyzacje-GA-Polyolefins-prezes-9071243.html",
-      "url": "https://www.bankier.pl/wiadomosc/Postawienie-w-stan-wymagalnosci-kredytow-nie-wplywa-na-restrukturyzacje-GA-Polyolefins-prezes-9071243.html",
-      "title": "Pekao stawia długi Polimerów Police w stan wymagalności. Grupa Azoty reaguje Postawienie przez banki w stan wymagalności wszystkich zobowiązań wynikających z umowy kredytowej i żądanie od GA Polyolefins ich wcześniejszej spłaty nie ma wpływu na plan restrukturyzacji tej spółki - ocenia prezes Grupy Azoty Andrzej Skolmowski.",
-      "content_html": "",
-      "date_published": "2026-01-20T16:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
