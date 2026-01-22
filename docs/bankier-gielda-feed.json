@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rozmowy-zarzadu-i-strony-spolecznej-JSW-z-udzialem-MAP-beda-kontynuowane-w-poniedzialek-9072646.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozmowy-zarzadu-i-strony-spolecznej-JSW-z-udzialem-MAP-beda-kontynuowane-w-poniedzialek-9072646.html",
+      "title": "Rozmowy zarządu i strony społecznej JSW z udziałem MAP będą kontynuowane w poniedziałek Zaplanowane na piątek spotkanie zarządu JSW z reprezentatywnymi związkami zawodowymi z udziałem wiceministra aktywów państwowych Grzegorza Wrony zostało przesunięte na poniedziałek, 26 stycznia - podała JSW w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-01-22T15:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bumech-ma-umowe-z-UMT-o-wspolpracy-w-obszarze-pojazdow-opancerzonych-i-systemow-przeciwdronowych-9072628.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bumech-ma-umowe-z-UMT-o-wspolpracy-w-obszarze-pojazdow-opancerzonych-i-systemow-przeciwdronowych-9072628.html",
+      "title": "Bumech ma umowę z UMT o współpracy w obszarze pojazdów opancerzonych i systemów przeciwdronowych Bumech podpisał ze spółką United Manufacturing Technologies umowę o współpracy w obszarze pojazdów opancerzonych i systemów przeciwdronowych - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-22T15:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Scanway-ma-umowe-o-wspolpracy-z-klientem-z-rynku-amerykanskiego-o-szac-wart-ok-4-3-mln-USD-9072625.html",
+      "url": "https://www.bankier.pl/wiadomosc/Scanway-ma-umowe-o-wspolpracy-z-klientem-z-rynku-amerykanskiego-o-szac-wart-ok-4-3-mln-USD-9072625.html",
+      "title": "Scanway ma umowę o współpracy z klientem z rynku amerykańskiego o szac. wart. ok. 4,3 mln USD Scanway podpisał umowę o współpracy z klientem z rynku amerykańskiego na dostawę nowej klasy instrumentów optycznych do budowanej przez partnera konstelacji satelitarnej - podał Scanway w komunikacie prasowym. Wg szacunków spółki, wartość umowy może sięgnąć ok. 4,3 mln USD (ok. 15,5 mln zł).",
+      "content_html": "",
+      "date_published": "2026-01-22T15:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Adamed-przejmuje-zaklad-produkcyjny-w-Hiszpanii-9072597.html",
       "url": "https://www.bankier.pl/wiadomosc/Adamed-przejmuje-zaklad-produkcyjny-w-Hiszpanii-9072597.html",
       "title": "Adamed przejmuje zakład produkcyjny w Hiszpanii Adamed Pharma podpisał wstępne porozumienie z Sanofi dotyczące przejęcia zakładu produkcyjnego w Riells i Viabrea w Hiszpanii. Zamknięcie transakcji planowane jest na II kwartał 2026 roku - poinformowano w komunikacie prasowym",
@@ -324,13 +345,6 @@
       "title": "Pekao stawia długi Polimerów Police w stan wymagalności. Grupa Azoty reaguje Postawienie przez banki w stan wymagalności wszystkich zobowiązań wynikających z umowy kredytowej i żądanie od GA Polyolefins ich wcześniejszej spłaty nie ma wpływu na plan restrukturyzacji tej spółki - ocenia prezes Grupy Azoty Andrzej Skolmowski.",
       "content_html": "",
       "date_published": "2026-01-20T16:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polregio-w-2025-r-przewiozlo-102-6-mln-pasazerow-o-ponad-1-7-mln-wiecej-niz-rok-wczesniej-9071198.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polregio-w-2025-r-przewiozlo-102-6-mln-pasazerow-o-ponad-1-7-mln-wiecej-niz-rok-wczesniej-9071198.html",
-      "title": "Polregio w 2025 r. przewiozło 102,6 mln pasażerów, o ponad 1,7 mln więcej niż rok wcześniej Polregio w 2025 r. przewiozło 102,6 mln pasażerów, czyli o ponad 1,7 mln więcej niż rok wcześniej - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-01-20T15:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
