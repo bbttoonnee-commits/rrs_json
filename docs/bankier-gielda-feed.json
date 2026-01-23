@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polskie-dziesieciolatki-na-progu-5-Co-dalej-z-obligacjami-skarbowymi-9071833.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polskie-dziesieciolatki-na-progu-5-Co-dalej-z-obligacjami-skarbowymi-9071833.html",
+      "title": "Polskie „dziesięciolatki” na progu 5%. Co dalej z obligacjami skarbowymi? Rentowność polskich 10-letnich obligacji skarbowych ponownie znalazła się blisko psychologicznej granicy 5%. Lecz to, , co cieszy ministra finansów, zapewne niezbyt podoba się inwestorom.",
+      "content_html": "",
+      "date_published": "2026-01-23T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nationale-Nederlanden-OFE-ma-ponizej-5-proc-Amiki-9072876.html",
       "url": "https://www.bankier.pl/wiadomosc/Nationale-Nederlanden-OFE-ma-ponizej-5-proc-Amiki-9072876.html",
       "title": "Nationale-Nederlanden OFE ma poniżej 5 proc. Amiki Nationale-Nederlanden OFE, zmniejszyło zaangażowanie w Amice i aktualnie posiada 519.194 akcji spółki, stanowiących 4,94 proc. udziału w liczbie głosów na WZA - poinformowała spółka w komunikacie.",
@@ -345,13 +352,6 @@
       "title": "Specjalny komitet InPostu nadal ocenia ofertę przejęcia wszystkich akcji spółki Specjalny komitet składający się z zarządu i rady nadzorczej InPostu nadal ocenia ofertę przejęcia wszystkich akcji spółki - podał InPost w komunikacie. Spółka wskazuje, że nie ma pewności, iż propozycja doprowadzi do zakończenia transakcji.",
       "content_html": "",
       "date_published": "2026-01-21T07:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Analiza-udzialow-OFE-w-akcjonariatach-spolek-z-GPW-Instytucjonalne-smart-money-przemeblowalo-portfele-w-2025-roku-9071259.html",
-      "url": "https://www.bankier.pl/wiadomosc/Analiza-udzialow-OFE-w-akcjonariatach-spolek-z-GPW-Instytucjonalne-smart-money-przemeblowalo-portfele-w-2025-roku-9071259.html",
-      "title": "OFE uciekają z tych spółek. Gracze zmienili strategię na 2026 rok Otwarte Fundusze Emerytalne (OFE) pozostają jednymi z kluczowych graczy instytucjonalnych na warszawskim parkiecie, a ich decyzje inwestycyjne są wnikliwie śledzone jako wskaźnik nastrojów rynkowych. Analizy zmian w akcjonariatach spółek z głównych indeksów GPW pokazują kilka zaskakujących przetasowań i odwrotów od niektórych sektorów.",
-      "content_html": "",
-      "date_published": "2026-01-21T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
