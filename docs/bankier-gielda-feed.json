@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-One-More-Level-w-zwiazku-z-planowanym-przejsciem-na-GPW-9073323.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-One-More-Level-w-zwiazku-z-planowanym-przejsciem-na-GPW-9073323.html",
+      "title": "KNF zatwierdziła prospekt One More Level w związku z planowanym przejściem na GPW Komisja Nadzoru Finansowego zatwierdziła prospekt One More Level w związku z planowanym przejściem na GPW z NewConnect - poinformowała komisja w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-23T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pepco-po-I-kw-na-dobrej-drodze-do-realizacji-zakladanych-celow-wywiad-9073322.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pepco-po-I-kw-na-dobrej-drodze-do-realizacji-zakladanych-celow-wywiad-9073322.html",
+      "title": "WYWIAD Pepco po I kw. na dobrej drodze do realizacji zakładanych celów Pepco, po pierwszym, kluczowym dla wyników kwartale rok obrotowego 2026, jest na dobrej drodze do zrealizowania zakładanych celów całorocznych - poinformował PAP Biznes Hugo van Santen, CFO marki Pepco. W planach jest otwarcie ok. 250 nowych sklepów, a Polska jest jednym z rynków priorytetowych.",
+      "content_html": "",
+      "date_published": "2026-01-23T16:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wittchen-zawarl-umowy-kredytowe-z-PKO-BP-na-206-5-mln-zl-9073310.html",
       "url": "https://www.bankier.pl/wiadomosc/Wittchen-zawarl-umowy-kredytowe-z-PKO-BP-na-206-5-mln-zl-9073310.html",
       "title": "Wittchen zawarł umowy kredytowe z PKO BP na 206,5 mln zł Wittchen zawarł umowy finansowania w postaci umów kredytowych z PKO BP na łączną kwotę 206,5 mln zł - podał Wittchen w komunikacie. Pozyskane z kredytów środki stanowić będą długoterminowe źródło finansowania spółki i wzmocnią jej stabilność finansową.",
@@ -401,27 +415,6 @@
       "title": "\"Nie zrobię tego\" zachęciło inwestorów do kupowania. GPW w rytmie światowych rynków Donald Trump podczas przemówienia na Światowym Forum Ekonomicznym w Davos wykluczył słowami „Nie zrobię tego”, użycie siły militarnej, aby przejąć kontrolę na Grenlandią. Tyle wystarczyło inwestorom na świecie, aby zignorować inne wątki wystąpienia prezydenta USA i ruszyć na zakupy ostatnich akcyjnych dołków. Indeksy na światowych giełdach poszły w górę. Nie inaczej było na GPW w Warszawie.",
       "content_html": "",
       "date_published": "2026-01-21T17:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spyrosoft-spodziewa-sie-ze-w-I-kw-podpisze-umowe-zakupu-niemieckiego-podmiotu-z-branzy-IT-9071971.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spyrosoft-spodziewa-sie-ze-w-I-kw-podpisze-umowe-zakupu-niemieckiego-podmiotu-z-branzy-IT-9071971.html",
-      "title": "Spyrosoft celuje w niemiecką spółkę IT w I kw. Spyrosoft zakończył proces due diligence niemieckiego podmiotu działającego w branży IT i spodziewa się, że zawarcie umowy nabycia udziałów tego podmiotu nastąpi jeszcze w I kwartale 2026 roku - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-21T16:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UOKiK-stawia-zarzuty-Benefit-Systems-w-sprawie-m-in-stosowania-nieuczciwych-klauzul-w-umowach-9071553.html",
-      "url": "https://www.bankier.pl/wiadomosc/UOKiK-stawia-zarzuty-Benefit-Systems-w-sprawie-m-in-stosowania-nieuczciwych-klauzul-w-umowach-9071553.html",
-      "title": "Kary dla giganta fitness. UOKiK stawia zarzuty Benefit Systems Klienci Benefit Systems, który zarządza m.in. siłowniami Zdrofit, mieli nie być informowani o istotnych warunkach umowy przy zakupie karnetu – uznał UOKiK i przedstawił spółce zarzuty. Benefit się z nimi nie zgadza i deklaruje współpracę z Urzędem.",
-      "content_html": "",
-      "date_published": "2026-01-21T16:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dekpol-sprzedal-w-2025-r-666-lokali-9071918.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dekpol-sprzedal-w-2025-r-666-lokali-9071918.html",
-      "title": "Dekpol sprzedał w 2025 r. 666 lokali, w 2026 chce sprzedać ich - 670 Grupa Dekpol sprzedała w 2025 roku 666 lokali, o 43 proc. więcej niż w 2024 r. i rozpozna w wyniku finansowym tego okresu 665 lokali. Cel na 2026 rok to sprzedaż około 670 lokali - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-21T16:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
