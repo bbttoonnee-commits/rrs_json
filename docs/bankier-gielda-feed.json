@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-LPP-przyjelo-program-motywacyjny-9073133.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-LPP-przyjelo-program-motywacyjny-9073133.html",
+      "title": "Akcjonariusze LPP zdecydowali o przyjęciu programu motywacyjnego Akcjonariusze LPP zdecydowali o przyjęciu programu motywacyjnego dla członków zarządu, pracowników i współpracowników - podała spółka w komunikacie z przyjętymi uchwałami przez walne zgromadzenie.",
+      "content_html": "",
+      "date_published": "2026-01-23T11:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Deweloperzy-chomikuja-pozwolenia-na-budowe-Co-piate-trafia-do-szuflady-9073086.html",
       "url": "https://www.bankier.pl/wiadomosc/Deweloperzy-chomikuja-pozwolenia-na-budowe-Co-piate-trafia-do-szuflady-9073086.html",
       "title": "GUS Deweloperzy \"chomikują\" pozwolenia na budowę? Co piąte trafia do szuflady Grudniowe dane GUS dotyczące skali nowego budownictwa mieszkaniowego w Polsce dla wszystkich grup inwestorów okazały się lepsze mdm i rdr, ale w całorocznych danych widoczne są efekty ograniczenia aktywności firm deweloperskich - oceniła Katarzyna Kuniewicz, dyrektorka badań rynku Otodom.",
@@ -380,13 +387,6 @@
       "title": "Złoto w górę o 100 USD na uncji! Wykuwa się nowy porządek świata Dolarowe notowania kontraktów terminowych na złoto i srebro osiągnęły nowe rekordy wszech czasów. Na naszych oczach wykuwa się nowy porządek świata.",
       "content_html": "",
       "date_published": "2026-01-21T12:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-podpisala-umowe-na-dystrybucje-systemow-BACTEROMIC-w-Rumunii-9071715.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-podpisala-umowe-na-dystrybucje-systemow-BACTEROMIC-w-Rumunii-9071715.html",
-      "title": "Spółka zależna Scope Fluidics podpisała umowę na dystrybucję systemów BACTEROMIC w Rumunii Bacteromic, spółka zależna Scope Fluidics, podpisała ramową umowę dystrybucyjną z rumuńską SC ELTA 90 Medical Research SRL (ELTA MR). Firma będzie zajmowała się dystrybucją i promocją na terenie Rumunii systemów BACTEROMIC - podał Scope Fluidics w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-21T12:26:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
