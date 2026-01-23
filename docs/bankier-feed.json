@@ -4,11 +4,67 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Brak-mieszkania-utrudnia-decyzje-o-dziecku-Polacy-chca-zmian-w-polityce-mieszkaniowej-9070891.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brak-mieszkania-utrudnia-decyzje-o-dziecku-Polacy-chca-zmian-w-polityce-mieszkaniowej-9070891.html",
+      "title": "Brak mieszkania utrudnia decyzje o dziecku. Polacy chcą zmian w polityce mieszkaniowej",
+      "content_html": "W 2026 roku sprzedaż nowych mieszkań ma wzrosnąć o 10-15 proc., a tych na rynku wtórnym o kolejne 5-10 proc. Do ożywienia popytu przyczynią się obniżki stóp procentowych oraz rosnąca dostępność...",
+      "date_published": "2026-01-24T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Negocjacje-pokojowe-w-Abu-Zabi-USA-Rosja-i-Ukraina-przy-jednym-stole-Rozmowa-byla-konstruktywna-9073487.html",
+      "url": "https://www.bankier.pl/wiadomosc/Negocjacje-pokojowe-w-Abu-Zabi-USA-Rosja-i-Ukraina-przy-jednym-stole-Rozmowa-byla-konstruktywna-9073487.html",
+      "title": "Negocjacje pokojowe w Abu Zabi. USA, Rosja i Ukraina przy jednym stole",
+      "content_html": "W Zjednoczonych Emiratach Arabskich odbyły się już pierwsze rozmowy przedstawicieli Ukrainy, USA i Rosji w sprawie możliwego porozumienia pokojowego; na razie jeszcze za wcześnie na wnioski – powiadomił w piątek wieczorem ukraiński prezydent...",
+      "date_published": "2026-01-23T20:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html",
+      "title": "Największa rewolucja w sądach i aresztach od 1997 roku. Posłowie przegłosowali zmiany",
+      "content_html": "Gwarancje prawa do obrony już na wczesnym etapie sprawy, zakaz korzystania z nielegalnych dowodów, ograniczenie tymczasowych aresztów oraz większa decyzyjność sądów poprzez ograniczenie decyzyjności prokuratorów - to zakładane cele uchwalonej...",
+      "date_published": "2026-01-23T20:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-uderza-w-NATO-Brytyjski-premier-zada-przeprosin-po-skandalicznych-slowach-9073464.html",
+      "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-uderza-w-NATO-Brytyjski-premier-zada-przeprosin-po-skandalicznych-slowach-9073464.html",
+      "title": "Donald Trump uderza w NATO. Brytyjski premier żąda przeprosin po skandalicznych słowach",
+      "content_html": "Premier Wielkiej Brytanii Keir Starmer powiedział w piątek, że uwagi prezydenta USA Donalda Trumpa o żołnierzach NATO w Afganistanie były skandaliczne i obraźliwe. Zasugerował, że Trump powinien przeprosić za wypowiedź, w której lekceważył...",
+      "date_published": "2026-01-23T20:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sankcje-na-Iran-USA-uderzaja-w-flote-cieni-9073493.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sankcje-na-Iran-USA-uderzaja-w-flote-cieni-9073493.html",
+      "title": "Flota cieni na cenzurowanym. USA uderzają w ważne źródło dochodów Iranu",
+      "content_html": "Resort finansów USA ogłosił w piątek nałożenie sankcji na dziewięć tankowców i osiem firm związanych z irańską „flotą cieni” przewożącą objętą sankcjami irańską ropę naftową. Decyzja przedstawiana jest jako element presji na...",
+      "date_published": "2026-01-23T20:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloto-po-prawie-5000-USD-oz-Srebro-powyzej-stu-dolarow-za-uncje-9073485.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloto-po-prawie-5000-USD-oz-Srebro-powyzej-stu-dolarow-za-uncje-9073485.html",
+      "title": "Złoto po prawie 5000 USD/oz. Srebro powyżej stu dolarów za uncję",
+      "content_html": "Srebro po raz pierwszy w historii były wyceniane na przeszło sto dolarów za uncję. Niektóre nieco mniej aktywne serie kontraktów terminowych na złoto przekroczyły poziom 5 000 USD/oz.",
+      "date_published": "2026-01-23T19:49:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-popieraja-separatystow-w-kanadyjskiej-Albercie-Szokujace-stanowisko-sekretarza-skarbu-9073482.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-popieraja-separatystow-w-kanadyjskiej-Albercie-Szokujace-stanowisko-sekretarza-skarbu-9073482.html",
+      "title": "USA popierają separatystów w kanadyjskiej Albercie. Szokujące stanowisko sekretarza skarbu",
+      "content_html": "Amerykański minister finansów (skarbu) Scott Bessent poparł w piątek ruch separatystyczny w kanadyjskiej prowincji Alberta. To najwyższy rangą przedstawiciel administracji USA, który zabrał głos w sprawie separatystów w Albercie – podkreśliła...",
+      "date_published": "2026-01-23T19:46:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dominika-Kulczyk-apeluje-do-biznesu-Cieplo-stalo-sie-bronia-9073474.html",
       "url": "https://www.bankier.pl/wiadomosc/Dominika-Kulczyk-apeluje-do-biznesu-Cieplo-stalo-sie-bronia-9073474.html",
       "title": "Dominika Kulczyk apeluje do biznesu. \"Ciepło stało się bronią\"",
       "content_html": "Pełnoskalowa wojna w Ukrainie trwa już blisko cztery lata. To cztery lata heroicznego oporu, ale też cztery lata niszczenia domów i infrastruktury, gdzie zima staje się kolejną bronią agresora. Dziś pomoc wymaga jednak nie tylko odruchów serca...",
       "date_published": "2026-01-23T19:33:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niemiecka-energetyka-w-rekach-USA-Miliarder-od-Trumpa-przejal-kluczowa-spolke-9073472.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niemiecka-energetyka-w-rekach-USA-Miliarder-od-Trumpa-przejal-kluczowa-spolke-9073472.html",
+      "title": "Niemiecka energetyka w rękach USA. Miliarder od Trumpa przejął kluczową spółkę",
+      "content_html": "Ministerstwo gospodarki Niemiec zatwierdziło przejęcie niemieckiej firmy energetycznej TanQuid przez spółkę z USA kontrolowaną przez miliardera bliskiego Donaldowi Trumpowi - pisze w piątek „Der Spiegel”. Amerykańska firma weszła w Niemczech...",
+      "date_published": "2026-01-23T19:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KRS-po-nowemu-Sedziowie-odzyskuja-kluczowe-prawo-9073471.html",
@@ -65,13 +121,6 @@
       "title": "Sędzia Tuleya kontra posłanka PiS. Anna Paluch zachowała immunitet",
       "content_html": "W piątkowym głosowaniu posłowie nie zgodzili się na uchylenie immunitetu posłance PiS Annie Paluch, o co wnioskował sędzia Igor Tuleya. Sędzia zarzuca posłance pomówienie w związku z jej słowami o „seryjnym klepaniu” przez sędziego zgód...",
       "date_published": "2026-01-23T18:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwieksza-rewolucja-w-sadach-i-aresztach-od-1997-roku-Poslowie-przeglosowali-zmiany-9073432.html",
-      "title": "Największa rewolucja w sądach i aresztach od 1997 roku. Posłowie przegłosowali zmiany",
-      "content_html": "Gwarancje prawa do obrony już na wczesnym etapie sprawy, zakaz korzystania z nielegalnych dowodów, ograniczenie tymczasowych aresztów oraz większa decyzyjność sądów poprzez ograniczenie decyzyjności prokuratorów - to zakładane cele uchwalonej...",
-      "date_published": "2026-01-23T18:12:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sejm-uchwalil-ustawe-dotyczaca-m-in-przymusowej-restrukturyzacji-bankow-9073431.html",
@@ -653,48 +702,6 @@
       "title": "Premierka Danii: Jesteśmy gotowi kontynuować współpracę z USA, ale bez gróźb",
       "content_html": "Premierka Danii Mette Frederiksen na unijnym szczycie w czwartek w Brukseli podziękowała reszcie Europy za wsparcie okazane w obliczu gróźb prezydenta USA Donalda Trumpa dotyczących aneksji Grenlandii. Jak dodała, Dania jest gotowa kontynuować...",
       "date_published": "2026-01-23T07:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-odbicie-cen-po-wypowiedzi-Trumpa-9072991.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-rynkach-ropy-odbicie-cen-po-wypowiedzi-Trumpa-9072991.html",
-      "title": "Na rynkach ropy odbicie cen po wypowiedzi Trumpa",
-      "content_html": "W piątek ceny ropy odbiły w górę po tym, gdy prezydent USA Donald Trump ponowił ostrzeżenia wobec Iranu, głównego producenta ropy na Bliskim Wschodzie, budząc obawy przed działaniami wojskowymi, które mogłyby zakłócić dostawy.",
-      "date_published": "2026-01-23T07:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurierzy-z-Glovo-i-Wolta-na-etacie-Polska-musi-wdrozyc-rewolucyjne-zmiany-9072931.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurierzy-z-Glovo-i-Wolta-na-etacie-Polska-musi-wdrozyc-rewolucyjne-zmiany-9072931.html",
-      "title": "Kurierzy z Glovo i Wolta na etacie? Polska musi wdrożyć rewolucyjne zmiany",
-      "content_html": "Wdrożenie unijnej dyrektywy o pracy platformowej może kosztować polską gospodarkę nawet 750 mln zł rocznie – wynika z analiz Pragmatic Policy Group. W grę wchodzą wyższe ceny dla konsumentów, spadek popytu w gastronomii oraz zmiany w modelu...",
-      "date_published": "2026-01-23T07:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ofiary-w-Iranie-liczone-sa-juz-w-tysiacach-Rezim-przelal-rowniez-krew-dzieci-9072989.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ofiary-w-Iranie-liczone-sa-juz-w-tysiacach-Rezim-przelal-rowniez-krew-dzieci-9072989.html",
-      "title": "Ofiary w Iranie liczone są już w tysiącach. Reżim przelał również krew dzieci",
-      "content_html": "Liczba potwierdzonych ofiar fali protestów w Iranie sięgnęła co najmniej 5002 osób - przekazała w piątek agencja AP, powołując się na aktywistów z organizacji pozarządowej HRANA i uprzedzając, że liczba ta wzrośnie. Internet w Iranie nie...",
-      "date_published": "2026-01-23T07:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Wlochy-i-Polska-chcialyby-dolaczyc-do-Rady-Pokoju-9072917.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Wlochy-i-Polska-chcialyby-dolaczyc-do-Rady-Pokoju-9072917.html",
-      "title": "Trump: Włochy i Polska chciałyby dołączyć do Rady Pokoju",
-      "content_html": "Prezydent USA Donald Trump przekazał w czwartek, że prezydent Karol Nawrocki powiedział mu, iż „chciałby podpisać się pod dokumentem dotyczącym Rady Pokoju, lecz - jak zaznaczył Trump - musi zwrócić się do parlamentu”. Chęć dołączenia...",
-      "date_published": "2026-01-23T07:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Bedziemy-w-sprawie-Grenlandii-wspolpracowac-z-NATO-Na-zawsze-9072921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Bedziemy-w-sprawie-Grenlandii-wspolpracowac-z-NATO-Na-zawsze-9072921.html",
-      "title": "Trump: W sprawie Grenlandii będziemy współpracować z NATO. \"Na zawsze\"",
-      "content_html": "Prezydent USA Donald Trump zapowiedział w czwartek, że Amerykanie będą współpracować z NATO w sprawie bezpieczeństwa Grenlandii. Dodał, że planowane porozumienie dotyczące wyspy nie będzie miało ram czasowych; będzie „na zawsze”.",
-      "date_published": "2026-01-23T07:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-system-energetyczny-przezyl-najtrudniejszy-dzien-od-2022-roku-9072895.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-system-energetyczny-przezyl-najtrudniejszy-dzien-od-2022-roku-9072895.html",
-      "title": "Ukraina: system energetyczny przeżył najtrudniejszy dzień od 2022 roku",
-      "content_html": "Dzisiejszy dzień był najtrudniejszy dla systemu energetycznego Ukrainy od blackoutu z listopada 2022 roku – oświadczył w czwartek ukraiński pierwszy wicepremier, minister energetyki Denys Szmyhal.",
-      "date_published": "2026-01-23T07:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
