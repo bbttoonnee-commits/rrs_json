@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Deweloperzy-chomikuja-pozwolenia-na-budowe-Co-piate-trafia-do-szuflady-9073086.html",
+      "url": "https://www.bankier.pl/wiadomosc/Deweloperzy-chomikuja-pozwolenia-na-budowe-Co-piate-trafia-do-szuflady-9073086.html",
+      "title": "GUS Deweloperzy \"chomikują\" pozwolenia na budowę? Co piąte trafia do szuflady Grudniowe dane GUS dotyczące skali nowego budownictwa mieszkaniowego w Polsce dla wszystkich grup inwestorów okazały się lepsze mdm i rdr, ale w całorocznych danych widoczne są efekty ograniczenia aktywności firm deweloperskich - oceniła Katarzyna Kuniewicz, dyrektorka badań rynku Otodom.",
+      "content_html": "",
+      "date_published": "2026-01-23T10:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-cenowa-wrocila-na-budowy-Branza-wychodzi-z-dolka-ale-wpada-w-pulapke-9073085.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-cenowa-wrocila-na-budowy-Branza-wychodzi-z-dolka-ale-wpada-w-pulapke-9073085.html",
+      "title": "Wojna cenowa wróciła na budowy. Branża wychodzi z dołka, ale wpada w pułapkę Na rynku budowlanym trwa zaciekła walka o kontrakty. Wiceprezes PZPB Damian Kaźmierczak ocenia, że rok 2025 był czasem oczekiwania na wyjście z głębokiego „dołka”, w którym rynek utknął po fatalnym 2024 roku. Nadal kurczyła się kubatura i infrastruktura, jednak wyraźnie przyspieszyły roboty specjalistyczne.",
+      "content_html": "",
+      "date_published": "2026-01-23T10:36:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PMI-w-strefie-euro-w-styczniu-2026-Sektor-uslug-traci-impet-Przemysl-w-stagnacji-9073070.html",
       "url": "https://www.bankier.pl/wiadomosc/PMI-w-strefie-euro-w-styczniu-2026-Sektor-uslug-traci-impet-Przemysl-w-stagnacji-9073070.html",
       "title": "EuroPMI: sektor usług traci impet. Przemysł wciąż w stagnacji Początek roku nie przyniósł poprawy koniunktury gospodarczej w strefie euro. Przemysł wciąż pozostawał w stagnacji, podczas gdy koniunktura w sektorze usług drugi miesiąc z rzędu uległa pogorszeniu.",
@@ -373,27 +387,6 @@
       "title": "Spółka zależna Scope Fluidics podpisała umowę na dystrybucję systemów BACTEROMIC w Rumunii Bacteromic, spółka zależna Scope Fluidics, podpisała ramową umowę dystrybucyjną z rumuńską SC ELTA 90 Medical Research SRL (ELTA MR). Firma będzie zajmowała się dystrybucją i promocją na terenie Rumunii systemów BACTEROMIC - podał Scope Fluidics w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-21T12:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Develia-wprowadza-do-przedsprzedazy-127-mieszkan-w-Gdansku-9071668.html",
-      "url": "https://www.bankier.pl/wiadomosc/Develia-wprowadza-do-przedsprzedazy-127-mieszkan-w-Gdansku-9071668.html",
-      "title": "Develia wprowadza do przedsprzedaży 127 mieszkań w Gdańsku Develia rozpoczęła przedsprzedaż 127 mieszkań w ramach nowego projektu Żywiecka Vita, który powstanie we Wrzeszczu Dolnym w Gdańsku - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-01-21T11:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Newag-ma-umowe-na-dostawe-siedmiu-zespolow-trakcyjnych-dla-Malopolski-za-311-06-mln-zl-netto-9071658.html",
-      "url": "https://www.bankier.pl/wiadomosc/Newag-ma-umowe-na-dostawe-siedmiu-zespolow-trakcyjnych-dla-Malopolski-za-311-06-mln-zl-netto-9071658.html",
-      "title": "Newag ma umowę na dostawę siedmiu zespołów trakcyjnych dla Małopolski za 311,06 mln zł netto Newag ma umowę wykonawczą do umowy ramowej na dostawę siedmiu elektrycznych zespołów trakcyjnych (EZT) dla Województwa Małopolskiego oraz Kolei Małopolskich za 311,06 mln zł netto - podała spółka w komunikacie. Dostawy pojazdów będą realizowane w latach 2028 i 2029.",
-      "content_html": "",
-      "date_published": "2026-01-21T11:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kruk-rozpoczal-prace-nad-rozdzieleniem-struktur-operacyjnych-i-inwestycyjnych-grupy-9071633.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kruk-rozpoczal-prace-nad-rozdzieleniem-struktur-operacyjnych-i-inwestycyjnych-grupy-9071633.html",
-      "title": "Kruk rozpoczął prace nad rozdzieleniem struktur operacyjnych i inwestycyjnych grupy Kruk rozpoczął prace nad rozdzieleniem struktur operacyjnych i inwestycyjnych w ramach grupy, co obejmuje m.in. utworzenie spółek celowych, do których planowane jest wydzielenie wybranych obszarów działalności - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-21T11:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
