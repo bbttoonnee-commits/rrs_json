@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-wypowiada-wojne-Wall-Street-Pozywa-JPMorgan-i-Dimona-na-5-mld-dolarow-9072882.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-wypowiada-wojne-Wall-Street-Pozywa-JPMorgan-i-Dimona-na-5-mld-dolarow-9072882.html",
+      "title": "Trump wypowiada wojnę Wall Street. Pozywa JPMorgan i Dimona na 5 mld dolarów Prezydent USA Donald Trump pozwał bank JPMorgan Chase i jego szefa Jamiego Dimona oskarżając go o zamknięcie jego kont bankowych z powodów politycznych po szturmie na Kapitol ze stycznia 2021 roku. Trump zażądał odszkodowania w kwocie co najmniej 5 mld dolarów.",
+      "content_html": "",
+      "date_published": "2026-01-23T07:17:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-czwartek-kontynuacja-solidnych-wzrostow-Inwestorzy-z-ulga-przyjeli-kolejne-decyzje-9072909.html",
       "url": "https://www.bankier.pl/wiadomosc/W-czwartek-kontynuacja-solidnych-wzrostow-Inwestorzy-z-ulga-przyjeli-kolejne-decyzje-9072909.html",
       "title": "W czwartek kontynuacja solidnych wzrostów. Inwestorzy z ulgą przyjęli kolejne decyzje Czwartek na Wall Street przyniósł kontynuację solidnych wzrostów z poprzedniego dnia. Inwestorzy z ulgą przyjęli zapowiedzi porozumienia ws. Grenlandii i rezygnacji z wyższych ceł na Europę, którymi groził prezydent USA Donald Trump. Nie brakuje też głosów, że to nie musi być już koniec konfliktu.",
@@ -345,20 +352,6 @@
       "title": "Medicalgorithmics otrzymał od BioFund ofertę objęcia akcji w konwersji po cenie 33 zł/ szt. BioFund Capital Management - akcjonariusz Medicalgorithmics - zaoferował objęcie akcji spółki w ramach konwersji pożyczki na jej akcje po cenie emisyjnej w wysokości 33 zł za sztukę - podał Medicalgorithmics.",
       "content_html": "",
       "date_published": "2026-01-21T09:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-InPost-w-IV-kw-25-dostarczyla-417-6-mln-przesylek-o-30-proc-wiecej-rdr-9071540.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-InPost-w-IV-kw-25-dostarczyla-417-6-mln-przesylek-o-30-proc-wiecej-rdr-9071540.html",
-      "title": "15 milionów paczek w jeden dzień. InPost pokazał dane. \"Przełomowy rok\" Grupa InPost w czwartym kwartale 2025 roku dostarczyła 417,6 mln przesyłek, co stanowi wzrost o 30 proc. rdr - podała spółka w komunikacie. Ponadto w całym 2025 roku spółka notowana na giełdzie w Amsterdamie dostarczyła blisko 1,4 mld przesyłek, czyli o 25 proc. więcej rdr.",
-      "content_html": "",
-      "date_published": "2026-01-21T07:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Specjalny-komitet-InPostu-nadal-ocenia-oferte-przejecia-wszystkich-akcji-spolki-9071533.html",
-      "url": "https://www.bankier.pl/wiadomosc/Specjalny-komitet-InPostu-nadal-ocenia-oferte-przejecia-wszystkich-akcji-spolki-9071533.html",
-      "title": "Specjalny komitet InPostu nadal ocenia ofertę przejęcia wszystkich akcji spółki Specjalny komitet składający się z zarządu i rady nadzorczej InPostu nadal ocenia ofertę przejęcia wszystkich akcji spółki - podał InPost w komunikacie. Spółka wskazuje, że nie ma pewności, iż propozycja doprowadzi do zakończenia transakcji.",
-      "content_html": "",
-      "date_published": "2026-01-21T07:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
