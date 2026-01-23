@@ -4,11 +4,18 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wzrost-przychodow-pozostaje-priorytetem-finansowym-Orange-w-26-wazna-praca-nad-kosztami-posrednimi-wywiad-9073050.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wzrost-przychodow-pozostaje-priorytetem-finansowym-Orange-w-26-wazna-praca-nad-kosztami-posrednimi-wywiad-9073050.html",
-      "title": "Wzrost przychodów pozostaje priorytetem finansowym Orange; w '26 ważna praca nad kosztami pośrednimi (wywiad) Wzrost przychodów to filar modelu finansowo-biznesowego Orange Polska, z kolei w 2026 roku spółka planuje skupić się na kosztach pośrednich - poinformował PAP Biznes członek zarządu ds. finansowych spółki, Jacek Kunicki. Dodał, że po 2030-2032 roku może pojawić się dywidenda z Światłowodu Inwestycje, co pozytywnie wpłynie na cash flow Orange Polska.",
+      "id": "https://www.bankier.pl/wiadomosc/PMI-w-strefie-euro-w-styczniu-2026-Sektor-uslug-traci-impet-Przemysl-w-stagnacji-9073070.html",
+      "url": "https://www.bankier.pl/wiadomosc/PMI-w-strefie-euro-w-styczniu-2026-Sektor-uslug-traci-impet-Przemysl-w-stagnacji-9073070.html",
+      "title": "EuroPMI: sektor usług traci impet. Przemysł wciąż w stagnacji Początek roku nie przyniósł poprawy koniunktury gospodarczej w strefie euro. Przemysł wciąż pozostawał w stagnacji, podczas gdy koniunktura w sektorze usług drugi miesiąc z rzędu uległa pogorszeniu.",
       "content_html": "",
-      "date_published": "2026-01-23T09:56:00+01:00"
+      "date_published": "2026-01-23T10:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dolaczenie-do-Erste-Group-to-dla-Santander-Bank-Polska-istotna-szansa-rozwojowa-prezes-wywiad-9073062.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dolaczenie-do-Erste-Group-to-dla-Santander-Bank-Polska-istotna-szansa-rozwojowa-prezes-wywiad-9073062.html",
+      "title": "Gajewski: Dołączenie do Erste Group to dla Santander Bank Polska istotna szansa rozwojowa Santander Bank Polska, który dołączył do Erste Group, ocenia, że zmiana głównego akcjonariusza to dla niego istotna szansa rozwojowa, przed bankiem otwierają się nowe możliwości, szczególnie w segmencie bankowości korporacyjnej i obsługi firm działających na rynkach regionalnych - poinformował PAP Biznes prezes Santander Bank Polska Michał Gajewski.",
+      "content_html": "",
+      "date_published": "2026-01-23T10:12:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Walka-z-rakiem-wzrostu-Chiny-szykuja-sie-na-trudniejszy-rok-i-walke-z-deflacja-9073033.html",
@@ -387,13 +394,6 @@
       "title": "Kruk rozpoczął prace nad rozdzieleniem struktur operacyjnych i inwestycyjnych grupy Kruk rozpoczął prace nad rozdzieleniem struktur operacyjnych i inwestycyjnych w ramach grupy, co obejmuje m.in. utworzenie spółek celowych, do których planowane jest wydzielenie wybranych obszarów działalności - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-21T11:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wolumen-paczek-InPostu-w-Polsce-ponizej-prognoz-Allegro-moze-przejmowac-udzialy-opinia-9071630.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wolumen-paczek-InPostu-w-Polsce-ponizej-prognoz-Allegro-moze-przejmowac-udzialy-opinia-9071630.html",
-      "title": "Analitycy: Wolumen paczek InPostu w Polsce poniżej prognoz, Allegro może przejmować udziały Wolumen paczek dostarczonych przez InPost w czwartym kwartale wzrósł o 5 proc., ale jest to wynik poniżej zapowiedzi spółki kwartał wcześniej - oceniają analitycy Erste Group. Ich zdaniem, może to oznaczać, że Allegro przejmuje coraz większy wolumen od InPostu.",
-      "content_html": "",
-      "date_published": "2026-01-21T10:40:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
