@@ -4,10 +4,59 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Paradoks-polskiego-AI-Co-drugi-pracownik-uzywa-narzedzi-ale-firmy-malo-na-tym-zarabiaja-9068204.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paradoks-polskiego-AI-Co-drugi-pracownik-uzywa-narzedzi-ale-firmy-malo-na-tym-zarabiaja-9068204.html",
+      "title": "Paradoks polskiego AI. Co drugi pracownik używa narzędzi, ale firmy mało na tym zarabiają",
+      "content_html": "5 proc. polskich firm generuje dzięki AI ponad jedną czwartą swoich przychodów, podczas gdy średnia dla Europy wynosi 22 proc. - wynika z raportu Deloitte. Jednocześnie ponad połowa polskich firm przeznacza powyżej 10 proc. budżetu technologicznego...",
+      "date_published": "2026-01-24T19:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ministerstwo-ujawnilo-kod-mObywatela-Eksperci-To-kpina-9069950.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ministerstwo-ujawnilo-kod-mObywatela-Eksperci-To-kpina-9069950.html",
+      "title": "Ministerstwo ujawniło „kod” mObywatela. Eksperci: To kpina",
+      "content_html": "Z opublikowanych przez Ministerstwo Cyfryzacji (MC) fragmentów kodu źródłowego mObywatela nie dowiemy się, czy aplikacja nie ma np. funkcji śledzenia, resort nie zachował się transparentnie - ocenili dla PAP eksperci cyberbezpieczeństwa Adam...",
+      "date_published": "2026-01-24T19:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tajemnicza-technologia-USA-wylaczyla-radary-w-Caracas-Trump-Nic-nie-zadzialalo-9073663.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajemnicza-technologia-USA-wylaczyla-radary-w-Caracas-Trump-Nic-nie-zadzialalo-9073663.html",
+      "title": "Tajemnicza broń USA wyłączyła radary w Caracas. \"Nic nie zadziałało\"",
+      "content_html": "Prezydent USA Donald Trump ujawnił, że podczas operacji schwytania Nicolasa Maduro w Caracas kluczowe było wykorzystanie nowej tajnej broni o nazwie Discombobulator - napisał w sobotę „New York Post”.",
+      "date_published": "2026-01-24T18:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozlam-w-PiS-juz-pewny-Jesli-nie-przejmie-PiS-skorzysta-z-rozpadu-Polski-2050-9071175.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozlam-w-PiS-juz-pewny-Jesli-nie-przejmie-PiS-skorzysta-z-rozpadu-Polski-2050-9071175.html",
+      "title": "Rozłam w PiS już pewny? \"Jeśli nie przejmie PiS, skorzysta z rozpadu Polski 2050\"",
+      "content_html": "Jeżeli Mateuszowi Morawieckiemu nie uda się przejąć Prawa i Sprawiedliwości, to być może będzie zakładał nową partię - oceniła w Studiu PAP prof. Anna Pacześniak. Zdaniem politolożki z Uniwersytetu Wrocławskiego tego typu projekty mają...",
+      "date_published": "2026-01-24T18:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kij-i-marchewka-w-POZ-NFZ-placi-za-wyniki-ale-zabierze-pieniadze-za-biernosc-9071340.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kij-i-marchewka-w-POZ-NFZ-placi-za-wyniki-ale-zabierze-pieniadze-za-biernosc-9071340.html",
+      "title": "Kij i marchewka w POZ. NFZ płaci za wyniki, ale zabierze pieniądze za bierność",
+      "content_html": "Dodatek motywacyjny ma zmobilizować poradnie podstawowej opieki zdrowotnej do zwiększenia liczby pacjentów korzystających z opieki koordynowanej – weszło w życie zarządzenie prezesa Narodowego Funduszu Zdrowia w tej sprawie.",
+      "date_published": "2026-01-24T18:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyrok-neosedziego-podwazyl-rozwod-Zurek-za-utrate-5-mln-zl-wini-weto-prezydenta-9071305.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyrok-neosedziego-podwazyl-rozwod-Zurek-za-utrate-5-mln-zl-wini-weto-prezydenta-9071305.html",
+      "title": "Wyrok „neosędziego” podważył rozwód. Żurek za utratę 5 mln zł wini weto prezydenta",
+      "content_html": "Szef MS Waldemar Żurek ocenił, że gdyby ustawa „praworządnościowa” weszła w życie, nie byłoby sprawy byłych małżonków, których rozwód zakwestionował sąd w Giżycku, bo wyrok wydał neosędzia. Jak dodał, będzie przekonywał prezydenta...",
+      "date_published": "2026-01-24T18:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sabotazysta-na-umowe-zlecenie-Brytyjski-raport-Polska-na-celowniku-Rosji-9068212.html",
       "url": "https://www.bankier.pl/wiadomosc/Sabotazysta-na-umowe-zlecenie-Brytyjski-raport-Polska-na-celowniku-Rosji-9068212.html",
       "title": "Sabotażysta na umowę-zlecenie. Brytyjski raport: Polska na celowniku Rosji",
       "content_html": "Sabotaż jest kluczową metodą rosyjskiej wojny hybrydowej przeciw Zachodowi, a do jego prowadzenia coraz częściej wykorzystywani są dorywczo pozyskiwani ludzie - napisał w raporcie londyński think tank Royal United Services Institute (RUSI).",
+      "date_published": "2026-01-24T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Efekt-Trumpa-Ameryka-miala-byc-wielka-a-rosna-Chiny-9071303.html",
+      "url": "https://www.bankier.pl/wiadomosc/Efekt-Trumpa-Ameryka-miala-byc-wielka-a-rosna-Chiny-9071303.html",
+      "title": "Efekt Trumpa: Ameryka miała być wielka, a rosną... Chiny",
+      "content_html": "Choć naczelnym hasłem prezydenta USA Donalda Trumpa jest uczynienie Ameryki znów wielką, jego działania w niezamierzony sposób powodują, że wielkie, jeśli chodzi o globalne wpływy, stają się przede wszystkim Chiny - wynika z badania think-tanku...",
       "date_published": "2026-01-24T18:00:00+01:00"
     },
     {
@@ -18,11 +67,74 @@
       "date_published": "2026-01-24T18:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bitwa-o-EUCA-Warszawa-rzuca-wyzwanie-Maladze-i-Rzymowi-w-wyscigu-o-prestizowy-urzad-9072082.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bitwa-o-EUCA-Warszawa-rzuca-wyzwanie-Maladze-i-Rzymowi-w-wyscigu-o-prestizowy-urzad-9072082.html",
+      "title": "Bitwa o EUCA. Warszawa rzuca wyzwanie Maladze i Rzymowi w wyścigu o prestiżowy urząd",
+      "content_html": "W Parlamencie Europejskim w Strasburgu zaprezentowano w środę kandydaturę Warszawy na siedzibę Urzędu UE ds. Celnych (EUCA). - Mamy bardzo mocne argumenty: kompetencje, silną administrację skarbową i dobrą propozycję na poziomie technicznym...",
+      "date_published": "2026-01-24T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mit-o-masowych-odmowach-szczepien-obalony-Pawel-Grzesiowski-ujawnia-realne-liczby-9072587.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mit-o-masowych-odmowach-szczepien-obalony-Pawel-Grzesiowski-ujawnia-realne-liczby-9072587.html",
+      "title": "Mit o masowych odmowach szczepień obalony. Paweł Grzesiowski ujawnia realne liczby",
+      "content_html": "Wszystkie obowiązkowe szczepienia są realizowane na poziomie 89-95 proc. - poinformował PAP Główny Inspektor Sanitarny Paweł Grzesiowski. Z każdego rocznika około 5-10 proc. dzieci w Polsce nie jest szczepionych - wynika z analizy kart szczepień...",
+      "date_published": "2026-01-24T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-wenezuelskiej-ropy-plyna-do-USA-Zarobia-wiecej-niz-kiedykolwiek-9073654.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-wenezuelskiej-ropy-plyna-do-USA-Zarobia-wiecej-niz-kiedykolwiek-9073654.html",
+      "title": "Miliardy z wenezuelskiej ropy płyną do USA. \"Zarobią więcej niż kiedykolwiek\"",
+      "content_html": "Prezydent Donald Trump powiedział, że USA skonfiskowały wenezuelską ropę z siedmiu przejętych w ostatnim czasie tankowców - poinformował w sobotę dziennik „New York Post”. Dodał, że surowiec jest przetwarzany w amerykańskich rafineriach...",
+      "date_published": "2026-01-24T17:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-znow-o-Grenlandii-Bedziemy-miec-wszystko-co-chcemy-9073651.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-znow-o-Grenlandii-Bedziemy-miec-wszystko-co-chcemy-9073651.html",
+      "title": "Trump znów o Grenlandii. \"Będziemy mieć wszystko, co chcemy\"",
+      "content_html": "Prezydent Donald Trump powiedział, że USA zdobędą suwerenność nad terytorium Grenlandii, na którym zlokalizowane są amerykańskie bazy, przejmując ten teren na własność - poinformował w sobotę dziennik „New York Post”. - Będziemy mieć...",
+      "date_published": "2026-01-24T17:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szkolna-afera-o-krzyz-Nauczycielka-z-Kielna-odwoluje-sie-od-kary-9071285.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szkolna-afera-o-krzyz-Nauczycielka-z-Kielna-odwoluje-sie-od-kary-9071285.html",
+      "title": "Szkolna afera o krzyż. Nauczycielka z Kielna odwołuje się od kary",
+      "content_html": "Nauczycielka z Kielna przyznała w rozmowie z PAP, że złożyła odwołanie od decyzji o zawieszeniu jej w obowiązkach. – Mam nadzieję, że władze przychylą się do mojego odwołania i wrócę do dzieci – powiedziała.",
+      "date_published": "2026-01-24T16:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strefy-buforowe-i-kontrola-USA-Kulisy-trojstronnych-rozmow-o-pokoju-w-Ukrainie-9073647.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strefy-buforowe-i-kontrola-USA-Kulisy-trojstronnych-rozmow-o-pokoju-w-Ukrainie-9073647.html",
+      "title": "Strefy buforowe i kontrola USA? Kulisy trójstronnych rozmów o pokoju w Ukrainie",
+      "content_html": "Rozmowy prowadzone od piątku przez delegacje USA, Rosji i Ukrainy były konstruktywne – ocenił w sobotę po ich zakończeniu ukraiński prezydent Wołodymyr Zełenski. Kolejna runda negocjacji - jak dodał - może odbyć się w przyszłym tygodniu...",
+      "date_published": "2026-01-24T16:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-wolnego-lacza-W-Polsce-dominuje-juz-swiatlowod-ale-wciaz-go-malo-9068306.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-wolnego-lacza-W-Polsce-dominuje-juz-swiatlowod-ale-wciaz-go-malo-9068306.html",
+      "title": "Koniec wolnego łącza? W Polsce dominuje już światłowód, ale wciąż go za mało",
+      "content_html": "Ponad 4,4 mln adresów w Polsce, czyli 55,97 proc. znajdowało się na koniec ubiegłego roku w zasięgu internetu o przepustowości 1000 Mb/s - podano w najnowszym raporcie resortu cyfryzacji. Na koniec trzeciego kwartału 2025 r. było to 56,6 proc...",
+      "date_published": "2026-01-24T16:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zyletkowiec-wpisany-do-rejestru-zabytkow-9071084.html",
       "url": "https://www.bankier.pl/wiadomosc/Zyletkowiec-wpisany-do-rejestru-zabytkow-9071084.html",
       "title": "„Żyletkowiec” wpisany do rejestru zabytków",
       "content_html": "Decyzją mazowieckiego wojewódzkiego konserwatora zabytków Marcina Dawidowicza zespół budowlany Centralnego Biura Studiów Budownictwa Przemysłowego wraz z „żyletkowcem”, zaprojektowanym przez Marka Leykama trafił do rejestru zabytków",
       "date_published": "2026-01-24T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-grozi-Kanadzie-Cla-100-proc-na-wszystkie-towary-jesli-9073643.html",
+      "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-grozi-Kanadzie-Cla-100-proc-na-wszystkie-towary-jesli-9073643.html",
+      "title": "Donald Trump grozi Kanadzie. Cła 100 proc. na wszystkie towary, jeśli...",
+      "content_html": "Prezydent USA Donald Trump zagroził w sobotę na własnej platformie społecznościowej Truth Social, że nałoży cła w wysokości 100 proc. na wszystkie importowane towary z Kanady, jeśli kraj ten zawrze umowę handlową z Chinami.",
+      "date_published": "2026-01-24T15:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/35-tys-zabitych-Rosjan-w-miesiac-to-za-malo-Minister-obrony-Ukrainy-wyznacza-nowy-prog-9071204.html",
+      "url": "https://www.bankier.pl/wiadomosc/35-tys-zabitych-Rosjan-w-miesiac-to-za-malo-Minister-obrony-Ukrainy-wyznacza-nowy-prog-9071204.html",
+      "title": "35 tys. zabitych Rosjan w miesiąc to za mało. Minister obrony Ukrainy wyznacza nowy próg",
+      "content_html": "Minister obrony Ukrainy Mychajło Fedorow wyraził przekonanie, że jednym z kluczowych etapów zmuszania Rosji do pokoju siłą jest osiągnięcie strategicznego celu - eliminowania średnio 50 tys. rosyjskich żołnierzy w ciągu miesiąca - poinformowała...",
+      "date_published": "2026-01-24T15:06:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-z-fikcja-w-walce-z-mobbingiem-Nowe-obowiazki-dla-kazdego-pracodawcy-w-Polsce-9071100.html",
@@ -53,6 +165,13 @@
       "date_published": "2026-01-24T14:15:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-zaostrza-kurs-na-Latynosow-Szesciokrotnie-wiecej-deportacji-niz-za-Bidena-9073630.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-zaostrza-kurs-na-Latynosow-Szesciokrotnie-wiecej-deportacji-niz-za-Bidena-9073630.html",
+      "title": "Trump zaostrza kurs na Latynosów. Sześciokrotnie więcej deportacji niż za Bidena",
+      "content_html": "Od początku drugiej kadencji Donalda Trumpa nastąpił sześciokrotny wzrost liczby latynoskich imigrantów aresztowanych i deportowanych w ciągu roku z USA, głównie Wenezuelczyków i Meksykanów, w porównaniu z okresem urzędowania jego poprzednika...",
+      "date_published": "2026-01-24T14:08:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/E-dziennik-pod-lupa-hakerow-Librus-apeluje-do-MEN-o-przymusowe-zabezpieczenia-9071049.html",
       "url": "https://www.bankier.pl/wiadomosc/E-dziennik-pod-lupa-hakerow-Librus-apeluje-do-MEN-o-przymusowe-zabezpieczenia-9071049.html",
       "title": "E-dziennik pod lupą hakerów. Librus apeluje do MEN o przymusowe zabezpieczenia",
@@ -79,6 +198,13 @@
       "title": "Iliana Jotowa nową prezydentką Bułgarii. Pierwsza taka sytuacja od ponad 700 lat",
       "content_html": "Po przyjęciu przez bułgarski Trybunał Konstytucyjny rezygnacji długoletniego prezydenta Rumena Radewa po raz pierwszy od ponad siedmiu stuleci na czele władzy w Bułgarii stanęła kobieta. Dotychczasowa wiceprezydentka Iliana Jotowa zakończy drugą...",
       "date_published": "2026-01-24T13:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-Viktora-Orbana-Anita-Orban-ma-odblokowac-miliardy-z-UE-9073614.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-Viktora-Orbana-Anita-Orban-ma-odblokowac-miliardy-z-UE-9073614.html",
+      "title": "Koniec ery Viktora Orbana? Anita Orban ma odblokować miliardy z UE",
+      "content_html": "Lider węgierskiej opozycji Peter Magyar, którego TISZA prowadzi w większości sondaży przed wyborami zaplanowanymi na 12 kwietnia, powierzył Anicie Orban, ekspertce ds. energii, kierowanie polityką zagraniczną swojego obozu - wynika z jego sobotniego...",
+      "date_published": "2026-01-24T12:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Stop-Killing-Games-co-sie-dzieje-z-inicjatywa-w-UE-9072572.html",
@@ -576,97 +702,6 @@
       "title": "Mirbud ma umowę na budowę hali magazynowo-produkcyjnej w woj. pomorskim o wart. 17,6 mln euro",
       "content_html": "Mirbud podpisał umowę z 7R Projekt 47, której przedmiotem jest budowa hali magazynowo-produkcyjnej wraz z zapleczami socjalno-biurowymi oraz infrastrukturą techniczną o nazwie 7R Park Gdańsk V w Barniewicach w woj. pomorskie - podał Mirbud w komunikacie...",
       "date_published": "2026-01-23T14:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-pociagu-w-Andaluzji-Ujawniono-nowa-hipoteze-Pekniecie-torow-zabilo-45-osob-9073271.html",
-      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-pociagu-w-Andaluzji-Ujawniono-nowa-hipoteze-Pekniecie-torow-zabilo-45-osob-9073271.html",
-      "title": "Katastrofa pociągu w Andaluzji. Pęknięcie torów zabiło 45 osób?",
-      "content_html": "Pęknięcie torów to najbardziej prawdopodobna hipoteza dotycząca przyczyny wykolejenia się pociągu dużych prędkości Iryo w niedzielę w Andaluzji - poinformowała w piątek Hiszpańska Komisja ds. Badania Wypadków Kolejowych (CIAF). W katastrofie...",
-      "date_published": "2026-01-23T14:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bumech-podal-ze-jeden-z-wierzycieli-PG-Silesia-zlozyl-wniosek-o-ogloszenie-upadlosci-9073268.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bumech-podal-ze-jeden-z-wierzycieli-PG-Silesia-zlozyl-wniosek-o-ogloszenie-upadlosci-9073268.html",
-      "title": "Upadłość PG Silesia? Wniosek trafił do sądu, Bumech komentuje",
-      "content_html": "Bumech podał, że jeden z wierzycieli Przedsiębiorstwa Górniczego \"Silesia\" sp. z o. o. złożył 21 stycznia 2026 roku, w Sądzie Rejonowym Katowice Wschód w Katowicach, X Wydział Gospodarczy wniosek o ogłoszenie upadłości - podał Bumech w komunikacie...",
-      "date_published": "2026-01-23T14:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bundeswehra-uzywa-satelitow-radarowych-ICEYE-do-monitorowania-wschodniej-flanki-NATO-9073249.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bundeswehra-uzywa-satelitow-radarowych-ICEYE-do-monitorowania-wschodniej-flanki-NATO-9073249.html",
-      "title": "Bundeswehra używa satelitów radarowych ICEYE do monitorowania wschodniej flanki NATO",
-      "content_html": "Bundeswehra od początku stycznia korzysta z satelitów radarowych polsko-fińskiej firmy ICEYE, które umożliwiają precyzyjne monitorowanie wschodniej flanki NATO, w tym rejonu stacjonowania niemieckiej 45. Brygady Pancernej na Litwie - napisał w...",
-      "date_published": "2026-01-23T14:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KE-wysle-do-Ukrainy-blisko-450-awaryjnych-generatorow-pradu-9073243.html",
-      "url": "https://www.bankier.pl/wiadomosc/KE-wysle-do-Ukrainy-blisko-450-awaryjnych-generatorow-pradu-9073243.html",
-      "title": "KE wyśle do Ukrainy blisko 450 awaryjnych generatorów prądu",
-      "content_html": "Komisja Europejska poinformowała w piątek, że wyśle do Ukrainy 447 awaryjnych generatorów prądu o wartości 3,7 mln euro, by przywrócić zasilanie pozbawionym prądu, wody i ogrzewania oraz zmagającymi się z mroźną zimą mieszkańcom tego kraju...",
-      "date_published": "2026-01-23T14:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cla-odwetowe-na-USA-Nagly-zwrot-w-sprawie-karnych-taryf-UE-9073244.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cla-odwetowe-na-USA-Nagly-zwrot-w-sprawie-karnych-taryf-UE-9073244.html",
-      "title": "Cła odwetowe na USA. Nagły zwrot w sprawie karnych taryf UE",
-      "content_html": "Po wycofaniu gróźb celnych przez USA Unia Europejska może wrócić do realizowania porozumienia zawartego z tym krajem - podał w piątek rzecznik Komisji Europejskiej Olof Gill. KE zaproponuje wkrótce przedłużenie zawieszenia ceł odwetowych na...",
-      "date_published": "2026-01-23T14:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Z-kopalni-na-poligon-Bumech-stworzy-slaski-hub-dla-Bradleyow-i-Strykerow-9073233.html",
-      "url": "https://www.bankier.pl/wiadomosc/Z-kopalni-na-poligon-Bumech-stworzy-slaski-hub-dla-Bradleyow-i-Strykerow-9073233.html",
-      "title": "Z kopalni na poligon. Bumech stworzy śląski hub dla Bradleyów i Strykerów",
-      "content_html": "Grupa Bumech, właściciel spółki eksploatującej kopalnię Silesia poinformował w piątek, że podpisał umowę o współpracy z amerykańską spółką United Manufacturing Technologies LLC (UMT), mającą doświadczenie w produkcji pojazdów MRAP...",
-      "date_published": "2026-01-23T14:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-reset-Malego-ZUS-Plus-Czesc-przedsiebiorcow-moze-wrocic-do-oplacania-nizszych-skladek-9073214.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-reset-Malego-ZUS-Plus-Czesc-przedsiebiorcow-moze-wrocic-do-oplacania-nizszych-skladek-9073214.html",
-      "title": "Wielki reset Małego ZUS Plus. Część przedsiębiorców może wrócić do opłacania niższych składek",
-      "content_html": "Nowe zasady małego ZUS plus mają ułatwić przedsiębiorcom korzystanie z ulgi składkowej. Płatnik, który w grudniu 2025 r. zakończył trzyletnią ulgę na starych zasadach, już od stycznia może skorzystać z kolejnych 36 miesięcy – poinformował...",
-      "date_published": "2026-01-23T14:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-PKO-BP-Santanderze-Nest-Banku-9073215.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-PKO-BP-Santanderze-Nest-Banku-9073215.html",
-      "title": "Kolejny weekend z przerwami. Bankomat może zastrajkować",
-      "content_html": "Jak co piątek informujemy czytelników Bankier.pl o pracach zaplanowanych przez banki na nadchodzący weekend. Tym razem zdecydowało się na nie pięć instytucji. Pierwsze utrudnienia pojawią się już w piątek. W przypadku części z nich prace...",
-      "date_published": "2026-01-23T14:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Banki-sypia-kasa-Sprawdz-gdzie-placa-najwiecej-9073166.html",
-      "url": "https://www.bankier.pl/wiadomosc/Banki-sypia-kasa-Sprawdz-gdzie-placa-najwiecej-9073166.html",
-      "title": "Banki sypią kasą. Sprawdź, gdzie płacą najwięcej",
-      "content_html": "Nowi klienci banków mogą liczyć na solidny zastrzyki gotówki: vouchery na zakupy oraz wysokie zwroty za paliwo. Premie za otwarcie konta sięgają nawet kilku tysięcy złotych, a w niektórych przypadkach wystarczy jedna płatność kartą, by zainkasować...",
-      "date_published": "2026-01-23T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szokujace-slowa-prezydenta-USA-o-sojusznikach-NATO-Nigdy-ich-nie-potrzebowalismy-9072993.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szokujace-slowa-prezydenta-USA-o-sojusznikach-NATO-Nigdy-ich-nie-potrzebowalismy-9072993.html",
-      "title": "Szokujące słowa prezydenta USA o sojusznikach NATO. \"Nigdy ich nie potrzebowaliśmy\"",
-      "content_html": "Światowe Forum Ekonomiczne w Davos, które miało być miejscem łagodzenia napięć po sporze o Grenlandię, stało się sceną jednego z najbardziej brutalnych ataków na jedność NATO w historii. Prezydent USA Donald Trump w wypowiedzi dla Fox News...",
-      "date_published": "2026-01-23T13:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kapitalny-debiut-CSG-w-Amsterdamie-Szybko-zostali-wieksi-niz-SAAB-i-Leonardo-9073209.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kapitalny-debiut-CSG-w-Amsterdamie-Szybko-zostali-wieksi-niz-SAAB-i-Leonardo-9073209.html",
-      "title": "Kapitalny debiut CSG w Amsterdamie. Szybko zostali więksi niż giganci z Włoch i Szwecji",
-      "content_html": "Historyczny debiut giełdowy firmy Czechoslovak Group (CSG), który miał miejsce 23 stycznia 2026 roku na giełdzie w Amsterdamie, okazał się niebywałym sukcesem. Handel rozpoczął się wzrostem kursu o 32 proc., wyceniając firmę na ponad 43 mld...",
-      "date_published": "2026-01-23T13:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Flota-cieni-kpi-z-Londynu-42-rosyjskie-tankowce-przeplynely-kanal-La-Manche-9073172.html",
-      "url": "https://www.bankier.pl/wiadomosc/Flota-cieni-kpi-z-Londynu-42-rosyjskie-tankowce-przeplynely-kanal-La-Manche-9073172.html",
-      "title": "\"Flota cieni\" kpi z Londynu? 42 rosyjskie tankowce przepłynęły kanał La Manche",
-      "content_html": "BBC Verify poinformowała w piątek, że tylko od 11 stycznia 42 tankowce, objęte brytyjskimi sankcjami w odpowiedzi na inwazję Rosji na Ukrainę, przepłynęły przez kanał La Manche, pomimo zapewnień rządu w Londynie o podjęciu „asertywnych...",
-      "date_published": "2026-01-23T13:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lagarde-Swiatowy-porzadek-sie-zmienia-ale-nie-jest-to-jego-zalamanie-9073201.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lagarde-Swiatowy-porzadek-sie-zmienia-ale-nie-jest-to-jego-zalamanie-9073201.html",
-      "title": "Lagarde: Światowy porządek się zmienia, ale nie jest to jego załamanie",
-      "content_html": "Szefowa Europejskiego Banku Centralnego (EBC) Christine Lagarde podczas piątkowego wystąpienia na Światowym Forum Ekonomicznym w Davos odniosła się do wypowiedzi premiera Kanady Marka Carneya, mówiąc, że światowy porządek się zmienia, ale nie...",
-      "date_published": "2026-01-23T13:33:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
