@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-fikcja-w-walce-z-mobbingiem-Nowe-obowiazki-dla-kazdego-pracodawcy-w-Polsce-9071100.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-fikcja-w-walce-z-mobbingiem-Nowe-obowiazki-dla-kazdego-pracodawcy-w-Polsce-9071100.html",
+      "title": "Koniec z fikcją w walce z mobbingiem? Nowe obowiązki dla każdego pracodawcy w Polsce",
+      "content_html": "Pracodawca zgodnie z planowanymi zmianami do kodeksu pracy będzie zobowiązany do walki z mobbingiem „przez stosowanie działań prewencyjnych, wykrywanie oraz właściwe reagowanie, a także przez działania naprawcze i wsparcie osób dotkniętych...",
+      "date_published": "2026-01-24T15:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Historyczny-ruch-Seulu-Korea-Poludniowa-jako-pierwsza-na-swiecie-uregulowala-AI-9072386.html",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-ruch-Seulu-Korea-Poludniowa-jako-pierwsza-na-swiecie-uregulowala-AI-9072386.html",
+      "title": "Historyczny ruch Seulu. Korea Południowa jako pierwsza na świecie uregulowała AI",
+      "content_html": "Korea Południowa jako pierwszy kraj na świecie wdrożyła w czwartek kompleksowe przepisy dotyczące sztucznej inteligencji – podały władze w Seulu. Nowe prawo ma regulować systemy wysokiego ryzyka oraz zwalczać dezinformację i deepfake’i...",
+      "date_published": "2026-01-24T15:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowa-Strategia-Obrony-Narodowej-USA-Rosja-pozostanie-stalym-zagrozeniem-9073553.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowa-Strategia-Obrony-Narodowej-USA-Rosja-pozostanie-stalym-zagrozeniem-9073553.html",
       "title": "Nowa Strategia Obrony Narodowej USA. \"Rosja pozostanie stałym zagrożeniem\"",
@@ -65,6 +79,13 @@
       "title": "Rekordowa emerytura w Polsce. ZUS wypłaca ponad 51 tys. zł",
       "content_html": "Najwyższa emerytura w Polsce wynosi 51,4 tys. zł brutto i pobiera ją mężczyzna, którego staż pracy to 67 lat - poinformował PAP Zakład Ubezpieczeń Społecznych. Najniższa wypłacana kwota przez ZUS to 2 grosze, otrzymują ją dwie osoby. W...",
       "date_published": "2026-01-24T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanska-armada-plynie-w-strone-Iranu-Teheran-ostrzega-Kazdy-atak-to-poczatek-wielkiej-wojny-9073603.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanska-armada-plynie-w-strone-Iranu-Teheran-ostrzega-Kazdy-atak-to-poczatek-wielkiej-wojny-9073603.html",
+      "title": "Amerykańska \"armada\" płynie w stronę Iranu. Teheran ostrzega: Każdy atak to początek wielkiej wojny",
+      "content_html": "Wysoki rangą przedstawiciel władz Iranu powiedział w sobotę, że jego kraj potraktuje każdy atak jako „wojnę totalną przeciwko nam” – poinformowała agencja Reutera. Wyraził nadzieję, że zmierzająca w stronę Iranu duża liczba amerykańskich...",
+      "date_published": "2026-01-24T11:02:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Gorzej-niz-podczas-pandemii-Przemysl-motoryzacyjny-w-UE-zlikwidowal-104-tys-etatow-9070975.html",
@@ -141,6 +162,13 @@
       "url": "https://www.bankier.pl/wiadomosc/Gubernatora-Kalifornii-nie-wpuszczono-do-pawilonu-USA-w-Davos-Ekonomiczny-analfabeta-9072179.html",
       "title": "Gubernatora Kalifornii nie wpuszczono do pawilonu USA w Davos. \"Ekonomiczny analfabeta\"",
       "content_html": "Gavin Newsom, gubernator Kalifornii i krytyk prezydenta Donalda Trumpa, nie został wpuszczony do amerykańskiego pawilonu na Światowym Forum Ekonomicznym w Davos, a jego wystąpienie zostało odwołane - podał dziennik „New York Times”, powołując...",
+      "date_published": "2026-01-24T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KRS-po-nowemu-Sedziowie-odzyskuja-kluczowe-prawo-9073471.html",
+      "url": "https://www.bankier.pl/wiadomosc/KRS-po-nowemu-Sedziowie-odzyskuja-kluczowe-prawo-9073471.html",
+      "title": "KRS po nowemu. Sędziowie odzyskują kluczowe prawo",
+      "content_html": "Sejm uchwalił w piątek nowelizację ustawy o Krajowej Radzie Sądownictwa oraz powiązaną z nią zmianę Kodeksu wyborczego. Sędziów - członków KRS - mają wybierać w bezpośrednich i tajnych wyborach organizowanych przez PKW wszyscy sędziowie...",
       "date_published": "2026-01-24T09:00:00+01:00"
     },
     {
@@ -674,27 +702,6 @@
       "title": "Trump wstrzymuje egzekucje w Iranie? Jest to \"całkowicie fałszywe\"",
       "content_html": "Prokurator generalny Iranu Mohammad Mowahedi zaprzeczył w piątek doniesieniom prezydenta USA Donalda Trumpa, jakoby jego interwencja wstrzymała egzekucję 800 osób zatrzymanych podczas ogólnokrajowych protestów. Mowahedi nazwał komentarze Trumpa...",
       "date_published": "2026-01-23T12:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-LPP-przyjelo-program-motywacyjny-9073133.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-LPP-przyjelo-program-motywacyjny-9073133.html",
-      "title": "Akcjonariusze LPP zdecydowali o przyjęciu programu motywacyjnego",
-      "content_html": "Akcjonariusze LPP zdecydowali o przyjęciu programu motywacyjnego dla członków zarządu, pracowników i współpracowników - podała spółka w komunikacie z przyjętymi uchwałami przez walne zgromadzenie.",
-      "date_published": "2026-01-23T11:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-wyjasnia-watpliwosci-Metoda-autoryzacji-na-selfie-to-tylko-alternatywa-9073127.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-wyjasnia-watpliwosci-Metoda-autoryzacji-na-selfie-to-tylko-alternatywa-9073127.html",
-      "title": "PKO BP wyjaśnia wątpliwości. Metoda autoryzacji na selfie to tylko alternatywa",
-      "content_html": "W ostatnim czasie pojawiła się w PKO Banku Polskim nowa metoda autoryzacji transakcji zleconych w aplikacji IKO. W wyjątkowych sytuacjach bank może zażądać dodatkowej weryfikacji tożsamości. W tym celu została wprowadzona dodatkowa metoda na...",
-      "date_published": "2026-01-23T11:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-dyktatu-Chin-Wlochy-i-Niemcy-chca-miedzynarodowej-kontroli-cen-surowcow-9073114.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-dyktatu-Chin-Wlochy-i-Niemcy-chca-miedzynarodowej-kontroli-cen-surowcow-9073114.html",
-      "title": "Koniec dyktatu Chin? Włochy i Niemcy chcą międzynarodowej kontroli cen surowców",
-      "content_html": "Szef włoskiej dyplomacji, wicepremier Antonio Tajani oświadczył w piątek w Rzymie, że Włochy i Niemcy opowiadają się za międzynarodowym porozumieniem w sprawie kontroli cen surowców, aby ograniczyć wpływy Chin. Tajani i minister spraw zagranicznych...",
-      "date_published": "2026-01-23T11:45:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
