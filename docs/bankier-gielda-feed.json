@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polacy-lubia-laptopy-premium-Firmy-kupuja-komputery-trzy-razy-szybciej-niz-konsumenci-9068319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-lubia-laptopy-premium-Firmy-kupuja-komputery-trzy-razy-szybciej-niz-konsumenci-9068319.html",
+      "title": "Polacy lubią laptopy premium. Firmy kupują komputery trzy razy szybciej niż konsumenci W 2026 r. polski rynek sprzętu komputerowego będzie rósł, ale wyzwaniem będzie dostępność komponentów, głównie kości pamięci - powiedział PAP Biznes Paweł Miszkiewicz, Dyrektor Kanału Partnerskiego w HP Inc Polska. Wskazał, że w Polsce kategorią produktową, która będzie rosła są desktopy, duży potencjał mają także rozwiązania audio-video.",
+      "content_html": "",
+      "date_published": "2026-01-25T14:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Historyczny-rekord-nierownosci-w-USA-Winna-hossa-na-rynku-akcji-9072973.html",
       "url": "https://www.bankier.pl/wiadomosc/Historyczny-rekord-nierownosci-w-USA-Winna-hossa-na-rynku-akcji-9072973.html",
       "title": "Historyczny rekord nierówności w USA. Winna hossa na rynku akcji? Nierówność majątkowa w USA osiągnęła najwyższy poziom od ponad 30 lat, a dane Rezerwy Federalnej potwierdzają utrwalanie się tzw. gospodarki w kształcie litery K. Zamożne gospodarstwa domowe oraz wybrane sektory szybko się bogacą, podczas gdy osoby o niskich i średnich dochodach pozostają w tyle.",
@@ -100,27 +107,6 @@
       "title": "Upadłość PG Silesia? Wniosek trafił do sądu, Bumech komentuje Bumech podał, że jeden z wierzycieli Przedsiębiorstwa Górniczego \"Silesia\" sp. z o. o. złożył 21 stycznia 2026 roku, w Sądzie Rejonowym Katowice Wschód w Katowicach, X Wydział Gospodarczy wniosek o ogłoszenie upadłości - podał Bumech w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-23T14:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Z-kopalni-na-poligon-Bumech-stworzy-slaski-hub-dla-Bradleyow-i-Strykerow-9073233.html",
-      "url": "https://www.bankier.pl/wiadomosc/Z-kopalni-na-poligon-Bumech-stworzy-slaski-hub-dla-Bradleyow-i-Strykerow-9073233.html",
-      "title": "Z kopalni na poligon. Bumech stworzy śląski hub dla Bradleyów i Strykerów Grupa Bumech, właściciel spółki eksploatującej kopalnię Silesia poinformował w piątek, że podpisał umowę o współpracy z amerykańską spółką United Manufacturing Technologies LLC (UMT), mającą doświadczenie w produkcji pojazdów MRAP i systemów przeciwdronowych.",
-      "content_html": "",
-      "date_published": "2026-01-23T14:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kapitalny-debiut-CSG-w-Amsterdamie-Szybko-zostali-wieksi-niz-SAAB-i-Leonardo-9073209.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kapitalny-debiut-CSG-w-Amsterdamie-Szybko-zostali-wieksi-niz-SAAB-i-Leonardo-9073209.html",
-      "title": "Kapitalny debiut CSG w Amsterdamie. Szybko zostali więksi niż giganci z Włoch i Szwecji Historyczny debiut giełdowy firmy Czechoslovak Group (CSG), który miał miejsce 23 stycznia 2026 roku na giełdzie w Amsterdamie, okazał się niebywałym sukcesem. Handel rozpoczął się wzrostem kursu o 32 proc., wyceniając firmę na ponad 43 mld dolarów. To więcej niż wynosi kapitalizacja SAABA i Leonardo, największych zbrojeniowych spółek ze Szwecji i Włoch.",
-      "content_html": "",
-      "date_published": "2026-01-23T13:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-wynikowa-ofensywa-stopy-w-USA-i-niemiecki-PKB-9073182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-wynikowa-ofensywa-stopy-w-USA-i-niemiecki-PKB-9073182.html",
-      "title": "TYM BĘDĄ ŻYŁY RYNKI Wynikowa ofensywa, stopy w USA i niemiecki PKB W ostatnim tygodniu stycznia swoje wyniki finansowe zaprezentuje szereg giełdowych gigantów z USA, na czele z Apple, Microsoftem, Metą i Teslą. Decyzję o wysokości stóp procentowych podejmie FOMC. Dowiemy się też, jak w końcówce ubiegłego roku radziły sobie niemiecka i francuska gospodarka oraz szacunek wstępny polskiego PKB za cały 2025 rok.",
-      "content_html": "",
-      "date_published": "2026-01-23T13:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
