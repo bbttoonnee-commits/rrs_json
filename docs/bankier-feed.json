@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-w-UE-Zelenski-podal-date-ale-Nawrocki-studzi-zapal-Trudno-osiagalne-9073816.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-w-UE-Zelenski-podal-date-ale-Nawrocki-studzi-zapal-Trudno-osiagalne-9073816.html",
+      "title": "Ukraina w UE? Zełenski podał datę, ale Nawrocki studzi zapał. \"Trudno osiągalne\"",
+      "content_html": "Prezydent Karol Nawrocki podkreślił w niedzielę w Wilnie, że warto, by głos takich formatów, jak Trójkąt Lubelski, był słyszalny na świecie. Dodał, że niezależnie od ustroju w Rosji, to jest ona wciąż zagrożeniem, zaś Polska, Litwa i...",
+      "date_published": "2026-01-25T19:22:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Euro-w-Polsce-Domanski-Mamy-coraz-wiecej-argumentow-za-utrzymaniem-zlotego-9073781.html",
       "url": "https://www.bankier.pl/wiadomosc/Euro-w-Polsce-Domanski-Mamy-coraz-wiecej-argumentow-za-utrzymaniem-zlotego-9073781.html",
       "title": "Euro w Polsce? Domański: Mamy coraz więcej argumentów za utrzymaniem złotego",
@@ -72,6 +79,13 @@
       "title": "Ołów w popularnej elektronice. UOKiK wycofuje ze sprzedaży smartwatche i słuchawki",
       "content_html": "Inspekcja Handlowa wykryła przekroczenia dopuszczalnych norm substancji niebezpiecznych w 4 z 30 skontrolowanych modeli słuchawek i smartwatchy – poinformował UOKiK. Z powodu wad konstrukcyjnych inspekcja zakwestionowała zaś 5 z 9 modeli ławek...",
       "date_published": "2026-01-25T14:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-uderza-w-Unie-Pieskow-o-Kai-Kallas-Nigdy-nie-bedziemy-z-nia-rozmawiac-9073772.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-uderza-w-Unie-Pieskow-o-Kai-Kallas-Nigdy-nie-bedziemy-z-nia-rozmawiac-9073772.html",
+      "title": "Rosja uderza w Unię. Pieskow o Kai Kallas: Nigdy nie będziemy z nią rozmawiać",
+      "content_html": "Rzecznik Kremla Dmitrij Pieskow powiedział w niedzielę, że dopóki za sprawy zagraniczne w Unii Europejskiej odpowiada Kaja Kallas, Rosja nie będzie z nią o niczym rozmawiać – poinformował Reuters, cytując wywiad Pieskowa dla rosyjskiej telewizji...",
+      "date_published": "2026-01-25T13:56:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-liderem-swiatlowodow-Jestesmy-powyzej-unijnej-sredniej-ale-miedz-musi-zniknac-9071780.html",
@@ -688,13 +702,6 @@
       "title": "Negocjacje pokojowe w Abu Zabi. USA, Rosja i Ukraina przy jednym stole",
       "content_html": "W Zjednoczonych Emiratach Arabskich odbyły się już pierwsze rozmowy przedstawicieli Ukrainy, USA i Rosji w sprawie możliwego porozumienia pokojowego; na razie jeszcze za wcześnie na wnioski – powiadomił w piątek wieczorem ukraiński prezydent...",
       "date_published": "2026-01-24T08:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-352-8-mln-zl-netto-zostala-oceniona-najwyzej-w-przetargu-GDDKiA-9073441.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-352-8-mln-zl-netto-zostala-oceniona-najwyzej-w-przetargu-GDDKiA-9073441.html",
-      "title": "Oferta Budimeksu za 352,8 mln zł netto została oceniona najwyżej w przetargu GDDKiA",
-      "content_html": "Oferta Budimeksu została oceniona najwyżej w przetargu GDDKiA na przebudowę autostrady A2 na odcinku węzeł Łódź Północ (bez węzła) granica województwa łódzkiego i mazowieckiego o dodatkowe pasy ruchu - podała spółka w komunikacie. Wartość...",
-      "date_published": "2026-01-24T08:56:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
