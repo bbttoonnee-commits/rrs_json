@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wspolny-poligon-Polski-i-Litwy-Padla-propozycja-Nausedy-9073679.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wspolny-poligon-Polski-i-Litwy-Padla-propozycja-Nausedy-9073679.html",
+      "title": "Wspólny poligon Polski i Litwy? Padła propozycja Nausedy",
+      "content_html": "Zachęcamy Polskę do rozważenia możliwości rozszerzenia planowanego poligonu w rejonie łoździejskim na Polskę i utworzenia wspólnego obiektu wojskowego obu krajów – oświadczył prezydent Litwy Gitanas Nauseda, cytowany w sobotę w komunikacie...",
+      "date_published": "2026-01-25T08:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-W-Minneapolis-w-strzelaninie-z-udzialem-agentow-federalnych-zginal-mezczyzna-trwaja-protesty-opis-9073671.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-W-Minneapolis-w-strzelaninie-z-udzialem-agentow-federalnych-zginal-mezczyzna-trwaja-protesty-opis-9073671.html",
+      "title": "Strzelanina w Minneapolis. Trump: Władze podżegają do buntu",
+      "content_html": "W Minneapolis w sobotę doszło do strzelaniny z udziałem agentów federalnych, w której zabity został mężczyzna. Na miejscu zdarzenia gromadzi się coraz więcej protestujących. Dochodzi do starć z funkcjonariuszami, policja użyła gazu łzawiącego...",
+      "date_published": "2026-01-25T08:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polacy-wychodza-z-psychicznego-dolka-Duma-na-rekordowym-poziomie-9070734.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-wychodza-z-psychicznego-dolka-Duma-na-rekordowym-poziomie-9070734.html",
+      "title": "Polacy wychodzą z psychicznego dołka? Duma na rekordowym poziomie",
+      "content_html": "2025 był kolejnym rokiem poprawy samopoczucia Polaków. W porównaniu z 2024 r. przybyło przede wszystkim ankietowanych deklarujących wielokrotne doświadczanie dumy z własnych osiągnięć. Ich odsetek jest najwyższy od 1990 r. – wynika z opublikowanego...",
+      "date_published": "2026-01-25T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-piciem-na-ulicach-Lizbony-Grozi-za-to-czterocyfrowy-mandat-oczywiscie-w-euro-9070820.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-piciem-na-ulicach-Lizbony-Grozi-za-to-czterocyfrowy-mandat-oczywiscie-w-euro-9070820.html",
+      "title": "Koniec z piciem na ulicach Lizbony. Grozi za to czterocyfrowy mandat (oczywiście w euro)",
+      "content_html": "Zatwierdzony przez ratusz Lizbony zakaz nocnej sprzedaży alkoholu na wynos w miejscach publicznych dzieli mieszkańców portugalskiej stolicy oraz przedsiębiorców. Restrykcje zaczną obowiązywać 16 lutego.",
+      "date_published": "2026-01-25T08:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Deweloperzy-sami-zastawili-na-siebie-pulapke-Lawinowo-rosnie-liczba-niesprzedanych-mieszkan-9068219.html",
       "url": "https://www.bankier.pl/wiadomosc/Deweloperzy-sami-zastawili-na-siebie-pulapke-Lawinowo-rosnie-liczba-niesprzedanych-mieszkan-9068219.html",
       "title": "Deweloperzy sami zastawili na siebie pułapkę. Lawinowo rośnie liczba niesprzedanych mieszkań",
@@ -32,11 +60,18 @@
       "date_published": "2026-01-25T06:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/USA-W-Minneapolis-w-strzelaninie-z-udzialem-agentow-federalnych-zginal-mezczyzna-trwaja-protesty-opis-9073671.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-W-Minneapolis-w-strzelaninie-z-udzialem-agentow-federalnych-zginal-mezczyzna-trwaja-protesty-opis-9073671.html",
-      "title": "Strzelanina w Minneapolis. Gubernator wzywa Trumpa do odwrotu",
-      "content_html": "W Minneapolis w sobotę doszło do strzelaniny z udziałem agentów federalnych, w której zabity został mężczyzna. Na miejscu zdarzenia gromadzi się coraz więcej protestujących. Dochodzi do starć z funkcjonariuszami, policja użyła gazu łzawiącego...",
-      "date_published": "2026-01-24T20:00:00+01:00"
+      "id": "https://www.bankier.pl/wiadomosc/Macron-Slowa-Trumpa-o-zolnierzach-NATO-w-Afganistanie-nie-do-przyjecia-9073677.html",
+      "url": "https://www.bankier.pl/wiadomosc/Macron-Slowa-Trumpa-o-zolnierzach-NATO-w-Afganistanie-nie-do-przyjecia-9073677.html",
+      "title": "Macron: Słowa Trumpa o żołnierzach NATO w Afganistanie nie do przyjęcia",
+      "content_html": "Słowa prezydenta USA Donalda Trumpa o tym, że żołnierze NATO w Afganistanie „trzymali się trochę z tyłu” były niedopuszczalne – skomentował w sobotę prezydent Francji Emmanuel Macron, cytowany przez portal radia FranceInfo.",
+      "date_published": "2026-01-24T20:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-zimy-w-USA-Ponad-10-tys-lotow-odwolanych-9073676.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-zimy-w-USA-Ponad-10-tys-lotow-odwolanych-9073676.html",
+      "title": "Atak zimy w USA. Ponad 10 tys. lotów odwołanych",
+      "content_html": "Z powodu burzy śnieżnej, która nawiedziła w sobotę USA i która ma potrwać do poniedziałku, odwołano ponad 10 tys. lotów - donosi stacja CNN. W sobotę ostrzeżenia w związku z trudnymi warunkami atmosferycznymi dotyczą ok. 190 mln mieszkańców...",
+      "date_published": "2026-01-24T20:36:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ajatollah-Chamenei-boi-sie-ataku-USA-Zamieszkal-w-glebokim-schronie-9073669.html",
@@ -170,13 +205,6 @@
       "title": "„Żyletkowiec” wpisany do rejestru zabytków",
       "content_html": "Decyzją mazowieckiego wojewódzkiego konserwatora zabytków Marcina Dawidowicza zespół budowlany Centralnego Biura Studiów Budownictwa Przemysłowego wraz z „żyletkowcem”, zaprojektowanym przez Marka Leykama trafił do rejestru zabytków",
       "date_published": "2026-01-24T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-grozi-Kanadzie-Cla-100-proc-na-wszystkie-towary-jesli-9073643.html",
-      "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-grozi-Kanadzie-Cla-100-proc-na-wszystkie-towary-jesli-9073643.html",
-      "title": "Donald Trump grozi Kanadzie. Cła 100 proc. na wszystkie towary, jeśli...",
-      "content_html": "Prezydent USA Donald Trump zagroził w sobotę na własnej platformie społecznościowej Truth Social, że nałoży cła w wysokości 100 proc. na wszystkie importowane towary z Kanady, jeśli kraj ten zawrze umowę handlową z Chinami.",
-      "date_published": "2026-01-24T15:40:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/35-tys-zabitych-Rosjan-w-miesiac-to-za-malo-Minister-obrony-Ukrainy-wyznacza-nowy-prog-9071204.html",
@@ -667,41 +695,6 @@
       "title": "Trump może wywołać wojnę tak poważną, że USA nie będą mogły stać z boku",
       "content_html": "Komentując przemówienie Donalda Trumpa w Davos, „Economist” ostrzega, że jego polityka może doprowadzić do „wojny tak wyniszczającej, że Ameryka nie będzie mogła stać z boku”. Europejczycy muszą wyciągnąć wnioski zarówno ze słów...",
       "date_published": "2026-01-23T17:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Ukrainie-Ekspert-ostrzega-przed-bomba-ktora-moze-rozsadzic-spoleczenstwo-9073365.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Ukrainie-Ekspert-ostrzega-przed-bomba-ktora-moze-rozsadzic-spoleczenstwo-9073365.html",
-      "title": "Ekspert nie ma złudzeń. \"Przejęcie Donbasu pozwoliłoby ogłosić Rosji sukces\"",
-      "content_html": "Przed piątkowymi rozmowami pokojowymi Rosja podtrzymała żądanie przejęcia całego obwodu donieckiego. W ocenie Kacpra Sienickiego z OSW przejęcie kontroli nad resztą Donbasu byłoby realizacją rosyjskiego planu minimum, ale pozwoliłoby Putinowi...",
-      "date_published": "2026-01-23T16:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ziobro-przed-Trybunalem-Stanu-Lewica-i-KO-rozpoczely-zbieranie-podpisow-9073359.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ziobro-przed-Trybunalem-Stanu-Lewica-i-KO-rozpoczely-zbieranie-podpisow-9073359.html",
-      "title": "Ziobro przed Trybunałem Stanu? Lewica i KO rozpoczęły zbieranie podpisów",
-      "content_html": "Szef klubu parlamentarnego KO Zbigniew Konwiński przekazał PAP, że jego klub rozpoczął zbieranie podpisów pod wstępnym wnioskiem o pociągnięcie byłego szefa MS Zbigniewa Ziobry do odpowiedzialności przed Trybunałem Stanu. Zbiórka podpisów...",
-      "date_published": "2026-01-23T16:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-pomoc-dla-Ukrainy-Balczun-Wartosc-wsparcia-przekroczyla-21-mld-euro-9073341.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-pomoc-dla-Ukrainy-Balczun-Wartosc-wsparcia-przekroczyla-21-mld-euro-9073341.html",
-      "title": "Polska pomoc dla Ukrainy. Balczun: Wartość wsparcia przekroczyła 21 mld euro",
-      "content_html": "Wartość polskiego wsparcia dla Ukrainy przekroczyła 21 mld euro; w stosunku do PKB jesteśmy jednym z największych darczyńców na świecie - ocenił podczas forum w Davos minister aktywów państwowych Wojciech Balczun. Dodał, że niektóre raporty...",
-      "date_published": "2026-01-23T16:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Holownia-zaprasza-obie-kandydatki-II-tura-wyborow-Byly-wstepnie-dogadane-9073177.html",
-      "url": "https://www.bankier.pl/wiadomosc/Holownia-zaprasza-obie-kandydatki-II-tura-wyborow-Byly-wstepnie-dogadane-9073177.html",
-      "title": "Hołownia zaprasza obie kandydatki. II tura wyborów. Były \"wstępnie dogadane\"",
-      "content_html": "Obecny lider Polski 2050 Szymon Hołownia zaprosił na spotkanie obie kandydatki, które dostały się do drugiej tury wyborów na nowego szefa partii - Katarzynę Pełczyńską-Nałęcz i Paulinę Hennig-Kloskę. Jednym z tematów ma być współprzewodniczenie...",
-      "date_published": "2026-01-23T16:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pepco-po-I-kw-na-dobrej-drodze-do-realizacji-zakladanych-celow-wywiad-9073322.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pepco-po-I-kw-na-dobrej-drodze-do-realizacji-zakladanych-celow-wywiad-9073322.html",
-      "title": "Pepco po I kw. na dobrej drodze do realizacji zakładanych celów",
-      "content_html": "Pepco, po pierwszym, kluczowym dla wyników kwartale rok obrotowego 2026, jest na dobrej drodze do zrealizowania zakładanych celów całorocznych - poinformował PAP Biznes Hugo van Santen, CFO marki Pepco. W planach jest otwarcie ok. 250 nowych sklepów...",
-      "date_published": "2026-01-23T16:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
