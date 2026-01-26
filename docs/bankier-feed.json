@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nasdaq-i-S-P500-w-gore-czwarty-raz-z-rzedu-Rynek-kupuje-bigtechy-9074456.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nasdaq-i-S-P500-w-gore-czwarty-raz-z-rzedu-Rynek-kupuje-bigtechy-9074456.html",
+      "title": "Nasdaq i S&P500 w górę czwarty raz z rzędu. Rynek kupuje bigtechy",
+      "content_html": "Czwarta z rzędu sesja na Wall Street padła łupem giełdowych byków. W efekcie Nasdaq i S&P500 prawie odrobiły „grenlandzkie straty\" i ponownie podeszły pod historyczne szczyty.",
+      "date_published": "2026-01-26T22:07:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Matka-wszystkich-umow-czeka-na-podpis-Unia-i-Indie-stworza-rynek-dla-2-miliardow-ludzi-9074398.html",
       "url": "https://www.bankier.pl/wiadomosc/Matka-wszystkich-umow-czeka-na-podpis-Unia-i-Indie-stworza-rynek-dla-2-miliardow-ludzi-9074398.html",
       "title": "„Matka wszystkich umów” czeka na podpis. Unia i Indie stworzą rynek dla 2 miliardów ludzi",
@@ -695,13 +702,6 @@
       "title": "Ekstremalna zima paraliżuje Amerykę. Są pierwsze ofiary śmiertelne",
       "content_html": "Ekstremalna zima paraliżuje Stany Zjednoczone i zbiera śmiertelne żniwo. W samym Nowym Jorku służby badają sześć zgonów osób przebywających na zewnątrz podczas fali mrozów i intensywnych opadów śniegu. Miliony Amerykanów objęto alertami...",
       "date_published": "2026-01-26T05:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przejscie-w-Rafah-zostanie-otwarte-Izrael-stawia-jeden-warunek-9073851.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przejscie-w-Rafah-zostanie-otwarte-Izrael-stawia-jeden-warunek-9073851.html",
-      "title": "Przejście w Rafah zostanie otwarte. Izrael stawia jeden warunek",
-      "content_html": "Izrael otworzy przejście graniczne w Rafah między Strefą Gazy i Egiptem, ale jedynie dla ruchu osobowego po tym jak zakończona zostanie operacja mająca na celu zlokalizowanie ciała ostatniego izraelskiego zakładnika uprowadzonego przez Hamas -...",
-      "date_published": "2026-01-26T01:11:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
