@@ -4,6 +4,55 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sluzby-przejely-10-ton-kokainy-w-podwodnej-lodzi-To-rekord-w-Europie-9073857.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sluzby-przejely-10-ton-kokainy-w-podwodnej-lodzi-To-rekord-w-Europie-9073857.html",
+      "title": "Narkotykowy rekord na morzu. Służby przejęły 10 ton kokainy w podwodnej łodzi",
+      "content_html": "Funkcjonariusze policji Portugalii oraz żołnierze marynarki wojennej i sił powietrznych tego kraju przejęli około 10 ton kokainy. To największy ładunek tego narkotyku zarekwirowany na pełnym morzu.",
+      "date_published": "2026-01-26T08:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oto-najpopularniejsze-szlaki-w-TPN-Padl-rekord-frekwencji-w-2025-roku-9073750.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oto-najpopularniejsze-szlaki-w-TPN-Padl-rekord-frekwencji-w-2025-roku-9073750.html",
+      "title": "Oto najpopularniejsze szlaki w TPN. Padł rekord frekwencji w 2025 roku",
+      "content_html": "5 mln 266 tys. 672 turystów odwiedziło w 2025 r. Tatrzański Park Narodowy (TPN) – wynika z opublikowanych statystyk opartych na sprzedaży biletów wstępu na szlaki. To najwyższa frekwencja w historii Parku, przewyższająca wyniki z ubiegłych...",
+      "date_published": "2026-01-26T08:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-nalozyl-79-3-mln-zl-kary-na-PKO-BP-9073924.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-nalozyl-79-3-mln-zl-kary-na-PKO-BP-9073924.html",
+      "title": "Prawie 80 mln złotych kary dla PKO BP. UOKiK zakwestionował klauzule dot. zmiany oprocentowania",
+      "content_html": "Prezes UOKiK uznał klauzule PKO BP dotyczące zmiany oprocentowania kredytu konsumenckiego za niedozwolone, zakazał ich stosowania i nałożył na bank 79,3 mln zł kary - podał UOKiK w komunikacie prasowym. Decyzja nie jest jednak prawomocna. Bank...",
+      "date_published": "2026-01-26T08:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-zimy-paralizuje-Hokkaido-Tysiace-osob-uwiezionych-na-lotnisku-9073916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-zimy-paralizuje-Hokkaido-Tysiace-osob-uwiezionych-na-lotnisku-9073916.html",
+      "title": "Atak zimy paraliżuje Hokkaido. Tysiące osób uwięzionych na lotnisku",
+      "content_html": "Około 7 tys. osób spędziło noc z niedzieli na poniedziałek na lotnisku New Chitose na wysuniętej najdalej na północ japońskiej wyspie Hokkaido – poinformowała agencja Kyodo. Paraliż komunikacyjny wywołany przez rekordowe opady śniegu doprowadził...",
+      "date_published": "2026-01-26T08:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-a-inwestorzy-skupiaja-uwage-na-sytuacji-Iranu-9073923.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-a-inwestorzy-skupiaja-uwage-na-sytuacji-Iranu-9073923.html",
+      "title": "Ceny ropy rosną, a inwestorzy skupiają uwagę na sytuacji Iranu",
+      "content_html": "Ceny ropy naftowej rosną, a inwestorzy oceniają ryzyka związane z sytuacją Iranu, jednego z najważniejszych eksporterów surowca z Bliskiego Wschodu, i możliwych zakłóceń w dostawach ropy - informują maklerzy.",
+      "date_published": "2026-01-26T08:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bledy-prokuratorow-rachunek-dla-podatnika-8-6-mln-zl-odszkodowan-w-rok-9073863.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bledy-prokuratorow-rachunek-dla-podatnika-8-6-mln-zl-odszkodowan-w-rok-9073863.html",
+      "title": "Błędy prokuratorów, rachunek dla podatnika. 8,6 mln zł odszkodowań w rok",
+      "content_html": "Śledczy nie odpowiadają za błędy z własnej kieszeni, choć pozwalają na to przepisy. Płacą podatnicy - podaje poniedziałkowa Rzeczpospolita",
+      "date_published": "2026-01-26T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polacy-widza-problem-z-social-mediami-Wyzszy-limit-wieku-naprawi-sytuacje-9073864.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-widza-problem-z-social-mediami-Wyzszy-limit-wieku-naprawi-sytuacje-9073864.html",
+      "title": "Polacy widzą problem z social mediami. Wyższy limit wieku naprawi sytuację?",
+      "content_html": "Polacy dostrzegają problem nadmiernej aktywności dzieci i młodzieży w portalach społecznościowych i płynących z tego zagrożeń wynika z badania IBRiS - pisze poniedziałkowa Rzeczpospolita",
+      "date_published": "2026-01-26T08:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dramatyczne-wydarzenia-w-Sobolewie-Tlum-wdarl-sie-na-teren-schroniska-by-wyniesc-zwierzeta-9073783.html",
       "url": "https://www.bankier.pl/wiadomosc/Dramatyczne-wydarzenia-w-Sobolewie-Tlum-wdarl-sie-na-teren-schroniska-by-wyniesc-zwierzeta-9073783.html",
       "title": "Dramatyczne wydarzenia w Sobolewie. Tłum wdarł się na teren schroniska, by wynieść zwierzęta",
@@ -93,13 +142,6 @@
       "title": "34. Finał WOŚP. Na liczniku ponad 183 mln zł. Rekordu nie uda się pobić?",
       "content_html": "W niedzielę przed północą na koncie 34. Finału Wielkiej Orkiestry Świątecznej Pomocy było ponad 183 mln zł. Ostateczny rezultat, który zawsze jest wyższy od kwoty z dnia finału, Fundacja ogłosi za kilka tygodni.",
       "date_published": "2026-01-26T06:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/System-KSeF-i-faktury-Ekspert-ostrzega-przed-wyciekiem-danych-i-wspomina-o-Enigmie-9073867.html",
-      "url": "https://www.bankier.pl/wiadomosc/System-KSeF-i-faktury-Ekspert-ostrzega-przed-wyciekiem-danych-i-wspomina-o-Enigmie-9073867.html",
-      "title": "System KSeF i faktury. Ekspert ostrzega przed wyciekiem danych i wspomina o Enigmie",
-      "content_html": "Resort finansów korzysta z rozwiązań oferowanych przez podmiot prywatny, który będzie miał dostęp do danych z faktur wystawianych przy użyciu KSeF - pisze w poniedziałkowym wydaniu „Dziennik Gazeta Prawna”.",
-      "date_published": "2026-01-26T06:05:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-chca-ubiegac-sie-o-organizacje-Expo-2035-9072888.html",
@@ -653,55 +695,6 @@
       "title": "Mit o masowych odmowach szczepień obalony. Paweł Grzesiowski ujawnia realne liczby",
       "content_html": "Wszystkie obowiązkowe szczepienia są realizowane na poziomie 89-95 proc. - poinformował PAP Główny Inspektor Sanitarny Paweł Grzesiowski. Z każdego rocznika około 5-10 proc. dzieci w Polsce nie jest szczepionych - wynika z analizy kart szczepień...",
       "date_published": "2026-01-24T18:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-wenezuelskiej-ropy-plyna-do-USA-Zarobia-wiecej-niz-kiedykolwiek-9073654.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-wenezuelskiej-ropy-plyna-do-USA-Zarobia-wiecej-niz-kiedykolwiek-9073654.html",
-      "title": "Miliardy z wenezuelskiej ropy płyną do USA. \"Zarobią więcej niż kiedykolwiek\"",
-      "content_html": "Prezydent Donald Trump powiedział, że USA skonfiskowały wenezuelską ropę z siedmiu przejętych w ostatnim czasie tankowców - poinformował w sobotę dziennik „New York Post”. Dodał, że surowiec jest przetwarzany w amerykańskich rafineriach...",
-      "date_published": "2026-01-24T17:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-znow-o-Grenlandii-Bedziemy-miec-wszystko-co-chcemy-9073651.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-znow-o-Grenlandii-Bedziemy-miec-wszystko-co-chcemy-9073651.html",
-      "title": "Trump znów o Grenlandii. \"Będziemy mieć wszystko, co chcemy\"",
-      "content_html": "Prezydent Donald Trump powiedział, że USA zdobędą suwerenność nad terytorium Grenlandii, na którym zlokalizowane są amerykańskie bazy, przejmując ten teren na własność - poinformował w sobotę dziennik „New York Post”. - Będziemy mieć...",
-      "date_published": "2026-01-24T17:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szkolna-afera-o-krzyz-Nauczycielka-z-Kielna-odwoluje-sie-od-kary-9071285.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szkolna-afera-o-krzyz-Nauczycielka-z-Kielna-odwoluje-sie-od-kary-9071285.html",
-      "title": "Szkolna afera o krzyż. Nauczycielka z Kielna odwołuje się od kary",
-      "content_html": "Nauczycielka z Kielna przyznała w rozmowie z PAP, że złożyła odwołanie od decyzji o zawieszeniu jej w obowiązkach. – Mam nadzieję, że władze przychylą się do mojego odwołania i wrócę do dzieci – powiedziała.",
-      "date_published": "2026-01-24T16:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Strefy-buforowe-i-kontrola-USA-Kulisy-trojstronnych-rozmow-o-pokoju-w-Ukrainie-9073647.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strefy-buforowe-i-kontrola-USA-Kulisy-trojstronnych-rozmow-o-pokoju-w-Ukrainie-9073647.html",
-      "title": "Strefy buforowe i kontrola USA? Kulisy trójstronnych rozmów o pokoju w Ukrainie",
-      "content_html": "Rozmowy prowadzone od piątku przez delegacje USA, Rosji i Ukrainy były konstruktywne – ocenił w sobotę po ich zakończeniu ukraiński prezydent Wołodymyr Zełenski. Kolejna runda negocjacji - jak dodał - może odbyć się w przyszłym tygodniu...",
-      "date_published": "2026-01-24T16:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-wolnego-lacza-W-Polsce-dominuje-juz-swiatlowod-ale-wciaz-go-malo-9068306.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-wolnego-lacza-W-Polsce-dominuje-juz-swiatlowod-ale-wciaz-go-malo-9068306.html",
-      "title": "Koniec wolnego łącza? W Polsce dominuje już światłowód, ale wciąż go za mało",
-      "content_html": "Ponad 4,4 mln adresów w Polsce, czyli 55,97 proc. znajdowało się na koniec ubiegłego roku w zasięgu internetu o przepustowości 1000 Mb/s - podano w najnowszym raporcie resortu cyfryzacji. Na koniec trzeciego kwartału 2025 r. było to 56,6 proc...",
-      "date_published": "2026-01-24T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zyletkowiec-wpisany-do-rejestru-zabytkow-9071084.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zyletkowiec-wpisany-do-rejestru-zabytkow-9071084.html",
-      "title": "„Żyletkowiec” wpisany do rejestru zabytków",
-      "content_html": "Decyzją mazowieckiego wojewódzkiego konserwatora zabytków Marcina Dawidowicza zespół budowlany Centralnego Biura Studiów Budownictwa Przemysłowego wraz z „żyletkowcem”, zaprojektowanym przez Marka Leykama trafił do rejestru zabytków",
-      "date_published": "2026-01-24T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/35-tys-zabitych-Rosjan-w-miesiac-to-za-malo-Minister-obrony-Ukrainy-wyznacza-nowy-prog-9071204.html",
-      "url": "https://www.bankier.pl/wiadomosc/35-tys-zabitych-Rosjan-w-miesiac-to-za-malo-Minister-obrony-Ukrainy-wyznacza-nowy-prog-9071204.html",
-      "title": "35 tys. zabitych Rosjan w miesiąc to za mało. Minister obrony Ukrainy wyznacza nowy próg",
-      "content_html": "Minister obrony Ukrainy Mychajło Fedorow wyraził przekonanie, że jednym z kluczowych etapów zmuszania Rosji do pokoju siłą jest osiągnięcie strategicznego celu - eliminowania średnio 50 tys. rosyjskich żołnierzy w ciągu miesiąca - poinformowała...",
-      "date_published": "2026-01-24T15:06:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
