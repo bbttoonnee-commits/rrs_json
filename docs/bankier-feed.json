@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Matka-wszystkich-umow-czeka-na-podpis-Unia-i-Indie-stworza-rynek-dla-2-miliardow-ludzi-9074398.html",
+      "url": "https://www.bankier.pl/wiadomosc/Matka-wszystkich-umow-czeka-na-podpis-Unia-i-Indie-stworza-rynek-dla-2-miliardow-ludzi-9074398.html",
+      "title": "„Matka wszystkich umów” czeka na podpis. Unia i Indie stworzą rynek dla 2 miliardów ludzi",
+      "content_html": "Na szczycie UE-Indie we wtorek w Delhi ma zostać zawarte wstępne porozumienie w sprawie umowy handlowej. Otworzy ona rynek jednego z najludniejszych krajów świata m.in. na europejskie samochody. Na szczycie zawarte zostanie także partnerstwo w dziedzinie...",
+      "date_published": "2026-01-26T19:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-schodzi-do-podziemia-Prawie-10-mld-zl-na-schrony-studnie-i-ukrycia-9074396.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-schodzi-do-podziemia-Prawie-10-mld-zl-na-schrony-studnie-i-ukrycia-9074396.html",
+      "title": "Polska schodzi do podziemia. Prawie 10 mld zł na schrony, studnie i ukrycia",
+      "content_html": "Komitet Sterujący Funduszu Bezpieczeństwa i Obronności przyjął priorytety inwestycyjne, które stanowią podstawę do przygotowania polityk inwestycyjnych, określających wykorzystanie środków z Funduszu - poinformowało w poniedziałek Ministerstwo...",
+      "date_published": "2026-01-26T18:55:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Miliardy-euro-poplyna-do-Polski-Jest-zielone-swiatlo-dla-polskiego-planu-SAFE-9074358.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliardy-euro-poplyna-do-Polski-Jest-zielone-swiatlo-dla-polskiego-planu-SAFE-9074358.html",
       "title": "Miliardy euro popłyną do Polski. Jest zielone światło dla polskiego planu SAFE",
@@ -688,20 +702,6 @@
       "title": "Przejście w Rafah zostanie otwarte. Izrael stawia jeden warunek",
       "content_html": "Izrael otworzy przejście graniczne w Rafah między Strefą Gazy i Egiptem, ale jedynie dla ruchu osobowego po tym jak zakończona zostanie operacja mająca na celu zlokalizowanie ciała ostatniego izraelskiego zakładnika uprowadzonego przez Hamas -...",
       "date_published": "2026-01-26T01:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cwiczenia-na-Grenlandii-bez-Wegier-Nie-zostaly-na-nie-zaproszone-9073847.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cwiczenia-na-Grenlandii-bez-Wegier-Nie-zostaly-na-nie-zaproszone-9073847.html",
-      "title": "Ćwiczenia na Grenlandii bez Węgier. \"Nie zostały na nie zaproszone\"",
-      "content_html": "Węgry nie wezmą udziału w ćwiczeniach wojskowych na Grenlandii, ponieważ Węgierskie Siły Zbrojne nie zostały na nie zaproszone – potwierdziło ministerstwo obrony, cytowane w niedzielę przez portal Index.",
-      "date_published": "2026-01-25T23:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Po-tragedii-w-Minneapolis-wzroslo-ryzyko-czesciowego-shutdownu-w-USA-9073842.html",
-      "url": "https://www.bankier.pl/wiadomosc/Po-tragedii-w-Minneapolis-wzroslo-ryzyko-czesciowego-shutdownu-w-USA-9073842.html",
-      "title": "Po tragedii w Minneapolis wzrosło ryzyko częściowego shutdownu w USA",
-      "content_html": "Kilkoro polityków Partii Demokratycznej zadeklarowało po tragedii w Minneapolis, że zagłosuje w przyszłym tygodniu przeciwko ustawom budżetowym bez poważnych zmian w budżecie resortu bezpieczeństwa krajowego. Odrzucenie ustawy może skutkować...",
-      "date_published": "2026-01-25T21:45:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
