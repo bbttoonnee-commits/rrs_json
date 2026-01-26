@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PlayWay-chce-sprzedac-do-656-200-akcji-Iron-Wolf-Studio-9074053.html",
+      "url": "https://www.bankier.pl/wiadomosc/PlayWay-chce-sprzedac-do-656-200-akcji-Iron-Wolf-Studio-9074053.html",
+      "title": "PlayWay chce sprzedać do 656.200 akcji Iron Wolf Studio Iron Wolf Studio otrzymał od PlayWay, akcjonariusza spółki, zawiadomienie o rozpoczęciu procesu sprzedaży posiadanych akcji w ramach budowy księgi popytu - podał producent gier w komunikacie. PlayWay chce sprzedać do 656.200 akcji, stanowiących ok. 44,95 proc. udziału w kapitale zakładowym oraz liczbie głosów.",
+      "content_html": "",
+      "date_published": "2026-01-26T11:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ailleron-ma-list-intencyjny-dot-sprzedazy-akcji-Software-Mind-na-rzecz-Tailwind-9074042.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ailleron-ma-list-intencyjny-dot-sprzedazy-akcji-Software-Mind-na-rzecz-Tailwind-9074042.html",
+      "title": "Ailleron ma list intencyjny dot. sprzedaży akcji Software Mind na rzecz Tailwind Software Mind, Ailleron, Polish Enterprise Funds SCA oraz Tailwind Capital Partners IV (GP) L.P. zawarły list intencyjny w sprawie negocjacji dotyczących sprzedaży na rzecz Tailwind 100 proc. akcji w kapitale zakładowym Software Mind - poinformował Ailleron w komunikacie. Okres wyłączności trwa do 27 II.",
+      "content_html": "",
+      "date_published": "2026-01-26T11:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grudniowa-sprzedaz-detaliczna-w-grudniu-2025-na-piec-z-plusem-9073980.html",
       "url": "https://www.bankier.pl/wiadomosc/Grudniowa-sprzedaz-detaliczna-w-grudniu-2025-na-piec-z-plusem-9073980.html",
       "title": "Grudniowa sprzedaż detaliczna na pięć z plusem. Polski konsument znów kupuje meble Ostatni miesiąc 2025 roku przyniósł solidny wzrost sprzedaży detalicznej w Polsce. Znamienny jest bardzo silny wzrost sprzedaży tzw. dużych gabarytów, czyli mebli, agd i rtv.",
@@ -72,13 +86,6 @@
       "title": "Polacy lubią laptopy premium. Firmy kupują komputery trzy razy szybciej niż konsumenci W 2026 r. polski rynek sprzętu komputerowego będzie rósł, ale wyzwaniem będzie dostępność komponentów, głównie kości pamięci - powiedział PAP Biznes Paweł Miszkiewicz, Dyrektor Kanału Partnerskiego w HP Inc Polska. Wskazał, że w Polsce kategorią produktową, która będzie rosła są desktopy, duży potencjał mają także rozwiązania audio-video.",
       "content_html": "",
       "date_published": "2026-01-25T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Historyczny-rekord-nierownosci-w-USA-Winna-hossa-na-rynku-akcji-9072973.html",
-      "url": "https://www.bankier.pl/wiadomosc/Historyczny-rekord-nierownosci-w-USA-Winna-hossa-na-rynku-akcji-9072973.html",
-      "title": "Historyczny rekord nierówności w USA. Winna hossa na rynku akcji? Nierówność majątkowa w USA osiągnęła najwyższy poziom od ponad 30 lat, a dane Rezerwy Federalnej potwierdzają utrwalanie się tzw. gospodarki w kształcie litery K. Zamożne gospodarstwa domowe oraz wybrane sektory szybko się bogacą, podczas gdy osoby o niskich i średnich dochodach pozostają w tyle.",
-      "content_html": "",
-      "date_published": "2026-01-24T12:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
