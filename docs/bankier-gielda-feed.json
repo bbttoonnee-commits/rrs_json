@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Polenergii-zawarla-umowe-vPPA-z-globalna-firma-9074773.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Polenergii-zawarla-umowe-vPPA-z-globalna-firma-9074773.html",
+      "title": "Spółka zależna Polenergii zawarła umowę vPPA z globalną firmą Spółka zależna Polenergii, Farma Wiatrowa Bądecz, zawarła z globalną firmą 15-letnią umowę vPPA (virtual power purchase agreement) - podała Polenergia w komunikacie. Łączne przychody ze sprzedaży energii elektrycznej oraz Gwarancji Pochodzenia w okresie obowiązywania umowy szacowane są na ok. 600-800 mln zł netto.",
+      "content_html": "",
+      "date_published": "2026-01-27T12:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-miedzi-przez-grupe-KGHM-wyniosla-w-grudniu-62-7-tys-ton-i-byla-wyzsza-o-2-proc-rdr-9074765.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-miedzi-przez-grupe-KGHM-wyniosla-w-grudniu-62-7-tys-ton-i-byla-wyzsza-o-2-proc-rdr-9074765.html",
+      "title": "Grudniowa sprzedaż miedzi KGHM wzrosła o 2% rdr Sprzedaż miedzi przez grupę KGHM wyniosła w grudniu 62,7 tys. ton i była wyższa o 2 proc. rdr. Produkcja miedzi płatnej KGHM wyniosła w grudniu 62,6 tys. ton i kształtowała się na poziomie porównywalnym do osiągniętego w grudniu 2024 r. - podała grupa w komunikacie dotyczącym wstępnych wyników produkcyjnych i sprzedażowych.",
+      "content_html": "",
+      "date_published": "2026-01-27T12:36:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Finski-wodor-poplynie-do-Polski-Orlen-podpisal-porozumienie-z-finskimi-producentami-9074702.html",
       "url": "https://www.bankier.pl/wiadomosc/Finski-wodor-poplynie-do-Polski-Orlen-podpisal-porozumienie-z-finskimi-producentami-9074702.html",
       "title": "Fiński wodór popłynie do Polski. Orlen podpisał porozumienie z fińskimi producentami Orlen podpisał we wtorek z trzema fińskimi firmami memorandum ws. produkcji i dostaw odnawialnego wodoru. Według koncernu, umowy umożliwią zabezpieczenie dostaw tego paliwa na etapie zwiększonego zapotrzebowania w kolejnych latach.",
       "content_html": "",
-      "date_published": "2026-01-27T11:23:00+01:00"
+      "date_published": "2026-01-27T12:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wielka-inwestycja-logistyczna-Panattoni-z-kredytem-42-mln-euro-od-BNP-Paribas-9074694.html",
@@ -30,6 +44,13 @@
       "title": "PolTREG koncentruje się na badaniu PTG-007; planuje pierwszą analizę pośrednią na '27 PolTREG koncentruje się na badaniu PTG-007, terapii wczesnego bezobjawowego stadium cukrzycy typu 1, planując pierwszą analizę pośrednią w 2027 r. - poinformował PAP Biznes prezes Piotr Trzonkowski. Spółka aktywnie poszukuje finansowania - rozważa granty, partnering, jak i pozyskanie środków z rynku.",
       "content_html": "",
       "date_published": "2026-01-27T10:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Z-gieldy-znika-srednio-15-spolek-rocznie-Prezes-SEG-Bycie-spolka-publiczna-sie-nie-oplaca-9074631.html",
+      "url": "https://www.bankier.pl/wiadomosc/Z-gieldy-znika-srednio-15-spolek-rocznie-Prezes-SEG-Bycie-spolka-publiczna-sie-nie-oplaca-9074631.html",
+      "title": "Z giełdy znika średnio 15 spółek rocznie. Prezes SEG: Bycie spółką publiczną się nie opłaca W ostatniej dekadzie z GPW ubywało średnio ok. 15 spółek rocznie netto mimo sprzyjającej koniunktury gospodarczej. Zdaniem prezesa Stowarzyszenia Emitentów Giełdowych Mirosława Kachniewskiego bycie spółką publiczną coraz częściej się nie opłata, a notowanie akcji przynosi więcej kosztów niż korzyści.",
+      "content_html": "",
+      "date_published": "2026-01-27T10:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/BGK-inwestuje-15-mln-euro-Pieniadze-na-ekspansje-polskich-spolek-9074618.html",
