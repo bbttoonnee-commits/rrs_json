@@ -11,6 +11,13 @@
       "date_published": "2026-01-28T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/S-P500-z-nowym-rekordem-Siedem-tysiecy-punktow-w-zasiegu-reki-9075142.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-z-nowym-rekordem-Siedem-tysiecy-punktow-w-zasiegu-reki-9075142.html",
+      "title": "S&P500 z nowym rekordem. Siedem tysięcy punktów w zasięgu ręki",
+      "content_html": "S&P500 zameldował się z nowym rekordem wszech czasów, celując w pułap 7 000 punktów. Nasdaq i S&P500 zakończyły na plusie piątą sesję z rzędu",
+      "date_published": "2026-01-27T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/20-mln-euro-dla-ofiar-katastrofy-w-Adamuz-Hiszpania-przyspiesza-wyplaty-9075118.html",
       "url": "https://www.bankier.pl/wiadomosc/20-mln-euro-dla-ofiar-katastrofy-w-Adamuz-Hiszpania-przyspiesza-wyplaty-9075118.html",
       "title": "20 mln euro dla ofiar katastrofy w Adamuz. Hiszpania przyspiesza wypłaty",
@@ -695,13 +702,6 @@
       "title": "Wyścig z czasem w resorcie zdrowia. Do czerwca trzeba wydać setki milionów złotych",
       "content_html": "Z ponad 1 mld zł, jakie mamy z KPO na cyfryzację ochrony zdrowia, na pięć miesięcy przed terminem wydano jedynie 190,3 mln zł. Zagrożona jest również realizacja kolejnego kamienia milowego - zwraca uwagę wtorkowa „Rzeczpospolita”.",
       "date_published": "2026-01-27T07:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-spadaja-Inwestorzy-monitoruja-atak-zimy-w-USA-9074554.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-spadaja-Inwestorzy-monitoruja-atak-zimy-w-USA-9074554.html",
-      "title": "Ceny ropy spadają. Inwestorzy monitorują atak zimy w USA",
-      "content_html": "Ceny ropy naftowej idą w dół w reakcji na oczekiwania na rynkach dużej podaży tego surowca, ale inwestorzy teraz szczególnie monitorują skutki gwałtownej zimowej aury w USA - informują maklerzy.",
-      "date_published": "2026-01-27T07:54:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
