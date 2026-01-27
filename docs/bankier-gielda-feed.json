@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Olavion-z-grupy-Unimot-przejal-60-proc-udzialow-w-niemieckiej-spolce-kolejowej-9074900.html",
+      "url": "https://www.bankier.pl/wiadomosc/Olavion-z-grupy-Unimot-przejal-60-proc-udzialow-w-niemieckiej-spolce-kolejowej-9074900.html",
+      "title": "Olavion z grupy Unimot przejął 60 proc. udziałów w niemieckiej spółce kolejowej Olavion, spółka należąca do grupy Unimot, kupił 60 proc. udziałów w niemieckiej spółce RBP, działającej na rynku transportu kolejowego - poinformował Unimot w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-27T15:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-otworzyl-przyspieszone-postepowanie-ukladowe-MedApp-9074893.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-otworzyl-przyspieszone-postepowanie-ukladowe-MedApp-9074893.html",
       "title": "Sąd otworzył przyspieszone postępowanie układowe MedApp Sąd Rejonowy dla Krakowa-Śródmieścia wydał postanowienie o otwarciu przyspieszonego postępowania układowego wobec MedApp - poinformowała spółka w komunikacie.",
@@ -268,6 +275,13 @@
       "title": "Złoto powyżej 5 000 USD za uncję! Kurs srebra na nieznanych wodach Ceny złota po raz pierwszy w historii przekroczyły poziom 5 000 dolarów za uncję trojańską. Srebro wyceniane jest już na blisko 108 USD/oz. Oba metale drożeją w takim tempie, jakby jutro świat fiducjarnego pieniądza miał się skończyć.",
       "content_html": "",
       "date_published": "2026-01-26T08:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-tydzien-na-rynkach-Jedno-wydarzenie-moze-skupic-uwage-inwestorow-9073942.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-tydzien-na-rynkach-Jedno-wydarzenie-moze-skupic-uwage-inwestorow-9073942.html",
+      "title": "Nowy tydzień na rynkach. Jedno wydarzenie może skupić uwagę inwestorów Koniec stycznia na rynku finansowym przyniesie wiele istotnych publikacji makro i raportów największych spółek. Głównym wydarzeniem będzie środowa decyzja FOMC w sprawie wysokości stóp procentowych w USA – wskazują w porannym komentarzu analitycy Biura Maklerskiego Banku BNP Paribas.",
+      "content_html": "",
+      "date_published": "2026-01-26T08:47:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-a-inwestorzy-skupiaja-uwage-na-sytuacji-Iranu-9073923.html",
