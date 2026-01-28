@@ -4,18 +4,46 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-powolala-Zbigniewa-Prusa-na-prezesa-zarzadu-9075702.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-powolala-Zbigniewa-Prusa-na-prezesa-zarzadu-9075702.html",
-      "title": "Zbigniew Prus powołany na prezesa zarządu PKP Cargo",
-      "content_html": "Rada Nadzorcza PKP Cargo podjęła uchwałę o powołaniu w skład zarządu Zbigniewa Prusa, powierzając mu funkcję prezesa zarządu ze skutkiem od 2 lutego 2026 r. - poinformowała spółka w komunikacie.",
-      "date_published": "2026-01-28T17:34:00+01:00"
+      "id": "https://www.bankier.pl/wiadomosc/Powazny-atak-na-agencje-ONZ-Bruksela-potepia-wyburzanie-budynkow-UNRWA-9071839.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powazny-atak-na-agencje-ONZ-Bruksela-potepia-wyburzanie-budynkow-UNRWA-9071839.html",
+      "title": "\"Poważny atak na agencję ONZ\". Bruksela potępia wyburzanie budynków UNRWA",
+      "content_html": "Rzecznik Komisji Europejskiej Anouar El Anouni powiedział w środę, że decyzja władz Izraela o wejściu do budynków Agencji Narodów Zjednoczonych ds. Uchodźców Palestyńskich (UNRWA) w Jerozolimie Wschodniej i rozpoczęciu ich wyburzania stanowi...",
+      "date_published": "2026-01-28T18:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prawie-polowa-Polakow-uwaza-ze-kraj-zmierza-w-zlym-kierunku-9075748.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prawie-polowa-Polakow-uwaza-ze-kraj-zmierza-w-zlym-kierunku-9075748.html",
+      "title": "Prawie połowa Polaków uważa, że kraj zmierza w złym kierunku",
+      "content_html": "48 proc. badanych uważa, że sytuacja w kraju zmierza w złym kierunku, a zdaniem 30 proc. – w dobrym. 22 proc. badanych nie ma zdania na ten temat – wynika ze styczniowego comiesięcznego sondażu CBOS.",
+      "date_published": "2026-01-28T18:28:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sedziowie-wybiora-sedziow-Senat-przyjal-nowelizacje-ustawy-o-KRS-9075641.html",
       "url": "https://www.bankier.pl/wiadomosc/Sedziowie-wybiora-sedziow-Senat-przyjal-nowelizacje-ustawy-o-KRS-9075641.html",
       "title": "Sędziowie wybiorą sędziów? Senat przyjął nowelizację ustawy o KRS",
       "content_html": "Senat przyjął w środę nowelizację ustawy o Krajowej Radzie Sądownictwa i powiązaną z nią nowelę Kodeksu wyborczego. Według zmian sędziowska część KRS ma być wybierana przez wszystkich sędziów, w bezpośrednich i tajnych wyborach organizowanych...",
-      "date_published": "2026-01-28T17:27:00+01:00"
+      "date_published": "2026-01-28T18:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rubio-NATO-do-przemyslenia-USA-nie-udzwigna-jednoczesnie-Europy-i-Indo-Pacyfiku-9075733.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rubio-NATO-do-przemyslenia-USA-nie-udzwigna-jednoczesnie-Europy-i-Indo-Pacyfiku-9075733.html",
+      "title": "Rubio: NATO do przemyślenia. USA nie udźwigną jednocześnie Europy i Indo-Pacyfiku",
+      "content_html": "Sekretarz stanu USA Marco Rubio poinformował w środę w Senacie o rozpoczęciu „rozmów technicznych” z przedstawicielami Danii i Grenlandii na temat porozumienia dotyczącego wyspy. Wezwał też do przemyślenia NATO na nowo, sugerując, że USA...",
+      "date_published": "2026-01-28T18:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-powolala-Zbigniewa-Prusa-na-prezesa-zarzadu-9075702.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-powolala-Zbigniewa-Prusa-na-prezesa-zarzadu-9075702.html",
+      "title": "Zbigniew Prus powołany na prezesa zarządu PKP Cargo",
+      "content_html": "Rada Nadzorcza PKP Cargo podjęła uchwałę o powołaniu w skład zarządu Zbigniewa Prusa, powierzając mu funkcję prezesa zarządu ze skutkiem od 2 lutego 2026 r. - poinformowała spółka w komunikacie.",
+      "date_published": "2026-01-28T18:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Proces-Fundacji-Profeto-Obroncy-chca-wylaczenia-sedzi-Chodzi-o-polityczny-kontekst-9075576.html",
+      "url": "https://www.bankier.pl/wiadomosc/Proces-Fundacji-Profeto-Obroncy-chca-wylaczenia-sedzi-Chodzi-o-polityczny-kontekst-9075576.html",
+      "title": "Proces Fundacji Profeto. Akt oskarżenia i spór o bezstronność sądu w kontekście PiS",
+      "content_html": "W Sądzie Okręgowym w Warszawie prokurator przedstawił akt oskarżenia ws. dotacji dla Fundacji Profeto, co otworzyło przewód sądowy w tej sprawie. Wcześniej obrońcy oskarżonych, m.in. ks. Michała Olszewskiego, złożyli wnioski o wyłączenie...",
+      "date_published": "2026-01-28T17:55:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rekord-za-rekordem-na-GPW-Kurs-KGHM-zmienny-jak-cena-srebra-9075685.html",
@@ -114,13 +142,6 @@
       "title": "Trump: Następny atak na Iran będzie dużo gorszy niż pierwszy",
       "content_html": "Prezydent USA Donald Trump ostrzegł w środę Iran, by zawarł układ w sprawie swojego programu jądrowego, grożąc kolejnym „dużo gorszym” atakiem na kraj. Trump zaznaczył, że czas na zawarcie porozumienia ucieka.",
       "date_published": "2026-01-28T15:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dobre-wiesci-dla-kierowcow-Benzyna-i-diesel-potanialy-o-5-groszy-9075585.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dobre-wiesci-dla-kierowcow-Benzyna-i-diesel-potanialy-o-5-groszy-9075585.html",
-      "title": "Dobre wieści dla kierowców. Benzyna i diesel potaniały o 5 groszy",
-      "content_html": "W ciągu tygodnia benzyna 95 i diesel potaniały o 5 gr na litrze i ich średnie ogólnopolskie ceny wynoszą obecnie odpowiednio 5,59 i 5,93 zł za litr - poinformowali analitycy portalu e-petrol.pl. Najtaniej paliwa kierowcy zatankują w województwie...",
-      "date_published": "2026-01-28T15:42:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pekao-Polska-ekonomicznym-prymusem-Europy-4-proc-wzrostu-PKB-w-2026-roku-9075574.html",
@@ -396,13 +417,6 @@
       "date_published": "2026-01-28T11:32:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Powstala-spolka-Polsca-S-A-Trzej-polscy-armatorzy-lacza-sily-na-Baltyku-9075346.html",
-      "url": "https://www.bankier.pl/wiadomosc/Powstala-spolka-Polsca-S-A-Trzej-polscy-armatorzy-lacza-sily-na-Baltyku-9075346.html",
-      "title": "Powstała spółka Polsca S.A. Trzej polscy armatorzy łączą siły na Bałtyku",
-      "content_html": "Polska Żegluga Morska poinformowała o podpisaniu umowy dot. objęcia akcji w Polsca S.A., która ma skonsolidować i zwiększyć zyski polskich armatorów promowych na Bałtyku. Spółkę tworzą PŻM (Unity Line), grupa Hass Holding (EuroAfrica) oraz...",
-      "date_published": "2026-01-28T11:26:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Tether-kupuje-tyle-zlota-co-panstwa-Zapasy-trzyma-w-szwajcarskim-bunkrze-przeciwatomowym-9075313.html",
       "url": "https://www.bankier.pl/wiadomosc/Tether-kupuje-tyle-zlota-co-panstwa-Zapasy-trzyma-w-szwajcarskim-bunkrze-przeciwatomowym-9075313.html",
       "title": "Tether kupuje tyle złota co państwa. Zapasy trzyma w szwajcarskim bunkrze przeciwatomowym",
@@ -674,27 +688,6 @@
       "title": "Polskie służby nieufne wobec współpracy z Ukrainą. Chodzi o dane sabotażystów",
       "content_html": "Ważą się losy podpisanej niedawno umowy o zwalczaniu przestępczości. Z ustaleń „Rzeczpospolitej” wynika, że służby nie są pewne, czy skutecznie zablokuje ona wjazd sabotażystom, czy pozostanie jedynie złudnym politycznym sukcesem.",
       "date_published": "2026-01-28T07:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-chce-deeskalowac-sytuacje-w-Minnesocie-ale-nie-za-mocno-To-nie-jest-to-odwrot-to-taka-mala-zmiana-9075162.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-chce-deeskalowac-sytuacje-w-Minnesocie-ale-nie-za-mocno-To-nie-jest-to-odwrot-to-taka-mala-zmiana-9075162.html",
-      "title": "Trump chce deeskalować sytuację w Minnesocie, ale nie za mocno. \"To nie jest to odwrót, to taka mała zmiana\"",
-      "content_html": "Prezydent USA Donald Trump powiedział, że chce „trochę deeskalować” sytuację w Minnesocie po zastrzeleniu 37-letniego Alexa Prettiego przez funkcjonariuszy federalnych. Sugerował też, że podejście odsuniętego dowódcy operacji imigracyjnych...",
-      "date_published": "2026-01-28T07:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-balastem-dla-Europy-Przywodcy-skrajnej-prawicy-masowo-odcinaja-sie-od-prezydenta-USA-9075130.html",
-      "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-balastem-dla-Europy-Przywodcy-skrajnej-prawicy-masowo-odcinaja-sie-od-prezydenta-USA-9075130.html",
-      "title": "Relacje z USA stają się \"niebezpieczne\". Skrajna prawica odcina się od Trumpa",
-      "content_html": "Bliskie związki z Donaldem Trumpem stały się politycznym balastem dla skrajnej prawicy w Europie; przywódcy takich formacji w Wielkiej Brytanii, Francji, Niemczech i Włoszech starają się odciąć od pomysłów prezydenta USA - napisał we wtorek...",
-      "date_published": "2026-01-28T07:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Arabia-Saudyjska-zmienia-front-Izrael-i-USA-zaniepokojone-9075141.html",
-      "url": "https://www.bankier.pl/wiadomosc/Arabia-Saudyjska-zmienia-front-Izrael-i-USA-zaniepokojone-9075141.html",
-      "title": "Arabia Saudyjska zmienia front? Izrael i USA zaniepokojone",
-      "content_html": "Izrael oraz organizacje żydowskie w USA są zaniepokojone polityką Arabii Saudyjskiej w ostatnim czasie – napisał we wtorek portal Newsmax. Mówi się o zwrocie Rijadu ku wrogom Izraela. Szef saudyjskiej dyplomacji zapewnił w poniedziałek, że...",
-      "date_published": "2026-01-28T07:15:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
