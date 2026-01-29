@@ -4,6 +4,55 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bankowy-blackout-w-Polsce-Klienci-najwiekszych-bankow-bez-dostepu-do-kont-9075996.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bankowy-blackout-w-Polsce-Klienci-najwiekszych-bankow-bez-dostepu-do-kont-9075996.html",
+      "title": "Bankowy blackout w Polsce. Klienci największych banków bez dostępu do kont. Instytucje: U nas działa",
+      "content_html": "ING, mBank, Santander, BNP Paribas, Alior Bank, Millennium, PKO BP i Pekao - klienci tych banków notują problemy z zalogowaniem się do swoich kont. Na razie nie wiadomo, co się dokładnie stało, jednak skala jest niespotykana.",
+      "date_published": "2026-01-29T12:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-wyprodukuje-bron-dla-Norwegii-Miliardowy-kontrakt-na-systemy-Chunmoo-9076088.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-wyprodukuje-bron-dla-Norwegii-Miliardowy-kontrakt-na-systemy-Chunmoo-9076088.html",
+      "title": "Polska wyprodukuje broń dla Norwegii. Miliardowy kontrakt na systemy Chunmoo",
+      "content_html": "Rząd Norwegii zatwierdził w czwartek zakup pocisków rakietowych zdolnych razić cele w promieniu do 500 km, co oznacza, że w ich zasięgu znajdą się m.in. bazy rosyjskiej Floty Północnej. Warta ok. 19 mld koron (7 mld zł) broń dla armii norweskiej...",
+      "date_published": "2026-01-29T12:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Minister-Motyka-zapowiada-poprawki-Bedzie-lzejszy-okres-przejsciowy-dla-malych-firm-OZE-9076070.html",
+      "url": "https://www.bankier.pl/wiadomosc/Minister-Motyka-zapowiada-poprawki-Bedzie-lzejszy-okres-przejsciowy-dla-malych-firm-OZE-9076070.html",
+      "title": "Minister Motyka zapowiada poprawki. Będzie lżejszy okres przejściowy dla małych firm OZE?",
+      "content_html": "Niewykluczone, że w projekcie tzw. ustawy sieciowej pojawią się poprawki gwarantujące sprawniejszy okres przejściowy dla mniejszych firm OZE - poinformował dziennikarzy minister energii Miłosz Motyka. Nie wykluczył też ew. poprawek dotyczących...",
+      "date_published": "2026-01-29T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Eurocash-zmienia-model-biznesowy-sieci-Duzy-Ben-na-franczyzowy-9076077.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurocash-zmienia-model-biznesowy-sieci-Duzy-Ben-na-franczyzowy-9076077.html",
+      "title": "Eurocash zmienia model biznesowy sieci Duży Ben na franczyzowy",
+      "content_html": "Grupa Eurocash, właściciel sieci specjalistycznych sklepów alkoholowych Duży Ben, zmienia model biznesowy sieci z agencyjnej na franczyzową - podał Eurocash w komunikacie prasowym. Zaplanowana na lata 2026–2027 zmiana ma przyspieszyć rozwój...",
+      "date_published": "2026-01-29T11:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Estonii-wezwal-do-stworzenia-czarnej-listy-Europejczykow-walczacych-po-stronie-Rosji-9075979.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Estonii-wezwal-do-stworzenia-czarnej-listy-Europejczykow-walczacych-po-stronie-Rosji-9075979.html",
+      "title": "Szef MSZ Estonii wezwał do stworzenia czarnej listy Europejczyków walczących po stronie Rosji",
+      "content_html": "Minister spraw zagranicznych Estonii Margus Tsahkna powiedział w czwartek w Brukseli, że będzie zabiegał o utworzenie przez państwa UE czarnej listy Europejczyków walczących po stronie Rosji, których może być ponad 600 tys. Według Tsahkny po...",
+      "date_published": "2026-01-29T11:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Merz-w-Bundestagu-Europa-musi-stac-sie-mocarstwem-9076066.html",
+      "url": "https://www.bankier.pl/wiadomosc/Merz-w-Bundestagu-Europa-musi-stac-sie-mocarstwem-9076066.html",
+      "title": "Merz w Bundestagu: Europa musi stać się mocarstwem",
+      "content_html": "Kanclerz Niemiec Friedrich Merz powiedział w czwartek w Bundestagu, że aby sprostać wyzwaniom w świecie zdominowanym przez wielkie mocarstwa, Europa sama musi stać się mocarstwem.",
+      "date_published": "2026-01-29T11:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zmienia-zdanie-w-sprawie-KSeF-Papierowe-faktury-zostaja-do-1-kwietnia-9076043.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zmienia-zdanie-w-sprawie-KSeF-Papierowe-faktury-zostaja-do-1-kwietnia-9076043.html",
+      "title": "Orlen zmienia zdanie w sprawie KSeF. Papierowe faktury zostają do 1 kwietnia",
+      "content_html": "Największy polski koncern paliwowy robi kolejny zwrot dotyczący wystawiania faktur. Orlen jeszcze niedawno informował, że dokumenty będą wystawiane tylko elektronicznie, teraz zdecydował, że co najmniej do 1 kwietnia pozostaje przy dokumentach...",
+      "date_published": "2026-01-29T11:25:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sikorski-Armia-federalna-Unii-nierealistyczna-ale-mozna-by-stworzyc-legion-europejski-9076053.html",
       "url": "https://www.bankier.pl/wiadomosc/Sikorski-Armia-federalna-Unii-nierealistyczna-ale-mozna-by-stworzyc-legion-europejski-9076053.html",
       "title": "Sikorski: Armia federalna Unii nierealistyczna, ale można by stworzyć „legion europejski”",
@@ -95,34 +144,6 @@
       "date_published": "2026-01-29T10:28:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-bombowiec-Su-34-zestrzelony-w-poblizu-Wyspy-Wezy-9076004.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-bombowiec-Su-34-zestrzelony-w-poblizu-Wyspy-Wezy-9076004.html",
-      "title": "Rosyjski bombowiec Su-34 zestrzelony w pobliżu Wyspy Węży",
-      "content_html": "Rosyjski bombowiec Su-34 został zestrzelony w pobliżu Wyspy Węży nad Morzem Czarnym – podał w środę wieczorem ukraiński portal Militarnyj, powołując się na rosyjskie kanały w komunikatorze Telegram.",
-      "date_published": "2026-01-29T10:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-obowiazku-malzenskiego-we-Francji-Przelomowa-decyzja-Zgromadzenia-Narodowego-9076020.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-obowiazku-malzenskiego-we-Francji-Przelomowa-decyzja-Zgromadzenia-Narodowego-9076020.html",
-      "title": "Koniec „obowiązku małżeńskiego” we Francji. Przełomowa decyzja Zgromadzenia Narodowego",
-      "content_html": "Niższa izba parlamentu Francji, Zgromadzenie Narodowe, przyjęła projekt ustawy stanowiący, że wspólne życie małżonków nie oznacza obowiązku współżycia seksualnego. Chodzi o pojęcie „obowiązku małżeńskiego”, do którego jeszcze do...",
-      "date_published": "2026-01-29T10:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-z-powodzeniem-testy-seryjnej-produkcji-opakowan-w-ramach-projektu-Nextloopp-9076009.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-z-powodzeniem-testy-seryjnej-produkcji-opakowan-w-ramach-projektu-Nextloopp-9076009.html",
-      "title": "Orlen zakończył z powodzeniem testy seryjnej produkcji opakowań w ramach projektu Nextloopp",
-      "content_html": "Orlen zakończył z powodzeniem testy seryjnej produkcji opakowań z wykorzystaniem regranulatów polipropylenowych w ramach międzynarodowego projektu Nextloopp - podał Orlen w komunikacie prasowym.",
-      "date_published": "2026-01-29T10:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bankowy-blackout-w-Polsce-Klienci-najwiekszych-bankow-bez-dostepu-do-kont-9075996.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bankowy-blackout-w-Polsce-Klienci-najwiekszych-bankow-bez-dostepu-do-kont-9075996.html",
-      "title": "Bankowy blackout w Polsce. Klienci największych banków bez dostępu do kont",
-      "content_html": "ING, mBank, Santander, BNP Paribas, Alior Bank, Millennium, PKO BP i Pekao - klienci tych banków według Downdetecotra notują problemy z zalogowaniem się do swoich kont. Na razie nie wiadomo, co się dokładnie stało, jednak skala jest niespotykana...",
-      "date_published": "2026-01-29T10:03:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rubio-broni-slow-Trumpa-o-NATO-Chodzi-o-mobilizacje-sojusznikow-a-nie-brak-szacunku-9075832.html",
       "url": "https://www.bankier.pl/wiadomosc/Rubio-broni-slow-Trumpa-o-NATO-Chodzi-o-mobilizacje-sojusznikow-a-nie-brak-szacunku-9075832.html",
       "title": "Rubio broni słów Trumpa o NATO. \"Chodzi o mobilizację sojuszników, a nie brak szacunku\"",
@@ -141,6 +162,13 @@
       "url": "https://www.bankier.pl/wiadomosc/Tesla-przestaje-produkowac-dwa-modele-samochodow-i-oglasza-zwrot-na-robotyke-i-AI-9075920.html",
       "title": "Tesla przestaje produkować dwa modele samochodów i ogłasza zwrot na robotykę i AI",
       "content_html": "Tesla przestanie produkować dwa modele samochodów, wykorzystując zwolnioną przestrzeń fabryczną do budowy humanoidalnych robotów - ogłosił Elon Musk podczas konferencji wynikowej spółki, sugerując, że elektryczne pojazdy będą wkrótce jej...",
+      "date_published": "2026-01-29T09:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zwolnienia-w-PG-Silesia-pomimo-porozumienia-z-gornikami-9075928.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwolnienia-w-PG-Silesia-pomimo-porozumienia-z-gornikami-9075928.html",
+      "title": "PG Silesia jednak zwalnia? Górnicy alarmują, że spółka łamie ustalenia",
+      "content_html": "Zakładowa Solidarność w PG Silesia informuje, że pracodawca wbrew wcześniejszym deklaracjom rozpoczął zwolnienia w kopalni. Górnicy alarmują, że spółka łamie ustalenia wskazane w grudniowym porozumieniu, dzięki czemu pracownicy mieli być...",
       "date_published": "2026-01-29T09:40:00+01:00"
     },
     {
@@ -667,34 +695,6 @@
       "title": "Gaz jako waluta negocjacyjna. \"Zamieniliśmy uzależnienie od Rosji na gaz z USA\"",
       "content_html": "Import gazu z USA zastępuje w Europie dostawy z Rosji jednak jego ceny są nieprzewidywalne, a Amerykanie chcą, by Bruksela przymknęła oko na ekologiczne parametry pochodzącego zza oceanu paliwa - powiedział PAP Kacper Szulecki z Norweskiego Instytutu...",
       "date_published": "2026-01-28T16:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanie-stawiaja-zaklady-bukmacherskie-na-kolejne-dzialania-Trumpa-9075659.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanie-stawiaja-zaklady-bukmacherskie-na-kolejne-dzialania-Trumpa-9075659.html",
-      "title": "Amerykanie stawiają zakłady bukmacherskie na kolejne działania Trumpa",
-      "content_html": "W ostatnich miesiącach gwałtowanie rozrósł się rynek zakładów bukmacherskich dotyczących kolejnych działań administracji prezydenta USA Donalda Trumpa - napisał w środę dziennik „Washington Post”. Ten rynek ma być wart ponad 200 mln...",
-      "date_published": "2026-01-28T16:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GPW-dopuscila-UniCredit-do-obrotu-papierami-wartosciowymi-na-wlasny-rachunek-9075650.html",
-      "url": "https://www.bankier.pl/wiadomosc/GPW-dopuscila-UniCredit-do-obrotu-papierami-wartosciowymi-na-wlasny-rachunek-9075650.html",
-      "title": "GPW dopuściła UniCredit do obrotu papierami wartościowymi na własny rachunek",
-      "content_html": "Giełda Papierów Wartościowych w Warszawie dopuściła UniCredit do działania w charakterze podmiotu prowadzącego obrót papierami wartościowymi na rachunek własny - podało GPW w komunikacie prasowym. Spółka uzyskała jednocześnie status 37...",
-      "date_published": "2026-01-28T16:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-nowelizacji-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-9075647.html",
-      "url": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-nowelizacji-ustawy-o-krajowym-systemie-cyberbezpieczenstwa-9075647.html",
-      "title": "Senat bez poprawek do nowelizacji ustawy o krajowym systemie cyberbezpieczeństwa",
-      "content_html": "Senat w środę przyjął bez poprawek nowelizację ustawy o krajowym systemie cyberbezpieczeństwa, która wprowadza m.in. procedurę dostawcy wysokiego ryzyka. Teraz nowela trafi do prezydenta.",
-      "date_published": "2026-01-28T16:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polskie-generatory-na-ukrainskich-aukcjach-To-dezinformacja-9075625.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polskie-generatory-na-ukrainskich-aukcjach-To-dezinformacja-9075625.html",
-      "title": "Polskie generatory na ukraińskich aukcjach? To dezinformacja",
-      "content_html": "W sieci pojawiły się wpisy sugerujące, że generatory prądu wysłane z Polski do Kijowa rzekomo trafiają na ukraińskie aukcje internetowe. PAP ustaliła m.in., że sprzęt dostępny w internecie różni się mocą od tego wysłanego z Polski. –...",
-      "date_published": "2026-01-28T16:29:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
