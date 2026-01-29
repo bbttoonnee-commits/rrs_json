@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zmienia-zdanie-w-sprawie-KSeF-Papierowe-faktury-zostaja-do-1-kwietnia-9076043.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zmienia-zdanie-w-sprawie-KSeF-Papierowe-faktury-zostaja-do-1-kwietnia-9076043.html",
+      "title": "Orlen zmienia zdanie w sprawie KSeF. Papierowe faktury zostają do 1 kwietnia Największy polski koncern paliwowy robi kolejny zwrot dotyczący wystawiania faktur. Orlen jeszcze niedawno informował, że dokumenty będą wystawiane tylko elektronicznie, teraz zdecydował, że co najmniej do 1 kwietnia pozostaje przy dokumentach papierowych.",
+      "content_html": "",
+      "date_published": "2026-01-29T11:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloto-polecialo-na-5-600-USD-oz-Uncja-krolewskiego-metalu-kosztuje-ponad-20-000-zl-9076038.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloto-polecialo-na-5-600-USD-oz-Uncja-krolewskiego-metalu-kosztuje-ponad-20-000-zl-9076038.html",
+      "title": "Złoto poleciało na 5 600 USD/oz. Uncja „królewskiego metalu” kosztuje ponad 20 000 zł Notowania metali szlachetnych wciąż zwyżkują w niespotykanym wcześniej tempie. Nie chodzi już nawet o same poziomy cenowe, ale o to, jak łatwo i szybko rynek „zdobywa teren”.",
+      "content_html": "",
+      "date_published": "2026-01-29T10:47:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-z-powodzeniem-testy-seryjnej-produkcji-opakowan-w-ramach-projektu-Nextloopp-9076009.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-z-powodzeniem-testy-seryjnej-produkcji-opakowan-w-ramach-projektu-Nextloopp-9076009.html",
       "title": "Orlen zakończył z powodzeniem testy seryjnej produkcji opakowań w ramach projektu Nextloopp Orlen zakończył z powodzeniem testy seryjnej produkcji opakowań z wykorzystaniem regranulatów polipropylenowych w ramach międzynarodowego projektu Nextloopp - podał Orlen w komunikacie prasowym.",
@@ -13,7 +27,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Tesla-przestaje-produkowac-dwa-modele-samochodow-i-oglasza-zwrot-na-robotyke-i-AI-9075920.html",
       "url": "https://www.bankier.pl/wiadomosc/Tesla-przestaje-produkowac-dwa-modele-samochodow-i-oglasza-zwrot-na-robotyke-i-AI-9075920.html",
-      "title": "Tesla przestaje produkować dwa modele samochodów i ogłasza zwrot na robotykę i AI Tesla przestanie produkować dwa popularne modele samochodów, wykorzystując zwolnioną przestrzeń fabryczną do budowy humanoidalnych robotów - ogłosił Elon Musk podczas konferencji wynikowej spółki, sugerując, że elektryczne pojazdy będą wkrótce jej drugorzędnym biznesem.",
+      "title": "Tesla przestaje produkować dwa modele samochodów i ogłasza zwrot na robotykę i AI Tesla przestanie produkować dwa modele samochodów, wykorzystując zwolnioną przestrzeń fabryczną do budowy humanoidalnych robotów - ogłosił Elon Musk podczas konferencji wynikowej spółki, sugerując, że elektryczne pojazdy będą wkrótce jej drugorzędnym biznesem.",
       "content_html": "",
       "date_published": "2026-01-29T09:40:00+01:00"
     },
@@ -408,13 +422,6 @@
       "title": "Fiński wodór popłynie do Polski. Orlen podpisał porozumienie z fińskimi producentami Orlen podpisał we wtorek z trzema fińskimi firmami memorandum ws. produkcji i dostaw odnawialnego wodoru. Według koncernu, umowy umożliwią zabezpieczenie dostaw tego paliwa na etapie zwiększonego zapotrzebowania w kolejnych latach.",
       "content_html": "",
       "date_published": "2026-01-27T12:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-inwestycja-logistyczna-Panattoni-z-kredytem-42-mln-euro-od-BNP-Paribas-9074694.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-inwestycja-logistyczna-Panattoni-z-kredytem-42-mln-euro-od-BNP-Paribas-9074694.html",
-      "title": "Wielka inwestycja logistyczna. Panattoni z kredytem 42 mln euro od BNP Paribas Panattoni uzyskało finansowanie od BNP Paribas Bank Polska - kredyt w wysokości 42 mln euro przeznaczony jest na realizację dwóch hal w ramach kompleksu Panattoni Park Szczecin Trzebusz II - podało Panattoni w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-01-27T11:14:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
