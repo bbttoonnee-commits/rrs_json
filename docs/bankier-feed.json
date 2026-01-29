@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-Sanok-Rubber-Company-zdecyduje-ws-buybacku-9076510.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-Sanok-Rubber-Company-zdecyduje-ws-buybacku-9076510.html",
+      "title": "NWZ Sanok Rubber Company zdecyduje ws. buybacku",
+      "content_html": "Walne zgromadzenie Sanok Rubber Company zdecyduje w sprawie upoważnienia zarządu do nabywania akcji własnych w celu ich umorzenia oraz utworzenia kapitału rezerwowego na potrzeby programu nabywania akcji. Wniosek w tej sprawie złożył akcjonariusz...",
+      "date_published": "2026-01-29T22:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Znizkujace-notowania-Microsoftu-podciely-nogi-nowojorskim-gieldom-9076496.html",
       "url": "https://www.bankier.pl/wiadomosc/Znizkujace-notowania-Microsoftu-podciely-nogi-nowojorskim-gieldom-9076496.html",
       "title": "Zniżkujące notowania Microsoftu podcięły nogi nowojorskim giełdom",
@@ -695,13 +702,6 @@
       "title": "Hennig-Kloska: Jedność Polski 2050 jest fundamentalnie ważna",
       "content_html": "Jedność Polski 2050 jest fundamentalnie ważna - podkreśliła wiceszefowa partii Paulina Hennig-Kloska. Jak zauważyła klub parlamentarny Polski 2050 to ważny filar funkcjonowania koalicji rządowej. Wszyscy w klubie mamy pełną świadomość powagi...",
       "date_published": "2026-01-29T08:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Burmistrz-Minneapolis-IGRA-Z-OGNIEM-odmawiajac-wspolpracy-ws-deportacji-9075638.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Burmistrz-Minneapolis-IGRA-Z-OGNIEM-odmawiajac-wspolpracy-ws-deportacji-9075638.html",
-      "title": "Trump: Burmistrz Minneapolis IGRA Z OGNIEM, odmawiając współpracy ws. deportacji",
-      "content_html": "Prezydent USA Donald Trump powiedział w środę, że burmistrz Minneapolis Jacob Frey „igra z ogniem”, odmawiając egzekwowania federalnych przepisów imigracyjnych, w tym w sprawie deportacji. Trump wyraził zaskoczenie wypowiedzią Freya.",
-      "date_published": "2026-01-29T08:09:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
