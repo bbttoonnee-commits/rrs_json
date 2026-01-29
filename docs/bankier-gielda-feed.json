@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-nabyla-farme-wiatrowa-Dzwola-o-mocy-35-MW-9076317.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-nabyla-farme-wiatrowa-Dzwola-o-mocy-35-MW-9076317.html",
+      "title": "PGE Energia Odnawialna nabyła farmę wiatrową Dzwola o mocy 35 MW PGE Energia Odnawialna kupiła 100 proc. udziałów w spółce Wind Farm Łada, zarządzającej farmą wiatrową Dzwola o mocy 35 MW - podała PGE w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-01-29T16:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Polenergii-zawarla-umowe-vPPA-9076314.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Polenergii-zawarla-umowe-vPPA-9076314.html",
+      "title": "Spółka zależna Polenergii zawarła umowę vPPA Polenergia Farma Fotowoltaiczna 2, spółka zależna Polenergii, zawarła z globalną firmą 15-letnią umowę vPPA - podała Polenergia w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-29T16:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ewentualne-dalsze-zaostrzanie-celu-UE-dla-biopaliw-nierealistyczne-Orlen-9076312.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ewentualne-dalsze-zaostrzanie-celu-UE-dla-biopaliw-nierealistyczne-Orlen-9076312.html",
+      "title": "Orlen: Ewentualne dalsze zaostrzanie celu UE dla biopaliw nierealistyczne Jeżeli Komisja Europejska zaproponuje dalsze zaostrzanie celu UE w zakresie biopaliw, będzie to nierealistyczne do spełnienia - ocenił Łukasz Błoński, kierownik ds. regulacji UE w Orlenie podczas debaty o polityce unijnej w 2026 r. Zaznaczył też, że sektor z niecierpliwością czeka na propozycję tzw. omnibusa energetycznego, a ryzyka mogą generować ew. zmiany w uprawnieniach w ramach rewizji ETS.",
+      "content_html": "",
+      "date_published": "2026-01-29T16:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ta-wycena-sugeruje-560-zl-za-akcje-KGHM-Jak-srebro-napedza-notowania-gwiazdy-GPW-9076209.html",
       "url": "https://www.bankier.pl/wiadomosc/Ta-wycena-sugeruje-560-zl-za-akcje-KGHM-Jak-srebro-napedza-notowania-gwiazdy-GPW-9076209.html",
       "title": "Ile KGHM zarabia na srebrze? Miliardy popłyną do polskiego czempiona Spektakularny wzrost cen srebra na światowych rynkach ma wymierne przełożenie na wyniki KGHM. Jak szacują analitycy, przy średniej cenie srebra na poziomie 110 dolarów za uncję, przychody spółki ze sprzedaży tylko tego metalu mogłyby wzrosnąć do 14 mld złotych. Inni szacują, że 5-proc. wzrost ceny srebra powinien podwyższyć zysk przed podatkami, amortyzacją i odsetkami od pożyczek o pół miliarda złotych. Robi się naprawdę ciekawie, zwłaszcza że srebro podrożało już o przeszło 400 proc. w dwa lata.",
@@ -247,13 +268,6 @@
       "title": "\"Nie ma czasu na targi\". Zarząd JSW próbuje ratować negocjacje. Giełda reaguje spadkami Zarząd JSW jest gotowy do powrotu do rozmów ze stroną społeczną, wystosuje do reprezentatywnych związków zawodowych zaproszenie na kolejne spotkanie - poinformowała JSW w komunikacie. We wtorek negocjacje zostały zawieszone.",
       "content_html": "",
       "date_published": "2026-01-28T14:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Synektik-ma-umowe-na-dostawe-systemu-robotycznego-da-Vinci-za-18-3-mln-zl-9075477.html",
-      "url": "https://www.bankier.pl/wiadomosc/Synektik-ma-umowe-na-dostawe-systemu-robotycznego-da-Vinci-za-18-3-mln-zl-9075477.html",
-      "title": "Synektik z umową na dostawę systemu robotycznego da Vinci za 18,3 mln zł Synektik podpisał umowę z Świętokrzyskim Centrum Onkologii w Kielcach na dostawę, montaż, instalację i uruchomienie systemu chirurgii robotycznej da Vinci za 18,3 mln zł netto - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-28T14:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/UOKiK-wszczal-postepowanie-wyjasniajace-dot-ograniczenia-konkurencji-przy-sprzedazy-sprzetu-elektronicznego-9075242.html",
