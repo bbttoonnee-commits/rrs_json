@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Znizkujace-notowania-Microsoftu-podciely-nogi-nowojorskim-gieldom-9076496.html",
+      "url": "https://www.bankier.pl/wiadomosc/Znizkujace-notowania-Microsoftu-podciely-nogi-nowojorskim-gieldom-9076496.html",
+      "title": "Zniżkujące notowania Microsoftu podcięły nogi nowojorskim giełdom",
+      "content_html": "Potężna przecena akcji Microsoftu odbiła się czkawką na nowojorskich parkietach. W dół poszły wyceny także innych firm informatycznych, przez co Nasdaq zaliczył trzecią najgorszą sesję w tym roku.",
+      "date_published": "2026-01-29T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Allegro-otrzymalo-postanowienie-Sadu-o-udzieleniu-zabezpieczenia-na-rzecz-Fundacji-Forum-Konsumentow-9076470.html",
       "url": "https://www.bankier.pl/wiadomosc/Allegro-otrzymalo-postanowienie-Sadu-o-udzieleniu-zabezpieczenia-na-rzecz-Fundacji-Forum-Konsumentow-9076470.html",
       "title": "Allegro otrzymało postanowienie Sądu o udzieleniu zabezpieczenia na rzecz Fundacji Forum Konsumentów",
@@ -695,13 +702,6 @@
       "title": "Trump: Burmistrz Minneapolis IGRA Z OGNIEM, odmawiając współpracy ws. deportacji",
       "content_html": "Prezydent USA Donald Trump powiedział w środę, że burmistrz Minneapolis Jacob Frey „igra z ogniem”, odmawiając egzekwowania federalnych przepisów imigracyjnych, w tym w sprawie deportacji. Trump wyraził zaskoczenie wypowiedzią Freya.",
       "date_published": "2026-01-29T08:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grenlandia-nie-na-sprzedaz-ale-do-wspolpracy-Dania-przedstawia-czerwone-linie-9075857.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grenlandia-nie-na-sprzedaz-ale-do-wspolpracy-Dania-przedstawia-czerwone-linie-9075857.html",
-      "title": "Grenlandia nie na sprzedaż, ale do współpracy. Dania przedstawia \"czerwone linie\"",
-      "content_html": "Pierwsze negocjacje grupy roboczej duńskich, grenlandzkich i amerykańskich urzędników wysokiego szczebla w sprawie przyszłości Grenlandii odbyły się w środę w Waszyngtonie – poinformowało duńskie ministerstwo spraw zagranicznych.",
-      "date_published": "2026-01-29T08:04:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
