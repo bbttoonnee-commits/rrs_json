@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rynkowa-wolta-popsula-dzien-na-GPW-WIG20-spadl-ze-szczytu-hossy-9076330.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynkowa-wolta-popsula-dzien-na-GPW-WIG20-spadl-ze-szczytu-hossy-9076330.html",
+      "title": "Rynkowa wolta popsuła dzień na GPW. WIG20 spadł ze szczytu hossy Mniej więcej do godziny 15:50 wszystko wyglądało pięknie. Ale fatalne otwarcie na Wall Street zmiotło z planszy notowania złota i srebra. W ślad za metalami podążyły też ceny akcji na GPW.",
+      "content_html": "",
+      "date_published": "2026-01-29T17:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Budimeksu-wybrana-jako-najkorzystniejsza-w-przetargu-PKP-PLK-9076351.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Budimeksu-wybrana-jako-najkorzystniejsza-w-przetargu-PKP-PLK-9076351.html",
+      "title": "Oferta konsorcjum Budimeksu wybrana jako najkorzystniejsza w przetargu PKP PLK Oferta konsorcjum, którego liderem jest Budimex, została wybrana przez PKP Polskie Linie Kolejowe jako najkorzystniejsza w postępowaniu przetargowym na wykonanie dokumentacji wykonawczej i realizację robót budowlanych w ramach projektów Rail Baltica na trzech odcinkach - podała spółka w komunikacie. Wartość oferty to 4,047 mld zł netto, w tym zakres podstawowy 2,36 mld zł netto.",
+      "content_html": "",
+      "date_published": "2026-01-29T16:52:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-nabyla-farme-wiatrowa-Dzwola-o-mocy-35-MW-9076317.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-nabyla-farme-wiatrowa-Dzwola-o-mocy-35-MW-9076317.html",
       "title": "PGE Energia Odnawialna nabyła farmę wiatrową Dzwola o mocy 35 MW PGE Energia Odnawialna kupiła 100 proc. udziałów w spółce Wind Farm Łada, zarządzającej farmą wiatrową Dzwola o mocy 35 MW - podała PGE w komunikacie prasowym.",
@@ -270,6 +284,13 @@
       "date_published": "2026-01-28T14:13:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Synektik-ma-umowe-na-dostawe-systemu-robotycznego-da-Vinci-za-18-3-mln-zl-9075477.html",
+      "url": "https://www.bankier.pl/wiadomosc/Synektik-ma-umowe-na-dostawe-systemu-robotycznego-da-Vinci-za-18-3-mln-zl-9075477.html",
+      "title": "Synektik z umową na dostawę systemu robotycznego da Vinci za 18,3 mln zł Synektik podpisał umowę z Świętokrzyskim Centrum Onkologii w Kielcach na dostawę, montaż, instalację i uruchomienie systemu chirurgii robotycznej da Vinci za 18,3 mln zł netto - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-28T14:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/UOKiK-wszczal-postepowanie-wyjasniajace-dot-ograniczenia-konkurencji-przy-sprzedazy-sprzetu-elektronicznego-9075242.html",
       "url": "https://www.bankier.pl/wiadomosc/UOKiK-wszczal-postepowanie-wyjasniajace-dot-ograniczenia-konkurencji-przy-sprzedazy-sprzetu-elektronicznego-9075242.html",
       "title": "UOKiK wszedł do siedzib gigantów RTV i AGD. Przeszukania w AB, Action i Beko Prezes UOKiK wszczął postępowanie wyjaśniające i zlecił przeszukanie w siedzibach największych hurtowni ze sprzętem elektronicznym – AB, Action i GT Group Tomaszek oraz jednego z producentów - Beko - podał Urząd w komunikacie.",
@@ -394,13 +415,6 @@
       "title": "Największa przecena KGHM od kwietnia. PKO drepcze po piętach Orlenowi Wtorkowa sesja na warszawskim parkiecie upłynęła pod znakiem nowych rekordów hossy. Choć na horyzoncie pojawiły się symptomy realizacji zysków na KGHM, rolę przewodnika stada największych spółek przejął sektor bankowy, a rolę lidera wzrostów w WIG20 wziął na siebie największy polski bank. PKO ściga się na wyceny z Orlenem.",
       "content_html": "",
       "date_published": "2026-01-27T17:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budzet-programu-NaszEauto-wyczerpany-Wnioski-przyjmowane-ale-pod-warunkiem-9074975.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budzet-programu-NaszEauto-wyczerpany-Wnioski-przyjmowane-ale-pod-warunkiem-9074975.html",
-      "title": "Budżet programu NaszEauto wyczerpany. Wnioski przyjmowane, ale pod warunkiem W związku z bardzo dużym zainteresowaniem budżet programu NaszEauto przeznaczony na dofinansowanie zakupu pojazdów zeroemisyjnych został wyczerpany - poinformował na swojej stronie internetowej NFOŚiGW. Nabór w tym programie miał trwać do 30 kwietnia 2026 r. lub do wyczerpania środków, a budżet programu wynosił 1,18 mld zł.",
-      "content_html": "",
-      "date_published": "2026-01-27T16:59:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
