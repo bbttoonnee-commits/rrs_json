@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-i-KGHM-po-przeciwnych-stronach-notowan-Kapital-zagraniczny-decyduje-o-trendach-na-GPW-9076984.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-i-KGHM-po-przeciwnych-stronach-notowan-Kapital-zagraniczny-decyduje-o-trendach-na-GPW-9076984.html",
+      "title": "JSW i KGHM razem, a jednak osobno. Kapitał zagraniczny decyduje o trendach na GPW Piątkowy handel akcjami upłynęły pod znakiem słabszej postawy głównych indeksów GPW względem europejskich rynków bazowych. Nie przekreśliło to jednak zaliczyć 8. z rzędu wzrostowego tygodnia przez WIG20. Przy gwałtownej przecenie metali, cierpiał kurs KGHM, którego dotyczył także niemały giełdowy skandal. Po drugiej stronie tabeli wyników spółek indeksu WIG-Górnictwo był kurs JSW, zyskujący na rynkowych spekulacjach, łączących obie górnicze spółki. Kapitał zagraniczny płynął szerokim strumieniem do banków i spółek energetycznych, a o jego proweniencji świadczy skala obrotów.",
+      "content_html": "",
+      "date_published": "2026-01-30T17:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oplaty-na-A4-ce-znow-w-gore-i-to-na-ostatnia-chwile-GDDKiA-Decyzja-Stalexportu-niezasadna-9076961.html",
       "url": "https://www.bankier.pl/wiadomosc/Oplaty-na-A4-ce-znow-w-gore-i-to-na-ostatnia-chwile-GDDKiA-Decyzja-Stalexportu-niezasadna-9076961.html",
       "title": "Opłaty na A4-ce znów w górę i to na \"ostatnią chwilę\". GDDKiA: Decyzja Stalexportu niezasadna Biorąc pod uwagę wysokie podwyżki wdrożone przez koncesjonariusza w poprzednich latach, kolejny wzrost opłat na odcinku Kraków-Katowice autostrady A4 jest niezasadny - oceniła w piątek Generalna Dyrekcja Dróg Krajowych i Autostrad, odnosząc się do czwartkowej decyzji zarządcy autostrady.",
@@ -408,20 +415,6 @@
       "title": "Zbigniew Prus powołany na prezesa zarządu PKP Cargo Rada Nadzorcza PKP Cargo podjęła uchwałę o powołaniu w skład zarządu Zbigniewa Prusa, powierzając mu funkcję prezesa zarządu ze skutkiem od 2 lutego 2026 r. - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-28T18:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekord-za-rekordem-na-GPW-Kurs-KGHM-zmienny-jak-cena-srebra-9075685.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekord-za-rekordem-na-GPW-Kurs-KGHM-zmienny-jak-cena-srebra-9075685.html",
-      "title": "Rekord za rekordem na GPW. Kurs KGHM zmienny jak cena srebra Środowa sesja na warszawskiej giełdzie upłynęła pod znakiem wyraźnego podziału rynku. Podczas gdy indeksy blue chipów przez cały dzień utrzymywały się nad kreską, wynik segmentu średnich i małych spółek, rzutem na taśmę zaświecił się na zielono po finale sesji. Nie mniej był to kolejny dzień rekordów głównych indeksów.",
-      "content_html": "",
-      "date_published": "2026-01-28T17:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grenevia-przyjela-propozycje-nabycia-obligacji-o-lacznej-wartosci-100-mln-zl-9075666.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grenevia-przyjela-propozycje-nabycia-obligacji-o-lacznej-wartosci-100-mln-zl-9075666.html",
-      "title": "Grenevia przyjęła propozycję nabycia obligacji o łącznej wartości 100 mln zł Grenevia przyjęła propozycję nabycia obligacji przedstawioną przez Invest TDJ Estate o łącznej wartości 100 mln zł - podała Grenevia w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-28T17:02:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
