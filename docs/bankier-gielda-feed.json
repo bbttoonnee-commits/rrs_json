@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-i-zwiazki-JSW-nabieraja-wody-w-usta-Cisza-medialna-do-odwolania-9076993.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-i-zwiazki-JSW-nabieraja-wody-w-usta-Cisza-medialna-do-odwolania-9076993.html",
+      "title": "Zarząd i związki JSW nabierają wody w usta. Cisza medialna do odwołania Zarząd Jastrzębskiej Spółki Węglowej oraz reprezentatywne organizacje związkowe do czasu zakończenia prowadzonych rozmów nie będą komentować ich przebiegu ani pojawiających się w przestrzeni publicznej spekulacji - brzmi opublikowane w piątek oświadczenie.",
+      "content_html": "",
+      "date_published": "2026-01-30T18:07:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/JSW-i-KGHM-po-przeciwnych-stronach-notowan-Kapital-zagraniczny-decyduje-o-trendach-na-GPW-9076984.html",
       "url": "https://www.bankier.pl/wiadomosc/JSW-i-KGHM-po-przeciwnych-stronach-notowan-Kapital-zagraniczny-decyduje-o-trendach-na-GPW-9076984.html",
       "title": "JSW i KGHM razem, a jednak osobno. Kapitał zagraniczny decyduje o trendach na GPW Piątkowy handel akcjami upłynęły pod znakiem słabszej postawy głównych indeksów GPW względem europejskich rynków bazowych. Nie przekreśliło to jednak zaliczyć 8. z rzędu wzrostowego tygodnia przez WIG20. Przy gwałtownej przecenie metali, cierpiał kurs KGHM, którego dotyczył także niemały giełdowy skandal. Po drugiej stronie tabeli wyników spółek indeksu WIG-Górnictwo był kurs JSW, zyskujący na rynkowych spekulacjach, łączących obie górnicze spółki. Kapitał zagraniczny płynął szerokim strumieniem do banków i spółek energetycznych, a o jego proweniencji świadczy skala obrotów.",
@@ -408,13 +415,6 @@
       "title": "Fed nie tyka stóp procentowych. Donald Trump nie będzie zadowolony Przedział stopy funduszy federalnych pozostał bez zmian, na najniższym poziomie od przeszło trzech lat. Taka decyzja zapewne nie spodoba się prezydentowi Stanów Zjednoczonych.",
       "content_html": "",
       "date_published": "2026-01-28T20:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-powolala-Zbigniewa-Prusa-na-prezesa-zarzadu-9075702.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-powolala-Zbigniewa-Prusa-na-prezesa-zarzadu-9075702.html",
-      "title": "Zbigniew Prus powołany na prezesa zarządu PKP Cargo Rada Nadzorcza PKP Cargo podjęła uchwałę o powołaniu w skład zarządu Zbigniewa Prusa, powierzając mu funkcję prezesa zarządu ze skutkiem od 2 lutego 2026 r. - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-28T18:03:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
