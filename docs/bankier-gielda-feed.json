@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Oplaty-na-A4-ce-znow-w-gore-i-to-na-ostatnia-chwile-GDDKiA-Decyzja-Stalexportu-niezasadna-9076961.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oplaty-na-A4-ce-znow-w-gore-i-to-na-ostatnia-chwile-GDDKiA-Decyzja-Stalexportu-niezasadna-9076961.html",
+      "title": "Opłaty na A4-ce znów w górę i to na \"ostatnią chwilę\". GDDKiA: Decyzja Stalexportu niezasadna Biorąc pod uwagę wysokie podwyżki wdrożone przez koncesjonariusza w poprzednich latach, kolejny wzrost opłat na odcinku Kraków-Katowice autostrady A4 jest niezasadny - oceniła w piątek Generalna Dyrekcja Dróg Krajowych i Autostrad, odnosząc się do czwartkowej decyzji zarządcy autostrady.",
+      "content_html": "",
+      "date_published": "2026-01-30T16:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skandal-wokol-KGHM-Posel-ujawnil-kluczowe-zmiany-przed-oficjalnym-komunikatem-9076953.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skandal-wokol-KGHM-Posel-ujawnil-kluczowe-zmiany-przed-oficjalnym-komunikatem-9076953.html",
+      "title": "Skandal wokół KGHM. Poseł ujawnił kluczowe zmiany przed oficjalnym komunikatem Na warszawskiej giełdzie zawrzało przez wpis w mediach społecznościowych. Robert Kropiwnicki, poseł Koalicji Obywatelskiej i do niedawna wiceminister aktywów państwowych, wywołał burzę, informując o zmianach w zarządzie KGHM Polska Miedź, zanim zrobiła to sama spółka.",
+      "content_html": "",
+      "date_published": "2026-01-30T15:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Znamy-nastepce-Powella-Trump-nominowal-Kevina-Warsha-nowym-szefem-Fed-9076834.html",
       "url": "https://www.bankier.pl/wiadomosc/Znamy-nastepce-Powella-Trump-nominowal-Kevina-Warsha-nowym-szefem-Fed-9076834.html",
       "title": "Znamy następcę Powella. Trump nominował Kevina Warsha nowym szefem Fed Prezydent Donald Trump poinformował w mediach społecznościowych, że zamierza nominować Kevina Warsha na stanowisko przewodniczącego Rezerwy Federalnej.",
@@ -415,13 +429,6 @@
       "title": "GPW dopuściła UniCredit do obrotu papierami wartościowymi na własny rachunek Giełda Papierów Wartościowych w Warszawie dopuściła UniCredit do działania w charakterze podmiotu prowadzącego obrót papierami wartościowymi na rachunek własny - podało GPW w komunikacie prasowym. Spółka uzyskała jednocześnie status 37. członka Giełdy.",
       "content_html": "",
       "date_published": "2026-01-28T16:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyemitowal-obligacje-o-wartosci-100-mln-zl-9075590.html",
-      "url": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyemitowal-obligacje-o-wartosci-100-mln-zl-9075590.html",
-      "title": "Marvipol Development wyemitował obligacje o wartości 100 mln zł Marvipol Development wyemitował niezabezpieczone obligacje serii P2025B o łącznej wartości nominalnej 100 mln zł z datą wykupu przypadającą 28 stycznia 2030 r - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-01-28T15:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
