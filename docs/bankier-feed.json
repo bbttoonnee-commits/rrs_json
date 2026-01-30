@@ -4,18 +4,39 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-wyplaci-400-zl-na-akcje-zaliczki-na-poczet-dywidendy-9076735.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-wyplaci-400-zl-na-akcje-zaliczki-na-poczet-dywidendy-9076735.html",
+      "title": "LPP wypłaci 400 zł na akcję zaliczki na poczet dywidendy",
+      "content_html": "Zarząd LPP podjął decyzję o wypłacie akcjonariuszom zaliczki na poczet dywidendy za rok obrotowy 01.02.2025 r. - 31.01.2026 r. w wysokości 400 zł na akcję - podała spółka w komunikacie. Zarząd wstępnie rozważa przedłożenie ZWZ wniosku...",
+      "date_published": "2026-01-30T11:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podwyzki-premie-i-zamkniecie-sklepow-o-godz-22-Pracownicy-Biedronki-zadaja-zmian-9076733.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podwyzki-premie-i-zamkniecie-sklepow-o-godz-22-Pracownicy-Biedronki-zadaja-zmian-9076733.html",
+      "title": "Biedronka na krawędzi buntu. Pracownicy żądają 1 tys. zł podwyżki już od lutego",
+      "content_html": "Pracownicy Biedronki żądają podniesienia wynagrodzenia zasadniczego o 1 tys. zł brutto miesięcznie już od przyszłego miesiąca. Domagają się też zwiększenia liczby pracowników, wprowadzenia stałej obsady kas samoobsługowych oraz zamykania...",
+      "date_published": "2026-01-30T11:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-9-8-proc-przy-wysokich-obrotach-WIG20-znizkuje-o-0-9-proc-9076722.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-9-8-proc-przy-wysokich-obrotach-WIG20-znizkuje-o-0-9-proc-9076722.html",
+      "title": "KGHM w dół 9,8% przy wysokich obrotach. WIG20 spada 0,9%",
+      "content_html": "Kurs akcji KGHM spada o 9,8 proc. do 335,3 zł, przy spadku WIG20 o 0,9 proc. Obroty na akcjach spółki stanową ok. połowę obrotów na akcjach wszystkich spółek z indeksu WIG.",
+      "date_published": "2026-01-30T11:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Drugi-raz-pomylili-spolke-o-ktorej-wspomnial-premier-Donald-Tusk-Kurs-zyskal-blisko-45-procent-9076713.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drugi-raz-pomylili-spolke-o-ktorej-wspomnial-premier-Donald-Tusk-Kurs-zyskal-blisko-45-procent-9076713.html",
+      "title": "Kupowali na wyścigi. Znów (?) pomylili spółkę, o której wspomniał premier Donald Tusk",
+      "content_html": "Na warszawskim parkiecie można spodziewać się wszystkiego, nawet tego, że inwestorzy dwa razy popełnią ten sam błąd i kupią akcje nie tej spółki, o której mówił premier Donald Tusk. Pomyłka zaprowadziła kurs o 44,7% wyżej.",
+      "date_published": "2026-01-30T11:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Korekta-na-rynku-kruszcow-Ostre-spadki-cen-zlota-i-srebra-9076694.html",
       "url": "https://www.bankier.pl/wiadomosc/Korekta-na-rynku-kruszcow-Ostre-spadki-cen-zlota-i-srebra-9076694.html",
       "title": "Korekta na rynku kruszców. Ostre spadki cen złota i srebra",
       "content_html": "Po fenomenalnych zwyżkach cen złota i srebra od kilkunastu godzin jesteśmy świadkami bardzo gwałtownej korekty.",
       "date_published": "2026-01-30T11:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pierwsza-umowa-kredytowa-z-bankiem-US-EXIM-podpisana-PEJ-opis-9076705.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pierwsza-umowa-kredytowa-z-bankiem-US-EXIM-podpisana-PEJ-opis-9076705.html",
-      "title": "Pierwsza umowa kredytowa z bankiem US EXIM podpisana - PEJ (opis)",
-      "content_html": "Polskie Elektrownie Jądrowe podpisały umowę kredytową z Export Import Bank of the United States w ramach programu Engineering Multiplier Program (EMP), który obejmuje finansowanie kluczowych prac realizowanych przed rozpoczęciem fazy budowy elektrowni...",
-      "date_published": "2026-01-30T11:08:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zgony-dominuja-nad-urodzeniami-O-ile-spadla-liczba-ludnosci-w-2025-roku-9076663.html",
@@ -51,6 +72,13 @@
       "title": "System San dla polskiej armii. Historyczny kontrakt za 15 mld zł podpisany. Tusk: To absolutny priorytet",
       "content_html": "W piątek podpisana została umowa na nowy system antydronowy dla polskiego wojska. System San zbudują firmy z Polskiej Grupy Zbrojeniowej wraz z prywatnym APS i z norweskim Kongsbergiem.",
       "date_published": "2026-01-30T09:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/7-6-mln-zl-nie-na-cele-Akademia-Kopernikanska-pod-lupa-MNiSW-9076644.html",
+      "url": "https://www.bankier.pl/wiadomosc/7-6-mln-zl-nie-na-cele-Akademia-Kopernikanska-pod-lupa-MNiSW-9076644.html",
+      "title": "7,6 mln zł nie na cele? Akademia Kopernikańska pod lupą MNiSW",
+      "content_html": "Ministerstwo Nauki i Szkolnictwa Wyższego negatywnie oceniło działalność Akademii Kopernikańskiej w zakresie wydatkowania dotacji celowej z 2023 r. Kontrola wykazała, że ponad 7,6 mln zł wykorzystano niezgodnie z przepisami. Akademia musi je...",
+      "date_published": "2026-01-30T09:55:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polska-walczy-o-rynek-Mercosuru-Jablka-i-slodycze-w-zamian-za-zgode-na-umowe-9076639.html",
@@ -674,34 +702,6 @@
       "title": "Sikorski: Inicjatywa w sprawie Rady Pokoju leży po stronie prezydenta Nawrockiego",
       "content_html": "Wicepremier, szef MSZ Radosław Sikorski poinformował w czwartek w rozmowie z dziennikarzami w Brukseli, że do rządu nie wpłynął dotąd żaden wniosek o uchwałę w sprawie przystąpienia Polski do Rady Pokoju. Inicjatywa w tej sprawie leży po...",
       "date_published": "2026-01-29T13:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Smieciowa-rewolucja-w-Warszawie-Zmiana-odbiorcow-odpadow-w-pieciu-dzielnicach-9076149.html",
-      "url": "https://www.bankier.pl/wiadomosc/Smieciowa-rewolucja-w-Warszawie-Zmiana-odbiorcow-odpadow-w-pieciu-dzielnicach-9076149.html",
-      "title": "Śmieciowa rewolucja w Warszawie. Zmiana odbiorców odpadów w pięciu dzielnicach",
-      "content_html": "Od 1 kwietnia zmienią się odbiorcy odpadów komunalnych w pięciu dzielnicach: Rembertowie, Wawrze, Wesołej, Pradze-Północ i Pradze-Południe. Firmy rozpoczną ustawianie swoich pojemników na odpady w lutym.",
-      "date_published": "2026-01-29T13:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bumech-ma-umowe-dzierzawy-KWK-Silesia-9076140.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bumech-ma-umowe-dzierzawy-KWK-Silesia-9076140.html",
-      "title": "Bumech ma umowę dzierżawy KWK \"Silesia\". \"Na okres 36 miesięcy\"",
-      "content_html": "Bumech podpisał z zarządcą masy sanacyjnej Przedsiębiorstwa Górniczego \"Silesia\" umowę dzierżawy Kopalni Węgla Kamiennego Silesia, jako zorganizowanej część przedsiębiorstwa PG Silesia - podał Bumech w komunikacie.",
-      "date_published": "2026-01-29T13:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Usterka-rzadowego-samolotu-Spotkanie-szefa-MON-w-Ramstein-opoznione-9076111.html",
-      "url": "https://www.bankier.pl/wiadomosc/Usterka-rzadowego-samolotu-Spotkanie-szefa-MON-w-Ramstein-opoznione-9076111.html",
-      "title": "Usterka rządowego samolotu. Spotkanie szefa MON w Ramstein opóźnione",
-      "content_html": "Ze względu na niegroźną usterkę rządowego samolotu i konieczność zawrócenia na lotnisko w Warszawie, czwartkowe spotkanie w bazie w Ramstein wicepremiera, szefa MON Władysława Kosiniaka-Kamysza m.in. z szefem NATO Markiem Ruttem zostało opóźnione...",
-      "date_published": "2026-01-29T12:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bruksela-ratuje-Ukraine-przed-mrozem-145-mln-euro-na-pilna-pomoc-humanitarna-9076132.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bruksela-ratuje-Ukraine-przed-mrozem-145-mln-euro-na-pilna-pomoc-humanitarna-9076132.html",
-      "title": "Bruksela ratuje Ukrainę przed mrozem. 145 mln euro na pilną pomoc humanitarną",
-      "content_html": "Komisja Europejska ogłosiła w czwartek przekazanie Ukrainie 145 mln euro pilnej pomocy humanitarnej w obliczu fali dotkliwych mrozów i nieprzerwanych rosyjskich ataków na infrastrukturę energetyczną tego kraju. 8 mln euro otrzyma Mołdawia, gdzie...",
-      "date_published": "2026-01-29T12:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
