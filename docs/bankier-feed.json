@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-zaplanuje-Ci-wakacje-AI-pilnuje-budzetu-i-szyje-oferty-na-miare-9070269.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-zaplanuje-Ci-wakacje-AI-pilnuje-budzetu-i-szyje-oferty-na-miare-9070269.html",
+      "title": "Sztuczna inteligencja zaplanuje Ci wakacje. AI pilnuje budżetu i „szyje” oferty na miarę",
+      "content_html": "Sztuczna inteligencja wywiera coraz większy wpływ na rynek turystyczny. AI pozwala precyzyjnie dopasować ofertę, a także sposób jej prezentacji do profilu klienta oraz przyspieszyć proces planowania wypoczynku. Globalne...",
+      "date_published": "2026-01-31T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jaka-jest-prawda-o-zdrowiu-Donalda-Trumpa-Nie-wiem-jakim-cudem-on-zyje-9074512.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jaka-jest-prawda-o-zdrowiu-Donalda-Trumpa-Nie-wiem-jakim-cudem-on-zyje-9074512.html",
+      "title": "Jaka jest prawda o zdrowiu Donalda Trumpa? „Nie wiem, jakim cudem on żyje”",
+      "content_html": "„New York Magazine” napisał w poniedziałek, że uzyskanie dokładnych informacji o zdrowiu Donalda Trumpa jest trudnym zadaniem, lecz jego otoczenie chętnie opowiada o „boskim wigorze prezydenta”. Jeden z jego doradców Stephen Miller ocenił...",
+      "date_published": "2026-01-31T10:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Premier-Slowacji-byl-w-szoku-po-rozmowie-z-Donaldem-Trumpem-9075352.html",
       "url": "https://www.bankier.pl/wiadomosc/Premier-Slowacji-byl-w-szoku-po-rozmowie-z-Donaldem-Trumpem-9075352.html",
       "title": "Premier Słowacji „był w szoku” po rozmowie z Donaldem Trumpem",
@@ -688,20 +702,6 @@
       "title": "Atak na Iran coraz bliżej? Trump dostał na biurko \"wielki plan\"",
       "content_html": "Pentagon i Biały Dom zaprezentowały prezydentowi Donaldowi Trumpowi szereg opcji uderzeń na Iran, włącznie z dużą kampanią bombardowania obiektów reżimu – donosi „Wall Street Journal”. Według dziennika bliskowschodni sojusznicy USA dążą...",
       "date_published": "2026-01-30T07:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Shutdownu-nie-bedzie-Jest-porozumienie-Republikanow-i-Demokratow-ws-finansowania-wiekszosci-rzadu-9076521.html",
-      "url": "https://www.bankier.pl/wiadomosc/Shutdownu-nie-bedzie-Jest-porozumienie-Republikanow-i-Demokratow-ws-finansowania-wiekszosci-rzadu-9076521.html",
-      "title": "Shutdownu nie będzie? Jest porozumienie Republikanów i Demokratów ws. finansowania większości rządu\"",
-      "content_html": "Prezydent USA Donald Trump poinformował w czwartek, że Republikanie i Demokraci doszli do porozumienia w sprawie finansowania większości rządu do września, czyli do końca roku fiskalnego. Przewodniczący Izby Reprezentantów Mike Johnson wyraził...",
-      "date_published": "2026-01-30T07:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-nie-bada-wplywu-ustaw-na-demografie-Puste-rubryki-Boja-sie-trudnych-pytan-9076524.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-nie-bada-wplywu-ustaw-na-demografie-Puste-rubryki-Boja-sie-trudnych-pytan-9076524.html",
-      "title": "Rząd nie bada wpływu ustaw na demografię. Puste rubryki. \"Boją się trudnych pytań\"",
-      "content_html": "Mimo pogłębiającego się kryzysu demograficznego rządzący nie próbują szacować, czy powstające projekty ustaw mają wpływ na dzietność – pisze piątkowa „Rzeczpospolita”.",
-      "date_published": "2026-01-30T07:25:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
