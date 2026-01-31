@@ -11,6 +11,20 @@
       "date_published": "2026-01-31T18:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Skandal-wywiadowczy-w-Wielkiej-Brytanii-Chinczycy-latami-szpiegowali-rzad-9074895.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skandal-wywiadowczy-w-Wielkiej-Brytanii-Chinczycy-latami-szpiegowali-rzad-9074895.html",
+      "title": "Skandal wywiadowczy w Wielkiej Brytanii. Chińczycy latami szpiegowali rząd",
+      "content_html": "Chiny przez lata hakowały telefony wysokiej rangi członków rządu w Londynie – podał konserwatywny dziennik „Daily Telegraph”, cytując anonimowe źródła. Miał to być element szerszej kampanii, wymierzonej również w USA, Australię, Kanadę...",
+      "date_published": "2026-01-31T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjska-armia-stracila-na-Ukrainie-blisko-1-2-mln-zolnierzy-Te-liczby-sa-porazajace-9075357.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjska-armia-stracila-na-Ukrainie-blisko-1-2-mln-zolnierzy-Te-liczby-sa-porazajace-9075357.html",
+      "title": "Rosyjska armia straciła na Ukrainie blisko 1,2 mln żołnierzy. \"Te liczby są porażające\"",
+      "content_html": "Eksperci Centrum Studiów Strategicznych i Międzynarodowych (CSIS) z siedzibą w Waszyngtonie szacują, że rosyjska armia straciła podczas rozpoczętej w 2022 r. wojny na pełną skalę przeciwko Ukrainie blisko 1,2 mln zabitych, rannych i zaginionych...",
+      "date_published": "2026-01-31T18:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pol-roku-Balczuna-w-MAP-Odpolitycznianie-spolek-wciaz-dyskusyjne-9077336.html",
       "url": "https://www.bankier.pl/wiadomosc/Pol-roku-Balczuna-w-MAP-Odpolitycznianie-spolek-wciaz-dyskusyjne-9077336.html",
       "title": "Pół roku Balczuna w MAP. Odpolitycznianie spółek wciąż dyskusyjne",
@@ -688,20 +702,6 @@
       "title": "Kuźnia kadr PiS ma zwrócić 7 mln zł. Kontrola wykazała nieprawidłowości",
       "content_html": "Ministerstwo Nauki i Szkolnictwa Wyższego negatywnie oceniło działalność Akademii Kopernikańskiej w zakresie wydatkowania dotacji celowej z 2023 r. Kontrola wykazała, że ponad 7,6 mln zł wykorzystano niezgodnie z przepisami. Akademia musi je...",
       "date_published": "2026-01-30T09:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-walczy-o-rynek-Mercosuru-Jablka-i-slodycze-w-zamian-za-zgode-na-umowe-9076639.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-walczy-o-rynek-Mercosuru-Jablka-i-slodycze-w-zamian-za-zgode-na-umowe-9076639.html",
-      "title": "Polska chce korzystnych warunków dla rolników. Jabłka i słodycze na negocjacyjnym stole?",
-      "content_html": "Jest zgoda w rządzie na przyjęcie ustawy chroniącej funkcję produkcyjną wsi; mam nadzieję, że uda się to w pierwszej połowie 2026 r. - powiedział w piątek minister rolnictwa Stefan Krajewski. Poinformował, że trwają rozmowy o odblokowaniu...",
-      "date_published": "2026-01-30T09:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-dolara-odbija-od-dna-Euro-wrocilo-powyzej-4-20-zl-9076629.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-dolara-odbija-od-dna-Euro-wrocilo-powyzej-4-20-zl-9076629.html",
-      "title": "Kurs dolara odbija od dna. Euro wróciło powyżej 4,20 zł",
-      "content_html": ". Na świecie obserwowaliśmy dalsze spadki na parze euro-dolar, która we wtorek znalazła się najwyżej od 4,5 lat. Wciąż bardzo mocny pozostawał za to frank szwajcarski.",
-      "date_published": "2026-01-30T09:41:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
