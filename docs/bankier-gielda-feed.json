@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Korekta-na-metalach-szlachetnych-PKB-na-troje-a-marze-kredytow-pikuja-9076665.html",
+      "url": "https://www.bankier.pl/wiadomosc/Korekta-na-metalach-szlachetnych-PKB-na-troje-a-marze-kredytow-pikuja-9076665.html",
+      "title": "WYKRESY TYGODNIA Korekta na metalach szlachetnych, PKB na tróję, a marże kredytów pikują Ostatni tydzień stycznia to był prawdziwy rollecoaster. Po rekordowych zwyżkach obserwowaliśmy korektę na surowcach, ale i dobre dane o sprzedaży detalicznej. Działo się w KGHM-ie, działo się na Wall Street. Co przyniesie luty? Zanim wejdziemy w nowy miesiąc, zerknijmy na końcówkę stycznia na wykresach.",
+      "content_html": "",
+      "date_published": "2026-01-31T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/XTB-chce-jako-pierwszy-na-rynku-zaoferowac-OKI-9077172.html",
       "url": "https://www.bankier.pl/wiadomosc/XTB-chce-jako-pierwszy-na-rynku-zaoferowac-OKI-9077172.html",
       "title": "XTB chce jako pierwszy na rynku zaoferować OKI XTB chce jako pierwszy na rynku zaoferować polskim inwestorom Osobiste Konta Inwestycyjne (OKI), ale termin wdrożenia rozwiązania uzależniony jest od przebiegu ścieżki legislacyjnej - poinformowali przedstawiciele zarządu. Jak ocenili, założenia spółki dotyczące liczby nowych klientów są zachowawcze.",
@@ -436,13 +443,6 @@
       "title": "Amazon zwalnia kolejne 16 tysięcy osób. Znikają sklepy Fresh i Amazon Go Korporacja Amazon potwierdziła w środę, że kolejnych 16 tys. pracowników zostanie zwolnionych. To druga część planu redukcji zatrudnienia o łącznie 30 tys. osób, który zapoczątkowano w październiku ub. roku. Korporacja zastrzegła, że nie wyklucza kolejnych zwolnień.",
       "content_html": "",
       "date_published": "2026-01-29T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Analitycy-prognozuja-gieldowy-hit-2026-r-KGHM-i-PGE-moga-zaprowadzic-WIG20-pod-szczyt-9075624.html",
-      "url": "https://www.bankier.pl/wiadomosc/Analitycy-prognozuja-gieldowy-hit-2026-r-KGHM-i-PGE-moga-zaprowadzic-WIG20-pod-szczyt-9075624.html",
-      "title": "Analitycy prognozują giełdowy hit 2026 r.? KGHM i PGE mogą zaprowadzić WIG20 pod szczyt Znalezienie akcji spółek, które dadzą zarobić najwięcej, to dla niewprawionych inwestorów jak odnalezienie właściwych drzwi w ciemnym pokoju. Nieważne co w tym pomoże, ważne że znalazło się właściwą klamkę. Jedną z podstawowych wskazówek co do potencjału wzrostowego może być prognoza wyników na kolejny rok. Jak się okazało w 2025 r. ten trop w przypadku WIG20 trafił bezbłędnie, jak będzie w 2026 roku?",
-      "content_html": "",
-      "date_published": "2026-01-29T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
