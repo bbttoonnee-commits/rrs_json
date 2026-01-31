@@ -74,6 +74,13 @@
       "date_published": "2026-01-30T21:06:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Molecure-podjal-decyzje-o-zamknieciu-Projektu-RNA-9077106.html",
+      "url": "https://www.bankier.pl/wiadomosc/Molecure-podjal-decyzje-o-zamknieciu-Projektu-RNA-9077106.html",
+      "title": "Molecure podjął decyzję o zamknięciu Projektu RNA Molecure po analizach podjął decyzję o zamknięciu Projektu RNA i wstrzymaniu wszelkich aktywności badawczych z nim związanych - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-01-30T21:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MOL-ma-porozumienie-o-wspolpracy-z-libijska-Narodowa-Korporacja-Naftowa-9077134.html",
       "url": "https://www.bankier.pl/wiadomosc/MOL-ma-porozumienie-o-wspolpracy-z-libijska-Narodowa-Korporacja-Naftowa-9077134.html",
       "title": "MOL ma porozumienie o współpracy z libijską Narodową Korporacją Naftową Grupa MOL podpisała porozumienie o współpracy (Memorandum of Understanding) z libijską Narodową Korporacją Naftową NOC) - podał MOL w komunikacie prasowym. Jak podano, współpraca ma dotyczyć m.in. poszukiwania węglowodorów, innowacji technologicznych i handlu ropą.",
@@ -84,13 +91,6 @@
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Mirbudu-kupila-dzialke-za-421-2-mln-zl-pod-2-tys-lokali-mieszkalnych-9077132.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Mirbudu-kupila-dzialke-za-421-2-mln-zl-pod-2-tys-lokali-mieszkalnych-9077132.html",
       "title": "Spółka zależna Mirbudu kupiła działkę za 421,2 mln zł pod 2 tys. lokali mieszkalnych Spółka zależna Mirbudu - JHM Development - podpisała umowę na zakup nieruchomości inwestycyjnej w Poznaniu o powierzchni ok. 12,2 ha za 421,2 mln zł. Ma na niej powstać 2 tys. lokali mieszkalnych - podała spółka w komunikacie. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-01-30T21:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Molecure-podjal-decyzje-o-zamknieciu-Projektu-RNA-9077106.html",
-      "url": "https://www.bankier.pl/wiadomosc/Molecure-podjal-decyzje-o-zamknieciu-Projektu-RNA-9077106.html",
-      "title": "Molecure podjął decyzję o zamknięciu Projektu RNA Molecure po analizach podjął decyzję o zamknięciu Projektu RNA i wstrzymaniu wszelkich aktywności badawczych z nim związanych - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-01-30T21:06:00+01:00"
     },
@@ -401,13 +401,6 @@
       "title": "Orlen zmienia zdanie w sprawie KSeF. Papierowe faktury zostają do 1 kwietnia Największy polski koncern paliwowy robi kolejny zwrot dotyczący wystawiania faktur. Orlen jeszcze niedawno informował, że dokumenty będą wystawiane tylko elektronicznie, teraz zdecydował, że co najmniej do 1 kwietnia pozostaje przy dokumentach papierowych.",
       "content_html": "",
       "date_published": "2026-01-29T11:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloto-polecialo-na-5-600-USD-oz-Uncja-krolewskiego-metalu-kosztuje-ponad-20-000-zl-9076038.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloto-polecialo-na-5-600-USD-oz-Uncja-krolewskiego-metalu-kosztuje-ponad-20-000-zl-9076038.html",
-      "title": "Złoto poleciało na 5 600 USD/oz. Uncja „królewskiego metalu” kosztuje ponad 20 000 zł Notowania metali szlachetnych wciąż zwyżkują w niespotykanym wcześniej tempie. Nie chodzi już nawet o same poziomy cenowe, ale o to, jak łatwo i szybko rynek „zdobywa teren”.",
-      "content_html": "",
-      "date_published": "2026-01-29T10:47:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
