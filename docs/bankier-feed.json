@@ -60,13 +60,6 @@
       "date_published": "2026-01-31T06:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Prezes-Azotow-dzialania-wierzycieli-wobec-GA-Polyolefins-bez-wplywu-na-dzialalnosc-operacyjna-Grupy-Azoty-9077219.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezes-Azotow-dzialania-wierzycieli-wobec-GA-Polyolefins-bez-wplywu-na-dzialalnosc-operacyjna-Grupy-Azoty-9077219.html",
-      "title": "Prezes Azotów: działania wierzycieli wobec GA Polyolefins bez wpływu na działalność operacyjną Grupy Azoty",
-      "content_html": "Działania banków i pozostałych wierzycieli wobec GA Polyolefins nie przekładają się na zakłócenia w bieżącej działalności operacyjnej Grupy Azoty - poinformował prezes Azotów Andrzej Skolmowski. Jak wskazał, Grupa Azoty funkcjonuje w sposób...",
-      "date_published": "2026-01-30T21:07:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Molecure-podjal-decyzje-o-zamknieciu-Projektu-RNA-9077106.html",
       "url": "https://www.bankier.pl/wiadomosc/Molecure-podjal-decyzje-o-zamknieciu-Projektu-RNA-9077106.html",
       "title": "Molecure podjął decyzję o zamknięciu Projektu RNA",
@@ -90,7 +83,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Dzialania-wierzycieli-wobec-GA-Polyolefins-bez-wplywu-na-dzialalnosc-operacyjna-Grupy-Azoty-prezes-9077141.html",
       "url": "https://www.bankier.pl/wiadomosc/Dzialania-wierzycieli-wobec-GA-Polyolefins-bez-wplywu-na-dzialalnosc-operacyjna-Grupy-Azoty-prezes-9077141.html",
-      "title": "Działania wierzycieli wobec GA Polyolefins bez wpływu na działalność operacyjną Grupy Azoty - prezes",
+      "title": "Prezes: Działania wierzycieli wobec GA Polyolefins bez wpływu na działalność operacyjną Grupy Azoty",
       "content_html": "Działania banków i pozostałych wierzycieli wobec GA Polyolefins nie przekładają się na zakłócenia w bieżącej działalności operacyjnej Grupy Azoty - poinformował prezes Azotów Andrzej Skolmowski. Jak wskazał, Grupa Azoty funkcjonuje w sposób...",
       "date_published": "2026-01-30T21:06:00+01:00"
     },
@@ -99,13 +92,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Enel-Med-nie-bedzie-kontynuowal-umowy-z-Diagnostyka-podpisal-umowe-z-ALAB-9077145.html",
       "title": "Enel-Med nie będzie kontynuował umowy z Diagnostyką; podpisał umowę z ALAB",
       "content_html": "Centrum Medyczne Enel-Med nie będzie kontynuowało umowy z Diagnostyką - podała spółka w komunikacie. Enel-Med podpisał trzyletnią umowę z ALAB na wykonywaniem świadczeń zdrowotnych w zakresie diagnostyki laboratoryjnej",
-      "date_published": "2026-01-30T21:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GDDKiA-uwaza-ze-wzrost-oplat-za-przejazd-autostrada-Krakow-Katowice-jest-niezasadny-9077149.html",
-      "url": "https://www.bankier.pl/wiadomosc/GDDKiA-uwaza-ze-wzrost-oplat-za-przejazd-autostrada-Krakow-Katowice-jest-niezasadny-9077149.html",
-      "title": "GDDKiA uważa, że wzrost opłat za przejazd autostradą Kraków-Katowice jest niezasadny",
-      "content_html": "Biorąc pod uwagę wysokie podwyżki wdrożone przez koncesjonariusza w poprzednich latach, kolejny wzrost opłat na odcinku Kraków-Katowice autostrady A4 jest niezasadny - oceniła w piątek Generalna Dyrekcja Dróg Krajowych i Autostrad, odnosząc...",
       "date_published": "2026-01-30T21:06:00+01:00"
     },
     {
@@ -702,6 +688,13 @@
       "title": "Rosja dostarczyła Iranowi śmigłowce szturmowe Mi-28NE",
       "content_html": "Do Iranu, wokół którego Stany Zjednoczone zgromadziły pokaźną flotę okrętów i samolotów bojowych, dotarły pierwsze z zamówionych w 2023 r. rosyjskich śmigłowców szturmowych Mi-28NE Night Hunter.",
       "date_published": "2026-01-30T07:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Transport-ropy-do-Europy-Dryfujacy-gigant-zagrazal-statkom-9076469.html",
+      "url": "https://www.bankier.pl/wiadomosc/Transport-ropy-do-Europy-Dryfujacy-gigant-zagrazal-statkom-9076469.html",
+      "title": "Transport ropy do Europy. Dryfujący gigant zagrażał statkom",
+      "content_html": "Hiszpania wysłała holownik, aby pomógł dotrzeć do marokańskiego portu objętemu sankcjami tankowcowi załadowanemu rosyjską ropą naftową, który przez kilka dni, straciwszy sterowność, dryfował na ruchliwym szlaku na Morzu Śródziemnym.",
+      "date_published": "2026-01-30T07:12:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
