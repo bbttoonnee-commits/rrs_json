@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 01 Feb 2026 11:25:00 +0100</lastBuildDate>
-    <item>
-      <title>KGHM bez prezesa. Andrzeja Szydło tymczasowo zastąpi Remigiusz Paszkiewicz</title>
-      <link>https://www.bankier.pl/wiadomosc/Rada-nadzorcza-KGHM-odwolala-Andrzeja-Szydlo-z-funkcji-prezesa-spolki-9076790.html</link>
-      <description>Rada nadzorcza KGHM odwołała Andrzeja Szydło z funkcji prezesa oraz Piotra Stryczka z funkcji wiceprezesa ds. korporacyjnych oraz delegowała Remigiusza Paszkiewicza do czasowego wykonywania czynności prezesa oraz wiceprezesa zarządu ds. korporacyjnych...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rada-nadzorcza-KGHM-odwolala-Andrzeja-Szydlo-z-funkcji-prezesa-spolki-9076790.html</guid>
-      <pubDate>Fri, 30 Jan 2026 13:58:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Feb 2026 13:10:00 +0100</lastBuildDate>
     <item>
       <title>XTB mówi "pas" nowym rynkom. Zamiast podbijać świat, chcę zdominować Europę</title>
       <link>https://www.bankier.pl/wiadomosc/XTB-nie-mysli-o-nowych-rynkach-zagranicznych-9076893.html</link>
@@ -707,6 +700,13 @@
       <description>Bilans tego rządu jest rozczarowujący. W mojej ocenie ten rząd pracowników zawiódł - powiedział w wywiadzie udzielonym „Rzeczpospolitej” przewodniczący OPZZ Piotr Ostrowski.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/OPZZ-rozlicza-rzad-z-obietnic-Zwiazkowcy-czuja-sie-oszukani-9077470.html</guid>
       <pubDate>Sun, 01 Feb 2026 11:25:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>KSeF wystartował. E-fakturowa rewolucja stała się faktem</title>
+      <link>https://www.bankier.pl/wiadomosc/KSeF-wystartowal-E-fakturowa-rewolucja-stala-sie-faktem-9077526.html</link>
+      <description>Nie było falstartu. Dziś wszedł w życie Krajowy System e-Faktur. Przedsiębiorcy już mogą wystawiać i odbierać faktury na nowej elektronicznej platformie. „System ruszył planowo, sprawnie i bez zakłóceń” – poinformował minister finansów...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/KSeF-wystartowal-E-fakturowa-rewolucja-stala-sie-faktem-9077526.html</guid>
+      <pubDate>Sun, 01 Feb 2026 13:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KSeF-wystartowal-E-fakturowa-rewolucja-stala-sie-faktem-9077526.html",
+      "url": "https://www.bankier.pl/wiadomosc/KSeF-wystartowal-E-fakturowa-rewolucja-stala-sie-faktem-9077526.html",
+      "title": "KSeF wystartował. E-fakturowa rewolucja stała się faktem",
+      "content_html": "Nie było falstartu. Dziś wszedł w życie Krajowy System e-Faktur. Przedsiębiorcy już mogą wystawiać i odbierać faktury na nowej elektronicznej platformie. „System ruszył planowo, sprawnie i bez zakłóceń” – poinformował minister finansów...",
+      "date_published": "2026-02-01T13:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/OPZZ-rozlicza-rzad-z-obietnic-Zwiazkowcy-czuja-sie-oszukani-9077470.html",
       "url": "https://www.bankier.pl/wiadomosc/OPZZ-rozlicza-rzad-z-obietnic-Zwiazkowcy-czuja-sie-oszukani-9077470.html",
       "title": "OPZZ rozlicza rząd z obietnic. Związkowcy czują się oszukani",
@@ -695,13 +702,6 @@
       "title": "XTB mówi \"pas\" nowym rynkom. Zamiast podbijać świat, chcę zdominować Europę",
       "content_html": "XTB nie myśli obecnie o wejściu na nowe rynki zagraniczne - poinformowali przedstawiciele zarządu.",
       "date_published": "2026-01-30T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-KGHM-odwolala-Andrzeja-Szydlo-z-funkcji-prezesa-spolki-9076790.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-KGHM-odwolala-Andrzeja-Szydlo-z-funkcji-prezesa-spolki-9076790.html",
-      "title": "KGHM bez prezesa. Andrzeja Szydło tymczasowo zastąpi Remigiusz Paszkiewicz",
-      "content_html": "Rada nadzorcza KGHM odwołała Andrzeja Szydło z funkcji prezesa oraz Piotra Stryczka z funkcji wiceprezesa ds. korporacyjnych oraz delegowała Remigiusza Paszkiewicza do czasowego wykonywania czynności prezesa oraz wiceprezesa zarządu ds. korporacyjnych...",
-      "date_published": "2026-01-30T13:58:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
