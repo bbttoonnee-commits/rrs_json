@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Czegos-takiego-dawno-nie-bylo-Gdzie-szukac-zyskow-w-tak-niepewnych-czasach-9077685.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czegos-takiego-dawno-nie-bylo-Gdzie-szukac-zyskow-w-tak-niepewnych-czasach-9077685.html",
+      "title": "PORTFEL GWIAZD Czegoś takiego dawno nie było. Gdzie szukać zysków w tak niepewnych czasach? Czegoś takiego, co wydarzyło się na metalach szlachetnych w ostatnich dniach, nie widzieliśmy od lat. Pytanie, gdzie szukać zysków w tak niepewnych czasach. Pewną podpowiedzią mogą być najnowsze prognozy Gwiazd Bankier.pl",
+      "content_html": "",
+      "date_published": "2026-02-02T08:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-mocno-spadaja-Prognozy-zapowiadaja-lagodniejsza-pogode-9077705.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-mocno-spadaja-Prognozy-zapowiadaja-lagodniejsza-pogode-9077705.html",
+      "title": "Ceny gazu w Europie mocno spadają. Prognozy zapowiadają łagodniejszą pogodę Ceny gazu w Europie mocno spadają na początku nowego tygodnia handlu. Prognozy pogody zapowiadają łagodniejszą aurę w nadchodzących tygodniach - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-02-02T08:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Na-gieldach-leje-sie-krew-Spadaja-akcje-kontrakty-ropa-metale-i-kryptowaluty-9077662.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-gieldach-leje-sie-krew-Spadaja-akcje-kontrakty-ropa-metale-i-kryptowaluty-9077662.html",
       "title": "Na giełdach leje się krew. Spadają akcje, kontrakty, ropa, metale i kryptowaluty W poniedziałek rano na rynkach spada niemal wszystko od azjatyckich akcji, po ropę i kontrakty na amerykańskie indeksy. Złoto i srebro kontynuują piątkowy krach, a bitcoin znalazł się na najniższym poziomie od listopada 2024 roku.",
@@ -58,13 +72,6 @@
       "title": "Ceny miedzi w Londynie mocno w dół, na innych giełdach też duże spadki Notowania miedzi na giełdzie metali LME w Londynie mocno spadają na początku lutego. Na innych giełdach metali też widać bardzo silne zniżki notowań - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-02-02T07:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-anonimowosci-na-krypto-w-Polsce-Komisja-Europejska-upomina-rzad-9076817.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-anonimowosci-na-krypto-w-Polsce-Komisja-Europejska-upomina-rzad-9076817.html",
-      "title": "Koniec anonimowości na krypto w Polsce? Komisja Europejska upomina rząd Komisja wezwała w piątek Polskę i 11 innych krajów do pełnego wdrożenia nowych przepisów dot. przejrzystości podatkowej i wymiany informacji w zakresie kryptoaktywów - podała KE na stronie. Takie wezwanie to pierwszy etap postępowania ws. uchybienia zobowiązaniom państwa członkowskiego.",
-      "content_html": "",
-      "date_published": "2026-01-31T09:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
