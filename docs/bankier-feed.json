@@ -4,11 +4,53 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rzym-wprowadzil-bilety-do-Fontanny-di-Trevi-Turysci-nie-przestraszyli-sie-oplaty-9077839.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzym-wprowadzil-bilety-do-Fontanny-di-Trevi-Turysci-nie-przestraszyli-sie-oplaty-9077839.html",
+      "title": "Rzym wprowadził bilety do Fontanny di Trevi. Turyści nie przestraszyli się opłaty",
+      "content_html": "Od poniedziałku turyści, którzy chcą zobaczyć z bliska rzymską Fontannę di Trevi muszą zapłacić 2 euro. Opłata ta będzie pobierana codziennie w porze największego napływu turystów, do 22.00. W pierwszych godzinach jej obowiązywania sprzedano...",
+      "date_published": "2026-02-02T12:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/eBilet-sprzedal-4-1-mln-biletow-w-2025-r-wzrost-o-prawie-12-proc-rdr-9077830.html",
+      "url": "https://www.bankier.pl/wiadomosc/eBilet-sprzedal-4-1-mln-biletow-w-2025-r-wzrost-o-prawie-12-proc-rdr-9077830.html",
+      "title": "eBilet sprzedał 4,1 mln biletów w 2025 r., wzrost o prawie 12 proc. rdr",
+      "content_html": "eBilet, z grupy Allegro, sprzedał w 2025 roku 4,1 mln biletów, co oznacza wzrost o prawie 12 proc. rdr - poinformował eBilet w komunikacie prasowym.",
+      "date_published": "2026-02-02T12:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKB-Polski-wystrzeli-Wiceprezes-PFR-zapowiada-wielki-skok-inwestycji-9077821.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKB-Polski-wystrzeli-Wiceprezes-PFR-zapowiada-wielki-skok-inwestycji-9077821.html",
+      "title": "PKB Polski wystrzeli? Wiceprezes PFR zapowiada wielki skok inwestycji",
+      "content_html": "Jeśli otoczenie zewnętrzne nie ulegnie pogorszeniu, tempo wzrostu PKB Polski w trakcie roku może przekroczyć 4 proc., a dynamika inwestycji nawet 10 proc. - ocenia wiceprezes Polskiego Funduszu Rozwoju ds. inwestycji Mikołaj Raczyński.",
+      "date_published": "2026-02-02T11:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Paradoks-polskiego-rynku-pracy-Statystyki-swietne-ale-Diagnoza-ministerstwa-9077789.html",
       "url": "https://www.bankier.pl/wiadomosc/Paradoks-polskiego-rynku-pracy-Statystyki-swietne-ale-Diagnoza-ministerstwa-9077789.html",
       "title": "Paradoks polskiego rynku pracy: Statystyki świetne, ale... Diagnoza ministerstwa",
-      "content_html": "diagnozuje, że \"rodzimych pracowników jest za mało\" i zapowiada ułatwienia w zatrudnianiu cudzoziemców. To konieczność w obliczu zmian demograficznych i niechęci Polaków do pracy zmianowej czy wyjazdowej.",
-      "date_published": "2026-02-02T11:20:00+01:00"
+      "content_html": "Polska ma jeden z najlepszych rynków pracy w UE, ale brakuje nam pielęgniarek, kierowców i budowlańców. Resort pracy diagnozuje, że \"rodzimych pracowników jest za mało\" i zapowiada ułatwienia w zatrudnianiu cudzoziemców. To konieczność w obliczu...",
+      "date_published": "2026-02-02T11:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trudny-kompromis-terytorialny-40-proc-Ukraincow-dopuszcza-utrate-Donbasu-9077803.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trudny-kompromis-terytorialny-40-proc-Ukraincow-dopuszcza-utrate-Donbasu-9077803.html",
+      "title": "Trudny kompromis terytorialny. 40 proc. Ukraińców dopuszcza utratę Donbasu",
+      "content_html": "Przeciwko oddaniu Donbasu Rosji w zamian za gwarancje bezpieczeństwa jest nieco ponad połowa Ukraińców, natomiast 40 proc. dopuszcza taką możliwość – wynika z badań Kijowskiego Międzynarodowego Instytutu Socjologii (KMIS).",
+      "date_published": "2026-02-02T11:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaria-profilu-zaufanego-Tysiace-osob-nie-moglo-zalogowac-sie-do-KSeF-9077811.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaria-profilu-zaufanego-Tysiace-osob-nie-moglo-zalogowac-sie-do-KSeF-9077811.html",
+      "title": "Awaria profilu zaufanego. Tysiące osób nie mogło zalogować się do KSeF",
+      "content_html": "Profil zaufany padł. Rządowa usługa, dzięki której można zalogować się w różnych państwowych serwisach, przestała działać. Setki internautów nie mogło potwierdzić swojej tożsamości, natomiast przedsiębiorcy nie mieli możliwości zalogowania...",
+      "date_published": "2026-02-02T11:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-chinski-minister-sprawiedliwosci-skazany-na-dozywocie-za-korupcje-9077807.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-chinski-minister-sprawiedliwosci-skazany-na-dozywocie-za-korupcje-9077807.html",
+      "title": "Były chiński minister sprawiedliwości skazany na dożywocie za korupcję",
+      "content_html": "Chiński sąd skazał w poniedziałek byłego ministra sprawiedliwości Tang Yijuna na karę dożywotniego pozbawienia wolności – podała telewizja CCTV. Tang został uznany winnym przyjęcia łapówek o łącznej wartości ponad 137 mln juanów (ok...",
+      "date_published": "2026-02-02T11:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nobel-dla-Trumpa-Czarzasty-odpowiada-Nie-Destabilizuje-swiat-i-lamie-prawo-9077795.html",
@@ -20,7 +62,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Czysty-biznes-za-strefie-czystego-transportu-Karakow-zarobil-juz-ponad-4-mln-zl-9077801.html",
       "url": "https://www.bankier.pl/wiadomosc/Czysty-biznes-za-strefie-czystego-transportu-Karakow-zarobil-juz-ponad-4-mln-zl-9077801.html",
-      "title": "Czysty biznes za strefie czystego transportu. Karaków zarobił już ponad 4 mln zł",
+      "title": "Czysty biznes na strefie czystego transportu. Kraków zarobił już ponad 4 mln zł",
       "content_html": "Dotychczas ponad 4 mln zł wpłynęło do kasy Urzędu Miasta Krakowa z opłat za wjazd do strefy czystego transportu (SCT). Obowiązuje od miesiąca, a za wjazd do niej płacą kierowcy samochodów niespełniających jej wymogów.",
       "date_published": "2026-02-02T11:10:00+01:00"
     },
@@ -100,13 +142,6 @@
       "title": "Pharmena ma umowę na przeprowadzenie badania klinicznego wyrobu medycznego",
       "content_html": "Pharmena podpisała umowę ze specjalistyczną firmą na przygotowanie dokumentacji badania klinicznego, przeprowadzenie, monitorowanie i koordynowanie badania klinicznego przyszłego wyrobu medycznego do stosowania w trudno gojących się ranach - poinformowano...",
       "date_published": "2026-02-02T10:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-gieldach-leje-sie-krew-Spadaja-akcje-kontrakty-ropa-metale-i-kryptowaluty-9077662.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-gieldach-leje-sie-krew-Spadaja-akcje-kontrakty-ropa-metale-i-kryptowaluty-9077662.html",
-      "title": "Notowania KGHM runęły na otwarciu. Spadki na rynkach akcji, metali, ropy i kryptowalut",
-      "content_html": "W poniedziałek rano na rynkach spadało niemal wszystko od azjatyckich akcji, po ropę i kontrakty na amerykańskie indeksy. Złoto i srebro kontynuowały piątkową korektę, a bitcoin znalazł się na najniższym poziomie od listopada 2024 roku. Pod...",
-      "date_published": "2026-02-02T09:59:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-blokady-w-Rafah-Rusza-ruch-na-granicy-z-Egiptem-ale-tylko-50-osob-dziennie-9077752.html",
@@ -382,13 +417,6 @@
       "date_published": "2026-02-01T22:10:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Szymon-Holownia-w-rzadzie-Hennig-Kloska-Bylby-doskonalym-wicepremierem-9077604.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szymon-Holownia-w-rzadzie-Hennig-Kloska-Bylby-doskonalym-wicepremierem-9077604.html",
-      "title": "Szymon Hołownia w rządzie? Hennig-Kloska: Byłby doskonałym wicepremierem",
-      "content_html": "Szymon Hołownia byłby doskonałym wicepremierem z ramienia Polski 2050; decyzja należy jednak do niego oraz do nowej przewodniczącej partii Katarzyny Pełczyńskiej-Nałęcz - oceniła szefowa MKiŚ Paulina Hennig-Kloska. Dodała też, że chciałaby...",
-      "date_published": "2026-02-01T20:53:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Oplaty-drogowe-mocno-w-gore-Rzad-rozszerzyl-siec-platnych-drog-9077492.html",
       "url": "https://www.bankier.pl/wiadomosc/Oplaty-drogowe-mocno-w-gore-Rzad-rozszerzyl-siec-platnych-drog-9077492.html",
       "title": "Opłaty drogowe mocno w górę. Rząd rozszerzył sieć płatnych dróg",
@@ -660,48 +688,6 @@
       "title": "Czy Konfederacja zepchnie PiS na margines? Polacy podzieleni w ocenach",
       "content_html": "38,9 proc. Polaków uważa, że PiS może być zepchnięte na margines lub ulec rozłamowi wskutek rosnącej popularności obu Konfederacji. 53,8 proc. respondentów wciąż wierzy w stabilność PiS, odrzucając czarny scenariusz - wynika z sondażu...",
       "date_published": "2026-02-01T07:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nocny-alarm-na-granicy-Bialorus-testuje-balonami-polska-obrone-9077495.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nocny-alarm-na-granicy-Bialorus-testuje-balonami-polska-obrone-9077495.html",
-      "title": "Nocny alarm na granicy. Białoruś testuje balonami polską obronę?",
-      "content_html": "W nocy z 31 stycznia na 1 lutego 2026 roku strona białoruska podjęła ponowną próbę rozpoznania i sprawdzenia reakcji systemów obrony powietrznej RP, które zarejestrowały wloty w polską przestrzeń powietrzną obiektów o charakterze balonów...",
-      "date_published": "2026-02-01T07:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mroczny-sekret-mocarstw-jadrowych-Naukowcy-ujawniaja-skale-zgonow-9072507.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mroczny-sekret-mocarstw-jadrowych-Naukowcy-ujawniaja-skale-zgonow-9072507.html",
-      "title": "Mroczny sekret mocarstw jądrowych. Naukowcy ujawniają skalę zgonów",
-      "content_html": "Zatajanie danych oraz wspólnota interesów państw posiadających broń jądrową mogły prowadzić do systematycznego zaniżania skutków zdrowotnych prób atomowych, które mogły skutkować śmiercią co najmniej 2 mln ludzi - wynika z raportu norweskiej...",
-      "date_published": "2026-02-01T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-OZE-UE-wyklucza-chinskie-komponenty-koszty-inwestycji-gwaltownie-wzrosna-9073250.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-OZE-UE-wyklucza-chinskie-komponenty-koszty-inwestycji-gwaltownie-wzrosna-9073250.html",
-      "title": "Wojna o OZE. UE wyklucza chińskie komponenty, koszty inwestycji gwałtownie wzrosną",
-      "content_html": "W krótkim terminie odejście od importowanych z Chin m.in. paneli słonecznych może spowodować wzrost kosztów budowy źródeł OZE i spowolnić ich instalacje w Europie - wskazali w raporcie Energy Outlook 2026 analitycy ING. Dodali, że same Chiny...",
-      "date_published": "2026-02-01T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Statki-widma-na-oceanach-285-tankowcow-plywa-pod-falszywa-bandera-Ujawniono-mroczny-raport-9073805.html",
-      "url": "https://www.bankier.pl/wiadomosc/Statki-widma-na-oceanach-285-tankowcow-plywa-pod-falszywa-bandera-Ujawniono-mroczny-raport-9073805.html",
-      "title": "Statki-widma na oceanach. 285 tankowców pływa pod fałszywą banderą. Ujawniono mroczny raport",
-      "content_html": "Około 285 tankowców, obsługujących międzynarodowy transport morski, wciąż pływa pod fałszywą banderą, pomimo coraz ostrzejszych represji Stanów Zjednoczonych, Wielkiej Brytanii i krajów Unii Europejskiej wobec tej praktyki - wynika z najnowszego...",
-      "date_published": "2026-02-01T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trzonolinowiec-we-Wroclawiu-Wiemy-kiedy-ruszy-wielki-remont-Kwota-zwala-z-nog-9074811.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trzonolinowiec-we-Wroclawiu-Wiemy-kiedy-ruszy-wielki-remont-Kwota-zwala-z-nog-9074811.html",
-      "title": "Trzonolinowiec we Wrocławiu. Wiemy, kiedy ruszy wielki remont. Kwota zwala z nóg",
-      "content_html": "Przetarg na kompleksowy remont pochodzącego z lat 60. XX w. wrocławskiego Trzonolinowca zostanie ogłoszony w lutym, a powrót mieszkańców do zabytkowego budynku planowany jest na 2028 r. – powiedział PAP prezes spółki Zarząd Seweryn Chwałek...",
-      "date_published": "2026-02-01T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-sporow-o-handel-Umowa-z-Indiami-to-cenna-lekcja-9075070.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-sporow-o-handel-Umowa-z-Indiami-to-cenna-lekcja-9075070.html",
-      "title": "Koniec sporów o handel? Umowa z Indiami to „cenna lekcja”",
-      "content_html": "Umowa handlowa Unii Europejskiej z Indiami pokazuje, że możliwe jest pogodzenie otwartości w handlu z ochroną rolnictwa - powiedziała PAP ekspertka europejskiego zrzeszenia rolnego Copa-Cogeca Ksenija Simović. To cenna lekcja dla wszystkich obecnych...",
-      "date_published": "2026-02-01T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
