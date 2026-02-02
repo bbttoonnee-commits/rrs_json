@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zimowa-pauza-w-cyklu-obnizek-Co-w-lutym-zadecyduje-Rada-Polityki-Pienieznej-9077938.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zimowa-pauza-w-cyklu-obnizek-Co-w-lutym-zadecyduje-Rada-Polityki-Pienieznej-9077938.html",
+      "title": "Zimowa „pauza” w cyklu obniżek? Co w lutym zadecyduje Rada Polityki Pieniężnej?",
+      "content_html": "Zarówno rynkowy konsensus, jak i zdrowy rozsądek sugerowałyby wydłużenie styczniowej pauzy w ramach „niecyklu” obniżek stóp procentowych w Polsce.",
+      "date_published": "2026-02-03T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najwieksza-pulapka-w-historii-Epstein-mial-pracowac-dla-Moskwy-9078045.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najwieksza-pulapka-w-historii-Epstein-mial-pracowac-dla-Moskwy-9078045.html",
+      "title": "Największa pułapka w historii? Epstein miał pracować dla... Moskwy",
+      "content_html": "Według brytyjskich dzienników „Daily Mail” i „Daily Telegraph” skazany pedofil i finansista Jeffrey Epstein mógł zbierać dla Rosji materiały kompromitujące zachodnich polityków i biznesmenów.",
+      "date_published": "2026-02-02T17:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trzy-fregaty-i-gigantyczny-okret-ratowniczy-Ofensywa-budowlana-w-Gdyni-9078036.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzy-fregaty-i-gigantyczny-okret-ratowniczy-Ofensywa-budowlana-w-Gdyni-9078036.html",
+      "title": "Trzy fregaty i gigantyczny okręt ratowniczy. Ofensywa budowlana w Gdyni",
+      "content_html": "Rok 2026 będzie dla PGZ Stoczni Wojennej jeszcze bardziej intensywny niż 2025 - podkreślił w rozmowie z PAP prezes spółki Marcin Ryngwelski. Wśród najważniejszych wydarzeń wymienił m.in. wodowanie okrętu ratowniczego Ratownik i rozpoczęcie...",
+      "date_published": "2026-02-02T16:53:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Papierosy-atakuja-z-powietrza-SG-W-styczniu-1-75-mln-sztuk-przemycono-balonami-9078035.html",
+      "url": "https://www.bankier.pl/wiadomosc/Papierosy-atakuja-z-powietrza-SG-W-styczniu-1-75-mln-sztuk-przemycono-balonami-9078035.html",
+      "title": "Papierosy atakują z powietrza. SG: W styczniu 1,75 mln sztuk przemycono balonami",
+      "content_html": "W wyniku prowadzonych w styczniu tego roku działań związanych z ujawnieniem papierosów przemyconych za pomocą balonów meteorologicznych z Białorusi do Polski funkcjonariusze SG zabezpieczyli około 1,75 mln sztuk papierosów bez polskich znaków...",
+      "date_published": "2026-02-02T16:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-zglosila-zastrzezenie-do-Planu-Restrukturyzacyjnego-9078028.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-zglosila-zastrzezenie-do-Planu-Restrukturyzacyjnego-9078028.html",
+      "title": "Rada Wierzycieli PKP Cargo zgłosiła zastrzeżenie do Planu Restrukturyzacyjnego",
+      "content_html": "Rady Wierzycieli PKP Cargo poinformowała, że na obecnym etapie odstępuje w swojej opinii od wyrażenia jednoznacznie pozytywnego bądź negatywnego stanowiska o Planie Restrukturyzacyjnym i zgłosiła zastrzeżenie do jego treści oraz zwróciła się...",
+      "date_published": "2026-02-02T16:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Witkoff-leci-do-Abu-Zabi-Ukraina-i-Rosja-wracaja-do-trojstronnych-rozmow-9078025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Witkoff-leci-do-Abu-Zabi-Ukraina-i-Rosja-wracaja-do-trojstronnych-rozmow-9078025.html",
+      "title": "Witkoff leci do Abu Zabi. Ukraina i Rosja wracają do trójstronnych rozmów.",
+      "content_html": "Amerykański wysłannik ds. misji pokojowych Steve Witkoff przyleci we wtorek do Izraela i spotka się z premierem Benjaminem Netanjahu - poinformowała agencja Reutera. W środę i czwartek Witkoff ma być w Abu Zabi, gdzie odbędzie się kolejna runda...",
+      "date_published": "2026-02-02T16:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wegry-chca-rosyjskiej-energii-Budapeszt-wnioski-skarge-przeciwko-unijnemu-zakazowi-9078001.html",
       "url": "https://www.bankier.pl/wiadomosc/Wegry-chca-rosyjskiej-energii-Budapeszt-wnioski-skarge-przeciwko-unijnemu-zakazowi-9078001.html",
       "title": "Węgry chcą rosyjskiej energii. Budapeszt wnosi skargę przeciwko unijnemu zakazowi",
@@ -660,48 +702,6 @@
       "title": "Totalny paraliż w Czechach? Szef MSZ: Będziemy ignorować prezydenta",
       "content_html": "Szef czeskiej dyplomacji Petr Macinka zapowiedział w niedzielę, że on i MSZ będą ignorować kancelarię prezydenta Petra Pavla. Spór dotyczy odmowy mianowania przez Pavla kandydata partii Zmotoryzowani, której liderem jest Macinka, Filipa Turka...",
       "date_published": "2026-02-01T19:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-zamkniete-na-klodke-Kolejny-shutdown-za-kadencji-Trumpa-jeszcze-potrwa-9077591.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-zamkniete-na-klodke-Kolejny-shutdown-za-kadencji-Trumpa-jeszcze-potrwa-9077591.html",
-      "title": "USA zamknięte na kłódkę. Kolejny shutdown za kadencji Trumpa jeszcze potrwa",
-      "content_html": "Lider Demokratów w Izbie Reprezentantów Hakeem Jeffries zapowiedział, że nie zgodzi się na przyspieszone głosowanie nad pakietem budżetowym, co prawdopodobnie oznacza, że rozpoczęty w piątek shutdown potrwa co najmniej do wtorku. Przewodniczący...",
-      "date_published": "2026-02-01T18:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Znany-polski-tenisista-w-mailach-Epsteina-Dokumenty-potwierdzaja-spotkanie-9077464.html",
-      "url": "https://www.bankier.pl/wiadomosc/Znany-polski-tenisista-w-mailach-Epsteina-Dokumenty-potwierdzaja-spotkanie-9077464.html",
-      "title": "Znany polski tenisista w mailach Epsteina. Fibak: Ledwo się znaliśmy",
-      "content_html": "W opublikowanych przez resort sprawiedliwości USA dokumentach związanych z Jeffreyem Epsteinem są e-maile dotyczące jego spotkania z byłym polskim tenisistą Wojciechem Fibakiem w Paryżu w 2013 roku. Fibak jest wymieniony jako kolekcjoner sztuki...",
-      "date_published": "2026-02-01T18:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zmiana-warty-u-koalicjanta-Pelczynska-Nalecz-Spotkam-sie-z-liderami-9077588.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmiana-warty-u-koalicjanta-Pelczynska-Nalecz-Spotkam-sie-z-liderami-9077588.html",
-      "title": "Zmiana warty u koalicjanta. Pełczyńska-Nałęcz: Spotkam się z liderami",
-      "content_html": "Minister funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz, która została w sobotę wybrana na szefową Polski 2050, poinformowała, że spotka się z liderami ugrupowań tworzących koalicję rządzącą, by porozmawiać o dalszej współpracy...",
-      "date_published": "2026-02-01T18:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Europa-buduje-wlasnego-Starlinka-IRIS2-wchodzi-w-decydujaca-faze-9074906.html",
-      "url": "https://www.bankier.pl/wiadomosc/Europa-buduje-wlasnego-Starlinka-IRIS2-wchodzi-w-decydujaca-faze-9074906.html",
-      "title": "Europa buduje własnego Starlinka. IRIS2 wchodzi w decydującą fazę",
-      "content_html": "Unijny system satelitarny IRIS2, obejmujący docelowo 290 satelitów, powinien rozpocząć świadczenie pierwszych usług w 2029 roku - poinformował w Brukseli unijny komisarz ds. obrony i przestrzeni kosmicznej Andrius Kubilius.",
-      "date_published": "2026-02-01T18:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Austria-przyznala-obywatelstwo-ponad-40-000-potomkow-ofiar-Holokaustu-9074934.html",
-      "url": "https://www.bankier.pl/wiadomosc/Austria-przyznala-obywatelstwo-ponad-40-000-potomkow-ofiar-Holokaustu-9074934.html",
-      "title": "Austria przyznała obywatelstwo ponad 40 000 potomków ofiar Holokaustu",
-      "content_html": "Ponad 40 tys. osób, głównie z Izraela, otrzymało obywatelstwo austriackie dzięki zmianom prawnym z września 2020 r. pozwalającym ubiegać się o nie potomkom austriackich ofiar Holokaustu – podała sekretarz generalna Austriackiego Funduszu Narodowego...",
-      "date_published": "2026-02-01T18:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-dachu-Bazyliki-Swietego-Piotra-powstanie-bistro-Prace-prowadzone-w-tajemnicy-9075885.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-dachu-Bazyliki-Swietego-Piotra-powstanie-bistro-Prace-prowadzone-w-tajemnicy-9075885.html",
-      "title": "Na dachu Bazyliki Świętego Piotra powstanie bistro. \"Prace prowadzone w tajemnicy\"",
-      "content_html": "Na tarasie na dachu Bazyliki Świętego Piotra powstanie bistro - podał w czwartek rzymski dziennik „Il Messaggero”. Według gazety prowadzone tam prace są zaawansowane i być może zakończą się w tym roku.",
-      "date_published": "2026-02-01T18:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
