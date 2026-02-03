@@ -4,6 +4,104 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pijany-sedzia-wjechal-w-zywoplot-Sledztwo-przejmuje-Prokuratura-Krajowa-9078503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pijany-sedzia-wjechal-w-zywoplot-Sledztwo-przejmuje-Prokuratura-Krajowa-9078503.html",
+      "title": "Pijany sędzia wjechał w żywopłot. Śledztwo przejmuje Prokuratura Krajowa",
+      "content_html": "Sędzia Sądu Apelacyjnego w Katowicach, który w poniedziałek w Tychach spowodował kolizję drogową po pijanemu, został zawieszony w wykonywaniu czynności służbowych. Śledztwo w tej sprawie będzie prowadziła Prokuratura Krajowa.",
+      "date_published": "2026-02-03T18:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-9078502.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-9078502.html",
+      "title": "Awaria w Alior Banku. Klienci bez dostępu do bankowości",
+      "content_html": "Od godzin popołudniowych trwa awaria w Alior Banku. Nie działa strona internetowa banku, a klienci zgłaszają, że nie mogą zalogować się do bankowości internetowej ani aplikacji mobilnej. Bank pracuje nad rozwiązaniem problemu, nie podaje jednak...",
+      "date_published": "2026-02-03T18:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestycje-tylko-z-Funduszu-Kolejowego-Rzad-chce-przebudowac-model-finansowania-PKP-PLK-9078510.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestycje-tylko-z-Funduszu-Kolejowego-Rzad-chce-przebudowac-model-finansowania-PKP-PLK-9078510.html",
+      "title": "Inwestycje tylko z Funduszu Kolejowego. Rząd chce przebudować model finansowania PKP PLK",
+      "content_html": "Wszystkie krajowe realizacje kolejowe finansowane będą ze środków Funduszu Kolejowego, zmiana obejmie stawki akcyzy od paliw silnikowych oraz opłaty paliwowej - przewidują założenia projektu nowelizacji ustawy o Funduszu Kolejowym opublikowane...",
+      "date_published": "2026-02-03T18:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Energetyczny-rekord-Polski-Mamy-nadwyzki-i-wysylamy-prad-na-Wschod-9078489.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energetyczny-rekord-Polski-Mamy-nadwyzki-i-wysylamy-prad-na-Wschod-9078489.html",
+      "title": "Energetyczny rekord Polski. Mamy nadwyżki i wysyłamy prąd na Wschód",
+      "content_html": "We wtorek 3 lutego o godz. 9.30 operator systemu przesyłowego energii elektrycznej PSE zanotował najwyższe w historii zapotrzebowanie na moc: 27,7 GW netto. Tuż przed południem zanotowano natomiast rekordową generację źródeł - 29,8 GW netto...",
+      "date_published": "2026-02-03T18:12:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zielona-energia-to-juz-57-proc-mocy-Grupy-Energa-Spolka-podala-nowe-dane-9078482.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zielona-energia-to-juz-57-proc-mocy-Grupy-Energa-Spolka-podala-nowe-dane-9078482.html",
+      "title": "Zielona energia to już 57 proc. mocy Grupy Energa. Spółka podała nowe dane",
+      "content_html": "Moc osiągalna źródeł odnawialnych Grupy Energa przekroczyła 1 GW – poinformowało we wtorek biuro prasowe spółki. Podkreślono jednocześnie, że na finalizację czekają kolejne projekty OZE o łącznej mocy ok. 300 MW.",
+      "date_published": "2026-02-03T18:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Obroty-akcjami-na-GPW-w-styczniu-wzrosly-o-99-2-proc-rdr-do-52-9-mld-zl-9078656.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obroty-akcjami-na-GPW-w-styczniu-wzrosly-o-99-2-proc-rdr-do-52-9-mld-zl-9078656.html",
+      "title": "Obroty akcjami na GPW w styczniu wzrosły o 99,2 proc. rdr do 52,9 mld zł",
+      "content_html": "Łączna wartość obrotu akcjami na Głównym Rynku GPW w styczniu 2026 r. wyniosła 52,9 mld zł, co oznacza wzrost rdr o 99,2 proc. - poinformowała giełda w komunikacie. Wartość obrotu akcjami w ramach arkusza zleceń wzrosła o 94 proc. rdr do...",
+      "date_published": "2026-02-03T18:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-rozpoczynaja-ABB-na-akcje-spolki-9078650.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-rozpoczynaja-ABB-na-akcje-spolki-9078650.html",
+      "title": "Akcjonariusze Mex Polska rozpoczynają ABB na akcje spółki",
+      "content_html": "Akcjonariusze Mex Polska, MEX Fundacja Rodzinna i OSTOJA Fundacja Rodzinna, rozpoczynają proces sprzedaży posiadanych akcji spółki w ramach budowy księgi popytu - podała spółka w komunikacie.",
+      "date_published": "2026-02-03T17:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowe-zasady-kooperacji-nadzoru-finansowego-KNF-i-GIIF-lacza-sily-9078453.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-zasady-kooperacji-nadzoru-finansowego-KNF-i-GIIF-lacza-sily-9078453.html",
+      "title": "Nowe zasady kooperacji nadzoru finansowego. KNF i GIIF łączą siły",
+      "content_html": "Przewodniczący Komisji Nadzoru Finansowego Jacek Jastrzębski i Generalny Inspektor Informacji Finansowej Jarosław Żółtowski zawarli porozumienie o efektywnej współpracy obu tych organów - poinformowało we wtorek Ministerstwo Finansów.",
+      "date_published": "2026-02-03T17:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-jedzie-do-Kijowa-by-dac-wytchnienie-Ukraincom-Polska-zorganizuje-szczyt-9078479.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-jedzie-do-Kijowa-by-dac-wytchnienie-Ukraincom-Polska-zorganizuje-szczyt-9078479.html",
+      "title": "Tusk jedzie do Kijowa, by „dać wytchnienie” Ukraińcom. Polska zorganizuje szczyt",
+      "content_html": "Premier Donald Tusk poinformował we wtorek, że w tym tygodniu wybiera się do Kijowa, a podczas wizyty towarzyszyć mu będzie minister finansów i gospodarki Andrzej Domański, który przygotowuje międzynarodową konferencję poświęconą odbudowie...",
+      "date_published": "2026-02-03T17:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Z-68-zl-do-113-zl-za-godzine-Podwyzki-dla-lekarzy-weterynarii-za-badanie-zwierzat-9078469.html",
+      "url": "https://www.bankier.pl/wiadomosc/Z-68-zl-do-113-zl-za-godzine-Podwyzki-dla-lekarzy-weterynarii-za-badanie-zwierzat-9078469.html",
+      "title": "Z 68 zł do 113 zł za godzinę. Podwyżki dla lekarzy weterynarii za badanie zwierząt",
+      "content_html": "Podwyższenie stawki godzinowej wynagrodzenia dla lekarzy weterynarii za badania zwierząt gospodarskich z 68 zł do 113 zł za godzinę pracy - przewiduje projekt rozporządzenia ministra rolnictwa, który został opublikowany we wtorek na stronach Rządowego...",
+      "date_published": "2026-02-03T17:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedawaj-Ameryke-kupuj-wszystko-inne-WIG-z-nowym-rekordem-i-najwyzszymi-obrotami-w-tym-roku-9078630.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedawaj-Ameryke-kupuj-wszystko-inne-WIG-z-nowym-rekordem-i-najwyzszymi-obrotami-w-tym-roku-9078630.html",
+      "title": "„Sprzedawaj Amerykę, kupuj wszystko inne”. WIG z nowym rekordem i najwyższymi obrotami w tym roku",
+      "content_html": "Początek lutego na warszawskim parkiecie na razie przebiega pod dyktandem kupujących. Podczas gdy WIG i mWIG40 świętowały historyczne rekordy, blue chipy z WIG20 kontynuowały odbicie od kilkudniowego dołka po niskim poniedziałkowym otwarciu. Kamil...",
+      "date_published": "2026-02-03T17:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-kret-w-polskim-MON-zatrzymany-Mial-pracowac-w-departamencie-strategii-i-planowania-obronnego-9078350.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-kret-w-polskim-MON-zatrzymany-Mial-pracowac-w-departamencie-strategii-i-planowania-obronnego-9078350.html",
+      "title": "Rosyjski kret w polskim MON zatrzymany. SKW zdobyła na niego potężne, obciążające informacje",
+      "content_html": "We wtorek rano zatrzymany został wieloletni pracownik resortu obrony podejrzewany o współpracę z obcym wywiadem - poinformowało MON. Prokuratura Okręgowa w Warszawie, której wydział ds. wojskowych prowadzi czynności, podała, że więcej informacji...",
+      "date_published": "2026-02-03T17:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polskie-watki-afery-Epsteina-Tusk-Powstanie-zespol-analityczny-9078401.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polskie-watki-afery-Epsteina-Tusk-Powstanie-zespol-analityczny-9078401.html",
+      "title": "Polskie wątki afery Epsteina? Tusk: Powstanie zespół analityczny",
+      "content_html": "Premier Donald Tusk poinformował we wtorek, że powstanie zespół analityczny w związku z tzw. aferą Epsteina w USA. Zbadane zostaną polskie wątki, w tym ewentualne przypadki wykorzystania dzieci, a także podnoszona przez ekspertów kwestia zaangażowania...",
+      "date_published": "2026-02-03T17:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Batalion-Tridonow-dla-Kijowa-Nordyckie-wsparcie-o-wartosci-245-mln-euro-9078466.html",
+      "url": "https://www.bankier.pl/wiadomosc/Batalion-Tridonow-dla-Kijowa-Nordyckie-wsparcie-o-wartosci-245-mln-euro-9078466.html",
+      "title": "Batalion Tridonów dla Kijowa. Nordyckie wsparcie o wartości 245 mln euro",
+      "content_html": "Szwecja i Dania przekażą Ukrainie armaty przeciwlotnicze Tridon Mk2, skuteczne w zestrzeliwaniu pocisków manewrujących oraz dronów – poinformowali we wtorek ministrowie obrony Szwecji i Danii, Pal Jonson i Troels Lund Poulsen. Kraje przekażą...",
+      "date_published": "2026-02-03T17:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-z-opoznieniami-na-PKP-Zarzadca-torow-wprowadza-nowy-cennik-kar-9078462.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-z-opoznieniami-na-PKP-Zarzadca-torow-wprowadza-nowy-cennik-kar-9078462.html",
       "title": "Koniec z opóźnieniami na PKP? Zarządca torów wprowadza nowy cennik kar",
@@ -16,20 +114,6 @@
       "title": "Develia planuje w '26 sprzedaż 3.600-3.800 mieszkań, czyli o ok. 10 proc. więcej niż rok wcześniej",
       "content_html": "Develia planuje w 2026 r. sprzedaż 3.600-3.800 mieszkań, czyli o ok. 10 proc. więcej niż w poprzednim roku - podała spółka w komunikacie prasowym. Develia będzie dążyć do przekazania 3.750-3.950 lokali, co oznacza wzrost o ok. 30 proc. względem...",
       "date_published": "2026-02-03T16:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Systemy-i-aplikacje-Alior-Bank-sa-teraz-niedostepne-9078575.html",
-      "url": "https://www.bankier.pl/wiadomosc/Systemy-i-aplikacje-Alior-Bank-sa-teraz-niedostepne-9078575.html",
-      "title": "Systemy i aplikacje Alior Bank są teraz niedostępne",
-      "content_html": "Systemy i aplikacje banku: Alior Mobile, Alior Online, Alior Business, Alior Business Mobile i BusinessPro są obecnie niedostępne - poinformował Alior Bank we wtorek po południu. Występują trudności w dostarczaniu kodów SMS do autoryzacji transakcji...",
-      "date_published": "2026-02-03T16:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-9078502.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-9078502.html",
-      "title": "Awaria w Alior Banku. Klienci bez dostępu do bankowości",
-      "content_html": "Systemy i aplikacje banku: Alior Mobile, Alior Online, Alior Business, Alior Business Mobile i BusinessPro są obecnie niedostępne - poinformował Alior Bank we wtorek. Występują trudności w dostarczaniu kodów SMS do autoryzacji transakcji.",
-      "date_published": "2026-02-03T16:30:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/RN-Enter-Air-wybrala-Marcina-Kubraka-na-prezesa-zarzadu-9078566.html",
@@ -60,34 +144,6 @@
       "date_published": "2026-02-03T15:37:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polskie-watki-afery-Epsteina-Tusk-Powstanie-zespol-analityczny-9078401.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polskie-watki-afery-Epsteina-Tusk-Powstanie-zespol-analityczny-9078401.html",
-      "title": "Polskie wątki afery Epsteina? Tusk: Powstanie zespół analityczny",
-      "content_html": "Premier Donald Tusk poinformował we wtorek, że powstanie zespół analityczny w związku z tzw. aferą Epsteina w USA. Zbadane zostaną polskie wątki, w tym ewentualne przypadki wykorzystania dzieci, a także podnoszona przez ekspertów kwestia zaangażowania...",
-      "date_published": "2026-02-03T15:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-wystawil-na-sprzedaz-biurowiec-w-centrum-Warszawy-9078475.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-wystawil-na-sprzedaz-biurowiec-w-centrum-Warszawy-9078475.html",
-      "title": "Alior Bank wystawił na sprzedaż biurowiec w centrum Warszawy",
-      "content_html": "Alior Bank rozpoczął procedurę sprzedaży nieruchomości biurowej w Warszawie przy ul. Towarowej, w bezpośrednim sąsiedztwie Ronda Daszyńskiego - poinformował bank w komunikacie prasowym.",
-      "date_published": "2026-02-03T15:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Newag-dostarczy-4-dodatkowe-elektryczne-zespoly-trakcyjne-za-ok-156-8-mln-zl-netto-9078494.html",
-      "url": "https://www.bankier.pl/wiadomosc/Newag-dostarczy-4-dodatkowe-elektryczne-zespoly-trakcyjne-za-ok-156-8-mln-zl-netto-9078494.html",
-      "title": "Newag dostarczy 4 dodatkowe elektryczne zespoły trakcyjne za ok. 156,8 mln zł netto",
-      "content_html": "Newag, w związku ze skorzystaniem przez województwo śląskie z prawa opcji, dostarczy cztery dodatkowe elektryczne zespoły trakcyjne wraz ze świadczeniem usług serwisowych o wartości ok. 156,8 mln zł netto - poinformował Newag w komunikacie.",
-      "date_published": "2026-02-03T14:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-z-rekordowym-zuzyciem-gazu-Eksport-na-Ukraine-wzrosl-13-krotnie-9078445.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-z-rekordowym-zuzyciem-gazu-Eksport-na-Ukraine-wzrosl-13-krotnie-9078445.html",
-      "title": "Polska z rekordowym zużyciem gazu. Eksport na Ukrainę wzrósł 13-krotnie",
-      "content_html": "W poniedziałek 2 lutego przez polski system przesyłowy przepłynął rekordowy wolumen gazu - niemal 115 mln m sześc., a krajowe zapotrzebowanie na gaz wysokometanowy wyniosło rekordowe 102,8 mln m sześc. - poinformował we wtorek prezes Gaz -Systemu...",
-      "date_published": "2026-02-03T14:23:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Morales-zniknal-Ikona-socjalizmu-ukrywa-sie-po-aresztowaniu-Maduro-9078423.html",
       "url": "https://www.bankier.pl/wiadomosc/Morales-zniknal-Ikona-socjalizmu-ukrywa-sie-po-aresztowaniu-Maduro-9078423.html",
       "title": "Morales zniknął? Ikona socjalizmu ukrywa się po aresztowaniu Maduro",
@@ -100,13 +156,6 @@
       "title": "Zmasowany atak na ukraińską energetykę. Zełenski: Rosja wyśmiała dyplomację",
       "content_html": "Minionej nocy rosyjska armia przeprowadziła największy atak na sektor energetyczny Ukrainy od początku roku - przekazała we wtorek ukraińska spółka energetyczna DTEK. Każde rosyjskie uderzenie potwierdza brak zmian w podejściu Moskwy, która...",
       "date_published": "2026-02-03T14:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-kret-w-polskim-MON-zatrzymany-Mial-pracowac-w-departamencie-strategii-i-planowania-obronnego-9078350.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-kret-w-polskim-MON-zatrzymany-Mial-pracowac-w-departamencie-strategii-i-planowania-obronnego-9078350.html",
-      "title": "Rosyjski kret w polskim MON zatrzymany. Miał pracować w departamencie strategii i planowania obronnego",
-      "content_html": "We wtorek rano zatrzymany został wieloletni pracownik resortu obrony podejrzewany o współpracę z obcym wywiadem - poinformowało MON. Prokuratura Okręgowa w Warszawie, której wydział ds. wojskowych prowadzi czynności, podała, że więcej informacji...",
-      "date_published": "2026-02-03T14:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zloto-czy-bitcoin-Salwador-kupuje-jedno-i-drugie-9078432.html",
@@ -639,69 +688,6 @@
       "title": "Kurek zakręcony. UE od wtorku żegna się z rosyjskim gazem",
       "content_html": "We wtorek w UE zacznie obowiązywać rozporządzenie dotyczące zakazu sprowadzania gazu z Rosji. Zakaz będzie wprowadzany stopniowo, aż do całkowitego wygaszenia importu w 2027 r. Komisja Europejska zobowiązała się też, że UE uniezależni się...",
       "date_published": "2026-02-02T18:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Waszyngton-i-Teheran-wznawiaja-rozmowy-Stawka-wielka-wojna-na-Bliskim-Wschodzie-9078071.html",
-      "url": "https://www.bankier.pl/wiadomosc/Waszyngton-i-Teheran-wznawiaja-rozmowy-Stawka-wielka-wojna-na-Bliskim-Wschodzie-9078071.html",
-      "title": "Waszyngton i Teheran wznawiają rozmowy. Stawką wielka wojna na Bliskim Wschodzie",
-      "content_html": "Specjalny wysłannik prezydenta USA Donalda Trumpa Steve Witkoff ma w piątek spotkać się w Stambule z szefem MSZ Iranu Abbasem Aragczim na rozmowy o potencjalnym porozumieniu nuklearnym - donosi w poniedziałek portal Axios. Byłoby to pierwsze spotkanie...",
-      "date_published": "2026-02-02T17:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Znow-gornicy-w-roli-glownej-Gieldowy-zjazd-na-dol-i-powrot-na-powierzchnie-9078066.html",
-      "url": "https://www.bankier.pl/wiadomosc/Znow-gornicy-w-roli-glownej-Gieldowy-zjazd-na-dol-i-powrot-na-powierzchnie-9078066.html",
-      "title": "Znów „górnicy” w roli głównej. Giełdowy zjazd na dół i powrót na powierzchnię",
-      "content_html": "Poniedziałkowa sesja na warszawskim parkiecie upłynęła pod znakiem niskiego otwarcia i odrabiania strat. Głównym aktorem rozegrania był kurs KGHM, który reagował na krach cen srebra. Szeroki rynek próbował stawiać opór przecenie, znajdując...",
-      "date_published": "2026-02-02T17:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sygnalista-uderza-w-szefowa-wywiadu-USA-Tak-tajne-ze-nie-widzial-tego-Kongres-9078061.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sygnalista-uderza-w-szefowa-wywiadu-USA-Tak-tajne-ze-nie-widzial-tego-Kongres-9078061.html",
-      "title": "Sygnalista uderza w szefową wywiadu USA. \"Tak tajne, że nie widział tego Kongres\"",
-      "content_html": "Pracownik wywiadu USA złożył w ub.r. zawiadomienie przeciwko dyrektor Wywiadu Narodowego Tulsi Gabbard; skarga jest opatrzona tak wysoką klauzulą tajności, że od miesięcy nie została przekazana Kongresowi - informuje w poniedziałek „Wall Street...",
-      "date_published": "2026-02-02T17:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwieksza-pulapka-w-historii-Epstein-mial-pracowac-dla-Moskwy-9078045.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwieksza-pulapka-w-historii-Epstein-mial-pracowac-dla-Moskwy-9078045.html",
-      "title": "Największa pułapka w historii? Epstein miał pracować dla... Moskwy",
-      "content_html": "Według brytyjskich dzienników „Daily Mail” i „Daily Telegraph” skazany pedofil i finansista Jeffrey Epstein mógł zbierać dla Rosji materiały kompromitujące zachodnich polityków i biznesmenów.",
-      "date_published": "2026-02-02T17:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trzy-fregaty-i-gigantyczny-okret-ratowniczy-Ofensywa-budowlana-w-Gdyni-9078036.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trzy-fregaty-i-gigantyczny-okret-ratowniczy-Ofensywa-budowlana-w-Gdyni-9078036.html",
-      "title": "Trzy fregaty i gigantyczny okręt ratowniczy. Ofensywa budowlana w Gdyni",
-      "content_html": "Rok 2026 będzie dla PGZ Stoczni Wojennej jeszcze bardziej intensywny niż 2025 - podkreślił w rozmowie z PAP prezes spółki Marcin Ryngwelski. Wśród najważniejszych wydarzeń wymienił m.in. wodowanie okrętu ratowniczego Ratownik i rozpoczęcie...",
-      "date_published": "2026-02-02T16:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Papierosy-atakuja-z-powietrza-SG-W-styczniu-1-75-mln-sztuk-przemycono-balonami-9078035.html",
-      "url": "https://www.bankier.pl/wiadomosc/Papierosy-atakuja-z-powietrza-SG-W-styczniu-1-75-mln-sztuk-przemycono-balonami-9078035.html",
-      "title": "Papierosy atakują z powietrza. SG: W styczniu 1,75 mln sztuk przemycono balonami",
-      "content_html": "W wyniku prowadzonych w styczniu tego roku działań związanych z ujawnieniem papierosów przemyconych za pomocą balonów meteorologicznych z Białorusi do Polski funkcjonariusze SG zabezpieczyli około 1,75 mln sztuk papierosów bez polskich znaków...",
-      "date_published": "2026-02-02T16:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-zglosila-zastrzezenie-do-Planu-Restrukturyzacyjnego-9078028.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-zglosila-zastrzezenie-do-Planu-Restrukturyzacyjnego-9078028.html",
-      "title": "Rada Wierzycieli PKP Cargo zgłosiła zastrzeżenie do Planu Restrukturyzacyjnego",
-      "content_html": "Rady Wierzycieli PKP Cargo poinformowała, że na obecnym etapie odstępuje w swojej opinii od wyrażenia jednoznacznie pozytywnego bądź negatywnego stanowiska o Planie Restrukturyzacyjnym i zgłosiła zastrzeżenie do jego treści oraz zwróciła się...",
-      "date_published": "2026-02-02T16:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Witkoff-leci-do-Abu-Zabi-Ukraina-i-Rosja-wracaja-do-trojstronnych-rozmow-9078025.html",
-      "url": "https://www.bankier.pl/wiadomosc/Witkoff-leci-do-Abu-Zabi-Ukraina-i-Rosja-wracaja-do-trojstronnych-rozmow-9078025.html",
-      "title": "Witkoff leci do Abu Zabi. Ukraina i Rosja wracają do trójstronnych rozmów.",
-      "content_html": "Amerykański wysłannik ds. misji pokojowych Steve Witkoff przyleci we wtorek do Izraela i spotka się z premierem Benjaminem Netanjahu - poinformowała agencja Reutera. W środę i czwartek Witkoff ma być w Abu Zabi, gdzie odbędzie się kolejna runda...",
-      "date_published": "2026-02-02T16:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wegry-chca-rosyjskiej-energii-Budapeszt-wnioski-skarge-przeciwko-unijnemu-zakazowi-9078001.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wegry-chca-rosyjskiej-energii-Budapeszt-wnioski-skarge-przeciwko-unijnemu-zakazowi-9078001.html",
-      "title": "Węgry chcą rosyjskiej energii. Budapeszt wnosi skargę przeciwko unijnemu zakazowi",
-      "content_html": "Węgry wniosły w poniedziałek skargę do Trybunału Sprawiedliwości Unii Europejskiej (TSUE) przeciwko unijnemu planowi REPowerEU, którego celem jest uniezależnienie Wspólnoty od rosyjskich paliw kopalnych - poinformował na platformie X szef węgierskiej...",
-      "date_published": "2026-02-02T16:03:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
