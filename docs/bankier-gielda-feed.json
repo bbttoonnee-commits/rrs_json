@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-JSW-spada-o-10-8-proc-indeks-mWIG40-zwyzkuje-o-1-proc-9078519.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-JSW-spada-o-10-8-proc-indeks-mWIG40-zwyzkuje-o-1-proc-9078519.html",
+      "title": "Kurs JSW spada o 10,8 proc. Indeks mWIG40 zwyżkuje o 1 proc. Kurs akcji JSW spada o 10,8 proc. do 29 zł, przy wzroście indeksu mWIG40 o 1 proc.",
+      "content_html": "",
+      "date_published": "2026-02-03T15:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-wystawil-na-sprzedaz-biurowiec-w-centrum-Warszawy-9078475.html",
+      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-wystawil-na-sprzedaz-biurowiec-w-centrum-Warszawy-9078475.html",
+      "title": "Alior Bank wystawił na sprzedaż biurowiec w centrum Warszawy Alior Bank rozpoczął procedurę sprzedaży nieruchomości biurowej w Warszawie przy ul. Towarowej, w bezpośrednim sąsiedztwie Ronda Daszyńskiego - poinformował bank w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-02-03T15:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Newag-dostarczy-4-dodatkowe-elektryczne-zespoly-trakcyjne-za-ok-156-8-mln-zl-netto-9078494.html",
       "url": "https://www.bankier.pl/wiadomosc/Newag-dostarczy-4-dodatkowe-elektryczne-zespoly-trakcyjne-za-ok-156-8-mln-zl-netto-9078494.html",
       "title": "Newag dostarczy 4 dodatkowe elektryczne zespoły trakcyjne za ok. 156,8 mln zł netto Newag, w związku ze skorzystaniem przez województwo śląskie z prawa opcji, dostarczy cztery dodatkowe elektryczne zespoły trakcyjne wraz ze świadczeniem usług serwisowych o wartości ok. 156,8 mln zł netto - poinformował Newag w komunikacie.",
@@ -11,16 +25,9 @@
       "date_published": "2026-02-03T14:48:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-wystawil-na-sprzedaz-biurowiec-w-centrum-Warszawy-9078475.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-wystawil-na-sprzedaz-biurowiec-w-centrum-Warszawy-9078475.html",
-      "title": "Alior Bank wystawił na sprzedaż biurowiec w centrum Warszawy Alior Bank rozpoczął procedurę sprzedaży nieruchomości biurowej w Warszawie przy ul. Towarowej, w bezpośrednim sąsiedztwie Ronda Daszyńskiego - poinformował bank w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-03T14:34:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zloto-czy-bitcoin-Salwador-kupuje-jedno-i-drugie-9078432.html",
       "url": "https://www.bankier.pl/wiadomosc/Zloto-czy-bitcoin-Salwador-kupuje-jedno-i-drugie-9078432.html",
-      "title": "Złoto czy bitcoin? Salwador kupuje jedno i drugie Salwador, który jako pierwszy uznał bitcoina za pełnoprawny środek płatniczy, nie zapomina o fundamentach. Jak poinformował Bank Centralny Salwadoru zwiększył on swoje rezerwy złota o grubo ponad ćwierć tony budując - jak to nazwał - „rozsądną równowagę” w strukturze rezerw walutowych. Jednocześnie państwo wciąż kupuje jednego bitcoina dziennie, zgodnie ze swoją strategią.",
+      "title": "Bitcoin czy złoto na dołku? To państwo kupuje jedno i drugie Salwador, który jako pierwszy uznał bitcoina za pełnoprawny środek płatniczy, nie zapomina o fundamentach. Jak poinformował Bank Centralny Salwadoru zwiększył on swoje rezerwy złota o grubo ponad ćwierć tony budując - jak to nazwał - „rozsądną równowagę” w strukturze rezerw walutowych. Jednocześnie państwo wciąż kupuje jednego bitcoina dziennie, zgodnie ze swoją strategią.",
       "content_html": "",
       "date_published": "2026-02-03T14:07:00+01:00"
     },
