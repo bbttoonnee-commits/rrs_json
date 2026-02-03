@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Bigtechy-ponownie-w-nielasce-inwestorow-9078752.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Bigtechy-ponownie-w-nielasce-inwestorow-9078752.html",
+      "title": "Spadki na Wall Street. Bigtechy ponownie w niełasce inwestorów",
+      "content_html": "Przeceniano zwłaszcza tak modne w ostatnich latach wielkie spółki technologiczne. Złoto zaliczyło najlepszy dzień od 2008 roku, a walory PayPala zanurkowały o 20%.",
+      "date_published": "2026-02-03T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pentagon-z-budzetem-DHS-na-krotkiej-smyczy-W-USA-koniec-shutdownu-9078711.html",
       "url": "https://www.bankier.pl/wiadomosc/Pentagon-z-budzetem-DHS-na-krotkiej-smyczy-W-USA-koniec-shutdownu-9078711.html",
       "title": "Pentagon z budżetem, DHS na krótkiej smyczy. W USA koniec shutdownu",
@@ -695,13 +702,6 @@
       "title": "Wielka wymiana komputerów w urzędach? \"15-letni sprzęt to cel dla hakerów\"",
       "content_html": "Polska cyberarmia odpiera 99 proc. przeprowadzanych ataków hakerskich - powiedział w poniedziałek minister cyfryzacji Krzysztof Gawkowski",
       "date_published": "2026-02-03T07:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekawica-rzucona-Microsoftowi-Mackiewicz-o-planach-uniezaleznienia-IT-9078197.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekawica-rzucona-Microsoftowi-Mackiewicz-o-planach-uniezaleznienia-IT-9078197.html",
-      "title": "Rękawica rzucona Microsoftowi? Maćkiewicz o planach uniezależnienia IT",
-      "content_html": "Polska administracja wydaje krocie na oprogramowanie zagranicznego giganta. Szef Centralnego Ośrodka Informatyki (COI) chce to zmienić - czytamy we wtorkowym wydaniu „Pulsu Biznesu”.",
-      "date_published": "2026-02-03T07:29:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

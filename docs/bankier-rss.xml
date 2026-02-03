@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 03 Feb 2026 21:23:00 +0100</lastBuildDate>
-    <item>
-      <title>Rękawica rzucona Microsoftowi? Maćkiewicz o planach uniezależnienia IT</title>
-      <link>https://www.bankier.pl/wiadomosc/Rekawica-rzucona-Microsoftowi-Mackiewicz-o-planach-uniezaleznienia-IT-9078197.html</link>
-      <description>Polska administracja wydaje krocie na oprogramowanie zagranicznego giganta. Szef Centralnego Ośrodka Informatyki (COI) chce to zmienić - czytamy we wtorkowym wydaniu „Pulsu Biznesu”.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rekawica-rzucona-Microsoftowi-Mackiewicz-o-planach-uniezaleznienia-IT-9078197.html</guid>
-      <pubDate>Tue, 03 Feb 2026 07:29:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Feb 2026 22:05:00 +0100</lastBuildDate>
     <item>
       <title>Wielka wymiana komputerów w urzędach? "15-letni sprzęt to cel dla hakerów"</title>
       <link>https://www.bankier.pl/wiadomosc/Wielka-wymiana-komputerow-w-urzedach-15-letni-sprzet-to-cel-dla-hakerow-9078175.html</link>
@@ -708,6 +701,13 @@
       <description>Izba Reprezentantów zagłosowała we wtorek za przyjęciem pakietu ustaw budżetowych wartych 1,2 bln dolarów, zapewniając zakończenie trwającego od piątku częściowego paraliżu instytucji państwa. Projekt trafi na biurko prezydenta, który zapowiedział...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pentagon-z-budzetem-DHS-na-krotkiej-smyczy-W-USA-koniec-shutdownu-9078711.html</guid>
       <pubDate>Tue, 03 Feb 2026 21:23:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Spadki na Wall Street. Bigtechy ponownie w niełasce inwestorów</title>
+      <link>https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Bigtechy-ponownie-w-nielasce-inwestorow-9078752.html</link>
+      <description>Przeceniano zwłaszcza tak modne w ostatnich latach wielkie spółki technologiczne. Złoto zaliczyło najlepszy dzień od 2008 roku, a walory PayPala zanurkowały o 20%.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Bigtechy-ponownie-w-nielasce-inwestorow-9078752.html</guid>
+      <pubDate>Tue, 03 Feb 2026 22:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
