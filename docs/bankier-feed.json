@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-broni-Putina-Dotrzymal-slowa-To-bylo-od-niedzieli-do-niedzieli-9078770.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-broni-Putina-Dotrzymal-slowa-To-bylo-od-niedzieli-do-niedzieli-9078770.html",
+      "title": "Trump broni Putina: Dotrzymał słowa. To było od niedzieli do niedzieli",
+      "content_html": "Prezydent USA Donald Trump powiedział we wtorek, że przywódca Rosji Władimir Putin dotrzymał słowa w sprawie powstrzymania się przed atakowaniem ukraińskich miast przez tydzień. Zaznaczył, że chodziło o okres „od niedzieli do niedzieli”...",
+      "date_published": "2026-02-04T00:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Estonski-desant-na-Baltyku-Sluzby-weszli-na-statek-plynacy-do-Petersburga-9078768.html",
+      "url": "https://www.bankier.pl/wiadomosc/Estonski-desant-na-Baltyku-Sluzby-weszli-na-statek-plynacy-do-Petersburga-9078768.html",
+      "title": "Estoński desant na Bałtyku. Służby weszli na statek płynący do Petersburga",
+      "content_html": "Jednostka specjalna estońskiej policji oraz straży granicznej przy wsparciu okrętów marynarki wojennej weszła na pokład kontenerowca zmierzającego w kierunku Petersburga. Statek, pływający pod banderą Bahamów, jest podejrzany o udział w przemycie...",
+      "date_published": "2026-02-03T23:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-chce-przejac-kontrole-nad-wyborami-Republikanie-gasza-pomysl-9078766.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-chce-przejac-kontrole-nad-wyborami-Republikanie-gasza-pomysl-9078766.html",
+      "title": "Trump chce przejąć kontrolę nad wyborami. Republikanie gaszą pomysł",
+      "content_html": "Liderzy Partii Republikańskiej w Kongresie, Mike Johnson i John Thune odrzucili we wtorek wezwanie prezydenta Donalda Trumpa do „przejęcia” wbrew konstytucji przez władze federalne organizacji wyborów w 15 stanach, gdzie rzekomo dochodziło do...",
+      "date_published": "2026-02-03T23:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/167-pacjentow-ze-zlamaniami-w-jedna-dobe-Szpital-musi-odsylac-planowych-pacjentow-9078725.html",
+      "url": "https://www.bankier.pl/wiadomosc/167-pacjentow-ze-zlamaniami-w-jedna-dobe-Szpital-musi-odsylac-planowych-pacjentow-9078725.html",
+      "title": "167 pacjentów ze złamaniami w jedną dobę. Szpital musi odsyłać planowych pacjentów",
+      "content_html": "Klinika ortopedii Uniwersyteckiego Szpitala Klinicznego nr 1 w Szczecinie, z powodu „gwałtownego wzrostu” liczby pacjentów ze złamaniami rąk i nóg, wstrzymała planowe przyjęcia. Do wypadków dochodzi na oblodzonych od ponad tygodnia chodnikach...",
+      "date_published": "2026-02-03T23:39:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Podwyzki-mimo-wygaszonego-pieca-Porozumienie-placowe-w-ArcelorMittal-Poland-9078759.html",
       "url": "https://www.bankier.pl/wiadomosc/Podwyzki-mimo-wygaszonego-pieca-Porozumienie-placowe-w-ArcelorMittal-Poland-9078759.html",
       "title": "Podwyżki mimo wygaszonego pieca. Porozumienie płacowe w ArcelorMittal Poland",
@@ -79,6 +107,13 @@
       "title": "Szpieg w MON zatrzymany. Ekspert: Przewerbowanie agenta nieopłacalne",
       "content_html": "Metody wykrywania dezinformacji przekazywanej przez przewerbowanych szpiegów są dziś coraz skuteczniejsze – powiedział PAP były funkcjonariusz służb Piotr Niemczyk. Dlatego czasem bardziej opłaca się ich zatrzymać i osądzić, niż próbować...",
       "date_published": "2026-02-03T22:31:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-dynastii-Kadafiego-Zginal-niedoszly-nastepca-libijskiego-dyktatora-9078756.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-dynastii-Kadafiego-Zginal-niedoszly-nastepca-libijskiego-dyktatora-9078756.html",
+      "title": "Koniec dynastii Kadafiego. Zginął niedoszły następca libijskiego dyktatora",
+      "content_html": "Jeden z synów nieżyjącego dyktatora libijskiego Muammara Kadafiego, Sajf al-Islam Kadafi, został zabity – poinformowali we wtorek dwaj przedstawiciele libijskich służb bezpieczeństwa. Okoliczności jego śmierci nie podano.",
+      "date_published": "2026-02-03T22:17:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Bigtechy-ponownie-w-nielasce-inwestorow-9078752.html",
@@ -667,41 +702,6 @@
       "title": "Wyższe kary dla oprawców zwierząt? Doda i minister Żurek łączą siły",
       "content_html": "Minister sprawiedliwości, Waldemar Żurek, spotkał się z Dodą. Tematem spotkania były schroniska dla bezdomnych zwierząt - czytamy we wtorek na stronach portalu Onet.",
       "date_published": "2026-02-03T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Port-Polska-atom-i-koleje-Kolejne-przesuniecie-terminu-otwarcia-lotniska-9078195.html",
-      "url": "https://www.bankier.pl/wiadomosc/Port-Polska-atom-i-koleje-Kolejne-przesuniecie-terminu-otwarcia-lotniska-9078195.html",
-      "title": "Port Polska, atom i koleje. Kolejne przesunięcie terminu otwarcia lotniska",
-      "content_html": "Dążymy do otwarcia nowego lotniska w Baranowie w 2032 r. - powiedział w wywiadzie opublikowanym we wtorkowym „DGP” wiceminister infrastruktury, Maciej Lasek.",
-      "date_published": "2026-02-03T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-na-B2B-Ministerstwo-Finansow-planuje-zmiany-w-podatkach-9078241.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-na-B2B-Ministerstwo-Finansow-planuje-zmiany-w-podatkach-9078241.html",
-      "title": "Koniec eldorado na B2B. Fiskus idzie po pieniądze z programów motywacyjnych",
-      "content_html": "Ministerstwo Finansów planuje zmiany w opodatkowaniu programów motywacyjnych stosowanych m.in. przy współpracy B2B. Nowe przepisy mają objąć m.in. warranty subskrypcyjne i instrumenty pochodne oraz zmienić dotychczasowe zasady rozliczeń. Projektowane...",
-      "date_published": "2026-02-03T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/1200-zl-do-odbioru-w-nowej-akcji-Citi-Handlowego-Prostszej-promocji-chyba-nie-bylo-9078254.html",
-      "url": "https://www.bankier.pl/wiadomosc/1200-zl-do-odbioru-w-nowej-akcji-Citi-Handlowego-Prostszej-promocji-chyba-nie-bylo-9078254.html",
-      "title": "1200 zł do odbioru w nowej akcji Citi Handlowego. Prostszej promocji chyba nie było",
-      "content_html": "W świecie skomplikowanych regulaminów i wieloetapowych zadań, nowa edycja promocji „Wielki cashback z Kartą Kredytową Citibank” wyróżnia się wyjątkową przejrzystością. W skrócie: wystarczy co miesiąc wydać 300 zł, by odzyskać 100...",
-      "date_published": "2026-02-03T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kultowe-modele-krolami-szrotow-Polacy-oddali-na-zlom-rekordowo-duzo-aut-9078248.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kultowe-modele-krolami-szrotow-Polacy-oddali-na-zlom-rekordowo-duzo-aut-9078248.html",
-      "title": "Kultowe modele królami szrotów. Polacy oddali na złom rekordowo dużo aut",
-      "content_html": "Po raz pierwszy od siedmiu lat Polacy w 2025 r. zezłomowali ponad pół miliona samochodów – informuje „Interia”. Na szrot trafiały przede wszystkim najpopularniejsze auta polskich komisów – Volkswageny Golfy i Ople Astry. Z polskich dróg...",
-      "date_published": "2026-02-03T08:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-i-Indie-decyduja-o-ropie-Ryzyko-malej-a-wraz-z-nim-spadaja-ceny-9078258.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-i-Indie-decyduja-o-ropie-Ryzyko-malej-a-wraz-z-nim-spadaja-ceny-9078258.html",
-      "title": "Iran i Indie decydują o ropie. Ryzyko malej, a wraz z nim spadają ceny",
-      "content_html": "Ceny ropy naftowej spadają we wtorek w reakcji na malejące ryzyka geopolityczne związane z Iranem i oczekiwania inwestorów na \"więcej jasności\" ws. umowy handlowej USA-Indie - informują maklerzy.",
-      "date_published": "2026-02-03T08:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
