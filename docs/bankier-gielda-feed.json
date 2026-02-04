@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
+      "url": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
+      "title": "Marża Orlenu leci w dół. Spadek do 8,8 USD w styczniu Modelowa marża rafineryjna Orlenu w styczniu 2026 roku spadła do 8,8 USD z 12,6 USD w grudniu 2025 roku - poinformował Orlen. Dyferencjał jest dodatni i wynosi 0,9 USD, wobec ujemnego dyferencjału w grudniu, który wyniósł -1 USD.",
+      "content_html": "",
+      "date_published": "2026-02-04T13:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-wstrzymal-wykonanie-postanowienia-o-zabezpieczeniu-na-rzecz-Fundacji-Forum-Konsumentow-Allegro-9079025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-wstrzymal-wykonanie-postanowienia-o-zabezpieczeniu-na-rzecz-Fundacji-Forum-Konsumentow-Allegro-9079025.html",
+      "title": "Sąd wstrzymuje decyzję ws. Allegro. Zmian w zakupach na razie nie będzie Sąd Okręgowy w Warszawie wstrzymał wykonanie postanowienia o udzieleniu zabezpieczenia na rzecz Fundacji Forum Konsumentów do czasu rozpatrzenia zażalenia wniesionego przez Allegro - podało Allegro w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-04T13:16:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koszty-ryzyka-Santander-BP-w-26-moga-wzrosnac-ale-nie-przekrocza-50-pb-9078991.html",
       "url": "https://www.bankier.pl/wiadomosc/Koszty-ryzyka-Santander-BP-w-26-moga-wzrosnac-ale-nie-przekrocza-50-pb-9078991.html",
       "title": "Koszty ryzyka Santander BP w '26 mogą wzrosnąć, ale nie przekroczą 50 pb Santander Bank Polska szacuje, że 2026 rok może przynieść wzrost kosztów ryzyka kredytowego, ale nie powinny one przekroczyć poziomu 50 pb - poinformował członek zarządu banku Maciej Reluga.",
@@ -345,20 +359,6 @@
       "title": "3 miliardy zł z podatku cyfrowego? Standerski: To jest osiągalne Do 2030 roku możliwe jest osiągnięcie 3 mld zł wpływów z tytułu podatku od niektórych usług cyfrowych - poinformował PAP Biznes wiceminister cyfryzacji Dariusz Standerski. Dodał, że gaming jest kluczowym elementem strategii cyfryzacji Polski, a resort kultury może liczyć na MC w tej kwestii; wskazał również na potrzebę większej ochrony konsumenta na tym rynku.",
       "content_html": "",
       "date_published": "2026-02-02T13:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Aqua-zaktualizowala-plan-inwestycji-w-26-przewiduje-naklady-w-wys-73-06-mln-zl-netto-9077905.html",
-      "url": "https://www.bankier.pl/wiadomosc/Aqua-zaktualizowala-plan-inwestycji-w-26-przewiduje-naklady-w-wys-73-06-mln-zl-netto-9077905.html",
-      "title": "Aqua zaktualizowała plan inwestycji, w '26 przewiduje nakłady w wys. 73,06 mln zł netto Rada nadzorcza Aqua zaakceptowała kolejną aktualizację planu inwestycji obejmującego dotychczas lata 2023-2028 oraz uwzględniający tę aktualizację plan inwestycji na lata obrotowe 2026-2030 - podała spółka. Plan na 2026 rok zakłada nakłady inwestycyjne w kwocie 73,06 mln zł.",
-      "content_html": "",
-      "date_published": "2026-02-02T13:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Erli-sklada-pozew-przeciwko-Allegro-za-naduzywanie-pozycji-dominujacej-9077877.html",
-      "url": "https://www.bankier.pl/wiadomosc/Erli-sklada-pozew-przeciwko-Allegro-za-naduzywanie-pozycji-dominujacej-9077877.html",
-      "title": "Allegro pod ostrzałem. Po Inpoście pozew składa Erli Platforma marketplace Erli złożyła przeciwko Allegro pozew, który obejmuje zarzuty m.in. nadużycia przez Allegro pozycji dominującej i stosowania czynów nieuczciwej konkurencji - podało Erli w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-02T13:34:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

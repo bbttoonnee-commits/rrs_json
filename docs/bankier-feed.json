@@ -4,10 +4,59 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
+      "url": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
+      "title": "Marża Orlenu leci w dół. Spadek do 8,8 USD w styczniu",
+      "content_html": "Modelowa marża rafineryjna Orlenu w styczniu 2026 roku spadła do 8,8 USD z 12,6 USD w grudniu 2025 roku - poinformował Orlen. Dyferencjał jest dodatni i wynosi 0,9 USD, wobec ujemnego dyferencjału w grudniu, który wyniósł -1 USD.",
+      "date_published": "2026-02-04T13:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-wstrzymal-wykonanie-postanowienia-o-zabezpieczeniu-na-rzecz-Fundacji-Forum-Konsumentow-Allegro-9079025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-wstrzymal-wykonanie-postanowienia-o-zabezpieczeniu-na-rzecz-Fundacji-Forum-Konsumentow-Allegro-9079025.html",
+      "title": "Sąd wstrzymuje decyzję ws. Allegro. Zmian w zakupach na razie nie będzie",
+      "content_html": "Sąd Okręgowy w Warszawie wstrzymał wykonanie postanowienia o udzieleniu zabezpieczenia na rzecz Fundacji Forum Konsumentów do czasu rozpatrzenia zażalenia wniesionego przez Allegro - podało Allegro w komunikacie.",
+      "date_published": "2026-02-04T13:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaria-cieplownicza-usunieta-w-czwartek-uczniowie-wracaja-do-szkol-9079022.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaria-cieplownicza-usunieta-w-czwartek-uczniowie-wracaja-do-szkol-9079022.html",
+      "title": "Awaria ciepłownicza usunięta, w czwartek uczniowie wracają do szkół",
+      "content_html": "Nieszczelność jednego z kotłów gdańskiej elektrociepłowni została usunięta – poinformowała w środę dyrektorka oddziału Wybrzeże PGE Energia Ciepła w Gdańsku Ewa Barszcz. Ciepło do mieszkań ma powrócić wieczorem. Prezydentki Gdańska...",
+      "date_published": "2026-02-04T13:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sluzba-drugiej-kategorii-MS-apeluje-o-przywileje-dla-straznikow-wieziennych-9079016.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sluzba-drugiej-kategorii-MS-apeluje-o-przywileje-dla-straznikow-wieziennych-9079016.html",
+      "title": "Służba drugiej kategorii? MS apeluje o przywileje dla strażników więziennych",
+      "content_html": "Ministerstwo Sprawiedliwości zaapelowało w środę o objęcie funkcjonariuszy Służby Więziennej ustawą o Karcie Rodziny Mundurowej. Według wiceszefowej MS Marii Ejchart wyłączenie tej formacji z ustawy narusza zasadę równego traktowania służb...",
+      "date_published": "2026-02-04T13:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-umowa-na-slowo-Izby-Rolnicze-ostrzegaja-przed-paralizem-na-wsi-9079008.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-umowa-na-slowo-Izby-Rolnicze-ostrzegaja-przed-paralizem-na-wsi-9079008.html",
+      "title": "Koniec z umową „na słowo”? Izby Rolnicze ostrzegają przed paraliżem na wsi",
+      "content_html": "Projekt ustawy o dzierżawie rolniczej w obecnym kształcie budzi liczne wątpliwości, gdyż formalizuje zawieranie umów, co uderzy przede wszystkim w drobnych rolników, dla których wieloletnie relacje sąsiedzkie oparte są na zaufaniu - oceniła...",
+      "date_published": "2026-02-04T13:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prawda-o-zarobkach-Polakow-Mediana-o-ponad-1500-zl-nizsza-od-sredniej-krajowej-9078904.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prawda-o-zarobkach-Polakow-Mediana-o-ponad-1500-zl-nizsza-od-sredniej-krajowej-9078904.html",
+      "title": "Prawda o zarobkach Polaków. Mediana o ponad 1500 zł niższa od średniej krajowej",
+      "content_html": "Mediana wynagrodzeń miesięcznych brutto w gospodarce narodowej w sierpniu 2025 r. wyniosła 7.280,0 zł i była niższa o 17,4 proc. od przeciętnego wynagrodzenia brutto - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-02-04T12:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Jestesmy-wiezniami-decyzji-technologicznych-Ekspert-o-podatku-cyfrowym-i-reakcji-big-techow-9078985.html",
       "url": "https://www.bankier.pl/wiadomosc/Jestesmy-wiezniami-decyzji-technologicznych-Ekspert-o-podatku-cyfrowym-i-reakcji-big-techow-9078985.html",
       "title": "„Jesteśmy więźniami decyzji technologicznych”. Ekspert o podatku cyfrowym i reakcji big techów",
       "content_html": "Polska jest dużą, silną gospodarką i ważnym rynkiem dla dużych, globalnych firm, dlatego płacenie podatku cyfrowego jest dla nich akceptowalne, chociaż będą w swoim interesie argumentować, że tak nie jest - ocenił w Studio PAP dr Jarosław...",
+      "date_published": "2026-02-04T12:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czerwony-alert-w-Hiszpanii-Tysiace-ewakuowanych-przed-nadejsciem-orkanu-9079009.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czerwony-alert-w-Hiszpanii-Tysiace-ewakuowanych-przed-nadejsciem-orkanu-9079009.html",
+      "title": "„Czerwony alert” w Hiszpanii. Tysiące ewakuowanych przed nadejściem orkanu",
+      "content_html": "W ramach środków ostrożności w południowej Hiszpanii ewakuowano ponad 3 tys. osób z powodu „wyjątkowych” opadów deszczu, spodziewanych w środę - poinformowała agencja AFP, powołując się na służby ratunkowe. Ewakuacje przeprowadzono...",
       "date_published": "2026-02-04T12:42:00+01:00"
     },
     {
@@ -142,6 +191,20 @@
       "title": "Pracownicy Dino jak „mrożonki”? Trwają kontrole marketów",
       "content_html": "Według związkowców działających w Dino Polska pracownicy są tam traktowani jak „mrożonki”, ponieważ grzywna za pracę w zbyt niskiej temperaturze to jedynie 1300 zł. Dlatego na ich wniosek do Generalnego Inspektora Pracy rozpoczęły się...",
       "date_published": "2026-02-04T10:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyplaty-wyzsze-nawet-o-kilkaset-zlotych-ZUS-konczy-akcje-przeliczania-emerytur-9078898.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyplaty-wyzsze-nawet-o-kilkaset-zlotych-ZUS-konczy-akcje-przeliczania-emerytur-9078898.html",
+      "title": "Wypłaty wyższe nawet o kilkaset złotych. ZUS kończy akcję przeliczania emerytur",
+      "content_html": "W wyniku ustawy o tzw. emeryturach czerwcowych osoby zyskały średnio ponad 200 zł miesięcznie – poinformował w środę Zakład Ubezpieczeń Społecznych.",
+      "date_published": "2026-02-04T10:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zle-zarzadzanie-wypycha-ludzi-skuteczniej-niz-niskie-zarobki-9078910.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zle-zarzadzanie-wypycha-ludzi-skuteczniej-niz-niskie-zarobki-9078910.html",
+      "title": "Dlatego rzucamy pracę? I nie są to niskie zarobki",
+      "content_html": "Poprawę swojej sytuacji zawodowej deklaruje 26 proc. pracowników, mniej o 5 punktów procentowych niż przed rokiem - wynika z badania Antal. Zdaniem ekspertów sugeruje to pogłębiające się poczucie niepewności wśród pracowników i mniejszą...",
+      "date_published": "2026-02-04T10:36:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Gra-w-piaskownice-i-szczenieca-proba-Wiceszef-MSZ-ostro-o-decyzji-prezydenta-Nawrockiego-9078909.html",
@@ -340,34 +403,6 @@
       "date_published": "2026-02-04T07:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dlugi-polskich-firm-Handel-i-budowlanka-na-skraju-wytrzymalosci-9078792.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dlugi-polskich-firm-Handel-i-budowlanka-na-skraju-wytrzymalosci-9078792.html",
-      "title": "Długi polskich firm. Handel i budowlanka na skraju wytrzymałości",
-      "content_html": "Za niemal 50 proc. całkowitej wartości niespłacanego zadłużenia przedsiębiorstw w Polsce odpowiadają firmy z sektorów handlu, produkcji i budownictwa; ich łączne przeterminowane zobowiązania sięgają 22,7 mld zł - wynika z danych BIG InfoMonitora...",
-      "date_published": "2026-02-04T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tysiace-dzieci-w-rekach-ICE-i-innych-sluzb-Gubernator-Minnesoty-interweniuje-9078775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tysiace-dzieci-w-rekach-ICE-i-innych-sluzb-Gubernator-Minnesoty-interweniuje-9078775.html",
-      "title": "Tysiące dzieci w rękach ICE i innych służb. Gubernator Minnesoty interweniuje",
-      "content_html": "Gubernator Minnesoty Tim Walz zażądał we wtorek od minister bezpieczeństwa krajowego USA Kristi Noem informacji o dzieciach zatrzymanych przez służby imigracyjne w tym stanie.",
-      "date_published": "2026-02-04T06:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-chce-zamknac-temat-Epsteina-W-papierach-nie-ma-nic-na-mnie-9078773.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-chce-zamknac-temat-Epsteina-W-papierach-nie-ma-nic-na-mnie-9078773.html",
-      "title": "Trump chce zamknąć temat Epsteina. „W papierach nie ma nic na mnie”",
-      "content_html": "Prezydent USA Donald Trump wyraził we wtorek przekonanie, że kraj powinien zająć się już czymś innym niż sprawą finansisty i przestępcy seksualnego Jeffreya Epsteina, który utrzymywał kontakty z wieloma prominentnymi ludźmi.",
-      "date_published": "2026-02-04T06:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Captor-Therapeutics-nie-zaobserwowal-istotnych-efektow-niepozadanych-w-badaniu-CT-01-9078810.html",
-      "url": "https://www.bankier.pl/wiadomosc/Captor-Therapeutics-nie-zaobserwowal-istotnych-efektow-niepozadanych-w-badaniu-CT-01-9078810.html",
-      "title": "Captor Therapeutics nie zaobserwował istotnych efektów niepożądanych w badaniu CT-01",
-      "content_html": "Captor Therapeutics nie zaobserwował jak dotąd istotnych efektów niepożądanych w badaniu klinicznym w programie CT-01, a wyniki mechanizmu działania, jak i bezpieczeństwa kandydata na lek spółka ocenia jako pozytywne i obiecujące - podał Captor...",
-      "date_published": "2026-02-04T06:36:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/WZ-Captor-Therapeutics-zdecyduje-ws-podwyzszenia-kapitalu-poprzez-emisje-akcji-9078804.html",
       "url": "https://www.bankier.pl/wiadomosc/WZ-Captor-Therapeutics-zdecyduje-ws-podwyzszenia-kapitalu-poprzez-emisje-akcji-9078804.html",
       "title": "WZ Captor Therapeutics zdecyduje ws. podwyższenia kapitału poprzez emisję akcji",
@@ -407,6 +442,20 @@
       "url": "https://www.bankier.pl/wiadomosc/Inwazja-wysysaczy-depozytow-Banki-ostrzegaja-przed-stablecoinami-9078439.html",
       "title": "Inwazja „wysysaczy depozytów”. Banki ostrzegają przed stablecoinami",
       "content_html": "Ucieczka depozytów z banków komercyjnych to jeden z efektów ubocznych rozwoju stabilnych kryptowalut. Przed ryzykiem, które uderzy w marżę odsetkową kredytodawców, ostrzegał Bank of America, a teraz Standard Chartered.",
+      "date_published": "2026-02-04T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/800-zl-i-5-na-lokacie-od-Santandera-Oto-nagroda-za-cztery-miesiace-korzystania-z-konta-9078450.html",
+      "url": "https://www.bankier.pl/wiadomosc/800-zl-i-5-na-lokacie-od-Santandera-Oto-nagroda-za-cztery-miesiace-korzystania-z-konta-9078450.html",
+      "title": "800 zł i 5% na lokacie od Santandera. Tyle można zyskać za kilka miesięcy korzystania z konta",
+      "content_html": "800 zł premii oraz 5% na lokacie terminowej – z takich korzyści mogą skorzystać osoby, które jeszcze nie są klientami Santander Banku Polska. Warunki stawiane przez instytucje są jasne. W celu otrzymania nagród, należy zapewnić wpływy i wykonywać...",
+      "date_published": "2026-02-04T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wypadek-pozyczonym-autem-a-znizki-z-OC-AC-Kto-straci-9078520.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wypadek-pozyczonym-autem-a-znizki-z-OC-AC-Kto-straci-9078520.html",
+      "title": "Stłuczka pożyczonym autem. Kto straci zniżki z OC?",
+      "content_html": "Nierzadko dochodzi do sytuacji, kiedy pojazdem kieruje nie jego właściciel, ale inna osoba, np. znajomy albo członek rodziny. Prawo nie zabrania jazdy samochodem zarejestrowanym na kogoś innego, problem pojawia się jednak, kiedy dojdzie do wypadku...",
       "date_published": "2026-02-04T06:00:00+01:00"
     },
     {
@@ -604,90 +653,6 @@
       "title": "Początek wielkiej inwestycji na Westerplatte. Koszt to 48 mln zł",
       "content_html": "Spółka STRABAG wygrała przetarg na realizację pierwszego etapu budowy Muzeum Westerplatte. Zaproponowała 48 mln złotych. Wykonawca będzie musiał m.in. przywrócić historyczny stan Wojskowej Składnicy Tranzytowej. Prace rozpoczną się w lutym...",
       "date_published": "2026-02-03T20:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bruksela-bada-chinskie-turbiny-Zarzuty-o-zaburzanie-konkurencji-przez-dotacje-od-Pekinu-9078648.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bruksela-bada-chinskie-turbiny-Zarzuty-o-zaburzanie-konkurencji-przez-dotacje-od-Pekinu-9078648.html",
-      "title": "Bruksela bada chińskie turbiny. Zarzuty o zaburzanie konkurencji przez dotacje od Pekinu",
-      "content_html": "Komisja Europejska poinformowała w środę o wszczęciu postępowania w sprawie chińskiego giganta turbinowego Goldwind. KE podejrzewa, że subsydia przyznane spółce przez chiński rząd zaburzyły konkurencję w sektorze energetyki wiatrowej.",
-      "date_published": "2026-02-03T20:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lapowki-dla-zagranicznych-urzednikow-pod-lupa-Polska-realizuje-wytyczne-OECD-9078627.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lapowki-dla-zagranicznych-urzednikow-pod-lupa-Polska-realizuje-wytyczne-OECD-9078627.html",
-      "title": "Łapówki dla zagranicznych urzędników pod lupą. Polska realizuje wytyczne OECD",
-      "content_html": "Rząd przyjął projekt nowelizacji Kodeksu postępowania karnego, który ma wzmocnić skuteczność walki z najpoważniejszymi formami korupcji o charakterze międzynarodowym. Chodzi o sytuacje, w których łapówki są wręczane lub przyjmowane przez...",
-      "date_published": "2026-02-03T20:07:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-zwoluje-RBN-Na-stole-wschodnie-kontakty-Czarzastego-i-miliardy-z-UE-9078624.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-zwoluje-RBN-Na-stole-wschodnie-kontakty-Czarzastego-i-miliardy-z-UE-9078624.html",
-      "title": "Prezydent Nawrocki zwołuje RBN. Na stole „wschodnie kontakty” Czarzastego i miliardy z UE",
-      "content_html": "Prezydent Karol Nawrocki zwołał posiedzenie RBN na 11 lutego - poinformował jego rzecznik Rafał Leśkiewicz. Omówione zostaną m.in. kwestia programu SAFE, zaproszenia do Rady Pokoju i działania państwa mające na celu wyjaśnienie „okoliczności...",
-      "date_published": "2026-02-03T20:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/40-zl-podatku-za-jeden-wklad-do-e-papierosa-Rzad-szykuje-drastyczna-zmiane-w-akcyzie-9078623.html",
-      "url": "https://www.bankier.pl/wiadomosc/40-zl-podatku-za-jeden-wklad-do-e-papierosa-Rzad-szykuje-drastyczna-zmiane-w-akcyzie-9078623.html",
-      "title": "40 zł podatku za jeden wkład do e-papierosa? Rząd szykuje drastyczną zmianę w akcyzie",
-      "content_html": "Resort finansów planuje wprowadzić definicje nowego rodzaju wyrobów akcyzowych tj. wkładów do wielorazowych e-papierosów i pobierać od nich podatek - wynika z założeń projektu noweli ustawy o podatku akcyzowym. Stawka podatku na wkłady miałaby...",
-      "date_published": "2026-02-03T19:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sedzia-na-imprezie-politycznej-Brauna-Resort-mowi-o-uchybieniu-godnosci-Schab-o-stalinowcach-9078622.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sedzia-na-imprezie-politycznej-Brauna-Resort-mowi-o-uchybieniu-godnosci-Schab-o-stalinowcach-9078622.html",
-      "title": "Sędzia na imprezie politycznej Brauna? Resort mówi o „uchybieniu godności”, Schab o „stalinowcach”",
-      "content_html": "Szef MS Waldemar Żurek powołał rzecznika dyscyplinarnego ad hoc do prowadzenia sprawy sędziego Piotra Schaba. Chodzi o jego udział w niedawnej konferencji programowej Konfederacja Korony Polskiej - partii Grzegorza Brauna. Według MS zachodzi podejrzenie...",
-      "date_published": "2026-02-03T19:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podwyzki-w-wojsku-Szeregowy-zarobi-6500-zl-general-ponad-22-tysiace-9078613.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podwyzki-w-wojsku-Szeregowy-zarobi-6500-zl-general-ponad-22-tysiace-9078613.html",
-      "title": "Podwyżki w wojsku. Szeregowy zarobi 6500 zł, generał ponad 22 tysiące",
-      "content_html": "W tym roku uposażenie zasadnicze żołnierzy zawodowych wzrośnie o ok. 3 proc. - przewiduje projekt rozporządzenia przedstawiony przez resort obrony. Najniższe uposażenie żołnierza ma wzrosnąć z 6300 zł do 6500 zł.",
-      "date_published": "2026-02-03T19:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-zmienia-ustawe-o-finansach-publicznych-Jawne-plany-BGK-i-budzety-ministrow-9078608.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-zmienia-ustawe-o-finansach-publicznych-Jawne-plany-BGK-i-budzety-ministrow-9078608.html",
-      "title": "Rząd zmienia ustawę o finansach publicznych. Jawne plany BGK i budżety ministrów",
-      "content_html": "Rząd przyjął projekt ustawy nakładającej obowiązki informowania w uzasadnieniu ustawy budżetowej o puli środków w dyspozycji ministrów; o planach finansowych funduszy BGK oraz dokonywania oceny inwestycji publicznych. Projekt realizuje tzw...",
-      "date_published": "2026-02-03T19:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/400-dronow-dziennie-a-ma-ich-juz-80-tys-Iran-szykuje-sie-do-dlugiej-wojny-9078596.html",
-      "url": "https://www.bankier.pl/wiadomosc/400-dronow-dziennie-a-ma-ich-juz-80-tys-Iran-szykuje-sie-do-dlugiej-wojny-9078596.html",
-      "title": "400 dronów dziennie, a ma ich już 80 tys. Iran szykuje się do długiej wojny?",
-      "content_html": "Izraelski wywiad szacuje, że Iran posiada około 80 tys. gotowych do wojny dronów Shahed, a obecne tempo ich produkcji wynosi około 400 sztuk dziennie - poinformował portal DefenceSecurityAsia, zajmujący się obronnością.",
-      "date_published": "2026-02-03T19:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wazne-zmiany-w-Ordynacji-podatkowej-Skarbowka-nie-wydluzy-sztucznie-kontroli-9078562.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wazne-zmiany-w-Ordynacji-podatkowej-Skarbowka-nie-wydluzy-sztucznie-kontroli-9078562.html",
-      "title": "Ważne zmiany w Ordynacji podatkowej. Skarbówka nie wydłuży sztucznie kontroli",
-      "content_html": "Rząd we wtorek przyjął projekt ustawy, który ma na celu ograniczenie obowiązków sprawozdawczych i ułatwienie dokonywanie rozliczeń podatkowych - przekazał resort finansów. Przepisy zakładają m.in. zlikwidowanie obowiązku raportowania krajowych...",
-      "date_published": "2026-02-03T19:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zwir-w-silnikach-korwet-Sabotaz-na-okretach-niemieckiej-marynarki-9078559.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zwir-w-silnikach-korwet-Sabotaz-na-okretach-niemieckiej-marynarki-9078559.html",
-      "title": "Żwir w silnikach korwet. Sabotaż na okrętach niemieckiej marynarki",
-      "content_html": "Niemiecka policja aresztowała dwóch mężczyzn podejrzanych o próbę sabotażu na okrętach marynarki wojennej Niemiec – poinformowała we wtorek niemiecka prokuratura. Operację, którą prowadzono we współpracy z greckimi i rumuńskimi organami...",
-      "date_published": "2026-02-03T19:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejne-generatory-z-Warszawy-dotarly-do-Kijowa-Kliczko-dziekuje-Polakom-9078558.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-generatory-z-Warszawy-dotarly-do-Kijowa-Kliczko-dziekuje-Polakom-9078558.html",
-      "title": "Kolejne generatory z Warszawy dotarły do Kijowa. Kliczko dziękuje Polakom",
-      "content_html": "Mer Kijowa Witalij Kliczko poinformował we wtorek o dostawie 31 generatorów z Warszawy. Pierwszą partię, 59 sztuk, dostarczono w piątek.",
-      "date_published": "2026-02-03T19:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekin-ostrzega-Paname-Zaplacicie-wysoka-cene-za-uleglosc-wobec-USA-9078553.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekin-ostrzega-Paname-Zaplacicie-wysoka-cene-za-uleglosc-wobec-USA-9078553.html",
-      "title": "Pekin ostrzega Panamę: Zapłacicie wysoką cenę za uległość wobec USA",
-      "content_html": "Chińskie biuro ds. Hongkongu i Makau oświadczyło we wtorek, że wyrok sądu w Panamie, anulujący kontrakty hongkońskiego koncernu CK Hutchinson, jest „haniebny i żałosny”. W komunikacie urząd ocenił, że decyzja ta stanowi akt uległości...",
-      "date_published": "2026-02-03T18:55:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
