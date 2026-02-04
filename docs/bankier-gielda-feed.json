@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mirbud-zlozyl-do-UOKiK-wniosek-o-nabycie-czesci-mienia-Pile-Elbud-9079160.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mirbud-zlozyl-do-UOKiK-wniosek-o-nabycie-czesci-mienia-Pile-Elbud-9079160.html",
+      "title": "Mirbud złożył do UOKiK wniosek o nabycie części mienia Pile Elbud Mirbud złożył do Urzędu Ochrony Konkurencji i Konsumentów wniosek o koncentrację polegającą na nabyciu przez spółkę części mienia Pile Elbud, stanowiącej zorganizowaną część przedsiębiorstwa - podał UOKiK na swojej stronie.",
+      "content_html": "",
+      "date_published": "2026-02-04T15:56:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-wyrazilo-zgode-na-zawarcie-umow-sprzedazy-2-829-wrakow-wagonow-za-49-5-mln-zl-9079141.html",
       "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-wyrazilo-zgode-na-zawarcie-umow-sprzedazy-2-829-wrakow-wagonow-za-49-5-mln-zl-9079141.html",
       "title": "Wielkie czyszczenie w PKP Cargo. 49,5 mln zł netto za wraki Zarząd PKP Cargo, na podstawie wyników przeprowadzonej licytacji elektronicznej w postępowaniu zorganizowanym, wyraził zgodę na zawarcie umów sprzedaży 2.829 wraków wagonów towarowych trwale wyłączonych z użytku operacyjnego, za łączną cenę 49,5 mln zł netto - podała spółka w komunikacie.",
@@ -380,13 +387,6 @@
       "title": "SESJA NA GPW Znów „górnicy” w roli głównej. Giełdowy zjazd na dół i powrót na powierzchnię Poniedziałkowa sesja na warszawskim parkiecie upłynęła pod znakiem niskiego otwarcia i odrabiania strat. Głównym aktorem rozegrania był kurs KGHM, który reagował na krach cen srebra. Szeroki rynek próbował stawiać opór przecenie, znajdując wsparcie w zwyżkach sektora bankowego.",
       "content_html": "",
       "date_published": "2026-02-02T17:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-zglosila-zastrzezenie-do-Planu-Restrukturyzacyjnego-9078028.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-zglosila-zastrzezenie-do-Planu-Restrukturyzacyjnego-9078028.html",
-      "title": "Rada Wierzycieli PKP Cargo zgłosiła zastrzeżenie do Planu Restrukturyzacyjnego Rady Wierzycieli PKP Cargo poinformowała, że na obecnym etapie odstępuje w swojej opinii od wyrażenia jednoznacznie pozytywnego bądź negatywnego stanowiska o Planie Restrukturyzacyjnym i zgłosiła zastrzeżenie do jego treści oraz zwróciła się do Sędziego-Komisarza o zobowiązanie zarządcy spółki do jego uzupełnienia - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-02T16:38:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
