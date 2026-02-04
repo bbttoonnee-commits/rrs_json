@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Santander-BP-przeglada-strategie-ale-nadal-skupia-sie-na-rentownym-wzroscie-9078943.html",
+      "url": "https://www.bankier.pl/wiadomosc/Santander-BP-przeglada-strategie-ale-nadal-skupia-sie-na-rentownym-wzroscie-9078943.html",
+      "title": "Santander BP przegląda strategię, ale nadal skupia się na rentownym wzroście Santander Bank Polska, który w II kwartale rozpocznie rebranding na Erste Bank Polska, jest w trakcie przeglądu swojej strategii, ale nie spodziewa się dużych zmian i nadal będzie skoncentrowany na rentownym wzroście - poinformował prezes banku Michał Gajewski.",
+      "content_html": "",
+      "date_published": "2026-02-04T10:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Santander-BP-spelnia-wymogi-do-wyplaty-dywidendy-w-wysokosci-75-proc-zysku-9078915.html",
+      "url": "https://www.bankier.pl/wiadomosc/Santander-BP-spelnia-wymogi-do-wyplaty-dywidendy-w-wysokosci-75-proc-zysku-9078915.html",
+      "title": "Santander BP spełnia wymogi do wypłaty dywidendy w wysokości 75 proc. zysku Santander Bank Polska, który zmieni się w Erste Bank Polska, ocenia, że spełnia wymogi do wypłaty dywidendy w wysokości 75 proc. zysku za 2025 rok – poinformował prezes banku Michał Gajewski.",
+      "content_html": "",
+      "date_published": "2026-02-04T10:16:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-szacuje-wplyw-kosztow-rebrandingu-na-wynik-w-26-na-ok-250-mln-zl-9078853.html",
       "url": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-szacuje-wplyw-kosztow-rebrandingu-na-wynik-w-26-na-ok-250-mln-zl-9078853.html",
       "title": "Kosztowny proces zmiany szyldu. Santander szacuje wydatki na rebranding na Erste Bank Polska Santander Bank Polska szacuje wpływ kosztów rebrandingu na Erste Bank Polska na wyniki w 2026 roku na około 250 mln zł - poinformował bank w prezentacji.",
@@ -345,20 +359,6 @@
       "title": "Paradoks polskiego rynku pracy: Statystyki świetne, ale... Diagnoza ministerstwa Polska ma jeden z najlepszych rynków pracy w UE, ale brakuje nam pielęgniarek, kierowców i budowlańców. Resort pracy diagnozuje, że \"rodzimych pracowników jest za mało\" i zapowiada ułatwienia w zatrudnianiu cudzoziemców. To konieczność w obliczu zmian demograficznych i niechęci Polaków do pracy zmianowej czy wyjazdowej.",
       "content_html": "",
       "date_published": "2026-02-02T11:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Projekt-Bioceltix-wybrany-do-dofinansowania-kwota-16-436-mln-zl-w-konkursie-SMART-9077794.html",
-      "url": "https://www.bankier.pl/wiadomosc/Projekt-Bioceltix-wybrany-do-dofinansowania-kwota-16-436-mln-zl-w-konkursie-SMART-9077794.html",
-      "title": "Projekt Bioceltix wybrany do dofinansowania kwotą 16,436 mln zł w konkursie SMART Projekt Bioceltix został wybrany do dofinansowania kwotą 16,436 mln zł w konkursie SMART - podał NCBR.",
-      "content_html": "",
-      "date_published": "2026-02-02T10:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polskie-satelity-nad-Bliskim-Wschodem-SatRev-podpisal-umowe-za-30-mln-zl-9077785.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polskie-satelity-nad-Bliskim-Wschodem-SatRev-podpisal-umowe-za-30-mln-zl-9077785.html",
-      "title": "Polskie satelity nad Bliskim Wschodem. SatRev podpisał umowę za 30 mln zł SatRev, spółka technologiczna działająca w sektorze kosmicznym i przygotowująca się do debiutu na rynku NewConnect, podpisał umowę o wartości blisko 30 mln zł na monitoring sieci gazowych w Omanie - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-02T10:42:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
