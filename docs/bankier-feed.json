@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Deregulacja-1-0-Bilans-124-uproszczenia-prawa-wdrozone-9079294.html",
+      "url": "https://www.bankier.pl/wiadomosc/Deregulacja-1-0-Bilans-124-uproszczenia-prawa-wdrozone-9079294.html",
+      "title": "Deregulacja 1.0. Bilans: 124 uproszczenia prawa wdrożone",
+      "content_html": "W ramach procesu Deregulacja 1.0 rząd zrealizował 192 postulaty deregulacyjne, z czego 124 weszły już w życie - poinformował w środę na platformie X minister ds. nadzoru nad wdrażaniem polityki rządu, szef Komitetu Stałego Rady Ministrów Maciej...",
+      "date_published": "2026-02-04T19:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mezczyzna-skazany-na-dozywocie-za-probe-zamachu-na-Trumpa-9079291.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mezczyzna-skazany-na-dozywocie-za-probe-zamachu-na-Trumpa-9079291.html",
+      "title": "Mężczyzna skazany na dożywocie za próbę zamachu na Trumpa",
+      "content_html": "Ryan Routh został w środę skazany na dożywotnią karę pozbawienia wolności za próbę zamachu na Donalda Trumpa na polu golfowym na Florydzie w 2024 roku. Trump był wówczas kandydatem na prezydenta USA.",
+      "date_published": "2026-02-04T19:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/4-mld-zl-z-Funduszy-Norweskich-dla-Polski-Szyszko-Pieniadze-trafia-tez-do-malych-miast-9079089.html",
       "url": "https://www.bankier.pl/wiadomosc/4-mld-zl-z-Funduszy-Norweskich-dla-Polski-Szyszko-Pieniadze-trafia-tez-do-malych-miast-9079089.html",
       "title": "4 mld zł z Funduszy Norweskich dla Polski. Szyszko: Pieniądze trafią też do małych miast",
       "content_html": "Do Polski trafi ok. 4 mld zł z nowej edycji Funduszy Norweskich i EOG – poinformował w środę wiceminister funduszy i polityki regionalnej Jan Szyszko. Pieniądze zostaną przekazane m.in. na inwestycje w największych miastach i mniejszych miejscowościach...",
       "date_published": "2026-02-04T19:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Francja-apeluje-Potrzebny-nowy-pakt-nuklearny-Wygasa-uklad-Nowy-START-9079282.html",
+      "url": "https://www.bankier.pl/wiadomosc/Francja-apeluje-Potrzebny-nowy-pakt-nuklearny-Wygasa-uklad-Nowy-START-9079282.html",
+      "title": "Francja apeluje: Potrzebny nowy pakt nuklearny. Wygasa układ Nowy START",
+      "content_html": "MSZ Francji zaapelowało w środę do mocarstw nuklearnych: USA i Rosji, ale także Chin, by podjęły pracę nad nowym międzynarodowym systemem kontroli zbrojeń. Apel ten Francja, jedyny w UE kraj z bronią nuklearną, skierowała w związku z wygaśnięciem...",
+      "date_published": "2026-02-04T19:09:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-116-1-mln-zl-netto-zostala-oceniona-najwyzej-w-przetargu-PSE-9079275.html",
@@ -23,6 +44,13 @@
       "title": "Budimex z najwyżej ocenioną ofertą w przetargu PSE na blisko 300 mln zł netto",
       "content_html": "Oferta Budimeksu za prawie 300 mln zł netto została oceniona najwyżej w przetargu Polskich Sieci Elektroenergetycznych \"Rozbudowa stacji Gdańsk Błonia wraz z instalacją urządzeń do kompensacji mocy biernej\" - podał Budimex w komunikacie. Zakres...",
       "date_published": "2026-02-04T18:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chinscy-szpiedzy-zatrzymani-we-Francji-Mieli-antene-w-wynajetym-domu-9079260.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chinscy-szpiedzy-zatrzymani-we-Francji-Mieli-antene-w-wynajetym-domu-9079260.html",
+      "title": "Chińscy szpiedzy zatrzymani we Francji. Mieli antenę w wynajętym domu",
+      "content_html": "Cztery osoby zostały zatrzymane w departamencie Żyronda w południowo-zachodniej Francji w związku z podejrzeniem o szpiegostwo na rzecz Chin - podała w środę prokuratura w Paryżu. Dwie z tych osób to obywatele Chin. W śledztwo zaangażowana...",
+      "date_published": "2026-02-04T18:33:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Rozmowa-z-Xi-znakomita-i-dluga-Rozmawialismy-o-Tajwanie-i-wojnie-w-Ukrainie-9079238.html",
@@ -141,6 +169,13 @@
       "url": "https://www.bankier.pl/wiadomosc/Mial-byc-test-konczylo-sie-platna-prenumerata-Zarzuty-UOKiK-dla-wydawnictwa-Wiedza-i-Praktyka-9078887.html",
       "title": "Miał być test, kończyło się płatną prenumeratą. Zarzuty UOKiK dla wydawnictwa Wiedza i Praktyka",
       "content_html": "Prezes Urzędu Ochrony Konkurencji i Konsumentów postawił wydawnictwu Wiedza i Praktyka zarzuty niewłaściwego informowania konsumentów przy oferowaniu próbnych egzemplarzy publikacji i dostępu do serwisów oraz odmawiania klientom prawa do odstąpienia...",
+      "date_published": "2026-02-04T15:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rafineria-Gdanska-pod-koniec-lutego-rozpocznie-planowy-postoj-remontowy-kilkunastu-instalacji-9079122.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rafineria-Gdanska-pod-koniec-lutego-rozpocznie-planowy-postoj-remontowy-kilkunastu-instalacji-9079122.html",
+      "title": "Rafineria Gdańska rozpoczyna remont. Sprawdzanie \"stanu zdrowia\"",
+      "content_html": "Rafineria Gdańska pod koniec lutego br. rozpocznie planowy postój remontowy kilkunastu instalacji na terenie gdańskiego zakładu. Spółka podkreśla, że prace prowadzone w formule tzw. postoju częściowego, są przeprowadzane cyklicznie co 5 lat...",
       "date_published": "2026-02-04T15:16:00+01:00"
     },
     {
@@ -660,41 +695,6 @@
       "title": "Zboże, pestki wiśni i fasola. Czym Polacy palą w piecach w czasach drożyzny?",
       "content_html": "Tegoroczne temperatury na ogromnych minusach mocno dają się we znaki. Utrzymujące się mrozy wiążą się z wielkimi wydatkami na ogrzewanie. Nad rachunkami można załamywać ręce, dlatego Polacy zaczęli szukać innych, tańszych rozwiązań. Czym...",
       "date_published": "2026-02-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inwazja-wysysaczy-depozytow-Banki-ostrzegaja-przed-stablecoinami-9078439.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inwazja-wysysaczy-depozytow-Banki-ostrzegaja-przed-stablecoinami-9078439.html",
-      "title": "Inwazja „wysysaczy depozytów”. Banki ostrzegają przed stablecoinami",
-      "content_html": "Ucieczka depozytów z banków komercyjnych to jeden z efektów ubocznych rozwoju stabilnych kryptowalut. Przed ryzykiem, które uderzy w marżę odsetkową kredytodawców, ostrzegał Bank of America, a teraz Standard Chartered.",
-      "date_published": "2026-02-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/800-zl-i-5-na-lokacie-od-Santandera-Oto-nagroda-za-cztery-miesiace-korzystania-z-konta-9078450.html",
-      "url": "https://www.bankier.pl/wiadomosc/800-zl-i-5-na-lokacie-od-Santandera-Oto-nagroda-za-cztery-miesiace-korzystania-z-konta-9078450.html",
-      "title": "800 zł i 5% na lokacie od Santandera. Tyle można zyskać za kilka miesięcy korzystania z konta",
-      "content_html": "800 zł premii oraz 5% na lokacie terminowej – z takich korzyści mogą skorzystać osoby, które jeszcze nie są klientami Santander Banku Polska. Warunki stawiane przez instytucje są jasne. W celu otrzymania nagród, należy zapewnić wpływy i wykonywać...",
-      "date_published": "2026-02-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wypadek-pozyczonym-autem-a-znizki-z-OC-AC-Kto-straci-9078520.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wypadek-pozyczonym-autem-a-znizki-z-OC-AC-Kto-straci-9078520.html",
-      "title": "Stłuczka pożyczonym autem. Kto straci zniżki z OC?",
-      "content_html": "Nierzadko dochodzi do sytuacji, kiedy pojazdem kieruje nie jego właściciel, ale inna osoba, np. znajomy albo członek rodziny. Prawo nie zabrania jazdy samochodem zarejestrowanym na kogoś innego, problem pojawia się jednak, kiedy dojdzie do wypadku...",
-      "date_published": "2026-02-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Milosc-sie-konczy-rachunki-zostaja-Ile-kosztuje-rozwod-w-2026-roku-9078581.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milosc-sie-konczy-rachunki-zostaja-Ile-kosztuje-rozwod-w-2026-roku-9078581.html",
-      "title": "„I tak się trudno rozstać…” Tyle kosztuje rozwód w 2026 roku",
-      "content_html": "Rozwód to nie tylko kwestia emocjonalna. To także wydatki, których niestety nie sposób uniknąć. W 2026 roku, podobnie jak w poprzednich latach, suma kosztów zależy od wielu czynników m.in. od tego, czy decyzja o rozwodzie jest wspólna, czy strony...",
-      "date_published": "2026-02-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tyran-zdrajca-i-faszysta-Elon-Musk-brutalnie-atakuje-premiera-Hiszpanii-Sancheza-9078772.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tyran-zdrajca-i-faszysta-Elon-Musk-brutalnie-atakuje-premiera-Hiszpanii-Sancheza-9078772.html",
-      "title": "„Tyran, zdrajca i faszysta”. Elon Musk brutalnie atakuje premiera Hiszpanii Sancheza",
-      "content_html": "Premier Hiszpanii Pedro Sanchez to „tyran i zdrajca narodu hiszpańskiego” – napisał we wtorek Elon Musk w odpowiedzi na zapowiedź Sancheza, że Hiszpania będzie pociągać do odpowiedzialności prawnej kierownictwo sieci społecznościowych...",
-      "date_published": "2026-02-04T00:26:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
