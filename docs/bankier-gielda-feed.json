@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-IV-kw-wzrost-przychodow-o-18-proc-sprzedaz-LFL-spadla-o-0-5-proc-opis-9079227.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-IV-kw-wzrost-przychodow-o-18-proc-sprzedaz-LFL-spadla-o-0-5-proc-opis-9079227.html",
+      "title": "LPP zanotowało w IV kw. wzrost przychodów o 18 proc.; sprzedaż LFL spadła o 0,5 proc. (opis) Grupa LPP w IV kwartale, czyli w okresie listopad 2025 r. - styczeń 2026 r., zanotowała 18 proc. wzrost dynamiki przychodów w walutach stałych. Sprzedaż LFL w IV kwartale spadła o 0,5 proc. - podała spółka w komunikacie nt. wstępnych danych operacyjnych.",
+      "content_html": "",
+      "date_published": "2026-02-04T17:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-IV-kw-wzrost-przychodow-o-18-proc-sprzedaz-LFL-spadla-o-0-5-proc-9079214.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-IV-kw-wzrost-przychodow-o-18-proc-sprzedaz-LFL-spadla-o-0-5-proc-9079214.html",
+      "title": "LPP: przychody w IV kw. w górę 18 proc., sprzedaż LFL w dół 0,5 proc. Grupa LPP zanotowała w IV kwartale, czyli w okresie listopad 2025 r. - styczeń 2026 r., 18 proc. wzrost dynamiki przychodów w walutach stałych. Sprzedaż LFL w IV kwartale spadła o 0,5 proc. - podała spółka w komunikacie nt. wstępnych danych operacyjnych.",
+      "content_html": "",
+      "date_published": "2026-02-04T17:22:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mirbud-zlozyl-do-UOKiK-wniosek-o-nabycie-czesci-mienia-Pile-Elbud-9079160.html",
       "url": "https://www.bankier.pl/wiadomosc/Mirbud-zlozyl-do-UOKiK-wniosek-o-nabycie-czesci-mienia-Pile-Elbud-9079160.html",
       "title": "Mirbud złożył do UOKiK wniosek o nabycie części mienia Pile Elbud Mirbud złożył do Urzędu Ochrony Konkurencji i Konsumentów wniosek o koncentrację polegającą na nabyciu przez spółkę części mienia Pile Elbud, stanowiącej zorganizowaną część przedsiębiorstwa - podał UOKiK na swojej stronie.",
@@ -380,13 +394,6 @@
       "title": "All In! Games chce przeprowadzić emisję do 7 mln akcji s. K All In! Games podjął uchwałę w sprawie podwyższenia kapitału zakładowego w ramach kapitału docelowego, poprzez emisję nie więcej niż 7 mln akcji zwykłych na okaziciela serii K - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-02T18:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Znow-gornicy-w-roli-glownej-Gieldowy-zjazd-na-dol-i-powrot-na-powierzchnie-9078066.html",
-      "url": "https://www.bankier.pl/wiadomosc/Znow-gornicy-w-roli-glownej-Gieldowy-zjazd-na-dol-i-powrot-na-powierzchnie-9078066.html",
-      "title": "SESJA NA GPW Znów „górnicy” w roli głównej. Giełdowy zjazd na dół i powrót na powierzchnię Poniedziałkowa sesja na warszawskim parkiecie upłynęła pod znakiem niskiego otwarcia i odrabiania strat. Głównym aktorem rozegrania był kurs KGHM, który reagował na krach cen srebra. Szeroki rynek próbował stawiać opór przecenie, znajdując wsparcie w zwyżkach sektora bankowego.",
-      "content_html": "",
-      "date_published": "2026-02-02T17:20:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
