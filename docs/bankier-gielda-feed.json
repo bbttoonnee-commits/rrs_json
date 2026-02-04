@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Decyzja-RPP-w-lutym-2026-Rada-Polityki-Pienieznej-nie-zmienila-stop-procentowych-9078976.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-RPP-w-lutym-2026-Rada-Polityki-Pienieznej-nie-zmienila-stop-procentowych-9078976.html",
+      "title": "Rada Polityki Pieniężnej nie zmieniła stóp procentowych. Trwa „pauza” w „niecyklu” Już drugi raz w tym roku Rada Polityki Pieniężnej dała sobie na wstrzymanie i pozostawiała stopy procentowe na niezmienionych poziomach.",
+      "content_html": "",
+      "date_published": "2026-02-04T14:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-Asseco-Poland-spada-o-10-8-proc-przy-znizce-mWIG40-o-0-9-proc-9079088.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-Asseco-Poland-spada-o-10-8-proc-przy-znizce-mWIG40-o-0-9-proc-9079088.html",
+      "title": "Kurs Asseco Poland spada 10,8 proc., podczas gdy mWIG40 traci 0,9 proc. Kurs akcji Asseco Poland spada o 10,8 proc. do 194,3 zł przy wysokich obrotach. Indeks mWIG40 zniżkuje o 0,9 proc.",
+      "content_html": "",
+      "date_published": "2026-02-04T14:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Captor-widzi-szanse-na-przynajmniej-jeden-partnering-w-26-liczy-na-ok-70-mln-zl-wplywow-z-emisji-9079067.html",
+      "url": "https://www.bankier.pl/wiadomosc/Captor-widzi-szanse-na-przynajmniej-jeden-partnering-w-26-liczy-na-ok-70-mln-zl-wplywow-z-emisji-9079067.html",
+      "title": "Captor celuje w partnering w 2026 roku i ok. 70 mln zł z emisji Captor Therapeutics widzi szansę na nawiązanie przynajmniej jednego partneringu w 2026 r. - poinformowali przedstawiciele spółki podczas wideokonferencji. Z potencjalnej emisji akcji spółka liczy, że pozyska ok. 70 mln zł.",
+      "content_html": "",
+      "date_published": "2026-02-04T14:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
       "url": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
       "title": "Marża Orlenu leci w dół. Spadek do 8,8 USD w styczniu Modelowa marża rafineryjna Orlenu w styczniu 2026 roku spadła do 8,8 USD z 12,6 USD w grudniu 2025 roku - poinformował Orlen. Dyferencjał jest dodatni i wynosi 0,9 USD, wobec ujemnego dyferencjału w grudniu, który wyniósł -1 USD.",
@@ -345,20 +366,6 @@
       "title": "Rada Wierzycieli PKP Cargo zgłosiła zastrzeżenie do Planu Restrukturyzacyjnego Rady Wierzycieli PKP Cargo poinformowała, że na obecnym etapie odstępuje w swojej opinii od wyrażenia jednoznacznie pozytywnego bądź negatywnego stanowiska o Planie Restrukturyzacyjnym i zgłosiła zastrzeżenie do jego treści oraz zwróciła się do Sędziego-Komisarza o zobowiązanie zarządcy spółki do jego uzupełnienia - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-02T16:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-NanoGroup-rozpoczyna-proces-certyfikacji-produktu-NanOX-Recovery-Box-9077924.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-NanoGroup-rozpoczyna-proces-certyfikacji-produktu-NanOX-Recovery-Box-9077924.html",
-      "title": "Spółka zależna NanoGroup rozpoczyna proces certyfikacji produktu NanOX Recovery Box NanoSanguis, spółka zależna NanoGroup, zawarła umowę o współpracy z jednostką notyfikowaną TÜV NORD Polska, inicjując formalny proces certyfikacji produktu NanOX Recovery Box - podało NanoGroup.",
-      "content_html": "",
-      "date_published": "2026-02-02T14:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/3-miliardy-zl-z-podatku-cyfrowego-Standerski-To-jest-osiagalne-9077919.html",
-      "url": "https://www.bankier.pl/wiadomosc/3-miliardy-zl-z-podatku-cyfrowego-Standerski-To-jest-osiagalne-9077919.html",
-      "title": "3 miliardy zł z podatku cyfrowego? Standerski: To jest osiągalne Do 2030 roku możliwe jest osiągnięcie 3 mld zł wpływów z tytułu podatku od niektórych usług cyfrowych - poinformował PAP Biznes wiceminister cyfryzacji Dariusz Standerski. Dodał, że gaming jest kluczowym elementem strategii cyfryzacji Polski, a resort kultury może liczyć na MC w tej kwestii; wskazał również na potrzebę większej ochrony konsumenta na tym rynku.",
-      "content_html": "",
-      "date_published": "2026-02-02T13:58:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
