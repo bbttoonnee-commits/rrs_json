@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koszty-ryzyka-Santander-BP-w-26-moga-wzrosnac-ale-nie-przekrocza-50-pb-9078991.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koszty-ryzyka-Santander-BP-w-26-moga-wzrosnac-ale-nie-przekrocza-50-pb-9078991.html",
+      "title": "Koszty ryzyka Santander BP w '26 mogą wzrosnąć, ale nie przekroczą 50 pb Santander Bank Polska szacuje, że 2026 rok może przynieść wzrost kosztów ryzyka kredytowego, ale nie powinny one przekroczyć poziomu 50 pb - poinformował członek zarządu banku Maciej Reluga.",
+      "content_html": "",
+      "date_published": "2026-02-04T12:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mieszkaniowka-dwoch-predkosci-W-Krakowie-i-Katowicach-nadpodaz-Warszawa-wciaz-rynkiem-sprzedajacego-9078963.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mieszkaniowka-dwoch-predkosci-W-Krakowie-i-Katowicach-nadpodaz-Warszawa-wciaz-rynkiem-sprzedajacego-9078963.html",
+      "title": "Mieszkaniówka dwóch prędkości. W Krakowie i Katowicach nadpodaż, Warszawa wciąż rynkiem sprzedającego Sprzedaż mieszkań na siedmiu największych rynkach deweloperskich w styczniu 2026 r. spadła o 27 proc. mdm do poziomu 3,8 tys. - wynika z szacunków Otodom Analytics. Oferta nadal jest na rekordowym poziomie i na koniec stycznia sięgała 61,8 tys. lokali.",
+      "content_html": "",
+      "date_published": "2026-02-04T12:14:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nintendo-rozbija-bank-Switch-2-to-najszybciej-sprzedajaca-sie-konsola-w-historii-9078945.html",
       "url": "https://www.bankier.pl/wiadomosc/Nintendo-rozbija-bank-Switch-2-to-najszybciej-sprzedajaca-sie-konsola-w-historii-9078945.html",
       "title": "Nintendo rozbija bank. Switch 2 to najszybciej sprzedająca się konsola w historii Nintendo od premiery w czerwcu 2025 roku sprzedało 17,37 mln egzemplarzy konsoli Switch 2 - wynika z raportu japońskiej spółki za 9 miesięcy roku fiskalnego 2026, kończącego się w marcu 2026 roku. Spółka podtrzymała prognozy sprzedaży nowej konsoli na poziomie 19 mln sztuk do końca roku fiskalnego.",
@@ -345,27 +359,6 @@
       "title": "Allegro pod ostrzałem. Po Inpoście pozew składa Erli Platforma marketplace Erli złożyła przeciwko Allegro pozew, który obejmuje zarzuty m.in. nadużycia przez Allegro pozycji dominującej i stosowania czynów nieuczciwej konkurencji - podało Erli w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-02-02T13:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Moody-s-utrzymal-rating-Santander-Bank-Polska-na-poziomie-A2-i-podtrzymal-perspektywe-stabilna-9077861.html",
-      "url": "https://www.bankier.pl/wiadomosc/Moody-s-utrzymal-rating-Santander-Bank-Polska-na-poziomie-A2-i-podtrzymal-perspektywe-stabilna-9077861.html",
-      "title": "Moody's utrzymał rating Santander Bank Polska na poziomie A2 i podtrzymał perspektywę stabilną Agencja Moody's utrzymała rating Santander Bank Polska na poziomie A2 i podtrzymała perspektywę stabilną - podała agencja w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-02T12:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grawitacja-dotyczy-tez-zlota-i-srebra-Takich-spadkow-nie-pamietaja-najstarsi-inwestorzy-9077841.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grawitacja-dotyczy-tez-zlota-i-srebra-Takich-spadkow-nie-pamietaja-najstarsi-inwestorzy-9077841.html",
-      "title": "Grawitacja dotyczy też złota i srebra. Takich spadków nie pamiętają najstarsi inwestorzy W piątek doszło do bezprecedensowego krachu na rynkach metali szlachetnych. Tak dynamicznej korekty nie pamiętają nawet najstarsi weterani rynków metali szlachetnych.",
-      "content_html": "",
-      "date_published": "2026-02-02T12:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/eBilet-sprzedal-4-1-mln-biletow-w-2025-r-wzrost-o-prawie-12-proc-rdr-9077830.html",
-      "url": "https://www.bankier.pl/wiadomosc/eBilet-sprzedal-4-1-mln-biletow-w-2025-r-wzrost-o-prawie-12-proc-rdr-9077830.html",
-      "title": "eBilet sprzedał 4,1 mln biletów w 2025 r., wzrost o prawie 12 proc. rdr eBilet, z grupy Allegro, sprzedał w 2025 roku 4,1 mln biletów, co oznacza wzrost o prawie 12 proc. rdr - poinformował eBilet w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-02T12:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
