@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-szacuje-wplyw-kosztow-rebrandingu-na-wynik-w-26-na-ok-250-mln-zl-9078853.html",
+      "url": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-szacuje-wplyw-kosztow-rebrandingu-na-wynik-w-26-na-ok-250-mln-zl-9078853.html",
+      "title": "Kosztowny proces zmiany szyldu. Santander szacuje wydatki na rebranding na Erste Bank Polska",
+      "content_html": "Santander Bank Polska szacuje wpływ kosztów rebrandingu na Erste Bank Polska na wyniki w 2026 roku na około 250 mln zł - poinformował bank w prezentacji.",
+      "date_published": "2026-02-04T08:24:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Santander-Bank-Polska-w-IV-kw-25-wyniosl-1-84-mld-zl-powyzej-oczekiwan-9078830.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Santander-Bank-Polska-w-IV-kw-25-wyniosl-1-84-mld-zl-powyzej-oczekiwan-9078830.html",
       "title": "Wyniki banku powyżej konsensusu. Niższe rezerwy napędziły zysk Santandera",
       "content_html": "Zysk netto grupy Santander Bank Polska przypadający akcjonariuszom jednostki dominującej w IV kwartale 2025 r. wzrósł do 1.838,4 mln zł z 913,4 mln zł rok wcześniej - poinformował bank we wstępnych wynikach. Zysk okazał się 14,2 proc. powyżej...",
       "date_published": "2026-02-04T08:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grodno-szacuje-przychody-w-styczniu-26-na-76-7-mln-zl-spadek-o-4-proc-rdr-9078850.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grodno-szacuje-przychody-w-styczniu-26-na-76-7-mln-zl-spadek-o-4-proc-rdr-9078850.html",
+      "title": "Grodno szacuje przychody w styczniu '26 na 76,7 mln zł; spadek o 4 proc. rdr",
+      "content_html": "Grupa Grodno szacuje, że miała w styczniu 2026 roku 76,7 mln zł przychodów ze sprzedaży, w porównaniu do 80,3 mln zł przychodów rok wcześniej, co oznacza spadek o 4 proc. rdr - podała spółka w komunikacie.",
+      "date_published": "2026-02-04T08:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-rosnie-napiecie-USA-Iran-a-zapasy-ropy-mocno-spadaja-9078845.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-rosnie-napiecie-USA-Iran-a-zapasy-ropy-mocno-spadaja-9078845.html",
+      "title": "Ceny ropy rosną. Rośnie też napięcie USA-Iran, a zapasy ropy mocno spadają",
+      "content_html": "Ceny ropy naftowej rosną w trakcie sesji w środę w związku z ponownym pojawieniem się napięć na linii USA-Iran i doniesieniach o mocnym spadku amerykańskich zapasów ropy - informują maklerzy.",
+      "date_published": "2026-02-04T08:08:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Budimex-chce-zaprezentowac-nowa-strategie-w-2026-r-9078837.html",
@@ -681,27 +702,6 @@
       "title": "Bitcoin czy złoto na dołku? To państwo kupuje jedno i drugie",
       "content_html": "Salwador, który jako pierwszy uznał bitcoina za pełnoprawny środek płatniczy, nie zapomina o fundamentach. Jak poinformował Bank Centralny Salwadoru zwiększył on swoje rezerwy złota o grubo ponad ćwierć tony budując - jak to nazwał - „rozsądną...",
       "date_published": "2026-02-03T14:07:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KSeF-znow-problemy-z-logowaniem-Jak-dlugo-to-sie-bedzie-powtarzac-9078416.html",
-      "url": "https://www.bankier.pl/wiadomosc/KSeF-znow-problemy-z-logowaniem-Jak-dlugo-to-sie-bedzie-powtarzac-9078416.html",
-      "title": "KSeF: znów problemy z logowaniem. Jak długo to się będzie powtarzać?",
-      "content_html": "Przedsiębiorcy chcący skorzystać z Krajowego Systemu e-Faktur przeżywają déjà vu. Wczoraj nie mogli zalogować się do platformy przez awarię Profilu zaufanego, jednak wieczorem problem został zażegnany. Dziś sytuacja się powtarza.",
-      "date_published": "2026-02-03T14:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Energa-ma-ponad-1-GW-mocy-osiagalnej-OZE-szykuje-projekty-na-dalsze-ok-300-MW-9078460.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Energa-ma-ponad-1-GW-mocy-osiagalnej-OZE-szykuje-projekty-na-dalsze-ok-300-MW-9078460.html",
-      "title": "Grupa Energa ma ponad 1 GW mocy osiągalnej OZE, szykuje projekty na dalsze ok. 300 MW",
-      "content_html": "Moc osiągalna źródeł odnawialnych Grupy Energa przekroczyła 1 GW, zaś na finalizację czekają kolejne projekty OZE o łącznej mocy ok. 300 MW - podała spółka. OZE stanowi 57 procent łącznej mocy zainstalowanej Grupy.",
-      "date_published": "2026-02-03T14:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czy-Trump-uderzy-w-Iran-Ekspert-W-gre-wchodzi-krotka-operacja-niszczaca-potencjal-9078430.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czy-Trump-uderzy-w-Iran-Ekspert-W-gre-wchodzi-krotka-operacja-niszczaca-potencjal-9078430.html",
-      "title": "Czy Trump uderzy w Iran? Ekspert: W grę wchodzi krótka operacja niszcząca potencjał",
-      "content_html": "Prezydent USA Donald Trump nie jest chętny do rozpoczęcia wojny z Iranem, może jednak podjąć decyzję o przeprowadzeniu krótkiej, ograniczonej operacji militarnej która zniszczy kluczowe irańskie zdolności wojskowe – ocenił w Studiu PAP dr...",
-      "date_published": "2026-02-03T13:41:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
