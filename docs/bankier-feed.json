@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079916.html",
+      "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079916.html",
+      "title": "URE wszczęło postępowanie wobec Enei",
+      "content_html": "Prezes URE wszczął postępowanie wobec Enei w przedmiocie wydania decyzji o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny (FWRC) kwoty stanowiącej różnicę pomiędzy odpisem wniesionym na rzecz funduszu przez spółkę w latach...",
+      "date_published": "2026-02-05T22:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
+      "title": "Spadki na Wall Street nabierają rozpędu. Trzecia spadkowa sesja z rzędu",
+      "content_html": "Wokół sektora AI pojawia się coraz więcej wątpliwości. Rynek zadaje pytania, czy tak wysokie wyceny są uzasadnione w świetle możliwych do osiągnięcia zysków.",
+      "date_published": "2026-02-05T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079893.html",
       "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079893.html",
       "title": "URE wszczęło postępowanie wobec Enei",
@@ -688,20 +702,6 @@
       "title": "Trump wycofuje się z bitwy o Warner Bros. Discovery. „Walczą jak opętani\"",
       "content_html": "Prezydent USA Donald Trump powiedział w środę, że nie będzie angażował się w walkę między Netflixem a Paramount Skydance o przejęcie koncernu Warner Bros Discovery. Wcześniej sygnalizował osobiste zaangażowanie w ten proces.",
       "date_published": "2026-02-05T08:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejny-blackout-na-Kubie-Brak-paliw-i-presja-USA-pograzaja-system-9079380.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejny-blackout-na-Kubie-Brak-paliw-i-presja-USA-pograzaja-system-9079380.html",
-      "title": "Kolejny blackout na Kubie. Brak paliw i presja USA pogrążają system",
-      "content_html": "Wschodnie prowincje Kuby zostały w środę czasu miejscowego odcięte od dostaw prądu w związku z wstrzymaniem pracy elektrowni – ogłosiła państwowa firma UNE, odpowiadająca za przesył energii. W kraju pogłębia się kryzys, spowodowany brakiem...",
-      "date_published": "2026-02-05T08:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-w-dol-po-raz-pierwszy-od-3-sesji-po-zapowiedzi-rozmow-USA-Iran-9079412.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-w-dol-po-raz-pierwszy-od-3-sesji-po-zapowiedzi-rozmow-USA-Iran-9079412.html",
-      "title": "Ropa w dół po raz pierwszy od 3 sesji po zapowiedzi rozmów USA-Iran",
-      "content_html": "Ceny ropy naftowej spadają po raz pierwszy od 3 sesji po tym, jak Iran potwierdził piątkowe negocjacje z USA - informują maklerzy.",
-      "date_published": "2026-02-05T07:58:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

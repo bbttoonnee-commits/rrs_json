@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 05 Feb 2026 20:50:00 +0100</lastBuildDate>
-    <item>
-      <title>Ropa w dół po raz pierwszy od 3 sesji po zapowiedzi rozmów USA-Iran</title>
-      <link>https://www.bankier.pl/wiadomosc/Ropa-w-dol-po-raz-pierwszy-od-3-sesji-po-zapowiedzi-rozmow-USA-Iran-9079412.html</link>
-      <description>Ceny ropy naftowej spadają po raz pierwszy od 3 sesji po tym, jak Iran potwierdził piątkowe negocjacje z USA - informują maklerzy.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ropa-w-dol-po-raz-pierwszy-od-3-sesji-po-zapowiedzi-rozmow-USA-Iran-9079412.html</guid>
-      <pubDate>Thu, 05 Feb 2026 07:58:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kolejny blackout na Kubie. Brak paliw i presja USA pogrążają system</title>
-      <link>https://www.bankier.pl/wiadomosc/Kolejny-blackout-na-Kubie-Brak-paliw-i-presja-USA-pograzaja-system-9079380.html</link>
-      <description>Wschodnie prowincje Kuby zostały w środę czasu miejscowego odcięte od dostaw prądu w związku z wstrzymaniem pracy elektrowni – ogłosiła państwowa firma UNE, odpowiadająca za przesył energii. W kraju pogłębia się kryzys, spowodowany brakiem...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kolejny-blackout-na-Kubie-Brak-paliw-i-presja-USA-pograzaja-system-9079380.html</guid>
-      <pubDate>Thu, 05 Feb 2026 08:04:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Feb 2026 22:15:00 +0100</lastBuildDate>
     <item>
       <title>Trump wycofuje się z bitwy o Warner Bros. Discovery. „Walczą jak opętani"</title>
       <link>https://www.bankier.pl/wiadomosc/Trump-wycofuje-sie-z-bitwy-o-Warner-Bros-Discovery-Walcza-jak-opetani-9079354.html</link>
@@ -708,6 +694,20 @@
       <description>Prezes URE wszczął postępowanie wobec Enei w przedmiocie wydania decyzji o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny (FWRC) kwoty stanowiącej różnicę pomiędzy odpisem wniesionym na rzecz funduszu przez spółkę w latach...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079893.html</guid>
       <pubDate>Thu, 05 Feb 2026 20:50:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Spadki na Wall Street nabierają rozpędu. Trzecia spadkowa sesja z rzędu</title>
+      <link>https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html</link>
+      <description>Wokół sektora AI pojawia się coraz więcej wątpliwości. Rynek zadaje pytania, czy tak wysokie wyceny są uzasadnione w świetle możliwych do osiągnięcia zysków.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html</guid>
+      <pubDate>Thu, 05 Feb 2026 22:05:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>URE wszczęło postępowanie wobec Enei</title>
+      <link>https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079916.html</link>
+      <description>Prezes URE wszczął postępowanie wobec Enei w przedmiocie wydania decyzji o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny (FWRC) kwoty stanowiącej różnicę pomiędzy odpisem wniesionym na rzecz funduszu przez spółkę w latach...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079916.html</guid>
+      <pubDate>Thu, 05 Feb 2026 22:15:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

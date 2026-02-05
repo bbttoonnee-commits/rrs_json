@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
+      "title": "Spadki na Wall Street nabierają rozpędu. Trzecia spadkowa sesja z rzędu Wokół sektora AI pojawia się coraz więcej wątpliwości. Rynek zadaje pytania, czy tak wysokie wyceny są uzasadnione w świetle możliwych do osiągnięcia zysków.",
+      "content_html": "",
+      "date_published": "2026-02-05T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079893.html",
       "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079893.html",
       "title": "URE wszczęło postępowanie wobec Enei Prezes URE wszczął postępowanie wobec Enei w przedmiocie wydania decyzji o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny (FWRC) kwoty stanowiącej różnicę pomiędzy odpisem wniesionym na rzecz funduszu przez spółkę w latach 2023-2025 a kwotą obliczoną przez Prezesa URE - podała Enea w komunikacie.",
@@ -373,13 +380,6 @@
       "title": "BUDŻET 2026 Pentagon z budżetem, DHS na krótkiej smyczy. W USA koniec shutdownu Prezydent USA Donald Trump podpisał we wtorek w Gabinecie Owalnym pakiet ustaw budżetowych, przyjęty wcześniej przez Kongres, dzięki czemu w Stanach Zjednoczonych zakończył się trwający od soboty częściowy shutdown, czyli paraliż agencji rządowych.",
       "content_html": "",
       "date_published": "2026-02-03T23:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Bigtechy-ponownie-w-nielasce-inwestorow-9078752.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Bigtechy-ponownie-w-nielasce-inwestorow-9078752.html",
-      "title": "Spadki na Wall Street. Bigtechy ponownie w niełasce inwestorów Przeceniano zwłaszcza tak modne w ostatnich latach wielkie spółki technologiczne. Złoto zaliczyło najlepszy dzień od 2008 roku, a walory PayPala zanurkowały o 20%.",
-      "content_html": "",
-      "date_published": "2026-02-03T22:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
