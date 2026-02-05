@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079893.html",
+      "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079893.html",
+      "title": "URE wszczęło postępowanie wobec Enei Prezes URE wszczął postępowanie wobec Enei w przedmiocie wydania decyzji o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny (FWRC) kwoty stanowiącej różnicę pomiędzy odpisem wniesionym na rzecz funduszu przez spółkę w latach 2023-2025 a kwotą obliczoną przez Prezesa URE - podała Enea w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-05T20:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-chce-w-marcu-porozumiec-sie-z-Orlenem-ws-sprzedazy-Grupy-Azoty-Polyolefins-9079885.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-chce-w-marcu-porozumiec-sie-z-Orlenem-ws-sprzedazy-Grupy-Azoty-Polyolefins-9079885.html",
+      "title": "Grupa Azoty chce w marcu porozumieć się z Orlenem ws. sprzedaży Grupy Azoty Polyolefins Grupa Azoty chce w marcu porozumieć się z Orlenem w kwestii sprzedaży Grupy Azoty Polyolefins - wskazał wiceprezes Grupy Azoty Paweł Bielski. Dodał, że liczy na jak najszybsze porozumienie z bankami, które są wierzycielami Azotów.",
+      "content_html": "",
+      "date_published": "2026-02-05T20:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Tauronu-Sprzedaz-oraz-Tauronu-Sprzedaz-GZE-9079875.html",
       "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Tauronu-Sprzedaz-oraz-Tauronu-Sprzedaz-GZE-9079875.html",
       "title": "URE wszczęło postępowanie wobec Tauronu Sprzedaż oraz Tauronu Sprzedaż GZE URE wszczęło postępowanie wobec Tauronu Sprzedaż oraz Tauronu Sprzedaż GZE w przedmiocie decyzji o obowiązku przekazania przez spółki na rachunek Funduszu Wypłaty Różnicy Ceny kwot stanowiących różnice między odpisami na Fundusz obliczonymi przez URE a odpisami na Fundusz wpłaconymi przez spółki - podał Tauron w komunikacie.",
@@ -366,13 +380,6 @@
       "title": "Spadki na Wall Street. Bigtechy ponownie w niełasce inwestorów Przeceniano zwłaszcza tak modne w ostatnich latach wielkie spółki technologiczne. Złoto zaliczyło najlepszy dzień od 2008 roku, a walory PayPala zanurkowały o 20%.",
       "content_html": "",
       "date_published": "2026-02-03T22:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bruksela-bada-chinskie-turbiny-Zarzuty-o-zaburzanie-konkurencji-przez-dotacje-od-Pekinu-9078648.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bruksela-bada-chinskie-turbiny-Zarzuty-o-zaburzanie-konkurencji-przez-dotacje-od-Pekinu-9078648.html",
-      "title": "Bruksela bada chińskie turbiny. Zarzuty o zaburzanie konkurencji przez dotacje od Pekinu Komisja Europejska poinformowała w środę o wszczęciu postępowania w sprawie chińskiego giganta turbinowego Goldwind. KE podejrzewa, że subsydia przyznane spółce przez chiński rząd zaburzyły konkurencję w sektorze energetyki wiatrowej.",
-      "content_html": "",
-      "date_published": "2026-02-03T20:24:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
