@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Modelowa-marza-Grupy-Orlen-runela-o-60-proc-w-dwa-miesiace-Co-sie-dzieje-z-biznesem-giganta-9079109.html",
+      "url": "https://www.bankier.pl/wiadomosc/Modelowa-marza-Grupy-Orlen-runela-o-60-proc-w-dwa-miesiace-Co-sie-dzieje-z-biznesem-giganta-9079109.html",
+      "title": "Orlen: modelowa marża w dół o 60 proc. w dwa miesiące. Co się dzieje z gigantem? Biznes rafineryjny Orlenu doświadcza konsekwentnej erozji modelowej marży rafineryjnej. Według styczniowych danych jej poziom był najniższy od marca 2025 r. i oznaczał, że w dwa miesiące spadła ona o blisko 60 proc. Póki co, to koniec nadzwyczajny wyników rafinerii i powrót do marż z 2024 r.",
+      "content_html": "",
+      "date_published": "2026-02-05T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-w-Ameryce-S-P500-odpadl-od-szczytu-9079329.html",
       "url": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-w-Ameryce-S-P500-odpadl-od-szczytu-9079329.html",
       "title": "Ciąg dalszy spadków w Ameryce. S&P500 odpadł od szczytu Jeszcze w poniedziałek S&P500 był blisko poziomu 7 000 punktów. Ale we wtorek i w środę zaliczy spadki, odpadając od historycznego szczytu.",
@@ -373,20 +380,6 @@
       "title": "EBOR zainwestował 120 mln zł w emisję euroobligacji Banku Millennium EBOR zainwestował 120 mln zł w emisję euroobligacji Banku Millennium - poinformował EBOR w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-03T07:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Surowcowa-hossa-w-Portfelu-Gwiazd-Technologiczny-zwyciezca-stycznia-9078013.html",
-      "url": "https://www.bankier.pl/wiadomosc/Surowcowa-hossa-w-Portfelu-Gwiazd-Technologiczny-zwyciezca-stycznia-9078013.html",
-      "title": "Surowcowa hossa w Portfelu Gwiazd. Technologiczny zwycięzca stycznia Nowe rozdanie Portfela Gwiazd w 2026 r. prowadzi do jednoznacznych wniosków: surowce to obecnie najbardziej gorący towar na rynku, a wartość metali szlachetnych rośnie najszybciej w historii. Nie oznacza, to że wśród inwestycyjnych aktywów wybranych na styczeń nie znalazły się inne hity jak indeks giełdowy zyskujący ponad 70 proc. w jeden miesiąc czy spółka z GPW dająca blisko 65-stopę zwrotu. Który portfel dał więc teoretycznie zarobić najwięcej?",
-      "content_html": "",
-      "date_published": "2026-02-03T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zimowa-pauza-w-cyklu-obnizek-Co-w-lutym-zadecyduje-Rada-Polityki-Pienieznej-9077938.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zimowa-pauza-w-cyklu-obnizek-Co-w-lutym-zadecyduje-Rada-Polityki-Pienieznej-9077938.html",
-      "title": "Zimowa „pauza” w cyklu obniżek? Co w lutym zadecyduje Rada Polityki Pieniężnej? Zarówno rynkowy konsensus, jak i zdrowy rozsądek sugerowałyby wydłużenie styczniowej pauzy w ramach „niecyklu” obniżek stóp procentowych w Polsce.",
-      "content_html": "",
-      "date_published": "2026-02-03T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
