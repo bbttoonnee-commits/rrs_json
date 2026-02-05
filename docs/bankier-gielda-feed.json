@@ -6,7 +6,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-sprzedali-lacznie-763-300-akcji-w-cenie-3-6-zl-za-papier-9079834.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-sprzedali-lacznie-763-300-akcji-w-cenie-3-6-zl-za-papier-9079834.html",
-      "title": "Akcjonariusze Mex Polska sprzedali łącznie 763.300 akcji w cenie 3,6 zł za papier Akcjonariusze Mex Polska, MEX Fundacja Rodzinna i OSTOJA Fundacja Rodzinna zakończyli proces sprzedaży posiadanych akcji spółki - podał Mex Polska w komunikacie. Ostateczna liczba sprzedanych akcji to łącznie 763.300 (po 381.650 szt.) papierów, co stanowiło 9,96 proc. udziału w kapitale zakładowym.",
+      "title": "Akcjonariusze Mex Polska sprzedali łącznie 763 300 akcji w cenie 3,6 zł za papier Akcjonariusze Mex Polska, MEX Fundacja Rodzinna i OSTOJA Fundacja Rodzinna zakończyli proces sprzedaży posiadanych akcji spółki - podał Mex Polska w komunikacie. Ostateczna liczba sprzedanych akcji to łącznie 763 300 (po 381 650 szt.) papierów, co stanowiło 9,96 proc. udziału w kapitale zakładowym.",
       "content_html": "",
       "date_published": "2026-02-05T18:12:00+01:00"
     },
@@ -270,6 +270,13 @@
       "date_published": "2026-02-04T10:54:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Santander-BP-spelnia-wymogi-do-wyplaty-dywidendy-w-wysokosci-75-proc-zysku-9078915.html",
+      "url": "https://www.bankier.pl/wiadomosc/Santander-BP-spelnia-wymogi-do-wyplaty-dywidendy-w-wysokosci-75-proc-zysku-9078915.html",
+      "title": "Santander BP spełnia wymogi do wypłaty dywidendy w wysokości 75 proc. zysku Santander Bank Polska, który zmieni się w Erste Bank Polska, ocenia, że spełnia wymogi do wypłaty dywidendy w wysokości 75 proc. zysku za 2025 rok – poinformował prezes banku Michał Gajewski.",
+      "content_html": "",
+      "date_published": "2026-02-04T10:16:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-szacuje-wplyw-kosztow-rebrandingu-na-wynik-w-26-na-ok-250-mln-zl-9078853.html",
       "url": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-szacuje-wplyw-kosztow-rebrandingu-na-wynik-w-26-na-ok-250-mln-zl-9078853.html",
       "title": "Kosztowny proces zmiany szyldu. Santander szacuje wydatki na rebranding na Erste Bank Polska Santander Bank Polska szacuje wpływ kosztów rebrandingu na Erste Bank Polska na wyniki w 2026 roku na około 250 mln zł - poinformował bank w prezentacji.",
@@ -359,13 +366,6 @@
       "title": "40 zł podatku za jeden wkład do e-papierosa? Rząd szykuje drastyczną zmianę w akcyzie Resort finansów planuje wprowadzić definicje nowego rodzaju wyrobów akcyzowych tj. wkładów do wielorazowych e-papierosów i pobierać od nich podatek - wynika z założeń projektu noweli ustawy o podatku akcyzowym. Stawka podatku na wkłady miałaby wynieść 40 zł.",
       "content_html": "",
       "date_published": "2026-02-03T19:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Padl-energetyczny-rekord-wszech-czasow-27-7-GW-mocy-przy-minus-20-stopniach-9078518.html",
-      "url": "https://www.bankier.pl/wiadomosc/Padl-energetyczny-rekord-wszech-czasow-27-7-GW-mocy-przy-minus-20-stopniach-9078518.html",
-      "title": "Padł energetyczny rekord wszech czasów. 27,7 GW mocy przy minus 20 stopniach We wtorek odnotowano rekordowe, najwyższe w historii zapotrzebowanie Krajowego Systemu Elektroenergetycznego na moc - podały na stronie internetowej Polskie Sieci Elektroenergetyczne. Operator zapewnił, że system cały czas pracuje bezpiecznie i jest zachowana wymagana rezerwa mocy.",
-      "content_html": "",
-      "date_published": "2026-02-03T18:38:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
