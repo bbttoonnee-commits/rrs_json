@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Art-Games-Studio-rozpocznie-przeglad-opcji-strategicznych-9079449.html",
+      "url": "https://www.bankier.pl/wiadomosc/Art-Games-Studio-rozpocznie-przeglad-opcji-strategicznych-9079449.html",
+      "title": "Art Games Studio rozpocznie przegląd opcji strategicznych Art Games Studio zdecydowało o rozpoczęciu procesu przeglądu opcji strategicznych - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-05T09:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/ElevenLabs-warta-11-mld-dolarow-Spolka-potroila-wycene-i-celuje-w-gielde-9079325.html",
       "url": "https://www.bankier.pl/wiadomosc/ElevenLabs-warta-11-mld-dolarow-Spolka-potroila-wycene-i-celuje-w-gielde-9079325.html",
       "title": "ElevenLabs warte 11 mld dolarów. Spółka potroiła wycenę i celuje w giełdę ElevenLabs, londyńska spółka założona przez dwójkę Polaków, pozyskał w rundzie D kwotę 500 mln USD, co daje wycenę całej firmy na poziomie 11 mld USD, trzykrotnie wyższą niż jeszcze rok temu. Prezes Mati Staniszewski zapowiada przygotowania spółki do IPO.",
@@ -373,13 +380,6 @@
       "title": "Defence.Hub przeniesie działalność gamingową do Klabater i sprzeda ją na rzecz Untold Tales Defence.Hub zamierza sfinalizować przeniesienie działalności gamingowej na spółkę zależną Klabater, a następnie sprzedać 100 proc. jej akcji na rzecz Untold Tales, z którą podpisał term sheet w tej sprawie - podał Defence.Hub.",
       "content_html": "",
       "date_published": "2026-02-03T09:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-rosnie-o-6-5-proc-WIG20-zwyzkuje-o-1-2-proc-9078291.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-rosnie-o-6-5-proc-WIG20-zwyzkuje-o-1-2-proc-9078291.html",
-      "title": "KGHM odbija po bolesnej korekcie. Gigant odpowiada za połowę obrotu na GPW Kurs akcji KGHM rośnie o 6,5 proc. do 332,6 zł, przy zwyżce WIG20 o 1,2 proc. Spółka notuje najwyższe obroty na rynku.",
-      "content_html": "",
-      "date_published": "2026-02-03T09:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
