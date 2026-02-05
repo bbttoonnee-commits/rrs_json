@@ -4,9 +4,16 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orange-postuluje-powrot-do-dyskusji-na-temat-wykorzystania-pasma-26-GHz-w-perspektywie-dwoch-lat-9079542.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orange-postuluje-powrot-do-dyskusji-na-temat-wykorzystania-pasma-26-GHz-w-perspektywie-dwoch-lat-9079542.html",
+      "title": "Orange postuluje powrót do dyskusji na temat wykorzystania pasma 26 GHz w perspektywie dwóch lat Orange postuluje powrót do dyskusji na temat wykorzystania pasma 26 GHz w perspektywie dwóch lat - napisała spółka w opinii dla UKE.",
+      "content_html": "",
+      "date_published": "2026-02-05T12:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Allegro-i-Meta-rozpoczynaja-wspolprace-ogloszenia-z-Allegro-Lokalnie-beda-na-Facebook-Marketplace-9079525.html",
       "url": "https://www.bankier.pl/wiadomosc/Allegro-i-Meta-rozpoczynaja-wspolprace-ogloszenia-z-Allegro-Lokalnie-beda-na-Facebook-Marketplace-9079525.html",
-      "title": "Allegro i Meta rozpoczynają współpracę; ogłoszenia z Allegro Lokalnie będą na Facebook Marketplace Allegro i Meta rozpoczynają współpracę i w ramach nowej usługi wybrane ogłoszenia osób prywatnych z Allegro Lokalnie mogą być dodatkowo wyświetlane na Facebook Marketplace - poinformowała spółka w komunikacie prasowym.",
+      "title": "Allegro i Meta łączą siły. Ogłoszenia z \"Lokalnie\" trafią na Facebooka Allegro i Meta rozpoczynają współpracę i w ramach nowej usługi wybrane ogłoszenia osób prywatnych z Allegro Lokalnie mogą być dodatkowo wyświetlane na Facebook Marketplace - poinformowała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-02-05T11:32:00+01:00"
     },
@@ -366,20 +373,6 @@
       "title": "KGHM ma 209 mln zł pożyczki z BGK na finansowanie projektów PV; środki pochodzą z KPO Bank Gospodarstwa Krajowego (BGK) udzielił KGHM pożyczkę na kwotę 209 mln zł na sfinansowanie budowy czterech instalacji fotowoltaicznych o łącznej mocy 94 MW - podał koncern. Podkreślił, że finansowanie pochodzi ze środków z Krajowego Planu Odbudowy i Zwiększania Odporności (KPO).",
       "content_html": "",
       "date_published": "2026-02-03T12:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-stycznia-wyniosla-9-28-mld-zl-9078349.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-stycznia-wyniosla-9-28-mld-zl-9078349.html",
-      "title": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec stycznia wyniosła 9,28 mld zł Wartość aktywów pod zarządzaniem Quercus TFI na koniec stycznia 2026 r. wyniosła 9.276,4 mln zł, wobec 9.021,0 mln zł na koniec grudnia 2025 r. - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-03T12:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Maspex-na-zakupach-Purcari-przejmuje-rumunska-winnice-Serve-Ceptura-9078368.html",
-      "url": "https://www.bankier.pl/wiadomosc/Maspex-na-zakupach-Purcari-przejmuje-rumunska-winnice-Serve-Ceptura-9078368.html",
-      "title": "Maspex na zakupach. Purcari przejmuje rumuńską winnicę Serve Ceptura Purcari Wineries, rumuńska firma, której większościowym akcjonariuszem jest Maspex, złożyła formalną wiążącą ofertę dotyczącą potencjalnego nabycia 100 proc. udziałów w Serve Ceptura SRL, rumuńskim producencie wina z regionu Dealu Mare - podało Purcari Wineries.",
-      "content_html": "",
-      "date_published": "2026-02-03T11:44:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
