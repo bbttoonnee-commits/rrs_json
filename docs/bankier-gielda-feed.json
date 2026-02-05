@@ -4,18 +4,25 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Analiza-techniczna-piekne-wybicie-Apatora-gorzej-prezentuje-sie-kurs-Arlenu-9079631.html",
+      "url": "https://www.bankier.pl/wiadomosc/Analiza-techniczna-piekne-wybicie-Apatora-gorzej-prezentuje-sie-kurs-Arlenu-9079631.html",
+      "title": "INWESTOR WOJTEK Analiza techniczna: piękne wybicie Apatora, gorzej prezentuje się kurs Arlenu Prof. Krzysztof Borowski przyjrzał się akcjom z mojego portfela. Optymistycznie wygląda m.in. kurs Apatora, siłą imponuje Atrem, za to Arlen nie może stanąć na nogi.",
+      "content_html": "",
+      "date_published": "2026-02-05T15:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KPPD-Szczecinek-ma-umowe-sprzedazy-nieruchomosci-za-5-5-mln-zl-9079693.html",
+      "url": "https://www.bankier.pl/wiadomosc/KPPD-Szczecinek-ma-umowe-sprzedazy-nieruchomosci-za-5-5-mln-zl-9079693.html",
+      "title": "KPPD-Szczecinek ma umowę sprzedaży nieruchomości za 5,5 mln zł KPPD-Szczecinek ma umowę sprzedaży nieruchomości stanowiącej Skład Fabryczny w Koszalinie za 5,5 mln zł netto, co wpłynie na poprawę wyniku finansowego spółki o ok. 4,6 mln zł - podała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-02-05T15:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DEBATA-Chemia-w-Europie-stoi-przed-wyzwaniami-szanse-w-technologii-i-lagodzeniu-regulacji-9079661.html",
       "url": "https://www.bankier.pl/wiadomosc/DEBATA-Chemia-w-Europie-stoi-przed-wyzwaniami-szanse-w-technologii-i-lagodzeniu-regulacji-9079661.html",
       "title": "DEBATA Chemia w Europie stoi przed wyzwaniami. Szanse w technologii i łagodzeniu regulacji Słaba kondycja europejskiej chemii, obciążonej wysokimi kosztami energii i narastającą konkurencją spoza UE oraz poszukiwanie rozwiązań i możliwości poprawy - to główne tematy debaty z udziałem przedstawicieli firm chemicznych podczas konferencji Future Talks by Siemens.",
       "content_html": "",
       "date_published": "2026-02-05T14:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inwestor-Wojtek-czego-nauczyl-mnie-krach-na-srebrze-9078480.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inwestor-Wojtek-czego-nauczyl-mnie-krach-na-srebrze-9078480.html",
-      "title": "INWESTOR WOJTEK Czego nauczył mnie krach na srebrze? W rynkach finansowych pociągające jest to, że od czasu do czasu stajemy się uczestnikami historycznych wydarzeń. Takim był bez wątpienia piątkowy krach na srebrze.",
-      "content_html": "",
-      "date_published": "2026-02-05T14:36:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Decyzja-EBC-w-lutym-2026-roku-Stopy-procentowe-pozostaly-bez-zmian-9079548.html",
@@ -373,13 +380,6 @@
       "title": "RN Enter Air wybrała Marcina Kubraka na prezesa zarządu Rada Nadzorcza Enter Air podjęła uchwałę o powierzeniu funkcji prezesa zarządu dotychczasowemu członkowi zarządu spółki Marcinowi Kubrakowi z dniem 3 lutego 2026 r. - podała spółka w komunikacie. Dodatkowo, RN powołała Konrada Dymowskiego na funkcję członka zarządu z dniem 1 marca 2026 r.",
       "content_html": "",
       "date_published": "2026-02-03T16:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-JSW-spada-o-10-8-proc-indeks-mWIG40-zwyzkuje-o-1-proc-9078519.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-JSW-spada-o-10-8-proc-indeks-mWIG40-zwyzkuje-o-1-proc-9078519.html",
-      "title": "Kurs JSW spada o 10,8 proc. Indeks mWIG40 zwyżkuje o 1 proc. Kurs akcji JSW spada o 10,8 proc. do 29 zł, przy wzroście indeksu mWIG40 o 1 proc.",
-      "content_html": "",
-      "date_published": "2026-02-03T15:37:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
