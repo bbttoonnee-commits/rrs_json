@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Tauronu-Sprzedaz-oraz-Tauronu-Sprzedaz-GZE-9079875.html",
+      "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Tauronu-Sprzedaz-oraz-Tauronu-Sprzedaz-GZE-9079875.html",
+      "title": "URE wszczęło postępowanie wobec Tauronu Sprzedaż oraz Tauronu Sprzedaż GZE URE wszczęło postępowanie wobec Tauronu Sprzedaż oraz Tauronu Sprzedaż GZE w przedmiocie decyzji o obowiązku przekazania przez spółki na rachunek Funduszu Wypłaty Różnicy Ceny kwot stanowiących różnice między odpisami na Fundusz obliczonymi przez URE a odpisami na Fundusz wpłaconymi przez spółki - podał Tauron w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-05T20:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Energi-Obrot-9079867.html",
+      "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Energi-Obrot-9079867.html",
+      "title": "URE wszczęło postępowanie wobec Energi Obrót Urząd Regulacji Energetyki wszczął postępowanie wobec Energi Obrót w przedmiocie decyzji nakładającej na spółkę obowiązek przekazania na rachunek Funduszu Wypłaty Różnicy Ceny różnicy pomiędzy odpisem na fundusz w sprawozdaniach - podała Energa w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-05T19:44:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-sprzedali-lacznie-763-300-akcji-w-cenie-3-6-zl-za-papier-9079834.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-sprzedali-lacznie-763-300-akcji-w-cenie-3-6-zl-za-papier-9079834.html",
       "title": "Akcjonariusze Mex Polska sprzedali łącznie 763 300 akcji w cenie 3,6 zł za papier Akcjonariusze Mex Polska, MEX Fundacja Rodzinna i OSTOJA Fundacja Rodzinna zakończyli proces sprzedaży posiadanych akcji spółki - podał Mex Polska w komunikacie. Ostateczna liczba sprzedanych akcji to łącznie 763 300 (po 381 650 szt.) papierów, co stanowiło 9,96 proc. udziału w kapitale zakładowym.",
@@ -359,13 +373,6 @@
       "title": "Bruksela bada chińskie turbiny. Zarzuty o zaburzanie konkurencji przez dotacje od Pekinu Komisja Europejska poinformowała w środę o wszczęciu postępowania w sprawie chińskiego giganta turbinowego Goldwind. KE podejrzewa, że subsydia przyznane spółce przez chiński rząd zaburzyły konkurencję w sektorze energetyki wiatrowej.",
       "content_html": "",
       "date_published": "2026-02-03T20:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/40-zl-podatku-za-jeden-wklad-do-e-papierosa-Rzad-szykuje-drastyczna-zmiane-w-akcyzie-9078623.html",
-      "url": "https://www.bankier.pl/wiadomosc/40-zl-podatku-za-jeden-wklad-do-e-papierosa-Rzad-szykuje-drastyczna-zmiane-w-akcyzie-9078623.html",
-      "title": "40 zł podatku za jeden wkład do e-papierosa? Rząd szykuje drastyczną zmianę w akcyzie Resort finansów planuje wprowadzić definicje nowego rodzaju wyrobów akcyzowych tj. wkładów do wielorazowych e-papierosów i pobierać od nich podatek - wynika z założeń projektu noweli ustawy o podatku akcyzowym. Stawka podatku na wkłady miałaby wynieść 40 zł.",
-      "content_html": "",
-      "date_published": "2026-02-03T19:57:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
