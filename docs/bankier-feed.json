@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Przecena-na-GPW-zahamowana-Orlen-z-rekordowa-kapitalizacja-kurs-KGHM-niebywale-spokojny-9080375.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przecena-na-GPW-zahamowana-Orlen-z-rekordowa-kapitalizacja-kurs-KGHM-niebywale-spokojny-9080375.html",
+      "title": "Przecena na GPW zahamowana. Orlen z rekordową kapitalizacją, kurs KGHM niebywale spokojny",
+      "content_html": "Choć główne indeksy zdołały utrzymać się nad kreską, a byki podjęły próbę stabilizacji po czwartkowej przecenie, sesja nie pokazała dużej chęci do wykupywania dołków, jaką w ostatnim czasie widzieliśmy dość często. WIG20 był słabszy...",
+      "date_published": "2026-02-06T17:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-styczniu-363-2-mln-zl-przychodow-wzrost-rdr-o-3-4-proc-9080370.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-styczniu-363-2-mln-zl-przychodow-wzrost-rdr-o-3-4-proc-9080370.html",
+      "title": "Grupa Auto Partner miała w styczniu 363,2 mln zł przychodów, wzrost rdr o 3,4 proc.",
+      "content_html": "Skonsolidowane przychody grupy Auto Partner w styczniu 2026 roku wyniosły 363,2 mln zł, co oznacza wzrost rdr o 3,4 proc. - podała spółka w komunikacie. (PAP Biznes)",
+      "date_published": "2026-02-06T17:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ziobro-poszukiwany-Wydano-list-gonczy-za-bylym-ministrem-sprawiedliwosci-9080328.html",
       "url": "https://www.bankier.pl/wiadomosc/Ziobro-poszukiwany-Wydano-list-gonczy-za-bylym-ministrem-sprawiedliwosci-9080328.html",
       "title": "Ziobro poszukiwany. Wydano list gończy za byłym ministrem sprawiedliwości",
@@ -550,6 +564,13 @@
       "date_published": "2026-02-06T07:17:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Drastyczne-ciecia-w-Agence-France-Presse-Liczba-korespondentow-spadnie-trzykrotnie-9079901.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drastyczne-ciecia-w-Agence-France-Presse-Liczba-korespondentow-spadnie-trzykrotnie-9079901.html",
+      "title": "Drastyczne cięcia w Agence France-Presse. Liczba korespondentów spadnie trzykrotnie",
+      "content_html": "Dziennikarze francuskiej agencji prasowej AFP ogłosili w czwartek list otwarty w dzienniku „Le Monde”, w którym protestują przeciwko planom redukcji etatów za granicą. Cięcia mają dotknąć dziennikarzy wysyłanych do pracy w zagranicznych...",
+      "date_published": "2026-02-06T07:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/UBS-obnizyl-rekomendacje-PKO-do-neutralnie-9079986.html",
       "url": "https://www.bankier.pl/wiadomosc/UBS-obnizyl-rekomendacje-PKO-do-neutralnie-9079986.html",
       "title": "UBS obniżył rekomendację PKO do \"neutralnie\"",
@@ -681,13 +702,6 @@
       "title": "Akcje Amazona tracą po słabszych wynikach i zapowiedzi 200 mld USD inwestycji",
       "content_html": "Akcje Amazona spadają o 10 proc. w handlu pozasesyjnym po prognozie wydatków inwestycyjnych w tym roku na poziomie 200 miliardów dolarów i pokazaniu zysków za czwarty kwartał poniżej oczekiwań analityków.",
       "date_published": "2026-02-05T22:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
-      "title": "Spadki na Wall Street nabierają rozpędu. Trzecia spadkowa sesja z rzędu",
-      "content_html": "Wokół sektora AI pojawia się coraz więcej wątpliwości. Rynek zadaje pytania, czy tak wysokie wyceny są uzasadnione w świetle możliwych do osiągnięcia zysków.",
-      "date_published": "2026-02-05T22:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

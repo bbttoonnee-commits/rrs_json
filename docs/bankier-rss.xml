@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 06 Feb 2026 16:30:00 +0100</lastBuildDate>
-    <item>
-      <title>Spadki na Wall Street nabierają rozpędu. Trzecia spadkowa sesja z rzędu</title>
-      <link>https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html</link>
-      <description>Wokół sektora AI pojawia się coraz więcej wątpliwości. Rynek zadaje pytania, czy tak wysokie wyceny są uzasadnione w świetle możliwych do osiągnięcia zysków.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html</guid>
-      <pubDate>Thu, 05 Feb 2026 22:05:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 06 Feb 2026 17:25:00 +0100</lastBuildDate>
     <item>
       <title>Akcje Amazona tracą po słabszych wynikach i zapowiedzi 200 mld USD inwestycji</title>
       <link>https://www.bankier.pl/wiadomosc/Akcje-Amazona-traca-po-slabszych-wynikach-i-zapowiedzi-200-mld-USD-inwestycji-9079919.html</link>
@@ -281,6 +274,13 @@
       <description>Grupa Azoty chce w marcu porozumieć się z Orlenem w kwestii sprzedaży Grupy Azoty Polyolefins oraz sfinalizować transakcje do końca czerwca - wskazał wiceprezes Grupy Azoty Paweł Bielski. Dodał, że liczy na jak najszybsze porozumienie z bankami...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grupa-Azoty-chce-w-marcu-porozumiec-sie-z-Orlenem-ws-sprzedazy-Grupy-Azoty-Polyolefins-9079885.html</guid>
       <pubDate>Fri, 06 Feb 2026 08:32:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kaczyński powinien oddać władzę w PiS? Polacy mówią wprost</title>
+      <link>https://www.bankier.pl/wiadomosc/Kaczynski-powinine-oddac-wladze-w-PiS-Polacy-mowia-wprost-9079984.html</link>
+      <description>88 proc. ankietowanych uważa, że Jarosław Kaczyński powinien oddać władzę w Prawie i Sprawiedliwości młodszym politykom; przeciwnego zdania jest 12 proc. – informuje piątkowy „Super Express”, powołując się na wyniki badania opinii publicznej...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kaczynski-powinine-oddac-wladze-w-PiS-Polacy-mowia-wprost-9079984.html</guid>
+      <pubDate>Fri, 06 Feb 2026 08:45:00 +0100</pubDate>
     </item>
     <item>
       <title>URE wszczęło postępowanie wobec PGE Obrót</title>
@@ -694,6 +694,20 @@
       <description>Prokurator wydał w piątek postanowienie o poszukiwaniu podejrzanego, byłego ministra sprawiedliwości Zbigniewa Ziobry, listem gończym – poinformowała Prokuratura Krajowa.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ziobro-poszukiwany-Wydano-list-gonczy-za-bylym-ministrem-sprawiedliwosci-9080328.html</guid>
       <pubDate>Fri, 06 Feb 2026 16:30:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Grupa Auto Partner miała w styczniu 363,2 mln zł przychodów, wzrost rdr o 3,4 proc.</title>
+      <link>https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-styczniu-363-2-mln-zl-przychodow-wzrost-rdr-o-3-4-proc-9080370.html</link>
+      <description>Skonsolidowane przychody grupy Auto Partner w styczniu 2026 roku wyniosły 363,2 mln zł, co oznacza wzrost rdr o 3,4 proc. - podała spółka w komunikacie. (PAP Biznes)</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-styczniu-363-2-mln-zl-przychodow-wzrost-rdr-o-3-4-proc-9080370.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:20:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Przecena na GPW zahamowana. Orlen z rekordową kapitalizacją, kurs KGHM niebywale spokojny</title>
+      <link>https://www.bankier.pl/wiadomosc/Przecena-na-GPW-zahamowana-Orlen-z-rekordowa-kapitalizacja-kurs-KGHM-niebywale-spokojny-9080375.html</link>
+      <description>Choć główne indeksy zdołały utrzymać się nad kreską, a byki podjęły próbę stabilizacji po czwartkowej przecenie, sesja nie pokazała dużej chęci do wykupywania dołków, jaką w ostatnim czasie widzieliśmy dość często. WIG20 był słabszy...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Przecena-na-GPW-zahamowana-Orlen-z-rekordowa-kapitalizacja-kurs-KGHM-niebywale-spokojny-9080375.html</guid>
+      <pubDate>Fri, 06 Feb 2026 17:25:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
