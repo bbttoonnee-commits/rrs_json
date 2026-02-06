@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079967.html",
+      "url": "https://www.bankier.pl/wiadomosc/URE-wszczelo-postepowanie-wobec-Enei-9079967.html",
+      "title": "URE wszczęło postępowanie wobec Enei Urząd Regulacji Energetyki wszczął postępowanie wobec Enei w przedmiocie wydania decyzji o obowiązku przekazania na rachunek Funduszu Wypłaty Różnicy Ceny kwoty stanowiącej różnicę pomiędzy odpisem wniesionym na rzecz FWRC przez spółkę w latach 2023-2025 a kwotą obliczoną przez URE - podała Enea w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-06T06:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestor-Wojtek-czego-nauczyl-mnie-krach-na-srebrze-9078480.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestor-Wojtek-czego-nauczyl-mnie-krach-na-srebrze-9078480.html",
+      "title": "INWESTOR WOJTEK Czego nauczył mnie krach na srebrze? W rynkach finansowych pociągające jest to, że od czasu do czasu stajemy się uczestnikami historycznych wydarzeń. Takim był bez wątpienia piątkowy krach na srebrze.",
+      "content_html": "",
+      "date_published": "2026-02-06T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
       "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-nabieraja-rozpedu-Trzecia-spadkowa-sesja-z-rzedu-9079912.html",
       "title": "Spadki na Wall Street nabierają rozpędu. Trzecia spadkowa sesja z rzędu Wokół sektora AI pojawia się coraz więcej wątpliwości. Rynek zadaje pytania, czy tak wysokie wyceny są uzasadnione w świetle możliwych do osiągnięcia zysków.",
@@ -359,13 +373,6 @@
       "title": "Captor Therapeutics nie zaobserwował istotnych efektów niepożądanych w badaniu CT-01 Captor Therapeutics nie zaobserwował jak dotąd istotnych efektów niepożądanych w badaniu klinicznym w programie CT-01, a wyniki mechanizmu działania, jak i bezpieczeństwa kandydata na lek spółka ocenia jako pozytywne i obiecujące - podał Captor w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-04T06:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/WZ-Captor-Therapeutics-zdecyduje-ws-podwyzszenia-kapitalu-poprzez-emisje-akcji-9078804.html",
-      "url": "https://www.bankier.pl/wiadomosc/WZ-Captor-Therapeutics-zdecyduje-ws-podwyzszenia-kapitalu-poprzez-emisje-akcji-9078804.html",
-      "title": "WZ Captor Therapeutics zdecyduje ws. podwyższenia kapitału poprzez emisję akcji Walne zgromadzenie Captor Therapeutics zdecyduje w sprawie podwyższenia kapitału zakładowego spółki w drodze emisji do 800 tys. akcji serii Y - wynika z projektów uchwał NWZ zwołanego na 2 marca.",
-      "content_html": "",
-      "date_published": "2026-02-04T06:28:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
