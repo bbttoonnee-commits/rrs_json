@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Korekta-a-nie-zmiana-trendu-Skarbiec-TFI-Wysokie-ceny-metali-utrzymaja-sie-9080159.html",
+      "url": "https://www.bankier.pl/wiadomosc/Korekta-a-nie-zmiana-trendu-Skarbiec-TFI-Wysokie-ceny-metali-utrzymaja-sie-9080159.html",
+      "title": "Korekta, a nie zmiana trendu. Skarbiec TFI: Wysokie ceny metali utrzymają się Metale pozostaną w ogniu wojen handlowych, a ich dostęp dla poszczególnych gospodarek będzie kluczowy w wyścigu technologicznym - napisano w miesięcznym komentarzu surowcowym Skarbiec TFI. Dodano, że wysokie ceny metali powinny utrzymać się w trakcie 2026 roku.",
+      "content_html": "",
+      "date_published": "2026-02-06T13:04:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKO-Leasing-przedluzyl-wspolprace-z-EFI-w-programie-gwarancji-unijnych-InvestEU-9080152.html",
       "url": "https://www.bankier.pl/wiadomosc/PKO-Leasing-przedluzyl-wspolprace-z-EFI-w-programie-gwarancji-unijnych-InvestEU-9080152.html",
       "title": "PKO Leasing przedłużył współpracę z EFI w programie gwarancji unijnych InvestEU PKO Leasing przedłużył współpracę z Europejskim Funduszem Inwestycyjnym (EFI) w programie gwarancji unijnych InvestEU o kolejne dwa lata (2026-2027) - podała spółka w komunikacie prasowym. Nowy budżet na lata 2026-2027 wynosi 1,065 mld zł.",
@@ -408,20 +415,6 @@
       "title": "Captor celuje w partnering w 2026 roku i ok. 70 mln zł z emisji Captor Therapeutics widzi szansę na nawiązanie przynajmniej jednego partneringu w 2026 r. - poinformowali przedstawiciele spółki podczas wideokonferencji. Z potencjalnej emisji akcji spółka liczy, że pozyska ok. 70 mln zł.",
       "content_html": "",
       "date_published": "2026-02-04T14:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
-      "url": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-I-26-spadla-do-8-8-USD-z-12-6-USD-w-XII-w-25-9079038.html",
-      "title": "Marża Orlenu leci w dół. Spadek do 8,8 USD w styczniu Modelowa marża rafineryjna Orlenu w styczniu 2026 roku spadła do 8,8 USD z 12,6 USD w grudniu 2025 roku - poinformował Orlen. Dyferencjał jest dodatni i wynosi 0,9 USD, wobec ujemnego dyferencjału w grudniu, który wyniósł -1 USD.",
-      "content_html": "",
-      "date_published": "2026-02-04T13:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sad-wstrzymal-wykonanie-postanowienia-o-zabezpieczeniu-na-rzecz-Fundacji-Forum-Konsumentow-Allegro-9079025.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sad-wstrzymal-wykonanie-postanowienia-o-zabezpieczeniu-na-rzecz-Fundacji-Forum-Konsumentow-Allegro-9079025.html",
-      "title": "Sąd wstrzymuje decyzję ws. Allegro. Zmian w zakupach na razie nie będzie Sąd Okręgowy w Warszawie wstrzymał wykonanie postanowienia o udzieleniu zabezpieczenia na rzecz Fundacji Forum Konsumentów do czasu rozpatrzenia zażalenia wniesionego przez Allegro - podało Allegro w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-04T13:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
