@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sezon-wynikow-w-USA-76-proc-spolek-przebilo-prognozy-zyskow-9080586.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sezon-wynikow-w-USA-76-proc-spolek-przebilo-prognozy-zyskow-9080586.html",
+      "title": "Sezon wyników w USA. 76 proc. spółek przebiło prognozy zysków Z opublikowanych do tej pory raportów finansowych za czwarty kwartał 2025 roku przez amerykańskie spółki wynika, że 76 proc. z nich przebiło oczekiwania analityków na poziomie zysku na akcję, a 73 proc. firm przekroczyło konsensus pod względem przychodów - podała firma FactSet.",
+      "content_html": "",
+      "date_published": "2026-02-07T13:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
       "url": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
       "title": "Restrukturyzacja albo bankructwo. JSW szuka 2,9 mld zł. Balczun: Konieczne są głębokie cięcia Restrukturyzacja Jastrzębskiej Spółki Węglowej jest warunkiem pozyskania przez nią finansowania. Jeśli dojdzie do porozumienia ze stroną społeczną, znajdą się sposoby, by podtrzymać płynność spółki w najbliższych tygodniach - poinformował w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
@@ -338,13 +345,6 @@
       "title": "EBC trzyma stopy bez zmian. Było 2% i nadal będzie 2% Stopy procentowe pozostały bez zmian na najniższych poziomach od jesieni 2022 roku. Ale dzięki spadkowi inflacji HICP realna stopa procentowa w eurolandzie znów jest wyższa od zera.",
       "content_html": "",
       "date_published": "2026-02-05T16:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Analiza-techniczna-piekne-wybicie-Apatora-gorzej-prezentuje-sie-kurs-Arlenu-9079631.html",
-      "url": "https://www.bankier.pl/wiadomosc/Analiza-techniczna-piekne-wybicie-Apatora-gorzej-prezentuje-sie-kurs-Arlenu-9079631.html",
-      "title": "INWESTOR WOJTEK Analiza techniczna: piękne wybicie Apatora, gorzej prezentuje się kurs Arlenu Prof. Krzysztof Borowski przyjrzał się akcjom z mojego portfela. Optymistycznie wygląda m.in. kurs Apatora, siłą imponuje Atrem, za to Arlen nie może stanąć na nogi.",
-      "content_html": "",
-      "date_published": "2026-02-05T15:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
