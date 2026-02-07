@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/INTERVIEW-Orlen-Paczka-project-would-not-solve-Polish-postal-operator-s-problems-state-assets-minister-9080561.html",
+      "url": "https://www.bankier.pl/wiadomosc/INTERVIEW-Orlen-Paczka-project-would-not-solve-Polish-postal-operator-s-problems-state-assets-minister-9080561.html",
+      "title": "INTERVIEW: Orlen Paczka project would not solve Polish postal operator's problems - state assets minister",
+      "content_html": "Polish postal operator Poczta Polska must focus on modernisation and digitisation, and the acquisition of parcel locker and logistics company Orlen Paczka would not solve its problems, Minister of State Assets Wojciech Balczun told PAP Biznes in an interview...",
+      "date_published": "2026-02-07T10:42:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
       "url": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
       "title": "Restrukturyzacja w JSW warunkiem pozyskania finansowania - Balczun, MAP (wywiad)",
@@ -695,13 +702,6 @@
       "title": "Ceny miedzi w Londynie coraz dalej od rekordów z ub. tygodnia",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają i oddalają się coraz bardziej od notowanego w ub. czwartek poziomu wszech czasów - ponad 14 500 USD za tonę - informują maklerzy.",
       "date_published": "2026-02-06T07:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Clintonowie-beda-zeznawac-Spor-o-jawnosc-Skonczmy-z-tymi-gierkami-9079951.html",
-      "url": "https://www.bankier.pl/wiadomosc/Clintonowie-beda-zeznawac-Spor-o-jawnosc-Skonczmy-z-tymi-gierkami-9079951.html",
-      "title": "Clintonowie będą zeznawać. Spór o jawność. \"Skończmy z tymi gierkami\"",
-      "content_html": "Były prezydent USA Bill Clinton i jego żona Hillary zgodzili się złożyć zeznania przed Kongresem w formie zamkniętych, protokołowanych przesłuchań pod przysięgą w ramach śledztwa w sprawie Jeffreya Epsteina. Clintonowie chcą, by konfrontacja...",
-      "date_published": "2026-02-06T07:37:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
