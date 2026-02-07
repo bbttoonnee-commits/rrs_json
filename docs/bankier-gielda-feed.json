@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Stopy-stoja-spolki-traca-kryptowaluty-pod-presja-Globalny-reset-nastrojow-uderza-w-inwestorow-9080004.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stopy-stoja-spolki-traca-kryptowaluty-pod-presja-Globalny-reset-nastrojow-uderza-w-inwestorow-9080004.html",
+      "title": "WYKRESY TYGODNIA Stopy stoją, spółki tracą, kryptowaluty pod presją. Globalny reset nastrojów uderza w inwestorów Stopy procentowe stoją w miejscu, inflacja hamuje, a rynki finansowe gwałtownie zmieniają nastroje. Giełdy oddają zyski, kryptowaluty wpadają w panikę, surowce zaliczają korekty, a gospodarka wysyła coraz bardziej sprzeczne sygnały. Tydzień na wykresach Bankier.pl",
+      "content_html": "",
+      "date_published": "2026-02-07T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miesiac-po-obaleniu-Maduro-oznaki-odwilzy-i-otwarcie-sektora-naftowego-9078513.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miesiac-po-obaleniu-Maduro-oznaki-odwilzy-i-otwarcie-sektora-naftowego-9078513.html",
+      "title": "Miesiąc po obaleniu Maduro oznaki odwilży i otwarcie sektora naftowego W ciągu miesiąca od obalenia autorytarnego przywódcy Wenezueli Nicolasa Maduro przez siły USA tymczasowe władze kraju zwolniły setki więźniów politycznych, zapowiedziały amnestię i dopuściły udział prywatnych oraz zagranicznych firm w wydobyciu bogatych złóż ropy naftowej.",
+      "content_html": "",
+      "date_published": "2026-02-07T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Adam-Lukojc-dyrektorem-finansowym-Captor-Therapeutics-9080477.html",
       "url": "https://www.bankier.pl/wiadomosc/Adam-Lukojc-dyrektorem-finansowym-Captor-Therapeutics-9080477.html",
       "title": "Adam Łukojć dyrektorem finansowym Captor Therapeutics Adam Łukojć został powołany przez radę nadzorczą Captor Therapeutics na stanowisko członka zarządu - dyrektora finansowego - poinformowała spółka w komunikacie.",
@@ -394,13 +408,6 @@
       "title": "ElevenLabs warte 11 mld dolarów. Spółka potroiła wycenę i celuje w giełdę ElevenLabs, londyńska spółka założona przez dwójkę Polaków, pozyskał w rundzie D kwotę 500 mln USD, co daje wycenę całej firmy na poziomie 11 mld USD, trzykrotnie wyższą niż jeszcze rok temu. Prezes Mati Staniszewski zapowiada przygotowania spółki do IPO.",
       "content_html": "",
       "date_published": "2026-02-05T07:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Modelowa-marza-Grupy-Orlen-runela-o-60-proc-w-dwa-miesiace-Co-sie-dzieje-z-biznesem-giganta-9079109.html",
-      "url": "https://www.bankier.pl/wiadomosc/Modelowa-marza-Grupy-Orlen-runela-o-60-proc-w-dwa-miesiace-Co-sie-dzieje-z-biznesem-giganta-9079109.html",
-      "title": "Modelowa rentowność rafinerii Grupy Orlen runęła o 60 proc. w dwa miesiące. Co się dzieje z biznesem giganta? Biznes rafineryjny Orlenu doświadcza konsekwentnej erozji modelowej marży rafineryjnej. Według styczniowych danych jej poziom był najniższy od marca 2025 r. i oznaczał, że w dwa miesiące spadła ona o blisko 60 proc. Póki co, to koniec nadzwyczajny wyników rafinerii i powrót do marż z 2024 r.",
-      "content_html": "",
-      "date_published": "2026-02-05T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
