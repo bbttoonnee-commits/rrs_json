@@ -4,23 +4,16 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/INTERVIEW-Orlen-Paczka-project-would-not-solve-Polish-postal-operator-s-problems-state-assets-minister-9080561.html",
-      "url": "https://www.bankier.pl/wiadomosc/INTERVIEW-Orlen-Paczka-project-would-not-solve-Polish-postal-operator-s-problems-state-assets-minister-9080561.html",
-      "title": "INTERVIEW: Orlen Paczka project would not solve Polish postal operator's problems - state assets minister Polish postal operator Poczta Polska must focus on modernisation and digitisation, and the acquisition of parcel locker and logistics company Orlen Paczka would not solve its problems, Minister of State Assets Wojciech Balczun told PAP Biznes in an interview.",
-      "content_html": "",
-      "date_published": "2026-02-07T10:42:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
       "url": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
-      "title": "Restrukturyzacja w JSW warunkiem pozyskania finansowania - Balczun, MAP (wywiad) Restrukturyzacja Jastrzębskiej Spółki Węglowej jest warunkiem pozyskania przez nią finansowania. Jeśli dojdzie do porozumienia ze stroną społeczną, znajdą się sposoby, by podtrzymać płynność spółki w najbliższych tygodniach - poinformował w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
+      "title": "Restrukturyzacja albo bankructwo. JSW szuka 2,9 mld zł. Balczun: Konieczne są głębokie cięcia Restrukturyzacja Jastrzębskiej Spółki Węglowej jest warunkiem pozyskania przez nią finansowania. Jeśli dojdzie do porozumienia ze stroną społeczną, znajdą się sposoby, by podtrzymać płynność spółki w najbliższych tygodniach - poinformował w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
       "content_html": "",
       "date_published": "2026-02-07T09:06:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Minister-Balczun-ocenia-ze-zakup-Orlen-Paczka-nie-rozwiazalby-problemow-Poczty-Polskiej-9080551.html",
       "url": "https://www.bankier.pl/wiadomosc/Minister-Balczun-ocenia-ze-zakup-Orlen-Paczka-nie-rozwiazalby-problemow-Poczty-Polskiej-9080551.html",
-      "title": "Minister Balczun ocenia, że zakup Orlen Paczka nie rozwiązałby problemów Poczty Polskiej Poczta Polska musi skupić się na modernizacji i cyfryzacji, zakup Orlen Paczka nie rozwiązałby jej problemów – ocenił w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
+      "title": "Dlaczego Poczta nie kupi Orlen Paczki? Balczun: Koniec z zakupami w imię polityki Poczta Polska musi skupić się na modernizacji i cyfryzacji, zakup Orlen Paczka nie rozwiązałby jej problemów – ocenił w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
       "content_html": "",
       "date_published": "2026-02-07T09:04:00+01:00"
     },
@@ -401,13 +394,6 @@
       "title": "Ostre hamowanie w imporcie aut. Najsłabszy wynik od lat Import używanych aut do Polski w styczniu spadł o 16,4 proc. rdr do 64.329 i jest to najgorszy wynik od trzech lat - podał Instytut Samar.",
       "content_html": "",
       "date_published": "2026-02-05T12:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-i-Meta-rozpoczynaja-wspolprace-ogloszenia-z-Allegro-Lokalnie-beda-na-Facebook-Marketplace-9079525.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-i-Meta-rozpoczynaja-wspolprace-ogloszenia-z-Allegro-Lokalnie-beda-na-Facebook-Marketplace-9079525.html",
-      "title": "Allegro i Meta łączą siły. Ogłoszenia z \"Lokalnie\" trafią na Facebooka Allegro i Meta rozpoczynają współpracę i w ramach nowej usługi wybrane ogłoszenia osób prywatnych z Allegro Lokalnie mogą być dodatkowo wyświetlane na Facebook Marketplace - poinformowała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-05T11:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
