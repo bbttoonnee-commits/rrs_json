@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Peter-Szijjarto-nowym-liderem-Wegier-Zaskakujacy-wynik-badania-9076512.html",
+      "url": "https://www.bankier.pl/wiadomosc/Peter-Szijjarto-nowym-liderem-Wegier-Zaskakujacy-wynik-badania-9076512.html",
+      "title": "Peter Szijjarto nowym liderem Węgier? Zaskakujący wynik badania",
+      "content_html": "Opublikowane w czwartek badania węgierskiego Instytutu Publicus wykazały, że 55 proc. Węgrów uważa, iż premier Viktor Orban jest „zmęczony” i „niekompetentny” – poinformował dziennik „Nepszava”, który zlecił sondaż.",
+      "date_published": "2026-02-08T08:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-programu-SAFE-plyna-do-Polski-Europa-budzi-sie-w-sprawie-dronow-9077651.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-programu-SAFE-plyna-do-Polski-Europa-budzi-sie-w-sprawie-dronow-9077651.html",
       "title": "Miliardy z programu SAFE płyną do Polski. Europa budzi się w sprawie dronów",
@@ -695,13 +702,6 @@
       "title": "Koniec traktatu Nowy START. USA i Rosja deklarują gotowość do rozmów",
       "content_html": "Rzecznik Kremla Dmitrij Pieskow poinformował w piątek, że delegacje USA i Rosji rozpoczną wkrótce rozmowy na temat porozumienia, które pozwoli na kontynuowanie procesu ograniczania zbrojeń nuklearnych – przekazała agencja Reutera.",
       "date_published": "2026-02-06T11:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chaos-przez-KSeF-Jakie-rodzaje-faktur-mozesz-teraz-dostac-9080075.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chaos-przez-KSeF-Jakie-rodzaje-faktur-mozesz-teraz-dostac-9080075.html",
-      "title": "Chaos przez KSeF. Jakie rodzaje faktur możesz teraz dostać?",
-      "content_html": "Start Krajowego Systemu e-Faktur był reklamowany jako księgowa rewolucja i „koniec papieru”. Jednak już pierwsze dni po wejściu w życie KSeF pokazują, że papier na razie z rozliczeń nie zniknie. Za to przedsiębiorcy mają ból głowy, bo...",
-      "date_published": "2026-02-06T11:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
