@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Atomowe-klamstwo-Pekinu-USA-Chiny-zlamaly-moratorium-i-testowaly-atom-9080545.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atomowe-klamstwo-Pekinu-USA-Chiny-zlamaly-moratorium-i-testowaly-atom-9080545.html",
+      "title": "Atomowe kłamstwo Pekinu? USA: Chiny złamały moratorium i testowały atom",
+      "content_html": "Stany Zjednoczone zarzuciły w piątek Chinom, że w 2020 r. przeprowadziły tajny test nuklearny. Podczas międzynarodowej konferencji rozbrojeniowej w Wiedniu poinformował o tym podsekretarz stanu ds. kontroli zbrojeń i bezpieczeństwa międzynarodowego...",
+      "date_published": "2026-02-08T19:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozejm-na-Ukrainie-to-klopot-dla-Europy-Ischinger-Ukraina-kupuje-nam-czas-9080657.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozejm-na-Ukrainie-to-klopot-dla-Europy-Ischinger-Ukraina-kupuje-nam-czas-9080657.html",
+      "title": "Rozejm na Ukrainie, to kłopot dla Europy? Ischinger: Ukraina kupuje nam czas",
+      "content_html": "Wojna w Ukrainie wiąże rosyjską armię i daje czas Europie. Przerwanie działań wojennych spowoduje wzrost zagrożenia dla krajów na wschodniej flance NATO – uważa niemiecki dyplomata Wolfgang Ischinger cytowany przez „Tagesspiegel”.",
+      "date_published": "2026-02-08T19:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Netanjahu-pedzi-do-Waszyngtonu-Izrael-boi-sie-ukladu-Trumpa-z-Iranem-9080672.html",
+      "url": "https://www.bankier.pl/wiadomosc/Netanjahu-pedzi-do-Waszyngtonu-Izrael-boi-sie-ukladu-Trumpa-z-Iranem-9080672.html",
+      "title": "Netanjahu pędzi do Waszyngtonu. Izrael boi się układu Trumpa z Iranem",
+      "content_html": "Premier Izraela Benjamin Netanjahu o tydzień przyspieszył wizytę w Waszyngtonie – poinformowało w niedzielę biuro prasowe szefa izraelskiego rządu, cytowane przez portal Axios. Głównym tematem rozmowy z prezydentem USA Donaldem Trumpem mają...",
+      "date_published": "2026-02-08T19:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Epstein-wywolal-trzesienie-na-Downing-Street-Najwazniejszy-doradca-Starmera-rezygnuje-9080730.html",
+      "url": "https://www.bankier.pl/wiadomosc/Epstein-wywolal-trzesienie-na-Downing-Street-Najwazniejszy-doradca-Starmera-rezygnuje-9080730.html",
+      "title": "Epstein wywołał trzęsienie na Downing Street. Najważniejszy doradca Starmera rezygnuje",
+      "content_html": "Morgan McSweeney zrezygnował w niedzielę z funkcji szefa sztabu Downing Street, tj. najważniejszego doradcy premiera Wielkiej Brytanii Keira Starmera. Ogłosił, że bierze na siebie odpowiedzialność za nominowanie na ambasadora w USA Petera Mandelsona...",
+      "date_published": "2026-02-08T19:40:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-sporow-o-azyl-dla-Afganek-Holandia-aktualizuje-przepisy-9075166.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-sporow-o-azyl-dla-Afganek-Holandia-aktualizuje-przepisy-9075166.html",
       "title": "Koniec sporów o azyl dla Afganek. Holandia aktualizuje przepisy",
@@ -113,13 +141,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Juz-ponad-50-tys-aresztowanych-w-Iranie-po-antyrzadowych-protestach-9078742.html",
       "title": "Już ponad 50 tys. aresztowanych w Iranie po antyrządowych protestach",
       "content_html": "Co najmniej 50 235 osób zostało aresztowanych w Iranie podczas tłumienia trwających od grudnia protestów - poinformowała amerykańska organizacja pozarządowa Human Rights Activists News Agency (HRANA). Według niej aresztowania wciąż trwają...",
-      "date_published": "2026-02-08T13:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-spolkach-Skarbu-Panstwa-Balczun-chce-modelu-amerykanskiego-9080675.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-spolkach-Skarbu-Panstwa-Balczun-chce-modelu-amerykanskiego-9080675.html",
-      "title": "Rewolucja w spółkach Skarbu Państwa. Balczun chce \"modelu amerykańskiego\"",
-      "content_html": "Podpisany przez premiera Donalda Tuska Kodeks Dobrych Praktyk Nadzoru Właścicielskiego oraz nowelizacja ustawy o zarządzaniu mieniem państwowym mają zwiększyć transparentność i merytoryczność naboru do władz spółek Skarbu Państwa - ocenił...",
       "date_published": "2026-02-08T13:00:00+01:00"
     },
     {
@@ -282,6 +303,13 @@
       "title": "Chaos w \"Washington Post\". Dyrektor zwolnił jedną trzecią załogi i sam odszedł",
       "content_html": "Wydawca i dyrektor generalny gazety „Washington Post”, Will Lewis, niespodziewanie ustąpił ze stanowiska zaledwie kilka dni po masowych zwolnieniach, które objęły około jednej trzeciej zespołu, w tym ponad 300 dziennikarzy - poinformowały...",
       "date_published": "2026-02-08T04:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-w-Sudanie-chyli-sie-ku-koncowi-Trump-Jestesmy-bardzo-blisko-9080644.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-w-Sudanie-chyli-sie-ku-koncowi-Trump-Jestesmy-bardzo-blisko-9080644.html",
+      "title": "Wojna w Sudanie chyli się ku końcowi? Trump: Jesteśmy bardzo blisko",
+      "content_html": "Prezydent USA Donald Trump oświadczył, że „ciężko pracuje” nad zakończeniem wojny w Sudanie, podkreślając, że będzie to dziewiąty wygaszony przez niego konflikt.",
+      "date_published": "2026-02-08T04:33:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Iran-szykuje-sie-do-wojny-Teheran-negocjuje-z-USA-i-zmienia-dowodztwo-na-radykalow-9080640.html",
@@ -576,13 +604,6 @@
       "title": "Adam Łukojć dyrektorem finansowym Captor Therapeutics",
       "content_html": "Adam Łukojć został powołany przez radę nadzorczą Captor Therapeutics na stanowisko członka zarządu - dyrektora finansowego - poinformowała spółka w komunikacie.",
       "date_published": "2026-02-06T22:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-w-wynikach-za-IV-kw-25-dokona-odpisu-aktualizujacego-w-wysokosci-2-5-mld-zl-9080442.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-w-wynikach-za-IV-kw-25-dokona-odpisu-aktualizujacego-w-wysokosci-2-5-mld-zl-9080442.html",
-      "title": "Orlen \"czyści\" bilans przed wynikami. 2,5 mld zł odpisu wpłynie na zysk",
-      "content_html": "Orlen przewiduje, że w wynikach za IV kwartał 2025 r. dokona odpisu aktualizującego wartość aktywów o łącznej wysokości 2,5 mld zł i głównie będzie on dotyczył inwestycji Nowa Chemia w segmencie downstream - podała spółka w komunikacie...",
-      "date_published": "2026-02-06T19:58:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
