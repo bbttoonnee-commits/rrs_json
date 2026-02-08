@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polske-czeka-rzad-PiS-u-i-obu-Konfederacji-Wiekszosc-prawicowych-wyborcow-jest-na-tak-9080669.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polske-czeka-rzad-PiS-u-i-obu-Konfederacji-Wiekszosc-prawicowych-wyborcow-jest-na-tak-9080669.html",
+      "title": "Polskę czeka rząd PiS-u i obu Konfederacji? Większość prawicowych wyborców, jest na tak",
+      "content_html": "Większość wyborców Prawa i Sprawiedliwości, Konfederacji oraz Konfederacji Korony Polskiej poparło deklarację współpracy i możliwość utworzenia wspólnej koalicji – wynika z sondażu Instytutu Badań Pollster opublikowanego w niedzielę...",
+      "date_published": "2026-02-08T08:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Peter-Szijjarto-nowym-liderem-Wegier-Zaskakujacy-wynik-badania-9076512.html",
       "url": "https://www.bankier.pl/wiadomosc/Peter-Szijjarto-nowym-liderem-Wegier-Zaskakujacy-wynik-badania-9076512.html",
       "title": "Peter Szijjarto nowym liderem Węgier? Zaskakujący wynik badania",
       "content_html": "Opublikowane w czwartek badania węgierskiego Instytutu Publicus wykazały, że 55 proc. Węgrów uważa, iż premier Viktor Orban jest „zmęczony” i „niekompetentny” – poinformował dziennik „Nepszava”, który zlecił sondaż.",
       "date_published": "2026-02-08T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sybiha-Rosja-nie-wygrywa-tej-wojny-ta-wojna-jest-jej-porazka-9079231.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sybiha-Rosja-nie-wygrywa-tej-wojny-ta-wojna-jest-jej-porazka-9079231.html",
+      "title": "Sybiha: Rosja nie wygrywa tej wojny, ta wojna jest jej porażką",
+      "content_html": "Rosja nie wygrywa wojny przeciw Ukrainie; ta wojna jest porażką Moskwy, która masowo traci swoich żołnierzy, zdobywa niewielkie terytoria i zmaga się z recesją gospodarczą – oświadczył szef ukraińskiej dyplomacji Andrij Sybiha.",
+      "date_published": "2026-02-08T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-2050-szuka-nowej-siebie-Rusza-ofensywa-legislacyjna-i-walka-jako-wyraziste-centrum-9080658.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-2050-szuka-nowej-siebie-Rusza-ofensywa-legislacyjna-i-walka-jako-wyraziste-centrum-9080658.html",
+      "title": "Polska 2050 szuka nowej siebie. Rusza ofensywa legislacyjna i walka jako „wyraziste centrum”",
+      "content_html": "Zwiększenie akcyzy na alkohol, regulacja najmu krótkoterminowego, wprowadzenie zakazu smartfonów w szkołach – m.in. takie projekty zapowiedziała nowa liderka Polski 2050 Katarzyna Pełczyńska-Nałęcz. Ofensywa legislacyjna ma ugruntować pozycję...",
+      "date_published": "2026-02-08T06:46:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-programu-SAFE-plyna-do-Polski-Europa-budzi-sie-w-sprawie-dronow-9077651.html",
@@ -72,6 +93,20 @@
       "title": "Stracone lata Niemiec. Ostatnie kryzysy kosztowały Berlin blisko bilion euro",
       "content_html": "Kryzysy od 2020 roku, w tym pandemia COVID-19, pełnoskalowa agresja Rosji przeciw Ukrainie oraz spór celny między USA i państwami europejskimi, kosztowały gospodarkę Niemiec blisko bilion euro – wynika z opublikowanych w sobotę szacunków Instytutu...",
       "date_published": "2026-02-08T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chaos-w-Washington-Post-Dyrektor-zwolnil-jedna-trzecia-zalogi-i-sam-odszedl-9080645.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chaos-w-Washington-Post-Dyrektor-zwolnil-jedna-trzecia-zalogi-i-sam-odszedl-9080645.html",
+      "title": "Chaos w \"Washington Post\". Dyrektor zwolnił jedną trzecią załogi i sam odszedł",
+      "content_html": "Wydawca i dyrektor generalny gazety „Washington Post”, Will Lewis, niespodziewanie ustąpił ze stanowiska zaledwie kilka dni po masowych zwolnieniach, które objęły około jednej trzeciej zespołu, w tym ponad 300 dziennikarzy - poinformowały...",
+      "date_published": "2026-02-08T04:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-szykuje-sie-do-wojny-Teheran-negocjuje-z-USA-i-zmienia-dowodztwo-na-radykalow-9080640.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-szykuje-sie-do-wojny-Teheran-negocjuje-z-USA-i-zmienia-dowodztwo-na-radykalow-9080640.html",
+      "title": "Iran szykuje się do wojny. Teheran negocjuje z USA i... zmienia dowództwo na radykałów",
+      "content_html": "Mimo rozmów z Amerykanami, Iran przygotowuje się do wojny, czego dowodzi reorganizacja dowództwa Korpusu Strażników Rewolucji Islamskiej i zwiększenie uprawnień Alego Laridżaniego, najważniejszego doradcy ajatollaha Alego Chameneiego, dowiedziała...",
+      "date_published": "2026-02-08T01:56:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Olimpiada-w-Polsce-Nawrocki-po-spotkaniu-z-szefowa-MKOI-Przygotowujemy-sie-9080601.html",
@@ -667,41 +702,6 @@
       "title": "Polacy pracujący za granicą przysłali do kraju ponad 5 miliardów złotych",
       "content_html": "Transfery do Polski od emigrantów w III kw. 2025 r. wyniosły 5,2 mld zł, tyle samo co w analogicznym kwartale poprzedniego roku - podał NBP w pełnym bilansie płatniczym za III kwartał.",
       "date_published": "2026-02-06T12:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dino-pod-lupa-prokuratury-i-policji-Ludzie-traktowani-jak-maszyny-9080137.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dino-pod-lupa-prokuratury-i-policji-Ludzie-traktowani-jak-maszyny-9080137.html",
-      "title": "Policja w Dino. Pracownicy mówią o wyzysku, mobbingu i pracy ponad siły",
-      "content_html": "Przeciążenie pracowników obowiązkami, praca w zbyt niskich temperaturach i brak Zakładowego Funduszu Świadczeń Socjalnych – to tylko część problemów załogi marketów sieci Dino. Skala naruszeń Prawa pracy jest tam tak duża, że związkowcy...",
-      "date_published": "2026-02-06T12:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kuba-odcieta-od-paliw-Prezydent-gotowy-do-rozmow-z-USA-9080117.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kuba-odcieta-od-paliw-Prezydent-gotowy-do-rozmow-z-USA-9080117.html",
-      "title": "Kuba odcięta od paliw. Prezydent gotowy do rozmów z USA",
-      "content_html": "Prezydent Kuby Miguel Diaz-Canel oświadczył, że jest gotowy do rozmów z władzami USA „na każdy temat” i „bez warunków wstępnych”. Na Kubie pogłębia się kryzys energetyczny, a z powodu presji Waszyngtonu wyspa stoi w obliczu całkowitego...",
-      "date_published": "2026-02-06T11:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-sie-dzieje-z-kursem-bitcoina-Krach-o-50-i-ekstremalny-strach-na-rynku-kryptowalut-9079994.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-sie-dzieje-z-kursem-bitcoina-Krach-o-50-i-ekstremalny-strach-na-rynku-kryptowalut-9079994.html",
-      "title": "Co się dzieje z kursem bitcoina? Krach o 50% i \"ekstremalny strach\" na rynku kryptowalut",
-      "content_html": "Notowania bitcoina znalazły się pod silną presją sprzedażową. Najważniejsza kryptowaluta świata straciła 50% swojej wartości względem ubiegłorocznego szczytu, wymazując tym samym cały optymizm, który zapanował na rynku po wyborach prezydenckich...",
-      "date_published": "2026-02-06T11:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Horror-w-schronisku-w-Sobolewie-Prokuratura-bada-smierc-26-psow-9080110.html",
-      "url": "https://www.bankier.pl/wiadomosc/Horror-w-schronisku-w-Sobolewie-Prokuratura-bada-smierc-26-psow-9080110.html",
-      "title": "Horror w schronisku w Sobolewie. Prokuratura bada śmierć 26 psów",
-      "content_html": "Prokuratura Okręgowa w Siedlcach poinformowała o wszczęciu postępowania w sprawie znęcania się nad zwierzętami w schronisku „Happy Dog” w Sobolewie. W toku postepowania przekazano do odpowiednich organów 26 martwych psów celem przeprowadzenia...",
-      "date_published": "2026-02-06T11:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-traktatu-Nowy-START-USA-i-Rosja-deklaruja-gotowosc-do-rozmow-9080113.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-traktatu-Nowy-START-USA-i-Rosja-deklaruja-gotowosc-do-rozmow-9080113.html",
-      "title": "Koniec traktatu Nowy START. USA i Rosja deklarują gotowość do rozmów",
-      "content_html": "Rzecznik Kremla Dmitrij Pieskow poinformował w piątek, że delegacje USA i Rosji rozpoczną wkrótce rozmowy na temat porozumienia, które pozwoli na kontynuowanie procesu ograniczania zbrojeń nuklearnych – przekazała agencja Reutera.",
-      "date_published": "2026-02-06T11:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
