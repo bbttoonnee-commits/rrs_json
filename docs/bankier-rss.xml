@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 09 Feb 2026 19:35:00 +0100</lastBuildDate>
-    <item>
-      <title>Donald Trump grzmi po Super Bowl: ten występ to afront wobec Ameryki</title>
-      <link>https://www.bankier.pl/wiadomosc/Donald-Trump-grzmi-po-Super-Bowl-ten-wystep-to-afront-wobec-Ameryki-9080779.html</link>
-      <description>Prezydent USA Donald Trump w niedzielę ocenił, że występ rapera Bad Bunny'ego w przerwie podczas meczu o Super Bowl, był „afrontem” wobec Ameryki i „uderzeniem w twarz”. Pochodzący z Portoryko artysta śpiewał po hiszpańsku.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Donald-Trump-grzmi-po-Super-Bowl-ten-wystep-to-afront-wobec-Ameryki-9080779.html</guid>
-      <pubDate>Mon, 09 Feb 2026 07:10:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Mon, 09 Feb 2026 22:05:00 +0100</lastBuildDate>
     <item>
       <title>Warszawa bazą sił szybkiego reagowania? Frontex szykuje „unijną bazookę” na kryzysy</title>
       <link>https://www.bankier.pl/wiadomosc/Warszawa-baza-sil-szybkiego-reagowania-Frontex-szykuje-unijna-bazooke-na-kryzysy-9080783.html</link>
@@ -708,6 +701,13 @@
       <description>UE przygotowuje szereg rozwiązań pozwalających na wpisanie do planu pokojowego akcesji Ukrainy do Wspólnoty. Rozważane jest np. objęcie Kijowa ochroną przysługującą krajom unijnym - poinformowała w poniedziałek agencja Bloomberg, powołując...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ukraina-w-UE-w-2027-roku-Bruksela-chce-przyspieszyc-integracje-Kijowa-9081199.html</guid>
       <pubDate>Mon, 09 Feb 2026 19:35:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Zwyżki w sektorze AI. Dow Jones powyżej 50 000 punktów.</title>
+      <link>https://www.bankier.pl/wiadomosc/Zwyzki-w-sektorze-AI-Dow-Jones-powyzej-50-000-punktow-9081222.html</link>
+      <description>W poniedziałek inwestorzy w pośpiechu kupowali akcje dokładnie tych samych firm, które w ubiegłym tygodniu niemal panicznie wyprzedawali.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zwyzki-w-sektorze-AI-Dow-Jones-powyzej-50-000-punktow-9081222.html</guid>
+      <pubDate>Mon, 09 Feb 2026 22:05:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

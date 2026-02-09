@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zwyzki-w-sektorze-AI-Dow-Jones-powyzej-50-000-punktow-9081222.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwyzki-w-sektorze-AI-Dow-Jones-powyzej-50-000-punktow-9081222.html",
+      "title": "Zwyżki w sektorze AI. Dow Jones powyżej 50 000 punktów.",
+      "content_html": "W poniedziałek inwestorzy w pośpiechu kupowali akcje dokładnie tych samych firm, które w ubiegłym tygodniu niemal panicznie wyprzedawali.",
+      "date_published": "2026-02-09T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-w-UE-w-2027-roku-Bruksela-chce-przyspieszyc-integracje-Kijowa-9081199.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukraina-w-UE-w-2027-roku-Bruksela-chce-przyspieszyc-integracje-Kijowa-9081199.html",
       "title": "Ukraina w UE w 2027 roku? Bruksela chce przyśpieszyć integracje Kijowa",
@@ -695,13 +702,6 @@
       "title": "Warszawa bazą sił szybkiego reagowania? Frontex szykuje „unijną bazookę” na kryzysy",
       "content_html": "Agencja prowadzi z Warszawą i dwiema innymi stolicami rozmowy w sprawie lokalizacji siedziby powstających sił szybkiego reagowania - podaje poniedziałkowy „Dziennik Gazeta Prawna”.",
       "date_published": "2026-02-09T07:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-grzmi-po-Super-Bowl-ten-wystep-to-afront-wobec-Ameryki-9080779.html",
-      "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-grzmi-po-Super-Bowl-ten-wystep-to-afront-wobec-Ameryki-9080779.html",
-      "title": "Donald Trump grzmi po Super Bowl: ten występ to afront wobec Ameryki",
-      "content_html": "Prezydent USA Donald Trump w niedzielę ocenił, że występ rapera Bad Bunny'ego w przerwie podczas meczu o Super Bowl, był „afrontem” wobec Ameryki i „uderzeniem w twarz”. Pochodzący z Portoryko artysta śpiewał po hiszpańsku.",
-      "date_published": "2026-02-09T07:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
