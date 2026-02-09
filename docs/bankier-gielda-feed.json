@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-wiekszosciowi-oglosili-przymusowy-wykup-akcji-Quart-Development-9080857.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-wiekszosciowi-oglosili-przymusowy-wykup-akcji-Quart-Development-9080857.html",
+      "title": "Akcjonariusze większościowi ogłosili przymusowy wykup akcji Quart Development Akcjonariusze większościowi ogłosili przymusowy wykup akcji Quart Development po cenie 4 zł za akcję - poinformował w komunikacie podmiot pośredniczący, DM BDM.",
+      "content_html": "",
+      "date_published": "2026-02-09T08:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-sprzedaj-KGHM-z-cena-docelowa-310-zl-na-akcje-9080856.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-sprzedaj-KGHM-z-cena-docelowa-310-zl-na-akcje-9080856.html",
+      "title": "Trigon DM rekomenduje \"sprzedaj\" KGHM Analitycy Trigon DM, w raporcie z 2 lutego, rekomendują \"sprzedaj\" KGHM z ceną docelową 310 zł na akcję.",
+      "content_html": "",
+      "date_published": "2026-02-09T08:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-po-zlagodzeniu-napiec-na-Bliskim-Wschodzie-9080841.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-po-zlagodzeniu-napiec-na-Bliskim-Wschodzie-9080841.html",
+      "title": "Ceny ropy w dół po złagodzeniu napięć na Bliskim Wschodzie Ceny ropy naftowej idą w poniedziałek w dół w reakcji na złagodzenie napięć na Bliskim Wschodzie - słabnie więc ryzyko możliwych zakłóceń w dostawach ropy z tego regionu - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-02-09T07:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-B-Millennium-w-IV-kw-25-wyniosl-347-mln-zl-powyzej-oczekiwan-9080816.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-B-Millennium-w-IV-kw-25-wyniosl-347-mln-zl-powyzej-oczekiwan-9080816.html",
       "title": "Bank Millennium zaskoczył analityków. Zysk netto przebił prognozy Zysk netto grupy Banku Millennium w IV kwartale 2025 r. wzrósł do 347 mln zł z 173 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 8,3 proc. wyższy od oczekiwań analityków, którzy prognozowali, że wyniesie on 320,3 mln zł.",
@@ -79,13 +100,6 @@
       "title": "Dlaczego Poczta nie kupi Orlen Paczki? Balczun: Koniec z zakupami w imię polityki Poczta Polska musi skupić się na modernizacji i cyfryzacji, zakup Orlen Paczka nie rozwiązałby jej problemów – ocenił w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
       "content_html": "",
       "date_published": "2026-02-07T09:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-kapitalowa-ucieczka-z-USA-i-apokalipsa-w-segmencie-SaaS-Sprawdzamy-co-slychac-na-Wall-Street-9080496.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-kapitalowa-ucieczka-z-USA-i-apokalipsa-w-segmencie-SaaS-Sprawdzamy-co-slychac-na-Wall-Street-9080496.html",
-      "title": "Wojna kapitałowa, ucieczka z USA i apokalipsa w segmencie SaaS. Sprawdzamy, co słychać na Wall Street Po wstrząsie wywołanym na rynkach przez tzw. apokalipsę SaaS, finansiści gorączkowo poszukują okazji zakupowych. Coraz częściej pojawia się temat dywersyfikacji kapitału w kierunku Europy i rynków wschodzących. Wszystko to dzieje się w cieniu ostrzeżeń o nadchodzącej „wojnie kapitałowej” oraz rosnącego populizmu w USA przed wyborami w połowie kadencji.",
-      "content_html": "",
-      "date_published": "2026-02-07T09:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
