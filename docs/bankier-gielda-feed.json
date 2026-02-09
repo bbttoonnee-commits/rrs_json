@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cena-w-wezwaniu-na-InPost-nizsza-niz-w-IPO-gdyz-zmienily-sie-warunki-rynkowe-szef-RN-9080869.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cena-w-wezwaniu-na-InPost-nizsza-niz-w-IPO-gdyz-zmienily-sie-warunki-rynkowe-szef-RN-9080869.html",
+      "title": "Cena w wezwaniu na InPost niższa niż w IPO. \"Zmieniły się warunki rynkowe\" Oferta publiczna, podczas której inwestorzy obejmowali akcje InPostu po 16 euro za sztukę, miała miejsce kilka lat temu, a od tego czasu warunki rynkowe uległy zmianie - ocenił Hein Pretorius, przewodniczący rady nadzorczej InPost, pytany, dlaczego mniejszościowi akcjonariusze spółki mogą teraz sprzedać akcje po niższej cenie niż w IPO.",
+      "content_html": "",
+      "date_published": "2026-02-09T09:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lokaty-bankowe-znow-bez-szans-TFI-PZU-wskazuje-top-pick-na-2026-rok-9080844.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lokaty-bankowe-znow-bez-szans-TFI-PZU-wskazuje-top-pick-na-2026-rok-9080844.html",
+      "title": "Lokaty bankowe znów bez szans? TFI PZU wskazuje „top pick” na 2026 rok Polskie obligacje skarbowe mają szanse pozostać atrakcyjną inwestycją w 2026 roku, a największy potencjał analitycy TFI PZU widzą w obligacjach długoterminowych. Ich zdaniem, globalne otoczenie będzie sprzyjające również dla długu korporacyjnego.",
+      "content_html": "",
+      "date_published": "2026-02-09T09:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-wiekszosciowi-oglosili-przymusowy-wykup-akcji-Quart-Development-9080857.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-wiekszosciowi-oglosili-przymusowy-wykup-akcji-Quart-Development-9080857.html",
       "title": "Akcjonariusze większościowi ogłosili przymusowy wykup akcji Quart Development Akcjonariusze większościowi ogłosili przymusowy wykup akcji Quart Development po cenie 4 zł za akcję - poinformował w komunikacie podmiot pośredniczący, DM BDM.",
@@ -86,20 +100,6 @@
       "title": "Sezon wyników w USA. 76 proc. spółek przebiło prognozy zysków Z opublikowanych do tej pory raportów finansowych za czwarty kwartał 2025 roku przez amerykańskie spółki wynika, że 76 proc. z nich przebiło oczekiwania analityków na poziomie zysku na akcję, a 73 proc. firm przekroczyło konsensus pod względem przychodów - podała firma FactSet.",
       "content_html": "",
       "date_published": "2026-02-07T13:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
-      "url": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-w-JSW-warunkiem-pozyskania-finansowania-Balczun-MAP-wywiad-9080553.html",
-      "title": "Restrukturyzacja albo bankructwo. JSW szuka 2,9 mld zł. Balczun: Konieczne są głębokie cięcia Restrukturyzacja Jastrzębskiej Spółki Węglowej jest warunkiem pozyskania przez nią finansowania. Jeśli dojdzie do porozumienia ze stroną społeczną, znajdą się sposoby, by podtrzymać płynność spółki w najbliższych tygodniach - poinformował w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
-      "content_html": "",
-      "date_published": "2026-02-07T09:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Minister-Balczun-ocenia-ze-zakup-Orlen-Paczka-nie-rozwiazalby-problemow-Poczty-Polskiej-9080551.html",
-      "url": "https://www.bankier.pl/wiadomosc/Minister-Balczun-ocenia-ze-zakup-Orlen-Paczka-nie-rozwiazalby-problemow-Poczty-Polskiej-9080551.html",
-      "title": "Dlaczego Poczta nie kupi Orlen Paczki? Balczun: Koniec z zakupami w imię polityki Poczta Polska musi skupić się na modernizacji i cyfryzacji, zakup Orlen Paczka nie rozwiązałby jej problemów – ocenił w rozmowie z PAP Biznes minister aktywów państwowych Wojciech Balczun.",
-      "content_html": "",
-      "date_published": "2026-02-07T09:04:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
