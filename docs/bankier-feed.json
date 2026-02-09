@@ -4,11 +4,53 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mniej-wegla-mniej-gornikow-PGG-chce-pozegnac-5-tys-pracownikow-9081179.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mniej-wegla-mniej-gornikow-PGG-chce-pozegnac-5-tys-pracownikow-9081179.html",
+      "title": "Mniej węgla, mniej górników. PGG chce pożegnać 5 tys. pracowników",
+      "content_html": "Polska Grupa Górnicza, która zatrudnia obecnie ok. 35 tys. osób, chciałaby w tym roku przy m.in. wykorzystaniu instrumentów osłonowych ze znowelizowanej ustawy górniczej zmniejszyć zatrudnienie o ok. 5 tys. osób - poinformował w poniedziałek...",
+      "date_published": "2026-02-09T18:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-oglosil-Strategie-2026-9081166.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cloud-Technologies-oglosil-Strategie-2026-9081166.html",
+      "title": "Cloud Technologies ogłosił Strategię 2026+",
+      "content_html": "Cloud Technologies przyjął Strategię 2026+ - poinformowała spółka w komunikacie prasowym. Strategia zakłada m.in. realizację skupu do 250 tys. sztuk akcji własnych oraz politykę dywidendową, zakładającą wypłatę akcjonariuszom kwoty 20...",
+      "date_published": "2026-02-09T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Slaby-dolar-mocna-gielda-Jest-odbicie-na-CD-Projekcie-9081159.html",
+      "url": "https://www.bankier.pl/wiadomosc/Slaby-dolar-mocna-gielda-Jest-odbicie-na-CD-Projekcie-9081159.html",
+      "title": "Słaby dolar, mocna giełda. Jest odbicie na CD Projekcie",
+      "content_html": "Poniedziałkowe notowania na warszawskiej giełdzie upłynęły pod znakiem słabości dolara, która wspierała obóz byków. Złoty umocnił się do amerykańskiej waluty o przeszło 1 proc., drożały ceny surowców i metali. Na WIG20 liczonym dolarach...",
+      "date_published": "2026-02-09T17:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/XTPL-chce-pozyskac-finansowanie-poprzez-emisje-akcji-9081154.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTPL-chce-pozyskac-finansowanie-poprzez-emisje-akcji-9081154.html",
+      "title": "XTPL chce pozyskać finansowanie poprzez emisję akcji",
+      "content_html": "XTPL podjęło decyzję o rozpoczęciu działań zmierzających do pozyskania dodatkowego finansowania poprzez emisję nie więcej niż 300.000 akcji zwykłych na okaziciela - poinformowała spółka w komunikacie prasowym.",
+      "date_published": "2026-02-09T17:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zamach-na-generala-z-GRU-FSB-polski-wywiad-pomogl-9080864.html",
       "url": "https://www.bankier.pl/wiadomosc/Zamach-na-generala-z-GRU-FSB-polski-wywiad-pomogl-9080864.html",
       "title": "Zamach na generała z GRU. FSB: polski wywiad pomógł",
       "content_html": "Rosyjska Federalna Służba Bezpieczeństwa (FSB) twierdzi, że zlecenie zamachu na wiceszefa wywiadu wojskowego GRU generała Władimira Aleksiejewa wydała Służba Bezpieczeństwa Ukrainy, zaś polski wywiad był zaangażowany w rekrutację napastnika...",
       "date_published": "2026-02-09T17:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nagroda-w-Monachium-dla-narodu-ukrainskiego-Laudacje-wyglosi-premier-Tusk-9081143.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nagroda-w-Monachium-dla-narodu-ukrainskiego-Laudacje-wyglosi-premier-Tusk-9081143.html",
+      "title": "Nagroda w Monachium dla narodu ukraińskiego. Laudację wygłosi premier Tusk",
+      "content_html": "Nagroda im. Ewalda von Kleista za 2026 rok, wręczana przez Monachijską Konferencję Bezpieczeństwa, zostanie w sobotę przyznana narodowi ukraińskiemu – poinformowali w poniedziałek organizatorzy. Według ich zapowiedzi laudację ma wygłosić...",
+      "date_published": "2026-02-09T16:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Europa-chce-udobruchac-Trumpa-NATO-wysyla-wojska-na-Grenlandie-9081140.html",
+      "url": "https://www.bankier.pl/wiadomosc/Europa-chce-udobruchac-Trumpa-NATO-wysyla-wojska-na-Grenlandie-9081140.html",
+      "title": "Europa chce udobruchać Trumpa. NATO wysyła wojska na Grenlandię",
+      "content_html": "NATO planuje w najbliższych dniach uruchomić wojskową misję pod nazwą Arktyczna Straż (Arctic Sentry), której celem ma być wzmocnienie obecności Sojuszu w Arktyce - wynika z nieoficjalnych informacji PAP.",
+      "date_published": "2026-02-09T16:53:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wakat-w-Banku-Francji-Villeroy-de-Galhau-ustapi-przed-koncem-kadencji-9081132.html",
@@ -282,6 +324,13 @@
       "title": "Zarobki lekarzy i pielęgniarek mocno wzrosną. GUS podał ważne dane",
       "content_html": "Płace minimalne w ochronie zdrowia od 1 lipca mają wzrosnąć o 8,82 proc. - wynika z opublikowanego w poniedziałek wskaźnika GUS, od którego uzależniona jest coroczna podwyżka wynagrodzeń w ochronie zdrowia.",
       "date_published": "2026-02-09T12:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podpisujesz-kontrakt-na-wojne-tracisz-Europe-Nowa-strategia-odstraszania-Kijowa-9080937.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podpisujesz-kontrakt-na-wojne-tracisz-Europe-Nowa-strategia-odstraszania-Kijowa-9080937.html",
+      "title": "Podpisujesz kontrakt na wojnę, tracisz Europę. Nowa strategia odstraszania Kijowa?",
+      "content_html": "Minister spraw zagranicznych Ukrainy Andrij Sybiha wezwał w poniedziałek do wprowadzenia w całej Unii Europejskiej całkowitego zakazu wjazdu dla obywateli Rosji, którzy brali udział w agresji przeciwko Ukrainie. Jego zdaniem chodzi o wzmocnienie...",
+      "date_published": "2026-02-09T12:06:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Polskie-watki-w-aktach-Epsteina-Skaut-szukal-kobiet-w-malych-wioskach-9079409.html",
@@ -646,41 +695,6 @@
       "title": "Marże jeszcze w dół. W hipotekach robi się ciekawie",
       "content_html": "Marże w kredytach hipotecznych ze zmienną stopą nadal spadają. A to oznacza, że kredyty lekko staniały mimo symbolicznego spadku WIBOR. Gdy wrócą oczekiwania na rychłe cięcie stóp, trend zadziała ze zdwojoną mocą.",
       "date_published": "2026-02-09T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wciaz-brakuje-kierowcow-i-motorniczych-Choc-zarobki-coraz-wyzsze-9080581.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wciaz-brakuje-kierowcow-i-motorniczych-Choc-zarobki-coraz-wyzsze-9080581.html",
-      "title": "Zawód deficytowy, ale coraz bardziej się opłaca. Tyle zarabiają kierowcy i motorniczowie",
-      "content_html": "Po kilku latach kryzysu kadrowego sytuacja w miejskich przedsiębiorstwach transportowych wyraźnie się poprawiła. Braki kierowców autobusów i motorniczych nie są już tak dramatyczne jak jeszcze dwa lata temu, ale miejskie spółki nadal prowadzą...",
-      "date_published": "2026-02-09T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-Hajnan-powstal-bezclowy-raj-podatkowy-Pilnie-strzezony-most-zza-chinskiego-muru-9080687.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-Hajnan-powstal-bezclowy-raj-podatkowy-Pilnie-strzezony-most-zza-chinskiego-muru-9080687.html",
-      "title": "Bezcłowy raj podatkowy. Chińskie Hawaje największą strefą wolnocłową świata",
-      "content_html": "Władze w Pekinie przekształciły całą wyspę o wielkości porównywalnej z Tajwanem czy Belgią w największą na świecie strefę bezcłową. To jedno z najbardziej ambitnych przedsięwzięć gospodarczych Chin, które do 2050 roku ma stać się...",
-      "date_published": "2026-02-09T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kryzys-na-Kubie-Linie-lotnicze-musza-szukac-paliwa-u-sasiadow-9080778.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kryzys-na-Kubie-Linie-lotnicze-musza-szukac-paliwa-u-sasiadow-9080778.html",
-      "title": "Kryzys na Kubie. Linie lotnicze muszą szukać paliwa u sąsiadów",
-      "content_html": "Władze kubańskie poinformowały linie lotnicze latające na Kubę, że poczynając od godz. 24 w nocy z poniedziałku na wtorek tankowanie samolotów paliwem lotniczym (kerosenem) zostanie zawieszone na miesiąc z powodu kryzysu energetycznego w tym...",
-      "date_published": "2026-02-09T03:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Antonio-Jose-Seguro-nowym-prezydentem-Portugalii-Najwieksza-w-historii-liczba-glosow-9080774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Antonio-Jose-Seguro-nowym-prezydentem-Portugalii-Najwieksza-w-historii-liczba-glosow-9080774.html",
-      "title": "Seguro nowym prezydentem Portugalii. \"Największa w historii liczba głosów\"",
-      "content_html": "Socjalista Antonio Jose Seguro wygrał w niedzielę II turę wyborów prezydenckich w Portugalii stając się szóstym szefem państwa w warunkach trwającej od 1974 r. demokracji w tym kraju - wynika z danych państwowej komisji wyborczej z ponad 99...",
-      "date_published": "2026-02-09T01:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-mediow-publicznych-na-Wegrzech-Lider-opozycji-uderza-w-fabryke-propagandy-9080767.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-mediow-publicznych-na-Wegrzech-Lider-opozycji-uderza-w-fabryke-propagandy-9080767.html",
-      "title": "Koniec mediów publicznych na Węgrzech? Lider opozycji uderza w \"fabrykę propagandy\"",
-      "content_html": "Peter Magyar, lider najważniejszej partii opozycyjnej na Węgrzech, zapowiedział w niedzielnym wpisie na X zawieszenie nadawania mediów publicznych po ewentualnej wygranej w kwietniowych wyborach parlamentarnych.",
-      "date_published": "2026-02-08T23:19:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
