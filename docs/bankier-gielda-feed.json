@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kim-jest-Kevin-Warsh-Nowy-szef-Fedu-proponuje-rewolucyjne-zmiany-9079649.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kim-jest-Kevin-Warsh-Nowy-szef-Fedu-proponuje-rewolucyjne-zmiany-9079649.html",
+      "title": "Kim jest Kevin Warsh? Nowy szef Fedu proponuje rewolucyjne zmiany Rynki finansowe odetchnęły z ulgą. Ale chyba jeszcze nie zdają sobie sprawy z tego, co może je czekać pod rządami Warsha.",
+      "content_html": "",
+      "date_published": "2026-02-09T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sezon-wynikow-w-USA-76-proc-spolek-przebilo-prognozy-zyskow-9080586.html",
       "url": "https://www.bankier.pl/wiadomosc/Sezon-wynikow-w-USA-76-proc-spolek-przebilo-prognozy-zyskow-9080586.html",
       "title": "Sezon wyników w USA. 76 proc. spółek przebiło prognozy zysków Z opublikowanych do tej pory raportów finansowych za czwarty kwartał 2025 roku przez amerykańskie spółki wynika, że 76 proc. z nich przebiło oczekiwania analityków na poziomie zysku na akcję, a 73 proc. firm przekroczyło konsensus pod względem przychodów - podała firma FactSet.",
@@ -30,20 +37,6 @@
       "title": "Wojna kapitałowa, ucieczka z USA i apokalipsa w segmencie SaaS. Sprawdzamy, co słychać na Wall Street Po wstrząsie wywołanym na rynkach przez tzw. apokalipsę SaaS, finansiści gorączkowo poszukują okazji zakupowych. Coraz częściej pojawia się temat dywersyfikacji kapitału w kierunku Europy i rynków wschodzących. Wszystko to dzieje się w cieniu ostrzeżeń o nadchodzącej „wojnie kapitałowej” oraz rosnącego populizmu w USA przed wyborami w połowie kadencji.",
       "content_html": "",
       "date_published": "2026-02-07T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stopy-stoja-spolki-traca-kryptowaluty-pod-presja-Globalny-reset-nastrojow-uderza-w-inwestorow-9080004.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stopy-stoja-spolki-traca-kryptowaluty-pod-presja-Globalny-reset-nastrojow-uderza-w-inwestorow-9080004.html",
-      "title": "WYKRESY TYGODNIA Stopy stoją, spółki tracą, kryptowaluty pod presją. Globalny reset nastrojów uderza w inwestorów Stopy procentowe stoją w miejscu, inflacja hamuje, a rynki finansowe gwałtownie zmieniają nastroje. Giełdy oddają zyski, kryptowaluty wpadają w panikę, surowce zaliczają korekty, a gospodarka wysyła coraz bardziej sprzeczne sygnały. Tydzień na wykresach Bankier.pl",
-      "content_html": "",
-      "date_published": "2026-02-07T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miesiac-po-obaleniu-Maduro-oznaki-odwilzy-i-otwarcie-sektora-naftowego-9078513.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miesiac-po-obaleniu-Maduro-oznaki-odwilzy-i-otwarcie-sektora-naftowego-9078513.html",
-      "title": "Miesiąc po obaleniu Maduro oznaki odwilży i otwarcie sektora naftowego W ciągu miesiąca od obalenia autorytarnego przywódcy Wenezueli Nicolasa Maduro przez siły USA tymczasowe władze kraju zwolniły setki więźniów politycznych, zapowiedziały amnestię i dopuściły udział prywatnych oraz zagranicznych firm w wydobyciu bogatych złóż ropy naftowej.",
-      "content_html": "",
-      "date_published": "2026-02-07T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
