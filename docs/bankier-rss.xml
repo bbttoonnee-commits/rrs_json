@@ -8,49 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 10 Feb 2026 15:29:00 +0100</lastBuildDate>
-    <item>
-      <title>Zwyżki w sektorze AI. Dow Jones powyżej 50 000 punktów.</title>
-      <link>https://www.bankier.pl/wiadomosc/Zwyzki-w-sektorze-AI-Dow-Jones-powyzej-50-000-punktow-9081222.html</link>
-      <description>W poniedziałek inwestorzy w pośpiechu kupowali akcje dokładnie tych samych firm, które w ubiegłym tygodniu niemal panicznie wyprzedawali.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zwyzki-w-sektorze-AI-Dow-Jones-powyzej-50-000-punktow-9081222.html</guid>
-      <pubDate>Mon, 09 Feb 2026 22:05:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Tak powstaje świat bez zasad. Ekonomista: Kupujemy taniej, a potem się dziwimy</title>
-      <link>https://www.bankier.pl/wiadomosc/Tak-powstaje-swiat-bez-zasad-Ekonomista-Kupujemy-taniej-a-potem-sie-dziwimy-9081142.html</link>
-      <description>Zrównoważony rozwój brzmi jak hasło z konferencji, ale w praktyce chodzi o coś prostszego: przyzwoitość. Problem w tym, że krótkoterminowy zysk często wypycha ją z biznesu, a konsumenci w kryzysie wybierają „taniej”, nie „odpowiedzialniej”...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tak-powstaje-swiat-bez-zasad-Ekonomista-Kupujemy-taniej-a-potem-sie-dziwimy-9081142.html</guid>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>KSeF: Awaria Profilu Zaufanego? Sprawdź inne metody logowania</title>
-      <link>https://www.bankier.pl/wiadomosc/KSeF-Awaria-Profilu-Zaufanego-Wyprobuj-inne-metody-logowania-9081066.html</link>
-      <description>Znowu nie możesz zalogować się do Krajowego Systemu e-Faktur przy pomocy Profilu Zaufanego? Przypominamy, że są też inne metody logowania. Z jakich opcji mogą korzystać przedsiębiorcy?</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/KSeF-Awaria-Profilu-Zaufanego-Wyprobuj-inne-metody-logowania-9081066.html</guid>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Australia skończyła z monetarnym eksperymentem. Czy pójdą za nią kolejni?</title>
-      <link>https://www.bankier.pl/wiadomosc/Australia-zawrocila-z-drogi-monetarnego-luzowania-Czy-pojda-za-nia-kolejni-9081060.html</link>
-      <description>Bank Rezerw Australii jako pierwszy bank centralny Zachodu zdecydował się na podwyżkę stóp procentowych po cyklu monetarnego luzowania.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Australia-zawrocila-z-drogi-monetarnego-luzowania-Czy-pojda-za-nia-kolejni-9081060.html</guid>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Fiskus zaostrza podejście do ryczałtu w IT. Kontraktorzy B2B znaleźli się pod lupą fiskusa</title>
-      <link>https://www.bankier.pl/wiadomosc/Koniec-taniego-ryczaltu-w-branzy-IT-Fiskus-zmienia-podejscie-do-opodatkowania-B2B-9081032.html</link>
-      <description>Skarbówka zaostrza zasady opodatkowania ryczałtem w branży IT. Nowa interpretacja podatkowa zmienia stanowisko fiskusa w sprawie możliwości stosowania 8,5-proc. stawki przez przedsiębiorców świadczących usługi kreatywne, np. tworzących ilustracje...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Koniec-taniego-ryczaltu-w-branzy-IT-Fiskus-zmienia-podejscie-do-opodatkowania-B2B-9081032.html</guid>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Sto lat Gdyni. Od baraków po najdroższe apartamenty i drenujące portfele czynsze</title>
-      <link>https://www.bankier.pl/wiadomosc/Sto-lat-Gdyni-Od-barakow-po-najdrozsze-apartamenty-i-drenujace-kieszenie-czynsze-9080961.html</link>
-      <description>Okrągłe sto lat temu – 10 lutego 1926 r. Gdynia uzyskała prawa miejskie. W dniu jubileuszu sprawdzamy, jak w ostatnich latach zmieniał się gdyński rynek nieruchomości. Wnioski dla szukających mieszkań – czy do kupienia, czy wynajęcia, nie...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Sto-lat-Gdyni-Od-barakow-po-najdrozsze-apartamenty-i-drenujace-kieszenie-czynsze-9080961.html</guid>
-      <pubDate>Tue, 10 Feb 2026 06:00:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Tue, 10 Feb 2026 16:40:00 +0100</lastBuildDate>
     <item>
       <title>Plaga „romansowych oszustw”. Blisko 40 proc. pokrzywdzonych w sieci uwierzyło w fałszywą tożsamość</title>
       <link>https://www.bankier.pl/wiadomosc/Plaga-romansowych-oszustw-Blisko-40-proc-pokrzywdzonych-w-sieci-uwierzylo-w-falszywa-tozsamosc-9080939.html</link>
@@ -556,6 +514,20 @@
       <pubDate>Tue, 10 Feb 2026 12:08:00 +0100</pubDate>
     </item>
     <item>
+      <title>Czarzasty apeluje do Nawrockiego. Będzie zmuszony wdrożyć "niedobre prawo"?</title>
+      <link>https://www.bankier.pl/wiadomosc/Czarzasty-apeluje-do-Nawrockiego-Bedzie-zmuszony-wdrozyc-niedobre-prawo-9081368.html</link>
+      <description>Marszałek Sejmu Włodzimierz Czarzasty zaapelował we wtorek do prezydenta Karola Nawrockiego o podpisanie noweli ustawy o KRS. Zapowiedział, że jeśli do tego nie dojdzie w ciągu dwóch najbliższych dni, rozpocznie procedurę wyboru sędziów-członków...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Czarzasty-apeluje-do-Nawrockiego-Bedzie-zmuszony-wdrozyc-niedobre-prawo-9081368.html</guid>
+      <pubDate>Tue, 10 Feb 2026 12:10:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Mocne otwarcie roku przez Wielton. Rejestracje wystrzeliły o 57%</title>
+      <link>https://www.bankier.pl/wiadomosc/Wielton-w-I-zarejestrowal-201-przyczep-i-naczep-o-57-0-proc-wiecej-rdr-PZPM-9081524.html</link>
+      <description>Wielton zarejestrował w styczniu 201 przyczep i naczep, czyli o 57,0 proc. więcej rdr - podał Polski Związek Przemysłu Motorowego, powołując się na dane CEP.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielton-w-I-zarejestrowal-201-przyczep-i-naczep-o-57-0-proc-wiecej-rdr-PZPM-9081524.html</guid>
+      <pubDate>Tue, 10 Feb 2026 12:36:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Ekonomia pączka. Ile będzie kosztował nas Tłusty Czwartek w 2026 roku?</title>
       <link>https://www.bankier.pl/wiadomosc/Paczki-a-inflacja-Ile-bedzie-kosztowal-nas-Tlusty-Czwartek-w-2026-roku-9081527.html</link>
       <description>Ceny pączków w 2026 r. pozostaną zbliżone do ubiegłorocznych lub będą nieco wyższe - prognozują eksperci banku BNP Paribas. Zaznaczyli, że choć większość składników pączków staniała, to jaja i olej zdrożały. Wzrosły też koszty związane...</description>
@@ -675,13 +647,6 @@
       <pubDate>Tue, 10 Feb 2026 15:18:00 +0100</pubDate>
     </item>
     <item>
-      <title>Europejski Nakaz Aresztowania dla Zbigniewa Ziobry. Jest decyzja śledczych</title>
-      <link>https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html</link>
-      <description>Prokurator wystąpił we wtorek z wnioskiem o wydanie Europejskiego Nakazu Aresztowania (ENA) wobec b. szefa MS, posła PiS Zbigniewa Ziobry, podejrzanego w śledztwie dot. nieprawidłowości w Funduszu Sprawiedliwości. Poinformował o tym rzecznik Prokuratury...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html</guid>
-      <pubDate>Tue, 10 Feb 2026 15:20:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Benjamin Netanjahu wiedział wcześniej? Szokujący raport o ataku Hamasu</title>
       <link>https://www.bankier.pl/wiadomosc/Benjamin-Netanjahu-wiedzial-wczesniej-Szokujacy-raport-o-ataku-Hamasu-9081643.html</link>
       <description>Premier Izraela Benjamin Netanjahu otrzymał informacje wywiadu o planowanym ataku Hamasu już w kwietniu 2018 r. – poinformował we wtorek portal Ynet, powołując się na dokumenty wywiadu i wypowiedzi wysokich rangą urzędników. Hamas zaatakował...</description>
@@ -694,6 +659,55 @@
       <description>Komisja Regulaminowa, Spraw Poselskich i Immunitetowych udzieliła we wtorek posłowi PiS Zbigniewowi Ziobrze nagany. Decyzja została podjęta po rozpatrzeniu pisma marszałka Sejmu w tej sprawie, chodzi o nieobecności posła PiS na posiedzeniach Sejmu...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-straci-diete-Marszalek-Sejmu-zapowiada-radykalne-kroki-9081541.html</guid>
       <pubDate>Tue, 10 Feb 2026 15:29:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rewolucja w Czystym Powietrzu. Krótszy czas posiadania domu i bon na audyt</title>
+      <link>https://www.bankier.pl/wiadomosc/Rewolucja-w-Czystym-Powietrzu-Krotszy-czas-posiadania-domu-i-bon-na-audyt-9081654.html</link>
+      <description>W przyszłym tygodniu rozpoczną się konsultacje ws. zmian w programie „Czyste Powietrze”; w planach są umowy trójstronne obejmujące też wykonawców robót, bon na audyt czy skrócenie okresu posiadania nieruchomości, aby móc skorzystać z...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rewolucja-w-Czystym-Powietrzu-Krotszy-czas-posiadania-domu-i-bon-na-audyt-9081654.html</guid>
+      <pubDate>Tue, 10 Feb 2026 15:37:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Stopy procentowe spadną do 3,5 proc.? Członek RPP ujawnia dwa scenariusze</title>
+      <link>https://www.bankier.pl/wiadomosc/Stopy-procentowe-spadna-do-3-5-proc-Czlonek-RPP-ujawnia-dwa-scenariusze-9081660.html</link>
+      <description>Członek RPP Przemysław Litwiniuk widzi dwa scenariusze w krótkim terminie dla stóp procentowych: dwie obniżki stóp po 25 pb., w tym jedna w marcu, albo jedna o 50 pb., być może już w kwietniu - poinformował ekonomista w rozmowie z agencją Bloomberg...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Stopy-procentowe-spadna-do-3-5-proc-Czlonek-RPP-ujawnia-dwa-scenariusze-9081660.html</guid>
+      <pubDate>Tue, 10 Feb 2026 15:50:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Nowy cel klimatyczny UE. Redukcja o 90 proc. stanie się faktem, ETS2 opóźniony o rok</title>
+      <link>https://www.bankier.pl/wiadomosc/Nowy-cel-klimatyczny-UE-Redukcja-o-90-proc-stanie-sie-faktem-ETS2-opozniony-o-rok-9081667.html</link>
+      <description>Parlament Europejski zaakceptował we wtorek w głosowaniu wyznaczenie nowego celu klimatycznego na 2040 r. Emisja CO2 w UE będzie musiała zmniejszyć się wówczas o 90 proc. w stosunku do poziomu z 1990 r. PE opowiedział się też za opóźnieniem...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Nowy-cel-klimatyczny-UE-Redukcja-o-90-proc-stanie-sie-faktem-ETS2-opozniony-o-rok-9081667.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:02:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Europejski Nakaz Aresztowania dla Zbigniewa Ziobry. Jest decyzja śledczych</title>
+      <link>https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html</link>
+      <description>Prokurator wystąpił we wtorek z wnioskiem o wydanie Europejskiego Nakazu Aresztowania (ENA) wobec b. szefa MS, posła PiS Zbigniewa Ziobry, podejrzanego w śledztwie dot. nieprawidłowości w Funduszu Sprawiedliwości. Poinformował o tym rzecznik Prokuratury...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Europejski-Nakaz-Aresztowania-dla-Zbigniewa-Ziobry-Jest-decyzja-sledczych-9081625.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:18:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Niższe rachunki za gaz. Prezes URE zatwierdziła nową taryfę Orlenu</title>
+      <link>https://www.bankier.pl/wiadomosc/URE-zatwierdzil-taryfe-dla-myORLEN-od-25-II-cena-gazu-dla-gosp-domowych-spadnie-do-197-29-zl-MWh-9081685.html</link>
+      <description>Prezes Urzędu Regulacji Energetyki zatwierdził taryfę na sprzedaż paliw gazowych dla myORLEN (dawniej PGNiG Obrót Detaliczny), obowiązującą od 25 lutego do 30 czerwca 2026 r. Cena gazu ziemnego dla gospodarstw domowych wyniesie 197,29 zł/MWh...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/URE-zatwierdzil-taryfe-dla-myORLEN-od-25-II-cena-gazu-dla-gosp-domowych-spadnie-do-197-29-zl-MWh-9081685.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:34:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Skandal w Dino Polska. Zamiast zarządu na spotkanie ze związkami przyjechali… prawnicy</title>
+      <link>https://www.bankier.pl/wiadomosc/Zarzad-Dino-mial-spotkac-sie-ze-zwiazkowcami-Przyslal-prawnikow-i-specjaliste-ds-BHP-9081691.html</link>
+      <description>Po wielu tygodniach ignorowania działań związków zawodowych, zarząd Dino Polska zaproponował w końcu spotkanie. Tym razem z propozycją wyszli przedstawiciele sieci, której pracownicy mają w ostatnich tygodniach bardzo wiele do zarzucenia. Okazało...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zarzad-Dino-mial-spotkac-sie-ze-zwiazkowcami-Przyslal-prawnikow-i-specjaliste-ds-BHP-9081691.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:36:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>ZUS idzie na rękę JSW. Spółka może zapłacić należności w ratach</title>
+      <link>https://www.bankier.pl/wiadomosc/ZUS-wyrazil-zgode-na-rozlozenie-na-raty-naleznosci-ze-skladek-na-m-in-ubezpieczenia-spoleczne-przez-JSW-9081695.html</link>
+      <description>Zakład Ubezpieczeń Społecznych wyraził zgodę dla JSW na rozłożenie na raty należności ze składek na ubezpieczenia społeczne i zdrowotne, FP, FGŚP i FEP - podała JSW w komunikacie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/ZUS-wyrazil-zgode-na-rozlozenie-na-raty-naleznosci-ze-skladek-na-m-in-ubezpieczenia-spoleczne-przez-JSW-9081695.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:40:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
