@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-musi-stawiac-na-rynek-kapitalowy-OKI-edukacja-i-zaufanie-zwieksza-inwestycje-IDM-wywiad-9082052.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-musi-stawiac-na-rynek-kapitalowy-OKI-edukacja-i-zaufanie-zwieksza-inwestycje-IDM-wywiad-9082052.html",
+      "title": "Polska musi stawiać na rynek kapitałowy; OKI, edukacja i zaufanie zwiększą inwestycje – IDM (wywiad) Małe znaczenie rynku kapitałowego jest barierą rozwoju innowacyjności polskiej gospodarki – ocenia prezes IDM Waldemar Markiewicz. Jego zdaniem konieczna jest większa podaż kapitału krajowego, a drogą do tego jest m.in. wdrożenie OKI, rozwój TFI, PPK i IKE/IKZE, edukacja i budowa zaufania do rynku.",
+      "content_html": "",
+      "date_published": "2026-02-11T11:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Katolickie-indeksy-gieldowe-Banku-Watykanu-oto-najwieksze-pozycje-9081995.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katolickie-indeksy-gieldowe-Banku-Watykanu-oto-najwieksze-pozycje-9081995.html",
+      "title": "Bank Watykanu uruchomi katolickie indeksy giełdowe. Ta spółka waży w nich najwięcej Bank Watykański zamierza uruchomić dwa giełdowe indeksy, w których składzie znajdą się akcje spółek \"zgodnych z wartościami katolickimi\". Ten nietypowy przykład współpracy Watykanu z sektorem finansowym powstanie przy udziale amerykańskiego przedsiębiorstwa inwestycyjnego Morningstar.",
+      "content_html": "",
+      "date_published": "2026-02-11T11:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-przejmuje-25-proc-udzialow-w-zlozu-Afrodyta-9081981.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-przejmuje-25-proc-udzialow-w-zlozu-Afrodyta-9081981.html",
       "title": "Orlen przejmuje 25 proc. udziałów w złożu Afrodyta na M. Północnym Orlen Upstream Norway przejął od Var Energi 25 proc. udziałów w koncesji PL293 na Morzu Północnym, która obejmuje niekonwencjonalne złoże Afrodyta, które może zapewnić koncernowi prawie 2 mld m sześc. gazu ziemnego - podała spółka w komunikacie prasowym.",
@@ -109,18 +123,18 @@
       "date_published": "2026-02-10T18:36:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/ING-i-Rabobank-maja-dosc-gigantow-z-USA-Szykuja-rewolucje-ktora-zmieni-europejski-sektor-IT-9081776.html",
+      "url": "https://www.bankier.pl/wiadomosc/ING-i-Rabobank-maja-dosc-gigantow-z-USA-Szykuja-rewolucje-ktora-zmieni-europejski-sektor-IT-9081776.html",
+      "title": "ING i Rabobank mają dość gigantów z USA. Szykują rewolucję, która zmieni europejski sektor IT Największe holenderskie banki – Rabobank, ING i ABN Amro – zamierzają zmniejszyć zależność od amerykańskich gigantów technologicznych. Wspólnie z innymi bankami w Europie pracują nad rozwiązaniami, które mają wzmocnić europejską suwerenność cyfrową - podał we wtorek publiczny nadawca NOS.",
+      "content_html": "",
+      "date_published": "2026-02-10T18:36:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-200-tys-akcji-po-35-zl-szt-9081733.html",
       "url": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-200-tys-akcji-po-35-zl-szt-9081733.html",
       "title": "LSI Software zaprasza do sprzedaży do 200 tys. akcji, po 35 zł/szt. LSI Software zaprasza do składania przez akcjonariuszy ofert sprzedaży do 200.000 akcji spółki, reprezentujących do ok. 7 proc. kapitału zakładowego i nie więcej niż ok. 5 proc. ogólnej liczby głosów, po cenie 35 zł za papier - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-10T17:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Shoper-zawarl-z-cyber-Folks-umowy-pozyczek-na-42-mln-zl-celem-sfinansowania-zakupu-PretaShop-9081728.html",
-      "url": "https://www.bankier.pl/wiadomosc/Shoper-zawarl-z-cyber-Folks-umowy-pozyczek-na-42-mln-zl-celem-sfinansowania-zakupu-PretaShop-9081728.html",
-      "title": "Shoper zawarł z cyber_Folks umowy pożyczek na 42 mln zł celem sfinansowania zakupu PretaShop Shoper zawarł ze swoim głównym akcjonariuszem, czyli spółką cyber_Folks, dwie umowy pożyczek na łączną kwotę 42 mln zł. Celem jest sfinansowanie zakupu platformy PretaShop do czasu refinansowania transakcji przez konsorcjum banków - podał Shoper w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-10T17:24:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KGHM-pod-ostrzalem-analitykow-Dino-igra-z-pracownikami-9081727.html",
@@ -415,13 +429,6 @@
       "title": "Develia zrealizuje akademik we Wrocławiu z ponad 620 pokojami Develia w ramach umowy o współpracy joint venture z Mosaic Poland Holding, należącą do Mosaic World, międzynarodowej grupy działającej w sektorze micro-living, zrealizuje akademik z ponad 620 pokojami i lokalami usługowymi oraz infrastrukturą towarzyszącą - podała spółka w komunikacie prasowym. Docelowo Develia będzie posiadać 25 proc. udziałów w spółce joint venture, a Mosaic 75 proc. udziałów.",
       "content_html": "",
       "date_published": "2026-02-09T12:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hossa-nie-powiedziala-ostatniego-slowa-Eksperci-PZU-wskazuja-gdzie-zarobisz-najwiecej-9080845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hossa-nie-powiedziala-ostatniego-slowa-Eksperci-PZU-wskazuja-gdzie-zarobisz-najwiecej-9080845.html",
-      "title": "Hossa nie powiedziała ostatniego słowa. Eksperci PZU wskazują, gdzie zarobisz najwięcej W 2026 r. globalne rynki akcji mogą utrzymać wzrosty m.in. dzięki rosnącym nawet dwucyfrowo zyskom spółek (EPS). Największy potencjał analitycy TFI PZU widzą w Europie. Ich zdaniem, polskie akcje prezentują się solidnie, a zwyżki na GPW powinny wspierać czynniki lokalne i globalne.",
-      "content_html": "",
-      "date_published": "2026-02-09T11:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
