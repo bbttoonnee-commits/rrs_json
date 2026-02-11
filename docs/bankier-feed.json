@@ -529,13 +529,6 @@
       "date_published": "2026-02-10T10:06:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-ruszyli-z-biznesem-Upadlosci-w-gore-ale-nowych-firm-przybywa-szybciej-9081365.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-ruszyli-z-biznesem-Upadlosci-w-gore-ale-nowych-firm-przybywa-szybciej-9081365.html",
-      "title": "Polacy ruszyli z biznesem. Upadłości w górę, ale nowych firm przybywa szybciej",
-      "content_html": "W IV kwartale 2025 r. odnotowano 102 upadłości podmiotów gospodarczych, tj. o 7 więcej niż w analogicznym okresie ubiegłego roku - podał Główny Urząd Statystyczny.",
-      "date_published": "2026-02-10T10:05:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Historyczny-proces-w-Hadze-Byly-prezydent-Kosowa-ma-spedzic-reszte-zycia-w-celi-9081245.html",
       "url": "https://www.bankier.pl/wiadomosc/Historyczny-proces-w-Hadze-Byly-prezydent-Kosowa-ma-spedzic-reszte-zycia-w-celi-9081245.html",
       "title": "Historyczny proces w Hadze. Były prezydent Kosowa ma spędzić resztę życia w celi",
@@ -674,34 +667,6 @@
       "title": "Minister handlu USA przyłapany na kłamstwie. Akta Epsteina pogrążają Howarda Lutnicka",
       "content_html": "Co najmniej kilkoro członków Kongresu USA wezwało Howarda Lutnicka do rezygnacji ze stanowiska ministra handlu z uwagi na jego powiązania z przestępcą seksualnym Jeffreyem Epsteinem. Zarzucono mu kłamstwo w sprawie kontaktów z tym finansistą...",
       "date_published": "2026-02-10T08:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-mBanku-w-IV-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu-opis-9081246.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-mBanku-w-IV-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu-opis-9081246.html",
-      "title": "mBank bije prognozy analityków. Ponad miliard zysku w jednym kwartale",
-      "content_html": "Zysk netto grupy mBanku w IV kwartale 2025 r. wzrósł do 1041 mln zł z 986 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 7,8 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 965,9 mln zł.",
-      "date_published": "2026-02-10T08:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stabilizacja-cen-ropy-przy-napieciach-na-Bliskim-Wschodzie-9081320.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stabilizacja-cen-ropy-przy-napieciach-na-Bliskim-Wschodzie-9081320.html",
-      "title": "Stabilizacja cen ropy przy napięciach na Bliskim Wschodzie",
-      "content_html": "Ceny ropy naftowej zmieniają się w wąskim przedziale, a inwestorzy oceniają zagrożenia na Bliskim Wschodzie związane z Iranem - informują maklerzy.",
-      "date_published": "2026-02-10T08:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Temu-w-I-wyprzedzalo-Allegro-w-liczbie-uzytkownikow-i-zasiegach-Mediapanel-9081317.html",
-      "url": "https://www.bankier.pl/wiadomosc/Temu-w-I-wyprzedzalo-Allegro-w-liczbie-uzytkownikow-i-zasiegach-Mediapanel-9081317.html",
-      "title": "Temu wyprzedzało Allegro w liczbie użytkowników i zasięgach",
-      "content_html": "Temu miało w styczniu 20,34 mln użytkowników (Real Users) na wszystkich urządzeniach - wynika z badania Mediapanel. Drugie w kolejności było Allegro, które miało 18,9 mln użytkowników (Real Users).",
-      "date_published": "2026-02-10T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mark-Zuckerberg-i-szef-YouTube-a-przed-sadem-Precedensowa-sprawa-moze-kosztowac-gigantow-miliardy-9081240.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mark-Zuckerberg-i-szef-YouTube-a-przed-sadem-Precedensowa-sprawa-moze-kosztowac-gigantow-miliardy-9081240.html",
-      "title": "Mark Zuckerberg i szef YouTube'a przed sądem. Precedensowa sprawa może kosztować gigantów miliardy",
-      "content_html": "W sądzie w Los Angeles rozpoczął się w poniedziałek długo oczekiwany proces cywilny przeciwko platformom Meta i YouTube, oskarżonych przez nastolatkę o celowe uzależnianie od nich i powodowanie szkód dla zdrowia psychicznego. Wynik precedensowej...",
-      "date_published": "2026-02-10T07:40:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
