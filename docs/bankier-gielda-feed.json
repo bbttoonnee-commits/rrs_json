@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
+      "title": "MOL wchodzi do Libii w ramach spółki joint venture z firmami Repsol oraz TPAO Grupa MOL wchodzi do Libii dzięki wspólnemu udziałowi w przetargu z firmami Repsol oraz Türkiye Petrolleri A. O. (TPAO) na obszar poszukiwań morskich (offshore) na Morzu Śródziemnym - podał MOL w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-11T16:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-styczniu-do-ponad-450-mld-zl-9082193.html",
       "url": "https://www.bankier.pl/wiadomosc/Aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-styczniu-do-ponad-450-mld-zl-9082193.html",
       "title": "Aktywa krajowych funduszy inwestycyjnych przekroczyły granicę 450 mld zł W styczniu aktywa funduszy inwestycyjnych powiększyły się o 15,3 mld zł, przekraczając na koniec miesiąca granicę 450 mld zł - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
@@ -387,34 +394,6 @@
       "title": "XTPL chce pozyskać finansowanie poprzez emisję akcji XTPL podjęło decyzję o rozpoczęciu działań zmierzających do pozyskania dodatkowego finansowania poprzez emisję nie więcej niż 300.000 akcji zwykłych na okaziciela - poinformowała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-02-09T17:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lubawa-szacuje-zysk-netto-w-25-na-48-mln-zl-wzrost-o-37-1-proc-rdr-9081128.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lubawa-szacuje-zysk-netto-w-25-na-48-mln-zl-wzrost-o-37-1-proc-rdr-9081128.html",
-      "title": "Lubawa szacuje zysk netto w '25 na 48 mln zł; wzrost o 37,1 proc. rdr Lubawa szacuje jednostkowy zysk netto za 2025 rok na 48 mln zł, wobec 35 mln zł zysku w 2024 r., co stanowi wzrost o 37,1 proc. rdr - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-09T16:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Inter-Cars-miala-w-styczniu-1-605-9-mln-zl-przychodow-wzrost-rdr-o-4-proc-9081108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Inter-Cars-miala-w-styczniu-1-605-9-mln-zl-przychodow-wzrost-rdr-o-4-proc-9081108.html",
-      "title": "Grupa Inter Cars miała w styczniu 1.605,9 mln zł przychodów, wzrost rdr o 4 proc. Grupa Inter Cars miała w styczniu 1.605,9 mln zł przychodów, co oznacza wzrost rdr o 4 proc. - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-09T16:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polski-system-czeska-ciezarowka-PGZ-i-CSG-powalcza-o-kontrakty-na-Bliskim-Wschodzie-9081102.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polski-system-czeska-ciezarowka-PGZ-i-CSG-powalcza-o-kontrakty-na-Bliskim-Wschodzie-9081102.html",
-      "title": "Polski system, czeska ciężarówka. PGZ i CSG powalczą o kontrakty na Bliskim Wschodzie Czechoslovak Group (CSG) podpisał umowę o współpracy z Polską Grupą Zbrojeniową (PGZ) w zakresie integracji Modułowego Systemu Minowania Narzutowego (MSMN) z podwoziami Tatra oraz oferowania tego rozwiązania na rynkach eksportowych - podał CSG. Rozwiązanie to może być oferowane m.in. w Arabii Saudyjskiej.",
-      "content_html": "",
-      "date_published": "2026-02-09T15:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Piotr-Scigala-zrezygnowal-z-funkcji-czlonka-zarzadu-Dino-9081095.html",
-      "url": "https://www.bankier.pl/wiadomosc/Piotr-Scigala-zrezygnowal-z-funkcji-czlonka-zarzadu-Dino-9081095.html",
-      "title": "Piotr Ścigała zrezygnował z funkcji członka zarządu Dino Piotr Ścigała złożył rezygnację z pełnienia funkcji członka zarządu Dino Polska ze skutkiem na moment jej złożenia - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-09T15:42:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
