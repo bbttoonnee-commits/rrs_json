@@ -11,6 +11,13 @@
       "date_published": "2026-02-11T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-Poland-weszlo-do-indeksu-MSCI-Poland-wypadlo-z-niego-CCC-opis-9081853.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-weszlo-do-indeksu-MSCI-Poland-wypadlo-z-niego-CCC-opis-9081853.html",
+      "title": "Asseco Poland weszło do indeksu MSCI Poland, wypadło z niego CCC (opis)",
+      "content_html": "Asseco Poland w wyniku kwartalnej rewizji weszło w skład indeksu MSCI Poland, a wypadło z niego CCC - poinformowało MSCI w komunikacie.",
+      "date_published": "2026-02-11T00:08:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zgoda-UOKIK-na-przejecie-przez-DD-Rail-Properties-kontroli-nad-gieldowym-OT-Logistics-9081848.html",
       "url": "https://www.bankier.pl/wiadomosc/Zgoda-UOKIK-na-przejecie-przez-DD-Rail-Properties-kontroli-nad-gieldowym-OT-Logistics-9081848.html",
       "title": "Zgoda UOKIK na przejęcie przez DD Rail Properties kontroli nad giełdowym OT Logistics",
@@ -695,13 +702,6 @@
       "title": "Mark Zuckerberg i szef YouTube'a przed sądem. Precedensowa sprawa może kosztować gigantów miliardy",
       "content_html": "W sądzie w Los Angeles rozpoczął się w poniedziałek długo oczekiwany proces cywilny przeciwko platformom Meta i YouTube, oskarżonych przez nastolatkę o celowe uzależnianie od nich i powodowanie szkód dla zdrowia psychicznego. Wynik precedensowej...",
       "date_published": "2026-02-10T07:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Zbliza-sie-Chinski-Nowy-Rok-9081314.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Zbliza-sie-Chinski-Nowy-Rok-9081314.html",
-      "title": "Ceny miedzi w Londynie spadają. Zbliża się Chiński Nowy Rok",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają po ostatnich zwyżkach napędzanych zakupami ze strony chińskich inwestorów. W Chinach zbliża się czas świętowania Nowego Roku Księżycowego, a aktywność gospodarcza osłabnie - informują...",
-      "date_published": "2026-02-10T07:39:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
