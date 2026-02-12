@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
+      "title": "Spółka zależna Trakcji z kontraktem na Litwie. 105 mln zł za infrastrukturę Spółka zależna Trakcji, AB Kauno tiltai, podpisała umowę z AB LTG Infra (Drogi kolejowe Litwy), która dot. projektowania i budowy infrastruktury kolejowej 31669 na poligonie w Rudnikach - podała Trakcja w komunikacie. Wartość umowy wynosi ok. 105,3 mln zł netto.",
+      "content_html": "",
+      "date_published": "2026-02-12T18:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DataWalk-chce-podwyzszyc-kapital-w-granicach-kapitalu-docelowego-przez-emisje-nowych-akcji-9083007.html",
+      "url": "https://www.bankier.pl/wiadomosc/DataWalk-chce-podwyzszyc-kapital-w-granicach-kapitalu-docelowego-przez-emisje-nowych-akcji-9083007.html",
+      "title": "DataWalk chce podwyższyć kapitał w granicach kapitału docelowego przez emisję nowych akcji DataWalk chce podwyższyć kapitał poprzez emisję nowych akcji zwykłych na okaziciela serii T z wyłączeniem w całości prawa poboru dotychczasowych akcjonariuszy - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-12T18:44:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
       "title": "Dostawy gazu zabezpieczone na 5 lat. ZZE PAK zapewnia gaz dla bloku w Turku Spółka pośrednio zależna od ZE PAK, PAK CCGT, oraz Duon Dystrybucja, zawarły umowę zapewniającą dostawy paliwa gazowego do bloku gazowo-parowego (CCGT) zlokalizowanego w Turku - podał ZE PAK w komunikacie.",
@@ -338,20 +352,6 @@
       "title": "Budimex zawarł umowę z Gaz-Systemem na budowę Tłoczni Gazu Lwówek Budimex zawarł z OGP Gaz-System umowę na budowę Tłoczni Gazu Lwówek. Etap I - podał Budimex w komunikacie. Maksymalna wartość umowy wynosi 481,2 mln zł netto.",
       "content_html": "",
       "date_published": "2026-02-10T20:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Equnico-chce-wspolpracowac-z-Grupa-PBI-w-obszarze-budownictwa-energetycznego-9081775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Equnico-chce-wspolpracowac-z-Grupa-PBI-w-obszarze-budownictwa-energetycznego-9081775.html",
-      "title": "Equnico chce współpracować z Grupą PBI w obszarze budownictwa energetycznego Spółka Equnico podpisała list intencyjny z Grupą PBI, dotyczący planowanego nawiązania strategicznej współpracy w obszarze budownictwa energetycznego - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-10T18:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ING-i-Rabobank-maja-dosc-gigantow-z-USA-Szykuja-rewolucje-ktora-zmieni-europejski-sektor-IT-9081776.html",
-      "url": "https://www.bankier.pl/wiadomosc/ING-i-Rabobank-maja-dosc-gigantow-z-USA-Szykuja-rewolucje-ktora-zmieni-europejski-sektor-IT-9081776.html",
-      "title": "ING i Rabobank mają dość gigantów z USA. Szykują rewolucję, która zmieni europejski sektor IT Największe holenderskie banki – Rabobank, ING i ABN Amro – zamierzają zmniejszyć zależność od amerykańskich gigantów technologicznych. Wspólnie z innymi bankami w Europie pracują nad rozwiązaniami, które mają wzmocnić europejską suwerenność cyfrową - podał we wtorek publiczny nadawca NOS.",
-      "content_html": "",
-      "date_published": "2026-02-10T18:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

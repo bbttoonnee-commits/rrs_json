@@ -4,9 +4,37 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
+      "title": "Nawrocki \"poprawia\" SAFE i wzywa szefów służb ws. Czarzastego",
+      "content_html": "Szef Kancelarii Prezydenta Zbigniew Bogucki i szef Biura Bezpieczeństwa Narodowego Sławomir Cenckiewicz rozpoczęli prace nad poprawkami do projektu ustawy dotyczącej programu SAFE - poinformował rzecznik prezydenta Rafał Leśkiewicz. Będą dotyczyć...",
+      "date_published": "2026-02-12T19:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
+      "title": "Spółka zależna Trakcji z kontraktem na Litwie. 105 mln zł za infrastrukturę",
+      "content_html": "Spółka zależna Trakcji, AB Kauno tiltai, podpisała umowę z AB LTG Infra (Drogi kolejowe Litwy), która dot. projektowania i budowy infrastruktury kolejowej 31669 na poligonie w Rudnikach - podała Trakcja w komunikacie. Wartość umowy wynosi ok...",
+      "date_published": "2026-02-12T18:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DataWalk-chce-podwyzszyc-kapital-w-granicach-kapitalu-docelowego-przez-emisje-nowych-akcji-9083007.html",
+      "url": "https://www.bankier.pl/wiadomosc/DataWalk-chce-podwyzszyc-kapital-w-granicach-kapitalu-docelowego-przez-emisje-nowych-akcji-9083007.html",
+      "title": "DataWalk chce podwyższyć kapitał w granicach kapitału docelowego przez emisję nowych akcji",
+      "content_html": "DataWalk chce podwyższyć kapitał poprzez emisję nowych akcji zwykłych na okaziciela serii T z wyłączeniem w całości prawa poboru dotychczasowych akcjonariuszy - podała spółka w komunikacie.",
+      "date_published": "2026-02-12T18:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Senacka-komisja-rolnictwa-za-nowelizacja-KOWR-ma-czas-do-2027-r-na-wydanie-srodkow-9082991.html",
+      "url": "https://www.bankier.pl/wiadomosc/Senacka-komisja-rolnictwa-za-nowelizacja-KOWR-ma-czas-do-2027-r-na-wydanie-srodkow-9082991.html",
+      "title": "Senacka komisja rolnictwa za nowelizacją. KOWR ma czas do 2027 r. na wydanie środków",
+      "content_html": "Senacka komisja rolnictwa zarekomendowała w czwartek Senatowi przyjęcie bez poprawek nowelizacji ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa. Nowe przepisy pozwalają KOWR wydać do końca 2027 r. niewykorzystane środki, które...",
+      "date_published": "2026-02-12T18:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
-      "title": "Spółka ZE PAK ma umowę na dostawę gazu dla bloku CCGT",
+      "title": "Dostawy gazu zabezpieczone na 5 lat. ZZE PAK zapewnia gaz dla bloku w Turku",
       "content_html": "Spółka pośrednio zależna od ZE PAK, PAK CCGT, oraz Duon Dystrybucja, zawarły umowę zapewniającą dostawy paliwa gazowego do bloku gazowo-parowego (CCGT) zlokalizowanego w Turku - podał ZE PAK w komunikacie.",
       "date_published": "2026-02-12T18:14:00+01:00"
     },
@@ -16,6 +44,20 @@
       "title": "Orlen i KOWR łączą siły. Ogłoszono plany współpracy z rolnictwem",
       "content_html": "Orlen oraz Krajowy Ośrodek Wsparcia Rolnictwa nawiązały strategiczną współpracę w obszarze budowy, eksploatacji i rozwoju instalacji biogazowych i biometanowych w Polsce - podał Orlen w komunikacie prasowym.",
       "date_published": "2026-02-12T18:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rentownosci-polskich-obligacji-ponizej-5-proc-To-najnizszy-poziom-od-dwoch-lat-9082987.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rentownosci-polskich-obligacji-ponizej-5-proc-To-najnizszy-poziom-od-dwoch-lat-9082987.html",
+      "title": "Rentowności polskich obligacji poniżej 5 proc. To najniższy poziom od dwóch lat",
+      "content_html": "Rentowności polskich 10-letnich obligacji skarbowych wynoszą mniej niż 5 proc; to najniżej od dwóch lat - poinformował w czwartek na platformie X minister finansów i gospodarki Andrzej Domański. Jego zdaniem inwestorzy doceniają stabilną politykę...",
+      "date_published": "2026-02-12T18:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bielgorod-bez-pradu-Ponad-220-tysiecy-osob-poszkodowanych-po-ataku-Ukrainy-9082983.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bielgorod-bez-pradu-Ponad-220-tysiecy-osob-poszkodowanych-po-ataku-Ukrainy-9082983.html",
+      "title": "Biełgorod bez prądu. Ponad 220 tysięcy osób poszkodowanych po ataku Ukrainy",
+      "content_html": "Ponad 220 tys. osób zostało pozbawionych prądu w obwodzie biełgorodzkim, na południowym zachodzie Rosji, po ukraińskim ataku, który spowodował awarię podstacji - poinformowała w czwartek agencja Reutera, powołując się na gubernatora obwodu...",
+      "date_published": "2026-02-12T18:01:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Awaria-kabla-Polska-Szwecja-PSE-System-pracuje-stabilnie-brak-cech-celowego-dzialania-9082980.html",
@@ -32,6 +74,20 @@
       "date_published": "2026-02-12T17:54:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Radni-PiS-chca-zmian-w-SCT-Projekt-zwolnienia-dla-mieszkancow-trafil-do-komisji-9082963.html",
+      "url": "https://www.bankier.pl/wiadomosc/Radni-PiS-chca-zmian-w-SCT-Projekt-zwolnienia-dla-mieszkancow-trafil-do-komisji-9082963.html",
+      "title": "Warszawa: Czy mieszkańcy będą mogli jeździć starszymi autami po SCT?",
+      "content_html": "Radni PiS zaproponowali projekt uchwały, która pozwalałaby mieszkańcom Warszawy jeździć po strefie czystego transportu samochodami będącymi ich własnością, bez względu na wiek aut. Projekt został skierowany do komisji.",
+      "date_published": "2026-02-12T17:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Portfele-seniorow-nieco-grubsze-O-ile-wzrosna-wyplaty-od-marca-9082956.html",
+      "url": "https://www.bankier.pl/wiadomosc/Portfele-seniorow-nieco-grubsze-O-ile-wzrosna-wyplaty-od-marca-9082956.html",
+      "title": "Portfele seniorów nieco grubsze. O ile wzrosną wypłaty od marca?",
+      "content_html": "Emerytury i renty w 2026 r. wzrosną o 5,3 proc. ogłosiło ministerstwo rodziny, pracy i polityki społecznej. Teraz ZUS wyliczy konkretne kwoty, które będą wypłacane od 1 marca.",
+      "date_published": "2026-02-12T17:39:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-CD-Projektu-zdecyduje-o-warunku-wynikowym-Programu-Motywacyjnego-B-w-26-29-w-wys-5-mld-zl-9082949.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-CD-Projektu-zdecyduje-o-warunku-wynikowym-Programu-Motywacyjnego-B-w-26-29-w-wys-5-mld-zl-9082949.html",
       "title": "CD Projekt celuje w 5 mld zł zysku w latach 2026-2029. Decyzje o programie motywacyjnym",
@@ -43,6 +99,13 @@
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
       "title": "Porządki w Grupie Azoty. Prezes i wiceprezesi odwołani",
       "content_html": "Rada nadzorcza Grupy Azoty odwołała w czwartek trzech członków zarządu: prezesa Andrzeja Skolmowskiego i wiceprezesów Pawła Bielskiego oraz Andrzeja Dawidowskiego. Jednocześnie Ministerstwo Aktywów Państwowych zapowiedziało dokapitalizowanie...",
+      "date_published": "2026-02-12T17:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Po-wyroku-TSUE-sprawy-WIBOR-owe-beda-rozpatrywane-indywidualnie-9082941.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-wyroku-TSUE-sprawy-WIBOR-owe-beda-rozpatrywane-indywidualnie-9082941.html",
+      "title": "Po wyroku TSUE sprawy \"WIBOR-owe\" będą rozpatrywane indywidualnie",
+      "content_html": "Orzeczenie TSUE ws. WIBOR-u oznacza, że każda sprawa będzie rozpatrywana przez sąd indywidualnie; kluczowe jest spełnienie obowiązków informacyjnych wobec kredytobiorcy - ocenili przedstawiciele Rzecznika Finansowego. Ich zdaniem nie sposób przewidzieć...",
       "date_published": "2026-02-12T17:24:00+01:00"
     },
     {
@@ -65,13 +128,6 @@
       "title": "Rzeczniczka TSUE: Należy uchylić decyzję KE o odblokowaniu funduszy dla Węgier",
       "content_html": "Rzeczniczka generalna Trybunału Sprawiedliwości UE w wydanej w czwartek opinii zaproponowała uchylenie decyzji, w której Komisja Europejska zgodziła się na odblokowanie części unijnych funduszy dla Węgier. Według niej mogło to nastąpić jedynie...",
       "date_published": "2026-02-12T17:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-poprawia-SAFE-i-wzywa-szefow-sluzb-ws-Czarzastego-9082928.html",
-      "title": "Nawrocki \"poprawia\" SAFE i wzywa szefów służb ws. Czarzastego",
-      "content_html": "Szef Kancelarii Prezydenta Zbigniew Bogucki i szef Biura Bezpieczeństwa Narodowego Sławomir Cenckiewicz rozpoczęli prace nad poprawkami do projektu ustawy dotyczącej programu SAFE - poinformował rzecznik prezydenta Rafał Leśkiewicz. Będą dotyczyć...",
-      "date_published": "2026-02-12T17:15:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-wydatkach-publicznych-Nowy-uklad-grup-i-szybsze-terminy-planowania-9082914.html",
@@ -646,48 +702,6 @@
       "title": "Kończy się proces Marine Le Pen, który zadecyduje o jej przyszłości politycznej",
       "content_html": "Przed sądem apelacyjnym w Paryżu kończy się w czwartek proces Marine Le Pen, liderki francuskiej skrajnej prawicy, dotyczący fikcyjnych umów dla asystentów posłów jej partii w Parlamencie Europejskim. Wyrok zapadnie w lipcu, ale już teraz ocenia...",
       "date_published": "2026-02-12T07:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Strategia-Nowej-Lewicy-Maja-specjalny-plan-na-Karola-Nawrockiego-9082469.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strategia-Nowej-Lewicy-Maja-specjalny-plan-na-Karola-Nawrockiego-9082469.html",
-      "title": "Strategia Nowej Lewicy. Mają specjalny plan na Karola Nawrockiego",
-      "content_html": "Strategia Nowej Lewicy opiera się na budowaniu pozycji przez zaplanowany konflikt z Karolem Nawrockim. Kreowanie się na partię antyprezydencką jest przemyślane i oparte na badaniach – pisze w czwartek „Rzeczpospolita”.",
-      "date_published": "2026-02-12T07:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-broni-Czarzastego-i-ironizuje-z-oskarzen-prezydenta-9082513.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-broni-Czarzastego-i-ironizuje-z-oskarzen-prezydenta-9082513.html",
-      "title": "Tusk broni Czarzastego i ironizuje z oskarżeń prezydenta",
-      "content_html": "Prezydent Nawrocki powinien być szczególnie ostrożny w formułowaniu oskarżeń, że jak ktoś obraca się w złym towarzystwie, to go dyskwalifikuje - powiedział premier Donald Tusk, który przed dyskusją na temat marszałka Sejmu Włodzimierza...",
-      "date_published": "2026-02-12T07:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-nad-Wisla-Nowe-dane-pokazuja-skale-boomu-9082467.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-nad-Wisla-Nowe-dane-pokazuja-skale-boomu-9082467.html",
-      "title": "Sztuczna inteligencja nad Wisłą. Nowe dane pokazują skalę boomu",
-      "content_html": "Boom nad Wisłą: sztuczna inteligencja odpowiada już za 6 proc. całego rynku IT. Nowa klasyfikacja PKD po raz pierwszy pozwoliła policzyć firmy zajmujące się AI w Polsce – czytamy w czwartkowym wydaniu „Rzeczpospolitej”.",
-      "date_published": "2026-02-12T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nabici-w-Czyste-powietrze-Ruszaja-konsultacje-specustawy-ws-pomocy-poszkodowanym-9082486.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nabici-w-Czyste-powietrze-Ruszaja-konsultacje-specustawy-ws-pomocy-poszkodowanym-9082486.html",
-      "title": "Nabici w \"Czyste powietrze\". Ruszają konsultacje specustawy ws. pomocy poszkodowanym",
-      "content_html": "Wstrzymanie wierzytelności od osób poszkodowanych w programie „Czyste powietrze” i dochodzenie tych pieniędzy od nieuczciwych wykonawców zakłada projekt specustawy, który w czwartek trafi do konsultacji społecznych - poinformował PAP wiceminister...",
-      "date_published": "2026-02-12T06:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-aut-w-Polsce-spadla-Najpopularniejsze-modele-w-styczniu-2026-r-9081237.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-aut-w-Polsce-spadla-Najpopularniejsze-modele-w-styczniu-2026-r-9081237.html",
-      "title": "Sprzedaż aut spada z wysokiego konia, ale te marki i modele trzymają się mocno",
-      "content_html": "Za salonami samochodowymi najgorsze otwarcie roku od trzech lat. Sprzedaż nowych aut osobowych spadła w ujęciu rocznym o 9 proc. Trzy rzeczy względem poprzedniego roku się jednak nie zmieniły. To dominująca pozycja Toyoty a także nadal wysoka...",
-      "date_published": "2026-02-12T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwieksze-skarbce-zlota-na-swiecie-Legendarny-Fort-Knox-ukryty-bilion-dolarow-i-wiekszosc-polskiego-zlota-9081680.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwieksze-skarbce-zlota-na-swiecie-Legendarny-Fort-Knox-ukryty-bilion-dolarow-i-wiekszosc-polskiego-zlota-9081680.html",
-      "title": "Gdzie jest większość polskiego złota? Sprawdzamy największe skarbce metalu na świecie",
-      "content_html": "W największym skarbcu złota na świecie mogą spoczywać rezerwy metalu warte już ponad bilion dolarów. Drugi największy posiadał sztabki o wartości 850 mld dolarów. To tam przechowywane jest ponad 80 proc. polskich rezerw złota. Jak się jednak...",
-      "date_published": "2026-02-12T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
