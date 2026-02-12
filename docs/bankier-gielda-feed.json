@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Moody-s-poddala-ocene-InPostu-pod-przeglad-w-celu-obnizenia-ratingu-9082844.html",
+      "url": "https://www.bankier.pl/wiadomosc/Moody-s-poddala-ocene-InPostu-pod-przeglad-w-celu-obnizenia-ratingu-9082844.html",
+      "title": "Cena sukcesu InPostu. Czy przejęcie przez gigantów obciąży spółkę długami? Agencja Moody's poddała ocenę InPostu pod przegląd w celu obniżenia ratingu - podała agencja w komunikacie. Wcześniej perspektywa dla spółki była stabilna.",
+      "content_html": "",
+      "date_published": "2026-02-12T15:44:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PolTREG-wytworzyl-pierwsza-serie-transferowa-produktu-PTG-021-w-warunkach-GMP-9082759.html",
       "url": "https://www.bankier.pl/wiadomosc/PolTREG-wytworzyl-pierwsza-serie-transferowa-produktu-PTG-021-w-warunkach-GMP-9082759.html",
       "title": "Przełomowy krok PolTREG. Wysoka wydajność nowej terapii komórkowej PolTREG wytworzył pierwszą serię transferową produktu PTG-021 w warunkach Dobrej Praktyki Produkcyjnej (GMP) - podała spółka w komunikacie.",
@@ -144,16 +151,16 @@
       "date_published": "2026-02-11T14:30:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
+      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
+      "title": "Lentex szacuje, że w '25 miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA Lentex szacuje, że w całym 2025 roku miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA. Szacowane przychody netto wyniosły 173,4 mln zł - podała spółka w komunikacie. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-02-11T14:22:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
-      "title": "Lentex szacuje, że w '25 miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA Lentex szacuje, że w całym 2025 roku miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA. Szacowane przychody netto wyniosły 173,4 mln zł - podała spółka w komunikacie. (PAP Biznes)",
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
       "content_html": "",
       "date_published": "2026-02-11T14:22:00+01:00"
     },
