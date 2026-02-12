@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
+      "title": "Porządki w Grupie Azoty. Prezes i wiceprezesi odwołani Rada nadzorcza Grupy Azoty odwołała w czwartek trzech członków zarządu: prezesa Andrzeja Skolmowskiego i wiceprezesów Pawła Bielskiego oraz Andrzeja Dawidowskiego. Jednocześnie Ministerstwo Aktywów Państwowych zapowiedziało dokapitalizowanie spółki.",
+      "content_html": "",
+      "date_published": "2026-02-12T17:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Synektik-w-I-kw-2025-26-roku-vs-konsensus-PAP-tabela-9082934.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Synektik-w-I-kw-2025-26-roku-vs-konsensus-PAP-tabela-9082934.html",
+      "title": "Wyniki Synektik w I kw. 2025/26 roku vs. konsensus PAP (tabela) Poniżej przedstawiono wyniki Synektik w pierwszym kwartale roku obrotowego 2025/26 oraz ich odniesienie do konsensusu i wcześniejszych wyników.",
+      "content_html": "",
+      "date_published": "2026-02-12T17:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Moody-s-poddala-ocene-InPostu-pod-przeglad-w-celu-obnizenia-ratingu-9082844.html",
       "url": "https://www.bankier.pl/wiadomosc/Moody-s-poddala-ocene-InPostu-pod-przeglad-w-celu-obnizenia-ratingu-9082844.html",
       "title": "Cena sukcesu InPostu. Czy przejęcie przez gigantów obciąży spółkę długami? Agencja Moody's poddała ocenę InPostu pod przegląd w celu obniżenia ratingu - podała agencja w komunikacie. Wcześniej perspektywa dla spółki była stabilna.",
@@ -23,13 +37,6 @@
       "title": "500 tys. euro na projekt LEO-PNT. Creotech współpracuje z Europejską Agencją Kosmiczną Creotech Instruments podpisał umowę z Europejską Agencją Kosmiczną (ESA) na realizację prac nad satelitą systemu nawigacyjnego pt.: \"LEO-PNT - HyperSat SAFIR-PNT\" - podała spółka w komunikacie. Wartość realizowanej fazy, zgodnie z podpisaną umową, wynosi 500 tys. euro (z czego ESA pokrywa kwotę 400 tys. euro).",
       "content_html": "",
       "date_published": "2026-02-12T13:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
-      "title": "Porządki w Grupie Azoty. Prezes i wiceprezesi odwołani Rada Nadzorcza Grupy Azoty podjęła uchwały w sprawie odwołania Andrzeja Skolmowskiego z funkcji prezesa zarządu i delegowała wiceprzewodniczącą RN Aleksandrę Machowicz-Jaworską do wykonywania obowiązków prezesa - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-12T12:56:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grodno-ocenia-ze-segment-OZE-w-26-nie-bedzie-wplywal-negatywnie-na-wyniki-spolki-9082695.html",
@@ -130,13 +137,6 @@
       "date_published": "2026-02-11T17:41:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
-      "url": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
-      "title": "MOL wchodzi do Libii w ramach spółki joint venture z firmami Repsol oraz TPAO Grupa MOL wchodzi do Libii dzięki wspólnemu udziałowi w przetargu z firmami Repsol oraz Türkiye Petrolleri A. O. (TPAO) na obszar poszukiwań morskich (offshore) na Morzu Śródziemnym - podał MOL w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-11T16:06:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-styczniu-do-ponad-450-mld-zl-9082193.html",
       "url": "https://www.bankier.pl/wiadomosc/Aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-styczniu-do-ponad-450-mld-zl-9082193.html",
       "title": "Aktywa krajowych funduszy inwestycyjnych przekroczyły granicę 450 mld zł W styczniu aktywa funduszy inwestycyjnych powiększyły się o 15,3 mld zł, przekraczając na koniec miesiąca granicę 450 mld zł - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
@@ -151,16 +151,16 @@
       "date_published": "2026-02-11T14:30:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
-      "title": "Lentex szacuje, że w '25 miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA Lentex szacuje, że w całym 2025 roku miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA. Szacowane przychody netto wyniosły 173,4 mln zł - podała spółka w komunikacie. (PAP Biznes)",
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
       "content_html": "",
       "date_published": "2026-02-11T14:22:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
+      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
+      "title": "Lentex szacuje, że w '25 miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA Lentex szacuje, że w całym 2025 roku miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA. Szacowane przychody netto wyniosły 173,4 mln zł - podała spółka w komunikacie. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-02-11T14:22:00+01:00"
     },
@@ -317,27 +317,6 @@
       "title": "LSI Software zaprasza do sprzedaży do 200 tys. akcji, po 35 zł/szt. LSI Software zaprasza do składania przez akcjonariuszy ofert sprzedaży do 200.000 akcji spółki, reprezentujących do ok. 7 proc. kapitału zakładowego i nie więcej niż ok. 5 proc. ogólnej liczby głosów, po cenie 35 zł za papier - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-10T17:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Shoper-zawarl-z-cyber-Folks-umowy-pozyczek-na-42-mln-zl-celem-sfinansowania-zakupu-PretaShop-9081728.html",
-      "url": "https://www.bankier.pl/wiadomosc/Shoper-zawarl-z-cyber-Folks-umowy-pozyczek-na-42-mln-zl-celem-sfinansowania-zakupu-PretaShop-9081728.html",
-      "title": "Shoper zawarł z cyber_Folks umowy pożyczek na 42 mln zł celem sfinansowania zakupu PretaShop Shoper zawarł ze swoim głównym akcjonariuszem, czyli spółką cyber_Folks, dwie umowy pożyczek na łączną kwotę 42 mln zł. Celem jest sfinansowanie zakupu platformy PretaShop do czasu refinansowania transakcji przez konsorcjum banków - podał Shoper w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-10T17:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KGHM-pod-ostrzalem-analitykow-Dino-igra-z-pracownikami-9081727.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGHM-pod-ostrzalem-analitykow-Dino-igra-z-pracownikami-9081727.html",
-      "title": "SESJA NA GPW KGHM pod ostrzałem analityków. Dino igra z pracownikami Wtorkowe notowania na GPW upłynęły pod znakiem schłodzenia nastrojów w segmencie polskich blue chipów. Powróciła większa zmienność na notowaniach KGHM, które mocno straciły, a pod spadkową presją była także większość największych banków i Orlen. Jak wskazują eksperci, oczy inwestorów zwrócone są na Bliski Wschód oraz amerykańskie dane z gospodarki.",
-      "content_html": "",
-      "date_published": "2026-02-10T17:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ZUS-wyrazil-zgode-na-rozlozenie-na-raty-naleznosci-ze-skladek-na-m-in-ubezpieczenia-spoleczne-przez-JSW-9081695.html",
-      "url": "https://www.bankier.pl/wiadomosc/ZUS-wyrazil-zgode-na-rozlozenie-na-raty-naleznosci-ze-skladek-na-m-in-ubezpieczenia-spoleczne-przez-JSW-9081695.html",
-      "title": "ZUS idzie na rękę JSW. Spółka może zapłacić należności w ratach Zakład Ubezpieczeń Społecznych wyraził zgodę dla JSW na rozłożenie na raty należności ze składek na ubezpieczenia społeczne i zdrowotne, FP, FGŚP i FEP - podała JSW w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-10T16:40:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
