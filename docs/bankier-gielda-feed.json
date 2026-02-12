@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Genomtec-przygotowuje-sie-do-testow-swojej-technologii-w-Azji-w-ramach-procesu-M-A-9082533.html",
+      "url": "https://www.bankier.pl/wiadomosc/Genomtec-przygotowuje-sie-do-testow-swojej-technologii-w-Azji-w-ramach-procesu-M-A-9082533.html",
+      "title": "Genomtec przygotowuje się do testów swojej technologii w Azji w ramach procesu MA Genomtec w ramach procesu M&A przygotowuje się do testów swojej technologii u potencjalnych partnerów w Azji - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-12T08:08:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prezes-Bogdanki-Sprzedaz-wegla-ponizej-kosztow-wydobycia-zaburza-mechanizmy-rynkowe-9082518.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezes-Bogdanki-Sprzedaz-wegla-ponizej-kosztow-wydobycia-zaburza-mechanizmy-rynkowe-9082518.html",
       "title": "Prezes Bogdanki: Sprzedaż węgla poniżej kosztów wydobycia zaburza mechanizmy rynkowe Część krajowego węgla energetycznego, w wyniku funkcjonowania różnych mechanizmów wsparcia, jest sprzedawana poniżej kosztów jego wydobycia - wskazał w rozmowie z PAP prezes LW Bogdanka Zbigniew Stopa. Uważa, że to zjawisko wypycha z rynku podmioty jak Bogdanka, które nie korzystają z dopłat.",
@@ -331,27 +338,6 @@
       "title": "Driftowanie na giełdzie. Ponad 7 tys. sprzedanych kopii \"JDM\" od premiery Sprzedaż gry \"JDM: Japanese Drift Master\" na PlayStation 5 przekroczyła 7,3 tys. egzemplarzy od premiery, która miała miejsce 6 lutego oraz ponad 1,5 tys. kopii dodatku \"Made in USA\" - podała spółka w komunikacie. Osiągnięty przez spółkę wolumen sprzedaży wygenerował ok. 200 tys. USD przychodów brutto.",
       "content_html": "",
       "date_published": "2026-02-10T09:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Urban-Partners-kupuje-inwestycje-PRS-w-Gdansku-od-Cavare-z-grupy-Cavatina-9081330.html",
-      "url": "https://www.bankier.pl/wiadomosc/Urban-Partners-kupuje-inwestycje-PRS-w-Gdansku-od-Cavare-z-grupy-Cavatina-9081330.html",
-      "title": "Urban Partners kupuje inwestycję PRS w Gdańsku od Cavare Cavare, spółka należąca do grupy Cavatina, zawarła z funduszem NSF VI, zarządzanym przez Urban Partners, transakcję typu forward funding, która obejmuje sprzedaż nieruchomości Palio C przy ulicy Jana z Kolna w Gdańsku oraz umowę o zarządzanie realizacją inwestycji PRS na sprzedanym terenie - podano w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-10T08:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konferencja-Rynku-Kapitalowego-2026-Budzimy-rynek-kapitalowy-Trwa-rejestracja-9081241.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konferencja-Rynku-Kapitalowego-2026-Budzimy-rynek-kapitalowy-Trwa-rejestracja-9081241.html",
-      "title": "Maklerzy, władze i biznes o deregulacji i innowacjach. Trwa rejestracja na najważniejszą konferencję na rynku kapitałowym W dniach 8–11 marca 2026 r. Bukowina Tatrzańska stanie się centrum polskiego rynku finansowego. Podczas 26. Konferencji Rynku Kapitałowego (KRK'26) przedstawiciele branży inwestycyjnej, rządu, nadzoru i biznesu zmierzą się z pytaniem, jak zwiększyć rolę giełdy w finansowaniu innowacyjnej gospodarki.",
-      "content_html": "",
-      "date_published": "2026-02-10T08:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-mBanku-w-IV-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu-opis-9081246.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-mBanku-w-IV-kw-25-wyniosl-1041-mln-zl-powyzej-konsensusu-opis-9081246.html",
-      "title": "mBank bije prognozy analityków. Ponad miliard zysku w jednym kwartale Zysk netto grupy mBanku w IV kwartale 2025 r. wzrósł do 1041 mln zł z 986 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 7,8 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 965,9 mln zł.",
-      "content_html": "",
-      "date_published": "2026-02-10T08:09:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
