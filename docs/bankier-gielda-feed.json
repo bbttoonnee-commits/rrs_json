@@ -4,11 +4,46 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
+      "title": "Dostawy gazu zabezpieczone na 5 lat. ZZE PAK zapewnia gaz dla bloku w Turku Spółka pośrednio zależna od ZE PAK, PAK CCGT, oraz Duon Dystrybucja, zawarły umowę zapewniającą dostawy paliwa gazowego do bloku gazowo-parowego (CCGT) zlokalizowanego w Turku - podał ZE PAK w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-12T18:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-i-KOWR-nawiazaly-strategiczna-wspolprace-dot-biogazu-i-biometanu-w-Polsce-9082986.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-i-KOWR-nawiazaly-strategiczna-wspolprace-dot-biogazu-i-biometanu-w-Polsce-9082986.html",
+      "title": "Orlen i KOWR łączą siły. Ogłoszono plany współpracy z rolnictwem Orlen oraz Krajowy Ośrodek Wsparcia Rolnictwa nawiązały strategiczną współpracę w obszarze budowy, eksploatacji i rozwoju instalacji biogazowych i biometanowych w Polsce - podał Orlen w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-02-12T18:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Synektik-mial-w-I-kw-59-8-mln-zl-zysku-EBITDA-z-dzialalnosci-kontynuowanej-9082975.html",
+      "url": "https://www.bankier.pl/wiadomosc/Synektik-mial-w-I-kw-59-8-mln-zl-zysku-EBITDA-z-dzialalnosci-kontynuowanej-9082975.html",
+      "title": "Synektik: 59,8 mln zł EBITDA w I kwartale Synektik w I kwartale 2025/26 miał 59,8 mln zł zysku EBITDA z działalności kontynuowanej, co oznacza wzrost o 18 proc. rdr - podała spółka w komunikacie prasowym. Zysk netto z działalności kontynuowanej wyniósł 43,1 mln zł.",
+      "content_html": "",
+      "date_published": "2026-02-12T17:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-CD-Projektu-zdecyduje-o-warunku-wynikowym-Programu-Motywacyjnego-B-w-26-29-w-wys-5-mld-zl-9082949.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-CD-Projektu-zdecyduje-o-warunku-wynikowym-Programu-Motywacyjnego-B-w-26-29-w-wys-5-mld-zl-9082949.html",
+      "title": "CD Projekt celuje w 5 mld zł zysku w latach 2026-2029. Decyzje o programie motywacyjnym Walne zgromadzenie CD Projektu zdecyduje o ustaleniu warunku wynikowego w Programie Motywacyjnym B na lata 2026-2029, który zakładany jest na 5 mld zł - podała spółka w komunikacie z projektami uchwał na NWZ zwołanego na 11 marca.",
+      "content_html": "",
+      "date_published": "2026-02-12T17:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-odwolala-Andrzeja-Skolmowskiego-z-funkcji-prezesa-zarzadu-9082712.html",
       "title": "Porządki w Grupie Azoty. Prezes i wiceprezesi odwołani Rada nadzorcza Grupy Azoty odwołała w czwartek trzech członków zarządu: prezesa Andrzeja Skolmowskiego i wiceprezesów Pawła Bielskiego oraz Andrzeja Dawidowskiego. Jednocześnie Ministerstwo Aktywów Państwowych zapowiedziało dokapitalizowanie spółki.",
       "content_html": "",
       "date_published": "2026-02-12T17:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/WIBOR-bezpieczny-ale-entuzjazmu-brak-WIG-na-okragle-zero-9082936.html",
+      "url": "https://www.bankier.pl/wiadomosc/WIBOR-bezpieczny-ale-entuzjazmu-brak-WIG-na-okragle-zero-9082936.html",
+      "title": "WIBOR bezpieczny, ale entuzjazmu brak. WIG na okrągłe zero Długo wyczekiwane rozstrzygnięcie Trybunału Sprawiedliwości UE w sprawie wskaźnika WIBOR okazało się korzystne dla sektora finansowego, ale inwestorzy z GPW zareagowali na niego z dużą powściągliwością. Brak większego entuzjazmu dominował jednak na szerokim rynku, gdzie główne indeksy notowane były płasko.",
+      "content_html": "",
+      "date_published": "2026-02-12T17:21:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Synektik-w-I-kw-2025-26-roku-vs-konsensus-PAP-tabela-9082934.html",
@@ -137,6 +172,13 @@
       "date_published": "2026-02-11T17:41:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-wchodzi-do-Libii-w-ramach-spolki-joint-venture-z-firmami-Repsol-oraz-TPAO-9082253.html",
+      "title": "MOL wchodzi do Libii w ramach spółki joint venture z firmami Repsol oraz TPAO Grupa MOL wchodzi do Libii dzięki wspólnemu udziałowi w przetargu z firmami Repsol oraz Türkiye Petrolleri A. O. (TPAO) na obszar poszukiwań morskich (offshore) na Morzu Śródziemnym - podał MOL w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-11T16:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-styczniu-do-ponad-450-mld-zl-9082193.html",
       "url": "https://www.bankier.pl/wiadomosc/Aktywa-krajowych-funduszy-inwestycyjnych-wzrosly-w-styczniu-do-ponad-450-mld-zl-9082193.html",
       "title": "Aktywa krajowych funduszy inwestycyjnych przekroczyły granicę 450 mld zł W styczniu aktywa funduszy inwestycyjnych powiększyły się o 15,3 mld zł, przekraczając na koniec miesiąca granicę 450 mld zł - wynika z komunikatu Analiz.pl, na podstawie danych IZFiA.",
@@ -151,16 +193,16 @@
       "date_published": "2026-02-11T14:30:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
+      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
+      "title": "Lentex szacuje, że w '25 miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA Lentex szacuje, że w całym 2025 roku miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA. Szacowane przychody netto wyniosły 173,4 mln zł - podała spółka w komunikacie. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-02-11T14:22:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
-      "title": "Lentex szacuje, że w '25 miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA Lentex szacuje, że w całym 2025 roku miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA. Szacowane przychody netto wyniosły 173,4 mln zł - podała spółka w komunikacie. (PAP Biznes)",
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
       "content_html": "",
       "date_published": "2026-02-11T14:22:00+01:00"
     },
@@ -310,13 +352,6 @@
       "title": "ING i Rabobank mają dość gigantów z USA. Szykują rewolucję, która zmieni europejski sektor IT Największe holenderskie banki – Rabobank, ING i ABN Amro – zamierzają zmniejszyć zależność od amerykańskich gigantów technologicznych. Wspólnie z innymi bankami w Europie pracują nad rozwiązaniami, które mają wzmocnić europejską suwerenność cyfrową - podał we wtorek publiczny nadawca NOS.",
       "content_html": "",
       "date_published": "2026-02-10T18:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-200-tys-akcji-po-35-zl-szt-9081733.html",
-      "url": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-200-tys-akcji-po-35-zl-szt-9081733.html",
-      "title": "LSI Software zaprasza do sprzedaży do 200 tys. akcji, po 35 zł/szt. LSI Software zaprasza do składania przez akcjonariuszy ofert sprzedaży do 200.000 akcji spółki, reprezentujących do ok. 7 proc. kapitału zakładowego i nie więcej niż ok. 5 proc. ogólnej liczby głosów, po cenie 35 zł za papier - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-10T17:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
