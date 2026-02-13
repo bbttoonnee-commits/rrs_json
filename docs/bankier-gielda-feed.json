@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-Grupy-Azoty-podjelo-uchwale-o-przerwie-w-obradach-do-13-marca-9083391.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-Grupy-Azoty-podjelo-uchwale-o-przerwie-w-obradach-do-13-marca-9083391.html",
+      "title": "NWZ Grupy Azoty podjęło uchwałę o przerwie w obradach do 13 marca Walne zgromadzenie Grupy Azoty podjęło uchwałę o przerwie w obradach do 13 marca 2026 roku - podała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-02-13T13:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PESA-z-milionami-z-KPO-36-mln-zl-na-budowe-wodorowego-pociagu-9083429.html",
+      "url": "https://www.bankier.pl/wiadomosc/PESA-z-milionami-z-KPO-36-mln-zl-na-budowe-wodorowego-pociagu-9083429.html",
+      "title": "PESA z milionami z KPO. 36 mln zł na budowę wodorowego pociągu Spółka Pojazdy Szynowe PESA Bydgoszcz podpisała z NFOŚiGW umowę dofinansowania ze środków KPO na ponad 36 mln zł na opracowanie i budowę demonstratora wodorowego pojazdu pasażerskiego z dodatkowym zasilaniem z sieci trakcyjnej.",
+      "content_html": "",
+      "date_published": "2026-02-13T13:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MedTech-ma-list-intencyjny-ws-przejecia-100-proc-udzialow-podmiotu-z-obszaru-ortopedii-i-chirurgii-9083417.html",
       "url": "https://www.bankier.pl/wiadomosc/MedTech-ma-list-intencyjny-ws-przejecia-100-proc-udzialow-podmiotu-z-obszaru-ortopedii-i-chirurgii-9083417.html",
       "title": "MedTech ma list intencyjny ws. przejęcia 100 proc. udziałów podmiotu z obszaru ortopedii i chirurgii MedTech Solutions podpisał list intencyjny w sprawie przejęcia 100 proc. udziałów podmiotu dystrybucyjnego działającego w obszarze ortopedii i chirurgii, obecnego w ponad 100 szpitalach, który w 2025 r. wygenerował ok. 1 mln zł zysku netto - podała spółka w komunikacie.",
@@ -23,13 +37,6 @@
       "title": "Polskie obligacje zeszły poniżej 5%. Po raz pierwszy od 4 lat Po raz pierwszy od marca 2022 roku rentowność polskich obligacji 10-letnich spadła poniżej psychologicznej bariery 5%.",
       "content_html": "",
       "date_published": "2026-02-13T12:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-Grupy-Azoty-podjelo-uchwale-o-przerwie-w-obradach-do-13-marca-9083391.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-Grupy-Azoty-podjelo-uchwale-o-przerwie-w-obradach-do-13-marca-9083391.html",
-      "title": "NWZ Grupy Azoty podjęło uchwałę o przerwie w obradach do 13 marca Walne zgromadzenie Grupy Azoty podjęło uchwałę o przerwie w obradach do 13 marca 2026 roku - podała spółka w komunikacie. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-02-13T12:24:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/EuroPKB-Polska-wiceliderem-wzrostu-gospodarczego-w-UE-9083308.html",
@@ -305,13 +312,6 @@
       "date_published": "2026-02-11T14:30:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
-      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
-      "content_html": "",
-      "date_published": "2026-02-11T14:22:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
       "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-25-mial-15-4-mln-zl-zysku-netto-i-24-4-mln-zl-EBITDA-9082171.html",
       "title": "Lentex szacuje, że w '25 miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA Lentex szacuje, że w całym 2025 roku miał 15,4 mln zł zysku netto i 24,4 mln zł EBITDA. Szacowane przychody netto wyniosły 173,4 mln zł - podała spółka w komunikacie. (PAP Biznes)",
@@ -319,11 +319,11 @@
       "date_published": "2026-02-11T14:22:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-obligacji-w-styczniu-2026-Polacy-chetnie-kupuja-papiery-Ministerstwa-Finansow-9082038.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-obligacji-w-styczniu-2026-Polacy-chetnie-kupuja-papiery-Ministerstwa-Finansow-9082038.html",
-      "title": "Polacy wciąż chętnie kupują papiery Ministerstwa Finansów. Sprzedaż obligacji trzyma się mocno Polacy pożyczyli rządowi prawie pięć miliardów złotych netto i to pomimo coraz niższych odsetek oferowanych przez polskie papiery skarbowe.",
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-BNP-Paribas-rosnie-o-ok-7-proc-akcje-KGHM-drozeja-o-ok-5-5-proc-9082170.html",
+      "title": "Kurs BNP Paribas rośnie o ok. 7 proc., akcje KGHM drożeją o ok. 5,5 proc. Kurs akcji BNP Paribas rośnie o ok. 7 proc., a akcje KGHM drożeją o ok. 5,5 proc. Indeksy mWIG40 i WIG20 idą w górę po ok. 0,4 proc.",
       "content_html": "",
-      "date_published": "2026-02-11T13:00:00+01:00"
+      "date_published": "2026-02-11T14:22:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
