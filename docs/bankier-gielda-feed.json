@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Celon-Pharma-ocenia-ze-stanowisko-FDA-wspiera-kontynuacje-prac-w-kierunku-fazy-III-dla-CPL-36-9083697.html",
+      "url": "https://www.bankier.pl/wiadomosc/Celon-Pharma-ocenia-ze-stanowisko-FDA-wspiera-kontynuacje-prac-w-kierunku-fazy-III-dla-CPL-36-9083697.html",
+      "title": "Celon Pharma ocenia, że stanowisko FDA wspiera kontynuację prac w kierunku fazy III dla CPL'36 Celon Pharma ocenia, że otrzymane stanowisko FDA wspiera kontynuację prac w kierunku realizacji programu fazy III dla CPL'36, przy jednoczesnym uwzględnieniu rekomendowanych przez FDA doprecyzowań w protokole - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-13T18:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fitch-umiescil-ratingi-InPostu-na-liscie-obserwacyjnej-ze-wskazaniem-negatywnym-9083683.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-umiescil-ratingi-InPostu-na-liscie-obserwacyjnej-ze-wskazaniem-negatywnym-9083683.html",
+      "title": "Fitch umieścił ratingi InPostu na liście obserwacyjnej ze wskazaniem negatywnym Fitch Ratings umieścił ratingi InPostu na liście obserwacyjnej ze wskazaniem negatywnym (tzw. Rating Watch Negative - RWN) - podała agencja na stronie internetowej. Decyzja nastąpiła po ogłoszeniu porozumienia między InPost a konsorcjum składającym się z Advent, FedEx, A&R i PPF .",
+      "content_html": "",
+      "date_published": "2026-02-13T17:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Czerwony-piatek-trzynastego-Uwaga-na-referendum-emisje-i-satelity-9083655.html",
       "url": "https://www.bankier.pl/wiadomosc/Czerwony-piatek-trzynastego-Uwaga-na-referendum-emisje-i-satelity-9083655.html",
       "title": "Czerwony piątek trzynastego. Uwaga na referendum, emisje i satelity Ostatnia sesja tygodnia na GPW upłynęła na wyraźniej przecenie największych spółek. Globalne schłodzenie nastrojów, zainicjowane przez amerykański sektor technologiczny, rozlało się na rynki europejskie. Spadki przyspieszyły w sektorze bankowym, a lokomotywy ostatnich wzrostów jak akcje Orlen i KGHM także były wśród wyprzedawanych walorów.",
@@ -317,20 +331,6 @@
       "title": "WSTĘPNE DANE VRG w IV kw. miało 49,6 mln zł zysku netto wobec 46,3 mln zł rok wcześniej VRG w IV kwartale 2025 r. miało 49,6 mln zł skonsolidowanego zysku netto wobec 46,3 mln zł rok wcześniej - podało VRG we wstępnych danych. W tym okresie przychody ze sprzedaży wyniosły 487,7 mln zł wobec 444,5 mln zł w IV kw. 2024 r.",
       "content_html": "",
       "date_published": "2026-02-11T19:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-przyjela-plan-uzyskania-gotowosci-linii-produkcyjnej-paneli-BACTEROMIC-9082342.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-przyjela-plan-uzyskania-gotowosci-linii-produkcyjnej-paneli-BACTEROMIC-9082342.html",
-      "title": "Spółka zależna Scope Fluidics przyjęła plan uzyskania gotowości linii produkcyjnej paneli BACTEROMIC Bacteromic, spółka zależna Scope Fluidics, przyjęła plan uzyskania gotowości produkcyjnej umożliwiającej komercyjną produkcję paneli systemu BACTEROMIC - podał Scope Fluidics w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-11T17:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sesja-gigantow-KGHM-w-polecanym-sektorze-przez-Bank-of-America-Orlen-wiekszy-niz-Adidas-czy-Maersk-9082336.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sesja-gigantow-KGHM-w-polecanym-sektorze-przez-Bank-of-America-Orlen-wiekszy-niz-Adidas-czy-Maersk-9082336.html",
-      "title": "KGHM w polecanym sektorze przez Bank of America. Orlen większy niż Adidas i Maersk Sesja na GPW nie skończyła się tak dobrze, jak jeszcze na dwie godziny przed jej końcem sugerowały notowania głównych indeksów. Entuzjazm przygasł przez cofnięcie na Wall Street, ale WIG zdołał utrzymać się nad kreską głównie dzięki popytowi na akcje KGHM i Orlenu, które wygenerowały wspólnie ponad pół miliarda złotych obrotu. Kurs Orlenu wspiął się najwyżej od początku 2019 r., a wycena przekroczyła 130 mld zł. Polski gigant jest w tej chwili wyceniany wyżej niż np. Maersk – jeden z globalnych liderów żeglugi morskiej.",
-      "content_html": "",
-      "date_published": "2026-02-11T17:41:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
