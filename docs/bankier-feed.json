@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-PKO-BP-ING-Aliorze-9083603.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przerwy-w-bankach-w-m-in-PKO-BP-ING-Aliorze-9083603.html",
+      "title": "Gorąca niedziela w bankach. Przerwy techniczne mogą objąć transakcje kartami",
+      "content_html": "Klientów banków czeka gorąca niedziela. To właśnie na ten dzień zaplanowało prace najliczniejsze grono banków. Informacje na stronach instytucji mówią głównie o braku dostępu do bankowości internetowej, ale w niektórych bankach wspomina...",
+      "date_published": "2026-02-13T16:13:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Europa-przetestowala-swoj-pierwszy-pocisk-hipersoniczny-Ma-byc-wyzwaniem-dla-Chin-i-Rosji-9083557.html",
+      "url": "https://www.bankier.pl/wiadomosc/Europa-przetestowala-swoj-pierwszy-pocisk-hipersoniczny-Ma-byc-wyzwaniem-dla-Chin-i-Rosji-9083557.html",
+      "title": "Europa przetestowała swój pierwszy pocisk hipersoniczny. Ma być wyzwaniem dla Chin i Rosji",
+      "content_html": "Brytyjsko-niemiecka firma Hypersonica potwierdziła, że jej demonstracyjny pocisk SCOOTER HS-1 przekroczył prędkość sześciu machów podczas lotu testowego na początku lutego w Andoya Space w Norwegii. Pocisk pokonał zaplanowany dystans ponad 300...",
+      "date_published": "2026-02-13T15:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-skonczy-sie-przed-latem-USA-naciskaja-na-Ukraine-by-ustapila-Rosji-9083574.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-skonczy-sie-przed-latem-USA-naciskaja-na-Ukraine-by-ustapila-Rosji-9083574.html",
+      "title": "Wojna skończy się przed latem? USA naciskają na Ukrainę, by ustąpiła Rosji",
+      "content_html": "USA nasilają presję na Ukrainę, by zgodziła się na ustępstwa wobec Rosji podczas rozmów pokojowych - podał w piątek „New York Times”. Celem administracji Donalda Trumpa jest zakończenie trwającej blisko cztery lata wojny jeszcze przed latem...",
+      "date_published": "2026-02-13T15:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-rozpoczal-przeglad-przygotowanej-strategii-9083567.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-rozpoczal-przeglad-przygotowanej-strategii-9083567.html",
+      "title": "KGHM rozpoczął przegląd przygotowanej strategii",
+      "content_html": "Zarząd KGHM Polska Miedź rozpoczął przegląd przygotowanej strategii Grupy Kapitałowej KGHM Polska Miedź 2055+ - podała spółka na platformie X. Głównym celem jest poprawa efektywności operacyjnej i finansowej spółki oraz grupy kapitałowej...",
+      "date_published": "2026-02-13T15:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mocne-slowa-Merza-w-Monachium-USA-byc-moze-stracily-roszczenia-do-swiatowego-przywodztwa-9083540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mocne-slowa-Merza-w-Monachium-USA-byc-moze-stracily-roszczenia-do-swiatowego-przywodztwa-9083540.html",
+      "title": "Mocne słowa Merza w Monachium: USA być może straciły roszczenia do światowego przywództwa",
+      "content_html": "Minął moment porządku jednobiegunowego; USA być może straciły roszczenia do światowego przywództwa - powiedział w piątek kanclerz Niemiec Friedrich Merz w przemówieniu oficjalnie otwierającym Monachijską Konferencję Bezpieczeństwa (MSC)...",
+      "date_published": "2026-02-13T15:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Promocje-w-bankach-luty-2026-Alior-daje-1000-zl-a-PKO-BP-dorzuca-Allegro-Smart-9083187.html",
       "url": "https://www.bankier.pl/wiadomosc/Promocje-w-bankach-luty-2026-Alior-daje-1000-zl-a-PKO-BP-dorzuca-Allegro-Smart-9083187.html",
       "title": "Sprawdź TOP promocje bankowe. Alior daje 1000 zł, a PKO BP dorzuca Allegro Smart!",
@@ -41,7 +76,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/JSW-szacuje-na-1-2-mld-zl-oszczednosci-w-latach-2026-27-dzieki-porozumieniu-ze-zwiazkiem-zawodowym-9083479.html",
       "url": "https://www.bankier.pl/wiadomosc/JSW-szacuje-na-1-2-mld-zl-oszczednosci-w-latach-2026-27-dzieki-porozumieniu-ze-zwiazkiem-zawodowym-9083479.html",
-      "title": "JSW podpisała porozumienie ze związkami zawodowymi. Szacuje 1,2 mld zł oszczędności",
+      "title": "Jest porozumienie w JSW. Załoga rezygnuje z „czternastek” i deputatów",
       "content_html": "Przyjmując do wyliczeń stan zatrudnienia na dzień 1 lutego 2026 r. łączne oszczędności w latach 2026 - 2027, wynikające z zawartego porozumienia, JSW szacuje na ok. 1,2 mld zł - podała spółka w komunikacie.",
       "date_published": "2026-02-13T14:16:00+01:00"
     },
@@ -242,13 +277,6 @@
       "date_published": "2026-02-13T10:53:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dino-Polska-straszy-pozwami-Zwiazkowcy-Nie-damy-sie-zastraszyc-9083293.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-straszy-pozwami-Zwiazkowcy-Nie-damy-sie-zastraszyc-9083293.html",
-      "title": "Groźby zamiast dialogu. Dino Polska chce uciszyć związkowców",
-      "content_html": "Dzień po spotkaniu z przedstawicielami spółki Dino Polska S.A., które odbyło się 10 lutego br. w Katowicach, przedstawiciele związku zawodowego działającego w tej sieci otrzymali pismo datowane na… 3 lutego 2026 r. Dokument zawiera wezwanie...",
-      "date_published": "2026-02-13T10:44:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-nie-bedzie-wasalem-MSZ-po-rozmowie-z-ambasadorem-USA-Przekroczyl-standardy-9083276.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-nie-bedzie-wasalem-MSZ-po-rozmowie-z-ambasadorem-USA-Przekroczyl-standardy-9083276.html",
       "title": "\"Polska nie będzie wasalem\". MSZ po rozmowie z ambasadorem USA: Przekroczył standardy",
@@ -422,6 +450,13 @@
       "title": "Nie trzeba będzie przerabiać mieszkań na hotele. Wynajmujący mogą odetchnąć",
       "content_html": "Operatorzy wynajmu krótkoterminowego przebili się w Ministerstwie Sportu i Turystyki z uwagami do projektu ustawy regulującej ich biznes. Najgroźniejsze dla branży przepisy mają zostać skorygowane - informuje piątkowy „Puls Biznesu\".",
       "date_published": "2026-02-13T07:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-odda-Donieck-za-pokoj-Zelenski-Trump-potrzebuje-konca-wojny-by-wygrac-wybory-9083079.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-odda-Donieck-za-pokoj-Zelenski-Trump-potrzebuje-konca-wojny-by-wygrac-wybory-9083079.html",
+      "title": "Ukraina odda Donieck za pokój? Zełenski: Trump potrzebuje końca wojny, by wygrać wybory",
+      "content_html": "Zakończenie wojny w Ukrainie pomogłoby prezydentowi USA Donaldowi Trumpowi i Republikanom podczas jesiennych wyborów środka kadencji - ocenił przywódca Ukrainy Wołodymyr Zełenski w opublikowanej w czwartek rozmowie z magazynem „Atlantic”.",
+      "date_published": "2026-02-13T07:35:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Weto-prezydenta-ws-slaskiej-godki-Faktow-nie-ustala-sie-glosowaniem-9083062.html",
@@ -653,48 +688,6 @@
       "title": "Urzędnik od przetargów negocjuje pokój w Ukrainie i Gazie. Kim jest Josh Gruenbaum?",
       "content_html": "Urzędnik odpowiedzialny za państwowe przetargi Josh Gruenbaum nieoczekiwanie wyrósł na kluczową postać w negocjacjach pokojowych na temat Strefy Gazy i Ukrainy, obok Jareda Kushnera i Steve'a Witkoffa - twierdzi „Wall Street Journal”. Dziennik...",
       "date_published": "2026-02-12T18:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Trakcji-ma-umowe-za-ok-105-3-mln-zl-netto-9083010.html",
-      "title": "Spółka zależna Trakcji z kontraktem na Litwie. 105 mln zł za infrastrukturę",
-      "content_html": "Spółka zależna Trakcji, AB Kauno tiltai, podpisała umowę z AB LTG Infra (Drogi kolejowe Litwy), która dot. projektowania i budowy infrastruktury kolejowej 31669 na poligonie w Rudnikach - podała Trakcja w komunikacie. Wartość umowy wynosi ok...",
-      "date_published": "2026-02-12T18:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DataWalk-chce-podwyzszyc-kapital-w-granicach-kapitalu-docelowego-przez-emisje-nowych-akcji-9083007.html",
-      "url": "https://www.bankier.pl/wiadomosc/DataWalk-chce-podwyzszyc-kapital-w-granicach-kapitalu-docelowego-przez-emisje-nowych-akcji-9083007.html",
-      "title": "DataWalk chce podwyższyć kapitał w granicach kapitału docelowego przez emisję nowych akcji",
-      "content_html": "DataWalk chce podwyższyć kapitał poprzez emisję nowych akcji zwykłych na okaziciela serii T z wyłączeniem w całości prawa poboru dotychczasowych akcjonariuszy - podała spółka w komunikacie.",
-      "date_published": "2026-02-12T18:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Senacka-komisja-rolnictwa-za-nowelizacja-KOWR-ma-czas-do-2027-r-na-wydanie-srodkow-9082991.html",
-      "url": "https://www.bankier.pl/wiadomosc/Senacka-komisja-rolnictwa-za-nowelizacja-KOWR-ma-czas-do-2027-r-na-wydanie-srodkow-9082991.html",
-      "title": "Senacka komisja rolnictwa za nowelizacją. KOWR ma czas do 2027 r. na wydanie środków",
-      "content_html": "Senacka komisja rolnictwa zarekomendowała w czwartek Senatowi przyjęcie bez poprawek nowelizacji ustawy o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa. Nowe przepisy pozwalają KOWR wydać do końca 2027 r. niewykorzystane środki, które...",
-      "date_published": "2026-02-12T18:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-ZE-PAK-ma-umowe-na-dostawe-gazu-dla-bloku-CCGT-9082990.html",
-      "title": "Dostawy gazu zabezpieczone na 5 lat. ZZE PAK zapewnia gaz dla bloku w Turku",
-      "content_html": "Spółka pośrednio zależna od ZE PAK, PAK CCGT, oraz Duon Dystrybucja, zawarły umowę zapewniającą dostawy paliwa gazowego do bloku gazowo-parowego (CCGT) zlokalizowanego w Turku - podał ZE PAK w komunikacie.",
-      "date_published": "2026-02-12T18:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-i-KOWR-nawiazaly-strategiczna-wspolprace-dot-biogazu-i-biometanu-w-Polsce-9082986.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-i-KOWR-nawiazaly-strategiczna-wspolprace-dot-biogazu-i-biometanu-w-Polsce-9082986.html",
-      "title": "Orlen i KOWR łączą siły. Ogłoszono plany współpracy z rolnictwem",
-      "content_html": "Orlen oraz Krajowy Ośrodek Wsparcia Rolnictwa nawiązały strategiczną współpracę w obszarze budowy, eksploatacji i rozwoju instalacji biogazowych i biometanowych w Polsce - podał Orlen w komunikacie prasowym.",
-      "date_published": "2026-02-12T18:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rentownosci-polskich-obligacji-ponizej-5-proc-To-najnizszy-poziom-od-dwoch-lat-9082987.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rentownosci-polskich-obligacji-ponizej-5-proc-To-najnizszy-poziom-od-dwoch-lat-9082987.html",
-      "title": "Rentowności polskich obligacji poniżej 5 proc. To najniższy poziom od dwóch lat",
-      "content_html": "Rentowności polskich 10-letnich obligacji skarbowych wynoszą mniej niż 5 proc; to najniżej od dwóch lat - poinformował w czwartek na platformie X minister finansów i gospodarki Andrzej Domański. Jego zdaniem inwestorzy doceniają stabilną politykę...",
-      "date_published": "2026-02-12T18:06:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
