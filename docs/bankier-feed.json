@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polacy-bez-planu-na-wypadek-kryzysu-finansowego-Z-najciezej-zrezygnowac-9083860.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polacy-bez-planu-na-wypadek-kryzysu-finansowego-Z-najciezej-zrezygnowac-9083860.html",
+      "title": "Polacy bez planu na wypadek kryzysu finansowego. Z czego najciężej zrezygnować?",
+      "content_html": "Planu awaryjnego na wypadek nagłego kryzysu finansowego nie ma 69 proc. Polaków - wynika z badania Santander Consumer Banku. Jasno sprecyzowany harmonogram cięć wydatków w takiej sytuacji ma 6 proc., a 22 proc. przygotowało częściową listę potencjalnych...",
+      "date_published": "2026-02-14T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
+      "title": "Rubio: USA nie chcą podziału, ale ożywienia NATO. Aby Europa była silna i żeby przetrwała",
+      "content_html": "Stany Zjednoczone nie chcą podziału, ale ożywienia sojuszu transatlantyckiego - powiedział w sobotę podczas Monachijskiej Konferencji Bezpieczeństwa szef amerykańskiej dyplomacji Marco Rubio.",
+      "date_published": "2026-02-14T09:55:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grozby-ujawnienia-sekstasmy-Magyar-sklada-zawiadomienie-o-popelnieniu-przestepstwa-9083709.html",
       "url": "https://www.bankier.pl/wiadomosc/Grozby-ujawnienia-sekstasmy-Magyar-sklada-zawiadomienie-o-popelnieniu-przestepstwa-9083709.html",
       "title": "Groźby ujawnienia sekstaśmy. Magyar składa zawiadomienie o popełnieniu przestępstwa",
@@ -564,6 +578,27 @@
       "date_published": "2026-02-13T12:12:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Berlin-ma-dosc-grozb-Trumpa-Niemcy-ostro-o-polityce-USA-przed-szczytem-w-Monachium-9083323.html",
+      "url": "https://www.bankier.pl/wiadomosc/Berlin-ma-dosc-grozb-Trumpa-Niemcy-ostro-o-polityce-USA-przed-szczytem-w-Monachium-9083323.html",
+      "title": "Berlin ma dość gróźb Trumpa? Niemcy ostro o polityce USA przed szczytem w Monachium",
+      "content_html": "Minister spraw zagranicznych Niemiec Johann Wadephul ocenił w piątek, że ostatnie wypowiedzi przedstawicieli rządu USA wywołały irytację niektórych państw NATO. Dodał, że Monachijska Konferencja Bezpieczeństwa będzie okazją do określenia...",
+      "date_published": "2026-02-13T12:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-zanizania-cen-w-Panstwie-Srodka-Rzad-interweniuje-w-fabrykach-9083319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-zanizania-cen-w-Panstwie-Srodka-Rzad-interweniuje-w-fabrykach-9083319.html",
+      "title": "Koniec zaniżania cen w Państwie Środka. Rząd interweniuje w fabrykach",
+      "content_html": "Chiński regulator rynku tytoniowego nakazał w piątek producentom e-papierosów wstrzymanie budowy nowych zakładów. Decyzja ma na celu ograniczenie nadpodaży i zakończenie wojen cenowych. To kolejny front walki Pekinu z wyniszczającą konkurencją...",
+      "date_published": "2026-02-13T11:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/System-energetyczny-Ukrainy-w-ruinie-Straty-ida-w-miliardy-dolarow-9083363.html",
+      "url": "https://www.bankier.pl/wiadomosc/System-energetyczny-Ukrainy-w-ruinie-Straty-ida-w-miliardy-dolarow-9083363.html",
+      "title": "System energetyczny Ukrainy w ruinie. Straty idą w miliardy dolarów",
+      "content_html": "Ukraińska państwowa spółka energetyczna Naftohaz poszukuje wsparcia finansowego na renowację i odbudowę sieci energetycznej, zniszczonej w wyniku rosyjskich ataków - przekazał koncern agencji Bloomberga. Dodano, że wielkość strat jest szacowana...",
+      "date_published": "2026-02-13T11:53:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Listy-otwarty-glownego-akcjonariusza-Bumech-do-NSZZ-Solidarnosc-9083303.html",
       "url": "https://www.bankier.pl/wiadomosc/Listy-otwarty-glownego-akcjonariusza-Bumech-do-NSZZ-Solidarnosc-9083303.html",
       "title": "Poważne zarzuty wobec związkowców z PG Silesia. Solidarność chce przejąć kopalnię?",
@@ -667,41 +702,6 @@
       "title": "Zielone światło dla małego atomu. Motyka: SMR-y nie są wstrzymane",
       "content_html": "Projekty ws. małych reaktorów modułowych (SMR) nie są wstrzymywane - zadeklarował w piątek minister energii Miłosz Motyka, pytany o odroczenie przez komisję sejmową decyzji ws. wylesienia gruntów pod SMR w Stalowej Woli. Dodał, że w ciągu...",
       "date_published": "2026-02-13T09:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawet-396-zl-na-ucznia-Sejm-sypnal-groszem-na-dofinansowania-podrecznikow-9083245.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawet-396-zl-na-ucznia-Sejm-sypnal-groszem-na-dofinansowania-podrecznikow-9083245.html",
-      "title": "Nawet 396 zł na ucznia. Sejm sypnął groszem na dofinansowania podręczników",
-      "content_html": "Zwiększone zostaną środki na zakup podręczników i ćwiczeń dla uczniów szkół podstawowych, podniesione zostaną też opłaty wnoszone przez wydawców ubiegających się o dopuszczenie podręcznika - zdecydował w piątek Sejm nowelizując ustawę...",
-      "date_published": "2026-02-13T09:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Waloryzacja-emerytur-2026-ZUS-podal-ostateczne-kwoty-Tyle-wyniesie-minimalne-swiadczenie-9083239.html",
-      "url": "https://www.bankier.pl/wiadomosc/Waloryzacja-emerytur-2026-ZUS-podal-ostateczne-kwoty-Tyle-wyniesie-minimalne-swiadczenie-9083239.html",
-      "title": "Waloryzacja emerytur 2026. ZUS podał, ile wyniesie minimalne świadczenie",
-      "content_html": "Od 1 marca najniższe emerytury, renty rodzinne oraz renty z tytułu całkowitej niezdolności do pracy wzrosną o 99,58 zł i będą wynosić 1978,49 zł brutto - poinformował w piątek ZUS. Od marcu renta z tytułu częściowej niezdolności do pracy...",
-      "date_published": "2026-02-13T09:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miedz-w-gore-Rynki-patrza-na-USA-i-celne-poczynania-Trumpa-9083234.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miedz-w-gore-Rynki-patrza-na-USA-i-celne-poczynania-Trumpa-9083234.html",
-      "title": "Miedź w górę. Rynki patrzą na USA i celne poczynania Trumpa",
-      "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) rośnie o 0,35 proc. do 12.935 USD za tonę. Inwestorzy oceniają możliwość wprowadzenia ceł na miedź, wobec informacji \"Financial Times\" o możliwym zmniejszeniu ceł...",
-      "date_published": "2026-02-13T09:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Erbud-ma-umowe-na-budowe-dwoch-budynkow-mieszkalnych-za-131-mln-zl-9083230.html",
-      "url": "https://www.bankier.pl/wiadomosc/Erbud-ma-umowe-na-budowe-dwoch-budynkow-mieszkalnych-za-131-mln-zl-9083230.html",
-      "title": "Erbud ma umowę na budowę dwóch budynków mieszkalnych za 131 mln zł",
-      "content_html": "Erbud podpisał umowę na budowę dwóch budynków mieszkalnych wielorodzinnych w Bydgoszczy za 131 mln zł - podała spółka w komunikacie. (PAP Biznes)",
-      "date_published": "2026-02-13T09:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyfrowa-tarcza-nad-Iranem-Rosyjskie-zagluszarki-paralizuja-lacznosc-na-Bliskim-Wschodzie-9083228.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyfrowa-tarcza-nad-Iranem-Rosyjskie-zagluszarki-paralizuja-lacznosc-na-Bliskim-Wschodzie-9083228.html",
-      "title": "\"Cyfrowa tarcza\" nad Iranem. Rosyjskie zagłuszarki paraliżują łączność na Bliskim Wschodzie",
-      "content_html": "Iran rozmieścił rosyjskie systemy walki elektronicznej Tirada-2S, aby zagłuszały sygnały satelitów Starlink, z których korzystają siły Stanów Zjednoczonych skoncentrowane na Bliskim Wschodzie.",
-      "date_published": "2026-02-13T09:15:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
