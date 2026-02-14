@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Politycy-o-aferze-z-marka-Nawrocky-W-Polsce-nie-wykorzystuje-sie-urzedow-w-celach-komercyjnych-9083844.html",
+      "url": "https://www.bankier.pl/wiadomosc/Politycy-o-aferze-z-marka-Nawrocky-W-Polsce-nie-wykorzystuje-sie-urzedow-w-celach-komercyjnych-9083844.html",
+      "title": "Afera z marką Nawrocky. \"W Polsce nie wykorzystuje się urzędów w celach komercyjnych\"",
+      "content_html": "Otoczenie prezydenta tłumaczy, że Karol Nawrocki nie ma kontraktu reklamowego z firmą odzieżową „NowRocky”. W Polsce nie wykorzystuje się urzędów w celach komercyjnych - przed laty za wizerunek prezydenta w reklamie mebli głową musiał zapłacić...",
+      "date_published": "2026-02-14T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UE-przechodzi-na-tryb-wojenny-Von-der-Leyen-chce-rezygnacji-z-jednomyslnosci-Nadszedl-czas-9083867.html",
+      "url": "https://www.bankier.pl/wiadomosc/UE-przechodzi-na-tryb-wojenny-Von-der-Leyen-chce-rezygnacji-z-jednomyslnosci-Nadszedl-czas-9083867.html",
+      "title": "UE przechodzi na tryb wojenny. Von der Leyen chce rezygnacji z jednomyślności. „Nadszedł czas”",
+      "content_html": "Nadszedł czas, aby wprowadzić w życie europejską klauzulę wzajemnej obrony - oświadczyła w sobotę na Monachijskiej Konferencji Bezpieczeństwa szefowa Komisji Europejskiej Ursula von der Leyen. By UE była do tego gotowa, musi podejmować decyzje...",
+      "date_published": "2026-02-14T11:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
       "url": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
       "title": "Rubio: USA nie chcą podziału, ale ożywienia NATO. Aby Europa była silna i żeby przetrwała",
       "content_html": "Stany Zjednoczone nie chcą podziału, ale ożywienia sojuszu transatlantyckiego - powiedział w sobotę podczas Monachijskiej Konferencji Bezpieczeństwa szef amerykańskiej dyplomacji Marco Rubio.",
-      "date_published": "2026-02-14T10:47:00+01:00"
+      "date_published": "2026-02-14T10:58:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/SN-czeka-zmiana-Malgorzata-Manowska-oglosila-decyzje-9083866.html",
@@ -144,6 +158,13 @@
       "date_published": "2026-02-14T08:40:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Co-czwarta-osoba-planujaca-kupno-nowego-auta-rozwaza-elektryka-Chcemy-pradu-ale-boimy-sie-pozarow-9078801.html",
+      "url": "https://www.bankier.pl/wiadomosc/Co-czwarta-osoba-planujaca-kupno-nowego-auta-rozwaza-elektryka-Chcemy-pradu-ale-boimy-sie-pozarow-9078801.html",
+      "title": "Co czwarta osoba planująca kupno nowego auta rozważa elektryka. Chcemy prądu, ale boimy się pożarów",
+      "content_html": "Co czwarta ankietowana osoba planująca kupno nowego samochodu bierze pod uwagę wybór pojazdu w pełni elektrycznego - wynika z badania Barometr Nowej Mobilności. Połowa z nich wskazała, że za takie auto mogłaby zapłacić od 80 do 160 tys. zł...",
+      "date_published": "2026-02-14T08:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Dowody-tozsamosci-beda-obowiazkowe-w-wyborach-nawet-bez-zgody-Kongresu-9083826.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-Dowody-tozsamosci-beda-obowiazkowe-w-wyborach-nawet-bez-zgody-Kongresu-9083826.html",
       "title": "Trump: Dowody tożsamości będą obowiązkowe w wyborach nawet bez zgody Kongresu",
@@ -254,13 +275,6 @@
       "title": "Poroszenko: Nie zamykajcie przed Ukrainą drzwi do NATO",
       "content_html": "Nie zamykajcie przed Ukrainą drzwi do NATO, to członkostwo będzie korzystne także dla Sojuszu - powiedział w piątek PAP i TVP były ukraiński prezydent Petro Poroszenko, uczestniczący w Monachijskiej Konferencji Bezpieczeństwa (MSC).",
       "date_published": "2026-02-13T19:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-zapowiedzial-ze-odwiedzi-Wenezuele-i-ze-uznal-jej-wladze-9083737.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-zapowiedzial-ze-odwiedzi-Wenezuele-i-ze-uznal-jej-wladze-9083737.html",
-      "title": "Trump zapowiedział, że odwiedzi Wenezuelę i że uznał jej władze",
-      "content_html": "Prezydent USA Donald Trump poinformował w piątek, że zamierza odwiedzić Wenezuelę, choć nie podał terminu ewentualnej wizyty. Powiedział też, że w praktyce uznał już tymczasową prezydentkę Wenezueli Delcy Rodriguez za prawowitego przywódcę...",
-      "date_published": "2026-02-13T19:11:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sukces-prohibicji-w-Srodmiesciu-Warszawa-idzie-o-krok-dalej-Spadek-interwencji-o-37-proc-9082804.html",
@@ -557,6 +571,13 @@
       "date_published": "2026-02-13T12:45:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Azyl-Zbigniewa-Ziobry-Polska-poskarzy-sie-na-Wegry-w-TSUE-9083400.html",
+      "url": "https://www.bankier.pl/wiadomosc/Azyl-Zbigniewa-Ziobry-Polska-poskarzy-sie-na-Wegry-w-TSUE-9083400.html",
+      "title": "Azyl Zbigniewa Ziobry. Polska poskarży się na Węgry w TSUE?",
+      "content_html": "Sprawą skargi na Węgry do Trybunału Sprawiedliwości UE w związku z udzieleniem przez ten kraj azylu Zbigniewowi Ziobrze zajmuje się resort sprawiedliwości konsultując się z departamentem prawnym MSZ - powiedział w piątek wiceszef resortu dyplomacji...",
+      "date_published": "2026-02-13T12:31:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dobrowolne-wejscie-w-e-faktury-Prawie-69-tys-firm-wyprzedzilo-termin-9083290.html",
       "url": "https://www.bankier.pl/wiadomosc/Dobrowolne-wejscie-w-e-faktury-Prawie-69-tys-firm-wyprzedzilo-termin-9083290.html",
       "title": "Dobrowolne wejście w e-faktury. Prawie 69 tys. firm wyprzedziło termin",
@@ -667,34 +688,6 @@
       "title": "Tragedia w Karolinie Południowej. Strzały na uczelni, są ofiary śmiertelne",
       "content_html": "Dwie osoby zginęły, a jedna została ranna w wyniku strzelaniny na kampusie Uniwersytetu Stanowego Karoliny Południowej w Orangeburgu - poinformowała w czwartek stacja NBC, powołując się na władze uczelni. Uniwersytet nie ujawnił tożsamości...",
       "date_published": "2026-02-13T10:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-UE-na-polska-armie-Rzad-przeforsowal-ustawe-pieniedzmi-zajmie-sie-BGK-9083259.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-UE-na-polska-armie-Rzad-przeforsowal-ustawe-pieniedzmi-zajmie-sie-BGK-9083259.html",
-      "title": "Miliardy z UE na polską armię. Rząd przeforsował ustawę, pieniędzmi zajmie się BGK",
-      "content_html": "Sejm uchwalił w piątek ustawę wdrażającą unijny program dozbrajania SAFE. Umożliwi ona powołanie specjalnego, zarządzanego przez BGK funduszu, za pośrednictwem którego będą mogły być wydawane pieniądze z programu.",
-      "date_published": "2026-02-13T10:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GUS-Inflacja-w-styczniu-najnizsza-od-prawie-dwoch-lat-9083240.html",
-      "url": "https://www.bankier.pl/wiadomosc/GUS-Inflacja-w-styczniu-najnizsza-od-prawie-dwoch-lat-9083240.html",
-      "title": "GUS: Inflacja w styczniu najniższa od prawie dwóch lat. Ale będziemy rewidować",
-      "content_html": "Na skutek efektu wysokiej zeszłorocznej bazy odniesienia inflacja CPI w styczniu 2026 roku znalazła się najniżej od prawie dwóch lat - wynika z najnowszych danych Głównego Urzędu Statystycznego.",
-      "date_published": "2026-02-13T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pracownicy-JSW-opowiedzieli-sie-za-przyjeciem-porozumienia-zawieszajacego-9083190.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pracownicy-JSW-opowiedzieli-sie-za-przyjeciem-porozumienia-zawieszajacego-9083190.html",
-      "title": "97 proc. załogi za zaciskaniem pasa. JSW ma zielone światło na ratunkowe finansowanie",
-      "content_html": "Załoga Jastrzębskiej Spółki Węglowej opowiedziała się za porozumieniem z zarządem spółki, na mocy którego zawieszone mają być niektóre świadczenia pracownicze - poinformowała w piątek JSW. Zgoda ma umożliwić uzyskanie finansowania dla...",
-      "date_published": "2026-02-13T09:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-dla-malego-atomu-Motyka-SMR-y-nie-sa-wstrzymane-9083246.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-dla-malego-atomu-Motyka-SMR-y-nie-sa-wstrzymane-9083246.html",
-      "title": "Zielone światło dla małego atomu. Motyka: SMR-y nie są wstrzymane",
-      "content_html": "Projekty ws. małych reaktorów modułowych (SMR) nie są wstrzymywane - zadeklarował w piątek minister energii Miłosz Motyka, pytany o odroczenie przez komisję sejmową decyzji ws. wylesienia gruntów pod SMR w Stalowej Woli. Dodał, że w ciągu...",
-      "date_published": "2026-02-13T09:43:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
