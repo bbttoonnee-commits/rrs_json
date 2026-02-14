@@ -4,18 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
+      "title": "Rubio: USA nie chcą podziału, ale ożywienia NATO. Aby Europa była silna i żeby przetrwała",
+      "content_html": "Stany Zjednoczone nie chcą podziału, ale ożywienia sojuszu transatlantyckiego - powiedział w sobotę podczas Monachijskiej Konferencji Bezpieczeństwa szef amerykańskiej dyplomacji Marco Rubio.",
+      "date_published": "2026-02-14T10:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SN-czeka-zmiana-Malgorzata-Manowska-oglosila-decyzje-9083866.html",
+      "url": "https://www.bankier.pl/wiadomosc/SN-czeka-zmiana-Malgorzata-Manowska-oglosila-decyzje-9083866.html",
+      "title": "SN czeka zmiana. Małgorzata Manowska ogłosiła decyzję",
+      "content_html": "Pierwsza prezes Sądu Najwyższego Małgorzata Manowska zapowiedziała w rozmowie z „Rzeczpospolitą”, że nie będzie ubiegać się o kolejną kadencję na tym stanowisku. Jak zaznaczyła, zmieniłaby decyzję jedynie w przypadku wystąpienia „nadzwyczajnych...",
+      "date_published": "2026-02-14T10:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-bez-planu-na-wypadek-kryzysu-finansowego-Z-najciezej-zrezygnowac-9083860.html",
       "url": "https://www.bankier.pl/wiadomosc/Polacy-bez-planu-na-wypadek-kryzysu-finansowego-Z-najciezej-zrezygnowac-9083860.html",
       "title": "Polacy bez planu na wypadek kryzysu finansowego. Z czego najciężej zrezygnować?",
       "content_html": "Planu awaryjnego na wypadek nagłego kryzysu finansowego nie ma 69 proc. Polaków - wynika z badania Santander Consumer Banku. Jasno sprecyzowany harmonogram cięć wydatków w takiej sytuacji ma 6 proc., a 22 proc. przygotowało częściową listę potencjalnych...",
       "date_published": "2026-02-14T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rubio-USA-nie-chca-podzialu-ale-ozywienia-NATO-Aby-Europa-byla-silna-i-zeby-przetrwala-9083857.html",
-      "title": "Rubio: USA nie chcą podziału, ale ożywienia NATO. Aby Europa była silna i żeby przetrwała",
-      "content_html": "Stany Zjednoczone nie chcą podziału, ale ożywienia sojuszu transatlantyckiego - powiedział w sobotę podczas Monachijskiej Konferencji Bezpieczeństwa szef amerykańskiej dyplomacji Marco Rubio.",
-      "date_published": "2026-02-14T09:55:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grozby-ujawnienia-sekstasmy-Magyar-sklada-zawiadomienie-o-popelnieniu-przestepstwa-9083709.html",
@@ -135,13 +142,6 @@
       "title": "Jest decyzja. USA wysłały największy lotniskowiec na Bliski Wschód",
       "content_html": "Pentagon podjął decyzję o wysłaniu największego amerykańskiego lotniskowca USS Gerald Ford i towarzyszących mu okrętów z Morza Karaibskiego na Bliski Wschód w ramach przygotowań do potencjalnego ataku na Iran - podał w czwartek „Wall Street...",
       "date_published": "2026-02-14T08:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-czwarta-osoba-planujaca-kupno-nowego-auta-rozwaza-elektryka-Chcemy-pradu-ale-boimy-sie-pozarow-9078801.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-czwarta-osoba-planujaca-kupno-nowego-auta-rozwaza-elektryka-Chcemy-pradu-ale-boimy-sie-pozarow-9078801.html",
-      "title": "Co czwarta osoba planująca kupno nowego auta rozważa elektryka. Chcemy prądu, ale boimy się pożarów",
-      "content_html": "Co czwarta ankietowana osoba planująca kupno nowego samochodu bierze pod uwagę wybór pojazdu w pełni elektrycznego - wynika z badania Barometr Nowej Mobilności. Połowa z nich wskazała, że za takie auto mogłaby zapłacić od 80 do 160 tys. zł...",
-      "date_published": "2026-02-14T08:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Dowody-tozsamosci-beda-obowiazkowe-w-wyborach-nawet-bez-zgody-Kongresu-9083826.html",
@@ -555,13 +555,6 @@
       "title": "Polskie obligacje zeszły poniżej 5%. Po raz pierwszy od 4 lat",
       "content_html": "Po raz pierwszy od marca 2022 roku rentowność polskich obligacji 10-letnich spadła poniżej psychologicznej bariery 5%.",
       "date_published": "2026-02-13T12:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Azyl-Zbigniewa-Ziobry-Polska-poskarzy-sie-na-Wegry-w-TSUE-9083400.html",
-      "url": "https://www.bankier.pl/wiadomosc/Azyl-Zbigniewa-Ziobry-Polska-poskarzy-sie-na-Wegry-w-TSUE-9083400.html",
-      "title": "Azyl Zbigniewa Ziobry. Polska poskarży się na Węgry w TSUE?",
-      "content_html": "Sprawą skargi na Węgry do Trybunału Sprawiedliwości UE w związku z udzieleniem przez ten kraj azylu Zbigniewowi Ziobrze zajmuje się resort sprawiedliwości konsultując się z departamentem prawnym MSZ - powiedział w piątek wiceszef resortu dyplomacji...",
-      "date_published": "2026-02-13T12:31:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dobrowolne-wejscie-w-e-faktury-Prawie-69-tys-firm-wyprzedzilo-termin-9083290.html",
