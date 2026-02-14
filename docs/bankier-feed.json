@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rutte-NATO-bedzie-z-Ukraina-tak-dlugo-jak-bedzie-trzeba-9082855.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rutte-NATO-bedzie-z-Ukraina-tak-dlugo-jak-bedzie-trzeba-9082855.html",
+      "title": "Rutte: NATO będzie z Ukrainą tak długo, jak będzie trzeba",
+      "content_html": "Szef NATO Mark Rutte powiedział na konferencji prasowej podczas spotkania ministrów obrony państw Sojuszu w Brukseli, że NATO będzie z Ukrainą tak długo, jak będzie trzeba. - Sojusznicy ciężko pracują każdego dnia, aby zapewnić jak najsilniejsze...",
+      "date_published": "2026-02-14T15:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Alarm-wywiadu-Nadchodzi-zmasowany-atak-Zelenski-w-Monachium-bije-na-alarm-9083884.html",
+      "url": "https://www.bankier.pl/wiadomosc/Alarm-wywiadu-Nadchodzi-zmasowany-atak-Zelenski-w-Monachium-bije-na-alarm-9083884.html",
+      "title": "Alarm wywiadu: Nadchodzi zmasowany atak. Zełenski w Monachium bije na alarm",
+      "content_html": "Rosyjskie ataki na Ukrainę odbywają się każdego dnia; wywiad ostrzega, że do nowych zmasowanych uderzeń dojdzie w najbliższych dniach. Dlatego potrzebujemy szybszych dostaw broni – powiedział w sobotę na Monachijskiej Konferencji Bezpieczeństwa...",
+      "date_published": "2026-02-14T13:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ranking-korupcji-2026-Wiadomo-ktore-miejsce-zajela-Polska-9081553.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ranking-korupcji-2026-Wiadomo-ktore-miejsce-zajela-Polska-9081553.html",
+      "title": "Ranking korupcji 2026. Wiadomo, które miejsce zajęła Polska",
+      "content_html": "Korupcja nasila się wraz ze wzrostem nurtów populistycznych i nacjonalistycznych. Polska zajęła 52. miejsce wśród 182 krajów, podobnie jak poprzednio - wynika z raportu Transparency International. Liderem jest Dania, a USA notują najgorszy wynik...",
+      "date_published": "2026-02-14T13:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/GIF-uderza-w-polskiego-rapera-Doszlo-do-niedozwolonej-reklamy-leku-9083674.html",
+      "url": "https://www.bankier.pl/wiadomosc/GIF-uderza-w-polskiego-rapera-Doszlo-do-niedozwolonej-reklamy-leku-9083674.html",
+      "title": "GIF uderza w polskiego rapera. \"Doszło do niedozwolonej reklamy leku\"",
+      "content_html": "Główny Inspektorat Farmaceutyczny poinformował PAP, że producent leku Solpadeine nie zgodził się na wykorzystanie nazwy produktu w utworze „Zakochałem się pod apteką” rapera Taco Hemingwaya. W ocenie GIF doszło do niedozwolonej reklamy produktu...",
+      "date_published": "2026-02-14T13:25:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Brytyjski-premier-Musimy-budowac-twarda-sile-to-waluta-naszych-czasow-9083875.html",
       "url": "https://www.bankier.pl/wiadomosc/Brytyjski-premier-Musimy-budowac-twarda-sile-to-waluta-naszych-czasow-9083875.html",
       "title": "Brytyjski premier: Musimy budować „twardą siłę”, to waluta naszych czasów",
@@ -674,13 +702,6 @@
       "title": "Amerykanie płacą za cła Trumpa. Celna iluzja i rozbieżności",
       "content_html": "Początek ubiegłego roku to istne szaleństwo. Wraz z rozpoczęciem drugiej kadencji prezydenta USA Donalda Trumpa gospodarka światowa, ale i polityka przeżyły wiele silnych wstrząsów. Zmienność humorów prezydenta USA odnośnie polityki celnej...",
       "date_published": "2026-02-13T11:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacyjna-niespodzianka-nie-wplynela-na-zlotego-Frank-pozostaje-mocny-9083299.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacyjna-niespodzianka-nie-wplynela-na-zlotego-Frank-pozostaje-mocny-9083299.html",
-      "title": "Inflacyjna niespodzianka nie wpłynęła na złotego. Frank pozostaje mocny",
-      "content_html": "Kurs euro pozostał stabilny. Wciąż wysoko stały za to notowania franka szwajcarskiego.",
-      "date_published": "2026-02-13T10:53:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
