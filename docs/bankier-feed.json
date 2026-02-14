@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Brytyjski-premier-Musimy-budowac-twarda-sile-to-waluta-naszych-czasow-9083875.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brytyjski-premier-Musimy-budowac-twarda-sile-to-waluta-naszych-czasow-9083875.html",
+      "title": "Brytyjski premier: Musimy budować „twardą siłę”, to waluta naszych czasów",
+      "content_html": "Musimy być gotowi do walki i budować twardą siłę, ponieważ to waluta naszych czasów - powiedział w sobotę premier Wielkiej Brytanii Keir Starmer podczas Międzynarodowej Konferencji Bezpieczeństwa (MSC) w Monachium.",
+      "date_published": "2026-02-14T11:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanska-bron-dla-Ukrainy-Wiadomo-kto-placi-za-nia-najwiecej-9081993.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanska-bron-dla-Ukrainy-Wiadomo-kto-placi-za-nia-najwiecej-9081993.html",
+      "title": "Amerykańska broń dla Ukrainy. Wiadomo, kto płaci za nią najwięcej",
+      "content_html": "Szefowa misji dyplomatycznej Ukrainy przy NATO Alona Hetmanczuk poinformowała, że Norwegia, Holandia i Niemcy to państwa, które udzieliły Ukrainie największego wsparcia w zakupach krytycznie potrzebnego amerykańskiego uzbrojenia w ramach mechanizmu...",
+      "date_published": "2026-02-14T11:08:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Politycy-o-aferze-z-marka-Nawrocky-W-Polsce-nie-wykorzystuje-sie-urzedow-w-celach-komercyjnych-9083844.html",
       "url": "https://www.bankier.pl/wiadomosc/Politycy-o-aferze-z-marka-Nawrocky-W-Polsce-nie-wykorzystuje-sie-urzedow-w-celach-komercyjnych-9083844.html",
       "title": "Afera z marką Nawrocky. \"W Polsce nie wykorzystuje się urzędów w celach komercyjnych\"",
@@ -275,6 +289,13 @@
       "title": "Poroszenko: Nie zamykajcie przed Ukrainą drzwi do NATO",
       "content_html": "Nie zamykajcie przed Ukrainą drzwi do NATO, to członkostwo będzie korzystne także dla Sojuszu - powiedział w piątek PAP i TVP były ukraiński prezydent Petro Poroszenko, uczestniczący w Monachijskiej Konferencji Bezpieczeństwa (MSC).",
       "date_published": "2026-02-13T19:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-zapowiedzial-ze-odwiedzi-Wenezuele-i-ze-uznal-jej-wladze-9083737.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-zapowiedzial-ze-odwiedzi-Wenezuele-i-ze-uznal-jej-wladze-9083737.html",
+      "title": "Trump zapowiedział, że odwiedzi Wenezuelę i że uznał jej władze",
+      "content_html": "Prezydent USA Donald Trump poinformował w piątek, że zamierza odwiedzić Wenezuelę, choć nie podał terminu ewentualnej wizyty. Powiedział też, że w praktyce uznał już tymczasową prezydentkę Wenezueli Delcy Rodriguez za prawowitego przywódcę...",
+      "date_published": "2026-02-13T19:11:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sukces-prohibicji-w-Srodmiesciu-Warszawa-idzie-o-krok-dalej-Spadek-interwencji-o-37-proc-9082804.html",
@@ -681,13 +702,6 @@
       "title": "Afera po posiedzeniu RBN. \"To się skończy po prostu prokuraturą\"",
       "content_html": "ABW bada sprawę udziału szefa BBN Sławomira Cenckiewicza w posiedzeniu Rady Bezpieczeństwa Narodowego i wydaje się, że będzie to miało konsekwencje dla osób odpowiedzialnych za organizację tego spotkania - uważa wiceszef MON Cezary Tomczyk...",
       "date_published": "2026-02-13T10:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html",
-      "title": "Tragedia w Karolinie Południowej. Strzały na uczelni, są ofiary śmiertelne",
-      "content_html": "Dwie osoby zginęły, a jedna została ranna w wyniku strzelaniny na kampusie Uniwersytetu Stanowego Karoliny Południowej w Orangeburgu - poinformowała w czwartek stacja NBC, powołując się na władze uczelni. Uniwersytet nie ujawnił tożsamości...",
-      "date_published": "2026-02-13T10:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

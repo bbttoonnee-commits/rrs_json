@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 14 Feb 2026 11:00:00 +0100</lastBuildDate>
-    <item>
-      <title>Tragedia w Karolinie Południowej. Strzały na uczelni, są ofiary śmiertelne</title>
-      <link>https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html</link>
-      <description>Dwie osoby zginęły, a jedna została ranna w wyniku strzelaniny na kampusie Uniwersytetu Stanowego Karoliny Południowej w Orangeburgu - poinformowała w czwartek stacja NBC, powołując się na władze uczelni. Uniwersytet nie ujawnił tożsamości...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Tragedia-w-Karolinie-Poludniowej-Strzaly-na-uczelni-sa-ofiary-smiertelne-9083195.html</guid>
-      <pubDate>Fri, 13 Feb 2026 10:16:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sat, 14 Feb 2026 11:23:00 +0100</lastBuildDate>
     <item>
       <title>Afera po posiedzeniu RBN. "To się skończy po prostu prokuraturą"</title>
       <link>https://www.bankier.pl/wiadomosc/Afera-po-posiedzeniu-RBN-Tomczyk-zapowiada-surowe-konsekwencje-To-sie-skonczy-po-prostu-prokuratura-9083274.html</link>
@@ -423,6 +416,13 @@
       <pubDate>Fri, 13 Feb 2026 18:51:00 +0100</pubDate>
     </item>
     <item>
+      <title>Trump zapowiedział, że odwiedzi Wenezuelę i że uznał jej władze</title>
+      <link>https://www.bankier.pl/wiadomosc/Trump-zapowiedzial-ze-odwiedzi-Wenezuele-i-ze-uznal-jej-wladze-9083737.html</link>
+      <description>Prezydent USA Donald Trump poinformował w piątek, że zamierza odwiedzić Wenezuelę, choć nie podał terminu ewentualnej wizyty. Powiedział też, że w praktyce uznał już tymczasową prezydentkę Wenezueli Delcy Rodriguez za prawowitego przywódcę...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-zapowiedzial-ze-odwiedzi-Wenezuele-i-ze-uznal-jej-wladze-9083737.html</guid>
+      <pubDate>Fri, 13 Feb 2026 19:11:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Poroszenko: Nie zamykajcie przed Ukrainą drzwi do NATO</title>
       <link>https://www.bankier.pl/wiadomosc/Poroszenko-Nie-zamykajcie-przed-Ukraina-drzwi-do-NATO-9083740.html</link>
       <description>Nie zamykajcie przed Ukrainą drzwi do NATO, to członkostwo będzie korzystne także dla Sojuszu - powiedział w piątek PAP i TVP były ukraiński prezydent Petro Poroszenko, uczestniczący w Monachijskiej Konferencji Bezpieczeństwa (MSC).</description>
@@ -694,6 +694,20 @@
       <description>Otoczenie prezydenta tłumaczy, że Karol Nawrocki nie ma kontraktu reklamowego z firmą odzieżową „NowRocky”. W Polsce nie wykorzystuje się urzędów w celach komercyjnych - przed laty za wizerunek prezydenta w reklamie mebli głową musiał zapłacić...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Politycy-o-aferze-z-marka-Nawrocky-W-Polsce-nie-wykorzystuje-sie-urzedow-w-celach-komercyjnych-9083844.html</guid>
       <pubDate>Sat, 14 Feb 2026 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Amerykańska broń dla Ukrainy. Wiadomo, kto płaci za nią najwięcej</title>
+      <link>https://www.bankier.pl/wiadomosc/Amerykanska-bron-dla-Ukrainy-Wiadomo-kto-placi-za-nia-najwiecej-9081993.html</link>
+      <description>Szefowa misji dyplomatycznej Ukrainy przy NATO Alona Hetmanczuk poinformowała, że Norwegia, Holandia i Niemcy to państwa, które udzieliły Ukrainie największego wsparcia w zakupach krytycznie potrzebnego amerykańskiego uzbrojenia w ramach mechanizmu...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Amerykanska-bron-dla-Ukrainy-Wiadomo-kto-placi-za-nia-najwiecej-9081993.html</guid>
+      <pubDate>Sat, 14 Feb 2026 11:08:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Brytyjski premier: Musimy budować „twardą siłę”, to waluta naszych czasów</title>
+      <link>https://www.bankier.pl/wiadomosc/Brytyjski-premier-Musimy-budowac-twarda-sile-to-waluta-naszych-czasow-9083875.html</link>
+      <description>Musimy być gotowi do walki i budować twardą siłę, ponieważ to waluta naszych czasów - powiedział w sobotę premier Wielkiej Brytanii Keir Starmer podczas Międzynarodowej Konferencji Bezpieczeństwa (MSC) w Monachium.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Brytyjski-premier-Musimy-budowac-twarda-sile-to-waluta-naszych-czasow-9083875.html</guid>
+      <pubDate>Sat, 14 Feb 2026 11:23:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
