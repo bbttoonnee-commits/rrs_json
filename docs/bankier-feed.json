@@ -284,6 +284,20 @@
       "date_published": "2026-02-14T09:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Atakowanie-satelitow-to-stara-praktyka-Rosji-Trwaja-prace-nad-tarcza-kosmiczna-9079084.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atakowanie-satelitow-to-stara-praktyka-Rosji-Trwaja-prace-nad-tarcza-kosmiczna-9079084.html",
+      "title": "Atakowanie satelitów to stara praktyka Rosji. Trwają prace nad \"tarczą kosmiczną\"",
+      "content_html": "Rzecznik Komisji Europejskiej Thomas Regnier powiedział, że atakowanie europejskich zasobów kosmicznych lub satelitów to praktyka stosowana przez Rosję od dawna. Dodał, że KE wraz z państwami członkowskimi pracuje nad stworzeniem systemu przeciwdziałania...",
+      "date_published": "2026-02-14T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zator-zbozowy-Dlaczego-rolnicy-czekaja-a-eksport-hamuje-9079383.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zator-zbozowy-Dlaczego-rolnicy-czekaja-a-eksport-hamuje-9079383.html",
+      "title": "Zator zbożowy. Dlaczego rolnicy czekają, a eksport hamuje?",
+      "content_html": "Podczas 11 miesięcy 2025 r. eksport polskiego zboża spadł o 25 proc. rdr, do 7,2 mln ton. Według resortu rolnictwa, aby zbilansować krajowy rynek zbóż, trzeba eksportować z kraju ponad 10 mln ton zbóż rocznie. Analizowane jest pozyskanie nowych...",
+      "date_published": "2026-02-14T09:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Od-soboty-latwiej-zalogujesz-sie-do-KSeF-Startuje-nowa-metoda-9083344.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-soboty-latwiej-zalogujesz-sie-do-KSeF-Startuje-nowa-metoda-9083344.html",
       "title": "Od soboty łatwiej zalogujesz się do KSeF. Startuje nowa metoda",
@@ -681,20 +695,6 @@
       "title": "Trzecie podejście Trumpa? Kolejna runda rozmów pokojowych przed nami",
       "content_html": "Rosja, Ukraina i USA przeprowadzą w przyszłym tygodniu kolejną rundę rozmów pokojowych w formacie trójstronnym - poinformował w piątek rzecznik Kremla Dmitrij Pieskow. Nie sprecyzował jednak miejsca spotkania. Według agencji RIA-Nowosti rozmowy...",
       "date_published": "2026-02-13T13:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PiS-przeciwko-srodkom-miliardom-z-SAFE-Tomczyk-Dzialanie-na-granicy-zdrady-9083394.html",
-      "url": "https://www.bankier.pl/wiadomosc/PiS-przeciwko-srodkom-miliardom-z-SAFE-Tomczyk-Dzialanie-na-granicy-zdrady-9083394.html",
-      "title": "PiS przeciwko miliardom z SAFE. \"Działanie na granicy zdrady\"",
-      "content_html": "Wiceszef MON Cezary Tomczyk zaapelował do PiS, by „przestał być lobbystą obcych państw, a stał się lobbystą Polski”. Jak podkreślił, program SFAE to blisko 200 mld zł dla polskiego wojska, a sprzeciw wobec tych środków to skandal i działanie...",
-      "date_published": "2026-02-13T13:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-oglosil-powolanie-komisji-sledczej-do-zbadania-protestow-9083433.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-oglosil-powolanie-komisji-sledczej-do-zbadania-protestow-9083433.html",
-      "title": "Iran ogłosił powołanie komisji śledczej do zbadania protestów",
-      "content_html": "Rząd Iranu ogłosił w piątek powołanie komisji śledczej do zbadania protestów przeciw wysokim kosztom utrzymania, które przerodziły się w manifestacje, stłumione przez służby bezpieczeństwa - poinformował portal Al Arabiya. Zginęły wówczas...",
-      "date_published": "2026-02-13T13:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
