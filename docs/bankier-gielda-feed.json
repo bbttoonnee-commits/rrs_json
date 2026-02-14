@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wlasciciel-North-Fish-sklada-wniosek-o-upadlosc-To-biznes-najbogatszego-Polaka-9083928.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wlasciciel-North-Fish-sklada-wniosek-o-upadlosc-To-biznes-najbogatszego-Polaka-9083928.html",
+      "title": "Właściciel North Fish składa wniosek o upadłość. To biznes najbogatszego Polaka Kielecka spółka North Food Polska, kontrolowana przez najbogatszego Polaka Michała Sołowowa, złożyła wniosek o ogłoszenie upadłości.",
+      "content_html": "",
+      "date_published": "2026-02-14T17:01:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/System-CoolCryo-spolki-Medinice-ze-zgoda-FDA-na-obrot-w-USA-9083913.html",
       "url": "https://www.bankier.pl/wiadomosc/System-CoolCryo-spolki-Medinice-ze-zgoda-FDA-na-obrot-w-USA-9083913.html",
       "title": "System CoolCryo spółki Medinice ze zgodą FDA na obrót w USA System CoolCryo otrzymał zgodę od FDA (Food and Drug Administration), tzw. „clearance”. Jest to pierwszy w Polsce wyrób klasy III w dziedzinie kardiochirurgii dopuszczony do obrotu w USA, otwierający Medinice. realną ścieżkę komercjalizacji na tym rynku - poinformowało Medinice w komunikacie.",
@@ -240,20 +247,6 @@
       "title": "Porządki w Grupie Azoty. Prezes i wiceprezesi odwołani Rada nadzorcza Grupy Azoty odwołała w czwartek trzech członków zarządu: prezesa Andrzeja Skolmowskiego i wiceprezesów Pawła Bielskiego oraz Andrzeja Dawidowskiego. Jednocześnie Ministerstwo Aktywów Państwowych zapowiedziało dokapitalizowanie spółki.",
       "content_html": "",
       "date_published": "2026-02-12T17:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/WIBOR-bezpieczny-ale-entuzjazmu-brak-WIG-na-okragle-zero-9082936.html",
-      "url": "https://www.bankier.pl/wiadomosc/WIBOR-bezpieczny-ale-entuzjazmu-brak-WIG-na-okragle-zero-9082936.html",
-      "title": "WIBOR bezpieczny, ale entuzjazmu brak. WIG na okrągłe zero Długo wyczekiwane rozstrzygnięcie Trybunału Sprawiedliwości UE w sprawie wskaźnika WIBOR okazało się korzystne dla sektora finansowego, ale inwestorzy z GPW zareagowali na niego z dużą powściągliwością. Brak większego entuzjazmu dominował jednak na szerokim rynku, gdzie główne indeksy notowane były płasko.",
-      "content_html": "",
-      "date_published": "2026-02-12T17:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Synektik-w-I-kw-2025-26-roku-vs-konsensus-PAP-tabela-9082934.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Synektik-w-I-kw-2025-26-roku-vs-konsensus-PAP-tabela-9082934.html",
-      "title": "Wyniki Synektik w I kw. 2025/26 roku vs. konsensus PAP (tabela) Poniżej przedstawiono wyniki Synektik w pierwszym kwartale roku obrotowego 2025/26 oraz ich odniesienie do konsensusu i wcześniejszych wyników.",
-      "content_html": "",
-      "date_published": "2026-02-12T17:20:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
