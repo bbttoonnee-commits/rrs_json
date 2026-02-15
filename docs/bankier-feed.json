@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Znikajace-polskie-porodowki-Zamknieto-ponad-100-w-mniej-w-15-lat-9081732.html",
+      "url": "https://www.bankier.pl/wiadomosc/Znikajace-polskie-porodowki-Zamknieto-ponad-100-w-mniej-w-15-lat-9081732.html",
+      "title": "Znikające polskie porodówki. Zamknięto ponad 100 w mniej w 15 lat",
+      "content_html": "Liczba porodówek spadła z 406 w 2010 r. do 305 w 2025 r. - wynika z danych Ministerstwa Zdrowia. Na posiedzeniu sejmowego zespołu eksperci zwracali uwagę, że brakuje kompleksowych rozwiązań dla kobiet, które mają daleko do szpitala z oddziałem...",
+      "date_published": "2026-02-15T16:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tak-demografia-wplynie-na-rynek-mieszkan-Nowy-raport-9082580.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tak-demografia-wplynie-na-rynek-mieszkan-Nowy-raport-9082580.html",
+      "title": "Tak demografia wpłynie na rynek mieszkań. Nowy raport",
+      "content_html": "Do 2040 r. roku udział osób w wieku 65+ wzrośnie do niemal 30 proc. populacji, co wpłynie na strukturę popytu na mieszkania, ale i przesunie oczekiwania wobec standardu życia oraz sposobu korzystania z mieszkań w stronę bezpieczeństwa, funkcjonalności...",
+      "date_published": "2026-02-15T16:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szczescie-za-pieniadze-Brutalna-prawda-o-pokoleniu-TikToka-9083993.html",
       "url": "https://www.bankier.pl/wiadomosc/Szczescie-za-pieniadze-Brutalna-prawda-o-pokoleniu-TikToka-9083993.html",
       "title": "Szczęście za pieniądze? Brutalna prawda o pokoleniu TikToka",
@@ -688,13 +702,6 @@
       "title": "„AI Scare Trade” paraliżuje giełdy. Wall Street radzi, jak zarobić na panice",
       "content_html": "Tydzień na giełdach upłynął pod znakiem panicznej wyprzedaży, którą zdążono już ochrzcić mianem „AI Scare Trade”. Inwestorzy przestali koncentrować się na przyszłych zwycięzcach wyścigu sztucznej inteligencji, a zamiast tego w strachu...",
       "date_published": "2026-02-14T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ambasador-USA-przy-NATO-Rosjanie-nie-sa-gotowi-na-porozumienie-9083811.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ambasador-USA-przy-NATO-Rosjanie-nie-sa-gotowi-na-porozumienie-9083811.html",
-      "title": "Ambasador USA przy NATO: Rosjanie nie są gotowi na porozumienie",
-      "content_html": "Ambasador USA przy NATO Matthew Whitaker oświadczył w piątek podczas Monachijskiej Konferencji Bezpieczeństwa, iż nie jest przekonany, czy Rosjanie są i czy kiedykolwiek będą gotowi na porozumienie pokojowe z Ukrainą.",
-      "date_published": "2026-02-14T00:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
