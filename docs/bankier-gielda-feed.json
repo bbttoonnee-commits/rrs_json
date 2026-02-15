@@ -137,18 +137,18 @@
       "date_published": "2026-02-13T12:46:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polskie-obligacje-zeszly-ponizej-5-Po-raz-pierwszy-od-blisko-4-lat-9083407.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polskie-obligacje-zeszly-ponizej-5-Po-raz-pierwszy-od-blisko-4-lat-9083407.html",
+      "title": "Polskie obligacje zeszły poniżej 5%. Po raz pierwszy od 4 lat Po raz pierwszy od marca 2022 roku rentowność polskich obligacji 10-letnich spadła poniżej psychologicznej bariery 5%.",
+      "content_html": "",
+      "date_published": "2026-02-13T12:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/EuroPKB-Polska-wiceliderem-wzrostu-gospodarczego-w-UE-9083308.html",
       "url": "https://www.bankier.pl/wiadomosc/EuroPKB-Polska-wiceliderem-wzrostu-gospodarczego-w-UE-9083308.html",
       "title": "EuroPKB: Polska wiceliderem wzrostu gospodarczego w UE. A „zielone wyspy” są dwie W ostatnim kwartale 2025 roku Polska odnotowała drugą najwyższą roczną dynamikę PKB w krajach Unii Europejskiej.",
       "content_html": "",
       "date_published": "2026-02-13T12:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GUS-Inflacja-w-styczniu-najnizsza-od-prawie-dwoch-lat-9083240.html",
-      "url": "https://www.bankier.pl/wiadomosc/GUS-Inflacja-w-styczniu-najnizsza-od-prawie-dwoch-lat-9083240.html",
-      "title": "GUS: Inflacja w styczniu najniższa od prawie dwóch lat. Ale będziemy rewidować Na skutek efektu wysokiej zeszłorocznej bazy odniesienia inflacja CPI w styczniu 2026 roku znalazła się najniżej od prawie dwóch lat - wynika z najnowszych danych Głównego Urzędu Statystycznego.",
-      "content_html": "",
-      "date_published": "2026-02-13T10:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
