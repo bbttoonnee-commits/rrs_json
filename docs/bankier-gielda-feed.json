@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-II-kw-2025-26-na-15-mln-zl-wobec-9-889-tys-zl-rok-wczesniej-9084488.html",
+      "url": "https://www.bankier.pl/wiadomosc/Helio-szacuje-zysk-netto-w-II-kw-2025-26-na-15-mln-zl-wobec-9-889-tys-zl-rok-wczesniej-9084488.html",
+      "title": "Helio szacuje zysk netto w II kw. 2025/26 na 15 mln zł wobec 9 889 tys. zł rok wcześniej Helio spodziewa się, że w drugim kwartale roku obrotowego 2025/2026 (październik - grudzień 2025) zysk netto wyniósł ok. 15 mln zł wobec 9.889 tys. zł w analogicznym okresie poprzedniego roku - podał dystrybutor bakalii w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-16T16:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MBF-Group-ma-umowe-ramowa-strategicznego-porozumienia-z-GasFusion-9084413.html",
       "url": "https://www.bankier.pl/wiadomosc/MBF-Group-ma-umowe-ramowa-strategicznego-porozumienia-z-GasFusion-9084413.html",
       "title": "MBF Group ma umowę ramową strategicznego porozumienia z GasFusion MBF Group zawarł umowę ramową strategicznego porozumienia w zakresie organizacji i realizacji międzynarodowego obrotu paliwami i produktami ropopochodnymi z Gas Fusion Trading Refined Oil Products Abroad (GasFusion) - podała spółka MBF Group w komunikacie.",
@@ -114,13 +121,6 @@
       "title": "Wall Street znów zaskakuje. 74 proc. spółek z S&P 500 pobiło prognozy Do tej pory zyski 74 proc. amerykańskich spółek, które przedstawiły już swoje dokonania za czwarty kwartał 2025 roku, przekroczyły oczekiwania analityków - wynika z danych FactSet. W przypadku przychodów odsetek ten wynosi 73 proc.",
       "content_html": "",
       "date_published": "2026-02-14T21:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wlasciciel-North-Fish-sklada-wniosek-o-upadlosc-To-biznes-najbogatszego-Polaka-9083928.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wlasciciel-North-Fish-sklada-wniosek-o-upadlosc-To-biznes-najbogatszego-Polaka-9083928.html",
-      "title": "Znana restauracja składa wniosek o upadłość. To biznes najbogatszego Polaka Kielecka spółka North Food Polska, kontrolowana przez najbogatszego Polaka Michała Sołowowa, złożyła wniosek o ogłoszenie upadłości.",
-      "content_html": "",
-      "date_published": "2026-02-14T17:01:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
