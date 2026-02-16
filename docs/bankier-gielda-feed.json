@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-Warner-Bros-Discovery-Paramount-wraca-do-gry-9084107.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-Warner-Bros-Discovery-Paramount-wraca-do-gry-9084107.html",
+      "title": "BLOOMBERG Wojna o Warner Bros. Discovery. Paramount wraca do gry? Członkowie zarządu Warner Bros. Discovery rozważają wznowienie rozmów z koncernem Paramount Skydance na temat przejęcia firmy - podał w niedzielę Bloomberg. Ma to być efekt ulepszonej oferty Paramount Skydance.",
+      "content_html": "",
+      "date_published": "2026-02-15T21:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-potega-w-branzy-gier-Warszawa-na-szczycie-europejskiego-rankingu-9082184.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-potega-w-branzy-gier-Warszawa-na-szczycie-europejskiego-rankingu-9082184.html",
       "title": "Polska potęgą w branży gier. Warszawa na szczycie europejskiego rankingu Warszawski sektor gamingowy zatrudnia 6.343 osoby, co czyni go liderem wśród pięciu największych europejskich hubów branży gier - wynika z raportu \"Warszawa - wiodący europejski hub produkcji gier\" przygotowanego przez Fundację Vitruvio oraz Fundację Indie Games Polska na zamówienie stołecznego magistratu.",
@@ -37,13 +44,6 @@
       "title": "System CoolCryo spółki Medinice ze zgodą FDA na obrót w USA System CoolCryo otrzymał zgodę od FDA (Food and Drug Administration), tzw. „clearance”. Jest to pierwszy w Polsce wyrób klasy III w dziedzinie kardiochirurgii dopuszczony do obrotu w USA, otwierający Medinice. realną ścieżkę komercjalizacji na tym rynku - poinformowało Medinice w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-14T15:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AI-Scare-Trade-paralizuje-gieldy-Wall-Street-radzi-jak-zarobic-na-panice-9083533.html",
-      "url": "https://www.bankier.pl/wiadomosc/AI-Scare-Trade-paralizuje-gieldy-Wall-Street-radzi-jak-zarobic-na-panice-9083533.html",
-      "title": "O TYM MÓWI WALL STREET „AI Scare Trade” paraliżuje giełdy. Wall Street radzi, jak zarobić na panice Tydzień na giełdach upłynął pod znakiem panicznej wyprzedaży, którą zdążono już ochrzcić mianem „AI Scare Trade”. Inwestorzy przestali koncentrować się na przyszłych zwycięzcach wyścigu sztucznej inteligencji, a zamiast tego w strachu szukają sektorów, które staną się kolejnymi ofiarami tej technologii. Największe banki z Wall Street mają jednak kilka rad, jak odnaleźć się w tym chaosie.",
-      "content_html": "",
-      "date_published": "2026-02-14T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
