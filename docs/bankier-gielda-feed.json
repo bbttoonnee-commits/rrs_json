@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Unimot-zrealizowal-pierwsza-bezposrednia-dostawe-izobutanu-z-USA-9085074.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unimot-zrealizowal-pierwsza-bezposrednia-dostawe-izobutanu-z-USA-9085074.html",
+      "title": "Unimot zrealizował pierwszą bezpośrednią dostawę izobutanu z USA Unimot zrealizował pierwszą dostawę izobutanu zaimportowanego bezpośrednio ze Stanów Zjednoczonych na potrzeby swojego klienta, wykorzystując wynajęty w 2024 r. terminal w niemieckim Wilhelmshaven oraz transport kolejowy spółki Olavion - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-02-17T14:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-Energia-Ciepla-rusza-z-budowa-gazowego-zrodla-ciepla-w-Gdansku-9085065.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-Energia-Ciepla-rusza-z-budowa-gazowego-zrodla-ciepla-w-Gdansku-9085065.html",
+      "title": "PGE Energia Ciepła rusza z budową gazowego źródła ciepła w Gdańsku PGE Energia Ciepła podpisała umowę na budowę nowego, gazowego kogeneracyjnego źródła ciepła w Elektrociepłowni Gdańskiej - podała spółka w komunikacie prasowym. Wartość przedsięwzięcia to 217 mln zł netto.",
+      "content_html": "",
+      "date_published": "2026-02-17T14:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Enea-rozpoczela-budowe-blokow-gazowo-parowych-w-Kozienicach-o-lacznej-mocy-1336-MWe-9085026.html",
       "url": "https://www.bankier.pl/wiadomosc/Enea-rozpoczela-budowe-blokow-gazowo-parowych-w-Kozienicach-o-lacznej-mocy-1336-MWe-9085026.html",
       "title": "Enea rozpoczęła budowę bloków gazowo-parowych w Kozienicach o łącznej mocy 1336 MWe Grupa Enea rozpoczęła budowę dwóch bloków gazowo-parowych w technologii CCGT (Combined Cycle Gas Turbine) w Elektrowni Kozienice, o łącznej mocy zainstalowanej brutto około 1336 MWe - podała spółka. Planowany termin przekazania bloków do eksploatacji to 31 marca 2029 r. oraz 30 czerwca 2029 r.",
@@ -282,20 +296,6 @@
       "title": "BLOOMBERG Wojna o Warner Bros. Discovery. Paramount wraca do gry? Członkowie zarządu Warner Bros. Discovery rozważają wznowienie rozmów z koncernem Paramount Skydance na temat przejęcia firmy - podał w niedzielę Bloomberg. Ma to być efekt ulepszonej oferty Paramount Skydance.",
       "content_html": "",
       "date_published": "2026-02-15T21:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-potega-w-branzy-gier-Warszawa-na-szczycie-europejskiego-rankingu-9082184.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-potega-w-branzy-gier-Warszawa-na-szczycie-europejskiego-rankingu-9082184.html",
-      "title": "Polska potęgą w branży gier. Warszawa na szczycie europejskiego rankingu Warszawski sektor gamingowy zatrudnia 6.343 osoby, co czyni go liderem wśród pięciu największych europejskich hubów branży gier - wynika z raportu \"Warszawa - wiodący europejski hub produkcji gier\" przygotowanego przez Fundację Vitruvio oraz Fundację Indie Games Polska na zamówienie stołecznego magistratu.",
-      "content_html": "",
-      "date_published": "2026-02-15T14:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kawa-wreszcie-zacznie-taniec-Wazny-sygnal-z-Brazylii-uderza-w-ceny-surowca-9081514.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kawa-wreszcie-zacznie-taniec-Wazny-sygnal-z-Brazylii-uderza-w-ceny-surowca-9081514.html",
-      "title": "Kawa wreszcie zacznie tanieć? Ważny sygnał z Brazylii uderza w ceny surowca Ceny kawy na początku roku stabilizują się - podaje International Coffee Organization, organizacja producentów kawy.",
-      "content_html": "",
-      "date_published": "2026-02-15T14:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
