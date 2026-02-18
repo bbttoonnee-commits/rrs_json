@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Elektrownia-jadrowa-w-Polsce-Sad-oddalil-skargi-ktore-mogly-wstrzymac-budowe-9085839.html",
+      "url": "https://www.bankier.pl/wiadomosc/Elektrownia-jadrowa-w-Polsce-Sad-oddalil-skargi-ktore-mogly-wstrzymac-budowe-9085839.html",
+      "title": "Elektrownia jądrowa w Polsce. Sąd oddalił skargi, które mogły wstrzymać budowę Brak jest podstaw do wstrzymania prac przy pierwszej polskiej elektrowni jądrowej; wniosek i zażalenie strony skarżącej zostały oddalone - poinformowała o decyzji NSA spółka Polskie Elektrownie Jądrowe (PEJ). Dodała, że orzeczenie sądu umożliwia kontynuowanie działań zgodnie z przyjętym harmonogramem.",
+      "content_html": "",
+      "date_published": "2026-02-18T18:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-zakupili-lacznie-763-300-akcji-spolki-w-cenie-4-5-zl-za-papier-9085837.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Mex-Polska-zakupili-lacznie-763-300-akcji-spolki-w-cenie-4-5-zl-za-papier-9085837.html",
+      "title": "Akcjonariusze Mex Polska zakupili łącznie 763.300 akcji spółki w cenie 4,5 zł za papier Akcjonariusze Mex Polska – Andrzej Domżał i Paweł Kowalewski - zakupili łącznie 763.300 akcji spółki, po 4,5 zł za akcję, od dotychczasowego akcjonariusza Familiar SA SICAV-SIF - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-18T17:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Allianz-OFE-OFE-PZU-Zlota-Jesien-oraz-UNIQA-OFE-cofnely-pozew-dot-uchwaly-ZWZ-Grenevii-9085832.html",
+      "url": "https://www.bankier.pl/wiadomosc/Allianz-OFE-OFE-PZU-Zlota-Jesien-oraz-UNIQA-OFE-cofnely-pozew-dot-uchwaly-ZWZ-Grenevii-9085832.html",
+      "title": "Allianz OFE, OFE PZU \"Złota Jesień\" oraz UNIQA OFE cofnęły pozew dot. uchwały ZWZ Grenevii Allianz Polska Otwarty Fundusz Emerytalny, OFE PZU \"Złota Jesień\" oraz UNIQA OFE złożyły oświadczenia o cofnięciu w całości pozwu o stwierdzenie nieważności lub uchylenie uchwały nr 17 ZWZ z 19 czerwca 2025 r. - podała Grenevia w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-18T17:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-grze-dawne-CCC-Orange-i-KGHM-Straszy-ponura-wizja-odbicia-na-dolarze-9085831.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-grze-dawne-CCC-Orange-i-KGHM-Straszy-ponura-wizja-odbicia-na-dolarze-9085831.html",
+      "title": "SESJA NA GPW W grze dawne CCC, Orange i KGHM. \"Nie jest wielkim problemem znaleźć atrakcyjniejsze alternatywy\" Środowe notowania na GPW przyniosły wyraźne odbicie głównych indeksów, które z nawiązką odrobiły wtorkową słabość. W WIG20 najjaśniej świeciły kursy KGHM, Orange i dawnego CCC, które zmieniło nazwę. Mimo panującego na parkiecie entuzjazmu, w komentarzach pobrzmiewa nuta sceptycyzmu. Czy obecne wyceny to ostatni przystanek przed głębszym przesileniem?",
+      "content_html": "",
+      "date_published": "2026-02-18T17:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Po-sesji-20-II-Digital-Network-zastapi-Grenevie-w-sWIG80-GPW-Benchmark-9085823.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-sesji-20-II-Digital-Network-zastapi-Grenevie-w-sWIG80-GPW-Benchmark-9085823.html",
+      "title": "Po sesji 20 II Digital Network zastąpi Grenevię w sWIG80 Po sesji 20 lutego z listy uczestników indeksów sWIG80, sWIG80TR, WIG, WIG140, WIGind i WIG-Poland zostaną wykreślone akcje spółki Grenevia. Do sWIG80 w miejsce Grenevii wpisana zostanie spółka Digital Network - poinformowała w komunikacie GPW Benchmark.",
+      "content_html": "",
+      "date_published": "2026-02-18T17:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-zlozony-przez-Creotech-Quantum-9085802.html",
       "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-zlozony-przez-Creotech-Quantum-9085802.html",
       "title": "KNF zatwierdziła prospekt złożony przez Creotech Quantum Komisja Nadzoru Finansowego zatwierdziła prospekt złożony przez Creotech Quantum, spółkę zajmującą się rozwojem i komercjalizacją technologii kwantowych - podała Komisja w komunikacie.",
@@ -401,27 +436,6 @@
       "title": "\"Perła w koronie polskiej gospodarki\". Orlen wart ponad 100 mld zł na giełdzie Polska energetyka jest bardziej odporna niż kiedykolwiek, pomimo niestabilności cen na świecie, ceny energii w Polsce konsekwentnie spadają – ocenił prezes Orlenu Ireneusz Fąfara, podsumowując w poniedziałek rok nowej strategii koncernu.",
       "content_html": "",
       "date_published": "2026-02-16T18:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-delegowany-do-pelnienia-obowiazkow-prezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9084591.html",
-      "url": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-delegowany-do-pelnienia-obowiazkow-prezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9084591.html",
-      "title": "Artur Błażejak delegowany do pełnienia obowiązków prezesa Grupy Azoty Zakłady Chemiczne \"Police\" Rada Nadzorcza Grupy Azoty Zakłady Chemiczne \"Police\" podjęła uchwałę w sprawie delegowania wiceprezesa spółki Artura Błażejaka do wykonywania obowiązków prezesa - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-16T18:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Scanway-mial-24-3-mln-zl-przychodow-ogolem-w-25-wzrost-o-94-proc-rdr-9084570.html",
-      "url": "https://www.bankier.pl/wiadomosc/Scanway-mial-24-3-mln-zl-przychodow-ogolem-w-25-wzrost-o-94-proc-rdr-9084570.html",
-      "title": "Scanway miał 24,3 mln zł przychodów ogółem w '25; wzrost o 94 proc. rdr Scanway miał w 2025 roku 24,3 mln zł przychodów ogółem, co oznacza wzrost o 94 proc. rdr - podała spółka w komunikacie prasowym. Backlog Scanway na dzień 16 lutego 2026 roku wyniósł 54 mln zł rosnąc o 215 proc. rdr.",
-      "content_html": "",
-      "date_published": "2026-02-16T17:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jak-owce-bez-przewodnika-Dzien-prezydenta-odbil-sie-na-gieldowych-notowaniach-9084559.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-owce-bez-przewodnika-Dzien-prezydenta-odbil-sie-na-gieldowych-notowaniach-9084559.html",
-      "title": "Jak owce bez przewodnika. Dzień prezydenta odbił się na giełdowych notowaniach Poniedziałkowa sesja na GPW upłynęła pod znakiem ograniczonej aktywności przy zamkniętych rynkach w USA i Chinach. Kosmetyczne zmiany głównych indeksów przy obniżonych obrotach pokazują, że bez obecności Amerykanów trudno obrać samodzielnie kierunek.",
-      "content_html": "",
-      "date_published": "2026-02-16T17:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
