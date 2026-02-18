@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-zlozony-przez-Creotech-Quantum-9085802.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-zlozony-przez-Creotech-Quantum-9085802.html",
+      "title": "KNF zatwierdziła prospekt złożony przez Creotech Quantum Komisja Nadzoru Finansowego zatwierdziła prospekt złożony przez Creotech Quantum, spółkę zajmującą się rozwojem i komercjalizacją technologii kwantowych - podała Komisja w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-18T16:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Euvic-chce-przejac-centrum-produkcyjne-w-Rumunii-9085794.html",
+      "url": "https://www.bankier.pl/wiadomosc/Euvic-chce-przejac-centrum-produkcyjne-w-Rumunii-9085794.html",
+      "title": "Euvic chce przejąć centrum produkcyjne w Rumunii Euvic chce przejąć centrum produkcyjne w Rumunii - poinformowała spółka w komunikacie. Spółka podpisała list intencyjny w sprawie nabycia kontroli nad Yalos Software Labs.",
+      "content_html": "",
+      "date_published": "2026-02-18T16:40:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Jujubee-rozpoczyna-przeglad-opcji-strategicznych-9085774.html",
       "url": "https://www.bankier.pl/wiadomosc/Jujubee-rozpoczyna-przeglad-opcji-strategicznych-9085774.html",
       "title": "Jujubee rozpoczyna przegląd opcji strategicznych Jujubee rozpoczyna przegląd opcji strategicznych i będzie brało pod uwagę połączenie z innym podmiotem, partnerstwo strategiczne, pozyskanie inwestora strategicznego lub finansowego albo przeprowadzenie innej transakcji mogącej skutkować zmianą struktury akcjonariatu - podała spółka w komunikacie.",
@@ -408,13 +422,6 @@
       "title": "Jak owce bez przewodnika. Dzień prezydenta odbił się na giełdowych notowaniach Poniedziałkowa sesja na GPW upłynęła pod znakiem ograniczonej aktywności przy zamkniętych rynkach w USA i Chinach. Kosmetyczne zmiany głównych indeksów przy obniżonych obrotach pokazują, że bez obecności Amerykanów trudno obrać samodzielnie kierunek.",
       "content_html": "",
       "date_published": "2026-02-16T17:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-37-zl-na-akcje-9084543.html",
-      "url": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-37-zl-na-akcje-9084543.html",
-      "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,37 zł na akcję iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,37 zł na akcję - poinformowała spółka w komunikacie. Wypłata dotyczy czwartego kwartału 2025 roku.",
-      "content_html": "",
-      "date_published": "2026-02-16T17:24:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
