@@ -4,9 +4,23 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orange-Polska-mialo-wstepnie-w-IV-kw-861-mln-zl-EBITDA-z-kosztami-leasingu-powyzej-konsensusu-9085414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orange-Polska-mialo-wstepnie-w-IV-kw-861-mln-zl-EBITDA-z-kosztami-leasingu-powyzej-konsensusu-9085414.html",
+      "title": "Mieszane sygnały z Orange Polska. EBITDA wyższa od prognoz, ale zysk netto rozczarowuje Orange Polska szacuje, że miało w czwartym kwartale 2025 roku 861 mln zł EBITDA z kosztami leasingu (EBITDAaL) oraz 69 mln zł zysku netto - poinformowało Orange w komunikacie ze wstępnymi wynikami. Analitycy spodziewali się wyniku EBITDAaL na poziomie 848,2 mln zł oraz zysku netto w wysokości 84,3 mln zł.",
+      "content_html": "",
+      "date_published": "2026-02-18T08:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-na-zielone-cieplo-i-prad-17-wytworcow-z-premia-kogeneracyjna-od-URE-9085390.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-na-zielone-cieplo-i-prad-17-wytworcow-z-premia-kogeneracyjna-od-URE-9085390.html",
+      "title": "Miliardy na „zielone” ciepło i prąd. 17 wytwórców z premią kogeneracyjną od URE Ponad 1,3 mld zł trafi do 17 producentów energii w ramach pierwszej tegorocznej aukcji na wsparcie wysokosprawnej kogeneracji (CHP). Jak podał Urząd Regulacji Energetyki, luty przyniósł rozstrzygnięcie, w którym zakontraktowano sprzedaż blisko 5,5 TWh energii. Premia kogeneracyjna dla zwycięzców wyniesie od 219 do blisko 275 zł za każdą megawatogodzinę. To dopiero początek – w 2026 roku URE zaplanowało jeszcze cztery podobne nabory.",
+      "content_html": "",
+      "date_published": "2026-02-18T07:59:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orange-Polska-zaklada-w-26-niski-jednocyfrowy-wzrost-przychodow-3-5-proc-wzrost-EBITDAaL-Capex-ok-1-8-mld-zl-9085401.html",
       "url": "https://www.bankier.pl/wiadomosc/Orange-Polska-zaklada-w-26-niski-jednocyfrowy-wzrost-przychodow-3-5-proc-wzrost-EBITDAaL-Capex-ok-1-8-mld-zl-9085401.html",
-      "title": "Orange Polska zakłada w '26 niski jednocyfrowy wzrost przychodów, 3-5 proc. wzrost EBITDAaL; Capex ok. 1,8 mld zł Orange Polska prognozuje w 2026 roku niski jednocyfrowy wzrost przychodów oraz 3-5 proc. wzrost EBITDAal w ujęciu rok do roku - podała spółka w raporcie z wstępnymi wynikami za 2025 rok. Spółka prognozuje, że Capex wyniesie ok. 1,8 mld zł, a organiczne przepływy pieniężne co najmniej 1,1 mld zł. (PAP Biznes)",
+      "title": "Orange Polska z optymistyczną prognozą na 2026 rok. Spółka zakłada wzrost przychodów i EBITDAal Orange Polska prognozuje w 2026 roku niski jednocyfrowy wzrost przychodów oraz 3-5 proc. wzrost EBITDAal w ujęciu rok do roku - podała spółka w raporcie z wstępnymi wynikami za 2025 rok. Spółka prognozuje, że Capex wyniesie ok. 1,8 mld zł, a organiczne przepływy pieniężne co najmniej 1,1 mld zł.",
       "content_html": "",
       "date_published": "2026-02-18T07:54:00+01:00"
     },
@@ -135,6 +149,13 @@
       "title": "Afera spółki Cinkciarz.pl. Są kolejne zatrzymania w śledztwie Na polecenie Prokuratury Regionalnej w Poznaniu zatrzymano kolejne 4 osoby w śledztwie dotyczącym spółki Cinkciarz.pl. Zatrzymanym przedstawiono zarzuty m.in. udziału w zorganizowanej grupie przestępczej zajmującej się popełnianiem przestępstw przeciwko mieniu, dokumentom i obrotowi gospodarczemu.",
       "content_html": "",
       "date_published": "2026-02-17T12:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Synektik-spodziewa-sie-debiutu-Syn2bio-na-GPW-okolo-kwietnia-9084988.html",
+      "url": "https://www.bankier.pl/wiadomosc/Synektik-spodziewa-sie-debiutu-Syn2bio-na-GPW-okolo-kwietnia-9084988.html",
+      "title": "Synektik spodziewa się debiutu Syn2bio na GPW około kwietnia Synektik spodziewa się debiutu na GPW wydzielanej spółki Syn2bio około kwietnia - poinformował wiceprezes Dariusz Korecki. Jak ocenił, podział działalności może w przyszłości zwiększyć potencjał dywidendowy Synektika, jak i możliwości związane np. z akwizycjami.",
+      "content_html": "",
+      "date_published": "2026-02-17T12:48:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Medinice-zaklada-ze-do-konca-I-polr-sfinalizuje-przynajmniej-jedna-transakcje-komercjalizacji-wywiad-9084977.html",
@@ -359,13 +380,6 @@
       "title": "Grupa Unibep szacuje, że w '25 miała 43,4 mln zł zysku netto; backlog wynosi 4 mld zł Grupa Unibep szacuje, że miała w 2025 roku 43,4 mln zł zysku netto, co stanowi wzrost o 77,2 proc. rdr, a zysk brutto ze sprzedaży na 229,4 mln zł, czyli o 29,2 proc. więcej rdr - podała spółka w komunikacie. Aktualny portfel zamówień spółki wynosi 4 mld zł.",
       "content_html": "",
       "date_published": "2026-02-16T08:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-stabilne-Wieksze-zmiany-wyznaczy-geopolityka-9084164.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-stabilne-Wieksze-zmiany-wyznaczy-geopolityka-9084164.html",
-      "title": "Ceny ropy stabilne. Większe zmiany wyznaczy geopolityka Ceny ropy naftowej są na stabilnych poziomach, a ich większe zmiany będą zależeć od wydarzeń geopolitycznych - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-02-16T08:07:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
