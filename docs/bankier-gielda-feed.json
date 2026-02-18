@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sygnity-rozpoczyna-skup-do-137-350-akcji-wlasnych-9085691.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sygnity-rozpoczyna-skup-do-137-350-akcji-wlasnych-9085691.html",
+      "title": "Sygnity rozpoczyna skup do 137.350 akcji własnych Sygnity rozpoczyna skup akcji własnych, planuje skupić do 137.350 akcji, co stanowi 0,60 proc. kapitału zakładowego - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-18T14:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Intersport-Polska-zdecydowal-o-emisji-akcji-serii-N-skierowanej-do-wybranych-inwestorow-9085681.html",
+      "url": "https://www.bankier.pl/wiadomosc/Intersport-Polska-zdecydowal-o-emisji-akcji-serii-N-skierowanej-do-wybranych-inwestorow-9085681.html",
+      "title": "Intersport Polska zdecydował o emisji akcji serii N skierowanej do wybranych inwestorów Intersport Polska zdecydował o podwyższeniu kapitału zakładowego w drodze emisji do 70 mln akcji serii N z ceną emisyjną 0,4942 zł za akcję - podała spółka w komunikacie. Emisja jest skierowana do wybranych przez zarząd inwestorów.",
+      "content_html": "",
+      "date_published": "2026-02-18T14:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bogdanka-dokona-odpisu-aktualizujacego-w-wysokosci-522-5-mln-zl-9085641.html",
       "url": "https://www.bankier.pl/wiadomosc/Bogdanka-dokona-odpisu-aktualizujacego-w-wysokosci-522-5-mln-zl-9085641.html",
       "title": "Bogdanka dokona odpisu aktualizującego w wysokości 522,5 mln zł Bogdanka dokona odpisu aktualizującego bilansową wartość aktywów trwałych w wysokości 522,5 mln zł - podała spółka w komunikacie. Wartość odpisu z tytułu utraty wartości aktywów obciąży wynik operacyjny, natomiast nie będzie miała wpływu na wynik EBITDA.",
@@ -373,27 +387,6 @@
       "title": "Helio szacuje zysk netto w II kw. 2025/26 na 15 mln zł wobec 9 889 tys. zł rok wcześniej Helio spodziewa się, że w drugim kwartale roku obrotowego 2025/2026 (październik - grudzień 2025) zysk netto wyniósł ok. 15 mln zł wobec 9.889 tys. zł w analogicznym okresie poprzedniego roku - podał dystrybutor bakalii w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-16T16:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MBF-Group-ma-umowe-ramowa-strategicznego-porozumienia-z-GasFusion-9084413.html",
-      "url": "https://www.bankier.pl/wiadomosc/MBF-Group-ma-umowe-ramowa-strategicznego-porozumienia-z-GasFusion-9084413.html",
-      "title": "MBF Group ma umowę ramową strategicznego porozumienia z GasFusion MBF Group zawarł umowę ramową strategicznego porozumienia w zakresie organizacji i realizacji międzynarodowego obrotu paliwami i produktami ropopochodnymi z Gas Fusion Trading Refined Oil Products Abroad (GasFusion) - podała spółka MBF Group w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-16T14:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NanoGroup-zakonczylo-emisje-akcji-serii-N-z-ktorej-pozyska-24-5-mln-zl-9084393.html",
-      "url": "https://www.bankier.pl/wiadomosc/NanoGroup-zakonczylo-emisje-akcji-serii-N-z-ktorej-pozyska-24-5-mln-zl-9084393.html",
-      "title": "NanoGroup zakończyło emisję akcji serii N, z której pozyska 24,5 mln zł NanoGroup zawarło ostatnią umowę objęcia akcji serii N. Łączna wartość pozyskanego kapitału wyniosła 24,5 mln zł, co w pełni wykorzystuje maksymalną liczbę akcji określoną w uchwale NWZ z października 2025 r. - podało NanoGroup w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-16T14:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sasin-alarmuje-o-prywatyzacji-10-spolek-MAP-odpowiada-Nie-stracimy-kontroli-naprawiamy-bledy-poprzednikow-9084367.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sasin-alarmuje-o-prywatyzacji-10-spolek-MAP-odpowiada-Nie-stracimy-kontroli-naprawiamy-bledy-poprzednikow-9084367.html",
-      "title": "Sasin alarmuje o „prywatyzacji 10 spółek”. MAP odpowiada: Nie stracimy kontroli, naprawiamy błędy poprzedników Polska nie straci kontroli nad żadną spółką z udziałem Skarbu Państwa - zapewnił w poniedziałek resort aktywów państwowych. Odniósł się w ten sposób do wpisu Jacka Sasina (PiS), według którego rząd szykuje prywatyzację 10 i więcej spółek Skarbu Państwa poprzez giełdę.",
-      "content_html": "",
-      "date_published": "2026-02-16T14:03:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
