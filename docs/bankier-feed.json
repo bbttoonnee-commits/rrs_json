@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Fed-podzielony-ale-na-Wall-Street-wzrosty-9085945.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fed-podzielony-ale-na-Wall-Street-wzrosty-9085945.html",
+      "title": "Fed podzielony, ale na Wall Street wzrosty",
+      "content_html": "Protokoły ze styczniowego posiedzenia Federalnego Komitetu Otwartego Rynku pokazały, że kierownictwo banku centralnego USA jest podzielone w kwestii dalszego luzowania polityki monetarnej.",
+      "date_published": "2026-02-18T22:24:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nie-oddawajcie-Diego-Garcii-Trump-ostrzega-Londyn-przed-bledem-stulecia-9085925.html",
       "url": "https://www.bankier.pl/wiadomosc/Nie-oddawajcie-Diego-Garcii-Trump-ostrzega-Londyn-przed-bledem-stulecia-9085925.html",
       "title": "\"Nie oddawajcie Diego Garcii!\". Trump ostrzega Londyn przed błędem stulecia",
@@ -174,7 +181,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Stan-wyjatkowy-w-Slowacji-Kraj-zostal-bez-rosyjskiej-ropy-9085666.html",
       "url": "https://www.bankier.pl/wiadomosc/Stan-wyjatkowy-w-Slowacji-Kraj-zostal-bez-rosyjskiej-ropy-9085666.html",
-      "title": "Stan wyjątkowy w Słowacji - kraj został bez rosyjskiej ropy. Tak odpowiada Ukrainie",
+      "title": "Stan wyjątkowy na Słowacji - kraj został bez rosyjskiej ropy. Tak odpowiada Ukrainie",
       "content_html": "Rząd Słowacji ogłosił w środę stan wyjątkowy związany z dostawami ropy naftowej. Władze zgodziły się też pożyczyć rafinerii Slovnaft w Bratysławie do 250 tys. ton ropy z zapasów strategicznych. O brak dostaw przez rurociąg „Przyjaźń”...",
       "date_published": "2026-02-18T17:15:00+01:00"
     },
@@ -695,13 +702,6 @@
       "title": "Vance: Europejczycy robią wiele rzeczy, by sabotować samych siebie",
       "content_html": "To nie jest tak, że nie szanujemy naszych sojuszników, lecz Europejczycy robią wiele rzeczy, by sabotować samych siebie - powiedział we wtorek w telewizji Fox News wiceprezydent USA J.D. Vance. Pochwalił sobotnie przemówienie sekretarza stanu USA...",
       "date_published": "2026-02-18T07:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Peru-znow-bez-prezydenta-Jose-Jeri-odwolany-na-krotko-przed-wyborami-9085319.html",
-      "url": "https://www.bankier.pl/wiadomosc/Peru-znow-bez-prezydenta-Jose-Jeri-odwolany-na-krotko-przed-wyborami-9085319.html",
-      "title": "Peru znów bez prezydenta. Jose Jeri odwołany na krótko przed wyborami",
-      "content_html": "Parlament Peru przegłosował we wtorek wotum nieufności wobec tymczasowego prezydenta Jose Jeriego, który jest objęty dwoma śledztwami w sprawie korupcji. Jeri został pozbawiony stanowiska głowy państwa na kilka tygodni przed wyborami prezydenckimi...",
-      "date_published": "2026-02-18T07:28:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
