@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dezinflacja-moze-byc-wolniejsza-niz-sie-oczekuje-przestrzega-wiekszosc-czlonkow-Fedu-9085908.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dezinflacja-moze-byc-wolniejsza-niz-sie-oczekuje-przestrzega-wiekszosc-czlonkow-Fedu-9085908.html",
+      "title": "MINUTKI FEDU Dezinflacja może być wolniejsza, niż się oczekuje - przestrzega większość członków Fedu Niektórzy członkowie Fedu przewidują dalsze cięcia stóp proc. w USA, jeśli inflacja spadnie zgodnie z oczekiwaniami, ale większość przestrzegała, że dezinflacja może być wolniejsza niż się oczekuje – wynika z protokołu z ostatniego posiedzenia Fedu.",
+      "content_html": "",
+      "date_published": "2026-02-18T20:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Elektrownia-jadrowa-w-Polsce-Sad-oddalil-skargi-ktore-mogly-wstrzymac-budowe-9085839.html",
       "url": "https://www.bankier.pl/wiadomosc/Elektrownia-jadrowa-w-Polsce-Sad-oddalil-skargi-ktore-mogly-wstrzymac-budowe-9085839.html",
       "title": "Elektrownia jądrowa w Polsce. Sąd oddalił skargi, które mogły wstrzymać budowę Brak jest podstaw do wstrzymania prac przy pierwszej polskiej elektrowni jądrowej; wniosek i zażalenie strony skarżącej zostały oddalone - poinformowała o decyzji NSA spółka Polskie Elektrownie Jądrowe (PEJ). Dodała, że orzeczenie sądu umożliwia kontynuowanie działań zgodnie z przyjętym harmonogramem.",
@@ -415,13 +422,6 @@
       "title": "Blik rozważa debiut na warszawskiej giełdzie. Szykuje się największe IPO od lat? Dostawca systemu płatności mobilnych Blik - spółka Polski Standard Płatności - odbyła wstępne rozmowy na temat potencjalnego przeprowadzenia pierwszej oferty publicznej (IPO) na Giełdzie Papierów Wartościowych w Warszawie - podała agencja Bloomberga. Ostateczna decyzja w tej sprawie nie została jeszcze podjęta.",
       "content_html": "",
       "date_published": "2026-02-17T08:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sprzeciw-Aberdeen-wobec-przejecia-InPostu-przez-FedEx-i-Advent-9084676.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprzeciw-Aberdeen-wobec-przejecia-InPostu-przez-FedEx-i-Advent-9084676.html",
-      "title": "Sprzeciw Aberdeen wobec przejęcia InPostu przez FedEx i Advent Brytyjski fundusz Aberdeen zapowiedział, że zablokuje wartą 7,8 mld euro ofertę przejęcia InPostu przez konsorcjum FedEx i Advent International. Zdaniem zarządzających funduszem, proponowana kwota nie odzwierciedla realnej wartości operatora paczkomatów, a sam moment ogłoszenia oferty uznano za próbę wykorzystania przejściowych spadków na giełdzie.",
-      "content_html": "",
-      "date_published": "2026-02-16T20:24:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
