@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ale-urwal-Zimny-prysznic-dla-polskiej-gospodarki-Przemysl-wraca-pod-kreske-9086081.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ale-urwal-Zimny-prysznic-dla-polskiej-gospodarki-Przemysl-wraca-pod-kreske-9086081.html",
+      "title": "„Ale urwał…”. Zimny prysznic dla polskiej gospodarki. Przemysł wraca pod kreskę Bardzo słabe dane z polskiego sektora wytwórczego mocno zaskoczyły ekonomistów. Po świetnym odczycie za grudzień początek nowego roku sugeruje regres produkcji przemysłowej i potwierdzenie braku stabilizacji tej gałęzi gospodarki. Eksperci w dosadnych słowach komentują najnowszy odczyt GUS.",
+      "content_html": "",
+      "date_published": "2026-02-19T10:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zaklada-ze-w-kolejnych-kwartalach-jego-zadluzenie-bedzie-rosnac-9086130.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zaklada-ze-w-kolejnych-kwartalach-jego-zadluzenie-bedzie-rosnac-9086130.html",
+      "title": "Orlen zakłada, że w kolejnych kwartałach jego zadłużenie będzie rosnąć Grupa Orlen, która na koniec grudnia 2025 roku miała gotówkę netto w wysokości 1,4 mld zł, zakłada, że z powodu dużych planowanych nakładów inwestycyjnych będzie zwiększać poziom zadłużenia w kolejnych kwartałach - poinformował wiceprezes Orlenu Sławomir Jędrzejczyk.",
+      "content_html": "",
+      "date_published": "2026-02-19T10:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaskakujace-dane-z-rynku-pracy-w-styczniu-2026-Zatrudnienie-sensacyjnie-spadlo-a-place-wyhamowaly-9086102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaskakujace-dane-z-rynku-pracy-w-styczniu-2026-Zatrudnienie-sensacyjnie-spadlo-a-place-wyhamowaly-9086102.html",
+      "title": "Słabiutkie dane z rynku pracy. Płace rosły najwolniej od 5 lat. Zatrudnienie sensacyjnie spadło Po grudniowej pozytywnej niespodziance styczniowe statystyki z polskiego rynku pracy przyniosły srogie rozczarowanie. Największą sensacją był brak zwyczajowego styczniowego wzrostu zatrudnienia w sektorze przedsiębiorstw.",
+      "content_html": "",
+      "date_published": "2026-02-19T10:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-zaklada-debiut-na-GPW-17-IV-w-ramach-podzialu-wyemituje-ok-2-85-mln-akcji-9086090.html",
       "url": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-zaklada-debiut-na-GPW-17-IV-w-ramach-podzialu-wyemituje-ok-2-85-mln-akcji-9086090.html",
       "title": "Creotech Quantum zakłada debiut na GPW 17 IV; w ramach podziału wyemituje ok. 2,85 mln akcji Creotech Quantum opublikował prospekt w związku z planowanym podziałem Creotech Instruments, polegającym na przeniesieniu zorganizowanej części przedsiębiorstwa na spółkę w zamian za akcje, i wprowadzeniem akcji na GPW. W ramach podziału Creotech Quantum wyemituje 2.854.347 nowych akcji. Debiut na GPW zakłada na 17 IV.",
@@ -499,13 +520,6 @@
       "title": "Mroczek: Spółki obrotu będą mogły wystąpić o zniesienie rygoru dla decyzji URE ws. niedopłat do FWRC Po zakończeniu kontroli w spółkach obrotu energią elektryczną, URE ma 30 dni na wydanie decyzji ws. wysokości niedopłat do FWRC - poinformowała w TOK FM prezes URE Renata Mroczek. Dodała, że decyzje te będę objęte tzw. rygorem, czyli obowiązkiem zapłaty niezależnie od tego czy spółki będą się odwoływać od tych decyzji czy nie, ale mogą one wystąpić do sądu o zniesienie tego rygoru.",
       "content_html": "",
       "date_published": "2026-02-17T10:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Develia-i-Mosaic-planuja-wspolna-inwestycje-we-Wroclawiu-UOKiK-9084860.html",
-      "url": "https://www.bankier.pl/wiadomosc/Develia-i-Mosaic-planuja-wspolna-inwestycje-we-Wroclawiu-UOKiK-9084860.html",
-      "title": "Develia i Mosaic planują wspólną inwestycję we Wrocławiu Develia oraz Mosaic Poland Holding chcą utworzyć wspólnego przedsiębiorcę, który będzie realizował we Wrocławiu inwestycję obejmującą budowę budynku zamieszkania zbiorowego z funkcją usługową (usługi zakwaterowania dla studentów) - poinformował UOKiK na swojej stronie internetowej.",
-      "content_html": "",
-      "date_published": "2026-02-17T09:40:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
