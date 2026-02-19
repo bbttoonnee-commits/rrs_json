@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
+      "title": "Kiepskie dane, marna sesja. I tylko giełdowi giganci trzymali WIG20 Rozczarowującym danym z polskiej gospodarki w czwartek towarzyszyła także mizeria na giełdowym parkiecie. Rosły za to kursy akcji największych spółek notowanych na GPW.",
+      "content_html": "",
+      "date_published": "2026-02-19T17:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
       "title": "Akcjonariusze Asseco za zmniejszeniem ilości akcji własnych spółki do umorzenia do ok. 1,3 proc. Akcjonariusze Asseco Poland, Adam Góral Fundacja Rodzinna (AGFR) oraz TSS Europe B.V., proponują zmniejszenie liczby akcji własnych podlegających umorzeniu z 3 proc. do około 1,3 proc. - podała spółka w komunikacie. Zarząd Asseco Poland w pełni popiera przedstawione propozycje.",
@@ -464,34 +471,6 @@
       "title": "PlayWay sprzeda w ABB 1.233.500 akcji Play2Chill, po 1,7 zł za papier PlayWay, akcjonariusz Play2Chill, zakończył proces budowy księgi popytu na sprzedaż akcji spółki. Ostateczna liczba akcji sprzedawanych została ustalona na poziomie 1.233.500, co stanowi ok. 39,07 proc. udziału w kapitale zakładowym i głosach na WZ - poinformował Play2Chill w komunikacie. Cena sprzedaży wyniosła 1,7 zł za akcję.",
       "content_html": "",
       "date_published": "2026-02-17T19:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allianz-OFE-sprzedal-swoj-pakiet-9-66-proc-akcji-w-Grenevii-9085231.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allianz-OFE-sprzedal-swoj-pakiet-9-66-proc-akcji-w-Grenevii-9085231.html",
-      "title": "Allianz OFE sprzedał swój pakiet 9,66 proc. akcji w Grenevii Allianz Polska Otwarty Fundusz Emerytalny zbył akcje Grenevii stanowiące 9,66 proc. jej kapitału zakładowego i nie posiada już akcji spółki - podała Grenevia we wtorkowym komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-17T18:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mocniejszy-dolar-i-powrot-do-spadkow-na-GPW-KGHM-i-Orlen-po-presja-surowcow-9085214.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mocniejszy-dolar-i-powrot-do-spadkow-na-GPW-KGHM-i-Orlen-po-presja-surowcow-9085214.html",
-      "title": "SESJA NA GPW Mocniejszy dolar i powrót do spadków na GPW. KGHM i Orlen pod presją surowców Wtorkowe notowania na warszawskiej giełdzie upłynęły pod znakiem wyraźnego pogorszenia nastrojów wraz z umocnieniem się dolara. Indeksy na polskiej giełdzie zaczynają być coraz bardziej zależne od notowań surowców i metali. Przy braku wsparcia ze strony banków o wynikach sesji na WIG20 zadecydowała przecena KGHM i Orlenu.",
-      "content_html": "",
-      "date_published": "2026-02-17T17:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tarczynski-ma-umowe-na-budowe-hali-produkcyjnej-9085201.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tarczynski-ma-umowe-na-budowe-hali-produkcyjnej-9085201.html",
-      "title": "Tarczyński ma umowę na budowę hali produkcyjnej Tarczyński złożył do spółki Projprzem Budownictwo zamówienie na realizację inwestycji dotyczącej budynku hali produkcyjnej C2 - podała spółka Tarczyński w komunikacie. Wartość inwestycji wyniesie łącznie blisko 70,9 mln zł netto.",
-      "content_html": "",
-      "date_published": "2026-02-17T17:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Mirbudu-w-wysokosci-457-77-mln-zl-najkorzystniejsza-w-postepowaniu-GDDKiA-9085196.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Mirbudu-w-wysokosci-457-77-mln-zl-najkorzystniejsza-w-postepowaniu-GDDKiA-9085196.html",
-      "title": "Oferta konsorcjum Mirbudu w wysokości 457,77 mln zł najkorzystniejsza w postępowaniu GDDKiA Oferta konsorcjum, którego liderem jest Mirbud została wybrana jako najkorzystniejsza w postępowaniu Generalnej Dyrekcji Dróg Krajowych i Autostrad Oddział w Warszawie - podał Mirbud w komunikacie. Wartość oferty to 457,77 mln zł brutto.",
-      "content_html": "",
-      "date_published": "2026-02-17T17:14:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
