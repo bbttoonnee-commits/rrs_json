@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-Sanok-Rubber-Company-upowaznilo-zarzad-do-nabywania-akcji-wlasnych-w-celu-ich-umorzenia-9086560.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-Sanok-Rubber-Company-upowaznilo-zarzad-do-nabywania-akcji-wlasnych-w-celu-ich-umorzenia-9086560.html",
+      "title": "NWZ Sanok Rubber Company upoważniło zarząd do nabywania akcji własnych w celu ich umorzenia Walne zgromadzenie Sanok Rubber Company upoważniło zarząd do nabywania akcji własnych w celu ich umorzenia oraz utworzyło kapitał rezerwowy na potrzeby programu nabywania akcji - wynika z uchwał podjętych na NWZ.",
+      "content_html": "",
+      "date_published": "2026-02-19T20:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Netflix-ma-srodki-by-przebic-Paramount-ws-zakupu-Warner-Bros-Discovery-9086554.html",
+      "url": "https://www.bankier.pl/wiadomosc/Netflix-ma-srodki-by-przebic-Paramount-ws-zakupu-Warner-Bros-Discovery-9086554.html",
+      "title": "REUTERS Netflix ma środki, by przebić Paramount ws. zakupu Warner Bros. Discovery Netflix dysponuje dużymi rezerwami gotówki i ma wystarczające środki, by przebić ofertę Paramount Skydance dotyczącą zakupu Warner Bros. Discovery (WBD), jeśli rywalizujący o tę akwizycję koncern zaoferuje wyższą cenę - podał Reuters, powołując się na dwie osoby znające szczegóły negocjacji handlowych.",
+      "content_html": "",
+      "date_published": "2026-02-19T19:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
       "url": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
       "title": "Kiepskie dane, marna sesja. I tylko giełdowi giganci trzymali WIG20 Rozczarowującym danym z polskiej gospodarki w czwartek towarzyszyła także mizeria na giełdowym parkiecie. Rosły za to kursy akcji największych spółek notowanych na GPW.",
@@ -464,13 +478,6 @@
       "title": "Trwa fiesta na rynku polskiego długu. Czy warto brać udział w obligacyjnej hossie? Polski rynek długu bije kolejne rekordy i ustanawia nowe „kamienie milowe”. Jednakże obserwując niesłabnące pożądanie polskich inwestorów na papiery przynoszące stały dochód, trudno zignorować kilka przynajmniej pomarańczowych lampek ostrzegawczych.",
       "content_html": "",
       "date_published": "2026-02-18T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PlayWay-sprzeda-w-ABB-1-233-500-akcji-Play2Chill-po-1-7-zl-za-papier-9085263.html",
-      "url": "https://www.bankier.pl/wiadomosc/PlayWay-sprzeda-w-ABB-1-233-500-akcji-Play2Chill-po-1-7-zl-za-papier-9085263.html",
-      "title": "PlayWay sprzeda w ABB 1.233.500 akcji Play2Chill, po 1,7 zł za papier PlayWay, akcjonariusz Play2Chill, zakończył proces budowy księgi popytu na sprzedaż akcji spółki. Ostateczna liczba akcji sprzedawanych została ustalona na poziomie 1.233.500, co stanowi ok. 39,07 proc. udziału w kapitale zakładowym i głosach na WZ - poinformował Play2Chill w komunikacie. Cena sprzedaży wyniosła 1,7 zł za akcję.",
-      "content_html": "",
-      "date_published": "2026-02-17T19:22:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
