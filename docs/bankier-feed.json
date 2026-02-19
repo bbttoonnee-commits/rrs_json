@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Banku-Pekao-w-IV-kw-25-wyniosl-1824-mln-zl-powyzej-oczekiwan-opis-9085965.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Banku-Pekao-w-IV-kw-25-wyniosl-1824-mln-zl-powyzej-oczekiwan-opis-9085965.html",
+      "title": "Zysk netto Banku Pekao w IV kw. '25 wyniósł 1824 mln zł; powyżej oczekiwań (opis)",
+      "content_html": "Zysk netto grupy Banku Pekao w IV kwartale 2025 r. wzrósł do 1824 mln zł z 1612 mln zł rok wcześniej - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego. Zysk okazał się o 9 proc. wyższy od oczekiwań analityków, którzy prognozowali...",
+      "date_published": "2026-02-19T01:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Pekao-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9085964.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Pekao-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9085964.html",
+      "title": "Wyniki Pekao w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki grupy Banku Pekao w czwartym kwartale 2025 roku według wyliczeń PAP Biznes i ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "date_published": "2026-02-19T01:08:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Fed-podzielony-ale-na-Wall-Street-wzrosty-9085945.html",
       "url": "https://www.bankier.pl/wiadomosc/Fed-podzielony-ale-na-Wall-Street-wzrosty-9085945.html",
       "title": "Fed podzielony, ale na Wall Street wzrosty",
@@ -688,20 +702,6 @@
       "title": "SOR-y pękają w szwach, bo w POZ brakuje lekarzy. System stanął na głowie",
       "content_html": "Najwięcej pacjentów trafia na oddziały ratunkowe w szpitalach wielospecjalistycznych. Niektórzy leczą się na SOR zamiast u lekarza rodzinnego – podaje w środę „Rzeczpospolita”.",
       "date_published": "2026-02-18T07:37:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-Na-gieldach-jednak-nadal-slabe-obroty-9085393.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-Na-gieldach-jednak-nadal-slabe-obroty-9085393.html",
-      "title": "Ceny miedzi w Londynie rosną. Na giełdach jednak nadal słabe obroty",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną i zaczynają odrabiać straty z poprzednich sesji. Na rynkach nadal są słabe obroty ze względu na świąteczną przerwę w Chinach, gdzie rozpoczął się Nowy Rok Księżycowy, i w innych...",
-      "date_published": "2026-02-18T07:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Vance-Europejczycy-robia-wiele-rzeczy-by-sabotowac-samych-siebie-9085326.html",
-      "url": "https://www.bankier.pl/wiadomosc/Vance-Europejczycy-robia-wiele-rzeczy-by-sabotowac-samych-siebie-9085326.html",
-      "title": "Vance: Europejczycy robią wiele rzeczy, by sabotować samych siebie",
-      "content_html": "To nie jest tak, że nie szanujemy naszych sojuszników, lecz Europejczycy robią wiele rzeczy, by sabotować samych siebie - powiedział we wtorek w telewizji Fox News wiceprezydent USA J.D. Vance. Pochwalił sobotnie przemówienie sekretarza stanu USA...",
-      "date_published": "2026-02-18T07:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
