@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/ZUS-zgodzil-sie-na-rozlozenie-naleznosci-od-JSW-na-11-rat-9086928.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZUS-zgodzil-sie-na-rozlozenie-naleznosci-od-JSW-na-11-rat-9086928.html",
+      "title": "ZUS zgodził się na rozłożenie należności od JSW na 11 rat Zakład Ubezpieczeń Społecznych zgodził się na rozłożenie należności od Jastrzębskiej Spółki Węglowej za okres od maja do października 2025 roku na 11 rat - poinformowała JSW w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-20T15:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKB-Stanow-Zjednoczonych-w-IV-kwartale-2025-Dane-srodze-rozczarowaly-ekonomistow-9086890.html",
       "url": "https://www.bankier.pl/wiadomosc/PKB-Stanow-Zjednoczonych-w-IV-kwartale-2025-Dane-srodze-rozczarowaly-ekonomistow-9086890.html",
       "title": "Największa gospodarka świata ostro wyhamowała. Dane srodze rozczarowały ekonomistów Mało który ekonomista spodziewał się takiego scenariusza, ignorując skutki rekordowo długiego shutdownu.",
@@ -464,27 +471,6 @@
       "title": "Cavatina Holding ustanowiła V program emisji obligacji o łącznej wartości do 250 mln zł Cavatina Holding zdecydowała o ustanowieniu w spółce V prospektowego programu emisji obligacji, w ramach którego będzie uprawniona do emitowania obligacji o łącznej wartości nominalnej do 250 mln zł lub równowartości tej kwoty wyrażonej w euro - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-18T16:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kruk-wygral-przetarg-na-zakup-portfeli-wierzytelnosci-na-rynku-wloskim-9085721.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kruk-wygral-przetarg-na-zakup-portfeli-wierzytelnosci-na-rynku-wloskim-9085721.html",
-      "title": "Kruk wygrał przetarg na zakup portfeli wierzytelności na rynku włoskim Spółka zależna Kruka, Kruk Investimenti s.r.l., wygrała przetarg na zakup niezabezpieczonych wierzytelności detalicznych o łącznej wartości nominalnej 298 mln euro od jednej z wiodących grup finansowych we Włoszech - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-18T15:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-dalej-z-Carrefourem-w-Polsce-Grupa-ujawnia-plan-Carrefour-2030-9085697.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-dalej-z-Carrefourem-w-Polsce-Grupa-ujawnia-plan-Carrefour-2030-9085697.html",
-      "title": "Co dalej z Carrefourem w Polsce? Grupa ujawnia plan \"Carrefour 2030\" W ramach planu strategicznego Carrefour 2030 grupa planuje skoncentrować się na trzech rynkach bazowych, natomiast Polskę włącza do grupy \"inne kraje\"; w odniesieniu do niej utrzymuje \"wszystkie opcje strategiczne otwarte\": od wzrostu do częściowej monetyzacji - podał Carrefour w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-18T15:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-instrument-EastInvest-Polska-wschodnia-zyska-specjalne-przywileje-9085675.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-instrument-EastInvest-Polska-wschodnia-zyska-specjalne-przywileje-9085675.html",
-      "title": "UE Nowy instrument EastInvest. Polska wschodnia zyska specjalne przywileje Komisja Europejska w przyjętej w środę strategii dla regionów wschodnich UE, graniczących z Rosją, Białorusią i Ukrainą, zapowiedziała utworzenie platformy inwestycyjnej z udziałem Europejskiego Banku Inwestycyjnego. Komisarz ds. budżetu Piotr Serafin ogłosił, że inwestycje sięgną 28 mld euro.",
-      "content_html": "",
-      "date_published": "2026-02-18T15:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
