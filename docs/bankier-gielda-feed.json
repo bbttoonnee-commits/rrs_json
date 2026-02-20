@@ -4,9 +4,23 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Columbus-Energy-wraca-do-2019-roku-Kurs-spolki-wykrwawia-sie-po-serii-informacji-9086791.html",
+      "url": "https://www.bankier.pl/wiadomosc/Columbus-Energy-wraca-do-2019-roku-Kurs-spolki-wykrwawia-sie-po-serii-informacji-9086791.html",
+      "title": "Columbus Energy wykrwawia się na giełdzie. Efekt wojny totalnej o Saule Mroźny luty dla akcjonariuszy Columbus Energy. Kurs spółki spadł w piątek, 20 lutego, poniżej 4 zł za akcję i był najniżej od 2019 r. Prawie 6 lat temu był jednak w podróży do poziomu 112 zł, teraz kierunek jest zupełnie inny. W tle rozgrywa się brutalna batalia o przyszłość polskiej technologii perowskitowej, w której przewijają są służby specjalne, prokuratura i nadzór finansowy. Nieoczekiwanym bohaterem wydarzeń wokół Columbusa zostali uczestnicy programu „Czyste powietrze”, którzy w programie „Uwaga” opowiedzieli o fałszywych obietnicach i manipulacjach handlowców firmy.",
+      "content_html": "",
+      "date_published": "2026-02-20T12:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-i-scheda-po-Buffecie-Tym-beda-zyly-rynki-w-koncowce-lutego-9086705.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-i-scheda-po-Buffecie-Tym-beda-zyly-rynki-w-koncowce-lutego-9086705.html",
+      "title": "Wyniki Nvidii i scheda po Buffecie. Tym będą żyły rynki w końcówce lutego Luty na rynkach zakończy się mocnym akcentem w postaci wyników Nvidii, które poznamy w najbliższą środę. Sezon raportowy rozkręci się również na GPW, gdzie sprawozdania za IV kw. złożą m.in. największe polskie banki. Symbolicznym zamknięciem epoki będzie list do akcjonariuszy Berkshire Hathaway - pierwszy od ponad 60 lat, którego nie napisze Warren Buffett.",
+      "content_html": "",
+      "date_published": "2026-02-20T12:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Budimeksu-do-900-zl-9086783.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Budimeksu-do-900-zl-9086783.html",
-      "title": "Trigon DM podwyższył cenę docelową akcji Budimeksu do 900 zł Analitycy Trigon DM, w raporcie z 13 lutego, podwyższyli cenę docelową akcji Budimeksu do 900 zł z 700 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
+      "title": "Trigon DM podwyższył cenę docelową akcji Budimeksu Analitycy Trigon DM, w raporcie z 13 lutego, podwyższyli cenę docelową akcji Budimeksu do 900 zł z 700 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
       "content_html": "",
       "date_published": "2026-02-20T11:26:00+01:00"
     },
@@ -16,6 +30,13 @@
       "title": "Kruk szacuje zysk netto w IV kw. 2025 r. na 208 mln zł, poniżej konsensusu Grupa Kruk szacuje skonsolidowany zysk netto w czwartym kwartale 2025 r. na 208 mln zł, a EBITDA gotówkową na 658 mln zł - podała spółka w komunikacie. Konsensus PAP Biznes zakładał zysk netto w IV kw. na 231,8 mln zł.",
       "content_html": "",
       "date_published": "2026-02-20T11:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Goraco-w-JSW-Koks-Pracownicy-traca-premie-a-zarzad-mowi-o-nielegalnej-pikiecie-9086760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Goraco-w-JSW-Koks-Pracownicy-traca-premie-a-zarzad-mowi-o-nielegalnej-pikiecie-9086760.html",
+      "title": "Gorąco w JSW Koks. Pracownicy tracą premie, a zarząd mówi o nielegalnej pikiecie Zakładowa Solidarność w JSW Koks jest w sporze zbiorowym z władzami spółki na tle płacowym. W piątek rano związkowcy demonstrowali ws. redukcji premii miesięcznych przed Koksownią Przyjaźń w Dąbrowie Górniczej. Spółka deklaruje dialog, ale wskazuje, że pikieta była niezgodna z przepisami.",
+      "content_html": "",
+      "date_published": "2026-02-20T10:52:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/MOL-mial-w-2025-r-3-369-mld-USD-oczyszczonej-EBITDA-na-26-prognozuje-ok-3-mld-USD-9086651.html",
@@ -74,16 +95,16 @@
       "date_published": "2026-02-20T07:32:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Unia-Europejska-rusza-z-handlowa-ofensywa-Prof-Klimek-Trump-zadzialal-jak-katalizator-9086476.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unia-Europejska-rusza-z-handlowa-ofensywa-Prof-Klimek-Trump-zadzialal-jak-katalizator-9086476.html",
-      "title": "Unia Europejska rusza z handlową ofensywą. Prof. Klimek: Trump zadziałał jak katalizator Wojna handlowa USA i Chin przybiera na sile, a w starciu gigantów swoje miejsce próbuje odnaleźć Unia Europejska. Po latach stagnacji Bruksela stawia na nową strategię: otwarcie handlowe i budowę sojuszy, które mają być odpowiedzią na protekcjonizm Donalda Trumpa. Czy porozumienie z Indiami – krajem o populacji niemal 1,5 miliarda ludzi – to szansa, której nie możemy zmarnować? O tym w najnowszym odcinku podcastu \"Gospodarczy Punkt Widzenia\" Aleksander Ogrodnik rozmawia z prof. Arturem Klimkiem z Uniwersytetu Ekonomicznego we Wrocławiu.",
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-Donalda-Tuska-wymienia-prezesow-panstwowych-spolek-jak-rekawiczki-Ministrow-Aktywow-Panstwowych-zreszta-tez-9085153.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-Donalda-Tuska-wymienia-prezesow-panstwowych-spolek-jak-rekawiczki-Ministrow-Aktywow-Panstwowych-zreszta-tez-9085153.html",
+      "title": "Tabuny prezesów za rządów Tuska. Gorące krzesła w narodowych czempionach Od wymiany władzy w Polsce nieco ponad dwa lata temu 24 państwowe spółki notowane na GPW miały już 54 prezesów nominowanych z polecenia obecnej koalicji rządzącej, wynika z naszych wyliczeń. W niektórych przypadkach na najważniejszym fotelu w państwowej firmie zasiada już 4. z kolei osoba z poparciem Skarbu Państwa. Trudno by było inaczej skoro przykład idzie z góry. Jeszcze przed półmetkiem kadencji parlamentu, w funkcję ministra aktywów państwowych sprawowały trzy osoby.",
       "content_html": "",
       "date_published": "2026-02-20T06:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-Donalda-Tuska-wymienia-prezesow-panstwowych-spolek-jak-rekawiczki-Ministrow-Aktywow-Panstwowych-zreszta-tez-9085153.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-Donalda-Tuska-wymienia-prezesow-panstwowych-spolek-jak-rekawiczki-Ministrow-Aktywow-Panstwowych-zreszta-tez-9085153.html",
-      "title": "Tabuny prezesów za rządów Tuska. Gorące krzesła w narodowych czempionach Od wymiany władzy w Polsce nieco ponad dwa lata temu 24 państwowe spółki notowane na GPW miały już 54 prezesów nominowanych z polecenia obecnej koalicji rządzącej, wynika z naszych wyliczeń. W niektórych przypadkach na najważniejszym fotelu w państwowej firmie zasiada już 4. z kolei osoba z poparciem Skarbu Państwa. Trudno by było inaczej skoro przykład idzie z góry. Jeszcze przed półmetkiem kadencji parlamentu, w funkcję ministra aktywów państwowych sprawowały trzy osoby.",
+      "id": "https://www.bankier.pl/wiadomosc/Unia-Europejska-rusza-z-handlowa-ofensywa-Prof-Klimek-Trump-zadzialal-jak-katalizator-9086476.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unia-Europejska-rusza-z-handlowa-ofensywa-Prof-Klimek-Trump-zadzialal-jak-katalizator-9086476.html",
+      "title": "Unia Europejska rusza z handlową ofensywą. Prof. Klimek: Trump zadziałał jak katalizator Wojna handlowa USA i Chin przybiera na sile, a w starciu gigantów swoje miejsce próbuje odnaleźć Unia Europejska. Po latach stagnacji Bruksela stawia na nową strategię: otwarcie handlowe i budowę sojuszy, które mają być odpowiedzią na protekcjonizm Donalda Trumpa. Czy porozumienie z Indiami – krajem o populacji niemal 1,5 miliarda ludzi – to szansa, której nie możemy zmarnować? O tym w najnowszym odcinku podcastu \"Gospodarczy Punkt Widzenia\" Aleksander Ogrodnik rozmawia z prof. Arturem Klimkiem z Uniwersytetu Ekonomicznego we Wrocławiu.",
       "content_html": "",
       "date_published": "2026-02-20T06:00:00+01:00"
     },
@@ -114,13 +135,6 @@
       "title": "Kiepskie dane, marna sesja. I tylko giełdowi giganci trzymali WIG20 Rozczarowującym danym z polskiej gospodarki w czwartek towarzyszyła także mizeria na giełdowym parkiecie. Rosły za to kursy akcji największych spółek notowanych na GPW.",
       "content_html": "",
       "date_published": "2026-02-19T17:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
-      "title": "Akcjonariusze Asseco za zmniejszeniem ilości akcji własnych spółki do umorzenia do ok. 1,3 proc. Akcjonariusze Asseco Poland, Adam Góral Fundacja Rodzinna (AGFR) oraz TSS Europe B.V., proponują zmniejszenie liczby akcji własnych podlegających umorzeniu z 3 proc. do około 1,3 proc. - podała spółka w komunikacie. Zarząd Asseco Poland w pełni popiera przedstawione propozycje.",
-      "content_html": "",
-      "date_published": "2026-02-19T16:36:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
@@ -471,27 +485,6 @@
       "title": "Skokowy rozwój cyber_Folks. 100 proc. akcji PrestaShop zmienia właściciela Spółka zależna cyber_Folks, tj. cyber_Pixel zawarła z MBE Worldwide umowę sprzedaży 100 proc. akcji w PrestaShop - podało cyber_Folks w komunikacie. Cena sprzedaży akcji PrestaShop wyniosła 53,96 mln euro.",
       "content_html": "",
       "date_published": "2026-02-18T12:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KE-wyrazila-zgode-na-przejecie-kontroli-nad-Goldman-Sachs-TFI-przez-Grupe-ING-9085580.html",
-      "url": "https://www.bankier.pl/wiadomosc/KE-wyrazila-zgode-na-przejecie-kontroli-nad-Goldman-Sachs-TFI-przez-Grupe-ING-9085580.html",
-      "title": "Zielone światło od Brukseli. Komisja Europejska zgadza się na przejęcie Goldman Sachs TFI przez ING Komisja Europejska wyraziła zgodę na przejęcie wyłącznej kontroli nad Goldman Sachs TFI w Polsce przez ING Group - podała KE w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-18T12:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ultimate-Games-szacuje-ze-w-2025-r-mial-9-5-mln-zl-zysku-netto-9085544.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ultimate-Games-szacuje-ze-w-2025-r-mial-9-5-mln-zl-zysku-netto-9085544.html",
-      "title": "Ultimate Games: prognoza zysku netto na 2025 r. wynosi 9,5 mln zł Ultimate Games szacuje, że jednostkowy zysk netto w 2025 roku wyniósł 9,5 mln zł, a EBIT 11 mln zł - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-18T11:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-Torpol-Mirbud-chce-zabezpieczenia-roszczenia-w-przetargu-na-budowe-odcinka-Rail-Baltica-9085538.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-Torpol-Mirbud-chce-zabezpieczenia-roszczenia-w-przetargu-na-budowe-odcinka-Rail-Baltica-9085538.html",
-      "title": "Gigantyczny kontrakt Rail Baltica przejdzie Mirbudowi koło nosa? Spółka idzie do sądu Konsorcjum Torpol-Mirbud złożyło do Sądu Okręgowego w Warszawie wniosek o zabezpieczenie roszczenia w przetargu dotyczącym planowanej przebudowy linii kolejowej Rail Baltica między Białymstokiem a Ełkiem - poinformowała w środę spółka Mirbud SA.",
-      "content_html": "",
-      "date_published": "2026-02-18T11:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
