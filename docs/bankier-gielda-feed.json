@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
+      "title": "Spółka zależna Scope Fluidics uzyskała certyfikat CE-IVDR dla systemu BACTEROMIC Bacteromic, spółka zależna Grupy Scope Fluidics, uzyskała certyfikat zgodności z IVDR dla systemu BACTEROMIC z Panelem UNI - podała spółka w komunikacie. Uzyskanie certyfikacji umożliwia wprowadzenie systemu BACTEROMIC na rynek europejski.",
+      "content_html": "",
+      "date_published": "2026-02-20T12:46:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Columbus-Energy-wraca-do-2019-roku-Kurs-spolki-wykrwawia-sie-po-serii-informacji-9086791.html",
       "url": "https://www.bankier.pl/wiadomosc/Columbus-Energy-wraca-do-2019-roku-Kurs-spolki-wykrwawia-sie-po-serii-informacji-9086791.html",
       "title": "Columbus Energy wykrwawia się na giełdzie. Efekt wojny totalnej o Saule Mroźny luty dla akcjonariuszy Columbus Energy. Kurs spółki spadł w piątek, 20 lutego, poniżej 4 zł za akcję i był najniżej od 2019 r. Prawie 6 lat temu był jednak w podróży do poziomu 112 zł, teraz kierunek jest zupełnie inny. W tle rozgrywa się brutalna batalia o przyszłość polskiej technologii perowskitowej, w której przewijają są służby specjalne, prokuratura i nadzór finansowy. Nieoczekiwanym bohaterem wydarzeń wokół Columbusa zostali uczestnicy programu „Czyste powietrze”, którzy w programie „Uwaga” opowiedzieli o fałszywych obietnicach i manipulacjach handlowców firmy.",
@@ -130,11 +137,11 @@
       "date_published": "2026-02-19T19:48:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
-      "title": "Kiepskie dane, marna sesja. I tylko giełdowi giganci trzymali WIG20 Rozczarowującym danym z polskiej gospodarki w czwartek towarzyszyła także mizeria na giełdowym parkiecie. Rosły za to kursy akcji największych spółek notowanych na GPW.",
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
+      "title": "Akcjonariusze Asseco za zmniejszeniem ilości akcji własnych spółki do umorzenia do ok. 1,3 proc. Akcjonariusze Asseco Poland, Adam Góral Fundacja Rodzinna (AGFR) oraz TSS Europe B.V., proponują zmniejszenie liczby akcji własnych podlegających umorzeniu z 3 proc. do około 1,3 proc. - podała spółka w komunikacie. Zarząd Asseco Poland w pełni popiera przedstawione propozycje.",
       "content_html": "",
-      "date_published": "2026-02-19T17:15:00+01:00"
+      "date_published": "2026-02-19T16:36:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-Iran-u-progu-wojny-Na-rynku-ropy-nerwowo-9086393.html",
@@ -478,13 +485,6 @@
       "title": "Wielki zakład miliarderów o Amazona. Buffett sprzedaje paczki akcji, Ackman kupuje taśmowo Najnowsze raporty 13F złożone w amerykańskiej Komisji Papierów Wartościowych i Giełd (SEC) przyniosły obraz ciekawego zakładu miliarderów. Podczas gdy Warren Buffett w swoim ostatnim kwartale jako prezes Berkshire Hathaway, radykalnie ciął pozycję na akcjach Amazona, Bill Ackman i jego fundusz agresywnie zwiększał udziały w tej samej spółce. W tle mamy gigantyczne inwestycje spółki w AI, które na razie nie znajdują poparcia rynku.",
       "content_html": "",
       "date_published": "2026-02-18T13:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-podpisala-porozumienia-dotyczace-nabycia-PrestaShop-9085586.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-podpisala-porozumienia-dotyczace-nabycia-PrestaShop-9085586.html",
-      "title": "Skokowy rozwój cyber_Folks. 100 proc. akcji PrestaShop zmienia właściciela Spółka zależna cyber_Folks, tj. cyber_Pixel zawarła z MBE Worldwide umowę sprzedaży 100 proc. akcji w PrestaShop - podało cyber_Folks w komunikacie. Cena sprzedaży akcji PrestaShop wyniosła 53,96 mln euro.",
-      "content_html": "",
-      "date_published": "2026-02-18T12:34:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
