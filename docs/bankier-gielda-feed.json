@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polityka-dywidendowa-Grupy-Orlen-Inwestowanie-w-wartosc-i-pasywny-dochod-9086845.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polityka-dywidendowa-Grupy-Orlen-Inwestowanie-w-wartosc-i-pasywny-dochod-9086845.html",
+      "title": "Orlen: inwestowanie w wartość i pasywny dochód W krajobrazie polskiego rynku kapitałowego Grupa ORLEN ugruntowała swoją pozycję nie tylko jako podmiot o kluczowym znaczeniu dla bezpieczeństwa energetycznego państwa, ale również jako spółka dywidendowa o bogatej historii dzielenia się zyskiem z akcjonariuszami. Progresywna polityka zapewniająca minimalne poziomy wypłat, wsparta wyjątkowo stabilną sytuacją płynnościową i silnymi fundamentami, stanowi atrakcyjną ofertę dla inwestorów szukających bezpiecznej przystani w niepewnych czasach.",
+      "content_html": "",
+      "date_published": "2026-02-20T13:19:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Scope-Fluidics-uzyskala-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-9086825.html",
       "title": "Spółka zależna Scope Fluidics uzyskała certyfikat CE-IVDR dla systemu BACTEROMIC Bacteromic, spółka zależna Grupy Scope Fluidics, uzyskała certyfikat zgodności z IVDR dla systemu BACTEROMIC z Panelem UNI - podała spółka w komunikacie. Uzyskanie certyfikacji umożliwia wprowadzenie systemu BACTEROMIC na rynek europejski.",
@@ -130,11 +137,11 @@
       "date_published": "2026-02-19T20:04:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Netflix-ma-srodki-by-przebic-Paramount-ws-zakupu-Warner-Bros-Discovery-9086554.html",
-      "url": "https://www.bankier.pl/wiadomosc/Netflix-ma-srodki-by-przebic-Paramount-ws-zakupu-Warner-Bros-Discovery-9086554.html",
-      "title": "REUTERS Netflix ma środki, by przebić Paramount ws. zakupu Warner Bros. Discovery Netflix dysponuje dużymi rezerwami gotówki i ma wystarczające środki, by przebić ofertę Paramount Skydance dotyczącą zakupu Warner Bros. Discovery (WBD), jeśli rywalizujący o tę akwizycję koncern zaoferuje wyższą cenę - podał Reuters, powołując się na dwie osoby znające szczegóły negocjacji handlowych.",
+      "id": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-marna-sesja-I-tylko-gieldowi-giganci-trzymali-WIG20-9086452.html",
+      "title": "Kiepskie dane, marna sesja. I tylko giełdowi giganci trzymali WIG20 Rozczarowującym danym z polskiej gospodarki w czwartek towarzyszyła także mizeria na giełdowym parkiecie. Rosły za to kursy akcji największych spółek notowanych na GPW.",
       "content_html": "",
-      "date_published": "2026-02-19T19:48:00+01:00"
+      "date_published": "2026-02-19T17:15:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Asseco-za-zmniejszeniem-ilosci-akcji-wlasnych-spolki-do-umorzenia-do-ok-1-3-proc-9086436.html",
@@ -389,13 +396,6 @@
       "date_published": "2026-02-18T17:46:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/W-grze-dawne-CCC-Orange-i-KGHM-Straszy-ponura-wizja-odbicia-na-dolarze-9085831.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-grze-dawne-CCC-Orange-i-KGHM-Straszy-ponura-wizja-odbicia-na-dolarze-9085831.html",
-      "title": "SESJA NA GPW W grze dawne CCC, Orange i KGHM. \"Nie jest wielkim problemem znaleźć atrakcyjniejsze alternatywy\" Środowe notowania na GPW przyniosły wyraźne odbicie głównych indeksów, które z nawiązką odrobiły wtorkową słabość. W WIG20 najjaśniej świeciły kursy KGHM, Orange i dawnego CCC, które zmieniło nazwę. Mimo panującego na parkiecie entuzjazmu, w komentarzach pobrzmiewa nuta sceptycyzmu. Czy obecne wyceny to ostatni przystanek przed głębszym przesileniem?",
-      "content_html": "",
-      "date_published": "2026-02-18T17:43:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Po-sesji-20-II-Digital-Network-zastapi-Grenevie-w-sWIG80-GPW-Benchmark-9085823.html",
       "url": "https://www.bankier.pl/wiadomosc/Po-sesji-20-II-Digital-Network-zastapi-Grenevie-w-sWIG80-GPW-Benchmark-9085823.html",
       "title": "Po sesji 20 II Digital Network zastąpi Grenevię w sWIG80 Po sesji 20 lutego z listy uczestników indeksów sWIG80, sWIG80TR, WIG, WIG140, WIGind i WIG-Poland zostaną wykreślone akcje spółki Grenevia. Do sWIG80 w miejsce Grenevii wpisana zostanie spółka Digital Network - poinformowała w komunikacie GPW Benchmark.",
@@ -464,27 +464,6 @@
       "title": "Intersport Polska zdecydował o emisji akcji serii N skierowanej do wybranych inwestorów Intersport Polska zdecydował o podwyższeniu kapitału zakładowego w drodze emisji do 70 mln akcji serii N z ceną emisyjną 0,4942 zł za akcję - podała spółka w komunikacie. Emisja jest skierowana do wybranych przez zarząd inwestorów.",
       "content_html": "",
       "date_published": "2026-02-18T14:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bogdanka-dokona-odpisu-aktualizujacego-w-wysokosci-522-5-mln-zl-9085641.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bogdanka-dokona-odpisu-aktualizujacego-w-wysokosci-522-5-mln-zl-9085641.html",
-      "title": "Bogdanka dokona odpisu aktualizującego w wysokości 522,5 mln zł Bogdanka dokona odpisu aktualizującego bilansową wartość aktywów trwałych w wysokości 522,5 mln zł - podała spółka w komunikacie. Wartość odpisu z tytułu utraty wartości aktywów obciąży wynik operacyjny, natomiast nie będzie miała wpływu na wynik EBITDA.",
-      "content_html": "",
-      "date_published": "2026-02-18T13:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orange-Polska-w-26-chce-skupic-sie-na-generowaniu-gotowki-analizuje-wzrosty-cen-RAM-na-rynku-9085639.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orange-Polska-w-26-chce-skupic-sie-na-generowaniu-gotowki-analizuje-wzrosty-cen-RAM-na-rynku-9085639.html",
-      "title": "Orange Polska w '26 chce skupić się na generowaniu gotówki, analizuje wzrosty cen RAM na rynku Orange Polska w 2026 roku chce skupić się na generowaniu gotówki i wzroście bazy klientów - poinformowała podczas konferencji z mediami prezeska spółki Liudmila Climoc. Spółka jest w trakcie analizy rynku pamięci operacyjnej po wzrostach cen RAM-u na przełomie roku.",
-      "content_html": "",
-      "date_published": "2026-02-18T13:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaklad-o-Amazona-Buffett-sprzedaje-prawie-wszystko-Ackman-kupuje-za-miliardy-9085588.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaklad-o-Amazona-Buffett-sprzedaje-prawie-wszystko-Ackman-kupuje-za-miliardy-9085588.html",
-      "title": "Wielki zakład miliarderów o Amazona. Buffett sprzedaje paczki akcji, Ackman kupuje taśmowo Najnowsze raporty 13F złożone w amerykańskiej Komisji Papierów Wartościowych i Giełd (SEC) przyniosły obraz ciekawego zakładu miliarderów. Podczas gdy Warren Buffett w swoim ostatnim kwartale jako prezes Berkshire Hathaway, radykalnie ciął pozycję na akcjach Amazona, Bill Ackman i jego fundusz agresywnie zwiększał udziały w tej samej spółce. W tle mamy gigantyczne inwestycje spółki w AI, które na razie nie znajdują poparcia rynku.",
-      "content_html": "",
-      "date_published": "2026-02-18T13:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
