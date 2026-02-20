@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cla-skasowane-ale-euforii-na-Wall-Street-nie-ma-Jest-za-to-odbicie-na-bigtechach-9087133.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cla-skasowane-ale-euforii-na-Wall-Street-nie-ma-Jest-za-to-odbicie-na-bigtechach-9087133.html",
+      "title": "Cła skasowane, ale euforii na Wall Street nie ma. Jest za to odbicie na bigtechach",
+      "content_html": "Ceny akcji na Wall Street generalnie szły w górę. Najchętniej kupowano walory wielkich spółek technologicznych, które przez poprzednie miesiące wypadły z łask inwestorów.",
+      "date_published": "2026-02-20T22:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Sedziowie-Sadu-Najwyzszego-mnie-zawiedli-sa-hanba-dla-narodu-9087086.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-Sedziowie-Sadu-Najwyzszego-mnie-zawiedli-sa-hanba-dla-narodu-9087086.html",
       "title": "Sąd tylko wzmocnił moje uprawnienia. Trump ogłasza nową globalną stawkę ceł",
@@ -695,13 +702,6 @@
       "title": "Gospodarcza rewolucja w UE? Pora na \"kupuj europejskie\"",
       "content_html": "Oczekiwany przez europejskie sektory motoryzacji i zaawansowanych technologii „Industrial Accelerating Act” (IAA) wprowadzi zasadę preferencji dla produktów z Europy. Ma zostać przyjęty 26 lutego – dowiedziała się „Rzeczpospolita” z kręgów...",
       "date_published": "2026-02-20T07:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hakerzy-zastawiaja-sidla-na-firmy-Te-wciaz-oszczedzaja-na-cyberbezpieczenstwie-9086623.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hakerzy-zastawiaja-sidla-na-firmy-Te-wciaz-oszczedzaja-na-cyberbezpieczenstwie-9086623.html",
-      "title": "Hakerzy zastawiają sidła na firmy. Te wciąż oszczędzają na cyberbezpieczeństwie",
-      "content_html": "Rosnąca liczba ataków hakerskich spędza sen z powiek wielu przedsiębiorcom, mimo to większość nie planuje zwiększać wydatków na zabezpieczenia IT - pisze piątkowy „Puls Biznesu\".",
-      "date_published": "2026-02-20T07:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
