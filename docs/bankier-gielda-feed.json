@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Azoty-Polyolefins-proponuja-wierzycielom-zwrot-17-proc-dlugow-9087281.html",
+      "url": "https://www.bankier.pl/wiadomosc/Azoty-Polyolefins-proponuja-wierzycielom-zwrot-17-proc-dlugow-9087281.html",
+      "title": "Azoty Polyolefins proponują wierzycielom zwrot 17 proc. długów Spółka Grupa Azoty Polyolefins (GAP) zaproponowała w sobotę wierzycielom układ, zgodnie z którym spłaci im. ok. 17 proc. wierzytelnosci. Suma tych wierzytelności to ponad 6 mld zł. GAP buduje instalację Polimery Police, m.in. do produkcji propylenu.",
+      "content_html": "",
+      "date_published": "2026-02-21T19:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nadpodaz-mieszkan-to-iluzja-Analitycy-zapowiadaja-nagly-zwrot-9084885.html",
       "url": "https://www.bankier.pl/wiadomosc/Nadpodaz-mieszkan-to-iluzja-Analitycy-zapowiadaja-nagly-zwrot-9084885.html",
       "title": "NIERUCHOMOŚCI Nadpodaż mieszkań to iluzja? Analitycy zapowiadają nagły zwrot Sprzedaż mieszkań przez deweloperów w 2026 r. wzrośnie, a cały sektor nieruchomości ma dobre perspektywy. Nadpodaż gotowych lokali na rynku jest chwilowa i iluzoryczna - ocenili analitycy. W poszczególnych miastach sytuacja związana z rozszerzeniem oferty czy polityką cenową może być jednak zróżnicowana.",
@@ -198,13 +205,6 @@
       "title": "Spadki na Wall Street na koniec dnia. Ryzyko wciąż w grze Czwartkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Spółki oferujące prywatne kredyty i obawy o Iran pogarszały nastroje na rynkach,",
       "content_html": "",
       "date_published": "2026-02-19T22:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-Sanok-Rubber-Company-upowaznilo-zarzad-do-nabywania-akcji-wlasnych-w-celu-ich-umorzenia-9086560.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-Sanok-Rubber-Company-upowaznilo-zarzad-do-nabywania-akcji-wlasnych-w-celu-ich-umorzenia-9086560.html",
-      "title": "NWZ Sanok Rubber Company upoważniło zarząd do nabywania akcji własnych w celu ich umorzenia Walne zgromadzenie Sanok Rubber Company upoważniło zarząd do nabywania akcji własnych w celu ich umorzenia oraz utworzyło kapitał rezerwowy na potrzeby programu nabywania akcji - wynika z uchwał podjętych na NWZ.",
-      "content_html": "",
-      "date_published": "2026-02-19T20:04:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
