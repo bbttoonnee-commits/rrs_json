@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Azoty-Polyolefins-proponuja-wierzycielom-uklad-i-splate-17-proc-wierzytelnosci-9087293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Azoty-Polyolefins-proponuja-wierzycielom-uklad-i-splate-17-proc-wierzytelnosci-9087293.html",
+      "title": "Azoty Polyolefins proponują wierzycielom układ i spłatę 17 proc. wierzytelności",
+      "content_html": "Spółka Grupa Azoty Polyolefins (GAP) zaproponowała w sobotę wierzycielom układ, zgodnie z którym spłaci im. ok. 17 proc. wierzytelnosci. Suma tych wierzytelności to ponad 6 mld zł - poinformowała Grupa Azoty w komunikacie. GAP buduje instalację...",
+      "date_published": "2026-02-21T21:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pezeszkian-zapowiada-ze-nie-ugnie-sie-pod-presja-mocarstw-9087258.html",
       "url": "https://www.bankier.pl/wiadomosc/Pezeszkian-zapowiada-ze-nie-ugnie-sie-pod-presja-mocarstw-9087258.html",
       "title": "Pezeszkian zapowiada, że nie ugnie się pod presją mocarstw",
@@ -134,13 +141,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Demograficzna-bomba-uderza-w-armie-Europa-potrzebuje-milionow-zolnierzy-Rozwiazanie-ma-przyjsc-z-poludnia-9085366.html",
       "title": "Demograficzna bomba uderza w armie. Europa potrzebuje milionów żołnierzy. Rozwiązanie ma przyjść z południa",
       "content_html": "Afryka Subsaharyjska przeżywa eksplozję demograficzną, w przeciwieństwie do Europy, która zagrożona imperialistycznymi ambicjami Rosji ma poważne problemy z uzupełnieniem szeregów swoich wojsk. Południowoafrykański think tank, Instytut Studiów...",
-      "date_published": "2026-02-21T13:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-dzieli-srodki-na-remonty-drog-Wiemy-ktore-regiony-dostaly-najwiecej-9085545.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-dzieli-srodki-na-remonty-drog-Wiemy-ktore-regiony-dostaly-najwiecej-9085545.html",
-      "title": "Rząd dzieli środki na remonty dróg. Wiemy, które regiony dostały najwięcej",
-      "content_html": "1179 samorządów otrzyma wsparcie z Rządowego Funduszu Rozwoju Dróg w łącznej wysokości 2,7 mld zł - napisał na platformie X minister infrastruktury Dariusz Klimczak. Poinformował jednocześnie o zatwierdzeniu listy zadań dla RFRD.",
       "date_published": "2026-02-21T13:00:00+01:00"
     },
     {
@@ -695,13 +695,6 @@
       "title": "Trigon DM podwyższył cenę docelową akcji Budimeksu",
       "content_html": "Analitycy Trigon DM, w raporcie z 13 lutego, podwyższyli cenę docelową akcji Budimeksu do 900 zł z 700 zł poprzednio oraz podtrzymali rekomendację \"kupuj\".",
       "date_published": "2026-02-20T11:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kruk-szacuje-zysk-netto-w-IV-kw-2025-r-na-208-mln-zl-ponizej-konsensusu-9086774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kruk-szacuje-zysk-netto-w-IV-kw-2025-r-na-208-mln-zl-ponizej-konsensusu-9086774.html",
-      "title": "Kruk szacuje zysk netto w IV kw. 2025 r. na 208 mln zł, poniżej konsensusu",
-      "content_html": "Grupa Kruk szacuje skonsolidowany zysk netto w czwartym kwartale 2025 r. na 208 mln zł, a EBITDA gotówkową na 658 mln zł - podała spółka w komunikacie. Konsensus PAP Biznes zakładał zysk netto w IV kw. na 231,8 mln zł.",
-      "date_published": "2026-02-20T11:19:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
