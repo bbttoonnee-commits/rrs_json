@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-danych-Cloud-Technologies-do-kluczowych-klientow-wzrosla-w-XII-o-48-proc-rdr-9087949.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-danych-Cloud-Technologies-do-kluczowych-klientow-wzrosla-w-XII-o-48-proc-rdr-9087949.html",
+      "title": "Sprzedaż danych Cloud Technologies do kluczowych klientów wzrosła w XII o 48 proc. rdr Cloud Technologies szacuje, że zanotował w grudniu 2025 roku wzrost sprzedaży danych do kluczowych klientów o 48 proc. rok do roku - poinformowała spółka w komunikacie. Cloud Technologies podaje tylko dynamikę sprzedaży, bez wartości liczbowej.",
+      "content_html": "",
+      "date_published": "2026-02-23T19:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-wart-juz-131-mld-zlotych-Wiecej-niz-Zabka-Budimex-Orange-Pepco-Alior-Kety-Modivo-Kruk-razem-wziete-9087889.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-wart-juz-131-mld-zlotych-Wiecej-niz-Zabka-Budimex-Orange-Pepco-Alior-Kety-Modivo-Kruk-razem-wziete-9087889.html",
       "title": "Orlen wart już 131 mld złotych. Więcej niż osiem spółek z WIG20 razem wziętych Podczas gdy globalne rynki notowały w poniedziałek cofnięcie warszawskie indeksy zaliczyły udaną sesję. Szczególnie wyróżnił się segment największych spółek, na kursach których dominowała zieleń. Uwaga inwestorów skupiła się na KGHM podążającym za cenami srebra oraz odbiciu kursu Dino. Mocną sesję i nowy kilkuletni szczyt ma za sobą Orlen, wyceniony na ponad 130 mld zł – najwięcej w historii.",
@@ -170,13 +177,6 @@
       "title": "Brak debiutu PKL na giełdzie. PFR musi zweryfikować plany inwestycyjne za 500 mln zł Wejście Polskich Kolei Linowych (PKL) na Giełdę Papierów Wartościowych miało zapewnić ponad 0,5 mld zł na inwestycje, w tym budowę kolejki linowej do Kuźnic – wynika z informacji PAP. Po rezygnacji z debiutu program wymaga ponownej oceny - przekazał Polski Fundusz Rozwoju (PFR).",
       "content_html": "",
       "date_published": "2026-02-22T09:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Azoty-Polyolefins-proponuja-wierzycielom-zwrot-17-proc-dlugow-9087281.html",
-      "url": "https://www.bankier.pl/wiadomosc/Azoty-Polyolefins-proponuja-wierzycielom-zwrot-17-proc-dlugow-9087281.html",
-      "title": "Azoty Polyolefins proponują wierzycielom zwrot 17 proc. długów Spółka Grupa Azoty Polyolefins (GAP) zaproponowała w sobotę wierzycielom układ, zgodnie z którym spłaci im. ok. 17 proc. wierzytelnosci. Suma tych wierzytelności to ponad 6 mld zł. GAP buduje instalację Polimery Police, m.in. do produkcji propylenu.",
-      "content_html": "",
-      "date_published": "2026-02-21T19:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
