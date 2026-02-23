@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Krok-w-przod-krok-wstecz-Tym-razem-Wall-Street-konczy-na-czerwono-9088006.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krok-w-przod-krok-wstecz-Tym-razem-Wall-Street-konczy-na-czerwono-9088006.html",
+      "title": "Krok w przód, krok wstecz. Tym razem Wall Street kończy na czerwono",
+      "content_html": "Przecena spółek technologicznych i finansowych doprowadziła do jednoznacznie spadkowej sesji na nowojorskich giełdach.",
+      "date_published": "2026-02-23T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/The-Farm-51-rozpoczelo-postepowanie-restrukturyzacyjne-9087988.html",
       "url": "https://www.bankier.pl/wiadomosc/The-Farm-51-rozpoczelo-postepowanie-restrukturyzacyjne-9087988.html",
       "title": "The Farm 51 rozpoczęło postępowanie restrukturyzacyjne",
@@ -695,13 +702,6 @@
       "title": "Zysk netto j.d. Ambry w I półr. 2025/2026 wzrósł do 49 mln zł",
       "content_html": "Zysk netto j.d. Ambry w I półroczu 2025/2026 wyniósł 49 mln zł wobec 43,6 mln zł przed rokiem, a przychody wzrosły do 556,8 mln zł ze 546,2 mln zł - podała spółka w komunikacie prasowym.",
       "date_published": "2026-02-23T06:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Meksyk-Baron-narkotykowy-El-Mencho-zastrzelony-w-wojskowej-oblawie-9087441.html",
-      "url": "https://www.bankier.pl/wiadomosc/Meksyk-Baron-narkotykowy-El-Mencho-zastrzelony-w-wojskowej-oblawie-9087441.html",
-      "title": "El Mencho zabity w operacji wojskowej z pomocą USA. Ambasada RP ostrzega",
-      "content_html": "El Mencho, najbardziej poszukiwany przestępca w Meksyku, przywódca budzącego postrach kartelu narkotykowego Jalisco New Generation (CJNG), został zabity przez armię w operacji sił bezpieczeństwa - poinformowały w niedzielę lokalne media.",
-      "date_published": "2026-02-23T06:42:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
