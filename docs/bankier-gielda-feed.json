@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Ambry-w-I-polr-2025-2026-wzrosl-do-49-mln-zl-9087497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Ambry-w-I-polr-2025-2026-wzrosl-do-49-mln-zl-9087497.html",
+      "title": "Zysk netto j.d. Ambry w I półr. 2025/2026 wzrósł do 49 mln zł Zysk netto j.d. Ambry w I półroczu 2025/2026 wyniósł 49 mln zł wobec 43,6 mln zł przed rokiem, a przychody wzrosły do 556,8 mln zł ze 546,2 mln zł - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-02-23T06:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
+      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
+      "title": "Janusz Krypto: siostrzeniec mówi, że to pieniądz, ja widzę kod. Czym jest ten cały bitcoin? Bitcoin, czyli co? Konserwatywny inwestor mierzy się z rynkiem kryptowalut i zadaje pytania, których inni się boją. Dlaczego cyfrowy kod, którego nie da się dotknąć, kosztuje tyle co luksusowe samochody i czemu powstał akurat wtedy, gdy banki waliły się jak domki z kart? Janusz Krypto zaczyna swój audyt bitcoina.",
+      "content_html": "",
+      "date_published": "2026-02-23T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Brak-debiutu-PKL-na-gieldzie-PFR-musi-zweryfikowac-plany-inwestycyjne-za-500-mln-zl-9087354.html",
       "url": "https://www.bankier.pl/wiadomosc/Brak-debiutu-PKL-na-gieldzie-PFR-musi-zweryfikowac-plany-inwestycyjne-za-500-mln-zl-9087354.html",
       "title": "Brak debiutu PKL na giełdzie. PFR musi zweryfikować plany inwestycyjne za 500 mln zł Wejście Polskich Kolei Linowych (PKL) na Giełdę Papierów Wartościowych miało zapewnić ponad 0,5 mld zł na inwestycje, w tym budowę kolejki linowej do Kuźnic – wynika z informacji PAP. Po rezygnacji z debiutu program wymaga ponownej oceny - przekazał Polski Fundusz Rozwoju (PFR).",
@@ -30,13 +44,6 @@
       "title": "Polymarket w tarapatach. Setki tysięcy euro kary co tydzień i zakaz działalności Holenderski regulator hazardu nakazał platformie Polymarket natychmiastowe wstrzymanie działalności w kraju. Serwis, umożliwiający obstawianie wyników wyborów i wydarzeń politycznych, działa bez licencji. Grozi mu kara 420 tys. euro tygodniowo, a później kolejne sankcje.",
       "content_html": "",
       "date_published": "2026-02-21T17:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mocarne-wyniki-Orlenu-przeszacowane-ceny-mieszkan-i-slabiutke-dane-o-placach-9086701.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mocarne-wyniki-Orlenu-przeszacowane-ceny-mieszkan-i-slabiutke-dane-o-placach-9086701.html",
-      "title": "TYDZIEŃ NA WYKRESACH Mocarne wyniki Orlenu, przeszacowane ceny mieszkań i słabiutke dane o płacach Trzeci tydzień lutego obfitował w solidną paczkę ważnych danych. Wynikami pochwalił się Orlen, zanotowano słabe dane z rynku pracy i przemysłu, a wyniki deweloperów dotyczące nowych budów były najsłabsze od trzech lat. Oto podsumowanie na wykresach.",
-      "content_html": "",
-      "date_published": "2026-02-21T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
