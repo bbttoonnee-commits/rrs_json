@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-wart-juz-131-mld-zlotych-Wiecej-niz-Zabka-Budimex-Orange-Pepco-Alior-Kety-Modivo-Kruk-razem-wziete-9087889.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-wart-juz-131-mld-zlotych-Wiecej-niz-Zabka-Budimex-Orange-Pepco-Alior-Kety-Modivo-Kruk-razem-wziete-9087889.html",
+      "title": "Orlen wart już 131 mld złotych. Więcej niż osiem spółek z WIG20 razem wziętych Podczas gdy globalne rynki notowały w poniedziałek cofnięcie warszawskie indeksy zaliczyły udaną sesję. Szczególnie wyróżnił się segment największych spółek, na kursach których dominowała zieleń. Uwaga inwestorów skupiła się na KGHM podążającym za cenami srebra oraz odbiciu kursu Dino. Mocną sesję i nowy kilkuletni szczyt ma za sobą Orlen, wyceniony na ponad 130 mld zł – najwięcej w historii.",
+      "content_html": "",
+      "date_published": "2026-02-23T17:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Lena-Lighting-szacuje-zysk-netto-grupy-w-25-na-2-1-mln-zl-9087855.html",
       "url": "https://www.bankier.pl/wiadomosc/Lena-Lighting-szacuje-zysk-netto-grupy-w-25-na-2-1-mln-zl-9087855.html",
       "title": "Lena Lighting szacuje zysk netto grupy w '25 na 2,1 mln zł Lena Lighting szacuje, że skonsolidowany zysk netto w 2025 r. spadł rdr o 17,36 proc. do 2,1 mln zł - poinformowała spółka w komunikacie. Skonsolidowane przychody zwiększyły się w tym okresie o 3,52 proc. i wyniosły 141,8 mln zł.",
@@ -170,13 +177,6 @@
       "title": "Azoty Polyolefins proponują wierzycielom zwrot 17 proc. długów Spółka Grupa Azoty Polyolefins (GAP) zaproponowała w sobotę wierzycielom układ, zgodnie z którym spłaci im. ok. 17 proc. wierzytelnosci. Suma tych wierzytelności to ponad 6 mld zł. GAP buduje instalację Polimery Police, m.in. do produkcji propylenu.",
       "content_html": "",
       "date_published": "2026-02-21T19:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nadpodaz-mieszkan-to-iluzja-Analitycy-zapowiadaja-nagly-zwrot-9084885.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nadpodaz-mieszkan-to-iluzja-Analitycy-zapowiadaja-nagly-zwrot-9084885.html",
-      "title": "NIERUCHOMOŚCI Nadpodaż mieszkań to iluzja? Analitycy zapowiadają nagły zwrot Sprzedaż mieszkań przez deweloperów w 2026 r. wzrośnie, a cały sektor nieruchomości ma dobre perspektywy. Nadpodaż gotowych lokali na rynku jest chwilowa i iluzoryczna - ocenili analitycy. W poszczególnych miastach sytuacja związana z rozszerzeniem oferty czy polityką cenową może być jednak zróżnicowana.",
-      "content_html": "",
-      "date_published": "2026-02-21T18:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
