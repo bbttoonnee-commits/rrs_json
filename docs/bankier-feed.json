@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/The-Farm-51-rozpoczelo-postepowanie-restrukturyzacyjne-9087988.html",
+      "url": "https://www.bankier.pl/wiadomosc/The-Farm-51-rozpoczelo-postepowanie-restrukturyzacyjne-9087988.html",
+      "title": "The Farm 51 rozpoczęło postępowanie restrukturyzacyjne",
+      "content_html": "The Farm 51 Group, notowany na NewConnect producent gier wideo rozpoczął w poniedziałek postępowanie o zatwierdzenie układu - poinformowała spółka w komunikacie.",
+      "date_published": "2026-02-23T21:04:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Arabia-Saudyjska-bolesnie-zderzyla-sie-z-rzeczywistoscia-The-Line-wyparty-przez-AI-9086121.html",
       "url": "https://www.bankier.pl/wiadomosc/Arabia-Saudyjska-bolesnie-zderzyla-sie-z-rzeczywistoscia-The-Line-wyparty-przez-AI-9086121.html",
       "title": "Arabia Saudyjska boleśnie zderzyła się z rzeczywistością. The Line wyparty przez AI",
@@ -695,13 +702,6 @@
       "title": "El Mencho zabity w operacji wojskowej z pomocą USA. Ambasada RP ostrzega",
       "content_html": "El Mencho, najbardziej poszukiwany przestępca w Meksyku, przywódca budzącego postrach kartelu narkotykowego Jalisco New Generation (CJNG), został zabity przez armię w operacji sił bezpieczeństwa - poinformowały w niedzielę lokalne media.",
       "date_published": "2026-02-23T06:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
-      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
-      "title": "Janusz Krypto: siostrzeniec mówi, że to pieniądz, ja widzę kod. Czym jest ten cały bitcoin?",
-      "content_html": "Bitcoin, czyli co? Konserwatywny inwestor mierzy się z rynkiem kryptowalut i zadaje pytania, których inni się boją. Dlaczego cyfrowy kod, którego nie da się dotknąć, kosztuje tyle co luksusowe samochody i czemu powstał akurat wtedy, gdy banki...",
-      "date_published": "2026-02-23T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
