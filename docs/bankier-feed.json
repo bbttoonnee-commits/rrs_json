@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
+      "url": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
+      "title": "Raz w górę, raz w dół. Tym razem S&P500 skończył na zielono",
+      "content_html": "ym razem S&P500 i spółka zakończyli dzień na umiarkowanych plusach. Ton zwyżkom nadawali producenci chipów oraz odbijające po niedawnej przecenie akcje spółek informatycznych.",
+      "date_published": "2026-02-24T22:49:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Handlowe-tajemnice-i-e-maile-do-Epsteina-Rzad-Keira-Starmera-ujawnia-dokumenty-handlowe-9088583.html",
       "url": "https://www.bankier.pl/wiadomosc/Handlowe-tajemnice-i-e-maile-do-Epsteina-Rzad-Keira-Starmera-ujawnia-dokumenty-handlowe-9088583.html",
       "title": "Handlowe tajemnice i e-maile do Epsteina. Rząd Keira Starmera ujawnia dokumenty handlowe",
@@ -695,13 +702,6 @@
       "title": "Ceny ropy rosną. Inwestorzy oceniają szanse na deal nuklearny z Iranem",
       "content_html": "Ceny ropy naftowej rosną, a inwestorzy rozważają szanse na deal nuklearny USA z Iranem. Prezydent USA Donald Trump wskazał wprawdzie, że woli rozwiązania dyplomatyczne, ale ostrzegł też przed konsekwencjami, jeśli porozumienie USA-Iran nie zostanie...",
       "date_published": "2026-02-24T08:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Byly-brytyjski-ambasador-w-USA-aresztowany-Peter-Mandelson-mial-wspolpracowac-z-Epsteinem-9087939.html",
-      "url": "https://www.bankier.pl/wiadomosc/Byly-brytyjski-ambasador-w-USA-aresztowany-Peter-Mandelson-mial-wspolpracowac-z-Epsteinem-9087939.html",
-      "title": "Były brytyjski ambasador w USA, Peter Mandelson, został zwolniony za kaucją",
-      "content_html": "Brytyjska policja poinformowała w nocy z poniedziałku na wtorek, że 72-letni mężczyzna, aresztowany pod zarzutem nadużywania stanowiska publicznego, został zwolniony za kaucją do czasu zakończenia śledztwa. Agencje AFP, AP i dpa podawały, że...",
-      "date_published": "2026-02-24T08:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
