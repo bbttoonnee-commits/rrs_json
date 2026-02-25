@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Krajowe-spolki-energetyczne-atrakcyjne-z-powodu-wysokiej-ekspozycji-na-dystrybucje-Trigon-DM-9088740.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krajowe-spolki-energetyczne-atrakcyjne-z-powodu-wysokiej-ekspozycji-na-dystrybucje-Trigon-DM-9088740.html",
+      "title": "Krajowe spółki energetyczne atrakcyjne z powodu wysokiej ekspozycji na dystrybucję - Trigon DM Profil krajowych spółek energetycznych, przy wysokiej ekspozycji sektora na dystrybucję, jest relatywnie atrakcyjniejszy na tle szerokiego indeksu Stoxx 600 Utilities - oceniają analitycy Trigon DM w raporcie z 17 lutego. Analitycy rekomendują \"kupuj\" akcje PGE, Enei oraz Tauronu.",
+      "content_html": "",
+      "date_published": "2026-02-25T09:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Od-srody-wiecej-kryptowalut-na-GPW-Szwedzi-zapowiadaja-Do-konca-roku-pojawi-sie-10-instrumentow-9088462.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-srody-wiecej-kryptowalut-na-GPW-Szwedzi-zapowiadaja-Do-konca-roku-pojawi-sie-10-instrumentow-9088462.html",
       "title": "Od środy więcej kryptowalut na GPW. Szwedzi zapowiadają: Do końca roku pojawi się 10 instrumentów – Wejście na polski rynek jest częścią naszych długoterminowych planów strategicznych – mówi Bankier.pl Christopher Kock, prezes i współzałożyciel szwedzkiej firmy Virtune. Już w środę na Giełdzie Papierów Wartościowych w Warszawie pojawia się cztery zarządzane przez tę firmę instrumenty ETP, dające inwestorom ekspozycję na rynek kryptowalut i notowane w polskim złotym.",
@@ -13,7 +20,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-obiecuje-1000-dolarow-na-emeryture-Popiera-koniec-gieldowych-przywilejow-Kongresu-i-atakuje-Krolowa-Akcji-9088705.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-obiecuje-1000-dolarow-na-emeryture-Popiera-koniec-gieldowych-przywilejow-Kongresu-i-atakuje-Krolowa-Akcji-9088705.html",
-      "title": "Trump chce pompować Wall Street pieniędzmi podatników. Zaatakował Królową Akcji Podczas wtorkowego orędzia o stanie państwa przed połączonymi izbami Kongresu prezydent Donald Trump zapowiedział rozszerzeniu dostępu do giełdowych planów emerytalnych 401(k) dla „zapomnianych pracowników” oraz przychylił się do radykalnej propozycji zakazu handlu akcjami dla członków Kongresu, co spotkało się z obustronnym aplauzem. „Czy Nancy Pelosi wstała? Wątpię” – uszczypliwe powiedział prezydent USA.",
+      "title": "Trump obiecuje 1000 dolarów na emeryturę. Zaatakował Królową Akcji Podczas wtorkowego orędzia o stanie państwa przed połączonymi izbami Kongresu prezydent Donald Trump zapowiedział rozszerzeniu dostępu do giełdowych planów emerytalnych 401(k) dla „zapomnianych pracowników” oraz przychylił się do radykalnej propozycji zakazu handlu akcjami dla członków Kongresu, co spotkało się z obustronnym aplauzem. „Czy Nancy Pelosi wstała? Wątpię” – uszczypliwe powiedział prezydent USA.",
       "content_html": "",
       "date_published": "2026-02-25T08:15:00+01:00"
     },
@@ -359,13 +366,6 @@
       "title": "Mocne otwarcie roku w handlu. Sroga zima napędziła zakupy Styczeń przyniósł zaskakująco mocny wynik sprzedaży detalicznej – wynika z najnowszych danych Głównego Urzędu Statystycznego. Tym razem prognozy ekonomistów okazały się zbyt zachowawcze.",
       "content_html": "",
       "date_published": "2026-02-23T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Erste-obnizyl-rekomendacje-dla-Murapolu-i-Lokum-Deweloper-podniosl-dla-Archicomu-9087552.html",
-      "url": "https://www.bankier.pl/wiadomosc/Erste-obnizyl-rekomendacje-dla-Murapolu-i-Lokum-Deweloper-podniosl-dla-Archicomu-9087552.html",
-      "title": "Erste obniżył rekomendację dla Murapolu i Lokum Deweloper, podniósł dla Archicomu Analityk Erste Group, Cezary Bernatek, w raporcie z 23 lutego, obniżył rekomendację dla Murapolu do \"akumuluj\" z \"kupuj\", a dla Lokum Deweloper do \"sprzedaj\" z \"trzymaj\". Rekomendacja dla Archicomu została podniesiona do \"akumuluj\" z trzymaj\".",
-      "content_html": "",
-      "date_published": "2026-02-23T09:26:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
