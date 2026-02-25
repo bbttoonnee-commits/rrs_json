@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-blockchain-czyli-bank-bez-banku-i-gornik-z-karta-graficzna-Jak-dziala-bitcoin-9085446.html",
+      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-blockchain-czyli-bank-bez-banku-i-gornik-z-karta-graficzna-Jak-dziala-bitcoin-9085446.html",
+      "title": "Janusz Krypto: blockchain, czyli bank bez banku i górnik z kartą graficzną. Jak działa bitcoin? Blockchain i bitcoin - wszyscy o nich mówią, ale mało kto rozumie, a jeszcze mniej potrafi wyjaśnić ich działanie w prosty sposób. Dziś zejdę do cyfrowej krypty, by dowiedzieć się, o co w tym wszystkim chodzi. Postaram się ustalić, na czym polega kopanie kryptowalut, czy komputery kwantowe zniszczą bitcoina i co się z nim stanie, jeśli pewnego dnia padną prąd i internet.",
+      "content_html": "",
+      "date_published": "2026-02-25T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
       "url": "https://www.bankier.pl/wiadomosc/Raz-w-gore-raz-w-dol-Tym-razem-S-P500-skonczyl-na-zielono-9088619.html",
       "title": "Raz w górę, raz w dół. Tym razem S&P500 skończył na zielono ym razem S&P500 i spółka zakończyli dzień na umiarkowanych plusach. Ton zwyżkom nadawali producenci chipów oraz odbijające po niedawnej przecenie akcje spółek informatycznych.",
@@ -380,13 +387,6 @@
       "title": "Zysk netto j.d. Ambry w I półr. 2025/2026 wzrósł do 49 mln zł Zysk netto j.d. Ambry w I półroczu 2025/2026 wyniósł 49 mln zł wobec 43,6 mln zł przed rokiem, a przychody wzrosły do 556,8 mln zł ze 546,2 mln zł - podała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-02-23T06:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
-      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-co-to-jest-bitcoin-Czym-sa-kryptowaluty-Jak-powstaly-9076478.html",
-      "title": "TYLKO U NAS Janusz Krypto: siostrzeniec mówi, że to pieniądz, ja widzę kod. Czym jest ten cały bitcoin? Bitcoin, czyli co? Konserwatywny inwestor mierzy się z rynkiem kryptowalut i zadaje pytania, których inni się boją. Dlaczego cyfrowy kod, którego nie da się dotknąć, kosztuje tyle co luksusowe samochody i czemu powstał akurat wtedy, gdy banki waliły się jak domki z kart? Janusz Krypto zaczyna swój audyt bitcoina.",
-      "content_html": "",
-      "date_published": "2026-02-23T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
