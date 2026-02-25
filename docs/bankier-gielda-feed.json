@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nizsze-rachunki-za-gaz-Orlen-oglasza-nowy-cennik-9088846.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nizsze-rachunki-za-gaz-Orlen-oglasza-nowy-cennik-9088846.html",
+      "title": "Niższe rachunki za gaz. Orlen ogłasza nowy cennik W środę zaczęła obowiązywać nowa, niższa taryfa cen gazu wprowadzona przez myOrlen, dawny PGNiG Obrót Detaliczny (PGNiG OD). Nowy cennik, który dotyczy 7 mln klientów tej spółki obowiązywać będzie do końca czerwca - poinformował Orlen.",
+      "content_html": "",
+      "date_published": "2026-02-25T12:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Katarzyna-Woznicka-objela-stanowisko-prezeski-Kino-Polska-9088833.html",
       "url": "https://www.bankier.pl/wiadomosc/Katarzyna-Woznicka-objela-stanowisko-prezeski-Kino-Polska-9088833.html",
       "title": "Katarzyna Woźnicka objęła stanowisko prezeski Kino Polska Katarzyna Woźnicka objęła stanowisko prezeski Kino Polska - podała spółka w komunikacie prasowym. Z kolei Patrycja Gałązka-Struzik objęła funkcję dyrektorki ds. operacyjnych.",
@@ -359,20 +366,6 @@
       "title": "Konsorcjum Torpol-Mirbud złożyło skargę od wyroku KIO dot. przetargu linii Rail Baltica Konsorcjum Torpol-Mirbud domaga się zmiany wyroku Krajowej Izby Odwoławczej dotyczącego przetargu PKP PLK na przebudowę linii kolejowej Rail Baltica - poinformował Mirbud w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-02-23T12:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Metale-wracaja-po-cichu-Zloto-powyzej-5-000-USD-Srebro-tez-odrabia-straty-9087664.html",
-      "url": "https://www.bankier.pl/wiadomosc/Metale-wracaja-po-cichu-Zloto-powyzej-5-000-USD-Srebro-tez-odrabia-straty-9087664.html",
-      "title": "Metale wracają po cichu. Złoto powyżej 5 000 USD. Srebro też odrabia straty W poniedziałek srebro drożało o ponad 5%, a notowania złota trzeci dzień z rzędu utrzymują się powyżej 5 000 USD/oz. W tle pozostaje niepewność względem polityki celnej USA oraz napięcie na Bliskim Wschodzie.",
-      "content_html": "",
-      "date_published": "2026-02-23T12:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-19-5-mln-zl-netto-9087639.html",
-      "url": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-19-5-mln-zl-netto-9087639.html",
-      "title": "Elektrotim ma umowę z Tauron Dystrybucja za 19,5 mln zł netto Elektrotim ma umowę z Tauron Dystrybucja na przebudowę za 19,5 mln zł netto linii 110kV Radzionków-Julian, Bolko-Rozalia od odczepu do SE Pogoda do SE Julian w systemie zaprojektuj-wybuduj - podał Elektrotim w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-23T11:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
