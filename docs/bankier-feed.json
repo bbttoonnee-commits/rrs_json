@@ -4,11 +4,60 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dlaczego-opozycja-domaga-sie-weta-prezydenta-ws-SAFE-9088811.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dlaczego-opozycja-domaga-sie-weta-prezydenta-ws-SAFE-9088811.html",
+      "title": "Dlaczego opozycja domaga się weta prezydenta ws. SAFE?",
+      "content_html": "Program SAFE to unijny fundusz pożyczkowy, z którego Polska może pozyskać ok. 43,7 mld euro na inwestycje obronne. Rząd podkreśla korzyści finansowe i szansę na szybszy rozwój armii, podczas gdy opozycja wskazuje na ryzyka polityczne, finansowe...",
+      "date_published": "2026-02-25T11:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-na-krakowskim-Kazimierzu-Zakon-oddal-kamienice-deweloperowi-Ludzie-zamiast-zyskow-9088792.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-na-krakowskim-Kazimierzu-Zakon-oddal-kamienice-deweloperowi-Ludzie-zamiast-zyskow-9088792.html",
+      "title": "Afera na krakowskim Kazimierzu. Zakon oddał kamienice deweloperowi. \"Ludzie zamiast zysków\"",
+      "content_html": "Krakowski Kazimierz staje się ofiarą własnego sukcesu, a proces gentryfikacji wchodzi w nową fazę. Zabytkowe kamienice przy ul. Józefa i Bożego Ciała, należące do Zakonu Kanoników Regularnych, mają zmienić się w pięciogwiazdkowy hotel...",
+      "date_published": "2026-02-25T11:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-JSW-dokona-odpisu-w-wysokosci-ponad-1-19-mld-zl-dot-segmentu-koksowego-9088810.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-JSW-dokona-odpisu-w-wysokosci-ponad-1-19-mld-zl-dot-segmentu-koksowego-9088810.html",
+      "title": "Grupa JSW dokona odpisu w wysokości ponad 1,19 mld zł dot. segmentu koksowego",
+      "content_html": "Wyniki przeprowadzonych testów wskazały na utratę wartości aktywów trwałych w segmencie koksowym grupy JSW w łącznej wysokości 1.194,6 mln zł, a dokonanie odpisu pomniejszy wynik operacyjny JSW Koks, a także grupy JSW, ale nie wpłynie na sytuację...",
+      "date_published": "2026-02-25T11:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zachowaj-gotowke-EBC-przestrzega-przed-dluzsza-blokada-do-kont-bankowych-9088767.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zachowaj-gotowke-EBC-przestrzega-przed-dluzsza-blokada-do-kont-bankowych-9088767.html",
+      "title": "\"Zachowaj gotówkę\". EBC przestrzega przed dłuższą blokadą do kont bankowych",
+      "content_html": "\"W kilku krajach obowiązują zalecenia, by gospodarstwa domowe utrzymywały zapas gotówki na kilka dni na niezbędne zakupy. To od 70 do 100 euro na osobę\" - Europejski Bank Centralny przestrzega mieszkańców UE przed sytuacjami, w których dostęp...",
+      "date_published": "2026-02-25T10:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/20-procent-przewagi-opozycji-na-Wegrzech-Co-zrobi-Orban-9088779.html",
+      "url": "https://www.bankier.pl/wiadomosc/20-procent-przewagi-opozycji-na-Wegrzech-Co-zrobi-Orban-9088779.html",
+      "title": "Sensacja na Węgrzech, 20 proc. przewagi opozycji. Co zrobi Orban?",
+      "content_html": "Opozycyjna partia TISZA ma 20-procentową przewagę nad Fideszem premiera Węgier Viktora Orbana - wynika z opublikowanego w środę sondażu pracowni Median. Kierowane przez Petera Magyara najważniejsze ugrupowanie opozycyjne uzyskało w badaniu 55...",
+      "date_published": "2026-02-25T10:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tyle-deweloperzy-wydaja-na-budowe-metra-kwadratowego-Nowe-dane-GUS-9088765.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tyle-deweloperzy-wydaja-na-budowe-metra-kwadratowego-Nowe-dane-GUS-9088765.html",
+      "title": "Tyle deweloperzy wydają na budowę metra kwadratowego. Nowe dane GUS",
+      "content_html": "Cena 1 m kw. powierzchni użytkowej budynku mieszkalnego oddanego do użytkowania w IV kwartale 2025 r. wyniosła 7.933 zł wobec 7.720 zł w III kwartale 2025 roku i wobec 7.162 zł w IV kwartale 2024 r. - podał GUS.",
+      "date_published": "2026-02-25T10:36:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Analitycy-PKO-BP-Nie-widac-powrotu-do-boomu-z-lat-2020-21-9088772.html",
       "url": "https://www.bankier.pl/wiadomosc/Analitycy-PKO-BP-Nie-widac-powrotu-do-boomu-z-lat-2020-21-9088772.html",
       "title": "Analitycy PKO BP: Nie widać powrotu do boomu z lat 2020-21",
       "content_html": "Zakupy mieszkań na cele inwestycyjne w Polsce w dużej mierze finansowane są gotówką, ale to właśnie ten segment jest najbardziej wrażliwy na koszt kapitału – wynika z raportu PKO BP. Bank ocenia, że nie widać perspektyw szybkiego powrotu...",
       "date_published": "2026-02-25T10:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Meksyk-nie-wyklucza-wznowienia-dostaw-ropy-na-Kube-9088780.html",
+      "url": "https://www.bankier.pl/wiadomosc/Meksyk-nie-wyklucza-wznowienia-dostaw-ropy-na-Kube-9088780.html",
+      "title": "Meksyk nie wyklucza wznowienia dostaw ropy na Kubę",
+      "content_html": "Rząd Meksyku rozważa możliwość wznowienia dostaw ropy naftowej na Kubę po decyzji Sądu Najwyższego USA, który w zeszłym tygodniu uznał globalne cła nałożone przez administrację Donalda Trumpa za nielegalne - poinformował dziennik „El...",
+      "date_published": "2026-02-25T10:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/W-oczekiwaniu-na-rating-Polski-zloty-dotrzymuje-kroku-euro-i-dolarowi-9088773.html",
@@ -95,13 +144,6 @@
       "date_published": "2026-02-25T08:59:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-NBP-jednak-przed-Trybunalem-Stanu-Z-niczego-sie-nie-wycofujemy-9088707.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-NBP-jednak-przed-Trybunalem-Stanu-Z-niczego-sie-nie-wycofujemy-9088707.html",
-      "title": "Szef NBP jednak przed Trybunałem Stanu? \"Z niczego się nie wycofujemy\"",
-      "content_html": "Koalicja Obywatelska nie zrezygnowała z planów postawienia prezesa NBP przed Trybunałem Stanu - poinformował w Polsat News minister finansów i gospodarki Andrzej Domański.",
-      "date_published": "2026-02-25T08:55:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Od-srody-wiecej-kryptowalut-na-GPW-Szwedzi-zapowiadaja-Do-konca-roku-pojawi-sie-10-instrumentow-9088462.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-srody-wiecej-kryptowalut-na-GPW-Szwedzi-zapowiadaja-Do-konca-roku-pojawi-sie-10-instrumentow-9088462.html",
       "title": "Więcej kryptowalut na GPW. Wystartowały ETP oparte na ethereum, solanie i ripple",
@@ -111,7 +153,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-obiecuje-1000-dolarow-na-emeryture-Popiera-koniec-gieldowych-przywilejow-Kongresu-i-atakuje-Krolowa-Akcji-9088705.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-obiecuje-1000-dolarow-na-emeryture-Popiera-koniec-gieldowych-przywilejow-Kongresu-i-atakuje-Krolowa-Akcji-9088705.html",
-      "title": "Trump obiecuje 1000 dolarów na emeryturę. Zaatakował Królową Akcji",
+      "title": "Trump chce pompować Wall Street pieniędzmi podatników. Zaatakował Królową Akcji",
       "content_html": "Podczas wtorkowego orędzia o stanie państwa przed połączonymi izbami Kongresu prezydent Donald Trump zapowiedział rozszerzeniu dostępu do giełdowych planów emerytalnych 401(k) dla „zapomnianych pracowników” oraz przychylił się do radykalnej...",
       "date_published": "2026-02-25T08:15:00+01:00"
     },
@@ -405,7 +447,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Proces-o-emeryture-sedziego-ktory-pozwal-TK-Po-wyborze-nigdy-nie-orzekal-9088533.html",
       "url": "https://www.bankier.pl/wiadomosc/Proces-o-emeryture-sedziego-ktory-pozwal-TK-Po-wyborze-nigdy-nie-orzekal-9088533.html",
-      "title": "Proces o „emeryturę” sędziego, który pozwał TK,. Po wyborze nigdy nie orzekał",
+      "title": "Proces o „emeryturę” sędziego, który pozwał TK. Po wyborze nigdy nie orzekał",
       "content_html": "Przed stołecznym sądem ruszył we wtorek proces wytoczony Trybunałowi Konstytucyjnemu przez wybranego do TK w 2015 r. prof. Krzysztofa Ślebzaka o zapłatę uposażenia sędziego w stanie spoczynku. To jedyny instrument, abym po 10 latach mógł się...",
       "date_published": "2026-02-24T19:37:00+01:00"
     },
@@ -515,13 +557,6 @@
       "date_published": "2026-02-24T17:32:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/System-e-Umowa-dostepny-dla-wszystkich-firm-Rzad-przyjal-nowe-przepisy-9088450.html",
-      "url": "https://www.bankier.pl/wiadomosc/System-e-Umowa-dostepny-dla-wszystkich-firm-Rzad-przyjal-nowe-przepisy-9088450.html",
-      "title": "System e-Umowa dostępny dla wszystkich firm. Rząd przyjął nowe przepisy",
-      "content_html": "Rada Ministrów przyjęła we wtorek projekt nowelizacji ustawy w sprawie systemu e-Umowa. Regulacja umożliwi wszystkim zainteresowanym podmiotom zawieranie niektórych umów drogą elektroniczną. Dotychczas z systemu mogły korzystać głównie osoby...",
-      "date_published": "2026-02-24T17:28:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-pakiet-deregulacyjny-dla-audytu-Co-zastapi-tzw-biala-liste-9088436.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-pakiet-deregulacyjny-dla-audytu-Co-zastapi-tzw-biala-liste-9088436.html",
       "title": "Rząd przyjął pakiet deregulacyjny dla audytu. Co zastąpi tzw. białą listę?",
@@ -541,6 +576,34 @@
       "title": "KNF zezwoliła na wycofanie z obrotu akcji Serinus Energy z dniem 10 marca",
       "content_html": "KNF zezwoliła na wycofanie z obrotu na GPW akcji Serinus Energy z dniem 10 marca - poinformowała Komisja Nadzoru Finansowego na stronie internetowej.",
       "date_published": "2026-02-24T17:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rekordowa-kara-dla-Reddita-w-Wielkiej-Brytanii-Chodzi-o-prywatnosc-uzytkownikow-9088423.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowa-kara-dla-Reddita-w-Wielkiej-Brytanii-Chodzi-o-prywatnosc-uzytkownikow-9088423.html",
+      "title": "Rekordowa kara dla Reddita w Wielkiej Brytanii. Chodzi o prywatność użytkowników",
+      "content_html": "Brytyjski urząd ochrony danych osobowych i swobody informacji (ICO) nałożył we wtorek na platformę społecznościową Reddit karę wysokości 14,47 mln funtów za niezgodne z prawem wykorzystywanie danych dzieci i potencjalne narażanie ich na szkodliwe...",
+      "date_published": "2026-02-24T17:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/RN-KGHM-powolala-na-stanowisko-prezesa-Remigiusza-Paszkiewicza-9088403.html",
+      "url": "https://www.bankier.pl/wiadomosc/RN-KGHM-powolala-na-stanowisko-prezesa-Remigiusza-Paszkiewicza-9088403.html",
+      "title": "Zmiana warty w Polskiej Miedzi. Remigiusz Paszkiewicz oficjalnie nowym prezesem KGHM",
+      "content_html": "Rada nadzorcza KGHM podjęła uchwałę o powołaniu w skład zarządu spółki Remigiusza Paszkiewicza, powierzając mu funkcję prezesa zarządu - podała we wtorek spółka miedziowa w komunikacie.",
+      "date_published": "2026-02-24T17:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orban-oskarza-Zelenskiego-o-szantaz-naftowy-Grozi-Wegrom-i-wywiera-presje-9088417.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orban-oskarza-Zelenskiego-o-szantaz-naftowy-Grozi-Wegrom-i-wywiera-presje-9088417.html",
+      "title": "Orban oskarża Zełenskiego o \"szantaż naftowy\": Grozi Węgrom i wywiera presję",
+      "content_html": "Węgry od początku wojny opowiadają się za pokojem, jednak nawet dziś, w rocznicę jej wybuchu, prezydent Ukrainy Wołodymyr Zełenski grozi Węgrom, bo nie dajemy się wciągnąć w wojnę, nie wyślemy pieniędzy na Ukrainę i nie zrezygnujemy z...",
+      "date_published": "2026-02-24T17:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bialy-Dom-ostrzega-kartele-Nie-wolno-wam-tknac-zadnego-Amerykanina-9088414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bialy-Dom-ostrzega-kartele-Nie-wolno-wam-tknac-zadnego-Amerykanina-9088414.html",
+      "title": "Biały Dom ostrzega kartele: Nie wolno wam tknąć żadnego Amerykanina",
+      "content_html": "Meksykańskie kartele wiedzą, że nie wolno im tknąć żadnego Amerykanina, bo poniosą tego surowe konsekwencje - oświadczyła we wtorek rzeczniczka Białego Domu Karoline Leavitt. Odniosła się w ten sposób do problemu tysięcy Amerykanów, którzy...",
+      "date_published": "2026-02-24T17:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nocleg-w-hotelu-z-nowa-oplata-Ministerstwo-Finansow-uszczelnia-system-9088428.html",
@@ -632,55 +695,6 @@
       "title": "Banki kupują obligacje skarbowe. KNF informuje o „uważnej obserwacji”",
       "content_html": "Ryzyko, obecnie umiarkowane, związane z rosnącym udziałem obligacji skarbowych w bilansach banków jest przedmiotem zainteresowania Komisji Nadzoru Finansowego - poinformował przewodniczący KNF Jacek Jastrzębski w trakcie Forum Bankowego w Warszawie...",
       "date_published": "2026-02-24T14:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DataWalk-pozyskal-116-mln-zl-m-in-na-ekspansje-w-sektorze-obronnym-planuje-inwestycje-wywiad-9088330.html",
-      "url": "https://www.bankier.pl/wiadomosc/DataWalk-pozyskal-116-mln-zl-m-in-na-ekspansje-w-sektorze-obronnym-planuje-inwestycje-wywiad-9088330.html",
-      "title": "DataWalk pozyskał 116 mln zł m.in. na ekspansję w sektorze obronnym, planuje inwestycje",
-      "content_html": "DataWalk pozyskał ponad 116 mln zł w ramach emisji akcji m.in. na ekspansję w sektorze obronnym, pracuje nad efektywnością i rozbudową lejka sprzedażowego, a także planuje inwestycje w obszarach marketingu i obsługi klientów - poinformował...",
-      "date_published": "2026-02-24T14:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niska-wycena-milosci-Tinder-Bumble-Grindr-i-inne-aplikacje-randkowe-to-dzis-cien-dawnej-potegi-9088290.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niska-wycena-milosci-Tinder-Bumble-Grindr-i-inne-aplikacje-randkowe-to-dzis-cien-dawnej-potegi-9088290.html",
-      "title": "Niska wycena miłości... Aplikacje randkowe to dziś cień dawnej potęgi",
-      "content_html": "Kiedyś algorytmy miały rozwiązać problem ludzkiej samotności, a inwestorzy widzieli w tym żyłę złota. W końcu miłość to potrzeba pierwszego rzędu. Dzisiaj Tinder (Match Group) i Bumble szorują po dnie, tracąc kilkadziesiąt procent od...",
-      "date_published": "2026-02-24T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-zagrozil-Libanowi-atakami-jezeli-Hezbollah-wlaczy-sie-do-konfliktu-USA-Iran-9088312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-zagrozil-Libanowi-atakami-jezeli-Hezbollah-wlaczy-sie-do-konfliktu-USA-Iran-9088312.html",
-      "title": "Izrael zagroził Libanowi atakami, jeżeli Hezbollah włączy się do konfliktu USA-Iran",
-      "content_html": "Izrael ostrzegł poprzez pośredników libański rząd, że jeżeli Hezbollah włączy się do ewentualnego konfliktu zbrojnego USA z Iranem, wojska izraelskie odpowiedzą ciężkimi uderzeniami, w tym w libańską infrastrukturę cywilną - poinformowała...",
-      "date_published": "2026-02-24T13:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Heyah-przechodzi-do-historii-Nowy-operator-i-bonusowe-gigabajty-Oto-co-czeka-klientow-9087509.html",
-      "url": "https://www.bankier.pl/wiadomosc/Heyah-przechodzi-do-historii-Nowy-operator-i-bonusowe-gigabajty-Oto-co-czeka-klientow-9087509.html",
-      "title": "Znana marka znika z rynku. Od poniedziałku zmiany dla klientów. Numer zostanie przeniesiony",
-      "content_html": "Od poniedziałku z rynku znika oferta subskrypcyjna Heyah 01, a numery klientów zostaną przeniesione do Red Bull Mobile. Obie marki należą do T-Mobile Polska, a operator ten po przeniesieniu nadal będzie dostarczał usługi użytkownikom.",
-      "date_published": "2026-02-24T13:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Elektrotimu-za-26-2-mln-zl-wybrana-jako-najkorzystniejsza-w-przetargu-ENEA-Operator-9088315.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Elektrotimu-za-26-2-mln-zl-wybrana-jako-najkorzystniejsza-w-przetargu-ENEA-Operator-9088315.html",
-      "title": "Oferta Elektrotimu za 26,2 mln zł wybrana jako najkorzystniejsza w przetargu ENEA Operator",
-      "content_html": "Oferta Elektrotimu za 26,2 mln zł netto została wybrana jako najkorzystniejsza w postępowaniu prowadzonym przez ENEA Operator na wykonanie zadania pn. \"Budowa linii kablowej 110 kV Gdańska - Zdroje\" - podał Elektrotim w komunikacie.",
-      "date_published": "2026-02-24T13:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-podmorski-kabel-USA-nakladaja-sankcje-na-chilijski-rzad-9088308.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-podmorski-kabel-USA-nakladaja-sankcje-na-chilijski-rzad-9088308.html",
-      "title": "Wojna o podmorski kabel. USA nakładają sankcje na chilijski rząd",
-      "content_html": "Rośnie napięcie w relacjach USA z Chile z powodu chilijsko-chińskiego projektu kabla podmorskiego. USA postrzegają projekt jako zagrożenie dla bezpieczeństwa w regionie Pacyfiku i nałożyły sankcje na przedstawicieli chilijskiego rządu. MSZ Chile...",
-      "date_published": "2026-02-24T13:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-zludzen-o-szybkim-pokoju-Pokoj-trzeba-wymusic-9088291.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-zludzen-o-szybkim-pokoju-Pokoj-trzeba-wymusic-9088291.html",
-      "title": "Koniec złudzeń o szybkim pokoju. \"Pokój trzeba wymusić\"",
-      "content_html": "Trwały i sprawiedliwy pokój nastąpi, gdy Rosja zostanie zmuszona przez ukraińskich żołnierzy i międzynarodową presję do zaprzestania agresji – powiedział marszałek Sejmu Włodzimierz Czarzasty w ukraińskim parlamencie. Oświadczył też...",
-      "date_published": "2026-02-24T13:21:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
