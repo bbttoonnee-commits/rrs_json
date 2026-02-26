@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
+      "title": "Ailleron miał w IV kw. 2025 r. 7,7 mln zł zysku netto j.d.",
+      "content_html": "Ailleron miał w czwartym kwartale 2025 roku 7,7 mln zł zysku netto jednostki dominującej - podała spółka w raporcie. Z kolei zysk operacyjny spółki w tym okresie wyniósł 20,99 mln zł wobec oczekiwań analityków w przedziale od 14,6 mln zł...",
+      "date_published": "2026-02-26T20:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-przebudowa-Bialego-Domu-bez-pieniedzy-podatnikow-Trump-triumfuje-9089893.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-przebudowa-Bialego-Domu-bez-pieniedzy-podatnikow-Trump-triumfuje-9089893.html",
+      "title": "Wielka przebudowa Białego Domu bez pieniędzy podatników. Trump triumfuje",
+      "content_html": "Sędzia federalny orzekł w czwartek, że prezydent USA Donald Trump może kontynuować prace nad salą balową, która ma powstać przy Białym Domu. Koszt przedsięwzięcia szacowany jest na ok. 400 mln dolarów.",
+      "date_published": "2026-02-26T20:27:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bogucki-Relacje-prezydenta-Nawrockiego-z-prezesem-Kaczynskim-sa-bardzo-dobre-9089892.html",
       "url": "https://www.bankier.pl/wiadomosc/Bogucki-Relacje-prezydenta-Nawrockiego-z-prezesem-Kaczynskim-sa-bardzo-dobre-9089892.html",
       "title": "Bogucki: Relacje prezydenta Nawrockiego z prezesem Kaczyńskim są bardzo dobre",
@@ -688,20 +702,6 @@
       "title": "Salesforce wyda 50 mld dolarów na wykup akcji, ale rozczarował prognozami przychodów",
       "content_html": "Amerykański producent oprogramowania Salesforce zobowiązał się do wydania 50 mld USD na wykup akcji własnych, ale prognoza przychodów spółki rozczarowała inwestorów. W efekcie jej akcje spadają w handlu pozasesyjnym prawie 4 proc.",
       "date_published": "2026-02-26T08:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Waloryzacja-limitu-podatkowego-Ministerstwo-Finansow-chce-podniesc-prog-zwolnienia-9089321.html",
-      "url": "https://www.bankier.pl/wiadomosc/Waloryzacja-limitu-podatkowego-Ministerstwo-Finansow-chce-podniesc-prog-zwolnienia-9089321.html",
-      "title": "Sprzedaż do 3 tys. zł bez PCC? Rząd chce podnieść limit zwolnienia z podatku",
-      "content_html": "Ministerstwo Finansów planuje zmianę w podatku od czynności cywilnoprawnych. Limit zwolnienia z PCC przy sprzedaży rzeczy ruchomych ma wzrosnąć z 1000 zł do 3000 zł. Resort argumentuje, że obecne przepisy są nieefektywne fiskalnie, a koszty...",
-      "date_published": "2026-02-26T08:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
-      "title": "Rynki reagują na wyniki Nvidii. Inwestorzy liczyli na więcej?",
-      "content_html": "Nvidia zaprezentowała w środę wyniki, które ponownie przekroczyły oczekiwania analityków, lecz wczesna reakcja rynków pozwala sądzić, że apetyt był jeszcze większy. Akcje giganta z branży półprzewodników ruszyły w górę w handlu posesyjnym...",
-      "date_published": "2026-02-26T08:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
