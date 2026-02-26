@@ -4,11 +4,74 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-Izraela-na-osiem-baz-Hezbollahu-Rosnie-napiecie-na-Bliskim-Wschodzie-9089869.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-Izraela-na-osiem-baz-Hezbollahu-Rosnie-napiecie-na-Bliskim-Wschodzie-9089869.html",
+      "title": "Atak Izraela na osiem baz Hezbollahu. Rośnie napięcie na Bliskim Wschodzie",
+      "content_html": "Izraelska armia ogłosiła w czwartek, że zaatakowała osiem baz wojskowych Hezbollahu położonych we wschodnim Libanie. W atakach zginął nastolatek, a jedna osoba została ranna - przekazało libańskie ministerstwo zdrowia. Na Bliskim Wschodzie...",
+      "date_published": "2026-02-26T19:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaria-PKO-BP-Nie-dziala-iPKO-Inteligo-aplikacja-IKO-9089746.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaria-PKO-BP-Nie-dziala-iPKO-Inteligo-aplikacja-IKO-9089746.html",
+      "title": "Awaria PKO BP zakończona. Klienci nie mieli dostępu do kont",
+      "content_html": "Klienci największego w Polsce Banku PKO BP od późnego popołudnia borykali się z brakiem dostępu do kont. Jak potwierdzili przedstawiciele banku, nie działała zarówno bankowość internetowa, jak i aplikacja mobilna. Awarię udało się usunąć...",
+      "date_published": "2026-02-26T19:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-mBanku-rekomenduje-niewyplacanie-dywidendy-za-2025-r-zgodnie-z-polityka-dywidendy-9089866.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-mBanku-rekomenduje-niewyplacanie-dywidendy-za-2025-r-zgodnie-z-polityka-dywidendy-9089866.html",
+      "title": "Zarząd mBanku rekomenduje niewypłacanie dywidendy za 2025 r., zgodnie z polityką dywidendy",
+      "content_html": "Zarząd mBanku rekomenduje ZWZ niewypłacanie dywidendy za 2025 r. - podał bank w komunikacie. Brak wypłaty dywidendy wynika z polityki dywidendy przyjętej na 2025 r.",
+      "date_published": "2026-02-26T19:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-sprzedadza-Kubie-wenezuelska-rope-Wladze-zapowiedzialy-licencje-9089856.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-sprzedadza-Kubie-wenezuelska-rope-Wladze-zapowiedzialy-licencje-9089856.html",
+      "title": "USA sprzedadzą Kubie wenezuelską ropę? Władze zapowiedziały licencje",
+      "content_html": "Biuro Kontroli Aktywów Zagranicznych (OFAC) ministerstwa finansów USA ogłosiło, że wyda licencje firmom, które chcą reeksportować wenezuelską ropę na Kubę. Zaznaczyło, że umowy muszą „wspierać naród kubański” i nie mogą obejmować...",
+      "date_published": "2026-02-26T18:53:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-BGK-wchodzi-na-Ukraine-Przelomowa-decyzja-parlamentu-w-Kijowie-9089578.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-BGK-wchodzi-na-Ukraine-Przelomowa-decyzja-parlamentu-w-Kijowie-9089578.html",
+      "title": "Bank BGK wchodzi na Ukrainę. Przełomowa decyzja parlamentu w Kijowie",
+      "content_html": "Rada Najwyższa (parlament) Ukrainy ratyfikowała umowę z rządem RP o działalności Banku Gospodarstwa Krajowego (BGK) w Ukrainie - poinformowano w czwartek na stronie internetowej parlamentu. Dokument tworzy podstawy prawne funkcjonowania banku i...",
+      "date_published": "2026-02-26T18:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojsko-USA-wycofuje-personel-z-kluczowej-bazy-Powodem-mozliwy-odwet-Iranu-9089846.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojsko-USA-wycofuje-personel-z-kluczowej-bazy-Powodem-mozliwy-odwet-Iranu-9089846.html",
+      "title": "Wojsko USA wycofuje personel z kluczowej bazy. Powodem móżliwy odwet Iranu",
+      "content_html": "Ograniczono liczebność personelu w kwaterze głównej amerykańskiej V Floty w Bahrajnie w związku z możliwymi atakami USA na Iran - podała w czwartek stacja Fox News, powołując się na amerykańskich urzędników.",
+      "date_published": "2026-02-26T18:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Incydent-na-Baltyku-Rosjanie-probowali-szpiegowac-francuski-lotniskowiec-9089641.html",
+      "url": "https://www.bankier.pl/wiadomosc/Incydent-na-Baltyku-Rosjanie-probowali-szpiegowac-francuski-lotniskowiec-9089641.html",
+      "title": "Incydent na Bałtyku. Rosjanie próbowali szpiegować francuski lotniskowiec?",
+      "content_html": "Rosyjski dron zbliżył się do francuskiego lotniskowca o napędzie atomowym Charles de Gaulle, który zacumował w porcie w Malmoe. Bezzałogowiec został unieszkodliwiony przez siły zbrojne Szwecji – podał w czwartek szwedzki nadawca publiczny...",
+      "date_published": "2026-02-26T18:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pieniadze-na-wakacje-dla-rodzin-i-seniorow-Resort-sportu-ujawnil-szczegoly-czeku-turystycznego-9089840.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pieniadze-na-wakacje-dla-rodzin-i-seniorow-Resort-sportu-ujawnil-szczegoly-czeku-turystycznego-9089840.html",
+      "title": "Pieniądze na wakacje dla rodzin i seniorów. Resort sportu zapowiada czek turystyczny",
+      "content_html": "Resort sportu planuje wprowadzenie jesienią w czterech województwach położonych przy wschodniej granicy Polski czeku turystycznego - przekazał wiceminister sportu Ireneusz Raś. Dodał, że liczy na to, iż w perspektywie 2 lat uda się uruchomić...",
+      "date_published": "2026-02-26T18:28:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Text-mial-w-III-kw-2025-26-r-27-9-mln-zl-zysku-netto-j-d-zgodnie-z-konsensusem-9089830.html",
       "url": "https://www.bankier.pl/wiadomosc/Text-mial-w-III-kw-2025-26-r-27-9-mln-zl-zysku-netto-j-d-zgodnie-z-konsensusem-9089830.html",
       "title": "Text miał w III kw. 2025/26 r. 27,9 mln zł zysku netto j.d., zgodnie z konsensusem",
       "content_html": "Text wypracował w III kw. 2025/26 roku 27,9 mln zł zysku netto j.d., a konsensus PAP Biznes zakładał 27,6 mln zł zysku netto. Podano, że spółka pracuje nad rozwojem produktowym, trwają prace nad strategią Go-To-Market.",
       "date_published": "2026-02-26T18:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Blokada-35-stron-internetowych-Francuski-regulator-uderza-w-rosyjska-propagande-9089823.html",
+      "url": "https://www.bankier.pl/wiadomosc/Blokada-35-stron-internetowych-Francuski-regulator-uderza-w-rosyjska-propagande-9089823.html",
+      "title": "Blokada 35 stron internetowych. Francuski regulator uderza w rosyjską propagandę",
+      "content_html": "Francuski regulator mediów Arcom poinformował w czwartek, że polecił zablokowanie 35 stron internetowych mediów rosyjskich, w tym stacji telewizyjnych i radiowych dostępnych przez platformy streamingowe. Decyzja wynika z sankcji przyjętych przez...",
+      "date_published": "2026-02-26T18:12:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zrzutka-bankow-na-BFG-w-gore-Jest-decyzja-na-2026-rok-9089816.html",
@@ -93,13 +156,6 @@
       "title": "Sąd zablokował decyzję służb wobec AfD. W tle rekordowe poparcie partii",
       "content_html": "Federalny Urząd Ochrony Konstytucji (BfV) nie może na razie klasyfikować prawicowo-populistycznej partii Alternatywa dla Niemiec (AfD) jako organizacji ekstremistycznie prawicowej - orzekł w czwartek sąd administracyjny w Kolonii. Jest to decyzja...",
       "date_published": "2026-02-26T17:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Awaria-PKO-BP-Nie-dziala-iPKO-Inteligo-aplikacja-IKO-9089746.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awaria-PKO-BP-Nie-dziala-iPKO-Inteligo-aplikacja-IKO-9089746.html",
-      "title": "Awaria PKO BP. Klienci bez dostępu do kont",
-      "content_html": "Klienci największego w Polsce Banku PKO BP od późnego popołudnia muszą borykać się z brakiem dostępu do kont. Jak potwierdzają przedstawiciele banku, nie działa zarówno bankowość internetowa, jak i aplikacja mobilna.",
-      "date_published": "2026-02-26T16:45:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Intensywne-rozmowy-ostatniej-szansy-Teheran-chce-oddzielic-atom-od-innych-kwestii-9089745.html",
@@ -228,20 +284,6 @@
       "date_published": "2026-02-26T14:16:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/CI-Games-zawarl-umowe-dotyczaca-globalnej-dystrybucji-gry-Lords-of-the-Fallen-II-9089616.html",
-      "url": "https://www.bankier.pl/wiadomosc/CI-Games-zawarl-umowe-dotyczaca-globalnej-dystrybucji-gry-Lords-of-the-Fallen-II-9089616.html",
-      "title": "CI Games zawarł umowę dotyczącą globalnej dystrybucji gry Lords of the Fallen II",
-      "content_html": "CI Games zawarł z austriacką spółką Plaion umowę dotyczącą globalnej dystrybucji gry Lords of the Fallen II - podał CI Games w komunikacie.",
-      "date_published": "2026-02-26T14:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/900-razy-zlamal-embargo-handlu-z-Rosja-Niemieckie-sluzby-zamrozily-majatek-o-niewyobrazalnej-wartosci-9089611.html",
-      "url": "https://www.bankier.pl/wiadomosc/900-razy-zlamal-embargo-handlu-z-Rosja-Niemieckie-sluzby-zamrozily-majatek-o-niewyobrazalnej-wartosci-9089611.html",
-      "title": "900 razy złamał embargo handlu z Rosją. Niemieckie służby reagują",
-      "content_html": "Niemieckie służby aresztowały w Hamburgu przedsiębiorcę, który za pośrednictwem kilku firm sprowadzał z Rosji towary objęte sankcjami UE - informują w czwartek media w Niemczech. Zatrzymany miał naruszać embargo handlowe ponad 900 razy, wartość...",
-      "date_published": "2026-02-26T14:07:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/TSUE-uderza-w-Wegry-Uniemozliwialy-nadawanie-stacji-Klubradio-9089605.html",
       "url": "https://www.bankier.pl/wiadomosc/TSUE-uderza-w-Wegry-Uniemozliwialy-nadawanie-stacji-Klubradio-9089605.html",
       "title": "TSUE uderza w Węgry. Uniemożliwiały nadawanie stacji Klubradio",
@@ -275,13 +317,6 @@
       "title": "Budowa metra w Krakowie. Rząd wyłoży miliardy pod jednym warunkiem",
       "content_html": "Budowa metra w Krakowie uzyskała deklaracje wsparcia finansowego ze strony rządowej – podali uczestnicy posiedzenia parlamentarnego zespołu ds. budowy metra w Krakowie. Według nich środki na ten cel miałyby pochodzić m.in. z przyszłej perspektywy...",
       "date_published": "2026-02-26T13:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bank-BGK-wchodzi-na-Ukraine-Przelomowa-decyzja-parlamentu-w-Kijowie-9089578.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bank-BGK-wchodzi-na-Ukraine-Przelomowa-decyzja-parlamentu-w-Kijowie-9089578.html",
-      "title": "Bank BGK wchodzi na Ukrainę. Przełomowa decyzja parlamentu w Kijowie",
-      "content_html": "Rada Najwyższa (parlament) Ukrainy ratyfikowała umowę z rządem RP o działalności Banku Gospodarstwa Krajowego (BGK) w Ukrainie - poinformowano w czwartek na stronie internetowej parlamentu. Dokument tworzy podstawy prawne funkcjonowania banku i...",
-      "date_published": "2026-02-26T13:45:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/POLSTR-tylko-dla-nowych-kredytow-Prezes-ZBP-o-losach-obecnych-portfeli-9089575.html",
@@ -653,48 +688,6 @@
       "title": "UE zakaże utylizacji butów i odzieży. Handlowcy apelują o zniesienie VAT od darowizn",
       "content_html": "Komisja Europejska wypowiada wojnę marnotrawstwu niesprzedanej odzieży i obuwia. Od lipca 2026 r. duże firmy odzieżowe nie będą mogły legalnie niszczyć zapasów -- pisze w czwartek „Dziennik Gazeta Prawna”.",
       "date_published": "2026-02-26T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-trwa-oczekiwanie-na-ozywienie-popytu-w-Chinach-9089328.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-trwa-oczekiwanie-na-ozywienie-popytu-w-Chinach-9089328.html",
-      "title": "Ceny miedzi w Londynie spadają; trwa oczekiwanie na ożywienie popytu w Chinach",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają podczas czwartkowego handlu, a inwestorzy czekają na ożywienie popytu na metal w Chinach, które zużywają najwięcej metali bazowych na świecie - informują maklerzy.",
-      "date_published": "2026-02-26T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ZEA-zbuduja-osiedla-w-Strefie-Gazy-Odbudowa-pod-kontrola-Izraela-9089257.html",
-      "url": "https://www.bankier.pl/wiadomosc/ZEA-zbuduja-osiedla-w-Strefie-Gazy-Odbudowa-pod-kontrola-Izraela-9089257.html",
-      "title": "ZEA zbudują osiedla w Strefie Gazy? Odbudowa pod kontrolą Izraela",
-      "content_html": "Zjednoczone Emiraty Arabskie sfinansują budowę osiedla dla przesiedlonych Palestyńczyków w części Strefy Gazy kontrolowanej przez Izrael – podał w środę Reuters. Projekt ma być sygnałem rozpoczęcia odbudowy Strefy Gazy bez czekania na wycofanie...",
-      "date_published": "2026-02-26T07:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Magyar-Orban-stosuje-terror-Rzad-wywoluje-psychoze-wojenna-i-chce-strachu-9089245.html",
-      "url": "https://www.bankier.pl/wiadomosc/Magyar-Orban-stosuje-terror-Rzad-wywoluje-psychoze-wojenna-i-chce-strachu-9089245.html",
-      "title": "Magyar: Orban stosuje terror. Rząd wywołuje psychozę wojenną i chce strachu",
-      "content_html": "Każdy, kto obserwuje działania rządu Węgier, widzi, że stosuje on terror psychologiczny wobec własnego narodu - powiedział w środę lider węgierskiej opozycji Peter Magyar. Wcześniej tego dnia premier Viktor Orban ostrzegł przed możliwymi...",
-      "date_published": "2026-02-26T07:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Serbia-przedluza-gazowy-pakt-z-Moskwa-Rosyjski-surowiec-niezastapiony-dla-Belgradu-9089249.html",
-      "url": "https://www.bankier.pl/wiadomosc/Serbia-przedluza-gazowy-pakt-z-Moskwa-Rosyjski-surowiec-niezastapiony-dla-Belgradu-9089249.html",
-      "title": "Serbia przedłuża gazowy pakt z Moskwą. Rosyjski surowiec \"niezastąpiony\" dla Belgradu",
-      "content_html": "Prezes serbskiej państwowej spółki gazowej Srbijagas, Duszan Bajatović, oświadczył w środę, że umowa na dostawy rosyjskiego gazu, która wygasa 31 marca, zostanie przedłużona o sześć miesięcy. Bajatović dodał, że rola Rosji w zaopatrywaniu...",
-      "date_published": "2026-02-26T07:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zalesiali-Madere-tylko-na-papierze-Milionowe-wyludzenia-z-budzetu-UE-9089260.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zalesiali-Madere-tylko-na-papierze-Milionowe-wyludzenia-z-budzetu-UE-9089260.html",
-      "title": "Zalesiali Maderę tylko na papierze? Milionowe wyłudzenia z budżetu UE",
-      "content_html": "Portugalska policja we współpracy z Prokuraturą Europejską przeprowadziła w środę obławę na grupę osób i firmy, które podejrzane są o wyłudzenie z budżetu UE co najmniej 3,6 mln euro, zatrzymano pięć osób.",
-      "date_published": "2026-02-26T07:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-faworyzowania-prokuratorow-Zdalna-rozprawa-wniosek-kazdej-ze-stron-9089264.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-faworyzowania-prokuratorow-Zdalna-rozprawa-wniosek-kazdej-ze-stron-9089264.html",
-      "title": "Koniec faworyzowania prokuratorów. Zdalna rozprawa wniosek każdej ze stron",
-      "content_html": "Nie tylko prokuratorzy, lecz także obrońcy będą mogli uczestniczyć w rozprawach na odległość – przewiduje projekt, nad którym kończy prace Ministerstwo Sprawiedliwości - informuje w czwartek „Rzeczpospolita”.",
-      "date_published": "2026-02-26T07:26:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
