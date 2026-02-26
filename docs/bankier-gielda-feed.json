@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
+      "title": "Ailleron miał w IV kw. 2025 r. 7,7 mln zł zysku netto j.d. Ailleron miał w czwartym kwartale 2025 roku 7,7 mln zł zysku netto jednostki dominującej - podała spółka w raporcie. Z kolei zysk operacyjny spółki w tym okresie wyniósł 20,99 mln zł wobec oczekiwań analityków w przedziale od 14,6 mln zł do 17,5 mln zł.",
+      "content_html": "",
+      "date_published": "2026-02-26T20:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zarzad-mBanku-rekomenduje-niewyplacanie-dywidendy-za-2025-r-zgodnie-z-polityka-dywidendy-9089866.html",
       "url": "https://www.bankier.pl/wiadomosc/Zarzad-mBanku-rekomenduje-niewyplacanie-dywidendy-za-2025-r-zgodnie-z-polityka-dywidendy-9089866.html",
       "title": "Zarząd mBanku rekomenduje niewypłacanie dywidendy za 2025 r., zgodnie z polityką dywidendy Zarząd mBanku rekomenduje ZWZ niewypłacanie dywidendy za 2025 r. - podał bank w komunikacie. Brak wypłaty dywidendy wynika z polityki dywidendy przyjętej na 2025 r.",
@@ -464,20 +471,6 @@
       "title": "Raz w górę, raz w dół. Tym razem S&P500 skończył na zielono Tym razem S&P500 i spółka zakończyli dzień na umiarkowanych plusach. Ton zwyżkom nadawali producenci chipów oraz odbijające po niedawnej przecenie akcje spółek informatycznych.",
       "content_html": "",
       "date_published": "2026-02-24T22:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Unimot-szacuje-ze-w-IV-kw-25-miala-105-mln-zl-skorygowanej-EBITDA-9088578.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Unimot-szacuje-ze-w-IV-kw-25-miala-105-mln-zl-skorygowanej-EBITDA-9088578.html",
-      "title": "Grupa Unimot szacuje, że w IV kw. '25 miała 105 mln zł skorygowanej EBITDA Grupa Unimot szacuje, że w IV kwartale 2025 roku miała 105 mln zł skorygowanej EBITDA, wobec 75 mln zł w analogicznym okresie 2024 roku - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-24T20:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Morgan-Stanley-zadebiutowal-na-GPW-jako-nowy-emitent-obligacji-strukturyzowanych-9088575.html",
-      "url": "https://www.bankier.pl/wiadomosc/Morgan-Stanley-zadebiutowal-na-GPW-jako-nowy-emitent-obligacji-strukturyzowanych-9088575.html",
-      "title": "Morgan Stanley zadebiutował na GPW jako nowy emitent obligacji strukturyzowanych Na Głównym Rynku Giełdy Papierów Wartościowych w Warszawie rozpoczął się obrót czterema obligacjami strukturyzowanymi wyemitowanymi przez Morgan Stanley - podała GPW w komunikacie prasowym. Morgan Stanley jest siódmym emitentem produktów strukturyzowanych notowanych na warszawskiej Giełdzie.",
-      "content_html": "",
-      "date_published": "2026-02-24T20:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
