@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-T-Mobile-Polska-wzrosly-o-3-7-proc-rdr-EBITDA-AL-o-7-4-proc-w-2025-roku-9089428.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-T-Mobile-Polska-wzrosly-o-3-7-proc-rdr-EBITDA-AL-o-7-4-proc-w-2025-roku-9089428.html",
+      "title": "Przychody T-Mobile Polska wzrosły o 3,7 proc. rdr, EBITDA AL o 7,4 proc. w 2025 roku Całkowite przychody T-Mobile Polska w 2025 roku wzrosły o 3,7 proc. rok do roku, do 7,52 mld zł, a wynik EBITDA po kosztach leasingu (EBITDA AL) zwiększył się o 7,4 proc. do 2,02 mld zł - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-02-26T10:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-zlecil-przeszukanie-w-Allegro-dot-postepowania-wyjasniajacego-ws-naruszania-konkurencji-opis-9089415.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-zlecil-przeszukanie-w-Allegro-dot-postepowania-wyjasniajacego-ws-naruszania-konkurencji-opis-9089415.html",
+      "title": "Niespodziewana kontrola policji w Allegro. UOKiK grozi karą do 10 proc. obrotu Prezes UOKiK zlecił przeszukanie, które za zgodą sądu i w asyście policji odbyło się w siedzibie Allegro w Poznaniu oraz w biurach w Warszawie - podał Urząd w komunikacie. Działania prowadzone były w ramach postępowania wyjaśniającego w sprawie możliwego naruszenia reguł konkurencji przez spółkę.",
+      "content_html": "",
+      "date_published": "2026-02-26T10:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-AB-obserwuje-ozywienie-rynkowe-9089366.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-AB-obserwuje-ozywienie-rynkowe-9089366.html",
       "title": "Grupa AB obserwuje ożywienie rynkowe Grupa AB obserwuje ożywienie rynkowe zarówno w realizacji przetargów publicznych, jak również w popycie płynącym z pozostałych segmentów rynkowych, w tym ze strony inwestycji korporacyjnych - podała spółka w komunikacie prasowym.",
@@ -429,27 +443,6 @@
       "title": "Baterie, które ustabilizują sieć. GAZ Energy z gigantycznym planem GAZ Energy, europejski dostawca wielkoskalowych bateryjnych magazynów energii, realizuje oraz przygotowuje projekty BESS o łącznej pojemności ponad 1 GWh w Europie Środkowej, w tym w Polsce - podała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-02-24T12:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Alior-liczy-ze-w-26-rezerwy-na-kredyty-walutowe-nie-wzrosna-rdr-planuje-sprzedaz-NPL-9088203.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alior-liczy-ze-w-26-rezerwy-na-kredyty-walutowe-nie-wzrosna-rdr-planuje-sprzedaz-NPL-9088203.html",
-      "title": "Alior zakłada stabilne rezerwy walutowe w 2026 i sprzedaż NPL Alior Bank liczy, że w 2026 roku rezerwy na kredyty walutowe nie będą wyższe niż w 2025 roku, bank planuje w tym roku dalsze sprzedaże portfeli NPL - poinformowali we wtorek przedstawiciele banku.",
-      "content_html": "",
-      "date_published": "2026-02-24T10:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polskie-banki-gotowe-na-inwestycje-Potencjal-dodatkowego-finansowania-to-ponad-460-mld-zl-9088198.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polskie-banki-gotowe-na-inwestycje-Potencjal-dodatkowego-finansowania-to-ponad-460-mld-zl-9088198.html",
-      "title": "Polskie banki gotowe na inwestycje. Potencjał dodatkowego finansowania to ponad 460 mld zł Polski sektor bankowy ma obecnie potencjał do dodatkowego wzrostu finansowania na poziomie ponad 460 miliardów złotych - ocenia prezes Związku Banków Polskich Tadeusz Białek.",
-      "content_html": "",
-      "date_published": "2026-02-24T10:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-podpisal-umowe-flotowa-z-grupa-Strabag-9088195.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-podpisal-umowe-flotowa-z-grupa-Strabag-9088195.html",
-      "title": "Orlen podpisał umowę flotową z grupą Strabag Orlen podpisał umowę flotową z grupą Strabag - podał Orlen w komunikacie prasowym. Kontrakt obejmuje kompleksową obsługę ponad trzech tysięcy nowych użytkowników na terenie całej Polski.",
-      "content_html": "",
-      "date_published": "2026-02-24T10:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
