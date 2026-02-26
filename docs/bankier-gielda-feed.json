@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Domy-maklerskie-pod-kreska-w-dzialalnosci-podstawowej-Wynik-ratuja-instrumenty-finansowe-9089319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domy-maklerskie-pod-kreska-w-dzialalnosci-podstawowej-Wynik-ratuja-instrumenty-finansowe-9089319.html",
+      "title": "KNF Domy maklerskie pod kreską w działalności podstawowej. Wynik ratują instrumenty finansowe Branża domów maklerskich miała po czterech kwartałach 2025 roku 806,9 mln zł zysku netto wobec 1.017,1 mln zł zysku rok wcześniej - wynika z danych publikowanych przez KNF.",
+      "content_html": "",
+      "date_published": "2026-02-26T08:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Pepco-uruchamia-aplikacje-mobilna-dla-marki-Pepco-9089363.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Pepco-uruchamia-aplikacje-mobilna-dla-marki-Pepco-9089363.html",
+      "title": "Grupa Pepco uruchamia aplikację mobilną dla marki Pepco Grupa Pepco uruchamia aplikację mobilną dla marki Pepco - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-02-26T08:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Salesforce-wyda-50-mld-dolarow-na-wykup-akcji-ale-rozczarowal-prognozami-przychodow-9089232.html",
+      "url": "https://www.bankier.pl/wiadomosc/Salesforce-wyda-50-mld-dolarow-na-wykup-akcji-ale-rozczarowal-prognozami-przychodow-9089232.html",
+      "title": "Salesforce wyda 50 mld dolarów na wykup akcji, ale rozczarował prognozami przychodów Amerykański producent oprogramowania Salesforce zobowiązał się do wydania 50 mld USD na wykup akcji własnych, ale prognoza przychodów spółki rozczarowała inwestorów. W efekcie jej akcje spadają w handlu pozasesyjnym prawie 4 proc.",
+      "content_html": "",
+      "date_published": "2026-02-26T08:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mieszana-reakcja-akcji-zloto-i-bitcoin-w-gore-Rynki-po-wynikach-Nvidii-9089312.html",
+      "title": "Rynki reagują na wyniki Nvidii. Inwestorzy liczyli na więcej? Nvidia zaprezentowała w środę wyniki, które ponownie przekroczyły oczekiwania analityków, lecz wczesna reakcja rynków pozwala sądzić, że apetyt był jeszcze większy. Akcje giganta z branży półprzewodników ruszyły w górę w handlu posesyjnym, po czym spadły. Kontrakty futures na indeksy S&P500 i Nasdaq podzieliły ten los.",
+      "content_html": "",
+      "date_published": "2026-02-26T08:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
+      "title": "Paweł Wojtunik wchodzi do zarządu Orlenu. Były szef CBA zajmie się bezpieczeństwem Rada nadzorcza Orlenu powołała w środę Pawła Wojtunika na członka zarządu spółki ds. bezpieczeństwa i ryzyka - poinformował koncern w raporcie giełdowym. Wojtunik w latach 2009-2015 był szefem Centralnego Biura Antykorupcyjnego (CBA).",
+      "content_html": "",
+      "date_published": "2026-02-26T07:59:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-IV-kw-25-wyniosl-1-474-mln-zl-oczekiwano-1-519-mln-zl-9089292.html",
       "title": "WYNIKI Słabszy kwartał giganta. Zysk netto PZU spadł o 26 proc. Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w czwartym kwartale 2025 roku spadł do 1.474 mln zł z 1.681 mln zł rok wcześniej - poinformował w czwartek ubezpieczyciel. Konsensus PAP Biznes zakładał wypracowanie zysku na poziomie 1.519 mln zł.",
@@ -74,13 +109,6 @@
       "date_published": "2026-02-25T19:20:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-wejdzie-do-zarzadu-Orlenu-9089140.html",
-      "title": "Paweł Wojtunik wejdzie do zarządu Orlenu Rada nadzorcza Orlenu powołała Pawła Wojtunika na stanowisko członka zarządu ds. bezpieczeństwa i ryzyka - poinformował płocki koncern w komunikacie. Do zarządu wejdzie dzień po zakończeniu walnego zgromadzenia Orlenu zatwierdzającego sprawozdanie finansowe za 2025 rok.",
-      "content_html": "",
-      "date_published": "2026-02-25T18:52:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/KGHM-chce-uporzadkowac-grupe-bedzie-monitorowac-opcje-rozwoju-za-granica-prezes-9089135.html",
       "url": "https://www.bankier.pl/wiadomosc/KGHM-chce-uporzadkowac-grupe-bedzie-monitorowac-opcje-rozwoju-za-granica-prezes-9089135.html",
       "title": "KGHM chce uporządkować grupę. Monitorowanie opcje rozwoju za granicą KGHM chce uporządkować nadzór merytoryczny nad spółkami z grupy, planuje monitorować rynki zagraniczne pod kątem rozwoju - poinformował nowy prezes KGHM, Remigiusz Paszkiewicz.",
@@ -88,16 +116,16 @@
       "date_published": "2026-02-25T18:48:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
-      "title": "Roszady na szczytach spółek. Prezes Orlenu odchodzi z Energi Ireneusz Fąfara, prezes Orlenu, złożył rezygnację ze składu rady nadzorczej Energi i z funkcji jej przewodniczącego - poinformował gdański koncern energetyczny w komunikacie. Z rady nadzorczej odszedł też członek zarządu Orlenu Sławomir Staszak.",
+      "id": "https://www.bankier.pl/wiadomosc/Porozumienie-placowe-w-KGHM-zaklada-wzrost-stawek-plac-zasadniczych-o-6-8-proc-9089011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Porozumienie-placowe-w-KGHM-zaklada-wzrost-stawek-plac-zasadniczych-o-6-8-proc-9089011.html",
+      "title": "Miedziowy gigant podnosi pensje. Ważna decyzja dla załogi KGHM na 2026 rok KGHM Polska Miedź oraz organizacje związkowe uzgodniły porozumienie dotyczące warunków płacowych; pracownicy otrzymają podwyżkę stawek płac zasadniczych o 6,8 proc. od 1 stycznia br. - poinformowała spółka w środę w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-25T18:22:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Porozumienie-placowe-w-KGHM-zaklada-wzrost-stawek-plac-zasadniczych-o-6-8-proc-9089011.html",
-      "url": "https://www.bankier.pl/wiadomosc/Porozumienie-placowe-w-KGHM-zaklada-wzrost-stawek-plac-zasadniczych-o-6-8-proc-9089011.html",
-      "title": "Miedziowy gigant podnosi pensje. Ważna decyzja dla załogi KGHM na 2026 rok KGHM Polska Miedź oraz organizacje związkowe uzgodniły porozumienie dotyczące warunków płacowych; pracownicy otrzymają podwyżkę stawek płac zasadniczych o 6,8 proc. od 1 stycznia br. - poinformowała spółka w środę w komunikacie.",
+      "id": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
+      "title": "Roszady na szczytach spółek. Prezes Orlenu odchodzi z Energi Ireneusz Fąfara, prezes Orlenu, złożył rezygnację ze składu rady nadzorczej Energi i z funkcji jej przewodniczącego - poinformował gdański koncern energetyczny w komunikacie. Z rady nadzorczej odszedł też członek zarządu Orlenu Sławomir Staszak.",
       "content_html": "",
       "date_published": "2026-02-25T18:22:00+01:00"
     },
@@ -415,13 +443,6 @@
       "title": "Orlen podpisał umowę flotową z grupą Strabag Orlen podpisał umowę flotową z grupą Strabag - podał Orlen w komunikacie prasowym. Kontrakt obejmuje kompleksową obsługę ponad trzech tysięcy nowych użytkowników na terenie całej Polski.",
       "content_html": "",
       "date_published": "2026-02-24T10:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/XTPL-ma-umowe-o-partnerstwie-strategicznym-z-Manz-Asia-9088140.html",
-      "url": "https://www.bankier.pl/wiadomosc/XTPL-ma-umowe-o-partnerstwie-strategicznym-z-Manz-Asia-9088140.html",
-      "title": "XTPL ma umowę o partnerstwie strategicznym z Manz Asia XTPL zawarł umowę o partnerstwie strategicznym z firmą Manz Asia z Tajwanu - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-24T08:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
