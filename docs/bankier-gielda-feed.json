@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Apator-mial-w-IV-kw-39-4-mln-zl-EBITDA-wobec-konsensusu-43-2-mln-zl-9090523.html",
+      "url": "https://www.bankier.pl/wiadomosc/Apator-mial-w-IV-kw-39-4-mln-zl-EBITDA-wobec-konsensusu-43-2-mln-zl-9090523.html",
+      "title": "Apator miał w IV kw. 39,4 mln zł EBITDA, wobec konsensusu 43,2 mln zł Apator miał w IV kwartale 2025 roku 39,4 mln zł EBITDA - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk netto j.d. w tym okresie wyniósł 26 mln zł wobec 17,3 mln zł rok wcześniej. Analitycy oczekiwali 43,2 mln zł EBITDA oraz 23,4 mln zł zysku netto j.d.",
+      "content_html": "",
+      "date_published": "2026-02-27T19:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-II-kw-2025-26-wyniosl-24-mln-USD-9090521.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-II-kw-2025-26-wyniosl-24-mln-USD-9090521.html",
+      "title": "Zysk netto Kernel Holding w II kw. 2025/26 wyniósł 24 mln USD Zysk netto j.d. Kernel Holding w II kwartale roku obrotowego 2025/26 wyniósł 24 mln USD wobec 56 mln USD rok wcześniej - podała spółka w raporcie.",
+      "content_html": "",
+      "date_published": "2026-02-27T19:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-stwierdzil-ze-Santander-BP-moze-wyplacic-dywidende-w-wys-do-75-proc-zysku-netto-za-25-9090517.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-stwierdzil-ze-Santander-BP-moze-wyplacic-dywidende-w-wys-do-75-proc-zysku-netto-za-25-9090517.html",
+      "title": "KNF stwierdził, że Santander BP może wypłacić dywidendę w wys. do 75 proc. zysku netto za '25 KNF po uwzględnieniu jakości portfela kredytowego Santander Bank Polska, mierzonego udziałem należności niepracujących w łącznym portfelu należności sektora niefinansowego, z uwzględnieniem instrumentów dłużnych, stopa możliwej wypłaty dywidendy, z uwagi na dobrą jakość kredytową, została podwyższona do 75 proc. - podał bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-27T19:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/mcr-po-trzech-kwartalach-roku-2025-26-mial-10-4-mln-zl-zysku-EBITDA-9090499.html",
+      "url": "https://www.bankier.pl/wiadomosc/mcr-po-trzech-kwartalach-roku-2025-26-mial-10-4-mln-zl-zysku-EBITDA-9090499.html",
+      "title": "mcr po trzech kwartałach roku 2025/26 miał 10,4 mln zł zysku EBITDA Grupa mcr po trzech kwartałach roku obrotowego 2025/2026 (kwiecień - grudzień 2025 r.) miała 10,4 mln zł zysku EBITDA, stratę operacyjną na poziomie 2,7 mln zł, przychody w wysokości 322,5 mln zł oraz 163,4 mln zł zysku netto - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-27T18:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-skierowalo-wniosek-o-przedluzenie-terminu-zlozenia-ostatecznej-propozycji-ukladowej-do-30-IV-9090417.html",
       "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-skierowalo-wniosek-o-przedluzenie-terminu-zlozenia-ostatecznej-propozycji-ukladowej-do-30-IV-9090417.html",
       "title": "PKP Cargo gra na czas. Spółka przesuwa kluczowy termin dla wierzycieli PKP Cargo skierowało wniosek do sędziego-komisarza o przedłużenie terminu na złożenie ostatecznej treści propozycji układowych do dnia 30 kwietnia 2026 roku - podała spółka w komunikacie.",
@@ -436,20 +464,6 @@
       "title": "Zysk netto AB wzrósł o 42 proc. w I kw. 2025/26 Zysk netto grupy AB w pierwszym kwartale roku obrotowego 2025/26 wzrósł o 42 proc., do 94,6 mln zł - poinformowała spółka w komunikacie. Wynik jest o 27 proc. wyższy od konsensusu PAP Biznes.",
       "content_html": "",
       "date_published": "2026-02-25T19:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-I-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9089166.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-I-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9089166.html",
-      "title": "Wyniki AB w I kwartale 2025/26 vs konsensus PAP Biznes (tabela) Poniżej przedstawiono wyniki AB w pierwszym kwartale 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
-      "content_html": "",
-      "date_published": "2026-02-25T19:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KGHM-chce-uporzadkowac-grupe-bedzie-monitorowac-opcje-rozwoju-za-granica-prezes-9089135.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGHM-chce-uporzadkowac-grupe-bedzie-monitorowac-opcje-rozwoju-za-granica-prezes-9089135.html",
-      "title": "KGHM chce uporządkować grupę. Monitorowanie opcje rozwoju za granicą KGHM chce uporządkować nadzór merytoryczny nad spółkami z grupy, planuje monitorować rynki zagraniczne pod kątem rozwoju - poinformował nowy prezes KGHM, Remigiusz Paszkiewicz.",
-      "content_html": "",
-      "date_published": "2026-02-25T18:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
