@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-skierowalo-wniosek-o-przedluzenie-terminu-zlozenia-ostatecznej-propozycji-ukladowej-do-30-IV-9090417.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-skierowalo-wniosek-o-przedluzenie-terminu-zlozenia-ostatecznej-propozycji-ukladowej-do-30-IV-9090417.html",
+      "title": "PKP Cargo skierowało wniosek o przedłużenie terminu złożenia ostatecznej propozycji układowej do 30 IV PKP Cargo skierowało wniosek do sędziego-komisarza o przedłużenie terminu na złożenie ostatecznej treści propozycji układowych do dnia 30 kwietnia 2026 roku - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-27T16:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Redukcja-w-zaproszeniu-Action-do-sprzedazy-akcji-wlasnych-wyniosla-91-34-proc-9090408.html",
       "url": "https://www.bankier.pl/wiadomosc/Redukcja-w-zaproszeniu-Action-do-sprzedazy-akcji-wlasnych-wyniosla-91-34-proc-9090408.html",
       "title": "Redukcja w zaproszeniu Action do sprzedaży akcji własnych wyniosła 91,34 proc. Redukcja w zaproszeniu Action do składania ofert sprzedaży do 1 mln akcji własnych w cenie 35 zł/szt., wyniosła 91,34 proc., co oznacza, że stopa alokacji wyniosła 8,66 proc. - podała spółka w komunikacie.",
@@ -424,13 +431,6 @@
       "date_published": "2026-02-25T18:48:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
-      "title": "Roszady na szczytach spółek. Prezes Orlenu odchodzi z Energi Ireneusz Fąfara, prezes Orlenu, złożył rezygnację ze składu rady nadzorczej Energi i z funkcji jej przewodniczącego - poinformował gdański koncern energetyczny w komunikacie. Z rady nadzorczej odszedł też członek zarządu Orlenu Sławomir Staszak.",
-      "content_html": "",
-      "date_published": "2026-02-25T18:22:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Porozumienie-placowe-w-KGHM-zaklada-wzrost-stawek-plac-zasadniczych-o-6-8-proc-9089011.html",
       "url": "https://www.bankier.pl/wiadomosc/Porozumienie-placowe-w-KGHM-zaklada-wzrost-stawek-plac-zasadniczych-o-6-8-proc-9089011.html",
       "title": "Miedziowy gigant podnosi pensje. Ważna decyzja dla załogi KGHM na 2026 rok KGHM Polska Miedź oraz organizacje związkowe uzgodniły porozumienie dotyczące warunków płacowych; pracownicy otrzymają podwyżkę stawek płac zasadniczych o 6,8 proc. od 1 stycznia br. - poinformowała spółka w środę w komunikacie.",
@@ -438,39 +438,11 @@
       "date_published": "2026-02-25T18:22:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nowe-szczyt-hossy-WIG20-Warszawa-i-Budapeszt-najmocniejszymi-gieldami-w-Europie-9089078.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-szczyt-hossy-WIG20-Warszawa-i-Budapeszt-najmocniejszymi-gieldami-w-Europie-9089078.html",
-      "title": "Nowe szczyt hossy WIG20. Sentyment idealny, aby go popsuć Zdecydowana poprawa nastrojów na GPW zaprowadziła WIG20 na szczyt hossy. Patrząc przez pryzmat głównych indeksów europejskich giełd Warszawa, obok Budapesztu była najsilniejszym parkietem na Starym Kontynencie, choć w Paryżu czy Londynie, także obserwowano wzrosty i nowe historyczne maksima, do których coraz bliżej ma także niemiecki DAX. Sentyment jest więc idelny do tego, aby go nagle popsuć, np. najbardziej wyczekiwanym raportem finansowym.",
+      "id": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ireneusz-Fafara-i-Slawomir-Staszak-zlozyli-rezygnacje-z-rady-nadzorczej-Energi-9089114.html",
+      "title": "Roszady na szczytach spółek. Prezes Orlenu odchodzi z Energi Ireneusz Fąfara, prezes Orlenu, złożył rezygnację ze składu rady nadzorczej Energi i z funkcji jej przewodniczącego - poinformował gdański koncern energetyczny w komunikacie. Z rady nadzorczej odszedł też członek zarządu Orlenu Sławomir Staszak.",
       "content_html": "",
-      "date_published": "2026-02-25T17:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-South-Eastern-Europe-w-IV-kw-2025-roku-vs-konsensus-PAP-Biznes-tabela-9089076.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-South-Eastern-Europe-w-IV-kw-2025-roku-vs-konsensus-PAP-Biznes-tabela-9089076.html",
-      "title": "Wyniki Asseco South Eastern Europe w IV kw. 2025 roku vs. konsensus (tabela) Poniżej przedstawiono wyniki Asseco South Eastern Europe w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes i do poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-02-25T17:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-84-5-mln-zl-najkorzystniejsza-w-przetargu-na-dostawe-i-wdrozenie-macierzy-9089069.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Wasko-za-84-5-mln-zl-najkorzystniejsza-w-przetargu-na-dostawe-i-wdrozenie-macierzy-9089069.html",
-      "title": "Oferta Wasko najkorzystniejsza w przetargu na dostawę i wdrożenie macierzy Oferta Wasko za 84,5 mln zł została wybrana przez Centrum Informatyki Resortu Finansów jako najkorzystniejsza w przetargu na dostawę i wdrożenie dwóch macierzy blokowego systemu składowania danych typu 1 - poinformowało Wasko w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-25T17:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GPW-rozszerza-oferte-o-nowy-typ-instrumentow-ETN-9089056.html",
-      "url": "https://www.bankier.pl/wiadomosc/GPW-rozszerza-oferte-o-nowy-typ-instrumentow-ETN-9089056.html",
-      "title": "GPW rozszerza ofertę o nowy typ instrumentów ETN Na Giełdzie Papierów Wartościowych w Warszawie zadebiutował nowy typ instrumentów – ETN. Są to pierwsze w Polsce produkty oparte na fizycznie zabezpieczonych aktywach cyfrowych, emitowane przez szwedzką spółkę Virtune AB (Publ).",
-      "content_html": "",
-      "date_published": "2026-02-25T16:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Katarzyna-Woznicka-objela-stanowisko-CEO-Kino-Polska-popr-9089038.html",
-      "url": "https://www.bankier.pl/wiadomosc/Katarzyna-Woznicka-objela-stanowisko-CEO-Kino-Polska-popr-9089038.html",
-      "title": "Katarzyna Woźnicka objęła stanowisko CEO Kino Polska Katarzyna Woźnicka objęła stanowisko CEO grupy Kino Polska - podała spółka w komunikacie prasowym. Z kolei Patrycja Gałązka-Struzik objęła funkcję dyrektorki ds. operacyjnych (COO).",
-      "content_html": "",
-      "date_published": "2026-02-25T16:38:00+01:00"
+      "date_published": "2026-02-25T18:22:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
