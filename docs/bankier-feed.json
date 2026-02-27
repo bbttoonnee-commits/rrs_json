@@ -4,9 +4,37 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/AmRest-zaklada-na-26-sredni-jednocyfrowy-wzrost-sprzedazy-i-EBITDA-opis-9090067.html",
+      "url": "https://www.bankier.pl/wiadomosc/AmRest-zaklada-na-26-sredni-jednocyfrowy-wzrost-sprzedazy-i-EBITDA-opis-9090067.html",
+      "title": "AmRest zakłada na '26 średni jednocyfrowy wzrost sprzedaży i EBITDA (opis)",
+      "content_html": "Grupa AmRest zakłada na 2026 rok średni jednocyfrowy wzrost sprzedaży i wyniku EBITDA - poinformowała spółka w prezentacji.",
+      "date_published": "2026-02-27T09:12:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-I-do-26-75-proc-UTK-9090061.html",
+      "url": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-I-do-26-75-proc-UTK-9090061.html",
+      "title": "Udział PKP Cargo w rynku przewiezionych towarów wg masy spadł rdr po I do 26,75 proc.",
+      "content_html": "Udział PKP Cargo w rynku przewiezionych towarów według masy spadł po styczniu do 26,75 proc. całego rynku wobec 28,43 proc. po styczniu 2025 roku - podał Urząd Transportu Kolejowego.",
+      "date_published": "2026-02-27T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Dekpol-szacuje-ze-w-25-miala-104-mln-zysku-netto-9090055.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Dekpol-szacuje-ze-w-25-miala-104-mln-zysku-netto-9090055.html",
+      "title": "Grupa Dekpol szacuje, że w '25 miała 104 mln zysku netto",
+      "content_html": "Grupa Dekpol szacuje, że w 2025 roku miała 104 mln zł zysku netto, przychody ze sprzedaży na poziomie 1.840 mln zł, a wskaźnik EBITDA wyniósł 173 mln zł - podała spółka w komunikacie.",
+      "date_published": "2026-02-27T08:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bunt-giganta-AI-Anthropic-odrzuca-ultimatum-Pentagonu-w-sprawie-robotow-zabojcow-9089964.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bunt-giganta-AI-Anthropic-odrzuca-ultimatum-Pentagonu-w-sprawie-robotow-zabojcow-9089964.html",
+      "title": "Bunt giganta AI. Anthropic odrzuca ultimatum Pentagonu w sprawie \"robotów-zabójców",
+      "content_html": "Firma Anthropic, twórca czołowego modelu AI Claude, odrzuciła w czwartek ultimatum Pentagonu, który żądał porzucenia przez firmę ograniczeń na użytek swoich modelów do masowej inwigilacji Amerykanów i w autonomicznej broni. Pentagon grozi...",
+      "date_published": "2026-02-27T08:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-IV-kw-2025-r-vs-konsensus-PAP-tabela-popr-9090043.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-IV-kw-2025-r-vs-konsensus-PAP-tabela-popr-9090043.html",
-      "title": "Wyniki AmRestu w IV kw. 2025 r. vs konsensus PAP (tabela, popr.)",
+      "title": "AmRest zakłada na '26 średni jednocyfrowy wzrost sprzedaży i EBITDA",
       "content_html": "Poniżej przedstawiono wyniki AmRestu w czwartym kwartale 2025 roku zgodnie z wyliczeniami PAP Biznes i ich odniesienie do konsensusu PAP oraz do wyników poprzednich okresów.",
       "date_published": "2026-02-27T08:32:00+01:00"
     },
@@ -67,6 +95,13 @@
       "date_published": "2026-02-27T08:01:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-znow-spotka-sie-z-Kimem-Bialy-Dom-gotow-na-rozmowy-bez-warunkow-wstepnych-9089970.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-znow-spotka-sie-z-Kimem-Bialy-Dom-gotow-na-rozmowy-bez-warunkow-wstepnych-9089970.html",
+      "title": "Trump znów spotka się z Kimem? Biały Dom gotów na rozmowy \"bez warunków wstępnych\"",
+      "content_html": "Prezydent Donald Trump pozostaje otwarty na dialog z przywódcą Korei Północnej Kim Dzong Unem „bez żadnych warunków wstępnych” – podała w piątek południowokoreańska agencja Yonhap, cytując urzędnika Białego Domu. To odpowiedź na sygnały...",
+      "date_published": "2026-02-27T08:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Medycy-ruszyli-do-Legionu-Setki-ochotnikow-w-nowym-projekcie-MON-9089982.html",
       "url": "https://www.bankier.pl/wiadomosc/Medycy-ruszyli-do-Legionu-Setki-ochotnikow-w-nowym-projekcie-MON-9089982.html",
       "title": "Medycy ruszyli do Legionu. Setki ochotników w nowym projekcie MON",
@@ -104,16 +139,9 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Dekarbonizacja-traci-impet-Polska-i-Europa-wola-chronic-przemysl-9089965.html",
       "url": "https://www.bankier.pl/wiadomosc/Dekarbonizacja-traci-impet-Polska-i-Europa-wola-chronic-przemysl-9089965.html",
-      "title": "Dekarbonizacja traci impet, Polska i Europa wolą chronić przemysł",
+      "title": "Dekarbonizacja traci impet. Polska i Europa wolą chronić przemysł",
       "content_html": "Europejski przemysł czeka na Industrial Accelerator Act (IAA), który ma wesprzeć konkurencyjność, ale prace się przedłużają. Polskie firmy apelują o zachęty inwestycyjne i ochronę rynku, bo bez tego trudno utrzymać produkcję w Europie -...",
       "date_published": "2026-02-27T07:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kupujesz-samochod-Przygotuj-sie-na-30-rabaty-Rynek-pod-presja-Chin-9089967.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kupujesz-samochod-Przygotuj-sie-na-30-rabaty-Rynek-pod-presja-Chin-9089967.html",
-      "title": "Kupujesz samochód? Przygotuj się na 30% rabaty. Rynek pod presją Chin",
-      "content_html": "Kupujący samochody skorzystają na problemach europejskich producentów ze spadkami sprzedaży i agresywną chińską konkurencją. Koncerny są zmuszone mocniej walczyć o klienta, m.in. wysokimi rabatami - pisze w piątkowym wydaniu „Rzeczpospolita\"...",
-      "date_published": "2026-02-27T07:22:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-budowlance-od-1-marca-Sadowa-mediacja-stanie-sie-niemal-przymusowa-9089968.html",
@@ -235,6 +263,13 @@
       "date_published": "2026-02-26T20:42:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tajne-rozmowy-na-Karaibach-Amerykanie-spotkali-sie-z-wnukiem-Raula-Castro-9089897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajne-rozmowy-na-Karaibach-Amerykanie-spotkali-sie-z-wnukiem-Raula-Castro-9089897.html",
+      "title": "Tajne rozmowy na Karaibach? Amerykanie spotkali się z wnukiem Raula Castro",
+      "content_html": "Przedstawiciele władz USA zbliżeni do sekretarza stanu Marca Rubio spotkali się z wnukiem byłego lidera kubańskiego Raula Castro na marginesie konferencji wspólnoty karaibskiej CARICOM, która odbywa się w państwie Saint Kitts i Nevis – poinformował...",
+      "date_published": "2026-02-26T20:35:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
       "url": "https://www.bankier.pl/wiadomosc/Ailleron-mial-w-IV-kw-2025-r-7-7-mln-zl-zysku-netto-j-d-9089896.html",
       "title": "Ailleron miał w IV kw. 2025 r. 7,7 mln zł zysku netto j.d.",
@@ -282,6 +317,41 @@
       "title": "Atak Izraela na osiem baz Hezbollahu. Rośnie napięcie na Bliskim Wschodzie",
       "content_html": "Izraelska armia ogłosiła w czwartek, że zaatakowała osiem baz wojskowych Hezbollahu położonych we wschodnim Libanie. W atakach zginął nastolatek, a jedna osoba została ranna - przekazało libańskie ministerstwo zdrowia. Na Bliskim Wschodzie...",
       "date_published": "2026-02-26T19:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaria-PKO-BP-Nie-dziala-iPKO-Inteligo-aplikacja-IKO-9089746.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaria-PKO-BP-Nie-dziala-iPKO-Inteligo-aplikacja-IKO-9089746.html",
+      "title": "Awaria PKO BP zakończona. Klienci nie mieli dostępu do kont",
+      "content_html": "Klienci największego w Polsce Banku PKO BP od późnego popołudnia borykali się z brakiem dostępu do kont. Jak potwierdzili przedstawiciele banku, nie działała zarówno bankowość internetowa, jak i aplikacja mobilna. Awarię udało się usunąć...",
+      "date_published": "2026-02-26T19:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-mBanku-rekomenduje-niewyplacanie-dywidendy-za-2025-r-zgodnie-z-polityka-dywidendy-9089866.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-mBanku-rekomenduje-niewyplacanie-dywidendy-za-2025-r-zgodnie-z-polityka-dywidendy-9089866.html",
+      "title": "Zarząd mBanku rekomenduje niewypłacanie dywidendy za 2025 r., zgodnie z polityką dywidendy",
+      "content_html": "Zarząd mBanku rekomenduje ZWZ niewypłacanie dywidendy za 2025 r. - podał bank w komunikacie. Brak wypłaty dywidendy wynika z polityki dywidendy przyjętej na 2025 r.",
+      "date_published": "2026-02-26T19:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-sprzedadza-Kubie-wenezuelska-rope-Wladze-zapowiedzialy-licencje-9089856.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-sprzedadza-Kubie-wenezuelska-rope-Wladze-zapowiedzialy-licencje-9089856.html",
+      "title": "USA sprzedadzą Kubie wenezuelską ropę? Władze zapowiedziały licencje",
+      "content_html": "Biuro Kontroli Aktywów Zagranicznych (OFAC) ministerstwa finansów USA ogłosiło, że wyda licencje firmom, które chcą reeksportować wenezuelską ropę na Kubę. Zaznaczyło, że umowy muszą „wspierać naród kubański” i nie mogą obejmować...",
+      "date_published": "2026-02-26T18:53:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-BGK-wchodzi-na-Ukraine-Przelomowa-decyzja-parlamentu-w-Kijowie-9089578.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-BGK-wchodzi-na-Ukraine-Przelomowa-decyzja-parlamentu-w-Kijowie-9089578.html",
+      "title": "Bank BGK wchodzi na Ukrainę. Przełomowa decyzja parlamentu w Kijowie",
+      "content_html": "Rada Najwyższa (parlament) Ukrainy ratyfikowała umowę z rządem RP o działalności Banku Gospodarstwa Krajowego (BGK) w Ukrainie - poinformowano w czwartek na stronie internetowej parlamentu. Dokument tworzy podstawy prawne funkcjonowania banku i...",
+      "date_published": "2026-02-26T18:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojsko-USA-wycofuje-personel-z-kluczowej-bazy-Powodem-mozliwy-odwet-Iranu-9089846.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojsko-USA-wycofuje-personel-z-kluczowej-bazy-Powodem-mozliwy-odwet-Iranu-9089846.html",
+      "title": "Wojsko USA wycofuje personel z kluczowej bazy. Powodem móżliwy odwet Iranu",
+      "content_html": "Ograniczono liczebność personelu w kwaterze głównej amerykańskiej V Floty w Bahrajnie w związku z możliwymi atakami USA na Iran - podała w czwartek stacja Fox News, powołując się na amerykańskich urzędników.",
+      "date_published": "2026-02-26T18:37:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Incydent-na-Baltyku-Rosjanie-probowali-szpiegowac-francuski-lotniskowiec-9089641.html",
@@ -632,41 +702,6 @@
       "title": "Frustracja Trumpa. \"Włożył w pokój zbyt dużo, by zrozumieć dlaczego go nie ma\"",
       "content_html": "Prezydent USA Donald Trump włożył wiele wysiłku w proces pokojowy i nie rozumie, dlaczego Kijów i Moskwa nie mogą zakończyć trwającej wojny - powiedział w środę sekretarz stanu USA Marco Rubio. Słowa te padły przed zaplanowanymi na czwartek...",
       "date_published": "2026-02-26T12:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PZU-przygotowuje-sie-na-sytuacje-gdy-reorganizacja-grupy-nie-bedzie-mozliwa-9089513.html",
-      "url": "https://www.bankier.pl/wiadomosc/PZU-przygotowuje-sie-na-sytuacje-gdy-reorganizacja-grupy-nie-bedzie-mozliwa-9089513.html",
-      "title": "Wielka fuzja PZU i Pekao opóźniona. Ubezpieczyciel szykuje się na plan B",
-      "content_html": "PZU prowadzi prace nad reorganizacją całej grupy, jednak przygotowuje się także do sytuacji, gdy okaże się, że jest to niemożliwe. Ubezpieczyciel będzie wówczas koncentrować się na realizacji obecnej strategii, co umożliwić ma kontynuację...",
-      "date_published": "2026-02-26T12:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Asseco-SEE-na-2026-r-wynosi-289-5-mln-euro-9089516.html",
-      "url": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Asseco-SEE-na-2026-r-wynosi-289-5-mln-euro-9089516.html",
-      "title": "Portfel zamówień grupy Asseco SEE na 2026 r. wynosi 289,5 mln euro",
-      "content_html": "Portfel zamówień grupy Asseco South Eastern, łącznie z Payten, na 2026 r. wynosi 289,5 mln euro, co oznacza wzrost o 5 proc. rdr - poinformowali przedstawiciele spółki na konferencji prasowej. Portfel zamówień grupy na I kw. 2026 r. wynosi natomiast...",
-      "date_published": "2026-02-26T12:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stop-darmowym-uprawnieniom-i-spekulacji-Minister-Finansow-o-receptach-na-kryzys-przemyslu-9089489.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stop-darmowym-uprawnieniom-i-spekulacji-Minister-Finansow-o-receptach-na-kryzys-przemyslu-9089489.html",
-      "title": "Stop darmowym uprawnieniom i spekulacji. Minister Finansów o receptach na kryzys przemysłu",
-      "content_html": "Przed europejskim przemysłem stoją potężne wyzwania; musimy przywrócić konkurencyjność tego przemysłu, ale żeby to zrobić, musimy przede wszystkim obniżyć ceny energii - powiedział w czwartek w Brukseli minister finansów Andrzej Domański...",
-      "date_published": "2026-02-26T12:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontrola-NIK-w-Sluzbie-Wieziennej-wykazala-nieprawidlowosci-sprawa-zgloszona-do-prokuratury-9089491.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrola-NIK-w-Sluzbie-Wieziennej-wykazala-nieprawidlowosci-sprawa-zgloszona-do-prokuratury-9089491.html",
-      "title": "Kontrola NIK w Służbie Więziennej wykazała nieprawidłowości, sprawa zgłoszona do prokuratury",
-      "content_html": "Najwyższa Izba Kontroli przeprowadziła kontrolę w Służbie Więziennej dotyczącą inwestycji finansowanych z Funduszu Aktywizacji Zawodowej Skazanych oraz Rozwoju Przywięziennych Zakładów Pracy. Kontrola ujawniła znaczące nieprawidłowości...",
-      "date_published": "2026-02-26T12:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UOKiK-zlecil-przeszukanie-w-Allegro-dot-postepowania-wyjasniajacego-ws-naruszania-konkurencji-opis-9089415.html",
-      "url": "https://www.bankier.pl/wiadomosc/UOKiK-zlecil-przeszukanie-w-Allegro-dot-postepowania-wyjasniajacego-ws-naruszania-konkurencji-opis-9089415.html",
-      "title": "Kontrola policji i UOKiK w Allegro. Gigant e-commerce odpowiada",
-      "content_html": "Prezes UOKiK zlecił przeszukanie, które za zgodą sądu i w asyście policji odbyło się w siedzibie Allegro w Poznaniu oraz w biurach w Warszawie - podał Urząd w komunikacie. Działania prowadzone były w ramach postępowania wyjaśniającego w...",
-      "date_published": "2026-02-26T12:13:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
