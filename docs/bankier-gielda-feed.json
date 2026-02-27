@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bloober-Team-w-projekcie-programu-motywacyjnego-zaklada-500-mln-zl-EBITDA-w-latach-26-29-9090546.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bloober-Team-w-projekcie-programu-motywacyjnego-zaklada-500-mln-zl-EBITDA-w-latach-26-29-9090546.html",
+      "title": "Bloober Team w projekcie programu motywacyjnego zakłada 500 mln zł EBITDA w latach 26-29 Bloober Team w projekcie programu motywacyjnego na lata 2026-2029 zakłada dwa komponenty - pierwszy to osiągnięcie kapitalizacji na poziomie 1,2 mld zł w latach 2026-2028, drugi - skumulowany zysk EBITDA w wysokości 500 mln zł w latach 2026-2029 - wynika z projektu uchwały na walne zwołane na 26 marca.",
+      "content_html": "",
+      "date_published": "2026-02-27T20:16:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Apator-mial-w-IV-kw-39-4-mln-zl-EBITDA-wobec-konsensusu-43-2-mln-zl-9090523.html",
       "url": "https://www.bankier.pl/wiadomosc/Apator-mial-w-IV-kw-39-4-mln-zl-EBITDA-wobec-konsensusu-43-2-mln-zl-9090523.html",
       "title": "Apator miał w IV kw. 39,4 mln zł EBITDA, wobec konsensusu 43,2 mln zł Apator miał w IV kwartale 2025 roku 39,4 mln zł EBITDA - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk netto j.d. w tym okresie wyniósł 26 mln zł wobec 17,3 mln zł rok wcześniej. Analitycy oczekiwali 43,2 mln zł EBITDA oraz 23,4 mln zł zysku netto j.d.",
@@ -443,27 +450,6 @@
       "title": "Nvidia nokautuje prognozy. Imperium AI warte tyle, co gospodarka Niemiec Wyniki koncernu Nvidia w czwartym kwartale 2025 roku okazały się lepsze od oczekiwań analityków, a trwający cały czas boom na sztuczną inteligencję zwiększył przychody koncernu z centrów danych o 75 proc.",
       "content_html": "",
       "date_published": "2026-02-25T22:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-chce-by-Energa-przeprowadzila-emisje-akcji-z-zachowaniem-prawa-poboru-9089193.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-chce-by-Energa-przeprowadzila-emisje-akcji-z-zachowaniem-prawa-poboru-9089193.html",
-      "title": "Orlen chce, by Energa przeprowadziła emisję akcji z zachowaniem prawa poboru Orlen zwrócił się do zarządu Energi z wnioskiem o zwołanie nadzwyczajnego walnego zgromadzenia z punktem dotyczącym uchwały o podwyższeniu kapitału spółki w drodze emisji akcji o wartości 5,106 mld zł w trybie subskrypcji zamkniętej z zachowaniem prawa poboru - poinformował Orlen w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-25T20:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-z-eksportu-i-plany-na-GPW-Adam-Leszkiewicz-o-przyszlosci-PGZ-9089188.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-z-eksportu-i-plany-na-GPW-Adam-Leszkiewicz-o-przyszlosci-PGZ-9089188.html",
-      "title": "Miliardy z eksportu i plany na GPW. Adam Leszkiewicz o przyszłości PGZ Prezes Polskiej Grupy Zbrojeniowej Adam Leszkiewicz poinformował, że widzi szanse, które mogłyby prowadzić do wejścia spółki na warszawską giełdę, ale zaznacza, że jest to decyzja właścicieli.",
-      "content_html": "",
-      "date_published": "2026-02-25T19:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-AB-w-I-kwartale-2025-26-wzrosl-do-94-6-mln-zl-powyzej-konsensusu-9089179.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-AB-w-I-kwartale-2025-26-wzrosl-do-94-6-mln-zl-powyzej-konsensusu-9089179.html",
-      "title": "Zysk netto AB wzrósł o 42 proc. w I kw. 2025/26 Zysk netto grupy AB w pierwszym kwartale roku obrotowego 2025/26 wzrósł o 42 proc., do 94,6 mln zł - poinformowała spółka w komunikacie. Wynik jest o 27 proc. wyższy od konsensusu PAP Biznes.",
-      "content_html": "",
-      "date_published": "2026-02-25T19:42:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
