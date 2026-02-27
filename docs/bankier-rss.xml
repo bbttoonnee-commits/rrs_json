@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Fri, 27 Feb 2026 22:08:00 +0100</lastBuildDate>
-    <item>
-      <title>Janusz Krypto: słownik wyrazów obcych i kryptowalutowy alfabet grozy</title>
-      <link>https://www.bankier.pl/wiadomosc/Janusz-Krypto-slownik-wyrazow-obcych-i-kryptowalutowy-alfabet-grozy-9087394.html</link>
-      <description>"Wujek, niby wieloryby akumulują, ale ulica też łapie FOMO. Ja tam HODL-uję" - stwierdził mój siostrzeniec Paweł, gdy spytałem go pół roku temu, jak tam te jego bitcoiny. Zrozumieliście coś z tego? Bo ja tyle, że chyba będzie chciał za...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Janusz-Krypto-slownik-wyrazow-obcych-i-kryptowalutowy-alfabet-grozy-9087394.html</guid>
-      <pubDate>Fri, 27 Feb 2026 06:00:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Paramount wygrywa wyścig po Warner Bros. Netflix wycofał się z walki</title>
-      <link>https://www.bankier.pl/wiadomosc/Paramount-wygrywa-wyscig-po-Warner-Bros-Netflix-wycofal-sie-z-walki-9089949.html</link>
-      <description>Zarząd Warner Bros. Discovery formalnie uznał w czwartek nową ofertę wykupu spółki przez Paramount Skydance za lepszą od tej złożonej przez Netflixa. Potentat streamingu ma teraz cztery dni na złożenie nowej propozycji. Jeśli transakcja zostanie...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Paramount-wygrywa-wyscig-po-Warner-Bros-Netflix-wycofal-sie-z-walki-9089949.html</guid>
-      <pubDate>Fri, 27 Feb 2026 07:01:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Rewolucja w budowlance od 1 marca. Sądowa mediacja stanie się niemal przymusowa?</title>
-      <link>https://www.bankier.pl/wiadomosc/Rewolucja-w-budowlance-od-1-marca-Sadowa-mediacja-stanie-sie-niemal-przymusowa-9089968.html</link>
-      <description>Wchodzące w życie 1 marca regulacje zachęcą, a w praktyce przymuszą przedsiębiorców z branży budowlanej do tego, by konflikty próbowali rozstrzygać w drodze mediacji - informuje piątkowa „Rzeczpospolita".</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rewolucja-w-budowlance-od-1-marca-Sadowa-mediacja-stanie-sie-niemal-przymusowa-9089968.html</guid>
-      <pubDate>Fri, 27 Feb 2026 07:19:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Fri, 27 Feb 2026 23:43:00 +0100</lastBuildDate>
     <item>
       <title>Kupujesz samochód? Przygotuj się na 30% rabaty. Rynek pod presją Chin</title>
       <link>https://www.bankier.pl/wiadomosc/Kupujesz-samochod-Przygotuj-sie-na-30-rabaty-Rynek-pod-presja-Chin-9089967.html</link>
@@ -703,11 +682,25 @@
       <pubDate>Fri, 27 Feb 2026 20:50:00 +0100</pubDate>
     </item>
     <item>
-      <title>Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji</title>
+      <title>Fitch nie zmienia oceny Polski. Perspektywa ratingu nadal negatywna</title>
+      <link>https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html</link>
+      <description>Agencja Fitch Ratings potwierdziła w piątek wieczorem długoterminowy rating Polski w walucie obcej na poziomie "A-" z perspektywą negatywną - podała agencja w komunikacie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html</guid>
+      <pubDate>Fri, 27 Feb 2026 23:37:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Niepewność na Wall Street: Inflacja, zwolnienia i znaki zapytania wokół AI</title>
+      <link>https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html</link>
+      <description>Piątkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Akcje spadły po tym, jak najnowsze dane dotyczące wskaźnika cen producenta, który jest kluczowym miernikiem inflacji, okazały się wyższe od oczekiwań.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html</guid>
+      <pubDate>Fri, 27 Feb 2026 23:37:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Grupa Allegro sprzedała swoją działalność w Słowenii i Chorwacji</title>
       <link>https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html</link>
       <description>Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html</guid>
-      <pubDate>Fri, 27 Feb 2026 22:08:00 +0100</pubDate>
+      <pubDate>Fri, 27 Feb 2026 23:43:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

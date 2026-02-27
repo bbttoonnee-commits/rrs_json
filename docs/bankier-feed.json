@@ -6,9 +6,23 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
-      "title": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji",
+      "title": "Grupa Allegro sprzedała swoją działalność w Słowenii i Chorwacji",
       "content_html": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.",
-      "date_published": "2026-02-27T22:08:00+01:00"
+      "date_published": "2026-02-27T23:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html",
+      "title": "Niepewność na Wall Street: Inflacja, zwolnienia i znaki zapytania wokół AI",
+      "content_html": "Piątkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Akcje spadły po tym, jak najnowsze dane dotyczące wskaźnika cen producenta, który jest kluczowym miernikiem inflacji, okazały się wyższe od oczekiwań.",
+      "date_published": "2026-02-27T23:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html",
+      "title": "Fitch nie zmienia oceny Polski. Perspektywa ratingu nadal negatywna",
+      "content_html": "Agencja Fitch Ratings potwierdziła w piątek wieczorem długoterminowy rating Polski w walucie obcej na poziomie \"A-\" z perspektywą negatywną - podała agencja w komunikacie.",
+      "date_published": "2026-02-27T23:37:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ksiezyc-musi-poczekac-NASA-przesuwa-termin-zalogowej-misji-9090460.html",
@@ -681,27 +695,6 @@
       "title": "Kupujesz samochód? Przygotuj się na 30% rabaty. Rynek pod presją Chin",
       "content_html": "Kupujący samochody skorzystają na problemach europejskich producentów ze spadkami sprzedaży i agresywną chińską konkurencją. Koncerny są zmuszone mocniej walczyć o klienta, m.in. wysokimi rabatami - pisze w piątkowym wydaniu „Rzeczpospolita\"...",
       "date_published": "2026-02-27T07:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-budowlance-od-1-marca-Sadowa-mediacja-stanie-sie-niemal-przymusowa-9089968.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-budowlance-od-1-marca-Sadowa-mediacja-stanie-sie-niemal-przymusowa-9089968.html",
-      "title": "Rewolucja w budowlance od 1 marca. Sądowa mediacja stanie się niemal przymusowa?",
-      "content_html": "Wchodzące w życie 1 marca regulacje zachęcą, a w praktyce przymuszą przedsiębiorców z branży budowlanej do tego, by konflikty próbowali rozstrzygać w drodze mediacji - informuje piątkowa „Rzeczpospolita\".",
-      "date_published": "2026-02-27T07:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paramount-wygrywa-wyscig-po-Warner-Bros-Netflix-wycofal-sie-z-walki-9089949.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paramount-wygrywa-wyscig-po-Warner-Bros-Netflix-wycofal-sie-z-walki-9089949.html",
-      "title": "Paramount wygrywa wyścig po Warner Bros. Netflix wycofał się z walki",
-      "content_html": "Zarząd Warner Bros. Discovery formalnie uznał w czwartek nową ofertę wykupu spółki przez Paramount Skydance za lepszą od tej złożonej przez Netflixa. Potentat streamingu ma teraz cztery dni na złożenie nowej propozycji. Jeśli transakcja zostanie...",
-      "date_published": "2026-02-27T07:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-slownik-wyrazow-obcych-i-kryptowalutowy-alfabet-grozy-9087394.html",
-      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-slownik-wyrazow-obcych-i-kryptowalutowy-alfabet-grozy-9087394.html",
-      "title": "Janusz Krypto: słownik wyrazów obcych i kryptowalutowy alfabet grozy",
-      "content_html": "\"Wujek, niby wieloryby akumulują, ale ulica też łapie FOMO. Ja tam HODL-uję\" - stwierdził mój siostrzeniec Paweł, gdy spytałem go pół roku temu, jak tam te jego bitcoiny. Zrozumieliście coś z tego? Bo ja tyle, że chyba będzie chciał za...",
-      "date_published": "2026-02-27T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
