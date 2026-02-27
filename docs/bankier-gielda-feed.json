@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/UniCredit-chce-za-25-wyplacic-1-7208-euro-dywidendy-na-akcje-9090106.html",
+      "url": "https://www.bankier.pl/wiadomosc/UniCredit-chce-za-25-wyplacic-1-7208-euro-dywidendy-na-akcje-9090106.html",
+      "title": "UniCredit chce za '25 wypłacić 1,7208 euro dywidendy na akcję UniCredit proponuje wypłatę dywidendy za 2025 r. w wysokości 1,7208 euro na akcję, czyli maksymalnie łącznie ok. 2,58 mld euro - podał UniCredit w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-02-27T10:12:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-cene-docelowa-akcji-AB-do-126-zl-9090100.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-cene-docelowa-akcji-AB-do-126-zl-9090100.html",
+      "title": "DM BOŚ podwyższył cenę docelową akcji AB do 126 zł Analitycy DM BOŚ, w raporcie z 20 lutego, obniżyli rekomendację dla AB z \"kupuj\" do \"trzymaj\" oraz podwyższyli wycenę akcji spółki w horyzoncie 12-miesięcznym do 126 zł z 116,2 zł wcześniej.",
+      "content_html": "",
+      "date_published": "2026-02-27T10:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Asbisu-do-44-6-zl-9090088.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Asbisu-do-44-6-zl-9090088.html",
+      "title": "DM BOŚ podwyższył wycenę akcji Asbisu do 44,6 zł Analitycy DM BOŚ, w raporcie z 19 lutego, podwyższyli wycenę akcji Asbisu w horyzoncie 12-miesięcznym do 44,6 zł z 34,8 zł wcześniej, utrzymując rekomendację \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-02-27T09:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-I-do-26-75-proc-UTK-9090061.html",
       "url": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-I-do-26-75-proc-UTK-9090061.html",
       "title": "Udział PKP Cargo w rynku przewiezionych towarów wg masy spadł rdr po I do 26,75 proc. Udział PKP Cargo w rynku przewiezionych towarów według masy spadł po styczniu do 26,75 proc. całego rynku wobec 28,43 proc. po styczniu 2025 roku - podał Urząd Transportu Kolejowego.",
@@ -436,13 +457,6 @@
       "title": "Grupa JSW dokona odpisu w wysokości ponad 1,19 mld zł dot. segmentu koksowego Wyniki przeprowadzonych testów wskazały na utratę wartości aktywów trwałych w segmencie koksowym grupy JSW w łącznej wysokości 1.194,6 mln zł, a dokonanie odpisu pomniejszy wynik operacyjny JSW Koks, a także grupy JSW, ale nie wpłynie na sytuację płynnościową - podała JSW w komunikacie.",
       "content_html": "",
       "date_published": "2026-02-25T11:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/TDJ-Estate-kupi-grunt-w-Warszawie-Powstanie-tam-ok-250-mieszkan-9088761.html",
-      "url": "https://www.bankier.pl/wiadomosc/TDJ-Estate-kupi-grunt-w-Warszawie-Powstanie-tam-ok-250-mieszkan-9088761.html",
-      "title": "TDJ Estate kupi grunt w Warszawie. Powstanie tam ok. 250 mieszkań TDJ Estate zawarł warunkową przedwstępną umowę zakupu gruntu na warszawskiej Białołęce. Wartość transakcji wynosi 41 mln zł. Nabycie nieruchomości umożliwi realizację inwestycji mieszkaniowej obejmującej ok. 250 lokali - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-02-25T09:56:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
