@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ailleron-skupi-sie-na-ekspansji-produktu-LiveBank-w-Ameryce-Polnocnej-i-Poludniowej-9090167.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ailleron-skupi-sie-na-ekspansji-produktu-LiveBank-w-Ameryce-Polnocnej-i-Poludniowej-9090167.html",
+      "title": "Ailleron skupi się na ekspansji produktu LiveBank w Ameryce Północnej i Południowej Ailleron skupi się na ekspansji produktu LiveBank w Ameryce Północnej i Południowej w sektorze bankowym - poinformowali przedstawiciele spółki na konferencji prasowej. Grupa Ailleron zakończyła 2025 rok z 580,2 mln zł skonsolidowanych przychodów (+4,2 proc. rdr) oraz 57,8 mln zł zysku netto (+8,8 proc. rdr).",
+      "content_html": "",
+      "date_published": "2026-02-27T11:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kruk-w-26-chce-zainwestowac-w-portfele-2-4-2-8-mld-zl-zaklada-wieksza-aktywnosc-w-Hiszpanii-9090154.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kruk-w-26-chce-zainwestowac-w-portfele-2-4-2-8-mld-zl-zaklada-wieksza-aktywnosc-w-Hiszpanii-9090154.html",
+      "title": "Kruk w '26 chce zainwestować w portfele 2,4-2,8 mld zł; zakłada większą aktywność w Hiszpanii Kruk spodziewa się, że w 2026 roku inwestycje w portfele wierzytelności wzrosną do 2,4-2,8 mld zł; spółka, po czasowym ograniczeniu inwestycji w Hiszpanii, zakłada na tym rynku większą aktywność - poinformował prezes spółki Piotr Krupa.",
+      "content_html": "",
+      "date_published": "2026-02-27T11:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/UniCredit-chce-za-25-wyplacic-1-7208-euro-dywidendy-na-akcje-9090106.html",
       "url": "https://www.bankier.pl/wiadomosc/UniCredit-chce-za-25-wyplacic-1-7208-euro-dywidendy-na-akcje-9090106.html",
       "title": "UniCredit chce za '25 wypłacić 1,7208 euro dywidendy na akcję UniCredit proponuje wypłatę dywidendy za 2025 r. w wysokości 1,7208 euro na akcję, czyli maksymalnie łącznie ok. 2,58 mld euro - podał UniCredit w komunikacie.",
@@ -443,13 +457,6 @@
       "title": "Develia kupiła grunt w Warszawie za ok. 34,5 mln zł brutto Develia zawarła umowę kupna prawa użytkowania wieczystego nieruchomości oraz prawa własności budynków i budowli na nieruchomości położonej w Warszawie przy ulicy Kasprowicza - podała Develia w komunikacie. Cena wyniosła łącznie 28 mln zł netto, czyli ok. 34,5 mln zł brutto.",
       "content_html": "",
       "date_published": "2026-02-25T14:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nizsze-rachunki-za-gaz-Orlen-oglasza-nowy-cennik-9088846.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nizsze-rachunki-za-gaz-Orlen-oglasza-nowy-cennik-9088846.html",
-      "title": "Niższe rachunki za gaz. Orlen ogłasza nowy cennik W środę zaczęła obowiązywać nowa, niższa taryfa cen gazu wprowadzona przez myOrlen, dawny PGNiG Obrót Detaliczny (PGNiG OD). Nowy cennik, który dotyczy 7 mln klientów tej spółki obowiązywać będzie do końca czerwca - poinformował Orlen.",
-      "content_html": "",
-      "date_published": "2026-02-25T12:02:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
