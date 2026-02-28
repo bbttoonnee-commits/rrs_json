@@ -11,6 +11,20 @@
       "date_published": "2026-03-01T10:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zdrajca-czy-geniusz-Walesa-ostro-o-Trumpie-9088000.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zdrajca-czy-geniusz-Walesa-ostro-o-Trumpie-9088000.html",
+      "title": "Zdrajca czy geniusz? Wałęsa ostro o Trumpie",
+      "content_html": "Były prezydent Polski Lech Wałęsa powiedział w wywiadzie dla agencji AFP, że niektórzy uważają prezydenta USA Donalda Trumpa za „zdrajcę”, bo może się wydawać ustępliwy wobec Władimira Putina, ale nie można wykluczyć, iż jest „nadzwyczaj...",
+      "date_published": "2026-02-28T20:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowe-swiadczenie-dla-zapomnianych-ofiar-PRL-Sejmowa-komisja-poparla-zmiany-9089203.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-swiadczenie-dla-zapomnianych-ofiar-PRL-Sejmowa-komisja-poparla-zmiany-9089203.html",
+      "title": "Nowe świadczenie dla zapomnianych ofiar PRL. Sejmowa komisja poparła zmiany",
+      "content_html": "Sejmowa Komisja Polityki Społecznej poparła projekt noweli ustawy o działaczach opozycji antykomunistycznej. Chodzi o przepis, w myśl którego status osoby represjonowanej będzie mogła uzyskać osoba, wobec której sąd dla nieletnich albo sąd...",
+      "date_published": "2026-02-28T20:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Czy-polskie-szpitale-sa-gotowe-na-konflikt-Czas-jest-zasobem-ktory-sie-kurczy-9090638.html",
       "url": "https://www.bankier.pl/wiadomosc/Czy-polskie-szpitale-sa-gotowe-na-konflikt-Czas-jest-zasobem-ktory-sie-kurczy-9090638.html",
       "title": "Czy polskie szpitale są gotowe na konflikt? „Czas jest zasobem, który się kurczy”",
@@ -688,20 +702,6 @@
       "title": "Iran i USA mieszają na polskich stacjach. Diesel przebije barierę 6 zł",
       "content_html": "W przyszłym tygodniu na stacjach paliw należy się spodziewać podwyżek - ocenia portal e-petrol.pl. Jak wskazuje, będzie to efekt wzrostu cen w hurcie.",
       "date_published": "2026-02-27T13:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sygnis-w-wyniku-emisji-akcji-serii-F1-pozyska-7-8-mln-zl-9090252.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sygnis-w-wyniku-emisji-akcji-serii-F1-pozyska-7-8-mln-zl-9090252.html",
-      "title": "Sygnis w wyniku emisji akcji serii F1 pozyska 7,8 mln zł",
-      "content_html": "Zarząd Sygnis podjął uchwałę o podwyższeniu kapitału zakładowego poprzez emisję 5.203.333 akcji serii F1 w ramach subskrypcji prywatnej - podała spółka w komunikacie. Cena emisyjna została ustalona na 1,50 zł za akcję. W wyniku przeprowadzonej...",
-      "date_published": "2026-02-27T13:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przerazajace-doniesienia-z-Iranu-Tysiace-ofiar-protestow-i-liczne-wyroki-smierci-9090242.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przerazajace-doniesienia-z-Iranu-Tysiace-ofiar-protestow-i-liczne-wyroki-smierci-9090242.html",
-      "title": "Przerażające doniesienia z Iranu. Tysiące ofiar protestów i liczne wyroki śmierci",
-      "content_html": "Wysoki Komisarz ONZ ds. Praw Człowieka Volker Tuerk przekazał w piątek, że w tym tygodniu wydano pierwsze wyroki śmierci wobec co najmniej ośmiu osób, w dwóch niepełnoletnich, w związku z masowymi protestami w Iranie. Wezwał także do wprowadzenia...",
-      "date_published": "2026-02-27T13:31:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
