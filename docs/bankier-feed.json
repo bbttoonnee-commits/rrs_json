@@ -11,6 +11,13 @@
       "date_published": "2026-03-01T10:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Widmo-globalnej-recesji-czyli-dlaczego-konflikt-z-Iranem-to-czarny-scenariusz-9090946.html",
+      "url": "https://www.bankier.pl/wiadomosc/Widmo-globalnej-recesji-czyli-dlaczego-konflikt-z-Iranem-to-czarny-scenariusz-9090946.html",
+      "title": "Widmo globalnej recesji, czyli dlaczego konflikt z Iranem to „czarny scenariusz”",
+      "content_html": "Wspólny atak USA i Izraela na członka OPEC, Iran, grozi poważnymi zakłóceniami w dostawach ropy na Bliskim Wschodzie, które w najgorszym przypadku mogą wywołać globalną recesję gospodarczą - pisze CNBC.",
+      "date_published": "2026-03-01T09:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Iran-Panstwowe-media-potwierdzily-smierc-Chameneia-ogloszono-40-dni-zaloby-opis-9090910.html",
       "url": "https://www.bankier.pl/wiadomosc/Iran-Panstwowe-media-potwierdzily-smierc-Chameneia-ogloszono-40-dni-zaloby-opis-9090910.html",
       "title": "Kryzys władzy w Teheranie. Nie żyje ajatollah Chamenei",
@@ -695,13 +702,6 @@
       "title": "Gigantyczny wyciek danych 15 mln Francuzów. Dane pacjentów i polityków trafiły do darknetu",
       "content_html": "Francuskie ministerstwo zdrowia poinformowało w piątek, że podczas cyberataku, do którego doszło pod koniec 2025 roku, wyciekły dane 15 mln obywateli. Chodzi o dane - głównie informacje kontaktowe - pacjentów lekarzy używających oprogramowania...",
       "date_published": "2026-02-27T15:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekabex-zlozyl-do-UOKiK-wniosek-o-koncentracje-spolki-zaleznej-z-Tema-Invest-9090345.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekabex-zlozyl-do-UOKiK-wniosek-o-koncentracje-spolki-zaleznej-z-Tema-Invest-9090345.html",
-      "title": "Pekabex złożył do UOKiK wniosek o koncentrację spółki zależnej z Tema Invest",
-      "content_html": "Pekabex złożył do UOKiK wniosek o koncentrację spółki zależnej - Pekabex Development - z Tema Invest - wynika z wniosku opublikowanego przez Urząd Ochrony Konkurencji i Konsumentów.",
-      "date_published": "2026-02-27T15:14:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
