@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Glodny-pacjent-w-polskim-szpitalu-Niedozywione-pobyty-drozsze-o-12-mld-zl-rocznie-9089580.html",
+      "url": "https://www.bankier.pl/wiadomosc/Glodny-pacjent-w-polskim-szpitalu-Niedozywione-pobyty-drozsze-o-12-mld-zl-rocznie-9089580.html",
+      "title": "Głodny pacjent w polskim szpitalu. \"Niedożywione\" pobyty kosztują o 12 mld zł rocznie więcej",
+      "content_html": "Leczenie żywieniowe w polskich szpitalach przestaje być traktowane jako opcjonalny „dodatek”, a staje się kluczowym priorytetem medycznym. Statystyki są alarmujące: niedożywienie dotyka nawet połowę pacjentów hospitalizowanych, generując...",
+      "date_published": "2026-03-01T13:46:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zlecenie-zabojstwa-za-blokowanie-przejecia-gruntow-Sad-nie-mial-litosci-dla-politykow-9089708.html",
       "url": "https://www.bankier.pl/wiadomosc/Zlecenie-zabojstwa-za-blokowanie-przejecia-gruntow-Sad-nie-mial-litosci-dla-politykow-9089708.html",
       "title": "Zlecenie zabójstwa za blokowanie przejęcia gruntów. Sąd nie miał litości dla polityków",
       "content_html": "Sąd Najwyższy Brazylii skazał dwóch wpływowych polityków na 76 lat więzienia za zlecenie zabójstwa aktywistki i radnej z Rio de Janeiro Marielle Franco oraz jej szofera. Zbrodnia popełniona przez byłych policjantów wstrząsnęła w 2018 roku...",
       "date_published": "2026-03-01T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
+      "title": "Media: Zaatakowano port Dukm w Omanie i tankowiec w cieśninie Ormuz",
+      "content_html": "Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...",
+      "date_published": "2026-03-01T10:48:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kaczynski-dyscyplinuje-PiS-Prezes-Recepta-na-zwyciestwo-jest-jednosc-9090822.html",
@@ -30,13 +44,6 @@
       "title": "Luka płacowa w Polsce: sukces tylko statystyczny?",
       "content_html": "W 2024 r. luka płacowa ze względu na płeć wyniosła w Unii Europejskiej 11,1 proc.; w Polsce – 4 proc. i była jedną z niższych w całej UE – podał w najnowszym komunikacie Eurostat.",
       "date_published": "2026-03-01T10:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
-      "title": "Nowe eksplozje w Dubaju, Katarze i Bahrajnie. Iran atakuje rakietami Izrael",
-      "content_html": "Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...",
-      "date_published": "2026-03-01T10:04:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trwaja-prace-nad-strategia-walki-z-ubostwem-w-UE-Ambitny-cel-to-jego-wyeliminowanie-do-2035-roku-9088087.html",
@@ -142,6 +149,20 @@
       "title": "Otyłość to choroba czy styl życia? \"Przepisy blokują refundację leków\"",
       "content_html": "Leki na otyłość nie są refundowane, gdyż przepisy nie pozwalają na finansowanie terapii, którą można zastąpić zmianą stylu życia - powiedziała wiceminister zdrowia Katarzyna Kęcka na sejmowej Komisji Zdrowia. - Otyłość jest chorobą...",
       "date_published": "2026-03-01T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prywatna-wizyta-u-lekarza-Zaplacisz-nawet-800-zl-9088048.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prywatna-wizyta-u-lekarza-Zaplacisz-nawet-800-zl-9088048.html",
+      "title": "Prywatna wizyta u lekarza? Zapłacisz nawet 800 zł",
+      "content_html": "Wielu pacjentów decyduje się na wizyty prywatne. Ich ceny cały czas rosną, na dodatek różnice między miastami sięgają nawet kilkuset procent - napisała „Gazeta Wyborcza”.",
+      "date_published": "2026-03-01T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sojusz-wyrzutkow-Drony-za-zloto-i-uran-tak-Iran-buduje-antyzachodni-sojusz-w-sercu-Afryki-9088049.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sojusz-wyrzutkow-Drony-za-zloto-i-uran-tak-Iran-buduje-antyzachodni-sojusz-w-sercu-Afryki-9088049.html",
+      "title": "Sojusz wyrzutków? Drony za złoto i uran - tak Iran buduje antyzachodni sojusz w sercu Afryki",
+      "content_html": "Iran nasilił działania dyplomatyczne i wojskowe w Afryce, chcąc pogłębić współpracę obronną z wybranymi krajami Afryki Zachodniej, zwłaszcza z Burkina Faso, któremu oferuje broń i doradztwo wojskowe w zamian za złoto i inne surowce.",
+      "date_published": "2026-03-01T06:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Luka-wodorowa-do-2030-roku-Czy-Polska-zdazy-z-dekarbonizacja-9088090.html",
