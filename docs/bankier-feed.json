@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
+      "title": "Operacja „Epicka Furia”. USA potwierdza śmierć żołnierzy. Iran w chaosie. Ataki na hotele",
+      "content_html": "Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...",
+      "date_published": "2026-03-01T17:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html",
       "url": "https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html",
       "title": "Paraliż w Cieśninie Ormuz. Tankowce stoją, giganci transportowi, w tym MAERSK, wstrzymują kursy",
@@ -114,13 +121,6 @@
       "title": "Turystyczne serce Dubaju w ogniu. Co wiemy o eksplozji w hotelu Fairmont?",
       "content_html": "W dzielnicy Palm Jumeirah w Dubaju w Zjednoczonych Emiratach Arabskich doszło w sobotę po południu do eksplozji w 5-gwiazdowym hotelu Fairmont The Palm. Władze Dubaju poinformowały, że cztery osoby zostały ranne.",
       "date_published": "2026-03-01T11:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
-      "title": "Media: Zaatakowano port Dukm w Omanie i tankowiec w cieśninie Ormuz",
-      "content_html": "Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...",
-      "date_published": "2026-03-01T10:48:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kaczynski-dyscyplinuje-PiS-Prezes-Recepta-na-zwyciestwo-jest-jednosc-9090822.html",

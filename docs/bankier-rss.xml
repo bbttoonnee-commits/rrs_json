@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 01 Mar 2026 16:24:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 17:06:00 +0100</lastBuildDate>
     <item>
       <title>Księżyc musi poczekać. NASA przesuwa termin załogowej misji</title>
       <link>https://www.bankier.pl/wiadomosc/Ksiezyc-musi-poczekac-NASA-przesuwa-termin-zalogowej-misji-9090460.html</link>
@@ -591,13 +591,6 @@
       <pubDate>Sun, 01 Mar 2026 10:36:00 +0100</pubDate>
     </item>
     <item>
-      <title>Media: Zaatakowano port Dukm w Omanie i tankowiec w cieśninie Ormuz</title>
-      <link>https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html</link>
-      <description>Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html</guid>
-      <pubDate>Sun, 01 Mar 2026 10:48:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Turystyczne serce Dubaju w ogniu. Co wiemy o eksplozji w hotelu Fairmont?</title>
       <link>https://www.bankier.pl/wiadomosc/Turystyczne-serce-Dubaju-w-ogniu-Co-wiemy-o-eksplozji-w-hotelu-Fairmont-9090825.html</link>
       <description>W dzielnicy Palm Jumeirah w Dubaju w Zjednoczonych Emiratach Arabskich doszło w sobotę po południu do eksplozji w 5-gwiazdowym hotelu Fairmont The Palm. Władze Dubaju poinformowały, że cztery osoby zostały ranne.</description>
@@ -708,6 +701,13 @@
       <description>Jeden z największych na świecie operatorów kontenerowych, duńska firma MAERSK ogłosiła w niedzielę, że zawiesza kursy przez Cieśninę Ormuz - poinformowała agencja AFP. Wcześniej, z powodu amerykańsko-izraelskiego ataku na Iran, podobne decyzje...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html</guid>
       <pubDate>Sun, 01 Mar 2026 16:24:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Operacja „Epicka Furia”. USA potwierdza śmierć żołnierzy. Iran w chaosie. Ataki na hotele</title>
+      <link>https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html</link>
+      <description>Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html</guid>
+      <pubDate>Sun, 01 Mar 2026 17:06:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
