@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 01 Mar 2026 17:06:00 +0100</lastBuildDate>
-    <item>
-      <title>Księżyc musi poczekać. NASA przesuwa termin załogowej misji</title>
-      <link>https://www.bankier.pl/wiadomosc/Ksiezyc-musi-poczekac-NASA-przesuwa-termin-zalogowej-misji-9090460.html</link>
-      <description>Agencja kosmiczna NASA potwierdziła, że lot astronautów na orbitę wokół Księżyca nie odbędzie się w marcu i obecnie inżynierowie celują w termin kwietniowy. Trwają naprawy wykrytych usterek. Ogłoszono też dodanie dodatkowej misji testowej...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ksiezyc-musi-poczekac-NASA-przesuwa-termin-zalogowej-misji-9090460.html</guid>
-      <pubDate>Fri, 27 Feb 2026 20:50:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Od sankcji do normalizacji? Trump deklaruje „wielki szacunek” dla Łukaszenki</title>
-      <link>https://www.bankier.pl/wiadomosc/Od-sankcji-do-normalizacji-Trump-deklaruje-wielki-szacunek-dla-Lukaszenki-9090585.html</link>
-      <description>Prezydent USA Donald Trump powiedział w piątek, że ma dobre relacje z Białorusią i zaznaczył, że „bardzo lubi” jej przywódcę Alaskandra Łukaszenkę. Odpowiedział w ten sposób na pytanie o normalizację stosunków z Białorusią. W tym...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Od-sankcji-do-normalizacji-Trump-deklaruje-wielki-szacunek-dla-Lukaszenki-9090585.html</guid>
-      <pubDate>Fri, 27 Feb 2026 21:46:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Niepewność na Wall Street: Inflacja, zwolnienia i znaki zapytania wokół AI</title>
-      <link>https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html</link>
-      <description>Piątkowa sesja na Wall Stret zakończyła się spadkami głównych indeksów. Akcje spadły po tym, jak najnowsze dane dotyczące wskaźnika cen producenta, który jest kluczowym miernikiem inflacji, okazały się wyższe od oczekiwań.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Niepewnosc-na-Wall-Street-Inflacja-zwolnienia-i-znaki-zapytania-wokol-AI-9090601.html</guid>
-      <pubDate>Fri, 27 Feb 2026 23:37:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 01 Mar 2026 17:36:00 +0100</lastBuildDate>
     <item>
       <title>Grupa Allegro sprzedała swoją działalność w Słowenii i Chorwacji</title>
       <link>https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html</link>
@@ -577,20 +556,6 @@
       <pubDate>Sun, 01 Mar 2026 10:25:00 +0100</pubDate>
     </item>
     <item>
-      <title>Czy unijne pieniądze trafią na wsparcie dostępu do aborcji? To stanowisko KE</title>
-      <link>https://www.bankier.pl/wiadomosc/Czy-unijne-pieniadze-trafia-na-wsparcie-dostepu-do-aborcji-To-stanowisko-KE-9089791.html</link>
-      <description>Wiceprzewodnicząca Komisji Europejskiej Roxana Minzatu poinformowała w czwartek, że państwa członkowskie mogą wykorzystać istniejący fundusz społeczny UE na bezpłatne przerywanie ciąży kobietom podróżującym do krajów Unii, w których dostęp...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Czy-unijne-pieniadze-trafia-na-wsparcie-dostepu-do-aborcji-To-stanowisko-KE-9089791.html</guid>
-      <pubDate>Sun, 01 Mar 2026 10:34:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Kaczyński dyscyplinuje PiS. Prezes: Receptą na zwycięstwo jest jedność</title>
-      <link>https://www.bankier.pl/wiadomosc/Kaczynski-dyscyplinuje-PiS-Prezes-Recepta-na-zwyciestwo-jest-jednosc-9090822.html</link>
-      <description>Prezes PiS Jarosław Kaczyński zaapelował w sobotę do członków partii o jedność w obliczu ostatnich tarć wewnętrznych. „Receptą na zwycięstwo jest jedność, a wszelkie próby jej podważania to realizowanie scenariusza obecnej koalicji rządzącej”...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kaczynski-dyscyplinuje-PiS-Prezes-Recepta-na-zwyciestwo-jest-jednosc-9090822.html</guid>
-      <pubDate>Sun, 01 Mar 2026 10:36:00 +0100</pubDate>
-    </item>
-    <item>
       <title>Turystyczne serce Dubaju w ogniu. Co wiemy o eksplozji w hotelu Fairmont?</title>
       <link>https://www.bankier.pl/wiadomosc/Turystyczne-serce-Dubaju-w-ogniu-Co-wiemy-o-eksplozji-w-hotelu-Fairmont-9090825.html</link>
       <description>W dzielnicy Palm Jumeirah w Dubaju w Zjednoczonych Emiratach Arabskich doszło w sobotę po południu do eksplozji w 5-gwiazdowym hotelu Fairmont The Palm. Władze Dubaju poinformowały, że cztery osoby zostały ranne.</description>
@@ -696,18 +661,39 @@
       <pubDate>Sun, 01 Mar 2026 16:00:00 +0100</pubDate>
     </item>
     <item>
-      <title>Paraliż w Cieśninie Ormuz. Tankowce stoją, giganci transportowi, w tym MAERSK, wstrzymują kursy</title>
-      <link>https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html</link>
-      <description>Jeden z największych na świecie operatorów kontenerowych, duńska firma MAERSK ogłosiła w niedzielę, że zawiesza kursy przez Cieśninę Ormuz - poinformowała agencja AFP. Wcześniej, z powodu amerykańsko-izraelskiego ataku na Iran, podobne decyzje...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html</guid>
-      <pubDate>Sun, 01 Mar 2026 16:24:00 +0100</pubDate>
+      <title>Od złota i energetyki po AI, krypto i… Caracas</title>
+      <link>https://www.bankier.pl/wiadomosc/Od-zlota-i-energetyki-po-AI-krypto-i-Caracas-9091066.html</link>
+      <description>Po nerwowym lutym i wyraźnych przetasowaniach na rynkach, Gwiazdy Bankiera nie zwalniają tempa. W najnowszej odsłonie „Portfela Gwiazd” widać kilka mocnych motywów: rotację z growth do value, powrót do surowców, selektywne podejście do polskich...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Od-zlota-i-energetyki-po-AI-krypto-i-Caracas-9091066.html</guid>
+      <pubDate>Sun, 01 Mar 2026 17:11:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kryzys na linii Pakistan–Afganistan. Islamabad odpowiada na ataki talibów</title>
+      <link>https://www.bankier.pl/wiadomosc/Kryzys-na-linii-Pakistan-Afganistan-Islamabad-odpowiada-na-ataki-talibow-9090926.html</link>
+      <description>Pakistan przeprowadził w piątek uderzenia na duże miasta w Afganistanie. Minister obrony w Islamabadzie mówi o „otwartej wojnie”. Eskalacja kończy miesiące napięć – Pakistan twierdzi, że pakistańscy talibowie znaleźli schronienie w Afganistanie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kryzys-na-linii-Pakistan-Afganistan-Islamabad-odpowiada-na-ataki-talibow-9090926.html</guid>
+      <pubDate>Sun, 01 Mar 2026 17:33:00 +0100</pubDate>
     </item>
     <item>
       <title>Operacja „Epicka Furia”. USA potwierdza śmierć żołnierzy. Iran w chaosie. Ataki na hotele</title>
       <link>https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html</link>
       <description>Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html</guid>
-      <pubDate>Sun, 01 Mar 2026 17:06:00 +0100</pubDate>
+      <pubDate>Sun, 01 Mar 2026 17:35:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Paraliż w Cieśninie Ormuz. Tankowce stoją, giganci transportowi, w tym MAERSK, wstrzymują kursy</title>
+      <link>https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html</link>
+      <description>Jeden z największych na świecie operatorów kontenerowych, duńska firma MAERSK ogłosiła w niedzielę, że zawiesza kursy przez Cieśninę Ormuz - poinformowała agencja AFP. Wcześniej, z powodu amerykańsko-izraelskiego ataku na Iran, podobne decyzje...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html</guid>
+      <pubDate>Sun, 01 Mar 2026 17:36:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Gaz-System: dostawy gazu do Polski w pełni zabezpieczone</title>
+      <link>https://www.bankier.pl/wiadomosc/Gaz-System-dostawy-gazu-do-Polski-w-pelni-zabezpieczone-9091026.html</link>
+      <description>Odnosząc się do sytuacji geopolitycznej na Bliskim Wschodzie Gaz-System zapewnił w niedzielę, że krajowy system przesyłowy gazu ziemnego funkcjonuje stabilnie, a bezpieczeństwo dostaw tego surowca do Polski pozostaje w pełni zabezpieczone.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Gaz-System-dostawy-gazu-do-Polski-w-pelni-zabezpieczone-9091026.html</guid>
+      <pubDate>Sun, 01 Mar 2026 17:36:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
