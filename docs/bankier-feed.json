@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pozostancie-w-bezpiecznym-miejscu-MSZ-radzi-Polakom-na-Bliskim-Wschodzie-9091048.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pozostancie-w-bezpiecznym-miejscu-MSZ-radzi-Polakom-na-Bliskim-Wschodzie-9091048.html",
+      "title": "„Pozostańcie w bezpiecznym miejscu”. MSZ radzi Polakom na Bliskim Wschodzie",
+      "content_html": "Rzecznik MSZ Maciej Wewiór zapewnił, że państwo robi wszystko, aby polskim obywatelom, którzy utknęli na Bliskim Wschodzie, pomóc tam na miejscu. Dodał, że osoby te powinny mieć kontakt z liniami lotniczymi, a służby konsularne zapewniają...",
+      "date_published": "2026-03-01T17:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Krwawa-strzelanina-w-centrum-Austin-FBI-bada-watek-terrorystyczny-9091069.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krwawa-strzelanina-w-centrum-Austin-FBI-bada-watek-terrorystyczny-9091069.html",
+      "title": "Krwawa strzelanina w centrum Austin. FBI bada wątek terrorystyczny",
+      "content_html": "Trzy osoby, w tym napastnik, zginęły, a 14 zostało rannych nad ranem w niedzielę, gdy napastnik otworzył ogień do ludzi w barze w centrum Austin w Teksasie. Sprawę bada zespół ds. walki z terroryzmem FBI.",
+      "date_published": "2026-03-01T17:53:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gaz-System-dostawy-gazu-do-Polski-w-pelni-zabezpieczone-9091026.html",
       "url": "https://www.bankier.pl/wiadomosc/Gaz-System-dostawy-gazu-do-Polski-w-pelni-zabezpieczone-9091026.html",
       "title": "Gaz-System: dostawy gazu do Polski w pełni zabezpieczone",
@@ -396,20 +410,6 @@
       "date_published": "2026-02-28T16:30:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Oszczednosci-rzedu-60-mld-zl-Minister-finansow-broni-unijnych-pozyczek-SAFE-9090569.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oszczednosci-rzedu-60-mld-zl-Minister-finansow-broni-unijnych-pozyczek-SAFE-9090569.html",
-      "title": "Oszczędności rzędu 60 mld zł? Minister finansów broni unijnych pożyczek SAFE",
-      "content_html": "Nie ma innej możliwości, aby w ciągu 4 lat pożyczyć sumę 44 mld euro, a to właśnie zapewniłoby skorzystanie przez Polskę z programu SAFE - wynika z piątkowej wypowiedzi ministra finansów i gospodarki Andrzeja Domańskiego. Dodał, że Polska...",
-      "date_published": "2026-02-28T16:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chaos-etykiet-i-brak-szkla-Wyzwania-stojace-przed-systemem-kaucyjnym-9090683.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chaos-etykiet-i-brak-szkla-Wyzwania-stojace-przed-systemem-kaucyjnym-9090683.html",
-      "title": "Chaos etykiet i brak szkła. Wyzwania stojące przed systemem kaucyjnym",
-      "content_html": "Od 50 do prawie 80 proc. opakowań kaucyjnych oddawanych jest w automatach, reszta jest zbierana ręcznie - wynika z danych operatorów kaucyjnych przekazanych PAP. Spośród wszystkich oddawanych opakowań, trzy czwarte to butelki PET, pozostała część...",
-      "date_published": "2026-02-28T16:28:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Reforma-Sadu-Najwyzszego-Powrot-do-trzech-izb-i-plan-C-ministra-Zurka-9090558.html",
       "url": "https://www.bankier.pl/wiadomosc/Reforma-Sadu-Najwyzszego-Powrot-do-trzech-izb-i-plan-C-ministra-Zurka-9090558.html",
       "title": "Reforma Sądu Najwyższego: Powrót do trzech izb i „plan C” ministra Żurka",
@@ -674,34 +674,6 @@
       "title": "Potknięcie przy biurku w domu. Sąd: Wypadek podczas wideokonferencji jest wypadkiem przy pracy",
       "content_html": "Po raz pierwszy we Włoszech przyznano odszkodowanie za wypadek, do którego doszło podczas pracy zdalnej. Otrzymała je kobieta, która pracując w domu w czasie wideokonferencji wstała sprzed biurka sięgając po teczkę z dokumentami, potknęła...",
       "date_published": "2026-02-28T00:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tragedia-na-Trasie-Lazienkowskiej-Biegli-w-procesie-Lukasza-Zaka-227-km-h-w-chwili-wypadku-9090500.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tragedia-na-Trasie-Lazienkowskiej-Biegli-w-procesie-Lukasza-Zaka-227-km-h-w-chwili-wypadku-9090500.html",
-      "title": "Tragedia na Trasie Łazienkowskiej. Biegli w procesie Łukasza Żaka: 227 km/h w chwili wypadku",
-      "content_html": "W procesie Łukasza Żaka w piątek przed Sądem Rejonowym w Warszawie zeznawali biegli. Z analizy jednego z nich wynika, że oskarżony bezpośrednio przed zderzeniem jechał z prędkością 227 km/h, maksymalną dla modelu samochodu, którym kierował...",
-      "date_published": "2026-02-28T00:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-pod-ostrzalem-Alarmy-powietrzne-na-Uralu-i-w-centrum-kraj-9090471.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-pod-ostrzalem-Alarmy-powietrzne-na-Uralu-i-w-centrum-kraj-9090471.html",
-      "title": "Rosja pod ostrzałem? Alarmy powietrzne na Uralu i w centrum kraj",
-      "content_html": "W co najmniej 13 regionach Rosji jednocześnie i po raz pierwszy od początku pełnowymiarowej wojny przeciw Ukrainie ogłaszano alarm powietrzny w związku z zagrożeniem ataku rakietowego – poinformował w piątek portal Ukrainska Prawda.",
-      "date_published": "2026-02-28T00:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Warner-Bros-Discovery-sprzedane-Paramount-Skydance-Zmiana-wlasciciela-CNN-i-TVN-9090573.html",
-      "url": "https://www.bankier.pl/wiadomosc/Warner-Bros-Discovery-sprzedane-Paramount-Skydance-Zmiana-wlasciciela-CNN-i-TVN-9090573.html",
-      "title": "Warner Bros. Discovery sprzedane Paramount Skydance. Zmiana właściciela CNN i TVN",
-      "content_html": "Warner Bros. Discovery i Paramount Skydance podpisały w piątek umowę o przejęciu WBD przez PSKY - powiedział jeden z dyrektorów WBD Bruce Campbell, cytowany przez agencję Reutera. Transakcja opiewać ma na 110 mld dolarów.",
-      "date_published": "2026-02-27T23:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-sfinalizowala-sprzedaz-dzialalnosci-w-Slowenii-i-Chorwacji-9090589.html",
-      "title": "Grupa Allegro sprzedała swoją działalność w Słowenii i Chorwacji",
-      "content_html": "Grupa Allegro sfinalizowała sprzedaż działalności w Słowenii i Chorwacji - podała spółka w komunikacie.",
-      "date_published": "2026-02-27T23:43:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
