@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Luka-wodorowa-do-2030-roku-Czy-Polska-zdazy-z-dekarbonizacja-9088090.html",
+      "url": "https://www.bankier.pl/wiadomosc/Luka-wodorowa-do-2030-roku-Czy-Polska-zdazy-z-dekarbonizacja-9088090.html",
+      "title": "Luka wodorowa do 2030 roku. Czy Polska zdąży z dekarbonizacją? Zgodnie z unijną dyrektywą RED III do 2030 roku 42 proc. wodoru wykorzystywanego w przemyśle ma stanowić wodór w formie paliw odnawialnych pochodzenia niebiologicznego (RFNBO), a do 2035 roku - 60 proc. Szansą na spełnienie tych wymogów jest inwestowanie w produkcję zielonego wodoru oraz jego pochodnych takich jak zielony amoniak.",
+      "content_html": "",
+      "date_published": "2026-03-01T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielki-wzrost-oplaty-mocowej-Przecietne-gospodarstwo-zaplaci-znacznie-wiecej-9088301.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielki-wzrost-oplaty-mocowej-Przecietne-gospodarstwo-zaplaci-znacznie-wiecej-9088301.html",
       "title": "Wielki wzrost opłaty mocowej. Przeciętne gospodarstwo zapłaci znacznie więcej Koszty funkcjonowania rynku mocy w Polsce, łącznie za lata 2021-2046, wyniosą ok. 200 mld zł w cenach bieżących - oszacowało Forum Energii w najnowszym raporcie. Forum apeluje o otwartą dyskusję o przyszłości rynku mocy w Polsce, który zdaniem ekspertów FE powinien być m.in. bardziej elastyczny i dopasowany do przyrastających mocy OZE. Postulują też o reformę opłaty mocowej.",
@@ -205,13 +212,6 @@
       "title": "AmRest zakłada na '26 średni jednocyfrowy wzrost sprzedaży i EBITDA Poniżej przedstawiono wyniki AmRestu w czwartym kwartale 2025 roku zgodnie z wyliczeniami PAP Biznes i ich odniesienie do konsensusu PAP oraz do wyników poprzednich okresów.",
       "content_html": "",
       "date_published": "2026-02-27T08:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stalprofil-szacuje-ze-mial-w-IV-kw-2-85-mln-zl-zysku-netto-wzrost-o-417-proc-rdr-9090027.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stalprofil-szacuje-ze-mial-w-IV-kw-2-85-mln-zl-zysku-netto-wzrost-o-417-proc-rdr-9090027.html",
-      "title": "Stalprofil szacuje, że miał w IV kw. 2,85 mln zł zysku netto, wzrost o 417 proc. rdr Stalprofil szacuje, że w czwartym kwartale 2025 roku jednostkowy zysk netto wzrósł o 417 proc. rdr do 2,85 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-02-27T07:52:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
