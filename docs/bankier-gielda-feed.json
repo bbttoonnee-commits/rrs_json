@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
+      "title": "Koniec ery WIBOR-u w kredytach. KNF wyznacza bankom twarde terminy Reforma wskaźników referencyjnych w 2026 roku weszła w kluczowy etap, KNF oczekuje od banków odchodzenia od wskaźnika WIBOR – poinformował zastępca przewodniczącego KNF Marcin Mikołajczyk. Podał, że liczy, że sektor będzie aktywny na rynku emisji długoterminowych instrumentów dłużnych.",
+      "content_html": "",
+      "date_published": "2026-03-01T14:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Luka-wodorowa-do-2030-roku-Czy-Polska-zdazy-z-dekarbonizacja-9088090.html",
       "url": "https://www.bankier.pl/wiadomosc/Luka-wodorowa-do-2030-roku-Czy-Polska-zdazy-z-dekarbonizacja-9088090.html",
       "title": "Luka wodorowa do 2030 roku. Czy Polska zdąży z dekarbonizacją? Zgodnie z unijną dyrektywą RED III do 2030 roku 42 proc. wodoru wykorzystywanego w przemyśle ma stanowić wodór w formie paliw odnawialnych pochodzenia niebiologicznego (RFNBO), a do 2035 roku - 60 proc. Szansą na spełnienie tych wymogów jest inwestowanie w produkcję zielonego wodoru oraz jego pochodnych takich jak zielony amoniak.",
@@ -128,27 +135,6 @@
       "title": "Pekabex złożył do UOKiK wniosek o koncentrację spółki zależnej z Tema Invest Pekabex złożył do UOKiK wniosek o koncentrację spółki zależnej - Pekabex Development - z Tema Invest - wynika z wniosku opublikowanego przez Urząd Ochrony Konkurencji i Konsumentów.",
       "content_html": "",
       "date_published": "2026-02-27T15:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skonsolidowane-przychody-Rainbow-Tours-w-I-26-wyniosly-309-7-mln-zl-szacunki-9090295.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skonsolidowane-przychody-Rainbow-Tours-w-I-26-wyniosly-309-7-mln-zl-szacunki-9090295.html",
-      "title": "Szacunkowe skonsolidowane przychody Rainbow Tours w I '26 wyniosły 309,7 mln zł Rainbow Tours szacuje, że skonsolidowane przychody ze sprzedaży w styczniu 2026 roku wyniosły 309,7 mln zł, o ok. 2,6 proc. więcej rdr.",
-      "content_html": "",
-      "date_published": "2026-02-27T14:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kruk-w-26-chce-zainwestowac-w-portfele-2-4-2-8-mld-zl-zaklada-wieksza-aktywnosc-w-Hiszpanii-9090154.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kruk-w-26-chce-zainwestowac-w-portfele-2-4-2-8-mld-zl-zaklada-wieksza-aktywnosc-w-Hiszpanii-9090154.html",
-      "title": "Kruk w '26 chce zainwestować w portfele 2,4-2,8 mld zł; zakłada większą aktywność w Hiszpanii Kruk spodziewa się, że w 2026 roku inwestycje w portfele wierzytelności wzrosną do 2,4-2,8 mld zł; spółka, po czasowym ograniczeniu inwestycji w Hiszpanii, zakłada na tym rynku większą aktywność - poinformował prezes spółki Piotr Krupa.",
-      "content_html": "",
-      "date_published": "2026-02-27T13:51:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sygnis-w-wyniku-emisji-akcji-serii-F1-pozyska-7-8-mln-zl-9090252.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sygnis-w-wyniku-emisji-akcji-serii-F1-pozyska-7-8-mln-zl-9090252.html",
-      "title": "Sygnis w wyniku emisji akcji serii F1 pozyska 7,8 mln zł Zarząd Sygnis podjął uchwałę o podwyższeniu kapitału zakładowego poprzez emisję 5.203.333 akcji serii F1 w ramach subskrypcji prywatnej - podała spółka w komunikacie. Cena emisyjna została ustalona na 1,50 zł za akcję. W wyniku przeprowadzonej emisji spółka pozyska 7,8 mln zł.",
-      "content_html": "",
-      "date_published": "2026-02-27T13:42:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
