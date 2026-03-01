@@ -4,18 +4,39 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
+      "title": "Trump o poległych żołnierzach i „wspaniałym rozwiązaniu” dla świata. Iran: Nasze zdolności wojskowe bez zmian",
+      "content_html": "Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...",
+      "date_published": "2026-03-01T19:49:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Paraliz-lotniczy-w-ZEA-Wladze-Dubaju-i-Abu-Zabi-gwarantuja-miejsca-w-hotelach-9091109.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paraliz-lotniczy-w-ZEA-Wladze-Dubaju-i-Abu-Zabi-gwarantuja-miejsca-w-hotelach-9091109.html",
+      "title": "Paraliż lotniczy w ZEA. Władze Dubaju i Abu Zabi gwarantują miejsca w hotelach",
+      "content_html": "Wydział kultury i turystyki Abu Zabi oświadczył, że pokryje koszty przedłużonego pobytu turystów, którzy utknęli w mieście – podała w niedzielę CNN. Większość lotów ze Zjednoczonych Emiratów Arabskich odwołano w sobotę po rozpoczęciu...",
+      "date_published": "2026-03-01T19:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ewakuacja-jako-ostatecznosc-MON-monitoruje-sytuacje-polskich-kontyngentow-9091098.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ewakuacja-jako-ostatecznosc-MON-monitoruje-sytuacje-polskich-kontyngentow-9091098.html",
+      "title": "\"Ewakuacja jako ostateczność\". MON monitoruje sytuację polskich kontyngentów",
+      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz przekazał w niedzielę, że odebrał meldunki od dowódców operacyjnych na temat sytuacji na Bliskim Wschodzie. Zapewnił, że wszystkie procedury w polskich kontyngentach wojskowych na tamtym obszarze...",
+      "date_published": "2026-03-01T19:33:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czy-OPEC-uratuje-rsytuacje-OPEC-zwieksza-wydobycie-ale-rynki-drza-9091097.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-OPEC-uratuje-rsytuacje-OPEC-zwieksza-wydobycie-ale-rynki-drza-9091097.html",
+      "title": "Czy OPEC+ uratuje rsytuację? OPEC+ zwiększa wydobycie, ale rynki drżą",
+      "content_html": "Organizacja Krajów Eksportujących Ropę Naftową (OPEC) oraz państwa współpracujące z nią zgodziły się wstępnie w niedzielę, że od 1 kwietnia zwiększą wydobycie surowca do 206 tys. baryłek dziennie - poinformował Reuters. Analitycy spodziewają...",
+      "date_published": "2026-03-01T19:28:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-i-Gaz-System-odporne-na-konflikt-na-Bliskim-Wschodzie-Motyka-Zapasy-dla-Polski-zabezpieczone-9091092.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-i-Gaz-System-odporne-na-konflikt-na-Bliskim-Wschodzie-Motyka-Zapasy-dla-Polski-zabezpieczone-9091092.html",
       "title": "Orlen i Gaz-System odporne na konflikt na Bliskim Wschodzie. Motyka: Zapasy dla Polski zabezpieczone",
       "content_html": "Minister energii Miłosz Motyka zapewnił w niedzielę, że dostawy ropy i gazu realizowane są bez zakłóceń. „Polska posiada zabezpieczone zapasy surowców, a infrastruktura gazowa i naftowa działa w pełnym zakresie” - napisał szef resortu...",
       "date_published": "2026-03-01T19:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-USA-i-Izrael-atakuja-Iran-Teheran-odpowiada-ogniem-9090927.html",
-      "title": "Operacja „Epicka Furia”. USA potwierdza śmierć żołnierzy. Iran w chaosie. Ataki na hotele",
-      "content_html": "Armia izraelska poinformowała w niedzielę, że przypuściła nową falę ataków na cele władz irańskich „w samym sercu Teheranu”. Według agencji AFP w stolicy Iranu rozległy się głośne wybuchy. W Dubaju w Zjednoczonych Emiratach Arabskich...",
-      "date_published": "2026-03-01T19:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Paraliz-w-Ciesninie-Ormuz-Tankowce-stoja-giganci-transportowi-w-tym-MAERSK-wstrzymuja-kursy-9091044.html",
@@ -123,13 +144,6 @@
       "date_published": "2026-03-01T14:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-WIBOR-u-w-kredytach-KNF-wyznacza-bankom-twarde-terminy-9088790.html",
-      "title": "Koniec ery WIBOR-u w kredytach. KNF wyznacza bankom twarde terminy",
-      "content_html": "Reforma wskaźników referencyjnych w 2026 roku weszła w kluczowy etap, KNF oczekuje od banków odchodzenia od wskaźnika WIBOR – poinformował zastępca przewodniczącego KNF Marcin Mikołajczyk. Podał, że liczy, że sektor będzie aktywny na rynku...",
-      "date_published": "2026-03-01T14:00:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Skonczyly-sie-poklady-goscinnosci-Szwecja-deportuje-za-kazde-przestepstwo-9088988.html",
       "url": "https://www.bankier.pl/wiadomosc/Skonczyly-sie-poklady-goscinnosci-Szwecja-deportuje-za-kazde-przestepstwo-9088988.html",
       "title": "Skończyły się pokłady gościnności. Szwecja deportuje za każde przestępstwo",
@@ -142,6 +156,13 @@
       "title": "Głodny pacjent w polskim szpitalu. \"Niedożywione\" pobyty kosztują o 12 mld zł rocznie więcej",
       "content_html": "Leczenie żywieniowe w polskich szpitalach przestaje być traktowane jako opcjonalny „dodatek”, a staje się kluczowym priorytetem medycznym. Statystyki są alarmujące: niedożywienie dotyka nawet połowę pacjentów hospitalizowanych, generując...",
       "date_published": "2026-03-01T13:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lista-plac-El-Mencho-Policja-i-Gwardia-Narodowa-na-uslugach-kartelu-9090221.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lista-plac-El-Mencho-Policja-i-Gwardia-Narodowa-na-uslugach-kartelu-9090221.html",
+      "title": "Lista płac „El Mencho”. Policja i Gwardia Narodowa na usługach kartelu",
+      "content_html": "Meksykańska gazeta „El Universal” opublikowała w czwartek dokumenty księgowe, które znaleziono w siedzibie El Mencho, zabitego 22 lutego szefa kartelu CJNG (Cartel Jalisco Nueva Generacion). Na liście płac znalazły się m.in. policja i Prokuratura...",
+      "date_published": "2026-03-01T13:02:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Skandaliczne-kulisy-amnestii-Prezydent-chce-rzadzic-do-2030-roku-9088082.html",
@@ -674,34 +695,6 @@
       "title": "Rosja czy Francja? Serbia planuje elektrownię jądrową i kusi światowych gigantów",
       "content_html": "Dubravka Djedović Handanović, minister górnictwa i energetyki Serbii, zapowiedziała budowę pierwszej elektrowni jądrowej kraju, która mogłaby powstać przed 2040 rokiem. Rosyjski Rosatom wyraził gotowość zaangażowania się w projekt - podała...",
       "date_published": "2026-02-28T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Naukowcy-odkryli-zegar-choroby-Alzheimera-Koniec-z-drogimi-skanami-PET-9088656.html",
-      "url": "https://www.bankier.pl/wiadomosc/Naukowcy-odkryli-zegar-choroby-Alzheimera-Koniec-z-drogimi-skanami-PET-9088656.html",
-      "title": "Naukowcy odkryli \"zegar\" choroby Alzheimera. Koniec z drogimi skanami PET",
-      "content_html": "Badanie krwi pomaga przewidywać ryzyko choroby Alzheimera, na wiele lat przed wystąpieniem objawów, takich jak problemy z pamięcią, wynika z badań naukowców z USA. Artykuł na ten temat publikuje czasopismo „Nature Medicine”.",
-      "date_published": "2026-02-28T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Od-6-bezrobocia-w-Polsce-po-niesycaca-Nvidie-i-hosse-na-zlocie-Rynki-miedzy-euforia-a-ryzykiem-9090149.html",
-      "url": "https://www.bankier.pl/wiadomosc/Od-6-bezrobocia-w-Polsce-po-niesycaca-Nvidie-i-hosse-na-zlocie-Rynki-miedzy-euforia-a-ryzykiem-9090149.html",
-      "title": "Od 6% bezrobocia w Polsce, po \"niesycącą\" Nvidię i hossę na złocie. Rynki między euforią a ryzykiem",
-      "content_html": "Od rynku pracy i rekordowych hipotek, przez wyniki Nvidii i powrót hossy na złocie, po polityczne napięcia wokół Trumpa i kryptowalut. Mijający tydzień przyniósł serię sygnałów, które mogą wyznaczyć kierunek dla gospodarki i rynków w 2026...",
-      "date_published": "2026-02-28T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html",
-      "url": "https://www.bankier.pl/wiadomosc/Agencja-Fitch-potwierdzila-rating-Polski-na-poziomie-A-z-perspektywa-negatywna-9090602.html",
-      "title": "Fitch nie zmienia oceny Polski. Perspektywa ratingu nadal negatywna",
-      "content_html": "Agencja Fitch Ratings potwierdziła w piątek długoterminowy rating Polski w walucie obcej na poziomie \"A-\" z perspektywą negatywną - podała agencja w komunikacie. Negatywna perspektywa odzwierciedla prognozy utrzymania się wysokich deficytów fiskalnych...",
-      "date_published": "2026-02-28T00:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-zbroja-sie-na-Bliskim-Wschodzie-Najwieksza-koncentracja-sil-od-2003-roku-9090570.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-zbroja-sie-na-Bliskim-Wschodzie-Najwieksza-koncentracja-sil-od-2003-roku-9090570.html",
-      "title": "USA zbroją się na Bliskim Wschodzie. Największa koncentracja sił od 2003 roku",
-      "content_html": "USA zintensyfikowały militarne przygotowania do potencjalnej wojny z Iranem - napisał w piątek dziennik „Wall Street Journal”. Tego dnia do Izraela zbliżył się amerykański lotniskowiec USS Gerald R. Ford. Czwartkowe rozmowy na temat irańskiego...",
-      "date_published": "2026-02-28T00:14:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
