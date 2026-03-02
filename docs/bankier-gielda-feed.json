@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lutym-drugi-BM-PKO-BP-9091879.html",
+      "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lutym-drugi-BM-PKO-BP-9091879.html",
+      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w lutym, drugi BM PKO BP Goldman Sachs w lutym 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się BM PKO BP - podała GPW na stronie internetowej.",
+      "content_html": "",
+      "date_published": "2026-03-02T23:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na-nawozy-9091828.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na-nawozy-9091828.html",
       "title": "Grupa Azoty z powodu skokowego wzrostu cen gazu wstrzymała nowe zamówienia na nawozy Grupa Azoty z uwagi na skokowy wzrost cen gazu zdecydowała o czasowym wstrzymaniu nowych zamówień na swoje nawozy azotowe - poinformował PAP Biznes Grzegorz Kulik, rzecznik prasowy Grupy Azoty.",
@@ -261,13 +268,6 @@
       "title": "Koniec ery WIBOR-u w kredytach. KNF wyznacza bankom twarde terminy Reforma wskaźników referencyjnych w 2026 roku weszła w kluczowy etap, KNF oczekuje od banków odchodzenia od wskaźnika WIBOR – poinformował zastępca przewodniczącego KNF Marcin Mikołajczyk. Podał, że liczy, że sektor będzie aktywny na rynku emisji długoterminowych instrumentów dłużnych.",
       "content_html": "",
       "date_published": "2026-03-01T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Luka-wodorowa-do-2030-roku-Czy-Polska-zdazy-z-dekarbonizacja-9088090.html",
-      "url": "https://www.bankier.pl/wiadomosc/Luka-wodorowa-do-2030-roku-Czy-Polska-zdazy-z-dekarbonizacja-9088090.html",
-      "title": "Luka wodorowa do 2030 roku. Czy Polska zdąży z dekarbonizacją? Zgodnie z unijną dyrektywą RED III do 2030 roku 42 proc. wodoru wykorzystywanego w przemyśle ma stanowić wodór w formie paliw odnawialnych pochodzenia niebiologicznego (RFNBO), a do 2035 roku - 60 proc. Szansą na spełnienie tych wymogów jest inwestowanie w produkcję zielonego wodoru oraz jego pochodnych takich jak zielony amoniak.",
-      "content_html": "",
-      "date_published": "2026-03-01T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
