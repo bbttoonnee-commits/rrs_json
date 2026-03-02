@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-Handlowy-ma-zalecenie-KNF-potwierdzajace-spelnienie-wymogow-do-wyplaty-dywidendy-do-75-proc-zysku-za-25-9091535.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-Handlowy-ma-zalecenie-KNF-potwierdzajace-spelnienie-wymogow-do-wyplaty-dywidendy-do-75-proc-zysku-za-25-9091535.html",
+      "title": "Bank Handlowy ma zalecenie KNF potwierdzające spełnienie wymogów do wypłaty dywidendy do 75 proc. zysku za '25 Bank Handlowy otrzymał indywidualne zalecenie KNF potwierdzające spełnienie przez bank wymogów do wypłaty dywidendy na poziomie do 75 proc. zysku za 2025 r., przy czym maksymalna kwota wypłaty nie może przekraczać kwoty zysku rocznego pomniejszonego o zysk wypracowany w 2025 r. włączony już do funduszy własnych - podał bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-02T14:52:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dostawy-paliw-zagrozone-Orlen-reaguje-na-paraliz-na-Bliskim-Wschodzie-9091434.html",
       "url": "https://www.bankier.pl/wiadomosc/Dostawy-paliw-zagrozone-Orlen-reaguje-na-paraliz-na-Bliskim-Wschodzie-9091434.html",
       "title": "Co z dostawami paliw do Polski? Orlen reaguje na paraliż na Bliskim Wschodzie Orlen obecnie nie widzi zagrożeń dla ciągłości dostaw paliw do Polski ani dla funkcjonowania rafinerii, ponieważ firma nie sprowadza ropy naftowej przez Cieśninę Ormuz - poinformował w poniedziałek PAP Orlen. Zaznaczył, że na bieżąco monitoruje sytuację geopolityczną na Bliskim Wschodzie.",
@@ -130,13 +137,6 @@
       "date_published": "2026-03-02T06:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Jestes-studentem-Interesujesz-sie-gielda-Wlasnie-wystartowal-INDEX-Investment-Challenge-9089659.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jestes-studentem-Interesujesz-sie-gielda-Wlasnie-wystartowal-INDEX-Investment-Challenge-9089659.html",
-      "title": "PATRONAT Jesteś studentem? Interesujesz się giełdą? Właśnie wystartował INDEX Investment Challenge! INDEX Investment Challenge to ogólnopolski konkurs inwestycyjny organizowany przez Fundację GPW we współpracy z Kołem Naukowym Rynku Kapitałowego INDEX działającym przy Uniwersytecie Ekonomicznym w Krakowie. To ogólnopolska inicjatywa edukacyjna dla studentów, która łączy rywalizację inwestycyjną z praktyczną nauką rynku kapitałowego. Podczas trwania konkursu uczestnicy mogą sprawdzić swoje decyzje inwestycyjne w warunkach rynkowych i jednocześnie rozwijać wiedzę oraz umiejętności.",
-      "content_html": "",
-      "date_published": "2026-03-02T06:00:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-Czy-0-w-bitcoinie-to-wstyd-Kiedy-kryptowaluty-to-blad-9090051.html",
       "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-Czy-0-w-bitcoinie-to-wstyd-Kiedy-kryptowaluty-to-blad-9090051.html",
       "title": "Janusz Krypto: Czy 0% w bitcoinie to wstyd? Kiedy kryptowaluty to błąd? Kończymy bitcoinowe przedszkole i zapisujemy się do podstawówki. A w pierwszej klasie i na pierwszej lekcji zaczniemy od tego, kto nie powinien tu uczęszczać. W jakich sytuacjach jedyne rozsądne podejście do kryptowalut w portfelu to brak kryptowalut? Kto nie powinien brać się za bitcoina i kiedy rozsądniej trzymać się od tego rynku z daleka? Na te pytania odpowiedzieli mi zaprzyjaźnieni eksperci.",
@@ -163,13 +163,6 @@
       "title": "Luka wodorowa do 2030 roku. Czy Polska zdąży z dekarbonizacją? Zgodnie z unijną dyrektywą RED III do 2030 roku 42 proc. wodoru wykorzystywanego w przemyśle ma stanowić wodór w formie paliw odnawialnych pochodzenia niebiologicznego (RFNBO), a do 2035 roku - 60 proc. Szansą na spełnienie tych wymogów jest inwestowanie w produkcję zielonego wodoru oraz jego pochodnych takich jak zielony amoniak.",
       "content_html": "",
       "date_published": "2026-03-01T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-wzrost-oplaty-mocowej-Przecietne-gospodarstwo-zaplaci-znacznie-wiecej-9088301.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-wzrost-oplaty-mocowej-Przecietne-gospodarstwo-zaplaci-znacznie-wiecej-9088301.html",
-      "title": "Wielki wzrost opłaty mocowej. Przeciętne gospodarstwo zapłaci znacznie więcej Koszty funkcjonowania rynku mocy w Polsce, łącznie za lata 2021-2046, wyniosą ok. 200 mld zł w cenach bieżących - oszacowało Forum Energii w najnowszym raporcie. Forum apeluje o otwartą dyskusję o przyszłości rynku mocy w Polsce, który zdaniem ekspertów FE powinien być m.in. bardziej elastyczny i dopasowany do przyrastających mocy OZE. Postulują też o reformę opłaty mocowej.",
-      "content_html": "",
-      "date_published": "2026-02-28T14:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
