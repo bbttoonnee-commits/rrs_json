@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lutym-drugi-BM-PKO-BP-9091879.html",
+      "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lutym-drugi-BM-PKO-BP-9091879.html",
+      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w lutym, drugi BM PKO BP",
+      "content_html": "Goldman Sachs w lutym 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się BM PKO BP - podała GPW na stronie internetowej.",
+      "date_published": "2026-03-02T23:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na-nawozy-9091841.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-z-powodu-skokowego-wzrostu-cen-gazu-wstrzymala-nowe-zamowienia-na-nawozy-9091841.html",
       "title": "Grupa Azoty z powodu skokowego wzrostu cen gazu wstrzymała nowe zamówienia na nawozy",
@@ -695,13 +702,6 @@
       "title": "Ceny ropy poszybowały. Ale wytraciły prawie połowę zwyżek",
       "content_html": "Ceny ropy naftowej poszybowały po rozpoczęciu sesji w poniedziałek najmocniej od 4 lat, ale wytraciły prawie połowę zwyżek. Inwestorzy nerwowo reagują na zamknięcie Cieśniny Ormuz spowodowane wojną pomiędzy USA, Izraelema a Iranem - informują...",
       "date_published": "2026-03-02T07:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-To-co-zrobilismy-w-Wenezueli-to-idealny-scenariusz-9091189.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-To-co-zrobilismy-w-Wenezueli-to-idealny-scenariusz-9091189.html",
-      "title": "Trump: To, co zrobiliśmy w Wenezueli, to idealny scenariusz",
-      "content_html": "Prezydent USA Donald Trump zasugerował dziennikowi „New York Times”, że uważa scenariusz z Wenezueli jako idealny przykład zmiany reżimu w Iranie, choć jednocześnie wezwał do obalenia władz przez demonstrantów. Trump powtórzył też, że...",
-      "date_published": "2026-03-02T06:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
