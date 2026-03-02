@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-nie-wykluczyl-wyslania-sil-ladowych-do-Iranu-9091694.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-nie-wykluczyl-wyslania-sil-ladowych-do-Iranu-9091694.html",
+      "title": "Trump nie wykluczył wysłania sił lądowych do Iranu",
+      "content_html": "Prezydent USA Donald Trump nie wykluczył w poniedziałek w rozmowie z dziennikiem „New York Post” wysłania do Iranu amerykańskich sił lądowych, „jeśli będzie to konieczne”.",
+      "date_published": "2026-03-02T19:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Orlenu-na-poziomie-BBB-perspektywa-stabilna-9091774.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Orlenu-na-poziomie-BBB-perspektywa-stabilna-9091774.html",
+      "title": "Fitch potwierdził rating Orlenu na poziomie \"BBB+\", perspektywa stabilna",
+      "content_html": "Agencja Fitch potwierdziła długoterminowy rating IDR Orlenu w walucie obcej na poziomie \"BBB+\". Perspektywa ratingu jest stabilna - podał Fitch w komunikacie.",
+      "date_published": "2026-03-02T18:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/RN-Grupy-Azoty-powierzyla-funkcje-prezesa-zarzadu-Marcinowi-Celejewskiemu-9091770.html",
+      "url": "https://www.bankier.pl/wiadomosc/RN-Grupy-Azoty-powierzyla-funkcje-prezesa-zarzadu-Marcinowi-Celejewskiemu-9091770.html",
+      "title": "Grupa Azoty ma nowy zarząd. Marcin Celejewski prezesem spółki",
+      "content_html": "Rada Nadzorcza Grupy Azoty powołała nowy zarząd, powierzając funkcję prezesa zarządu Marcinowi Celejewskiemu oraz funkcję wiceprezesa zarządu Małgorzacie Królak - podała grupa w komunikacie prasowym. Jednocześnie do czasowego pełnienia funkcji...",
+      "date_published": "2026-03-02T18:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Unia-Europejska-niestety-przestaje-byc-pepkiem-swiata-9091760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Unia-Europejska-niestety-przestaje-byc-pepkiem-swiata-9091760.html",
+      "title": "Prezydent: Unia Europejska, niestety, przestaje być „pępkiem świata”",
+      "content_html": "Prezydent Karol Nawrocki ocenił w poniedziałek, że niestety Unia Europejska przestaje być „pępkiem świata”, dlatego też musi przejść przez proces reform. Podkreślił jednak, że został prezydentem po to, aby Polska nie stała się jedynie...",
+      "date_published": "2026-03-02T18:39:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zakopane-w-strachu-Eskalacja-konfliktu-moglaby-zatrzymac-przyjazdy-gosci-z-krajow-arabskich-9091488.html",
       "url": "https://www.bankier.pl/wiadomosc/Zakopane-w-strachu-Eskalacja-konfliktu-moglaby-zatrzymac-przyjazdy-gosci-z-krajow-arabskich-9091488.html",
       "title": "Zakopane w strachu. \"Eskalacja konfliktu mogłaby zatrzymać przyjazdy gości z krajów arabskich\"",
@@ -65,13 +93,6 @@
       "title": "Captor Therapeutics rozpoczyna ABB na nie więcej niż 800.000 akcji",
       "content_html": "Captor Therapeutics rozpoczął proces budowania przyspieszonej księgi popytu w ramach oferty publicznej realizowanej w trybie subskrypcji prywatnej nie więcej niż 800.000 akcji zwykłych na okaziciela serii Y o wartości nominalnej 0,10 zł każda...",
       "date_published": "2026-03-02T17:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-nie-wykluczyl-wyslania-sil-ladowych-do-Iranu-9091694.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-nie-wykluczyl-wyslania-sil-ladowych-do-Iranu-9091694.html",
-      "title": "Trump nie wykluczył wysłania sił lądowych do Iranu",
-      "content_html": "Prezydent USA Donald Trump nie wykluczył w poniedziałek w rozmowie z dziennikiem „New York Post” wysłania do Iranu amerykańskich sił lądowych, „jeśli będzie to konieczne”.",
-      "date_published": "2026-03-02T17:33:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-uderza-w-rzad-ws-Polakow-w-Zatoce-Perskiej-Powinien-troche-bardziej-zabrac-sie-do-pracy-9091704.html",
@@ -142,6 +163,27 @@
       "title": "Dębica szacuje zysk netto za 2025 r. na 124,9 mln zł",
       "content_html": "Firma Oponiarska Dębica, producent opon do samochodów osobowych i ciężarowych, szacuje, że miała 124,9 mln zł zysku netto za 2025 r. - podała spółka w komunikacie. Przychody netto ze sprzedaży produktów i towarów w tym okresie wyniosły 2...",
       "date_published": "2026-03-02T15:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zalecila-bankowi-Pekao-niewyplacanie-dywidendy-z-zysku-za-25-w-wys-wiekszej-niz-75-proc-9091597.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zalecila-bankowi-Pekao-niewyplacanie-dywidendy-z-zysku-za-25-w-wys-wiekszej-niz-75-proc-9091597.html",
+      "title": "KNF zaleciła bankowi Pekao niewypłacanie dywidendy z zysku za '25 w wys. większej niż 75 proc.",
+      "content_html": "Bank Pekao otrzymał indywidualne zalecenie KNF odnoszące się do polityki dywidendowej banku - podało Pekao w komunikacie. KNF zaleciła bankowi niewypłacanie dywidendy z zysku za 2025 r. w wysokości większej niż 75 proc., przy czym maksymalna...",
+      "date_published": "2026-03-02T15:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pete-Hegseth-zabiera-glos-po-ataku-na-Iran-Wskazal-cel-wojny-9091503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pete-Hegseth-zabiera-glos-po-ataku-na-Iran-Wskazal-cel-wojny-9091503.html",
+      "title": "Pete Hegseth zabiera głos po ataku na Iran. Wskazał cel wojny",
+      "content_html": "To nie jest wojna obliczona na zmianę reżimu, ale reżim z pewnością się zmienił - powiedział w poniedziałek szef Pentagonu Pete Hegseth na konferencji prasowej. Podkreślił, że celem wojny jest zniszczenie irańskich rakiet, produkujących...",
+      "date_published": "2026-03-02T15:39:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Uranowy-kontrakt-wart-fortune-Indie-i-Kanada-buduja-nowy-sojusz-9091574.html",
+      "url": "https://www.bankier.pl/wiadomosc/Uranowy-kontrakt-wart-fortune-Indie-i-Kanada-buduja-nowy-sojusz-9091574.html",
+      "title": "Uranowy kontrakt wart fortunę. Indie i Kanada budują nowy sojusz",
+      "content_html": "Indie i Kanada podpisały porozumienie o dostawach uranu o wartości 1,9 mld dolarów dla indyjskiego sektora jądrowego. Do końca 2026 r. mają się zakończyć negocjacje nad paktem handlowym między krajami - podał indyjski dziennik „Economic Times”...",
+      "date_published": "2026-03-02T15:29:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Liczba-ofiar-w-Iranie-drastycznie-rosnie-Ciagle-ataki-powietrzne-wroga-9091325.html",
@@ -646,41 +688,6 @@
       "title": "Ich wejście na giełdę może wyssać kapitał i zwiastować załamanie. Kosmiczne oferty w 2026 r. mogą pobić rekord",
       "content_html": "Rynek pierwszych ofert publicznych w USA może pobić w 2026 r. rekord pod względem wartości zebranego kapitału, ustanowiony pięć lat wcześniej w szczycie darmowego pieniądza, gdy wizje oparte na fundamentach z piasku zbierały miliardy dolarów...",
       "date_published": "2026-03-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rachunek-zamiast-faktury-pozwala-na-unikniecie-KSeF-Prawda-czy-falsz-Sprawdzamy-9090243.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rachunek-zamiast-faktury-pozwala-na-unikniecie-KSeF-Prawda-czy-falsz-Sprawdzamy-9090243.html",
-      "title": "Rachunek zamiast faktury pozwala na uniknięcie KSeF. Prawda czy fałsz?",
-      "content_html": "Krajowy System e-Faktur sprawia przedsiębiorcom wiele problemów. Wielu najchętniej prowadziłoby rozliczenia z jego pominięciem. Coraz więcej właścicieli firm zastanawia się nad wystawianiem rachunków zamiast faktur, co według nich pozwala na...",
-      "date_published": "2026-03-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niesamowita-jakosc-hipotek-Polacy-splacaja-zobowiazania-jak-w-zegarku-9090973.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niesamowita-jakosc-hipotek-Polacy-splacaja-zobowiazania-jak-w-zegarku-9090973.html",
-      "title": "Niesamowita jakość hipotek. Polacy spłacają zobowiązania jak w zegarku",
-      "content_html": "Padł kolejny rekord. Z każdych 100 tys. zł hipotek problemy ze spłatą dotyczą tylko… 1160 zł. To niemal o połowę mniej niż na początku dekady. Jest jednak typ kredytów, w których wskaźnik sięga poziomów bliższych pożyczkom pozabankowym...",
-      "date_published": "2026-03-02T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Australia-odcina-sie-od-operacji-w-Iranie-Nie-wyslemy-zolnierzy-9091196.html",
-      "url": "https://www.bankier.pl/wiadomosc/Australia-odcina-sie-od-operacji-w-Iranie-Nie-wyslemy-zolnierzy-9091196.html",
-      "title": "Australia odcina się od operacji w Iranie. \"Nie wyślemy żołnierzy\"",
-      "content_html": "Australia nie weźmie udziału w operacjach wojskowych w Iranie ani nie wyśle żołnierzy na Bliski Wschód, nawet w przypadku eskalacji konfliktu – oświadczyła w poniedziałek szefowa australijskiej dyplomacji Penny Wong. Rząd skupia się na bezpieczeństwie...",
-      "date_published": "2026-03-02T05:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Iranu-zabicie-Chameneia-otwiera-niebezpieczna-puszke-Pandory-9091187.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Iranu-zabicie-Chameneia-otwiera-niebezpieczna-puszke-Pandory-9091187.html",
-      "title": "Szef MSZ Iranu: zabicie Chameneia otwiera niebezpieczną puszkę Pandory",
-      "content_html": "Szef irańskiego MSZ Abbas Aragczi ocenił w piśmie do ONZ, że zabicie najwyższego przywódcy Iranu, ajatollaha Alego Chameneia, naruszyło prawo międzynarodowe i otworzyło „niebezpieczną puszkę Pandory” – przekazała w nocy z niedzieli na...",
-      "date_published": "2026-03-02T03:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Teheran-chce-wrocic-do-stolu-Tematem-porozumienie-nuklearne-9091185.html",
-      "url": "https://www.bankier.pl/wiadomosc/Teheran-chce-wrocic-do-stolu-Tematem-porozumienie-nuklearne-9091185.html",
-      "title": "Teheran chce wrócić do stołu. Tematem porozumienie nuklearne",
-      "content_html": "Sekretarz Najwyższej Rady Bezpieczeństwa Narodowego Iranu Ali Laridżani podjął próbę wznowienia rozmów nuklearnych z Waszyngtonem za pośrednictwem Omanu - poinformował w niedzielę „Wall Street Journal\". Według gazety to potwierdza jego status...",
-      "date_published": "2026-03-02T03:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
