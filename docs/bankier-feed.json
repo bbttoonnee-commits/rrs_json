@@ -4,11 +4,53 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Francja-szykuje-sie-do-wielkiej-ewakuacji-Macron-Bezpieczenstwo-obywateli-jest-priorytetem-9091313.html",
+      "url": "https://www.bankier.pl/wiadomosc/Francja-szykuje-sie-do-wielkiej-ewakuacji-Macron-Bezpieczenstwo-obywateli-jest-priorytetem-9091313.html",
+      "title": "Europa rusza na ratunek. Które rządowe samoloty polecą po obywateli w strefie wojny",
+      "content_html": "Władze Francji informowały po rozpoczęciu amerykańsko-izraelskich nalotów na Iran, że przygotowują się do ewakuacji swych obywateli, gdy otwarta zostanie przestrzeń powietrzna. Rzeczniczka rządu Francji Maud Bregeon powiedziała w niedzielę...",
+      "date_published": "2026-03-02T12:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Francja-gotowa-na-wojne-Barrot-Bedziemy-bronic-panstw-Bliskiego-Wschodu-9091365.html",
+      "url": "https://www.bankier.pl/wiadomosc/Francja-gotowa-na-wojne-Barrot-Bedziemy-bronic-panstw-Bliskiego-Wschodu-9091365.html",
+      "title": "Francja gotowa na wojnę? Barrot: Będziemy bronić państw Bliskiego Wschodu",
+      "content_html": "Francja jest gotowa uczestniczyć w obronie państw Bliskiego Wschodu dotkniętych atakami Iranu, zgodnie z porozumieniami, które łączą Francję z tymi krajami - powiedział w poniedziałek szef MSZ Jean-Noel Barrot. Zapewnił o solidarności Paryża...",
+      "date_published": "2026-03-02T12:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-z-ograniczonym-wplywem-na-wyniki-Rainbow-Tours-prezes-9091403.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-z-ograniczonym-wplywem-na-wyniki-Rainbow-Tours-prezes-9091403.html",
+      "title": "Akcje Rainbow Tours nurkują na giełdzie. Prezes uspokaja turystów i inwestorów",
+      "content_html": "Zamknięcie przestrzeni powietrznej nad Zatoką Perską oznacza wyzwania operacyjne dla grupy Rainbow Tours, ale negatywny wpływ na wyniki touroperatora ograniczony będzie głównie do marca w związku z końcem sezonu zimowego - poinformował PAP Biznes...",
+      "date_published": "2026-03-02T12:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pozar-w-Amazon-Web-Services-Iranski-odwet-uderza-w-infrastrukture-IT-9091341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pozar-w-Amazon-Web-Services-Iranski-odwet-uderza-w-infrastrukture-IT-9091341.html",
+      "title": "Pożar w Amazon Web Services. Irański odwet uderza w infrastrukturę IT",
+      "content_html": "Jedno z centrów danych należących do Amazon Web Services w Zjednoczonych Emiratach Arabskich zostało w niedzielę poważnie uszkodzone w wyniku uderzenia bliżej nieokreślonych \"obiektów\". W następstwie incydentu doszło do pożaru, który doprowadził...",
+      "date_published": "2026-03-02T12:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Eksplozje-w-Jerozolimie-i-Tel-Awiwie-Teheran-nie-zamierza-prowadzic-negocjacji-z-Waszyngtonem-9091229.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eksplozje-w-Jerozolimie-i-Tel-Awiwie-Teheran-nie-zamierza-prowadzic-negocjacji-z-Waszyngtonem-9091229.html",
+      "title": "Gwardia rewolucyjna: pocisk Chejbar uderzył w biuro premiera Izraela Netanjahu",
+      "content_html": "Głośne eksplozje, poprzedzone wyciem syren alarmowych, rozległy się w poniedziałek nad ranem w Jerozolimie i Tel Awiwie - podała AFP. Wybuchy nastąpiły wkrótce po tym, jak izraelskie siły zbrojne poinformowały o wykryciu pocisków rakietowych...",
+      "date_published": "2026-03-02T12:22:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przedstawiciel-Iranu-przy-MAEA-trafiony-zostal-obiekt-jadrowy-w-Natanz-9091353.html",
       "url": "https://www.bankier.pl/wiadomosc/Przedstawiciel-Iranu-przy-MAEA-trafiony-zostal-obiekt-jadrowy-w-Natanz-9091353.html",
       "title": "Przedstawiciel Iranu przy MAEA: trafiony został obiekt jądrowy w Natanz",
       "content_html": "Irański ambasador przy Międzynarodowej Agencji Energii Atomowej (MAEA) Reza Nadżafi poinformował w poniedziałek, że w wyniku operacji wojskowych USA i Izraela trafiony został obiekt jądrowy w Natanz w środkowej części Iranu.",
       "date_published": "2026-03-02T12:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ewakuacja-lotniska-w-Pafos-Podejrzany-obiekt-na-radarach-syreny-w-bazach-RAF-9091382.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ewakuacja-lotniska-w-Pafos-Podejrzany-obiekt-na-radarach-syreny-w-bazach-RAF-9091382.html",
+      "title": "Ewakuacja lotniska w Pafos. Podejrzany obiekt na radarach, syreny w bazach RAF",
+      "content_html": "Cywilne lotnisko w Pafos zostało ewakuowane w poniedziałek, kiedy na radarach dostrzeżono podejrzany obiekt - przekazała agencja Reutera, powołując się na cypryjskiego nadawcę. Lotnisko położone jest około 60 km od bazy brytyjskich sił powietrznych...",
+      "date_published": "2026-03-02T12:08:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sniezka-utworzy-spolki-zalezne-w-Czechach-i-na-Slowacji-9091364.html",
@@ -18,25 +60,11 @@
       "date_published": "2026-03-02T11:50:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Eksplozje-w-Jerozolimie-i-Tel-Awiwie-Teheran-nie-zamierza-prowadzic-negocjacji-z-Waszyngtonem-9091229.html",
-      "url": "https://www.bankier.pl/wiadomosc/Eksplozje-w-Jerozolimie-i-Tel-Awiwie-Teheran-nie-zamierza-prowadzic-negocjacji-z-Waszyngtonem-9091229.html",
-      "title": "Gwardia rewolucyjna: pocisk Chejbar uderzył w biuro premiera Izraela Netanjahu",
-      "content_html": "Głośne eksplozje, poprzedzone wyciem syren alarmowych, rozległy się w poniedziałek nad ranem w Jerozolimie i Tel Awiwie - podała AFP. Wybuchy nastąpiły wkrótce po tym, jak izraelskie siły zbrojne poinformowały o wykryciu pocisków rakietowych...",
-      "date_published": "2026-03-02T11:35:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/PKO-BP-uruchomil-przedstawicielstwo-zagraniczne-w-Austrii-9091369.html",
       "url": "https://www.bankier.pl/wiadomosc/PKO-BP-uruchomil-przedstawicielstwo-zagraniczne-w-Austrii-9091369.html",
       "title": "PKO BP uruchomił przedstawicielstwo zagraniczne w Austrii",
       "content_html": "PKO BP uruchomił przedstawicielstwo zagraniczne w Austrii - poinformował bank w komunikacie prasowym.",
       "date_published": "2026-03-02T11:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Francja-gotowa-na-wojne-Barrot-Bedziemy-bronic-panstw-Bliskiego-Wschodu-9091365.html",
-      "url": "https://www.bankier.pl/wiadomosc/Francja-gotowa-na-wojne-Barrot-Bedziemy-bronic-panstw-Bliskiego-Wschodu-9091365.html",
-      "title": "Francja gotowa na wojnę? Barrot: Będziemy bronić państw Bliskiego Wschodu",
-      "content_html": "Francja jest gotowa uczestniczyć w obronie państw Bliskiego Wschodu dotkniętych atakami Iranu, zgodnie z porozumieniami, które łączą Francję z tymi krajami - powiedział w poniedziałek szef MSZ Jean-Noel Barrot. Zapewnił o solidarności Paryża...",
-      "date_published": "2026-03-02T11:23:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pekin-zaskoczony-operacja-w-Iranie-Padly-slowa-o-nieodwracalnych-skutkach-dla-gospodarki-9091332.html",
@@ -100,13 +128,6 @@
       "title": "Coraz wyższy wzrost polskiej gospodarki. GUS ujawnił, co sprawia, że PKB pędzi najszybciej od lat",
       "content_html": "Główny Urząd Statystyczny potwierdził pierwszy szacunek na temat tempa wzrostu gospodarczego Polski w ostatnim kwartale 2025 r. Zgodnie z danymi koniunktura jest na najwyższym poziomie od 2022 r. Nowością w poniedziałkowej publikacji jest kompozycja...",
       "date_published": "2026-03-02T10:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Francja-szykuje-sie-do-wielkiej-ewakuacji-Macron-Bezpieczenstwo-obywateli-jest-priorytetem-9091313.html",
-      "url": "https://www.bankier.pl/wiadomosc/Francja-szykuje-sie-do-wielkiej-ewakuacji-Macron-Bezpieczenstwo-obywateli-jest-priorytetem-9091313.html",
-      "title": "Francja szykuje się do wielkiej ewakuacji. \"Bezpieczeństwo obywateli jest priorytetem\"",
-      "content_html": "Władze Francji informowały po rozpoczęciu amerykańsko-izraelskich nalotów na Iran, że przygotowują się do ewakuacji swych obywateli, gdy otwarta zostanie przestrzeń powietrzna. Rzeczniczka rządu Francji Maud Bregeon powiedziała w niedzielę...",
-      "date_published": "2026-03-02T09:59:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ulatwienia-dla-strazakow-z-OSP-Jest-projekt-ustawy-9091274.html",
@@ -681,20 +702,6 @@
       "title": "Widmo globalnej recesji, czyli dlaczego konflikt z Iranem to „czarny scenariusz”",
       "content_html": "Wspólny atak USA i Izraela na członka OPEC, Iran, grozi poważnymi zakłóceniami w dostawach ropy na Bliskim Wschodzie, które w najgorszym przypadku mogą wywołać globalną recesję gospodarczą - pisze CNBC.",
       "date_published": "2026-03-01T09:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-winduje-ceny-ropy-Barylka-nigeryjskiej-ropy-powyzej-78-dolarow-9090866.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konflikt-na-Bliskim-Wschodzie-winduje-ceny-ropy-Barylka-nigeryjskiej-ropy-powyzej-78-dolarow-9090866.html",
-      "title": "Konflikt na Bliskim Wschodzie winduje ceny ropy. Baryłka nigeryjskiej ropy powyżej 78 dolarów",
-      "content_html": "Po sobotnim amerykańsko-izraelskim ataku na Iran afrykańska ropa naftowa, zwłaszcza nigeryjska, staje się droższa - już przekroczyła 78 dolarów za baryłkę - i bezpieczniejsza, ponieważ nie musi być transportowana przez zagrożoną Cieśninę...",
-      "date_published": "2026-03-01T08:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaden-statek-nie-ma-prawa-przeplynac-Iran-blokuje-strategiczna-ciesnine-Ormuz-9090820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaden-statek-nie-ma-prawa-przeplynac-Iran-blokuje-strategiczna-ciesnine-Ormuz-9090820.html",
-      "title": "„Żaden statek nie ma prawa przepłynąć”. Iran blokuje strategiczną cieśninę Ormuz",
-      "content_html": "Statki znajdujące się w Zatoce Perskiej odbierały w sobotę komunikaty radiowe, nadawane przez irański Korpus Strażników Rewolucji Islamskiej, ostrzegające, że nie mogą przepływać przez ten strategiczny szlak wodny - poinformowała agencja...",
-      "date_published": "2026-03-01T08:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
