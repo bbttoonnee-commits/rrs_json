@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/RN-Grupy-Azoty-powierzyla-funkcje-prezesa-zarzadu-Marcinowi-Celejewskiemu-9091770.html",
+      "url": "https://www.bankier.pl/wiadomosc/RN-Grupy-Azoty-powierzyla-funkcje-prezesa-zarzadu-Marcinowi-Celejewskiemu-9091770.html",
+      "title": "Grupa Azoty ma nowy zarząd. Marcin Celejewski prezesem spółki Rada Nadzorcza Grupy Azoty powołała nowy zarząd, powierzając funkcję prezesa zarządu Marcinowi Celejewskiemu oraz funkcję wiceprezesa zarządu Małgorzacie Królak - podała grupa w komunikacie prasowym. Jednocześnie do czasowego pełnienia funkcji wiceprezesa zarządu – na okres do trzech miesięcy – delegowana została wiceprzewodnicząca RN Aleksandra Machowicz-Jaworska.",
+      "content_html": "",
+      "date_published": "2026-03-02T20:21:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Benefit-Systems-zglosil-Piotra-Kaczmarka-i-Jacka-Osowskiego-na-niezaleznych-czlonkow-RN-9091801.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Benefit-Systems-zglosil-Piotra-Kaczmarka-i-Jacka-Osowskiego-na-niezaleznych-czlonkow-RN-9091801.html",
       "title": "Akcjonariusz Benefit Systems zgłosił Piotra Kaczmarka i Jacka Osowskiego na niezależnych członków RN Akcjonariusz Benefit Systems, Powszechne Towarzystwo Emerytalne Allianz Polska działające w imieniu Allianz Polska OFE, zgłosił kandydatury Piotra Kaczmarka oraz Jacka Osowskiego na niezależnych członków rady nadzorczej spółki - podał Benefit Systems w komunikacie.",
@@ -16,13 +23,6 @@
       "title": "Fitch potwierdził rating Orlenu na poziomie \"BBB+\", perspektywa stabilna Agencja Fitch potwierdziła długoterminowy rating IDR Orlenu w walucie obcej na poziomie \"BBB+\". Perspektywa ratingu jest stabilna - podał Fitch w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-02T18:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RN-Grupy-Azoty-powierzyla-funkcje-prezesa-zarzadu-Marcinowi-Celejewskiemu-9091770.html",
-      "url": "https://www.bankier.pl/wiadomosc/RN-Grupy-Azoty-powierzyla-funkcje-prezesa-zarzadu-Marcinowi-Celejewskiemu-9091770.html",
-      "title": "Grupa Azoty ma nowy zarząd. Marcin Celejewski prezesem spółki Rada Nadzorcza Grupy Azoty powołała nowy zarząd, powierzając funkcję prezesa zarządu Marcinowi Celejewskiemu oraz funkcję wiceprezesa zarządu Małgorzacie Królak - podała grupa w komunikacie prasowym. Jednocześnie do czasowego pełnienia funkcji wiceprezesa zarządu – na okres do trzech miesięcy – delegowana została wiceprzewodnicząca RN Aleksandra Machowicz-Jaworska.",
-      "content_html": "",
-      "date_published": "2026-03-02T18:52:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/ING-Bank-Slaski-ma-zalecenie-KNF-potwierdzajace-spelnienie-wymogow-do-wyplaty-dywidendy-do-75-proc-zysku-za-25-9091737.html",
@@ -244,7 +244,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Od-zlota-i-energetyki-po-AI-krypto-i-Caracas-9091066.html",
       "url": "https://www.bankier.pl/wiadomosc/Od-zlota-i-energetyki-po-AI-krypto-i-Caracas-9091066.html",
-      "title": "PORTFEL GWIAZD BANKIER.PL Od złota i energetyki po AI, krypto i… Caracas Po nerwowym lutym i wyraźnych przetasowaniach na rynkach, Gwiazdy Bankiera nie zwalniają tempa. W najnowszej odsłonie „Portfela Gwiazd” widać kilka mocnych motywów: rotację z growth do value, powrót do surowców, selektywne podejście do polskich spółek, a także próbę wykorzystania korekty na rynku kryptowalut.",
+      "title": "PORTFEL GWIAZD NA MARZEC Od złota i energetyki po AI, krypto i… Caracas Po nerwowym lutym i wyraźnych przetasowaniach na rynkach, Gwiazdy Bankiera nie zwalniają tempa. W najnowszej odsłonie „Portfela Gwiazd” widać kilka mocnych motywów: rotację z growth do value, powrót do surowców, selektywne podejście do polskich spółek, a także próbę wykorzystania korekty na rynku kryptowalut.",
       "content_html": "",
       "date_published": "2026-03-01T17:11:00+01:00"
     },
