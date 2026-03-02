@@ -4,9 +4,23 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Przedstawiciel-Iranu-przy-MAEA-trafiony-zostal-obiekt-jadrowy-w-Natanz-9091353.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przedstawiciel-Iranu-przy-MAEA-trafiony-zostal-obiekt-jadrowy-w-Natanz-9091353.html",
+      "title": "Przedstawiciel Iranu przy MAEA: trafiony został obiekt jądrowy w Natanz",
+      "content_html": "Irański ambasador przy Międzynarodowej Agencji Energii Atomowej (MAEA) Reza Nadżafi poinformował w poniedziałek, że w wyniku operacji wojskowych USA i Izraela trafiony został obiekt jądrowy w Natanz w środkowej części Iranu.",
+      "date_published": "2026-03-02T12:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sniezka-utworzy-spolki-zalezne-w-Czechach-i-na-Slowacji-9091364.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sniezka-utworzy-spolki-zalezne-w-Czechach-i-na-Slowacji-9091364.html",
+      "title": "Śnieżka utworzy spółki zależne w Czechach i na Słowacji",
+      "content_html": "Śnieżka złożyła wnioski o rejestrację spółek zależnych w Czechach i na Słowacji - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-02T11:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Eksplozje-w-Jerozolimie-i-Tel-Awiwie-Teheran-nie-zamierza-prowadzic-negocjacji-z-Waszyngtonem-9091229.html",
       "url": "https://www.bankier.pl/wiadomosc/Eksplozje-w-Jerozolimie-i-Tel-Awiwie-Teheran-nie-zamierza-prowadzic-negocjacji-z-Waszyngtonem-9091229.html",
-      "title": "\"Ataki Iranu na Katar były wymierzone w cele cywilne, w tym lotnisko\"",
+      "title": "Gwardia rewolucyjna: pocisk Chejbar uderzył w biuro premiera Izraela Netanjahu",
       "content_html": "Głośne eksplozje, poprzedzone wyciem syren alarmowych, rozległy się w poniedziałek nad ranem w Jerozolimie i Tel Awiwie - podała AFP. Wybuchy nastąpiły wkrótce po tym, jak izraelskie siły zbrojne poinformowały o wykryciu pocisków rakietowych...",
       "date_published": "2026-03-02T11:35:00+01:00"
     },
@@ -25,13 +39,6 @@
       "date_published": "2026-03-02T11:23:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Sniezka-utworzy-spolki-zalezne-w-Czechach-i-na-Slowacji-9091364.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sniezka-utworzy-spolki-zalezne-w-Czechach-i-na-Slowacji-9091364.html",
-      "title": "Śnieżka utworzy spółki zależne w Czechach i na Słowacji",
-      "content_html": "Śnieżka złożyła wnioski o rejestrację spółek zależnych w Czechach i na Słowacji - poinformowała spółka w komunikacie.",
-      "date_published": "2026-03-02T11:22:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Pekin-zaskoczony-operacja-w-Iranie-Padly-slowa-o-nieodwracalnych-skutkach-dla-gospodarki-9091332.html",
       "url": "https://www.bankier.pl/wiadomosc/Pekin-zaskoczony-operacja-w-Iranie-Padly-slowa-o-nieodwracalnych-skutkach-dla-gospodarki-9091332.html",
       "title": "Pekin zaskoczony operacją w Iranie. Padły słowa o \"nieodwracalnych skutkach\" dla gospodarki",
@@ -44,13 +51,6 @@
       "title": "Liczba ofiar w Iranie drastycznie rośnie. \"Ciągłe ataki powietrzne wroga\"",
       "content_html": "Co najmniej 555 osób zginęło dotąd w Iranie w wyniku ataków USA i Izraela na to państwo - poinformował w poniedziałek irański Czerwony Półksiężyc. Organizacja odnotowała w tym czasie naloty na 131 irańskich miast.",
       "date_published": "2026-03-02T11:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przedstawiciel-Iranu-przy-MAEA-trafiony-zostal-obiekt-jadrowy-w-Natanz-9091353.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przedstawiciel-Iranu-przy-MAEA-trafiony-zostal-obiekt-jadrowy-w-Natanz-9091353.html",
-      "title": "Przedstawiciel Iranu przy MAEA: trafiony został obiekt jądrowy w Natanz",
-      "content_html": "Irański ambasador przy Międzynarodowej Agencji Energii Atomowej (MAEA) Reza Nadżafi poinformował w poniedziałek, że w wyniku operacji wojskowych USA i Izraela trafiony został obiekt jądrowy w Natanz w środkowej części Iranu.",
-      "date_published": "2026-03-02T11:05:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Euro-najdrozsze-w-tym-roku-frank-najwyzej-od-kwietnia-Dolar-umocnil-sie-o-ponad-4-grosze-9091348.html",
@@ -142,6 +142,27 @@
       "title": "Bliski Wschód odcięty. Tysiące Polaków mają problem z powrotem do kraju",
       "content_html": "Wiceszef resortu dyplomacji Marcin Bosacki poinformował w poniedziałek, że według informacji MSZ w regionie szeroko pojętego Bliskiego Wschodu znajduje się kilkanaście tysięcy Polaków. Zaapelował o zarejestrowanie swojego pobytu w systemie Odyseusz...",
       "date_published": "2026-03-02T09:31:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-uruchomil-kolejna-runde-naboru-do-programu-Skylight-Accelerator-9091295.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-uruchomil-kolejna-runde-naboru-do-programu-Skylight-Accelerator-9091295.html",
+      "title": "Orlen uruchomił kolejną rundę naboru do programu Skylight Accelerator",
+      "content_html": "Orlen uruchomił skierowaną do startupów kolejną rundę naboru do programu Skylight Accelerator, którego tematem przewodnim są wyzwania związane z cyfrową organizacją i energetyką - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-02T09:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ataki-na-Iran-doluja-gieldy-Ropa-i-zloto-mocno-w-gore-9091182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ataki-na-Iran-doluja-gieldy-Ropa-i-zloto-mocno-w-gore-9091182.html",
+      "title": "Ataki na Iran dołują giełdy. Ropa i złoto mocno w górę, zyskuje Orlen",
+      "content_html": "Ceny ropy naftowej skoczyły o ponad 9 proc. przebijając poziom 80 USD za baryłkę, a najważniejsze indeksy giełdowe w Azji zanotowały spadki podczas poniedziałkowej porannej sesji. To reakcja inwestorów na weekendowe ataki USA i Izraela na Iran...",
+      "date_published": "2026-03-02T09:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Barylka-ropy-po-100-dolarow-Jesli-zaklocenia-w-ciesninie-Ormuz-sie-przedluza-9091283.html",
+      "url": "https://www.bankier.pl/wiadomosc/Barylka-ropy-po-100-dolarow-Jesli-zaklocenia-w-ciesninie-Ormuz-sie-przedluza-9091283.html",
+      "title": "Baryłka ropy po 100 dolarów? \"Jeśli zakłócenia w cieśninie Ormuz się przedłużą\"",
+      "content_html": "Ceny ropy naftowej poszybują do 100 USD za baryłkę, jeśli żegluga przez Cieśninę Ormuz zostanie zakłócona na kilka tygodni lub miesięcy - ocenia Jorge Leon, szef analiz geopolitycznych w Rystad Energy.",
+      "date_published": "2026-03-02T09:13:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-o-smierci-Chameneia-Dopadlem-go-zanim-on-dopadl-mnie-9091254.html",
@@ -543,6 +564,27 @@
       "date_published": "2026-03-01T13:02:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Skandaliczne-kulisy-amnestii-Prezydent-chce-rzadzic-do-2030-roku-9088082.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skandaliczne-kulisy-amnestii-Prezydent-chce-rzadzic-do-2030-roku-9088082.html",
+      "title": "Skandaliczne kulisy amnestii. Prezydent chce rządzić do 2030 roku",
+      "content_html": "Tysiące więźniów, głównie kobiet i nastolatków zamkniętych w więzieniach Zimbabwe wyjdzie wkrótce na wolność, ponieważ 83-letni prezydent Emmerson Mnangagwa chce zmienić konstytucję, aby przedłużyć swoją kadencję co najmniej do 2030...",
+      "date_published": "2026-03-01T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mieszkanie-jako-usluga-a-nie-majatek-Nadchodzi-era-subskrypcji-nieruchomosci-9088756.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mieszkanie-jako-usluga-a-nie-majatek-Nadchodzi-era-subskrypcji-nieruchomosci-9088756.html",
+      "title": "Mieszkanie jako usługa, a nie majątek. Nadchodzi era subskrypcji nieruchomości",
+      "content_html": "W 2040 r. własność wciąż będzie dominującą formą zamieszkania w Polsce, ale „na swoim” będzie żyć mniej osób niż obecnie - wynika z raportu „Living 2040”. Coraz więcej osób będzie natomiast wynajmować mieszkania.",
+      "date_published": "2026-03-01T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zlecenie-zabojstwa-za-blokowanie-przejecia-gruntow-Sad-nie-mial-litosci-dla-politykow-9089708.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zlecenie-zabojstwa-za-blokowanie-przejecia-gruntow-Sad-nie-mial-litosci-dla-politykow-9089708.html",
+      "title": "Zlecenie zabójstwa za blokowanie przejęcia gruntów. Sąd nie miał litości dla polityków",
+      "content_html": "Sąd Najwyższy Brazylii skazał dwóch wpływowych polityków na 76 lat więzienia za zlecenie zabójstwa aktywistki i radnej z Rio de Janeiro Marielle Franco oraz jej szofera. Zbrodnia popełniona przez byłych policjantów wstrząsnęła w 2018 roku...",
+      "date_published": "2026-03-01T12:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Aplikacyjne-taksowki-pod-lupa-Niepokojace-wyniki-ponad-350-kontroli-9090972.html",
       "url": "https://www.bankier.pl/wiadomosc/Aplikacyjne-taksowki-pod-lupa-Niepokojace-wyniki-ponad-350-kontroli-9090972.html",
       "title": "„Aplikacyjne” taksówki pod lupą. Niepokojące wyniki ponad 350 kontroli",
@@ -653,34 +695,6 @@
       "title": "„Żaden statek nie ma prawa przepłynąć”. Iran blokuje strategiczną cieśninę Ormuz",
       "content_html": "Statki znajdujące się w Zatoce Perskiej odbierały w sobotę komunikaty radiowe, nadawane przez irański Korpus Strażników Rewolucji Islamskiej, ostrzegające, że nie mogą przepływać przez ten strategiczny szlak wodny - poinformowała agencja...",
       "date_published": "2026-03-01T08:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-szacunkowymi-rachunkami-za-prad-Co-drugi-Polak-z-inteligentnym-licznikiem-9090952.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-szacunkowymi-rachunkami-za-prad-Co-drugi-Polak-z-inteligentnym-licznikiem-9090952.html",
-      "title": "Koniec z szacunkowymi rachunkami za prąd? Co drugi Polak z inteligentnym licznikiem",
-      "content_html": "49,8 proc. odbiorców końcowych energii elektrycznej posiada już liczniki zdalnego odczytu - podkreślił Polski Instytut Ekonomiczny, powołując się na dane operatorów systemów dystrybucyjnych. Zgodnie z nimi, liczników jest 9,6 mln.",
-      "date_published": "2026-03-01T08:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bezplatne-leczenie-tylko-dla-wybranych-Od-5-marca-wielkie-zmiany-dla-Ukraincow-w-Polsce-9088059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bezplatne-leczenie-tylko-dla-wybranych-Od-5-marca-wielkie-zmiany-dla-Ukraincow-w-Polsce-9088059.html",
-      "title": "Bezpłatne leczenie tylko dla wybranych. Od 5 marca wielkie zmiany dla Ukraińców w Polsce",
-      "content_html": "Od 5 marca bezpłatne leczenie będzie przysługiwało tylko obywatelom Ukrainy, którzy są ofiarami tortur, a także dzieciom i kobietom w ciąży. Pozostali Ukraińcy, którzy uciekli do Polski przed wojną, aby korzystać z publicznego systemu, będą...",
-      "date_published": "2026-03-01T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cenzura-wbudowana-w-algorytm-Eksperci-ze-Stanfordu-ostrzegaja-przed-chinskimi-modelami-AI-9088254.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cenzura-wbudowana-w-algorytm-Eksperci-ze-Stanfordu-ostrzegaja-przed-chinskimi-modelami-AI-9088254.html",
-      "title": "Cenzura wbudowana w algorytm. Eksperci ze Stanfordu ostrzegają przed chińskimi modelami AI",
-      "content_html": "Chińskie chatboty AI w porównaniu z zachodnimi modelami językowymi inaczej odpowiadały na drażliwe pytania polityczne dotyczące Chin. Częściej odmawiały odpowiedzi, omijały niewygodne fakty czy podawały nieprawdziwe informacje, co może świadczyć...",
-      "date_published": "2026-03-01T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Otylosc-to-choroba-czy-styl-zycia-Przepisy-blokuja-refundacje-lekow-9088945.html",
-      "url": "https://www.bankier.pl/wiadomosc/Otylosc-to-choroba-czy-styl-zycia-Przepisy-blokuja-refundacje-lekow-9088945.html",
-      "title": "Otyłość to choroba czy styl życia? \"Przepisy blokują refundację leków\"",
-      "content_html": "Leki na otyłość nie są refundowane, gdyż przepisy nie pozwalają na finansowanie terapii, którą można zastąpić zmianą stylu życia - powiedziała wiceminister zdrowia Katarzyna Kęcka na sejmowej Komisji Zdrowia. - Otyłość jest chorobą...",
-      "date_published": "2026-03-01T08:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
