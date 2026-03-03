@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
+      "title": "Tylko lekkie spadki na Wall Street. Iran jednak nie taki straszny?",
+      "content_html": "Wtorkowa sesja na nowojorskich giełdach przyniosła tylko łagodne spadki głównych indeksów, choć sam początek handlu przyniósł dość głęboki regres",
+      "date_published": "2026-03-03T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Handlowy-wstrzas-w-Europie-Trump-zrywa-kontakty-z-Hiszpania-i-uderza-w-Londyn-9092411.html",
       "url": "https://www.bankier.pl/wiadomosc/Handlowy-wstrzas-w-Europie-Trump-zrywa-kontakty-z-Hiszpania-i-uderza-w-Londyn-9092411.html",
       "title": "Handlowy wstrząs w Europie. Trump zrywa kontakty z Hiszpanią i uderza w Londyn",
@@ -695,13 +702,6 @@
       "title": "Ceny gazu w Europie nie zwalniają. W ciągu ostatnich 2 dni zyskały ponad 50 proc.",
       "content_html": "Ceny gazu w Europie nie zwalniają we wzrostach - paliwo drożeje kolejną sesję, a w ciągu ostatnich 2 dni zyskało ponad 50 proc. Inwestorzy niepokoją się w związku ze wstrzymaniem dostaw LNG z Kataru - informują maklerzy.",
       "date_published": "2026-03-03T09:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Aneks-do-raportu-WSI-Slawomir-Cenckiewicz-ujawnia-termin-Prezydent-dostanie-specjalna-wersje-9092010.html",
-      "url": "https://www.bankier.pl/wiadomosc/Aneks-do-raportu-WSI-Slawomir-Cenckiewicz-ujawnia-termin-Prezydent-dostanie-specjalna-wersje-9092010.html",
-      "title": "Aneks do raportu WSI. Sławomir Cenckiewicz ujawnia termin. „Prezydent dostanie specjalną wersję”",
-      "content_html": "W marcu prezydent Karol Nawrocki dostanie taką wersję aneksu do raportu weryfikacyjnego WSI, która pozwoli mu podjąć decyzję o ujawnieniu aneksu - zapowiedział szef BBN Sławomir Cenckiewicz. Wersja ta musiała zostać w pewnym stopniu „zanonimizowana”...",
-      "date_published": "2026-03-03T09:47:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
