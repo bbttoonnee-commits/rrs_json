@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Miliony-na-propagande-PiS-Fundacja-Orlen-placila-za-polityke-9092570.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliony-na-propagande-PiS-Fundacja-Orlen-placila-za-polityke-9092570.html",
+      "title": "\"Miliony na propagandę PiS\". Fundacja Orlen płaciła za politykę? Fundacja Orlenu przekazała ponad 4,6 mln zł na kampanię promującą referendum 4XNIE, mające pomóc PiS w wygraniu wyborów w 2023 r.; teraz prokuratura zabezpieczyła cztery nieruchomości byłej prezeski fundacji, która akceptowała fakt, że pieniądze przeznaczono niezgodnie z celem - informuje w środę „Gazeta Wyborcza\".",
+      "content_html": "",
+      "date_published": "2026-03-04T07:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Robyg-mial-w-2025-r-ponad-1-5-mld-zl-przychodow-ze-sprzedazy-9092571.html",
       "url": "https://www.bankier.pl/wiadomosc/Robyg-mial-w-2025-r-ponad-1-5-mld-zl-przychodow-ze-sprzedazy-9092571.html",
       "title": "Robyg miał w 2025 r. ponad 1,5 mld zł przychodów ze sprzedaży W 2025 roku Robyg z grupy TAG Immobilien zanotował przychody ze sprzedaży na poziomie ponad 1,5 mld zł, co oznacza wzrost o 15 proc. rdr, podczas gdy marża brutto ze sprzedaży wyniosła blisko 378 mln zł - podał Robyg w komunikacie prasowym.",
@@ -464,20 +471,6 @@
       "title": "Silne wzrosty cen gazu w Europie. Powodem konflikt na Bliskim Wschodzie Ceny gazu w Europie rosną o 20 proc. po zwyżce wcześniej o 25 proc., najmocniejszej od sierpnia 2023 r. To reakcja na obawy inwestorów o walki na Bliskim Wschodzie, co może poważnie zakłócić dostawy światowej energii - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-03-02T08:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-po-wczesniejszych-zwyzkach-9091247.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-po-wczesniejszych-zwyzkach-9091247.html",
-      "title": "Ceny miedzi w Londynie spadają po wcześniejszych zwyżkach Notowania miedzi na giełdzie metali LME w Londynie spadają po wcześniejszych zwyżkach - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-03-02T07:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-poszybowaly-Ale-wytracily-prawie-polowe-zwyzek-9091237.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-poszybowaly-Ale-wytracily-prawie-polowe-zwyzek-9091237.html",
-      "title": "Ceny ropy poszybowały. Ale wytraciły prawie połowę zwyżek Ceny ropy naftowej poszybowały po rozpoczęciu sesji w poniedziałek najmocniej od 4 lat, ale wytraciły prawie połowę zwyżek. Inwestorzy nerwowo reagują na zamknięcie Cieśniny Ormuz spowodowane wojną pomiędzy USA, Izraelema a Iranem - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-03-02T07:08:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
