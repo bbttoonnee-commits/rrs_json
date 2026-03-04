@@ -4,18 +4,60 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-powolanie-Roberta-Tomaszewskiego-na-prezesa-Link4-TU-9092901.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-powolanie-Roberta-Tomaszewskiego-na-prezesa-Link4-TU-9092901.html",
+      "title": "KNF zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 TU Komisja Nadzoru Finansowego zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 Towarzystwa Ubezpieczeń - poinformowała KNF w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-04T14:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BGK-podpisal-z-Orlen-Termika-umowe-na-pozyczke-z-KPO-do-wys-762-5-mln-zl-9092895.html",
+      "url": "https://www.bankier.pl/wiadomosc/BGK-podpisal-z-Orlen-Termika-umowe-na-pozyczke-z-KPO-do-wys-762-5-mln-zl-9092895.html",
+      "title": "BGK podpisał z Orlen Termika umowę na pożyczkę z KPO do wys. 762,5 mln zł BGK udzielił dofinansowania ze środków KPO na największy w Europie system odzysku ciepła ze spalin w Elektrociepłowni Żerań - podał bank na stronie internetowej. Pożyczka do kwoty 762,5 mln pochodzi ze środków Krajowego Planu Odbudowy.",
+      "content_html": "",
+      "date_published": "2026-03-04T14:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelomowy-rok-dla-atomu-Amerykanie-chca-zamknac-negocjacje-do-polowy-roku-9092890.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowy-rok-dla-atomu-Amerykanie-chca-zamknac-negocjacje-do-polowy-roku-9092890.html",
+      "title": "Przełomowy rok dla atomu. Amerykanie chcą zamknąć negocjacje do połowy roku Obie strony, PEJ i Westinghouse-Bechtel, aspirują zgodnie do tego, aby do połowy tego roku zamknąć tematy negocjacyjne związane z budową pierwszej polskiej elektrowni jądrowej - poinformował na konferencji w Gdańsku prezes PEJ Marek Woszczyk. Dodał, że na ten moment projekt przebiega zgodnie z harmonogramem, przy czym dopiero wchodzi w fazę realnej budowy.",
+      "content_html": "",
+      "date_published": "2026-03-04T14:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Apator-szacuje-CAPEX-w-2026-roku-na-70-80-mln-zl-9092869.html",
+      "url": "https://www.bankier.pl/wiadomosc/Apator-szacuje-CAPEX-w-2026-roku-na-70-80-mln-zl-9092869.html",
+      "title": "Apator szacuje CAPEX w 2026 roku na 70-80 mln zł Apator szacuje CAPEX w 2026 roku na 70-80 mln zł, co jest zgodne ze strategią, ale w kolejnych latach powinien on spaść - poinformował podczas konferencji wynikowej Maciej Wyczesany, prezes i dyrektor generalny Apatora.",
+      "content_html": "",
+      "date_published": "2026-03-04T14:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Do-sadu-trafil-wniosek-o-zawieszenie-postepowania-ws-decyzji-weglowej-dotyczacej-PKP-Cargo-9092865.html",
+      "url": "https://www.bankier.pl/wiadomosc/Do-sadu-trafil-wniosek-o-zawieszenie-postepowania-ws-decyzji-weglowej-dotyczacej-PKP-Cargo-9092865.html",
+      "title": "Do sądu trafił wniosek o zawieszenie postępowania ws. decyzji węglowej dotyczącej PKP Cargo Do Sądu Okręgowego w Warszawie trafił wniosek o zawieszenie postępowania w sprawie tzw. decyzji węglowej dotyczącej PKP Cargo - podała spółka w komunikacie. Tożsamy wniosek złożyła także Prokuratoria Generalna RP.",
+      "content_html": "",
+      "date_published": "2026-03-04T14:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wyemitowal-obligacje-o-wartosci-250-mln-zl-9092841.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wyemitowal-obligacje-o-wartosci-250-mln-zl-9092841.html",
+      "title": "Dom Development wyemitował obligacje o wartości 250 mln zł Dom Development wyemitował niezabezpieczone obligacje serii DOMDEM2040331 o łącznej wartości 250 mln zł z datą wykupu przypadającą w dniu 4 marca 2031 roku - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-04T14:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
+      "title": "PGE wyda ponad 6 mld zł na dwie nowe elektrownie. „Most między węglem a atomem” Grupa PGE podpisała w środę z konsorcjum Polimex Mostostal, Siemens Energy i Siemens Energy Global umowy na budowę dwóch elektrowni gazowych w Rybniku i Gryfinie za łącznie ok. 6 mld zł.",
+      "content_html": "",
+      "date_published": "2026-03-04T13:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-energetyka-odporna-na-geopolityczne-wstrzasy-minister-energii-9092830.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-energetyka-odporna-na-geopolityczne-wstrzasy-minister-energii-9092830.html",
       "title": "Bliskowschodnia burza omija Polskę. Motyka: Polska energetyka odporna na wstrząsy Polska energetyka dzięki dywersyfikacji dostaw paliw i mocy wytwórczych jest odporna na geopolityczne wstrząsy – ocenił minister energii Miłosz Motyka.",
       "content_html": "",
       "date_published": "2026-03-04T13:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
-      "url": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
-      "title": "PGE inwestuje miliardy w gaz. Polimex i Siemens zbudują bloki w Rybniku i Gryfinie Grupa PGE podpisała w środę z konsorcjum Polimex Mostostal, Siemens Energy i Siemens Energy Global umowy na budowę dwóch elektrowni gazowych w Rybniku i Gryfinie za łącznie ok. 6 mld zł.",
-      "content_html": "",
-      "date_published": "2026-03-04T13:30:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-ustanowil-program-emisji-euroobligacji-o-wartosci-do-3-mld-euro-9092802.html",
@@ -219,20 +261,6 @@
       "title": "Sygnis stawia na współpracę z NATO i nowe kontrakty Sygnis stawia na współpracę z NATO i nowe kontrakty w obszarze DAM - poinformował PAP Biznes Andrzej Burgs, prezes zarządu Sygnis. Spółka po przeprowadzonej emisji akcji chce wykorzystać środki m.in. na więcej systemów DAM.",
       "content_html": "",
       "date_published": "2026-03-03T14:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ZUK-Staporkow-zaprasza-do-skladania-ofert-sprzedazy-akcji-spolki-po-cenie-8-zl-szt-9092224.html",
-      "url": "https://www.bankier.pl/wiadomosc/ZUK-Staporkow-zaprasza-do-skladania-ofert-sprzedazy-akcji-spolki-po-cenie-8-zl-szt-9092224.html",
-      "title": "ZUK Stąporków zaprasza do sprzedaży akcji po 8 zł za sztukę ZUK Stąporków rozpoczyna skup akcji własnych i zaprasza do składania ofert sprzedaży do 325.190 akcji spółki po cenie 8 zł/szt. - poinformowała spółka.",
-      "content_html": "",
-      "date_published": "2026-03-03T14:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-uzyje-narzedzi-w-tym-dot-marzy-aby-wzrosty-cen-ropy-nie-odbily-sie-mocno-na-cenach-paliw-premier-9092161.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-uzyje-narzedzi-w-tym-dot-marzy-aby-wzrosty-cen-ropy-nie-odbily-sie-mocno-na-cenach-paliw-premier-9092161.html",
-      "title": "Polityczne instrukcje dla Orlenu. Premier o marżach giganta Orlen użyje narzędzi, w tym związanych z marżą, aby wzrosty cen ropy nie odbiły się mocno na cenach paliw w Polsce - poinformował premier Donald Tusk.",
-      "content_html": "",
-      "date_published": "2026-03-03T14:25:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ile-nas-bedzie-kosztowac-iranska-awantura-Wuja-Sama-9092182.html",
@@ -485,20 +513,6 @@
       "title": "Best wyemituje obligacje serii AF1 o łącznej wartości nominalnej do 90 mln zł Best wyemituje nie więcej niż 900 tys. obligacji serii AF1 o łącznej wartości nominalnej do 90 mln zł, z możliwością zwiększenia emisji do 140 mln zł - podała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-03-02T15:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bank-Handlowy-ma-zalecenie-KNF-potwierdzajace-spelnienie-wymogow-do-wyplaty-dywidendy-do-75-proc-zysku-za-25-9091535.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bank-Handlowy-ma-zalecenie-KNF-potwierdzajace-spelnienie-wymogow-do-wyplaty-dywidendy-do-75-proc-zysku-za-25-9091535.html",
-      "title": "Bank Handlowy ma zalecenie KNF potwierdzające spełnienie wymogów do wypłaty dywidendy do 75 proc. zysku za '25 Bank Handlowy otrzymał indywidualne zalecenie KNF potwierdzające spełnienie przez bank wymogów do wypłaty dywidendy na poziomie do 75 proc. zysku za 2025 r., przy czym maksymalna kwota wypłaty nie może przekraczać kwoty zysku rocznego pomniejszonego o zysk wypracowany w 2025 r. włączony już do funduszy własnych - podał bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-02T14:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-mocno-w-gore-QuatarEnergy-wstrzymal-produkcje-LNG-po-ataku-dronow-9091530.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-mocno-w-gore-QuatarEnergy-wstrzymal-produkcje-LNG-po-ataku-dronow-9091530.html",
-      "title": "Ceny gazu mocno w górę. QuatarEnergy wstrzymał produkcję LNG po ataku dronów Ceny gazu w Europie wzrosły o prawie 50 proc. po tym, jak Katar wstrzymał produkcję skroplonego gazu ziemnego w największym na świecie obiekcie eksportowym po ataku irańskiego drona.",
-      "content_html": "",
-      "date_published": "2026-03-02T14:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
