@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9093124.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-BS-planuje-wyplacic-3-75-zl-dywidendy-na-akcje-9093124.html",
+      "title": "Asseco BS planuje wypłacić 3,75 zł dywidendy na akcję Zarząd i rada nadzorcza Asseco Business Solutions rekomendują walnemu zgromadzeniu wypłatę dywidendy w wysokości 3,75 zł na akcję - podała spółka w komunikacie. Łącznie na ten cel ma trafić 125,32 mln zł.",
+      "content_html": "",
+      "date_published": "2026-03-04T18:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-Business-Solutions-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9093072.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-Business-Solutions-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9093072.html",
       "title": "Wyniki Asseco Business Solutions w IV kw. 2025 roku vs. konsensus PAP Poniżej przedstawiono wyniki Asseco Business Solutions w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wcześniejszych wyników.",
@@ -492,20 +499,6 @@
       "title": "Grupa Azoty ma nowy zarząd. Marcin Celejewski prezesem spółki Rada Nadzorcza Grupy Azoty powołała nowy zarząd, powierzając funkcję prezesa zarządu Marcinowi Celejewskiemu oraz funkcję wiceprezesa zarządu Małgorzacie Królak - podała grupa w komunikacie prasowym. Jednocześnie do czasowego pełnienia funkcji wiceprezesa zarządu – na okres do trzech miesięcy – delegowana została wiceprzewodnicząca RN Aleksandra Machowicz-Jaworska.",
       "content_html": "",
       "date_published": "2026-03-02T20:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Benefit-Systems-zglosil-Piotra-Kaczmarka-i-Jacka-Osowskiego-na-niezaleznych-czlonkow-RN-9091801.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Benefit-Systems-zglosil-Piotra-Kaczmarka-i-Jacka-Osowskiego-na-niezaleznych-czlonkow-RN-9091801.html",
-      "title": "Akcjonariusz Benefit Systems zgłosił Piotra Kaczmarka i Jacka Osowskiego na niezależnych członków RN Akcjonariusz Benefit Systems, Powszechne Towarzystwo Emerytalne Allianz Polska działające w imieniu Allianz Polska OFE, zgłosił kandydatury Piotra Kaczmarka oraz Jacka Osowskiego na niezależnych członków rady nadzorczej spółki - podał Benefit Systems w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-02T19:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Orlenu-na-poziomie-BBB-perspektywa-stabilna-9091774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Orlenu-na-poziomie-BBB-perspektywa-stabilna-9091774.html",
-      "title": "Fitch potwierdził rating Orlenu na poziomie \"BBB+\", perspektywa stabilna Agencja Fitch potwierdziła długoterminowy rating IDR Orlenu w walucie obcej na poziomie \"BBB+\". Perspektywa ratingu jest stabilna - podał Fitch w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-02T18:58:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
