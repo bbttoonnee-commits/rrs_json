@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-szacuje-ze-miala-w-IV-kw-44-4-mln-zl-skonsolidowanego-zysku-netto-wzrost-o-36-4-proc-rdr-9092626.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-szacuje-ze-miala-w-IV-kw-44-4-mln-zl-skonsolidowanego-zysku-netto-wzrost-o-36-4-proc-rdr-9092626.html",
+      "title": "Potężny wzrost rentowności cyber_Folks. EBITDA wystrzeliła o 72 proc. rdr Grupa cyber_Folks szacuje, że miała w IV kwartale 2025 r. 44,4 mln zł skonsolidowanego zysku netto, co oznacza wzrost o 36,4 proc. rdr - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-04T09:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/OZE-w-Polsce-kwitnie-R-Power-375-mln-zl-zysku-EBITDA-i-miliardowe-inwestycje-9092637.html",
+      "url": "https://www.bankier.pl/wiadomosc/OZE-w-Polsce-kwitnie-R-Power-375-mln-zl-zysku-EBITDA-i-miliardowe-inwestycje-9092637.html",
+      "title": "OZE w Polsce kwitnie. R.Power: 375 mln zł zysku EBITDA i miliardowe inwestycje Grupa R.Power odnotowała 156 mln zł zysku netto w 2025 r. - podała spółka w komunikacie dot. wstępnych wyników. Zysk EBITDA wyniósł 375 mln zł w 2025 r. wobec 99 mln zł zysku w 2024 r., przy przychodach ogółem odpowiednio: 628 mln zł wobec 427 mln zł w 2024 r.",
+      "content_html": "",
+      "date_published": "2026-03-04T09:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gazowy-horror-trwa-Najmocniejszy-rajd-notowan-od-4-lat-9092632.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gazowy-horror-trwa-Najmocniejszy-rajd-notowan-od-4-lat-9092632.html",
+      "title": "Gazowy horror trwa. Najmocniejszy rajd notowań od 4 lat Ceny gazu w Europie dalej idą w górę zaliczając najmocniejszy rajd notowań od 4 lat. Konflikt na Bliskim Wschodzie eskaluje - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-03-04T09:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Shoper-szacuje-ze-w-IV-kw-mial-13-6-mln-zl-zysku-netto-spadek-o-1-proc-rdr-9092630.html",
+      "url": "https://www.bankier.pl/wiadomosc/Shoper-szacuje-ze-w-IV-kw-mial-13-6-mln-zl-zysku-netto-spadek-o-1-proc-rdr-9092630.html",
+      "title": "Szacunki Shoper: 218 mln zł przychodów i solidny wzrost rentowności Grupa Shoper szacuje, że w czwartym kwartale 2025 r. uzyskała 13,6 mln zł zysku netto, wobec 13,8 mln zł w czwartym kwartale 2024 r., co oznacza spadek o 1 proc. - podała spółka w komunikacie. Shoper szacuje, że w tym okresie przychody ze sprzedaży wyniosły 59,8 mln zł, wobec 55,0 mln zł w IV kwartale 2024 r.",
+      "content_html": "",
+      "date_published": "2026-03-04T09:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Vercom-szacuje-ze-w-IV-kw-mial-25-4-mln-zl-skonsolidowanego-zysku-netto-12-proc-wiecej-rdr-9092620.html",
       "url": "https://www.bankier.pl/wiadomosc/Vercom-szacuje-ze-w-IV-kw-mial-25-4-mln-zl-skonsolidowanego-zysku-netto-12-proc-wiecej-rdr-9092620.html",
       "title": "Vercom mocno powyżej konsensusu. Zysk netto w IV kwartale wzrósł o 12 proc. Vercom szacuje, że w IV kwartale 2025 r. miał 25,4 mln zł skonsolidowanego zysku netto, co oznacza wzrost o 12 proc. rdr - podała spółka w komunikacie. Konsensusu PAP Biznes zakłada zysk netto j.d. w wysokości 23,5 mln zł.",
@@ -457,27 +485,6 @@
       "title": "Minister aktywów państwowych liczy na ugodę z wykonawcą Polimerów Police Minister aktywów państwowych liczy, że znajdzie się rozwiązanie ugodowe z generalnym wykonawcą projektu Polimerów Police, czyli koreańskim koncernem Hyundai Engineering Co.",
       "content_html": "",
       "date_published": "2026-03-02T09:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-uruchomil-kolejna-runde-naboru-do-programu-Skylight-Accelerator-9091295.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-uruchomil-kolejna-runde-naboru-do-programu-Skylight-Accelerator-9091295.html",
-      "title": "Orlen uruchomił kolejną rundę naboru do programu Skylight Accelerator Orlen uruchomił skierowaną do startupów kolejną rundę naboru do programu Skylight Accelerator, którego tematem przewodnim są wyzwania związane z cyfrową organizacją i energetyką - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-02T09:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ataki-na-Iran-doluja-gieldy-Ropa-i-zloto-mocno-w-gore-9091182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ataki-na-Iran-doluja-gieldy-Ropa-i-zloto-mocno-w-gore-9091182.html",
-      "title": "Ataki na Iran dołują giełdy. Ropa i złoto mocno w górę, zyskuje Orlen Ceny ropy naftowej skoczyły o ponad 9 proc. przebijając poziom 80 USD za baryłkę, a najważniejsze indeksy giełdowe w Azji zanotowały spadki podczas poniedziałkowej porannej sesji. To reakcja inwestorów na weekendowe ataki USA i Izraela na Iran oraz faktyczne wstrzymanie ruchu tankowców w strategicznej cieśninie Ormuz.",
-      "content_html": "",
-      "date_published": "2026-03-02T09:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Barylka-ropy-po-100-dolarow-Jesli-zaklocenia-w-ciesninie-Ormuz-sie-przedluza-9091283.html",
-      "url": "https://www.bankier.pl/wiadomosc/Barylka-ropy-po-100-dolarow-Jesli-zaklocenia-w-ciesninie-Ormuz-sie-przedluza-9091283.html",
-      "title": "Baryłka ropy po 100 dolarów? \"Jeśli zakłócenia w cieśninie Ormuz się przedłużą\" Ceny ropy naftowej poszybują do 100 USD za baryłkę, jeśli żegluga przez Cieśninę Ormuz zostanie zakłócona na kilka tygodni lub miesięcy - ocenia Jorge Leon, szef analiz geopolitycznych w Rystad Energy.",
-      "content_html": "",
-      "date_published": "2026-03-02T09:13:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
