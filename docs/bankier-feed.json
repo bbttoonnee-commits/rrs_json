@@ -4,9 +4,58 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-podpisala-z-konsorcjum-Polimeksu-i-Siemensa-umowy-na-budowe-dwoch-elektrowni-gazowych-9092811.html",
+      "title": "PGE inwestuje miliardy w gaz. Polimex i Siemens zbudują bloki w Rybniku i Gryfinie",
+      "content_html": "Grupa PGE podpisała w środę z konsorcjum Polimex Mostostal, Siemens Energy i Siemens Energy Global umowy na budowę dwóch elektrowni gazowych w Rybniku i Gryfinie za łącznie ok. 6 mld zł.",
+      "date_published": "2026-03-04T13:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unijny-zwrot-przeciwko-Chinom-KE-chce-obowiazku-Made-in-EU-9092823.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unijny-zwrot-przeciwko-Chinom-KE-chce-obowiazku-Made-in-EU-9092823.html",
+      "title": "Unijny zwrot przeciwko Chinom. KE chce obowiązku \"Made in EU\"",
+      "content_html": "KE zaproponowała w środę wprowadzenie do zamówień publicznych i innych mechanizmów wsparcia publicznego wymogu „Wyprodukowano w UE” (Made in EU), zgodnie z którym komponenty zamawianych towarów mają być wytwarzane w UE. Będzie to dotyczyć...",
+      "date_published": "2026-03-04T13:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-ustanowil-program-emisji-euroobligacji-o-wartosci-do-3-mld-euro-9092802.html",
+      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-ustanowil-program-emisji-euroobligacji-o-wartosci-do-3-mld-euro-9092802.html",
+      "title": "Alior Bank rusza z programem euroobligacji o wartości do 3 mld euro",
+      "content_html": "Rada nadzorcza Alior Banku zatwierdziła ustanowienie programu emisji euroobligacji (Program EMTN) o wartości do 3 mld euro lub jej równowartości w walutach emisji - podał Alior w komunikacie.",
+      "date_published": "2026-03-04T13:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-lutym-wzrosla-do-10-5-USD-z-8-8-USD-w-styczniu-9092806.html",
+      "url": "https://www.bankier.pl/wiadomosc/Modelowa-marza-rafineryjna-Orlenu-w-lutym-wzrosla-do-10-5-USD-z-8-8-USD-w-styczniu-9092806.html",
+      "title": "Modelowa marża Orlenu skoczyła o blisko 20%. Jest z czego ciąć?",
+      "content_html": "Modelowa marża rafineryjna Orlenu w lutym 2026 roku wzrosła do 10,5 USD z 8,8 USD w styczniu 2026 roku - poinformował Orlen. Dyferencjał jest dodatni i wynosi 2,0 USD, wobec dyferencjału na poziomie 1,3 USD w styczniu.",
+      "date_published": "2026-03-04T13:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Minister-finansow-Bezrobocie-w-Polsce-najnizsze-w-calej-UE-9092794.html",
+      "url": "https://www.bankier.pl/wiadomosc/Minister-finansow-Bezrobocie-w-Polsce-najnizsze-w-calej-UE-9092794.html",
+      "title": "Minister finansów: Bezrobocie w Polsce najniższe w całej UE",
+      "content_html": "Eurostat pokazał, że styczniowa stopa bezrobocia w Polsce to 3,1 proc. – napisał w środę minister finansów i gospodarki Andrzej Domański. Dodał, że to najniższy poziom w całej UE.",
+      "date_published": "2026-03-04T13:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowa-sila-w-polskiej-polityce-Hennig-Kloska-zapowiada-zalozenie-partii-9092792.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-sila-w-polskiej-polityce-Hennig-Kloska-zapowiada-zalozenie-partii-9092792.html",
+      "title": "Nowa siła w polskiej polityce. Hennig-Kloska zapowiada założenie partii",
+      "content_html": "Centrum Polska – to nazwa stowarzyszenia związanego z klubem parlamentarnym Centrum powołanym po rozłamie w Polsce 2050. Poinformowała o tym w środę jego prezeska Paulina Hennig-Kloska. Zapowiedziała także w przyszłości utworzenie partii politycznej...",
+      "date_published": "2026-03-04T13:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sociale-pelne-fake-newsow-o-sytuacji-Polakow-na-Bliskim-Wchodzie-Rzad-reaguje-9092798.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sociale-pelne-fake-newsow-o-sytuacji-Polakow-na-Bliskim-Wchodzie-Rzad-reaguje-9092798.html",
+      "title": "Sociale pełne fake newsów o sytuacji Polaków na Bliskim Wchodzie. Rząd reaguje",
+      "content_html": "Podjąłem decyzję o wzmocnieniu monitoringu polskiej sieci i tego, co dzieje się w obszarze ewentualnych cyberincydentów i ataków - powiedział w środę wicepremier, minister cyfryzacji Krzysztof Gawkowski, odnosząc się do pojawiających się...",
+      "date_published": "2026-03-04T12:49:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PGE-nie-widzi-zagrozenia-dla-dostaw-gazu-prezes-9092784.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-nie-widzi-zagrozenia-dla-dostaw-gazu-prezes-9092784.html",
-      "title": "PGE nie widzi zagrożenia dla dostaw gazu - prezes",
+      "title": "Prezes PGE: Konflikt na Bliskim Wschodzie nie zagraża dostawom gazu do Polski",
       "content_html": "Prezes PGE Dariusz Lubera nie widzi zagrożenia dla dostaw gazu w związku z konfliktem na Bliskim Wschodzie.",
       "date_published": "2026-03-04T12:30:00+01:00"
     },
@@ -233,13 +282,6 @@
       "title": "Nowe naloty na cele w Iranie i Libanie. Zaatakowano siedzibę milicji Basidż",
       "content_html": "Izrael przeprowadził w nocy z wtorku na środę nową falę uderzeń na cele w Iranie oraz w Libanie - przekazały w środę rano siły zbrojne tego kraju (IDF). W Teheranie zaatakowana została m.in. siedziba milicji Basidż podlegającej Korpusowi...",
       "date_published": "2026-03-04T09:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawdziwe-koszty-wojny-Rosja-manipuluje-danymi-gigantyczna-dziura-w-budzecie-Putina-9092649.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawdziwe-koszty-wojny-Rosja-manipuluje-danymi-gigantyczna-dziura-w-budzecie-Putina-9092649.html",
-      "title": "Prawdziwe koszty wojny. Rosja manipuluje danymi, gigantyczna dziura w budżecie Putina",
-      "content_html": "Rzeczywisty deficyt budżetu federalnego Rosji był w 2025 roku wyższy od podawanego oficjalnie o ponad 2,36 bln rubli (ok. 26 mld euro) – poinformowała w środę niemiecka Federalna Służba Wywiadowcza (BND).",
-      "date_published": "2026-03-04T09:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-cyber-Folks-szacuje-ze-miala-w-IV-kw-44-4-mln-zl-skonsolidowanego-zysku-netto-wzrost-o-36-4-proc-rdr-9092626.html",
@@ -653,55 +695,6 @@
       "title": "Węgierskie weto trzyma mocno. Miliardy dla Kijowa pod znakiem zapytania",
       "content_html": "Szefowa KE Ursula von der Leyen i prezydent Ukrainy Wołodymyr Zełenski w rozmowie telefonicznej we wtorek skupili się głównie na szybkim zakończeniu procesu przyjmowania pożyczki na wsparcie Ukrainy - przekazała we wtorek Komisja Europejska.",
       "date_published": "2026-03-03T19:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-czesc-odpisow-aktualizujacych-co-zwiekszy-wynik-brutto-za-25-o-392-mln-zl-9092424.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-czesc-odpisow-aktualizujacych-co-zwiekszy-wynik-brutto-za-25-o-392-mln-zl-9092424.html",
-      "title": "Lepsze perspektywy energetycznego giganta. Tauron koryguje odpisy o 392 mln zł",
-      "content_html": "Tauron PE zakończył analizy przeprowadzone w ramach testów na utratę wartości aktywów, które wykazały zasadność częściowego odwrócenia uprzednio utworzonych odpisów aktualizujących, co zwiększy jednostkowy wynik brutto za 2025 r. w łącznej...",
-      "date_published": "2026-03-03T18:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Brytyjczycy-wysla-niszczyciel-rakietowy-na-Cypr-by-bronic-brytyjskich-baz-9092158.html",
-      "url": "https://www.bankier.pl/wiadomosc/Brytyjczycy-wysla-niszczyciel-rakietowy-na-Cypr-by-bronic-brytyjskich-baz-9092158.html",
-      "title": "Brytyjczycy wyślą niszczyciel rakietowy na Cypr, by bronić brytyjskich baz",
-      "content_html": "Wielka Brytania zamierza wysłać jeden z okrętów na Cypr, aby bronić znajdujących się tam brytyjskich baz wojskowych Akrotiri i Dhekelia przed możliwymi atakami Iranu - poinformował we wtorek dziennik „The Tiimes”.",
-      "date_published": "2026-03-03T18:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-misji-dyplomatycznych-w-Bejrucie-USA-zamykaja-ambasade-9092415.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-misji-dyplomatycznych-w-Bejrucie-USA-zamykaja-ambasade-9092415.html",
-      "title": "Koniec misji dyplomatycznych w Bejrucie. USA zamykają ambasadę",
-      "content_html": "Siły izraelskie zaatakowały we wtorek siedzibę organizacji islamistycznej powiązanej z libańskim Hezbollahem i palestyńskim Hamasem w Sajdzie na południu Libanu – podała oficjalna libańska agencja ANI. Ambasada USA w Bejrucie zapowiedziała...",
-      "date_published": "2026-03-03T18:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-atomowej-pasywnosci-Polska-dolacza-do-nuklearnego-projektu-9092203.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-atomowej-pasywnosci-Polska-dolacza-do-nuklearnego-projektu-9092203.html",
-      "title": "Koniec atomowej pasywności. Polska dołącza do nuklearnego projektu?",
-      "content_html": "Polska nie chce być pasywna ws. bezpieczeństwa nuklearnego w kontekście militarnym - podkreślił we wtorek premier Donald Tusk, mówiąc o udziale we francuskim systemie odstraszania nuklearnego. W przyszłości będziemy starali się przygotować...",
-      "date_published": "2026-03-03T18:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tysiace-pasazerow-statkow-wycieczkowych-utknely-na-wodach-Zatoki-Perskiej-9092408.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tysiace-pasazerow-statkow-wycieczkowych-utknely-na-wodach-Zatoki-Perskiej-9092408.html",
-      "title": "Tysiące pasażerów statków wycieczkowych utknęły na wodach Zatoki Perskiej",
-      "content_html": "Nie tylko tankowce utknęły na Bliskim Wschodzie - co najmniej pół tuzina statków wycieczkowych z tysiącami osób na pokładach zacumowało w portach dotkniętego konfliktem rejonu, w tym w Katarze i Zjednoczonych Emiratach Arabskich, gdzie, obserwując...",
-      "date_published": "2026-03-03T18:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-zmusil-mnie-do-ataku-to-ja-moglem-zmusic-do-niego-Izrael-9092403.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-zmusil-mnie-do-ataku-to-ja-moglem-zmusic-do-niego-Izrael-9092403.html",
-      "title": "Trump: Izrael nie zmusił mnie do ataku, to ja mogłem zmusić do niego Izrael",
-      "content_html": "Izrael nie zmusił mnie do ataku na Iran, jeśli już, to ja go wymusiłem na Izraelu - powiedział we wtorek prezydent USA Donald Trump podczas spotkania z kanclerzem Niemiec Friedrichem Merzem w Białym Domu. Sugerował, że to Iran chciał zaatakować...",
-      "date_published": "2026-03-03T18:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oddech-dla-polskich-przedsiebiorstw-Miliardowe-obroty-bez-raportu-ESG-przez-dwa-lata-9092393.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oddech-dla-polskich-przedsiebiorstw-Miliardowe-obroty-bez-raportu-ESG-przez-dwa-lata-9092393.html",
-      "title": "Oddech dla polskich przedsiębiorstw. Miliardowe obroty bez raportu ESG przez dwa lata",
-      "content_html": "We wtorek senacka Komisja Budżetu i Finansów publicznych poparła przyjęcie nowelizacji ustawy o rachunkowości bez poprawek. Celem ustawy jest zwolnienie części firm z raportowania ESG za 2025 i 2026 r. Ustawa trafi teraz pod obrady plenarne Senatu...",
-      "date_published": "2026-03-03T18:03:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
