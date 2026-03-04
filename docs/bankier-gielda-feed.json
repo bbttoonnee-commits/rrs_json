@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes-9092765.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes-9092765.html",
+      "title": "PGE może w połowie roku dokonać przeglądu strategii grupy PGE może w połowie roku dokonać przeglądu strategii grupy - poinformował prezes PGE Dariusz Lubera.",
+      "content_html": "",
+      "date_published": "2026-03-04T12:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wywiad-Iranu-chce-negocjacji-pokojowych-Gieldy-reaguja-9092755.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wywiad-Iranu-chce-negocjacji-pokojowych-Gieldy-reaguja-9092755.html",
+      "title": "\"NYT\" Wywiad Iranu chce negocjacji pokojowych? Giełdy reagują „New York Times” podał w środę, że agenci irańskiego Ministerstwa Wywiadu skontaktowali się z CIA za pośrednictwem agencji wywiadowczej innego kraju z ofertą omówienia warunków zakończenia konfliktu.",
+      "content_html": "",
+      "date_published": "2026-03-04T11:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gaming-Factory-planuje-drugie-platne-DLC-do-gry-JDM-Japanese-Drift-Master-w-II-kwartale-9092740.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaming-Factory-planuje-drugie-platne-DLC-do-gry-JDM-Japanese-Drift-Master-w-II-kwartale-9092740.html",
+      "title": "Gaming Factory planuje na II kwartał premierę drugiego dodatku \"American Classics\" Gaming Factory planuje na drugi kwartał premierę drugiego dodatku \"American Classics\" do gry \"JDM: Japanese Drift Master\" - podała spółka w komunikacie prasowym. Także na drugi kwartał planowane jest wprowadzenie trybu multiplayer online oraz wdrożenie kolejnych bezpłatnych elementów rozbudowy gry.",
+      "content_html": "",
+      "date_published": "2026-03-04T11:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KGHM-nie-widzi-ryzyka-obnizenia-produkcji-w-zwiazku-z-dynamicznym-wzrostem-cen-gazu-9092722.html",
       "url": "https://www.bankier.pl/wiadomosc/KGHM-nie-widzi-ryzyka-obnizenia-produkcji-w-zwiazku-z-dynamicznym-wzrostem-cen-gazu-9092722.html",
       "title": "Gazowy rajd niestraszny KGHM. Spółka uspokaja rynek KGHM ma zabezpieczone dostawy gazu na kolejne okresy po korzystnych cenach - poinformował PAP Biznes rzecznik prasowy miedziowego koncernu Artur Newecki. Spółka zapewnia, że nie ma jakiegokolwiek ryzyka obniżenia produkcji w związku z dynamicznym wzrostem cen gazu.",
@@ -499,13 +520,6 @@
       "title": "Akcje Rainbow Tours nurkują na giełdzie. Prezes uspokaja turystów i inwestorów Zamknięcie przestrzeni powietrznej nad Zatoką Perską oznacza wyzwania operacyjne dla grupy Rainbow Tours, ale negatywny wpływ na wyniki touroperatora ograniczony będzie głównie do marca w związku z końcem sezonu zimowego - poinformował PAP Biznes prezes Rainbow Tours Maciej Szczechura. Spółka pracuje nad organizowaniem powrotów swoim klientom.",
       "content_html": "",
       "date_published": "2026-03-02T12:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sniezka-utworzy-spolki-zalezne-w-Czechach-i-na-Slowacji-9091364.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sniezka-utworzy-spolki-zalezne-w-Czechach-i-na-Slowacji-9091364.html",
-      "title": "Śnieżka utworzy spółki zależne w Czechach i na Słowacji Śnieżka złożyła wnioski o rejestrację spółek zależnych w Czechach i na Słowacji - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-02T11:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
