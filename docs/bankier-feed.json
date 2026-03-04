@@ -4,9 +4,16 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-nie-widzi-zagrozenia-dla-dostaw-gazu-prezes-9092784.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-nie-widzi-zagrozenia-dla-dostaw-gazu-prezes-9092784.html",
+      "title": "PGE nie widzi zagrożenia dla dostaw gazu - prezes",
+      "content_html": "Prezes PGE Dariusz Lubera nie widzi zagrożenia dla dostaw gazu w związku z konfliktem na Bliskim Wschodzie.",
+      "date_published": "2026-03-04T12:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gawkowski-Bedziemy-rozwijali-mObywatela-o-wersje-europejska-9092754.html",
       "url": "https://www.bankier.pl/wiadomosc/Gawkowski-Bedziemy-rozwijali-mObywatela-o-wersje-europejska-9092754.html",
-      "title": "Gawkowski: Będziemy rozwijali mObywatela o wersję europejską",
+      "title": "mObywatel wchodzi do Europy. Krzysztof Gawkowski zapowiada przełom",
       "content_html": "Będziemy rozwijali mObywatela, wzbogacając go o wersję europejską - zapowiedział w środę wicepremier, minister cyfryzacji Krzysztof Gawkowski. Dodał, że do aplikacji zostanie zaimplementowany europejski portfel tożsamości cyfrowej.",
       "date_published": "2026-03-04T12:21:00+01:00"
     },
@@ -16,6 +23,20 @@
       "title": "Polska ewakuuje obywateli z Bliskiego Wschodu. Premier przekazał szczegóły",
       "content_html": "Premier Donald Tusk poinformował w środę, że w ciągu kilkunastu godzin w Omanie ma wylądować samolot wysłany po Polaków wymagających pomocy medycznej. Dodał, że jeśli w samolocie pozostaną wolne miejsca, możliwa będzie także ewakuacja...",
       "date_published": "2026-03-04T12:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izrael-wzywa-cywilow-do-ewakuacji-z-poludniowego-Libanu-9092774.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-wzywa-cywilow-do-ewakuacji-z-poludniowego-Libanu-9092774.html",
+      "title": "Izrael wzywa cywilów do ewakuacji z południowego Libanu",
+      "content_html": "Izraelskie siły zbrojne (IDF) przekazały w środę, że w związku z trwającymi walkami z organizacją Hezbollah cywile z całego południowego Libanu powinni ewakuować się na północ od rzeki Litani.",
+      "date_published": "2026-03-04T12:13:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ekspansja-InPostu-na-Wyspach-600-mln-funtow-inwestycji-do-2030-roku-9092775.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekspansja-InPostu-na-Wyspach-600-mln-funtow-inwestycji-do-2030-roku-9092775.html",
+      "title": "Ekspansja InPostu na Wyspach: 600 mln funtów inwestycji do 2030 roku",
+      "content_html": "Paczkomaty, które InPost wykorzystuje w Wielkiej Brytanii produkowane są w Polsce i eksportowane do Wielkiej Brytanii - poinformował dziennikarzy członek zarządu InPostu ds. spraw międzynarodowych Michael Rouse. Dodał, że operator zbliża się...",
+      "date_published": "2026-03-04T12:13:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/PGE-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes-9092765.html",
@@ -282,6 +303,20 @@
       "title": "\"Testament\" Chameneiego. Chaos, strach i decentralizacja irańskiej armii",
       "content_html": "Mimo śmierci ajatollaha Chameneiego i dekapitacji dowództwa, Iran konsekwentnie wdraża plan wywołania globalnego chaosu. Poprzez ataki na infrastrukturę energetyczną w Zatoce Perskiej oraz paraliż strategicznych szlaków handlowych, Teheran rzuca...",
       "date_published": "2026-03-04T08:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-interweniuje-Czy-Polskie-Sieci-Elektroenergetyczne-dyskryminowaly-producentow-9092599.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-interweniuje-Czy-Polskie-Sieci-Elektroenergetyczne-dyskryminowaly-producentow-9092599.html",
+      "title": "UOKiK interweniuje. Czy Polskie Sieci Elektroenergetyczne dyskryminowały producentów?",
+      "content_html": "Prezes UOKiK Tomasz Chróstny wszczął postępowanie wyjaśniające dotyczące praktyk Polskich Sieci Elektroenergetycznych - podał UOKiK w komunikacie. Wskazano, że wątpliwości budzi sposób realizacji mechanizmu redysponowania jednostkami wytwórczymi...",
+      "date_published": "2026-03-04T08:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konto-oszczednosciowe-UniCredit-4-5-bez-haczykow-i-bez-limitu-9092600.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konto-oszczednosciowe-UniCredit-4-5-bez-haczykow-i-bez-limitu-9092600.html",
+      "title": "Konto oszczędnościowe UniCredit: 4,5% bez haczyków i bez limitu",
+      "content_html": "Większość promocyjnych kont oszczędnościowych ma jeden wspólny mianownik: gwiazdkę w regulaminie. Oprocentowanie dotyczy tylko nowych środków, tylko przez pierwsze trzy miesiące, tylko do określonej kwoty. UniCredit idzie inną drogą - i kilka...",
+      "date_published": "2026-03-04T08:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ukrainski-as-w-rekawie-Kijow-pomoze-Bliskiemu-Wschodowi-w-zamian-za-9092500.html",
@@ -667,41 +702,6 @@
       "title": "Oddech dla polskich przedsiębiorstw. Miliardowe obroty bez raportu ESG przez dwa lata",
       "content_html": "We wtorek senacka Komisja Budżetu i Finansów publicznych poparła przyjęcie nowelizacji ustawy o rachunkowości bez poprawek. Celem ustawy jest zwolnienie części firm z raportowania ESG za 2025 i 2026 r. Ustawa trafi teraz pod obrady plenarne Senatu...",
       "date_published": "2026-03-03T18:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-powolal-Rade-do-spraw-Osob-z-Niepelnosprawnosciami-9092385.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-powolal-Rade-do-spraw-Osob-z-Niepelnosprawnosciami-9092385.html",
-      "title": "Prezydent powołał Radę do spraw Osób z Niepełnosprawnościami",
-      "content_html": "Kancelaria prezydenta poinformowała we wtorek, że przy prezydencie RP powołane zostało gremium doradcze - Rada do spraw Osób z Niepełnosprawnościami. Jej przewodniczącą została Małgorzata Radziszewska.",
-      "date_published": "2026-03-03T17:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fundusze-BGK-pod-kontrola-Sejmu-Senacka-komisja-poparla-reforme-budzetowa-9092384.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fundusze-BGK-pod-kontrola-Sejmu-Senacka-komisja-poparla-reforme-budzetowa-9092384.html",
-      "title": "Fundusze BGK pod kontrolą Sejmu. Senacka komisja poparła reformę budżetową",
-      "content_html": "We wtorek senacka Komisja Budżetu i Finansów Publicznych nie zgłosiła poprawek do nowelizacji ustawy o finansach publicznych. Celem ustawy jest dokończenie Reformy Systemu Budżetowego. Ustawa trafi teraz pod obrady plenarne Senatu.",
-      "date_published": "2026-03-03T17:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/WIG20-zanurkowal-a-jeszcze-w-czwartek-wital-szczyt-hossy-Najwieksza-przecena-od-podatkowej-katastrofy-9092382.html",
-      "url": "https://www.bankier.pl/wiadomosc/WIG20-zanurkowal-a-jeszcze-w-czwartek-wital-szczyt-hossy-Najwieksza-przecena-od-podatkowej-katastrofy-9092382.html",
-      "title": "Rosną straty inwestorów. WIG20 zanurkował, a jeszcze w czwartek witał szczyt hossy",
-      "content_html": "Wtorkowa sesja na warszawskim parkiecie przyniosła gwałtowną wyprzedaż, spychającą polskie indeksy na poziomy niewidziane od tygodni. Zniżka na WIG20 w końcówce sesji zdradzała przejawy paniki i skończyła się największą przeceną od czasu...",
-      "date_published": "2026-03-03T17:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zmiany-w-rachunkach-za-prad-Senackie-poprawki-do-Prawa-energetycznego-9092379.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmiany-w-rachunkach-za-prad-Senackie-poprawki-do-Prawa-energetycznego-9092379.html",
-      "title": "Zmiany w rachunkach za prąd. Senackie poprawki do Prawa energetycznego",
-      "content_html": "Senatorowie podczas wtorkowego wspólnego posiedzenia Komisji Klimatu i Środowiska oraz Komisji Gospodarki Narodowej i Innowacyjności zaproponowali do noweli Prawa energetycznego kilka propozycji poprawek.",
-      "date_published": "2026-03-03T17:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ING-BS-chce-wyplacic-26-71-zl-dywidendy-na-akcje-za-2025-rok-9092372.html",
-      "url": "https://www.bankier.pl/wiadomosc/ING-BS-chce-wyplacic-26-71-zl-dywidendy-na-akcje-za-2025-rok-9092372.html",
-      "title": "Znamy datę wypłaty dywidendy ING. 26,71 zł na akcję trafi do portfeli w kwietniu",
-      "content_html": "Zarząd ING Bank Śląski rekomenduje walnemu zgromadzeniu przeznaczenie 3,47 mld zł z zysku za 2025 rok na dywidendę, co da 26,71 zł na akcję - podał bank w komunikacie.",
-      "date_published": "2026-03-03T17:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
