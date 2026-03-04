@@ -4,11 +4,60 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Decyzja-RPP-w-marcu-2026-Rada-jednak-sciela-stopy-procentowe-9092728.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-RPP-w-marcu-2026-Rada-jednak-sciela-stopy-procentowe-9092728.html",
+      "title": "RPP jednak obniżyła stop procentowe! Złoty dostał bramkę samobójczą",
+      "content_html": "Na marcowym posiedzeniu Rada Polityki Pieniężnej jednak zdecydowała się na obniżkę stóp procentowych pomimo skokowego wzrostu cen energii i ostrego osłabienia złotego.",
+      "date_published": "2026-03-04T15:01:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-uderza-w-zegluge-Trafiony-kontenerowiec-plonie-w-ciesninie-Ormuz-9092907.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-uderza-w-zegluge-Trafiony-kontenerowiec-plonie-w-ciesninie-Ormuz-9092907.html",
+      "title": "Iran uderza w żeglugę. Trafiony kontenerowiec płonie w cieśninie Ormuz",
+      "content_html": "Kontenerowiec pływający pod banderą Malty został zaatakowany w środę pociskiem w cieśninie Ormuz. W maszynowni wybuchł pożar - przekazała agencja Reutera, powołując się na branżowe źródła morskie. Załoga opuściła statek.",
+      "date_published": "2026-03-04T14:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-powolanie-Roberta-Tomaszewskiego-na-prezesa-Link4-TU-9092901.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-powolanie-Roberta-Tomaszewskiego-na-prezesa-Link4-TU-9092901.html",
+      "title": "KNF zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 TU",
+      "content_html": "Komisja Nadzoru Finansowego zgodziła się na powołanie Roberta Tomaszewskiego na prezesa Link4 Towarzystwa Ubezpieczeń - poinformowała KNF w komunikacie.",
+      "date_published": "2026-03-04T14:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BGK-podpisal-z-Orlen-Termika-umowe-na-pozyczke-z-KPO-do-wys-762-5-mln-zl-9092895.html",
+      "url": "https://www.bankier.pl/wiadomosc/BGK-podpisal-z-Orlen-Termika-umowe-na-pozyczke-z-KPO-do-wys-762-5-mln-zl-9092895.html",
+      "title": "BGK podpisał z Orlen Termika umowę na pożyczkę z KPO do wys. 762,5 mln zł",
+      "content_html": "BGK udzielił dofinansowania ze środków KPO na największy w Europie system odzysku ciepła ze spalin w Elektrociepłowni Żerań - podał bank na stronie internetowej. Pożyczka do kwoty 762,5 mln pochodzi ze środków Krajowego Planu Odbudowy.",
+      "date_published": "2026-03-04T14:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Armia-na-ratunek-Polakom-na-Bliskim-Wschodzie-Szef-MON-Zglosilem-gotowosc-wojska-9092892.html",
+      "url": "https://www.bankier.pl/wiadomosc/Armia-na-ratunek-Polakom-na-Bliskim-Wschodzie-Szef-MON-Zglosilem-gotowosc-wojska-9092892.html",
+      "title": "Armia na ratunek Polakom na Bliskim Wschodzie. Szef MON: Zgłosiłem gotowość wojska",
+      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował w środę, że zgłosił gotowość sił i środków Wojska Polskiego do ewakuacji Polaków potrzebujących pomocy medycznej na Bliskim Wschodzie. Podkreślił, że ewakuacja pozostałych...",
+      "date_published": "2026-03-04T14:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelomowy-rok-dla-atomu-Amerykanie-chca-zamknac-negocjacje-do-polowy-roku-9092890.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowy-rok-dla-atomu-Amerykanie-chca-zamknac-negocjacje-do-polowy-roku-9092890.html",
+      "title": "Przełomowy rok dla atomu. Amerykanie chcą zamknąć negocjacje do połowy roku",
+      "content_html": "Obie strony, PEJ i Westinghouse-Bechtel, aspirują zgodnie do tego, aby do połowy tego roku zamknąć tematy negocjacyjne związane z budową pierwszej polskiej elektrowni jądrowej - poinformował na konferencji w Gdańsku prezes PEJ Marek Woszczyk...",
+      "date_published": "2026-03-04T14:40:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Unijny-zwrot-przeciwko-Chinom-KE-chce-obowiazku-Made-in-EU-9092823.html",
       "url": "https://www.bankier.pl/wiadomosc/Unijny-zwrot-przeciwko-Chinom-KE-chce-obowiazku-Made-in-EU-9092823.html",
       "title": "Unijny zwrot przeciwko Chinom. KE chce obowiązku \"Made in EU\"",
       "content_html": "KE zaproponowała w środę wprowadzenie do zamówień publicznych i innych mechanizmów wsparcia publicznego wymogu „Wyprodukowano w UE” (Made in EU), zgodnie z którym komponenty zamawianych towarów mają być wytwarzane w UE. Będzie to dotyczyć...",
       "date_published": "2026-03-04T14:39:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strategiczne-partnerstwo-PGZ-i-Rolls-Royce-Wspolna-produkcja-silnikow-dla-polskiej-armii-9092882.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strategiczne-partnerstwo-PGZ-i-Rolls-Royce-Wspolna-produkcja-silnikow-dla-polskiej-armii-9092882.html",
+      "title": "Strategiczne partnerstwo PGZ i Rolls-Royce. Wspólna produkcja silników dla polskiej armii",
+      "content_html": "Polska Grupa Zbrojeniowa i Rolls-Royce Solutions GmbH podpisały porozumienie o współpracy w sprawie realizacji wspólnych projektów obejmujących układy napędowe MTU - podała PGZ w komunikacie prasowym. Planowane jest również nawiązanie współpracy...",
+      "date_published": "2026-03-04T14:34:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/NATO-zestrzelilo-iranska-rakiete-balistyczna-lecaca-w-kierunku-Turcji-9092813.html",
@@ -646,41 +695,6 @@
       "title": "Hipoteki jeszcze trochę tańsze. Sprawdzamy promocje",
       "content_html": "Długa seria obniżek stawek w kredytach hipotecznych jeszcze się nie skończyła. W większości banków proponujących ograniczone czasowo promocje w dół poszły przynajmniej ceny dla stałoprocentowych wariantów. Marże jednak przestały „zjeżdżać”...",
       "date_published": "2026-03-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-Bankier-pl-marzec-2026-r-Wybralismy-lidera-darmowych-wyplat-9092230.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-Bankier-pl-marzec-2026-r-Wybralismy-lidera-darmowych-wyplat-9092230.html",
-      "title": "Najtańsze konta osobiste. Prześwietliliśmy 5 parametrów i wybraliśmy lidera darmowych wypłat",
-      "content_html": "Wypłata z bankomatu, Blikiem czy cashback w sklepie? Wybór metody podjęcia gotówki może nas kosztować nawet 10 zł za jedną operację. W najnowszym rankingu Bankier.pl poddajemy analizie 18 flagowych kont osobistych, prześwietlając pięć kluczowych...",
-      "date_published": "2026-03-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spor-o-egzaminy-w-edukacji-domowej-miedzy-Szkola-w-Chmurze-a-MEN-9092260.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spor-o-egzaminy-w-edukacji-domowej-miedzy-Szkola-w-Chmurze-a-MEN-9092260.html",
-      "title": "Pat w edukacji domowej. Egzaminy online \"kością niezgody\" między Szkołą w Chmurze i MEN",
-      "content_html": "Popularność edukacji domowej sprawiła, że resort edukacji i kuratoria oświaty zaczęły bliżej przyglądać się zasadom przeprowadzania egzaminów klasyfikacyjnych w placówkach pozwalających na taki sposób nauki. Szkoła w Chmurze, która stała...",
-      "date_published": "2026-03-04T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Reaktory-medyczne-byly-tylko-przykrywka-Iran-nieustannie-zwodzil-9092510.html",
-      "url": "https://www.bankier.pl/wiadomosc/Reaktory-medyczne-byly-tylko-przykrywka-Iran-nieustannie-zwodzil-9092510.html",
-      "title": "Reaktory medyczne były tylko przykrywką? \"Iran nieustannie zwodził\"",
-      "content_html": "Iran nieustannie zwodził, ukrywał swoje cele i zamierzał wykorzystać reaktor badawczy w Teheranie do produkcji materiału na broń jądrową - powiedzieli we wtorek urzędnicy administracji Trumpa prowadzący rozmowy z Iranem. Twierdzili, że Iran...",
-      "date_published": "2026-03-03T22:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tylko-lekkie-spadki-na-Wall-Street-Iran-jednak-nie-taki-straszny-9092497.html",
-      "title": "Tylko lekkie spadki na Wall Street. Iran jednak nie taki straszny?",
-      "content_html": "Wtorkowa sesja na nowojorskich giełdach przyniosła tylko łagodne spadki głównych indeksów, choć sam początek handlu przyniósł dość głęboki regres",
-      "date_published": "2026-03-03T22:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-o-krok-od-broni-jadrowej-Precyzyjne-uderzenie-IDF-w-podziemny-obiekt-9092484.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-o-krok-od-broni-jadrowej-Precyzyjne-uderzenie-IDF-w-podziemny-obiekt-9092484.html",
-      "title": "Iran o krok od broni jądrowej? Precyzyjne uderzenie Izraela w podziemny obiekt",
-      "content_html": "Izraelskie lotnictwo zniszczyło tajna bazę nuklearną na obrzeżach Teheranu, gdzie pracowano nad „rozwinięciem potencjału wymaganego do broni jądrowej” – poinformował we wtorek rzecznik Sił Obronnych Izraela (IDF) gen. Efi Defrin na konferencji...",
-      "date_published": "2026-03-03T21:33:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
