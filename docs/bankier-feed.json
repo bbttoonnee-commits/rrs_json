@@ -4,11 +4,46 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Energa-Obrot-zwiekszy-rezerwy-po-rekalkulacji-wplywu-kontraktow-rodzacych-obciazenia-9093904.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energa-Obrot-zwiekszy-rezerwy-po-rekalkulacji-wplywu-kontraktow-rodzacych-obciazenia-9093904.html",
+      "title": "Energa Obrót zwiększy rezerwy po rekalkulacji wpływu kontraktów rodzących obciążenia",
+      "content_html": "Energa Obrót dokonała ponownej kalkulacji wpływu na wynik finansowy kontraktów rodzących obciążenia, co skutkować będzie zwiększeniem rezerw - podała Energa w komunikacie.",
+      "date_published": "2026-03-05T21:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-zostal-powolany-na-czlonka-zarzadu-Orlenu-9093898.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pawel-Wojtunik-zostal-powolany-na-czlonka-zarzadu-Orlenu-9093898.html",
+      "title": "Paweł Wojtunik został powołany na członka zarządu Orlenu",
+      "content_html": "Minister Aktywów Państwowych, w imieniu akcjonariusza Skarbu Państwa, powołał z dniem 16 marca 2026 roku Pawła Wojtunika na funkcję członka zarządu Orlenu trwającej kadencji - poinformował Orlen w komunikacie.",
+      "date_published": "2026-03-05T20:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Z-Dubaju-przez-Rijad-do-Polski-Wazny-komunikat-ambasady-dla-Polakow-9093893.html",
+      "url": "https://www.bankier.pl/wiadomosc/Z-Dubaju-przez-Rijad-do-Polski-Wazny-komunikat-ambasady-dla-Polakow-9093893.html",
+      "title": "Z Dubaju przez Rijad do Polski. Ważny komunikat ambasady dla Polaków",
+      "content_html": "Linie lotnicze Flynas uruchamiają od 6 marca br. połączenia z Dubaju do Rijadu. Z lotniska w Rijadzie obsługiwane są połączenia lotnicze, w tym m.in. loty przez Kair, Istambuł do Polski - poinformowała w czwartek Ambasada RP w Arabii Saudyjskiej...",
+      "date_published": "2026-03-05T20:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cla-Donalda-Trumpa-znow-w-sadzie-24-stany-uderzaja-w-prezydenta-9093891.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cla-Donalda-Trumpa-znow-w-sadzie-24-stany-uderzaja-w-prezydenta-9093891.html",
+      "title": "Cła Donalda Trumpa znów w sądzie. 24 stany uderzają w prezydenta",
+      "content_html": "Prokuratorzy generalni 24 stanów rządzonych przez Demokratów złożyli w czwartek wspólny sądowy pozew w sprawie nowych globalnych ceł nałożonych przez prezydenta USA Donalda Trumpa. Powodowie twierdzą, że nowe cła również są nielegalne...",
+      "date_published": "2026-03-05T20:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rosnie-liczba-ofiar-w-Libanie-Trwa-krwawa-ofensywa-Izraela-9093808.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosnie-liczba-ofiar-w-Libanie-Trwa-krwawa-ofensywa-Izraela-9093808.html",
       "title": "Rośnie liczba ofiar w Libanie. Macron zabiera głos",
       "content_html": "Już 102 osoby straciły życie, a 638 zostało rannych w izraelskich atakach na Liban od momentu ich rozpoczęcia w poniedziałek – poinformowało w czwartek libańskie Ministerstwo Zdrowia.",
       "date_published": "2026-03-05T20:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czesi-zmniejsza-wydatki-na-obronnosc-Ambasador-USA-krytykuje-plany-9093886.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czesi-zmniejsza-wydatki-na-obronnosc-Ambasador-USA-krytykuje-plany-9093886.html",
+      "title": "Czesi zmniejszą wydatki na obronność? Ambasador USA krytykuje plany",
+      "content_html": "Ambasador USA w Pradze Nicholas Merrick skrytykował zapowiadane przez czeski rząd ograniczenie wydatków na obronność. - Sojusznicy muszą dotrzymywać zobowiązań - powiedział w czwartek ambasador. Projekt czeskiego budżetu na 2026 r. zakłada...",
+      "date_published": "2026-03-05T20:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nagly-zwrot-po-rozmowach-Merza-z-Trumpem-Niemiecka-spolka-Rosnieftu-odetchnela-9093884.html",
@@ -403,6 +438,27 @@
       "date_published": "2026-03-05T14:20:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mocne-slowa-MSZ-Iranu-Kraje-UE-zaplaca-cene-za-milczenie-w-sprawie-wojny-9093567.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mocne-slowa-MSZ-Iranu-Kraje-UE-zaplaca-cene-za-milczenie-w-sprawie-wojny-9093567.html",
+      "title": "Mocne słowa MSZ Iranu: Kraje UE zapłacą cenę za milczenie w sprawie wojny",
+      "content_html": "Kraje Unii Europejskiej „wcześniej czy później zapłacą cenę”, jeśli będą milczeć w sprawie amerykańsko-izraelskiego ataku na Iran – przekazał rzecznik MSZ Iranu Esmail Bagei w czwartkowym wywiadzie dla hiszpańskiej państwowej telewizji...",
+      "date_published": "2026-03-05T14:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-Morze-Czerwone-Francja-i-Wlochy-wysylaja-wojsko-Europa-boi-sie-paralizu-dostaw-9093571.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-Morze-Czerwone-Francja-i-Wlochy-wysylaja-wojsko-Europa-boi-sie-paralizu-dostaw-9093571.html",
+      "title": "Wojna o Morze Czerwone. Francja i Włochy wysyłają wojsko. Europa boi się paraliżu dostaw",
+      "content_html": "Przywódcy Francji, Włoch i Grecji uzgodnili współpracę w celu zapewnienia swobody żeglugi na Morzu Czerwonym i koordynację przy wysyłaniu zasobów wojskowych na Cypr – podała w czwartek agencja Reutera, cytując anonimowe źródło francuskie...",
+      "date_published": "2026-03-05T14:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Blokada-ciesniny-Ormuz-zagraza-importowi-zywnosci-do-krajow-Zatoki-Perskiej-9093455.html",
+      "url": "https://www.bankier.pl/wiadomosc/Blokada-ciesniny-Ormuz-zagraza-importowi-zywnosci-do-krajow-Zatoki-Perskiej-9093455.html",
+      "title": "Blokada cieśniny Ormuz zagraża importowi żywności do krajów Zatoki Perskiej",
+      "content_html": "Irańska blokada cieśniny Ormuz zagraża dostawom żywności do krajów Zatoki Perskiej i zwiększa presję cenową na żywność w Iranie - poinformował brytyjski dziennik „Financial Times”. Import żywności docierał do regionu głównie przez...",
+      "date_published": "2026-03-05T14:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Lato-2026-Rainbow-Tours-wzrosla-o-10-9-proc-w-porownaniu-do-oferty-Lato-2025-9093555.html",
       "url": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Lato-2026-Rainbow-Tours-wzrosla-o-10-9-proc-w-porownaniu-do-oferty-Lato-2025-9093555.html",
       "title": "Przedsprzedaż oferty \"Lato 2026\" Rainbow Tours wzrosła o 10,9 proc. w porównaniu do oferty \"Lato 2025\"",
@@ -646,27 +702,6 @@
       "title": "Włosi wyślą systemy obrony przeciwlotniczej krajom Zatoki Perskiej",
       "content_html": "Premierka Włoch Giorgia Meloni powiedziała w czwartek, że jej kraj zamierza wysłać systemy obrony przeciwlotniczej krajom Zatoki Perskiej. To odpowiedź na prośbę, z jaką kraje te zwróciły się do Rzymu po rozpoczęciu operacji sił USA i Izraela...",
       "date_published": "2026-03-05T09:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UFG-uruchamia-Turystyczny-Fundusz-Pomocowy-za-odwolane-wycieczki-na-Bliski-Wschod-9093323.html",
-      "url": "https://www.bankier.pl/wiadomosc/UFG-uruchamia-Turystyczny-Fundusz-Pomocowy-za-odwolane-wycieczki-na-Bliski-Wschod-9093323.html",
-      "title": "Będą zwroty za odwołane wycieczki na Bliski Wschód. UFG rozpoczyna przyjmowanie wniosków",
-      "content_html": "Decyzją Ministerstwa Sportu i Turystyki wydaną z porozumieniu z Ministrem Finansów podróżni, których wycieczki zostały odwołane w związku z sytuacją na Bliskim Wschodzie, otrzymają zwrot wpłaconych środków. Resort uruchomił Turystyczny...",
-      "date_published": "2026-03-05T09:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-i-skutki-dla-Polski-Tomasz-Siemoniak-mowi-wprost-o-ryzyku-9093365.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-i-skutki-dla-Polski-Tomasz-Siemoniak-mowi-wprost-o-ryzyku-9093365.html",
-      "title": "Atak na Iran i skutki dla Polski. Tomasz Siemoniak mówi wprost o ryzyku",
-      "content_html": "Wszystkie służby specjalne NATO są w alercie w związku z tym, jaka może być reakcja Iranu - mówił w czwartek minister koordynator służb specjalnych Tomasz Siemoniak. Dodał, że Iran został upokorzony, a słabi i poniżeni sięgają po terroryzm...",
-      "date_published": "2026-03-05T09:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-zaatakowal-tankowiec-USA-w-Zatoce-Perskiej-9093363.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-zaatakowal-tankowiec-USA-w-Zatoce-Perskiej-9093363.html",
-      "title": "Iran zaatakował tankowiec USA w Zatoce Perskiej",
-      "content_html": "Korpus Strażników Rewolucji Islamskiej (IRGC) poinformował w czwartek o ataku na amerykański tankowiec w północnej części Zatoki Perskiej. W komunikacie tej formacji powiadomiono, że jednostka stanęła w ogniu.",
-      "date_published": "2026-03-05T09:41:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
