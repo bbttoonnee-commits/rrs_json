@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Brak-zdecydowania-na-Wall-Street-Tym-razem-sesja-z-przewaga-spadkow-9093925.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brak-zdecydowania-na-Wall-Street-Tym-razem-sesja-z-przewaga-spadkow-9093925.html",
+      "title": "Brak zdecydowania na Wall Street. Tym razem sesja z przewagą spadków",
+      "content_html": "Amerykański rynek akcji nie za bardzo potrafi wycenić wpływ wojny z Iranem na perspektywy światowej gospodarki i przyszłe zyski giełdowych korporacji.",
+      "date_published": "2026-03-05T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Energa-Obrot-zwiekszy-rezerwy-po-rekalkulacji-wplywu-kontraktow-rodzacych-obciazenia-9093904.html",
       "url": "https://www.bankier.pl/wiadomosc/Energa-Obrot-zwiekszy-rezerwy-po-rekalkulacji-wplywu-kontraktow-rodzacych-obciazenia-9093904.html",
       "title": "Energa Obrót zwiększy rezerwy po rekalkulacji wpływu kontraktów rodzących obciążenia",
@@ -695,13 +702,6 @@
       "title": "Atak na Iran będzie kontynuowany. Szef Pentagonu stawia sprawę jasno",
       "content_html": "Sekretarz obrony (wojny) USA Pete Hegseth wezwał Izrael do utrzymania nacisku militarnego na Iran w rozmowie z izraelskim ministrem obrony Israelem Kacem – przekazała w czwartek agencja Reutera.",
       "date_published": "2026-03-05T09:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wlosi-wysla-systemy-obrony-przeciwlotniczej-krajom-Zatoki-Perskiej-9093368.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wlosi-wysla-systemy-obrony-przeciwlotniczej-krajom-Zatoki-Perskiej-9093368.html",
-      "title": "Włosi wyślą systemy obrony przeciwlotniczej krajom Zatoki Perskiej",
-      "content_html": "Premierka Włoch Giorgia Meloni powiedziała w czwartek, że jej kraj zamierza wysłać systemy obrony przeciwlotniczej krajom Zatoki Perskiej. To odpowiedź na prośbę, z jaką kraje te zwróciły się do Rzymu po rozpoczęciu operacji sił USA i Izraela...",
-      "date_published": "2026-03-05T09:52:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
