@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Fabrity-stawia-na-przemysl-i-AI-zwieksza-inwestycje-w-pracownikow-wywiad-9093485.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fabrity-stawia-na-przemysl-i-AI-zwieksza-inwestycje-w-pracownikow-wywiad-9093485.html",
+      "title": "Fabrity stawia na przemysł i AI, zwiększa inwestycje w pracowników Fabrity pracuje nad nowymi obszarami, stawia m.in. na nowoczesny przemysł i sztuczną inteligencję - poinformował PAP Biznes prezes Tomasz Burczyński. Wskazał, że poczynione przez spółkę oszczędności stworzyły przestrzeń do zwiększenia inwestycji prorozwojowych, w tym inwestycji w ludzi.",
+      "content_html": "",
+      "date_published": "2026-03-05T12:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Budimex-spodziewa-sie-powrotu-do-wartosci-portfela-zamowien-na-poziomie-ok-18-mld-zl-9093397.html",
       "url": "https://www.bankier.pl/wiadomosc/Budimex-spodziewa-sie-powrotu-do-wartosci-portfela-zamowien-na-poziomie-ok-18-mld-zl-9093397.html",
       "title": "Budimex spodziewa się powrotu do wartości portfela zamówień na poziomie ok. 18 mld zł Budimex spodziewa się powrotu do wartości portfela zamówień na poziomie ok. 18 mld zł - poinformował prezes Artur Popko. Zarząd spodziewa się wzrostu cen materiałów, ale nie bierze udziału w wojnie cenowej w przetargach.",
@@ -443,27 +450,6 @@
       "title": "Miliardowe aktywo w PGE GiEK. Spółka rozliczy straty i poprawi bilans grupy Zarząd PGE zidentyfikował konieczność rozpoznania aktywa na odroczony podatek dochodowy w PGE GiEK w wysokości ok. 2,0 mld zł - podała spółka w komunikacie. Po dokonaniu korekt konsolidacyjnych utworzenie powyższego aktywa wpłynie dodatnio na wartość skonsolidowanego wyniku netto Grupy Kapitałowej w wysokości ok. 3,9 mld zł.",
       "content_html": "",
       "date_published": "2026-03-03T13:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cena-ropy-Brent-przekroczyla-85-USD-za-barylke-po-raz-pierwszy-od-lipca-2024-r-9092129.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cena-ropy-Brent-przekroczyla-85-USD-za-barylke-po-raz-pierwszy-od-lipca-2024-r-9092129.html",
-      "title": "Cena ropy Brent przekroczyła 85 USD za baryłkę po raz pierwszy od lipca 2024 r. Ceny ropy mocno rosną drugą sesję z rzędu, a cena Brent przekroczyła we wtorek 85 USD za baryłkę pierwszy raz od lipca 2024 r. Inwestorzy obawiają się o podaż i transport ropy naftowej w regionie Zatoki Perskiej wobec szybkiej eskalacji wojny Izraela i USA z Iranem na cały region.",
-      "content_html": "",
-      "date_published": "2026-03-03T12:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-sporze-o-Turow-Eksperci-sprawdzili-podziemna-bariere-9092126.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-sporze-o-Turow-Eksperci-sprawdzili-podziemna-bariere-9092126.html",
-      "title": "Przełom w sporze o Turów. Eksperci sprawdzili podziemną barierę Pomiary potwierdzają skuteczność ekranu przeciwfiltracyjnego w kopalni w Turowie - poinformowała spółka PGE GiEK. Ekran ma ograniczyć odpływ wód z kierunku południowo-zachodniego. To kluczowy element międzynarodowej, polsko-czeskiej umowy i jedna z wielu inwestycji spółki w ochronę środowiska.",
-      "content_html": "",
-      "date_published": "2026-03-03T12:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sygnis-stawia-na-wspolprace-z-NATO-i-nowe-kontrakty-w-obszarze-DAM-wywiad-9092119.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sygnis-stawia-na-wspolprace-z-NATO-i-nowe-kontrakty-w-obszarze-DAM-wywiad-9092119.html",
-      "title": "Sygnis stawia na współpracę z NATO i nowe kontrakty w obszarze DAM Sygnis stawia na współpracę z NATO i nowe kontrakty w obszarze DAM - poinformował PAP Biznes Andrzej Burgs, prezes zarządu Sygnis. Spółka po przeprowadzonej emisji akcji chce wykorzystać środki m.in. na więcej systemów DAM.",
-      "content_html": "",
-      "date_published": "2026-03-03T12:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
