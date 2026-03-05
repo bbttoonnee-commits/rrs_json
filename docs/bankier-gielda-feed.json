@@ -46,6 +46,13 @@
       "date_published": "2026-03-04T17:15:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojska-rakietowe-oslonia-Orlen-i-baze-PERN-Powstaje-nowa-tarcza-Mazowsza-9093011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojska-rakietowe-oslonia-Orlen-i-baze-PERN-Powstaje-nowa-tarcza-Mazowsza-9093011.html",
+      "title": "Wojska rakietowe osłonią Orlen i bazę PERN. Powstaje nowa „tarcza” Mazowsza W kwietniu wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz ma podpisać porozumienie z samorządami na lokalizację wojsk rakietowych w Gostyninie pod Płockiem (Mazowieckie), a także w Łowiczu (Łódzkie) - poinformował w środę wicemarszałek Sejmu, płocki poseł PSL, Piotr Zgorzelski.",
+      "content_html": "",
+      "date_published": "2026-03-04T16:40:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Potrzebne-utrzymywanie-w-zimnej-rezerwie-czesci-blokow-weglowych-Motyka-9092960.html",
       "url": "https://www.bankier.pl/wiadomosc/Potrzebne-utrzymywanie-w-zimnej-rezerwie-czesci-blokow-weglowych-Motyka-9092960.html",
       "title": "Węgiel w „zimnej rezerwie”. Rząd szuka alternatywy dla rynku mocy Minister energii Miłosz Motyka ocenił w środę, że potrzebne jest utrzymywanie w tzw. zimnej rezerwie części bloków węglowych pod kątem np. kryzysu, a także wsparcia dla takich jednostek. Zasygnalizował, że rząd będzie chciał wykorzystać ten mechanizm, jeśli nie uda się przedłużyć po raz kolejny rynku mocy.",
@@ -436,34 +443,6 @@
       "title": "Benefit, ING, Tauron, Żabka i CSG wejdą do indeksu Stoxx Europe 600 Benefit, ING, Tauron, Żabka i Czeska Grupa Zbrojeniowa (CSG) wejdą do indeksu Stoxx Europe 600. Zmiany nastąpią na zamknięciu sesji w dniu 20 marca.",
       "content_html": "",
       "date_published": "2026-03-03T10:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Magazyny-gazu-w-Polsce-Poziom-zapasow-spadl-do-50-proc-9091954.html",
-      "url": "https://www.bankier.pl/wiadomosc/Magazyny-gazu-w-Polsce-Poziom-zapasow-spadl-do-50-proc-9091954.html",
-      "title": "Magazyny gazu w Polsce. Poziom zapasów spadł do 50 proc. Wypełnienie magazynów gazu w Polsce spadło do 50 proc. wg stanu na 2 marca - poinformował Gas Storage Poland.",
-      "content_html": "",
-      "date_published": "2026-03-03T08:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wartosc-odszkodowan-wyplaconych-z-tytulu-szkod-z-OC-na-koniec-IV-kw-to-11-93-mld-zl-UFG-9091960.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wartosc-odszkodowan-wyplaconych-z-tytulu-szkod-z-OC-na-koniec-IV-kw-to-11-93-mld-zl-UFG-9091960.html",
-      "title": "Odszkodowania z OC. Rekordowe 12 miliardów złotych wypłacone w rok Wartość odszkodowań wypłaconych z tytułu szkód z OC na koniec IV kwartału 2025 r. wyniosła 11,93 mld zł - podał Ubezpieczeniowy Fundusz Gwarancyjny w raporcie.",
-      "content_html": "",
-      "date_published": "2026-03-03T08:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bliski-Wschod-w-ogniu-a-izraelska-gielda-najwyzej-w-historii-Umacnia-sie-tez-szekel-9091941.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bliski-Wschod-w-ogniu-a-izraelska-gielda-najwyzej-w-historii-Umacnia-sie-tez-szekel-9091941.html",
-      "title": "Bliski Wschód w ogniu, a izraelska giełda najwyżej w historii. Umacnia się też szekel Akcje na giełdzie w Tel Avivie gwałtownie wzrosły w poniedziałek, a jej główny indeks ustanowił nowy rekord wszech czasów. Rajdowi przewodzi spółki energetyczne, finansowe i zbrojeniowe. W pierwszym dniu handlowym po rozpoczęciu ataku Izraela i USA na Iran umacniał się również szekel.",
-      "content_html": "",
-      "date_published": "2026-03-03T08:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-rekomendacje-Bogdanki-do-sprzedaj-9091958.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-rekomendacje-Bogdanki-do-sprzedaj-9091958.html",
-      "title": "Noble Securities obniżył rekomendację Bogdanki do \"sprzedaj\" Analitycy Noble Securities obniżyli rekomendację dla Bogdanki do \"sprzedaj\" z \"redukuj\", obniżając cenę docelową jednej akcji spółki do 13,97 zł z 19,2 zł.",
-      "content_html": "",
-      "date_published": "2026-03-03T08:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
