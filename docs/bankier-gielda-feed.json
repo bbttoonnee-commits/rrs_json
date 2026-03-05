@@ -4,9 +4,30 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-spodziewa-sie-powrotu-do-wartosci-portfela-zamowien-na-poziomie-ok-18-mld-zl-9093397.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-spodziewa-sie-powrotu-do-wartosci-portfela-zamowien-na-poziomie-ok-18-mld-zl-9093397.html",
+      "title": "Budimex spodziewa się powrotu do wartości portfela zamówień na poziomie ok. 18 mld zł Budimex spodziewa się powrotu do wartości portfela zamówień na poziomie ok. 18 mld zł - poinformował prezes Artur Popko. Zarząd spodziewa się wzrostu cen materiałów, ale nie bierze udziału w wojnie cenowej w przetargach.",
+      "content_html": "",
+      "date_published": "2026-03-05T12:01:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-ocenia-ze-wydluzanie-postepowan-przetargowych-w-zw-z-odwolaniami-do-KIO-to-problem-systemowy-9093439.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-ocenia-ze-wydluzanie-postepowan-przetargowych-w-zw-z-odwolaniami-do-KIO-to-problem-systemowy-9093439.html",
+      "title": "Budimex ocenia, że wydłużanie postępowań przetargowych w zw. z odwołaniami do KIO to problem systemowy Budimex ocenia, że wydłużanie postępowań przetargowych w związku z odwołaniami do KIO to problem systemowy, który wymaga interwencji - przekazał prezes Artur Popko.",
+      "content_html": "",
+      "date_published": "2026-03-05T11:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-celuje-w-kontraktacje-na-poziomie-minimum-8-5-mld-zl-w-2026-r-9093446.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-celuje-w-kontraktacje-na-poziomie-minimum-8-5-mld-zl-w-2026-r-9093446.html",
+      "title": "Budimex celuje w kontraktację na poziomie minimum 8,5 mld zł w 2026 r. Budimex celuje w kontraktację na poziomie minimum 8,5 mld zł w 2026 r. - poinformował prezes Artur Popko. Celem spółki jest także utrzymanie marży w segmencie budowlanym.",
+      "content_html": "",
+      "date_published": "2026-03-05T11:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MOL-i-Slovnaft-zlozyly-skarge-do-KE-oskarzaja-JANAF-o-naduzycie-pozycji-monopolistycznej-9093423.html",
       "url": "https://www.bankier.pl/wiadomosc/MOL-i-Slovnaft-zlozyly-skarge-do-KE-oskarzaja-JANAF-o-naduzycie-pozycji-monopolistycznej-9093423.html",
-      "title": "MOL i Slovnaft złożyły skargę do KE, oskarżają JANAF o nadużycie pozycji monopolistycznej MOL i Slovnaft złożyły formalną skargę do Dyrekcji Generalnej ds. Konkurencji Komisji Europejskiej w związku z domniemanym nadużyciem pozycji monopolistycznej przez JANAF, operatora chorwackiego rurociągu naftowego - podał MOL w komunikacie.",
+      "title": "Chorwaci windują ceny ropy? MOL i Slovnaft skarżą się do Brukseli na „skandaliczne stawki” MOL i Slovnaft złożyły formalną skargę do Dyrekcji Generalnej ds. Konkurencji Komisji Europejskiej w związku z domniemanym nadużyciem pozycji monopolistycznej przez JANAF, operatora chorwackiego rurociągu naftowego - podał MOL w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-05T11:22:00+01:00"
     },
@@ -16,13 +37,6 @@
       "title": "Polskie obligacje nie okazały się bezpieczną przystanią. Skokowy wzrost rentowności Kryzys irański spowodował znaczącą przecenę polskich obligacji skarbowych. Rentowność 10-latek podskoczyła o blisko 40 pb. Wyraźną korektę zaliczył giełdowy indeks TBSP",
       "content_html": "",
       "date_published": "2026-03-05T11:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budimex-spodziewa-sie-powrotu-do-wartosci-portfela-zamowien-na-poziomie-ok-18-mld-zl-9093397.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budimex-spodziewa-sie-powrotu-do-wartosci-portfela-zamowien-na-poziomie-ok-18-mld-zl-9093397.html",
-      "title": "Budimex spodziewa się powrotu do wartości portfela zamówień na poziomie ok. 18 mld zł Budimex spodziewa się powrotu do wartości portfela zamówień na poziomie ok. 18 mld zł - poinformował prezes Artur Popko. Zarząd spodziewa się wzrostu cen materiałów, ale nie bierze udziału w wojnie cenowej w przetargach.",
-      "content_html": "",
-      "date_published": "2026-03-05T10:40:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trwaja-prace-nad-rozwiazaniami-dla-gornictwa-Wrona-MAP-9093341.html",
@@ -450,34 +464,6 @@
       "title": "Sygnis stawia na współpracę z NATO i nowe kontrakty w obszarze DAM Sygnis stawia na współpracę z NATO i nowe kontrakty w obszarze DAM - poinformował PAP Biznes Andrzej Burgs, prezes zarządu Sygnis. Spółka po przeprowadzonej emisji akcji chce wykorzystać środki m.in. na więcej systemów DAM.",
       "content_html": "",
       "date_published": "2026-03-03T12:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-lutego-wyniosla-9-47-mld-zl-9092035.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-lutego-wyniosla-9-47-mld-zl-9092035.html",
-      "title": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec lutego wyniosła 9,47 mld zł Wartość aktywów pod zarządzaniem Quercus TFI na koniec lutego 2026 r. wyniosła 9.470,9 mln zł, wobec 9.276,4 mln zł na koniec stycznia 2026 r. - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-03T12:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/IMC-odnotowala-istotny-wzrost-zbiorow-kukurydzy-9092101.html",
-      "url": "https://www.bankier.pl/wiadomosc/IMC-odnotowala-istotny-wzrost-zbiorow-kukurydzy-9092101.html",
-      "title": "IMC odnotowała istotny wzrost zbiorów kukurydzy IMC, notowana na GPW spółka rolnicza, działająca w Ukrainie, zakończyła zbiory kukurydzy, osiągając o 21 proc. wyższe zbiory i 23 proc. wzrost wydajności rdr - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-03-03T11:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wraca-sprawa-Jukosu-Wazny-wyrok-brytyjskiego-sadu-dla-akcjonariuszy-9092093.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wraca-sprawa-Jukosu-Wazny-wyrok-brytyjskiego-sadu-dla-akcjonariuszy-9092093.html",
-      "title": "Wraca sprawa Jukosu. Ważny wyrok brytyjskiego sądu dla akcjonariuszy Brytyjski Sąd Najwyższy wydał orzeczenie umożliwiające byłym akcjonariuszom koncernu Jukos dochodzenie roszczeń z majątku Federacji Rosyjskiej znajdującego się na terytorium Wielkiej Brytanii. Przedmiotem sporu jest kwota opiewająca na ponad 65 miliardów dolarów. Decyzja ta kończy wieloletni etap sporów proceduralnych, potwierdzając wykonalność międzynarodowych wyroków arbitrażowych w brytyjskiej jurysdykcji.",
-      "content_html": "",
-      "date_published": "2026-03-03T11:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-euroladzie-lutym-2026-wzrosla-ale-pozostala-w-celu-EBC-9092065.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-euroladzie-lutym-2026-wzrosla-ale-pozostala-w-celu-EBC-9092065.html",
-      "title": "Inflacja w euroladzie w górę, ale wciąż w ramach celu EBC. Tylko na jak długo? Lutowy wzrost inflacji HICP w strefie euro co prawda nieco zaskoczył ekonomistów, ale jak dotąd utrzymał się w zakresie mandatu Europejskiego Banku Centralnego.",
-      "content_html": "",
-      "date_published": "2026-03-03T11:35:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
