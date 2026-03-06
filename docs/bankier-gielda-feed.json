@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-i-spadek-zatrudnienia-S-P500-konczy-najnizej-od-listopada-9094540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-i-spadek-zatrudnienia-S-P500-konczy-najnizej-od-listopada-9094540.html",
+      "title": "Kryzys naftowy i spadek zatrudnienia. S&P500 kończy najniżej od grudnia W obliczu utrzymującej się blokady Cieśniny Ormuz i kiepskich danych z amerykańskiego rynku pracy indeks S&P500 znalazł się najniżej od listopada.",
+      "content_html": "",
+      "date_published": "2026-03-06T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szacunkowy-zysk-netto-grupy-Torpol-w-2025-r-wzrosl-do-78-1-mln-zl-9094523.html",
       "url": "https://www.bankier.pl/wiadomosc/Szacunkowy-zysk-netto-grupy-Torpol-w-2025-r-wzrosl-do-78-1-mln-zl-9094523.html",
       "title": "Szacunkowy zysk netto grupy Torpol w 2025 r. wzrósł do 78,1 mln zł Szacunkowy zysk netto grupy Torpol w 2025 roku wzrósł do 78,1 mln zł z 68 mln zł rok wcześniej - poinformowała spółka w komunikacie.",
@@ -408,13 +415,6 @@
       "title": "BNP Paribas BP chce wypłacić 10,2 zł dywidendy na akcję Zarząd BNP Paribas Bank Polska rekomenduje, by z zysku netto za 2025 roku w wysokości 3,01 mld zł przeznaczyć na wypłatę dywidendy kwotę ok. 1,51 mld zł, co dałoby 10,2 zł dywidendy na akcję - poinformował bank w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-05T06:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Inwestorzy-nie-martwia-sie-wojna-z-Iranem-9093200.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Inwestorzy-nie-martwia-sie-wojna-z-Iranem-9093200.html",
-      "title": "Wall Street w górę. Inwestorzy nie martwią się wojną z Iranem? Środowa sesja na Wall Street zakończyła się wzrostami, a inwestorzy mniej przejmują się konfliktem z Iranem i jego konsekwencjami dla surowców i globalnej gospodarki.",
-      "content_html": "",
-      "date_published": "2026-03-04T22:12:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

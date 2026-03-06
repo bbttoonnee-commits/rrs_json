@@ -11,6 +11,13 @@
       "date_published": "2026-03-07T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-i-spadek-zatrudnienia-S-P500-konczy-najnizej-od-listopada-9094540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-i-spadek-zatrudnienia-S-P500-konczy-najnizej-od-listopada-9094540.html",
+      "title": "Kryzys naftowy i spadek zatrudnienia. S&P500 kończy najniżej od grudnia",
+      "content_html": "W obliczu utrzymującej się blokady Cieśniny Ormuz i kiepskich danych z amerykańskiego rynku pracy indeks S&P500 znalazł się najniżej od listopada.",
+      "date_published": "2026-03-06T22:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szacunkowy-zysk-netto-grupy-Torpol-w-2025-r-wzrosl-do-78-1-mln-zl-9094523.html",
       "url": "https://www.bankier.pl/wiadomosc/Szacunkowy-zysk-netto-grupy-Torpol-w-2025-r-wzrosl-do-78-1-mln-zl-9094523.html",
       "title": "Szacunkowy zysk netto grupy Torpol w 2025 r. wzrósł do 78,1 mln zł",
@@ -695,13 +702,6 @@
       "title": "Utrzymanie u władzy Orbana. Kreml powołał zespół, który będzie ingerował w wybory",
       "content_html": "Kreml powołał specjalny zespół, którego zadaniem będzie ingerowanie w kwietniowe wybory parlamentarne na Węgrzech - napisał na portalu VSquare dziennikarz śledczy Szabolcs Panyi, powołując się na źródła europejskie zajmujące się tematyką...",
       "date_published": "2026-03-06T07:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawet-4000-zl-za-iKonto-Biznes-Tyle-mozna-zyskac-w-promocji-Alior-Banku-9093375.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawet-4000-zl-za-iKonto-Biznes-Tyle-mozna-zyskac-w-promocji-Alior-Banku-9093375.html",
-      "title": "Nawet 4000 zł za iKonto Biznes. Tyle można zyskać w promocji Alior Banku",
-      "content_html": "Przedsiębiorcy mogą zgarnąć nawet 4000 zł premii za otwarcie i aktywne korzystanie z iKonta Biznes w Alior Banku. Na bonus składają się trzy promocje: moneyback za płatności kartą lub Blikiem, premia na start oraz dodatkowa nagroda po roku...",
-      "date_published": "2026-03-06T07:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
