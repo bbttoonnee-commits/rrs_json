@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-lutym-356-2-mln-zl-przychodow-wzrost-rdr-o-3-proc-9094432.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-lutym-356-2-mln-zl-przychodow-wzrost-rdr-o-3-proc-9094432.html",
+      "title": "Grupa Auto Partner miała w lutym 356,2 mln zł przychodów, wzrost rdr o 3 proc. Skonsolidowane przychody grupy Auto Partner w lutym 2026 roku wyniosły 356,2 mln zł, co oznacza wzrost rdr o 3 proc. - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-06T17:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bankier-pl-na-26-Konferencji-Rynku-Kapitalowego-Budzimy-rynek-z-samego-serca-wydarzen-9094312.html",
       "url": "https://www.bankier.pl/wiadomosc/Bankier-pl-na-26-Konferencji-Rynku-Kapitalowego-Budzimy-rynek-z-samego-serca-wydarzen-9094312.html",
       "title": "Bankier.pl na 26. Konferencji Rynku Kapitałowego. Budzimy rynek z samego serca wydarzeń! Już w niedzielę 8 marca w Bukowinie Tatrzańskiej startuje najważniejsze wydarzenie branży inwestycyjnej – 26. Konferencja Rynku Kapitałowego (KRK’26). Pod hasłem „Budzimy rynek kapitałowy!” przedstawiciele biznesu, rządu i nadzoru będą dyskutować o tym, jak uwolnić potencjał polskiej giełdy i napędzić innowacyjną gospodarkę.",
@@ -408,20 +415,6 @@
       "title": "Wyniki Asseco Business Solutions w IV kw. 2025 roku vs. konsensus PAP Poniżej przedstawiono wyniki Asseco Business Solutions w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wcześniejszych wyników.",
       "content_html": "",
       "date_published": "2026-03-04T18:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RPP-znow-tnie-stopy-a-gielda-odbija-Koniec-paniki-wsrod-inwestorow-9093041.html",
-      "url": "https://www.bankier.pl/wiadomosc/RPP-znow-tnie-stopy-a-gielda-odbija-Koniec-paniki-wsrod-inwestorow-9093041.html",
-      "title": "SESJA NA GPW RPP znów tnie stopy, a giełda odbija. Koniec paniki wśród inwestorów? Środa przyniosła moment ulgi dla inwestorów, jednak analitycy ostrzegają, że przy obecnej niestabilności geopolitycznej, każda kolejna sesja może przynieść kolejny zwrot akcji. Sygnały o możliwych negocjacjach pokojowych stały się katalizatorami dynamicznego odbicia na rynkach akcji. W Polsce wydarzeniem numer jeden było cięcie stóp procentowych przez RPP, które jednak niezbyt mocno zaszkodziło złotemu. Byki z impetem powróciły do gry, odrabiając znaczną część strat z poprzednich dni handlu.",
-      "content_html": "",
-      "date_published": "2026-03-04T17:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojska-rakietowe-oslonia-Orlen-i-baze-PERN-Powstaje-nowa-tarcza-Mazowsza-9093011.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojska-rakietowe-oslonia-Orlen-i-baze-PERN-Powstaje-nowa-tarcza-Mazowsza-9093011.html",
-      "title": "Wojska rakietowe osłonią Orlen i bazę PERN. Powstaje nowa „tarcza” Mazowsza W kwietniu wicepremier, minister obrony narodowej Władysław Kosiniak-Kamysz ma podpisać porozumienie z samorządami na lokalizację wojsk rakietowych w Gostyninie pod Płockiem (Mazowieckie), a także w Łowiczu (Łódzkie) - poinformował w środę wicemarszałek Sejmu, płocki poseł PSL, Piotr Zgorzelski.",
-      "content_html": "",
-      "date_published": "2026-03-04T16:40:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
