@@ -4,11 +4,18 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-dyktuje-warunki-Musimy-zapomniec-o-dalszych-obnizkach-stop-procentowych-dopoki-trwa-konflikt-9094018.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-dyktuje-warunki-Musimy-zapomniec-o-dalszych-obnizkach-stop-procentowych-dopoki-trwa-konflikt-9094018.html",
+      "title": "Wojna dyktuje warunki? \"Musimy zapomnieć o dalszych obniżkach stóp procentowych dopóki trwa konflikt\" Polska prawdopodobnie powstrzyma się od obniżek stóp do czasu zakończenia konfliktu w Iranie - powiedział w wywiadzie dla agencji Bloomberg, członek RPP Henryk Wnorowski.",
+      "content_html": "",
+      "date_published": "2026-03-06T07:53:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Masakra-Iranu-za-miliardy-dolarow-Operacja-kosztuje-USA-890-mln-dolarow-dziennie-9093912.html",
       "url": "https://www.bankier.pl/wiadomosc/Masakra-Iranu-za-miliardy-dolarow-Operacja-kosztuje-USA-890-mln-dolarow-dziennie-9093912.html",
       "title": "Masakra Iranu za miliardy dolarów. \"Operacja\" kosztuje USA 890 mln dolarów dziennie Szacuje się, że pierwszych 100 godzin operacji amerykańskich sił przeciwko Iranowi kosztowało 3,7 mld dolarów, czyli ponad 890 mln dolarów dziennie - podał w czwartek think tank Center for Strategic and International Studies.",
       "content_html": "",
-      "date_published": "2026-03-06T07:00:00+01:00"
+      "date_published": "2026-03-06T07:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/To-oni-uwierzyli-w-Scanway-Samorzadowy-fundusz-ktory-inwestuje-w-dolnoslaski-biznes-9093754.html",
@@ -485,13 +492,6 @@
       "title": "UOKiK interweniuje. Czy Polskie Sieci Elektroenergetyczne dyskryminowały producentów? Prezes UOKiK Tomasz Chróstny wszczął postępowanie wyjaśniające dotyczące praktyk Polskich Sieci Elektroenergetycznych - podał UOKiK w komunikacie. Wskazano, że wątpliwości budzi sposób realizacji mechanizmu redysponowania jednostkami wytwórczymi energii ze źródeł odnawialnych i magazynami energii.",
       "content_html": "",
       "date_published": "2026-03-04T08:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliony-na-propagande-PiS-Fundacja-Orlen-placila-za-polityke-9092570.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliony-na-propagande-PiS-Fundacja-Orlen-placila-za-polityke-9092570.html",
-      "title": "\"Miliony na propagandę PiS\". Fundacja Orlen płaciła za politykę? Fundacja Orlenu przekazała ponad 4,6 mln zł na kampanię promującą referendum 4XNIE, mające pomóc PiS w wygraniu wyborów w 2023 r.; teraz prokuratura zabezpieczyła cztery nieruchomości byłej prezeski fundacji, która akceptowała fakt, że pieniądze przeznaczono niezgodnie z celem - informuje w środę „Gazeta Wyborcza\".",
-      "content_html": "",
-      "date_published": "2026-03-04T07:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
