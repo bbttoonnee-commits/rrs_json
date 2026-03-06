@@ -53,6 +53,13 @@
       "date_published": "2026-03-06T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/10-arcytrudnych-pytan-o-inwestowanie-od-prof-Krzysztofa-Borowskiego-I-nagrody-9093933.html",
+      "url": "https://www.bankier.pl/wiadomosc/10-arcytrudnych-pytan-o-inwestowanie-od-prof-Krzysztofa-Borowskiego-I-nagrody-9093933.html",
+      "title": "10 arcytrudnych pytań o inwestowanie od prof. Krzysztofa Borowskiego. I nagrody!",
+      "content_html": "Myślisz, że giełda nie ma przed Tobą tajemnic? Ostrzegamy: ten quiz to nie przelewki. Prof. Krzysztof Borowski przygotował zestaw pytań, na którym mogą polec nawet zaprawieni w bojach inwestorzy. Przy okazji możecie zgarnąć nagrody – szczegóły...",
+      "date_published": "2026-03-06T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Brak-zdecydowania-na-Wall-Street-Tym-razem-sesja-z-przewaga-spadkow-9093925.html",
       "url": "https://www.bankier.pl/wiadomosc/Brak-zdecydowania-na-Wall-Street-Tym-razem-sesja-z-przewaga-spadkow-9093925.html",
       "title": "Brak zdecydowania na Wall Street. Tym razem sesja z przewagą spadków",
@@ -461,7 +468,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyciskanie-krotkich-w-Korei-Poludniowej-i-panstwowy-fundusz-podniosly-gielde-w-Seulu-9093610.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyciskanie-krotkich-w-Korei-Poludniowej-i-panstwowy-fundusz-podniosly-gielde-w-Seulu-9093610.html",
-      "title": "Wyciskanie krótkich w Korei Południowej i państwowy fundusz podniosły giełdę w Seulu",
+      "title": "Short squeeze w Korei Południowej. Prezydent reaguje na krach giełdy w Seulu",
       "content_html": "Po najbardziej dramatycznym krachu w historii, południowokoreański parkiet zaliczył w czwartek równie bezprecedensowe odbicie. Główny indeks KOSPI zyskał w trakcie sesji aż 12%, odrabiając znaczną część strat z „czarnej środy”. Impulsem...",
       "date_published": "2026-03-05T14:38:00+01:00"
     },
@@ -695,13 +702,6 @@
       "title": "Polskie obligacje nie okazały się bezpieczną przystanią. Skokowy wzrost rentowności",
       "content_html": "Kryzys irański spowodował znaczącą przecenę polskich obligacji skarbowych. Rentowność 10-latek podskoczyła o blisko 40 pb. Wyraźną korektę zaliczył giełdowy indeks TBSP",
       "date_published": "2026-03-05T11:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-funkcja-w-mObywatelu-To-koniec-wizyt-w-urzedzie-dla-tysiecy-Polakow-9093342.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-funkcja-w-mObywatelu-To-koniec-wizyt-w-urzedzie-dla-tysiecy-Polakow-9093342.html",
-      "title": "Nowa funkcja w mObywatelu. \"To koniec wizyt w urzędzie dla tysięcy Polaków\"",
-      "content_html": "Od dziś rodzice mogą zgłosić urodzenie dziecka w aplikacji mObywatel - poinformował w czwartek wiceminister cyfryzacji Dariusz Standerski. Zgłoszenie narodzin dziecka bez konieczności odwiedzenia urzędu stanu cywilnego było możliwe już wcześniej...",
-      "date_published": "2026-03-05T11:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
