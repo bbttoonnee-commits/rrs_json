@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-292-mieszkania-w-Warszawie-9094199.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-292-mieszkania-w-Warszawie-9094199.html",
+      "title": "Dom Development wprowadził do sprzedaży 292 mieszkania w Warszawie Dom Development wprowadził do sprzedaży 292 mieszkania w ostatnim etapie Apartamentów Literacka w Warszawie - poinformował deweloper w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-03-06T12:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-ma-zabezpieczone-dostawy-surowca-do-rafinerii-stabilizuje-ceny-na-tyle-na-ile-to-mozliwe-9094180.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-ma-zabezpieczone-dostawy-surowca-do-rafinerii-stabilizuje-ceny-na-tyle-na-ile-to-mozliwe-9094180.html",
+      "title": "Orlen uspokaja: Rafinerie pracują normalnie, dostawy surowca są zabezpieczone Orlen ma zabezpieczone dostawy surowca do rafinerii, niezależnie od tego, co dzieje się na Bliskim Wschodzie. Stabilizuje polskie ceny na tyle, na ile to możliwe - podało biuro prasowe Orlenu na portalu X.",
+      "content_html": "",
+      "date_published": "2026-03-06T12:04:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Atende-szacuje-zysk-EBITDA-w-IV-kw-na-0-9-mln-zl-9094178.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Atende-szacuje-zysk-EBITDA-w-IV-kw-na-0-9-mln-zl-9094178.html",
       "title": "Grupa Atende szacuje zysk EBITDA w IV kw. na 0,9 mln zł Grupa Atende szacuje skonsolidowany zysk EBITDA w IV kwarle 2025 roku na 0,9 mln zł, podczas gdy rok wcześniej grupa miała 11,8 mln zł straty EBITDA - podała spółka w komunikacie.",
@@ -34,7 +48,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-rozpocznie-planowana-przerwe-w-pracy-rafinerii-w-Kralupach-ponowne-uruchomienie-w-maju-9094127.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-rozpocznie-planowana-przerwe-w-pracy-rafinerii-w-Kralupach-ponowne-uruchomienie-w-maju-9094127.html",
-      "title": "Rafineria orlenu w Kralupach łapie pauzę. Ponownie uruchomienie w maju Orlen Unipetrol rozpocznie planowaną przerwę w pracy swojej rafinerii w Kralupach - podał Orlen Unipetrol w komunikacie prasowym. Postój rozpocznie się 17 marca, a poszczególne technologie produkcyjne będą wyłączane od 11 marca. Ponowne uruchomienie rafinerii planowane jest na początek maja.",
+      "title": "Rafineria Orlenu w Kralupach łapie pauzę. Ponownie uruchomienie w maju Orlen Unipetrol rozpocznie planowaną przerwę w pracy swojej rafinerii w Kralupach - podał Orlen Unipetrol w komunikacie prasowym. Postój rozpocznie się 17 marca, a poszczególne technologie produkcyjne będą wyłączane od 11 marca. Ponowne uruchomienie rafinerii planowane jest na początek maja.",
       "content_html": "",
       "date_published": "2026-03-06T10:54:00+01:00"
     },
@@ -443,20 +457,6 @@
       "title": "Modelowa marża Orlenu skoczyła o blisko 20%. Jest z czego ciąć? Modelowa marża rafineryjna Orlenu w lutym 2026 roku wzrosła do 10,5 USD z 8,8 USD w styczniu 2026 roku - poinformował Orlen. Dyferencjał jest dodatni i wynosi 2,0 USD, wobec dyferencjału na poziomie 1,3 USD w styczniu.",
       "content_html": "",
       "date_published": "2026-03-04T13:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PGE-nie-widzi-zagrozenia-dla-dostaw-gazu-prezes-9092784.html",
-      "url": "https://www.bankier.pl/wiadomosc/PGE-nie-widzi-zagrozenia-dla-dostaw-gazu-prezes-9092784.html",
-      "title": "Prezes PGE: Konflikt na Bliskim Wschodzie nie zagraża dostawom gazu do Polski Prezes PGE Dariusz Lubera nie widzi zagrożenia dla dostaw gazu w związku z konfliktem na Bliskim Wschodzie.",
-      "content_html": "",
-      "date_published": "2026-03-04T12:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PGE-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes-9092765.html",
-      "url": "https://www.bankier.pl/wiadomosc/PGE-moze-w-polowie-roku-dokonac-przegladu-strategii-prezes-9092765.html",
-      "title": "PGE może w połowie roku dokonać przeglądu strategii grupy PGE może w połowie roku dokonać przeglądu strategii grupy - poinformował prezes PGE Dariusz Lubera.",
-      "content_html": "",
-      "date_published": "2026-03-04T12:04:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
