@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/USA-chca-kapitulacji-Prezydent-Iranu-wstrzymamy-ataki-na-sasiadow-ale-jest-warunek-9094630.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-chca-kapitulacji-Prezydent-Iranu-wstrzymamy-ataki-na-sasiadow-ale-jest-warunek-9094630.html",
+      "title": "USA chcą kapitulacji. Prezydent Iranu: wstrzymamy ataki na sąsiadów, ale jest warunek",
+      "content_html": "Prezydent Iranu Masud Pezeszkian oświadczył w wyemitowanym w sobotę przemówieniu, że tymczasowe najwyższe kierownictwo kraju zaaprobowało wstrzymanie ostrzałów sąsiednich krajów, o ile nie będą z nich prowadzone ataki wymierzone w Iran.",
+      "date_published": "2026-03-07T09:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-jak-gra-komputerowa-To-nigdy-nie-miala-byc-uczciwa-walka-9094602.html",
       "url": "https://www.bankier.pl/wiadomosc/Atak-na-Iran-jak-gra-komputerowa-To-nigdy-nie-miala-byc-uczciwa-walka-9094602.html",
       "title": "Atak na Iran jak gra komputerowa. \"To nigdy nie miała być uczciwa walka\"",
@@ -144,6 +151,20 @@
       "date_published": "2026-03-07T06:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szok-wojenny-na-rynkach-To-kropla-ktora-przeleje-czare-goryczy-9094500.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szok-wojenny-na-rynkach-To-kropla-ktora-przeleje-czare-goryczy-9094500.html",
+      "title": "Szok wojenny na rynkach. To kropla, która przeleje czarę goryczy?",
+      "content_html": "Wybuch konfliktu na Bliskim Wschodzie najboleśniej uderzył w rynki akcji w Europie i w gospodarkach wschodzących. Obroniły się natomiast amerykańskie giełdy, a dolar poszedł w górę. Wall Street obawia się, że przedłużająca się wojna może...",
+      "date_published": "2026-03-07T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stacje-paliw-na-Kubie-pozamykane-Poziom-sprzedazy-benzyny-minimalny-9094570.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stacje-paliw-na-Kubie-pozamykane-Poziom-sprzedazy-benzyny-minimalny-9094570.html",
+      "title": "Stacje paliw na Kubie pozamykane. Poziom sprzedaży benzyny minimalny",
+      "content_html": "Na kubańskich stacjach paliw sprzedawanych jest na początku marca średnio 7,5 tys. litrów benzyny dziennie, rekordowo mało, wynika z danych władz kubańskiego przemysłu paliwowego, cytowanych w piątek przez niezależne media.",
+      "date_published": "2026-03-07T04:33:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rosja-pomaga-Iranowi-Trump-ucial-temat-jednym-zdaniem-9094564.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosja-pomaga-Iranowi-Trump-ucial-temat-jednym-zdaniem-9094564.html",
       "title": "Rosja pomaga Iranowi? Trump uciął temat jednym zdaniem",
@@ -156,6 +177,13 @@
       "title": "Iran planował ataki terrorystyczne w Azerbejdżanie? W tle m.in. rurociąg",
       "content_html": "Służba Bezpieczeństwa Państwa Azerbejdżanu poinformowała w piątek, że udaremniła przygotowania do czterech ataków terrorystycznych prowadzone przez agentów Korpusu Strażników Rewolucji Islamskiej.",
       "date_published": "2026-03-07T00:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rajd-cen-ropy-trwa-Barylka-Brent-przebila-92-dolary-a-to-dopiero-poczatek-9094548.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rajd-cen-ropy-trwa-Barylka-Brent-przebila-92-dolary-a-to-dopiero-poczatek-9094548.html",
+      "title": "Rajd cen ropy trwa. Baryłka Brent przebiła 92 dolary, a to dopiero początek",
+      "content_html": "Piątek to kolejny dzień rosnących cen ropy naftowej na rynkach hurtowych. Baryłka ropy Brent od początku tego dnia podrożała o ponad 8 proc., a wzrost ceny ropy WTI przekroczył 12 proc.",
+      "date_published": "2026-03-06T22:43:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-i-spadek-zatrudnienia-S-P500-konczy-najnizej-od-listopada-9094540.html",
@@ -667,27 +695,6 @@
       "title": "Inżynier na \"emeryturze butelkowej\". Jak dorobić na plastiku?",
       "content_html": "Pan Marek to emerytowany inżynier, który znalazł dość nietypowy sposób na zarobek. Na systemie kaucyjnym zarabia dodatkowe pieniądze do swojego budżetu. Są to kwoty opiewające nawet na kilkaset złotych tygodniowo - czytamy w \"Gazecie Wyborczej\"...",
       "date_published": "2026-03-06T10:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Andruszkiewicz-Grabiec-klamie-Kontakt-ws-SAFE-i-spotkania-Nawrocki-Tusk-byl-9094120.html",
-      "url": "https://www.bankier.pl/wiadomosc/Andruszkiewicz-Grabiec-klamie-Kontakt-ws-SAFE-i-spotkania-Nawrocki-Tusk-byl-9094120.html",
-      "title": "Andruszkiewicz: Grabiec kłamie. Kontakt ws. SAFE i spotkania Nawrocki-Tusk był",
-      "content_html": "W czwartek szef KPRP Zbigniew Bogucki zadzwonił do szefa KPRM Jana Grabca w kwestii spotkania prezydenta i premiera dotyczącego prezydenckiej propozycji „SAFE 0 proc.” - przekazał w piątek zastępca szefa KPRP Adam Andruszkiewicz. Dodał, że...",
-      "date_published": "2026-03-06T10:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szok-paliwowy-Ceny-paliw-mocno-w-gore-Bedzie-8-zl-za-litr-ON-9094119.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szok-paliwowy-Ceny-paliw-mocno-w-gore-Bedzie-8-zl-za-litr-ON-9094119.html",
-      "title": "Szok paliwowy. Ceny paliw w górę nawet po złotówkę na litrze! Będzie 8 zł za litr ON?",
-      "content_html": "Ceny oleju napędowego podskoczyły średnio o złotówkę na litrze i znalazły się najwyżej od 3 lat. Sytuacja jest porównywalna z tym, co działo się po rosyjskiej napaści na Ukrainę cztery lata temu. Przy obecnych cenach hurtowych ON może wkrótce...",
-      "date_published": "2026-03-06T10:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atomowy-gigant-budzi-sie-do-zycia-Najwieksza-elektrownia-swiata-znow-bedzie-wysylala-prad-do-sieci-9094116.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atomowy-gigant-budzi-sie-do-zycia-Najwieksza-elektrownia-swiata-znow-bedzie-wysylala-prad-do-sieci-9094116.html",
-      "title": "Gigant budzi się ze snu. Największa elektrownia atomowa zamiast milionów ton gazu",
-      "content_html": "Po blisko czternastu latach od katastrofy w Fukushimie, największa elektrownia jądrowa świata pod względem zainstalowanej mocy ponownie działa. Restart nie obył się bez przeszkód, ale reaktor nr 6 już działa, a elektorwnia Kashiwazaki-Kariwa...",
-      "date_published": "2026-03-06T10:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
