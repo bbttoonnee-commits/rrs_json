@@ -4,13 +4,6 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-chce-wzmocnic-rynek-kapitalowy-i-zostac-liderem-zmian-w-Europie-Domanski-MF-wywiad-9094663.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-chce-wzmocnic-rynek-kapitalowy-i-zostac-liderem-zmian-w-Europie-Domanski-MF-wywiad-9094663.html",
-      "title": "Polska chce wzmocnić rynek kapitałowy i zostać liderem zmian w Europie - Domański, MF (wywiad) Rząd zapowiada intensyfikację działań na rzecz silniejszego rynku kapitałowego. Minister finansów i gospodarki Andrzej Domański podkreśla, że budowa stabilnej architektury rynku jest jego priorytetem i że Polska chce aktywnie uczestniczyć w kształtowaniu europejskiej unii inwestycyjnej.",
-      "content_html": "",
-      "date_published": "2026-03-07T13:24:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Dla-UE-i-Polski-glownym-zagrozeniem-sa-gospodarcze-skutki-wzrostu-cen-ropy-i-gazu-9093464.html",
       "url": "https://www.bankier.pl/wiadomosc/Dla-UE-i-Polski-glownym-zagrozeniem-sa-gospodarcze-skutki-wzrostu-cen-ropy-i-gazu-9093464.html",
       "title": "OPINIA Dla UE i Polski głównym zagrożeniem są gospodarcze skutki wzrostu cen ropy i gazu Dla Unii Europejskiej i Polski podstawowym zagrożeniem nie jest brak bezpieczeństwa dostaw ropy naftowej i gazu, lecz gospodarcze skutki wzrostu cen tych surowców - ocenili w tygodniowym raporcie analitycy PIE. Ich zdaniem rynek gazu jest bardziej wrażliwy na konflikt na Bliskim Wschodzie niż rynek ropy.",
@@ -359,20 +352,6 @@
       "title": "Short squeeze w Korei Południowej. Prezydent reaguje na krach giełdy w Seulu Po najbardziej dramatycznym krachu w historii, południowokoreański parkiet zaliczył w czwartek równie bezprecedensowe odbicie. Główny indeks KOSPI zyskał w trakcie sesji aż 12%, odrabiając znaczną część strat z „czarnej środy”. Impulsem dla inwestorów stała się zdecydowana interwencja rządu Prezydenta Lee Jae Myunga, który uruchomił fundusz stabilizacyjny o wartości 68 miliardów dolarów, oraz sygnały o stabilizacji cen ropy naftowej.",
       "content_html": "",
       "date_published": "2026-03-05T14:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pharmena-zakonczyla-ocene-skutecznosci-1-MNA-w-luszczycy-9093595.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pharmena-zakonczyla-ocene-skutecznosci-1-MNA-w-luszczycy-9093595.html",
-      "title": "Pharmena zakończyła ocenę skuteczności 1-MNA w łuszczycy Pharmena zakończyła realizację projektu oceny skuteczności 1-metylonikotynamidu (1-MNA) u pacjentów chorych na łuszczycę prowadzonego we współpracy z Uniwersytetem Medycznym w Łodzi - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-05T14:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Lato-2026-Rainbow-Tours-wzrosla-o-10-9-proc-w-porownaniu-do-oferty-Lato-2025-9093555.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Lato-2026-Rainbow-Tours-wzrosla-o-10-9-proc-w-porownaniu-do-oferty-Lato-2025-9093555.html",
-      "title": "Przedsprzedaż oferty \"Lato 2026\" Rainbow Tours wzrosła o 10,9 proc. w porównaniu do oferty \"Lato 2025\" Rainbow Tours do 28 lutego 2026 roku przedsprzedał ofertę \"Lato 2026\" 266.477 osobom, wobec 240.286 osób rok wcześniej w tym samym okresie, co oznacza wzrost o 10,9 proc. rdr - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-05T13:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
