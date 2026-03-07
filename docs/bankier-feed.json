@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Myslala-ze-znalazla-milosc-na-platformie-wiertniczej-Kobieta-stracila-ponad-20-tys-zl-9092577.html",
+      "url": "https://www.bankier.pl/wiadomosc/Myslala-ze-znalazla-milosc-na-platformie-wiertniczej-Kobieta-stracila-ponad-20-tys-zl-9092577.html",
+      "title": "Myślała, że znalazła miłość na platformie wiertniczej. Kobieta straciła ponad 20 tys. zł",
+      "content_html": "69-letnia mieszkanka powiatu piaseczyńskiego padał ofiarą oszusta, który podając się za pracownika platformy wiertniczej wyłudził od kobiety ponad 20 tys. zł.",
+      "date_published": "2026-03-07T12:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dlaczego-tak-naprawde-USA-atakuja-Iran-Donald-Trump-nie-wyjasnil-9092544.html",
       "url": "https://www.bankier.pl/wiadomosc/Dlaczego-tak-naprawde-USA-atakuja-Iran-Donald-Trump-nie-wyjasnil-9092544.html",
       "title": "Dlaczego tak naprawdę USA atakują Iran? \"Donald Trump nie wyjaśnił\"",
@@ -695,13 +702,6 @@
       "title": "PolTREG pozytywnie ocenia wyniki przedklinicznych badań w terapii in vivo",
       "content_html": "Zarząd PolTREG pozytywnie ocenia wyniki przedklinicznych badań w terapii in vivo w projekcie dotyczącym antygenowo-specyficznych limfocytów Tregs (agTregs/PTG-020) w leczeniu cukrzycy typu 1 - podał PolTREG w komunikacie.",
       "date_published": "2026-03-06T11:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontrowersyjna-Ustawa-o-zdrowiu-zwierzat-Dlaczego-organizacje-prozwierzece-protestuja-9092923.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrowersyjna-Ustawa-o-zdrowiu-zwierzat-Dlaczego-organizacje-prozwierzece-protestuja-9092923.html",
-      "title": "Fundacje i domy tymczasowe nielegalne? W ochronie zwierząt szykuje się prawdziwy paraliż",
-      "content_html": "Już 18 marca 2026 roku wchodzi w życie Ustawa o zdrowiu zwierząt, która wprowadza fundamentalne zmiany w funkcjonowaniu placówek opiekujących się bezdomnymi czworonogami. Choć resort rolnictwa przekonuje o konieczności dostosowania krajowych...",
-      "date_published": "2026-03-06T11:21:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
