@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-25-4-mln-zl-9094610.html",
+      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-25-4-mln-zl-9094610.html",
+      "title": "Artifex Mundi szacuje, że zysk netto w '25 spadł o 7 proc. rdr do 25,4 mln zł",
+      "content_html": "Artifex Mundi szacuje, że zysk netto w 2025 roku wyniósł 25,4 mln zł, czyli był o 7 proc. niższy niż w 2024 roku - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-07T07:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-sie-rozkreca-Bessent-USA-moga-zdjac-czesc-sankcji-z-rosyjskiej-ropy-9094603.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-sie-rozkreca-Bessent-USA-moga-zdjac-czesc-sankcji-z-rosyjskiej-ropy-9094603.html",
+      "title": "Kryzys naftowy się rozkręca. Bessent: USA mogą zdjąć część sankcji z rosyjskiej ropy",
+      "content_html": "Sekretarz skarbu USA Scott Bessent powiedział w piątek w wywiadzie, że może wkrótce zdjąć kolejną transzę sankcji dotyczących rosyjskiej ropy naftowej, by obniżyć globalne ceny surowca. W czwartek resort tymczasowo pozwolił na zakup rosyjskiej...",
+      "date_published": "2026-03-07T07:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Muzulmanscy-duchowni-bronia-szariatu-na-likwidacje-ktorego-nalegaja-USA-9089270.html",
       "url": "https://www.bankier.pl/wiadomosc/Muzulmanscy-duchowni-bronia-szariatu-na-likwidacje-ktorego-nalegaja-USA-9089270.html",
       "title": "Muzułmańscy duchowni bronią szariatu, na likwidację którego nalegają USA",
@@ -681,27 +695,6 @@
       "title": "Irański okręt pod kontrolą Sri Lanki. Dramatyczna akcja ratunkowa",
       "content_html": "Sri Lanka przejęła w piątek kontrolę nad irańskim okrętem wojennym IRINS Buszehr po ewakuacji załogi tej jednostki, która zgłosiła awarię silnika. Dwa dni wcześniej Stany Zjednoczone storpedowały irańską fregatę IRIS Dena. Uratowano 32...",
       "date_published": "2026-03-06T08:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kallas-Ustepstwa-wobec-Rosji-to-pulapka-ktora-karmi-dyktatora-9093921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kallas-Ustepstwa-wobec-Rosji-to-pulapka-ktora-karmi-dyktatora-9093921.html",
-      "title": "Kallas: Ustępstwa wobec Rosji to pułapka, która karmi dyktatora",
-      "content_html": "Jeśli zaoferujemy coś Rosji w zamian za pokój w Ukrainie, to tylko nakarmimy dyktatora; a jego apetyt tylko wzrośnie – powiedziała w czwartek w Zurychu szefowa unijnej dyplomacji Kaja Kallas.",
-      "date_published": "2026-03-06T08:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dramatyczne-ostrzezenie-Crosetto-Wlochy-Swiat-jest-na-krawedzi-przepasci-9093908.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dramatyczne-ostrzezenie-Crosetto-Wlochy-Swiat-jest-na-krawedzi-przepasci-9093908.html",
-      "title": "Dramatyczne ostrzeżenie Crosetto. Włochy: Świat jest na krawędzi przepaści",
-      "content_html": "- Jesteśmy na krawędzi przepaści - powiedział w czwartek w Senacie włoski minister obrony Guido Crosetto, przedstawiając informację rządu o sytuacji na Bliskim Wschodzie po rozpoczęciu ataku USA i Izraela na Iran. Dodał, że obecna sytuacja...",
-      "date_published": "2026-03-06T08:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ewakuacja-100-tysiecy-Izraelczykow-Szin-Bet-wywiozl-uczniow-z-Polski-przez-Egipt-9093920.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ewakuacja-100-tysiecy-Izraelczykow-Szin-Bet-wywiozl-uczniow-z-Polski-przez-Egipt-9093920.html",
-      "title": "Ewakuacja 100 tysięcy Izraelczyków. Szin Bet wywiózł uczniów z Polski przez Egipt",
-      "content_html": "Od rozpoczęcia wojny z Iranem do Izraela drogą lądową i morską wróciło ok. 20 tys. obywateli. Pierwsze samoloty wylądowały w Izraelu w czwartek, przywożąc do kraju pierwszych pasażerów z około 100 tys. oczekujących na powrót. 850 izraelskich...",
-      "date_published": "2026-03-06T08:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
