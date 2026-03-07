@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 07 Mar 2026 09:26:00 +0100</lastBuildDate>
-    <item>
-      <title>Inżynier na "emeryturze butelkowej". Jak dorobić na plastiku?</title>
-      <link>https://www.bankier.pl/wiadomosc/Inzynier-na-emeryturze-butelkowej-Jak-dorobic-na-plastiku-9094051.html</link>
-      <description>Pan Marek to emerytowany inżynier, który znalazł dość nietypowy sposób na zarobek. Na systemie kaucyjnym zarabia dodatkowe pieniądze do swojego budżetu. Są to kwoty opiewające nawet na kilkaset złotych tygodniowo - czytamy w "Gazecie Wyborczej"...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Inzynier-na-emeryturze-butelkowej-Jak-dorobic-na-plastiku-9094051.html</guid>
-      <pubDate>Fri, 06 Mar 2026 10:48:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Mar 2026 10:00:00 +0100</lastBuildDate>
     <item>
       <title>Rafineria Orlenu w Kralupach łapie pauzę. Ponownie uruchomienie w maju</title>
       <link>https://www.bankier.pl/wiadomosc/Orlen-rozpocznie-planowana-przerwe-w-pracy-rafinerii-w-Kralupach-ponowne-uruchomienie-w-maju-9094127.html</link>
@@ -701,6 +694,20 @@
       <description>Prezydent Iranu Masud Pezeszkian oświadczył w wyemitowanym w sobotę przemówieniu, że tymczasowe najwyższe kierownictwo kraju zaaprobowało wstrzymanie ostrzałów sąsiednich krajów, o ile nie będą z nich prowadzone ataki wymierzone w Iran.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/USA-chca-kapitulacji-Prezydent-Iranu-wstrzymamy-ataki-na-sasiadow-ale-jest-warunek-9094630.html</guid>
       <pubDate>Sat, 07 Mar 2026 09:26:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Rosja chce wejsć w konflikt na Bliskim Wschodzie</title>
+      <link>https://www.bankier.pl/wiadomosc/Rosja-probuje-zaangazowac-sie-w-konflikt-na-Bliskim-Wschodzie-9094538.html</link>
+      <description>Doniesienia o możliwym przekazywaniu przez Rosję stronie irańskiej danych o amerykańskich celach na Bliskim Wschodzie to pierwszy sygnał, który może świadczyć o tym, że Moskwa próbuje zaangażować się w trwający tam od niemal tygodnia konflikt...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rosja-probuje-zaangazowac-sie-w-konflikt-na-Bliskim-Wschodzie-9094538.html</guid>
+      <pubDate>Sat, 07 Mar 2026 09:45:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>AI panią życia i śmierci. Eksperci alarmują, że świat właśnie przekracza ważną granicę</title>
+      <link>https://www.bankier.pl/wiadomosc/AI-pania-zycia-i-smierci-Eksperci-alarmuja-ze-swiat-wlasnie-przekracza-wazna-granice-9092534.html</link>
+      <description>Czy algorytm może zdecydować o ataku na szkołę? Eksperci alarmują, że świat właśnie przekracza granicę, za którą człowiek przestaje kontrolować machinę wojenną – podaje „Rzeczpospolita”.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/AI-pania-zycia-i-smierci-Eksperci-alarmuja-ze-swiat-wlasnie-przekracza-wazna-granice-9092534.html</guid>
+      <pubDate>Sat, 07 Mar 2026 10:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>

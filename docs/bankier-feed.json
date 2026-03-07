@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/AI-pania-zycia-i-smierci-Eksperci-alarmuja-ze-swiat-wlasnie-przekracza-wazna-granice-9092534.html",
+      "url": "https://www.bankier.pl/wiadomosc/AI-pania-zycia-i-smierci-Eksperci-alarmuja-ze-swiat-wlasnie-przekracza-wazna-granice-9092534.html",
+      "title": "AI panią życia i śmierci. Eksperci alarmują, że świat właśnie przekracza ważną granicę",
+      "content_html": "Czy algorytm może zdecydować o ataku na szkołę? Eksperci alarmują, że świat właśnie przekracza granicę, za którą człowiek przestaje kontrolować machinę wojenną – podaje „Rzeczpospolita”.",
+      "date_published": "2026-03-07T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-probuje-zaangazowac-sie-w-konflikt-na-Bliskim-Wschodzie-9094538.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-probuje-zaangazowac-sie-w-konflikt-na-Bliskim-Wschodzie-9094538.html",
+      "title": "Rosja chce wejsć w konflikt na Bliskim Wschodzie",
+      "content_html": "Doniesienia o możliwym przekazywaniu przez Rosję stronie irańskiej danych o amerykańskich celach na Bliskim Wschodzie to pierwszy sygnał, który może świadczyć o tym, że Moskwa próbuje zaangażować się w trwający tam od niemal tygodnia konflikt...",
+      "date_published": "2026-03-07T09:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/USA-chca-kapitulacji-Prezydent-Iranu-wstrzymamy-ataki-na-sasiadow-ale-jest-warunek-9094630.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-chca-kapitulacji-Prezydent-Iranu-wstrzymamy-ataki-na-sasiadow-ale-jest-warunek-9094630.html",
       "title": "USA chcą kapitulacji. Prezydent Iranu: wstrzymamy ataki na sąsiadów, ale jest warunek",
@@ -688,13 +702,6 @@
       "title": "Rafineria Orlenu w Kralupach łapie pauzę. Ponownie uruchomienie w maju",
       "content_html": "Orlen Unipetrol rozpocznie planowaną przerwę w pracy swojej rafinerii w Kralupach - podał Orlen Unipetrol w komunikacie prasowym. Postój rozpocznie się 17 marca, a poszczególne technologie produkcyjne będą wyłączane od 11 marca. Ponowne uruchomienie...",
       "date_published": "2026-03-06T10:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inzynier-na-emeryturze-butelkowej-Jak-dorobic-na-plastiku-9094051.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inzynier-na-emeryturze-butelkowej-Jak-dorobic-na-plastiku-9094051.html",
-      "title": "Inżynier na \"emeryturze butelkowej\". Jak dorobić na plastiku?",
-      "content_html": "Pan Marek to emerytowany inżynier, który znalazł dość nietypowy sposób na zarobek. Na systemie kaucyjnym zarabia dodatkowe pieniądze do swojego budżetu. Są to kwoty opiewające nawet na kilkaset złotych tygodniowo - czytamy w \"Gazecie Wyborczej\"...",
-      "date_published": "2026-03-06T10:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
