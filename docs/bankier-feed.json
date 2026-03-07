@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Epicka-Furia-bez-sensu-Obalenie-iranskiego-rezimu-malo-prawdopodobne-9094729.html",
+      "url": "https://www.bankier.pl/wiadomosc/Epicka-Furia-bez-sensu-Obalenie-iranskiego-rezimu-malo-prawdopodobne-9094729.html",
+      "title": "\"Epicka Furia\" bez sensu? Obalenie irańskiego reżimu mało prawdopodobne",
+      "content_html": "Z niejawnego raportu Narodowej Rady Wywiadu USA wynika, że jest mało prawdopodobne, by nawet zakrojona na szeroką skalę operacja USA przeciwko Iranowi doprowadziła do obalenia irańskiego kierownictwa wojskowego i duchowego - napisał w sobotę dziennik...",
+      "date_published": "2026-03-07T19:57:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-energii-dusza-przemysl-UE-bierze-pod-lupe-oplaty-sieciowe-i-koszty-emisji-9094724.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-energii-dusza-przemysl-UE-bierze-pod-lupe-oplaty-sieciowe-i-koszty-emisji-9094724.html",
       "title": "Ceny energii duszą przemysł. UE bierze pod lupę opłaty sieciowe i koszty emisji",
@@ -557,6 +564,13 @@
       "date_published": "2026-03-06T16:25:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szczyt-SAFE-0-w-Palacu-Prezydenckim-Nawrocki-zaprasza-Tuska-i-Glapinskiego-9094287.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szczyt-SAFE-0-w-Palacu-Prezydenckim-Nawrocki-zaprasza-Tuska-i-Glapinskiego-9094287.html",
+      "title": "Szczyt \"SAFE 0%\" w Pałacu Prezydenckim. Nawrocki zaprasza Tuska i Glapińskiego",
+      "content_html": "Prezydent Karol Nawrocki zaprosił premiera Donalda Tuska, szefa MON Władysława Kosiniaka-Kamysza oraz prezesa NBP Adama Glapińskiego na spotkanie ws. programu \"SAFE 0 proc.\" na wtorek10 marca, na godz. 15.00 - podał na portalu X szef kancelarii prezydenta...",
+      "date_published": "2026-03-06T16:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-drozyzny-dzieki-OZE-UE-podzielona-w-sprawie-cen-energii-9094371.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-drozyzny-dzieki-OZE-UE-podzielona-w-sprawie-cen-energii-9094371.html",
       "title": "Koniec drożyzny dzięki OZE? UE podzielona w sprawie cen energii",
@@ -688,13 +702,6 @@
       "title": "Uderzenie CBA na Dolnym Śląsku. Zabezpieczają dokumenty w klubie Śląsk Wrocław",
       "content_html": "Funkcjonariusze CBA zabezpieczają w piątek dokumenty w siedzibie klubu piłki ręcznej Śląsk Wrocław. To kontynuacja rozpoczętych w czwartek działań w śledztwie dot. podejrzenia przekroczenia uprawnień przez miejskich urzędników i pracowników...",
       "date_published": "2026-03-06T14:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wzrost-plac-mocno-wyhamuje-Oficjalny-komunikat-po-lutowym-posiedzeniu-RPP-9094262.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wzrost-plac-mocno-wyhamuje-Oficjalny-komunikat-po-lutowym-posiedzeniu-RPP-9094262.html",
-      "title": "Wzrost płac mocno wyhamuje. Oficjalny komunikat po lutowym posiedzeniu RPP",
-      "content_html": "Podczas posiedzenia w lutym Rada Polityki Pieniężnej oceniała, że napływające dane wpisują się w scenariusz zrównoważonego wzrostu gospodarczego - podano w opisie dyskusji z posiedzenia Rady. Większość członków Rady wyrażała opinię,...",
-      "date_published": "2026-03-06T14:02:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
