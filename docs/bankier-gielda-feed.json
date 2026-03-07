@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-chce-wzmocnic-rynek-kapitalowy-i-zostac-liderem-zmian-w-Europie-Domanski-MF-wywiad-9094663.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-chce-wzmocnic-rynek-kapitalowy-i-zostac-liderem-zmian-w-Europie-Domanski-MF-wywiad-9094663.html",
+      "title": "Polska chce wzmocnić rynek kapitałowy i zostać liderem zmian w Europie - Domański, MF (wywiad) Rząd zapowiada intensyfikację działań na rzecz silniejszego rynku kapitałowego. Minister finansów i gospodarki Andrzej Domański podkreśla, że budowa stabilnej architektury rynku jest jego priorytetem i że Polska chce aktywnie uczestniczyć w kształtowaniu europejskiej unii inwestycyjnej.",
+      "content_html": "",
+      "date_published": "2026-03-07T13:24:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dla-UE-i-Polski-glownym-zagrozeniem-sa-gospodarcze-skutki-wzrostu-cen-ropy-i-gazu-9093464.html",
       "url": "https://www.bankier.pl/wiadomosc/Dla-UE-i-Polski-glownym-zagrozeniem-sa-gospodarcze-skutki-wzrostu-cen-ropy-i-gazu-9093464.html",
       "title": "OPINIA Dla UE i Polski głównym zagrożeniem są gospodarcze skutki wzrostu cen ropy i gazu Dla Unii Europejskiej i Polski podstawowym zagrożeniem nie jest brak bezpieczeństwa dostaw ropy naftowej i gazu, lecz gospodarcze skutki wzrostu cen tych surowców - ocenili w tygodniowym raporcie analitycy PIE. Ich zdaniem rynek gazu jest bardziej wrażliwy na konflikt na Bliskim Wschodzie niż rynek ropy.",
@@ -366,20 +373,6 @@
       "title": "Przedsprzedaż oferty \"Lato 2026\" Rainbow Tours wzrosła o 10,9 proc. w porównaniu do oferty \"Lato 2025\" Rainbow Tours do 28 lutego 2026 roku przedsprzedał ofertę \"Lato 2026\" 266.477 osobom, wobec 240.286 osób rok wcześniej w tym samym okresie, co oznacza wzrost o 10,9 proc. rdr - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-05T13:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Vercom-liczy-na-dalsze-wzrosty-w-2026-r-planuje-kolejne-akwizycje-wywiad-9093530.html",
-      "url": "https://www.bankier.pl/wiadomosc/Vercom-liczy-na-dalsze-wzrosty-w-2026-r-planuje-kolejne-akwizycje-wywiad-9093530.html",
-      "title": "Vercom liczy na dalsze wzrosty w 2026 r. Planuje kolejne akwizycje Vercom liczy na dalsze wzrosty w 2026 r. i planuje kolejne akwizycje, na które obecnie może przeznaczyć co najmniej 600 mln zł - poinformował PAP Biznes prezes Krzysztof Szyszka. Wskazał, że spółka widzi ogromny potencjał w fali komunikacji konwersacyjnej.",
-      "content_html": "",
-      "date_published": "2026-03-05T13:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-BS-wskazuje-implementacje-AI-w-rozwoju-produktow-jako-priorytet-na-2026-r-9093524.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-BS-wskazuje-implementacje-AI-w-rozwoju-produktow-jako-priorytet-na-2026-r-9093524.html",
-      "title": "Asseco BS wskazuje implementację AI w rozwoju produktów jako priorytet na 2026 r. Asseco BS wskazuje implementację AI w rozwoju produktów jako priorytet na 2026 r. oraz oczekuje dobrego roku w obszarze FMCG - poinformował na konferencji prasowej członek zarządu Mariusz Lizon.",
-      "content_html": "",
-      "date_published": "2026-03-05T13:06:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
