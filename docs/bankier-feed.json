@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-uwolnil-91-latke-od-dlugow-po-zmarlym-synu-Oddalil-powodztwo-banku-9092430.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-uwolnil-91-latke-od-dlugow-po-zmarlym-synu-Oddalil-powodztwo-banku-9092430.html",
+      "title": "Sąd uwolnił 91-latkę od długów po zmarłym synu. Oddalił powództwo banku",
+      "content_html": "Ostrołęcki sąd oddalił powództwo jednego z banków, który domagał się od 91- letniej seniorki spłaty ponad 30 tys. zł długu wraz z odsetkami po zmarłym synu - poinformował Rzecznik Finansowy, który wspierał emerytkę. W komunikacie RF działania...",
+      "date_published": "2026-03-08T16:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Z-lombardu-skradziono-bizuterie-warta-200-tys-zl-Podejrzani-w-areszcie-9091452.html",
       "url": "https://www.bankier.pl/wiadomosc/Z-lombardu-skradziono-bizuterie-warta-200-tys-zl-Podejrzani-w-areszcie-9091452.html",
       "title": "Z lombardu skradziono biżuterię wartą 200 tys. zł. Podejrzani w areszcie",
@@ -695,13 +702,6 @@
       "title": "Sankcja „półdarmowa” i koniec limitów. Rewolucja w kredycie konsumenckim",
       "content_html": "Doprecyzowanie warunków sankcji kredytu darmowego oraz zasad badania zdolności kredytowej konsumenta to główne zmiany w projekcie ustawy o kredycie konsumenckim po uzgodnieniach. Inne projektowane regulacje, np. ograniczające przekaz w reklamach...",
       "date_published": "2026-03-06T19:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyrok-ws-HiT-Minister-Nowacka-musi-przeprosic-prof-Roszkowskiego-9094376.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyrok-ws-HiT-Minister-Nowacka-musi-przeprosic-prof-Roszkowskiego-9094376.html",
-      "title": "Wyrok ws. HiT. Minister Nowacka musi przeprosić prof. Roszkowskiego",
-      "content_html": "Sąd Okręgowy w Warszawie zadecydował w piątek, że minister edukacji Barbara Nowacka musi przeprosić za słowa o kłamstwach zawartych na każdej stronie podręcznika Historia i Teraźniejszość.",
-      "date_published": "2026-03-06T19:22:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
