@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grozne-odpady-dla-zwierzat-i-ludzi-Mowa-o-elementach-pochodzacych-z-domowej-elektroniki-9093261.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grozne-odpady-dla-zwierzat-i-ludzi-Mowa-o-elementach-pochodzacych-z-domowej-elektroniki-9093261.html",
+      "title": "Groźne odpady dla zwierząt i ludzi. Mowa o elementach pochodzących z domowej elektroniki",
+      "content_html": "Elementy pochodzące z domowej elektroniki oraz dryfujących u wybrzeży e-odpady akumulują się w tkankach waleni -- informuje w czwartek „Gazeta Wyborcza\".",
+      "date_published": "2026-03-08T11:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Alarm-Swiatowej-Federacji-Otylosci-Do-2035-r-chorowac-bedzie-co-czwarta-osoba-9092556.html",
       "url": "https://www.bankier.pl/wiadomosc/Alarm-Swiatowej-Federacji-Otylosci-Do-2035-r-chorowac-bedzie-co-czwarta-osoba-9092556.html",
       "title": "Alarm Światowej Federacji Otyłości. Do 2035 r. chorować będzie co czwarta osoba",
@@ -695,13 +702,6 @@
       "title": "Dostawy paliw w Polsce zagrożone? Rząd wprowadza specjalne odstępstwa dla kierowców",
       "content_html": "Minister infrastruktury Dariusz Klimczak wprowadził czasowe odstępstwa dla kierowców realizujących krajowe przewozy paliw - poinformował w piątek minister energii Miłosz Motyka. Ma to być odpowiedź na postulaty branży i zapewnić ciągłość...",
       "date_published": "2026-03-06T16:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/30-zamiast-36-Szwajcarzy-tna-rozwazane-zakupy-mysliwcow-F-35A-9094405.html",
-      "url": "https://www.bankier.pl/wiadomosc/30-zamiast-36-Szwajcarzy-tna-rozwazane-zakupy-mysliwcow-F-35A-9094405.html",
-      "title": "30 zamiast 36? Szwajcarzy tną rozważane zakupy myśliwców F-35A",
-      "content_html": "Rozważamy zakup 30 myśliwców amerykańskiej produkcji F-35A zamiast przewidywanych wcześniej 36 maszyn - poinformował szwajcarski minister obrony Martin Pfister, tłumacząc, że zmiana wynika ze zbyt dużych kosztów zamówienia. Ponadto Berno zastanawia...",
-      "date_published": "2026-03-06T16:42:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
