@@ -8,35 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 08 Mar 2026 12:00:00 +0100</lastBuildDate>
-    <item>
-      <title>PLL LOT odwołuje kolejne rejsy. Na liście Dubaj, Rijad i Tel Awiw</title>
-      <link>https://www.bankier.pl/wiadomosc/PLL-LOT-odwoluje-kolejne-rejsy-Na-liscie-Dubaj-Rijad-i-Tel-Awiw-9094436.html</link>
-      <description>Polskie Linie Lotnicze LOT zawiesiły rejsy do Dubaju do 11 marca włącznie - poinformował w piątek narodowy przewoźnik. Służby operacyjne LOT-u pracują nad rozwiązaniami, które umożliwią powrót pasażerów ze Zjednoczonych Emiratów Arabskich...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/PLL-LOT-odwoluje-kolejne-rejsy-Na-liscie-Dubaj-Rijad-i-Tel-Awiw-9094436.html</guid>
-      <pubDate>Fri, 06 Mar 2026 17:21:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Ataki na pola naftowe w Iraku. Eksplozje dronów w Basrze i Irbilu</title>
-      <link>https://www.bankier.pl/wiadomosc/Ataki-na-pola-naftowe-w-Iraku-Eksplozje-dronow-w-Basrze-i-Irbilu-9094450.html</link>
-      <description>W mieście Basra, w południowo-wschodniej części Iraku, oraz w Irbilu, stolicy Kurdyjskiego Okręgu Autonomicznego w północnej części kraju, odnotowano ataki dronów - podała w piątek AFP.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ataki-na-pola-naftowe-w-Iraku-Eksplozje-dronow-w-Basrze-i-Irbilu-9094450.html</guid>
-      <pubDate>Fri, 06 Mar 2026 17:33:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Strategiczne bombowce B-52 nad Zatoką Perską. Mają pociski manewrujące dalekiego zasięgu</title>
-      <link>https://www.bankier.pl/wiadomosc/Strategiczne-bombowce-B-52-nad-Zatoka-Perska-Maja-pociski-manewrujace-dalekiego-zasiegu-9094459.html</link>
-      <description>USA rozmieściły w regionie Zatoki Perskiej strategiczne bombowce B-52 z pociskami manewrującymi dalekiego zasięgu JASSM - poinformował w piątek branżowy portal ArmyRecognition. Ich użycie pozwala USA atakować cele o dużym znaczeniu, takie jak...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Strategiczne-bombowce-B-52-nad-Zatoka-Perska-Maja-pociski-manewrujace-dalekiego-zasiegu-9094459.html</guid>
-      <pubDate>Fri, 06 Mar 2026 17:44:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Izrael szykuje nalot na Fordo? Cywile wezwani do natychmiastowej ewakuacji</title>
-      <link>https://www.bankier.pl/wiadomosc/Izrael-szykuje-nalot-na-Fordo-Cywile-wezwani-do-natychmiastowej-ewakuacji-9094468.html</link>
-      <description>Armia Izraela wydała w piątek ostrzeżenie wzywające do ewakuacji strefy przemysłowej w irańskim ostanie (prowincji) Kom, kilkanaście kilometrów od ośrodka wzbogacania uranu w Fordo, kluczowego obiektu irańskiego programu jądrowego – podał...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Izrael-szykuje-nalot-na-Fordo-Cywile-wezwani-do-natychmiastowej-ewakuacji-9094468.html</guid>
-      <pubDate>Fri, 06 Mar 2026 18:03:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 08 Mar 2026 15:00:00 +0100</lastBuildDate>
     <item>
       <title>Polska i Ukraina łączą siły. Będą produkować słynne haubice</title>
       <link>https://www.bankier.pl/wiadomosc/Polska-i-Ukraina-lacza-sily-Beda-produkowac-slynne-haubice-9094472.html</link>
@@ -668,11 +640,25 @@
       <pubDate>Sun, 08 Mar 2026 10:00:00 +0100</pubDate>
     </item>
     <item>
+      <title>Atak w sercu Norwegii. Wybuch przy amerykańskiej ambasadzie</title>
+      <link>https://www.bankier.pl/wiadomosc/Atak-w-sercu-Norwegii-Wybuch-przy-amerykanskiej-ambasadzie-9094813.html</link>
+      <description>Do eksplozji doszło w nocy z soboty na niedzielę przy ambasadzie Stanów Zjednoczonych w Oslo. Nikt nie został ranny, a budynek został uszkodzony w niewielkim stopniu. Norweska policja poszukuje sprawców.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Atak-w-sercu-Norwegii-Wybuch-przy-amerykanskiej-ambasadzie-9094813.html</guid>
+      <pubDate>Sun, 08 Mar 2026 10:13:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Groźne odpady dla zwierząt i ludzi. Mowa o elementach pochodzących z domowej elektroniki</title>
       <link>https://www.bankier.pl/wiadomosc/Grozne-odpady-dla-zwierzat-i-ludzi-Mowa-o-elementach-pochodzacych-z-domowej-elektroniki-9093261.html</link>
-      <description>Elementy pochodzące z domowej elektroniki oraz dryfujących u wybrzeży e-odpady akumulują się w tkankach waleni -- informuje w czwartek „Gazeta Wyborcza".</description>
+      <description>Elementy pochodzące z domowej elektroniki oraz dryfujących u wybrzeży e-odpady akumulują się w tkankach waleni -- informuje „Gazeta Wyborcza".</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grozne-odpady-dla-zwierzat-i-ludzi-Mowa-o-elementach-pochodzacych-z-domowej-elektroniki-9093261.html</guid>
       <pubDate>Sun, 08 Mar 2026 11:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Grzegorz Braun w rządzie Czarnka? "Nie ma możliwości"</title>
+      <link>https://www.bankier.pl/wiadomosc/Grzegorz-Braun-w-rzadzie-Czarnka-Nie-ma-mozliwosci-9094824.html</link>
+      <description>Kandydat PiS na premiera Przemysław Czarnek powiedział w niedzielę, że nie ma możliwości, by w jego rządzie znalazł się Grzegorz Braun (Konfederacja Korony Polskiej). Ocenił, że Braun nie nadaje się do jakiegokolwiek rządu. W deklaracje te...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grzegorz-Braun-w-rzadzie-Czarnka-Nie-ma-mozliwosci-9094824.html</guid>
+      <pubDate>Sun, 08 Mar 2026 11:21:00 +0100</pubDate>
     </item>
     <item>
       <title>"Brytyjscy pracownicy są roszczeniowi". Tak InPost podbija UK i rzuca wyzwanie Royal Mail</title>
@@ -694,6 +680,34 @@
       <description>65 proc. Polaków, którzy w ciągu ostatnich trzech lat zmienili pracę, z perspektywy czasu uważa tę decyzję za dobrą - wynika z badania przeprowadzonego na zlecenie Pracuj.pl. Większość badanych stwierdziło też, że zmiana wpłynęła na ich...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zmienili-prace-i-sa-zadowoleni-Nowe-miejsce-to-nie-tylko-stres-9091994.html</guid>
       <pubDate>Sun, 08 Mar 2026 12:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kobiety biorą polski rynek szturmem. Zdominowały konkretne sektory gospodarki</title>
+      <link>https://www.bankier.pl/wiadomosc/Kobiety-biora-polski-rynek-szturmem-Zdominowaly-konkretne-sektory-gospodarki-9094811.html</link>
+      <description>W ubiegłym roku kobiety założyły blisko 40 proc. wszystkich jednoosobowych działalności gospodarczych - poinformował Polski Instytut Ekonomiczny (PIE). 87 proc. JDG zarejestrowały Polki, a cudzoziemki - 13 proc.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kobiety-biora-polski-rynek-szturmem-Zdominowaly-konkretne-sektory-gospodarki-9094811.html</guid>
+      <pubDate>Sun, 08 Mar 2026 13:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Co czwarta kobieta nie ma na koncie żadnych oszczędności?</title>
+      <link>https://www.bankier.pl/wiadomosc/Co-czwarta-kobieta-nie-ma-na-koncie-zadnych-oszczednosci-9093275.html</link>
+      <description>Pod koniec 2025 roku 26 proc. kobiet zadeklarowało brak oszczędności - wynika z badania Krajowego Rejestru Długów (KRD). Na ich kondycję finansową wpływ mają m.in. luka płacowa i emerytalna oraz macierzyństwo - ocenił KRD. Dodał, że mężczyźni...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Co-czwarta-kobieta-nie-ma-na-koncie-zadnych-oszczednosci-9093275.html</guid>
+      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Podpalał, żeby gasić. Były strażak skazany za zlecanie podpaleń samochodów</title>
+      <link>https://www.bankier.pl/wiadomosc/Podpalal-zeby-gasic-Byly-strazak-skazany-za-zlecanie-podpalen-samochodow-9092079.html</link>
+      <description>Sąd Rejonowy w Dzierżoniowie (woj. dolnośląskie) uznał byłego funkcjonariusza Państwowej Straży Pożarnej winnym zlecania podpaleń samochodów. 48-letni mężczyzna usłyszał wyrok 1 roku i 10 miesięcy bezwzględnego pozbawienia wolności...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Podpalal-zeby-gasic-Byly-strazak-skazany-za-zlecanie-podpalen-samochodow-9092079.html</guid>
+      <pubDate>Sun, 08 Mar 2026 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Z lombardu skradziono biżuterię wartą 200 tys. zł. Podejrzani w areszcie</title>
+      <link>https://www.bankier.pl/wiadomosc/Z-lombardu-skradziono-bizuterie-warta-200-tys-zl-Podejrzani-w-areszcie-9091452.html</link>
+      <description>Do aresztu trafiło dwóch mężczyzn podejrzanych o włamanie do lombardu w Pułtusku i kradzież wyrobów jubilerskich o wartości ponad 200 tys. zł. Dwóch innych sprawców jest wciąż poszukiwanych – poinformowała Prokuratura Okręgowa w Ostrołęce...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Z-lombardu-skradziono-bizuterie-warta-200-tys-zl-Podejrzani-w-areszcie-9091452.html</guid>
+      <pubDate>Sun, 08 Mar 2026 15:00:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
