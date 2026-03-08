@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Macron-Blokada-ciesniny-Ormuz-musi-sie-skonczyc-9094894.html",
+      "url": "https://www.bankier.pl/wiadomosc/Macron-Blokada-ciesniny-Ormuz-musi-sie-skonczyc-9094894.html",
+      "title": "Macron: Blokada cieśniny Ormuz musi się skończyć",
+      "content_html": "Iran musi zagwarantować swobodę żeglugi przez Cieśninę Ormuz, kończąc jej blokadę – poinformował w niedzielę prezydent Francji Emmanuel Macron po rozmowie z prezydentem Iranu Masudem Pezeszkianem. Macron rozmawiał również z prezydentem...",
+      "date_published": "2026-03-08T20:21:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nazwisko-Chamenei-pozostanie-niezmienione-Bedzie-kontynuowac-droge-meczennika-9094890.html",
       "url": "https://www.bankier.pl/wiadomosc/Nazwisko-Chamenei-pozostanie-niezmienione-Bedzie-kontynuowac-droge-meczennika-9094890.html",
       "title": "Nazwisko Chamenei pozostanie niezmienione. \"Będzie kontynuować drogę męczennika\"",
@@ -557,6 +564,13 @@
       "date_published": "2026-03-07T09:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nieliczne-kraje-realizuja-nowy-cel-dotyczacy-innowacyjnych-OZE-9092572.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nieliczne-kraje-realizuja-nowy-cel-dotyczacy-innowacyjnych-OZE-9092572.html",
+      "title": "Nieliczne kraje realizują nowy cel dotyczący innowacyjnych OZE",
+      "content_html": "Choć zgodnie z unijnymi regulacjami do 2030 r. kraje UE muszą zagwarantować, iż 5 proc. nowo zainstalowanych mocy OZE pochodzi z innowacyjnych technologii, niewiele państw członkowskich realizuje ten cel - wynika z raportu think tanku, Future Cleantech...",
+      "date_published": "2026-03-07T09:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-ramach-systemu-kaucyjnego-odzyskano-juz-28-mln-opakowan-9093476.html",
       "url": "https://www.bankier.pl/wiadomosc/W-ramach-systemu-kaucyjnego-odzyskano-juz-28-mln-opakowan-9093476.html",
       "title": "W ramach systemu kaucyjnego odzyskano już 28 mln opakowań",
@@ -688,13 +702,6 @@
       "title": "Rosja pomaga Iranowi? Trump uciął temat jednym zdaniem",
       "content_html": "Prezydent USA Donald Trump zbył w piątek doniesienia o rosyjskim wsparciu wywiadowczym dla Iranu, twierdząc że jest to „łatwy problem” w porównaniu do omawianej przez niego reformy systemu uniwersyteckich rozgrywek sportowych.",
       "date_published": "2026-03-07T00:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-planowal-ataki-terrorystyczne-w-Azerbejdzanie-W-tle-m-in-rurociag-9094563.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-planowal-ataki-terrorystyczne-w-Azerbejdzanie-W-tle-m-in-rurociag-9094563.html",
-      "title": "Iran planował ataki terrorystyczne w Azerbejdżanie? W tle m.in. rurociąg",
-      "content_html": "Służba Bezpieczeństwa Państwa Azerbejdżanu poinformowała w piątek, że udaremniła przygotowania do czterech ataków terrorystycznych prowadzone przez agentów Korpusu Strażników Rewolucji Islamskiej.",
-      "date_published": "2026-03-07T00:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
