@@ -4,9 +4,16 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Chaos-na-rynku-wegla-Rosnie-ryzyko-braku-Ceny-w-gore-o-ponad-7-proc-9094993.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chaos-na-rynku-wegla-Rosnie-ryzyko-braku-Ceny-w-gore-o-ponad-7-proc-9094993.html",
+      "title": "Chaos na rynku węgla. Rośnie ryzyko braku. Ceny w górę o ponad 7 proc. W lutym wzrosty na międzynarodowych rynkach węgla, nasilają się obawy o podaż surowca - wynika z opracowania Agencji Rozwoju Przemysłu (ARP).",
+      "content_html": "",
+      "date_published": "2026-03-09T08:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Citi-obnizylo-rekomendacje-dla-Budimeksu-do-sprzedaj-z-neutralnie-9094971.html",
       "url": "https://www.bankier.pl/wiadomosc/Citi-obnizylo-rekomendacje-dla-Budimeksu-do-sprzedaj-z-neutralnie-9094971.html",
-      "title": "Citi obniżyło rekomendację dla Budimeksu do \"sprzedaj\" z \"neutralnie\" Analityk Citi Rafał Wiatr obniżył rekomendację dla Budimeksu do \"sprzedaj\" z \"neutralnie\" - poinformowała agencja Bloomberg.",
+      "title": "Citi obniżyło rekomendację dla Budimeksu do \"sprzedaj\" Analityk Citi Rafał Wiatr obniżył rekomendację dla Budimeksu do \"sprzedaj\" z \"neutralnie\" - poinformowała agencja Bloomberg.",
       "content_html": "",
       "date_published": "2026-03-09T07:02:00+01:00"
     },
