@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Citi-obnizylo-rekomendacje-dla-Budimeksu-do-sprzedaj-z-neutralnie-9094971.html",
+      "url": "https://www.bankier.pl/wiadomosc/Citi-obnizylo-rekomendacje-dla-Budimeksu-do-sprzedaj-z-neutralnie-9094971.html",
+      "title": "Citi obniżyło rekomendację dla Budimeksu do \"sprzedaj\" z \"neutralnie\" Analityk Citi Rafał Wiatr obniżył rekomendację dla Budimeksu do \"sprzedaj\" z \"neutralnie\" - poinformowała agencja Bloomberg.",
+      "content_html": "",
+      "date_published": "2026-03-09T07:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Drastyczny-wzrost-ropy-Moze-osiagajac-poziom-118-21-USD-b-9094935.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drastyczny-wzrost-ropy-Moze-osiagajac-poziom-118-21-USD-b-9094935.html",
+      "title": "Drastyczny wzrost cen ropy. Najdroższa od 2022 roku. Giełda w panice Gwałtowne spadki notowań otworzyły poniedziałkową sesję na azjatyckich parkietach w reakcji na eskalację wojny USA i Izraela z Iranem. Indeksy w Tokio i Seulu tąpnęły o kilka procent, a ceny ropy naftowej poszybowały w górę o około 30 proc. - do 118 dolarów za baryłkę.",
+      "content_html": "",
+      "date_published": "2026-03-09T06:59:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wszyscy-turysci-Rainbow-z-Bliskiego-Wschodu-wrocili-do-Polski-9094885.html",
       "url": "https://www.bankier.pl/wiadomosc/Wszyscy-turysci-Rainbow-z-Bliskiego-Wschodu-wrocili-do-Polski-9094885.html",
       "title": "Wszyscy turyści Rainbow z Bliskiego Wschodu wrócili do Polski 1270 turystów Rainbow, którzy co najmniej od 28 lutego przebywali na terenach Omanu, ZEA lub Jordanii – w momencie ataku Izraela i Stanów Zjednoczonych na Iran, zostało sprowadzonych przez biuro do Polski. W niedzielę w godzinach wieczornych do kraju przyleci ostatnia grupa turystów, która przebywała w Dubaju.",
@@ -23,20 +37,6 @@
       "title": "OPINIA Dla UE i Polski głównym zagrożeniem są gospodarcze skutki wzrostu cen ropy i gazu Dla Unii Europejskiej i Polski podstawowym zagrożeniem nie jest brak bezpieczeństwa dostaw ropy naftowej i gazu, lecz gospodarcze skutki wzrostu cen tych surowców - ocenili w tygodniowym raporcie analitycy PIE. Ich zdaniem rynek gazu jest bardziej wrażliwy na konflikt na Bliskim Wschodzie niż rynek ropy.",
       "content_html": "",
       "date_published": "2026-03-07T11:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-25-4-mln-zl-9094610.html",
-      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-ze-zysk-netto-w-25-spadl-o-7-proc-rdr-do-25-4-mln-zl-9094610.html",
-      "title": "Artifex Mundi szacuje, że zysk netto w '25 spadł o 7 proc. rdr do 25,4 mln zł Artifex Mundi szacuje, że zysk netto w 2025 roku wyniósł 25,4 mln zł, czyli był o 7 proc. niższy niż w 2024 roku - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-07T07:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-sie-rozkreca-Bessent-USA-moga-zdjac-czesc-sankcji-z-rosyjskiej-ropy-9094603.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kryzys-naftowy-sie-rozkreca-Bessent-USA-moga-zdjac-czesc-sankcji-z-rosyjskiej-ropy-9094603.html",
-      "title": "Kryzys naftowy się rozkręca. Bessent: USA mogą zdjąć część sankcji z rosyjskiej ropy Sekretarz skarbu USA Scott Bessent powiedział w piątek w wywiadzie, że może wkrótce zdjąć kolejną transzę sankcji dotyczących rosyjskiej ropy naftowej, by obniżyć globalne ceny surowca. W czwartek resort tymczasowo pozwolił na zakup rosyjskiej ropy Indiom.",
-      "content_html": "",
-      "date_published": "2026-03-07T07:12:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
