@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Krucha-stabilizacja-na-Wall-Street-Rynek-ropy-reaguje-na-sprzeczne-sygnaly-9096217.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krucha-stabilizacja-na-Wall-Street-Rynek-ropy-reaguje-na-sprzeczne-sygnaly-9096217.html",
+      "title": "Krucha stabilizacja na Wall Street. Rynek ropy reaguje na sprzeczne sygnały",
+      "content_html": "Wtorkowa sesja na Wall Street zakończyła się niewielkimi zmianami głównych indeksów, a na rynkach widać było poprawę nastrojów na fali oczekiwań, że wojna USA i Izraela z Iranem może się wkrótce zakończyć.",
+      "date_published": "2026-03-10T23:03:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Azerbejdzan-w-kleszczach-mocarstw-Przesmyk-Kaukaski-kluczem-do-handlu-miedzy-Europa-a-Azja-9095827.html",
       "url": "https://www.bankier.pl/wiadomosc/Azerbejdzan-w-kleszczach-mocarstw-Przesmyk-Kaukaski-kluczem-do-handlu-miedzy-Europa-a-Azja-9095827.html",
       "title": "Azerbejdżan w kleszczach mocarstw. „Przesmyk Kaukaski” kluczem do handlu między Europą a Azją",
@@ -557,6 +564,13 @@
       "date_published": "2026-03-10T12:40:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Energia-jadrowa-w-Europie-Von-der-Leyen-bije-sie-w-piersi-To-byl-blad-Nadchodzi-rewolucja-9095773.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energia-jadrowa-w-Europie-Von-der-Leyen-bije-sie-w-piersi-To-byl-blad-Nadchodzi-rewolucja-9095773.html",
+      "title": "Energia jądrowa w Europie. Von der Leyen bije się w piersi: \"To był błąd\". Nadchodzi rewolucja",
+      "content_html": "Szefowa Komisji Europejskiej Ursula von der Leyen oceniła we wtorek podczas międzynarodowego szczytu w sprawie energii jądrowej w Paryżu, że odwrócenie się Europy od tej energii było strategicznym błędem. Dodała, że europejskim produktem eksportowym...",
+      "date_published": "2026-03-10T12:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/IMS-zmienia-polityke-dywidendowa-moze-rekomendowac-transfer-mniej-niz-75-proc-zyskow-9095771.html",
       "url": "https://www.bankier.pl/wiadomosc/IMS-zmienia-polityke-dywidendowa-moze-rekomendowac-transfer-mniej-niz-75-proc-zyskow-9095771.html",
       "title": "IMS zmienia politykę dywidendową, może rekomendować transfer mniej niż 75 proc. zysków",
@@ -688,13 +702,6 @@
       "title": "Noble Securities obniżył rekomendację dla Budimeksu do \"sprzedaj\"",
       "content_html": "Analitycy Noble Securities, w raporcie z 10 marca, obniżyli rekomendację dla Budimeksu do \"sprzedaj\" z \"redukuj\", a jednocześnie podwyższył wycenę w horyzoncie 12-miesięcznym do 619 zł z 590 zł wcześniej.",
       "date_published": "2026-03-10T10:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-ulga-na-rynku-zlotego-Kurs-euro-spadl-o-5-groszy-9095661.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-ulga-na-rynku-zlotego-Kurs-euro-spadl-o-5-groszy-9095661.html",
-      "title": "Wielka ulga na rynku złotego. Kurs euro spadł o 5 groszy",
-      "content_html": "Wypowiedzi prezydenta USA Donalda Trumpa dały rynkowi nadzieję na zakończenie wojny z Iranem. Nie możemy jednak być pewni, czy amerykański lider za chwilę znów nie zmieni zdania.",
-      "date_published": "2026-03-10T10:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
