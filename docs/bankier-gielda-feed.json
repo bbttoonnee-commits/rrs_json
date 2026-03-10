@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/URE-zobowiazalo-spolki-zalezne-Tauronu-do-przekazania-na-rachunek-FWRC-lacznie-277-mln-zl-9096119.html",
+      "url": "https://www.bankier.pl/wiadomosc/URE-zobowiazalo-spolki-zalezne-Tauronu-do-przekazania-na-rachunek-FWRC-lacznie-277-mln-zl-9096119.html",
+      "title": "Decyzja Prezesa URE uderzy w Tauron. Spółka tworzy gigantyczną rezerwę Prezes URE zobowiązał Tauron Sprzedaż i Tauron Sprzedaż GZE do przekazania na rachunek Funduszu Wypłaty Różnicy Ceny (FWRC) łącznej kwoty 277 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-10T19:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Molecure-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096131.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Molecure-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096131.html",
+      "title": "Wyniki Molecure w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Molecure w czwartym kwartale 2025 roku i ich odniesienie do konsensusu.",
+      "content_html": "",
+      "date_published": "2026-03-10T19:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/G7-wstrzymuje-oddech-Czy-ropa-z-rezerw-strategicznych-trafi-na-rynek-9096005.html",
+      "url": "https://www.bankier.pl/wiadomosc/G7-wstrzymuje-oddech-Czy-ropa-z-rezerw-strategicznych-trafi-na-rynek-9096005.html",
+      "title": "G7 wstrzymuje oddech. Czy ropa z rezerw strategicznych trafi na rynek? Ministrowie energetyki krajów G7 nie zdecydowali się na uruchomienie rezerw ropy w związku z konfliktem na Bliskim Wschodzie i wezwali we wtorek Międzynarodową Agencję Energetyczną (MAE), by oceniła sytuację. MAE poinformowała, że zwołuje nadzwyczajne spotkanie państw członkowskich.",
+      "content_html": "",
+      "date_published": "2026-03-10T18:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Enea-szacuje-ze-miala-w-IV-kw-983-mln-zl-EBITDA-9096067.html",
       "url": "https://www.bankier.pl/wiadomosc/Enea-szacuje-ze-miala-w-IV-kw-983-mln-zl-EBITDA-9096067.html",
       "title": "Enea rozczarowuje wynikami. Wynik netto minął się z prognozami o blisko 1,5 mld zł Grupa Enea szacuje, że miała w IV kw. 2025 roku 983 mln zł EBITDA, a strata netto j.d. wyniosła 840 mln zł - podała spółka w komunikacie. Konsensus PAP Biznes zakładał EBITDA na poziomie 1,293 mld zł, a zysk netto j.d. 647,8 mln zł.",
@@ -146,7 +167,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-w-XTB-Czym-jest-Panic-Button-i-jak-go-aktywowac-9095776.html",
       "url": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-w-XTB-Czym-jest-Panic-Button-i-jak-go-aktywowac-9095776.html",
-      "title": "Włamanie na konto? Teraz zablokujesz środki w kilka sekund. Zobacz nowość od XTB Broker XTB oferujący platformę inwestycyjną i aplikację mobilną ogłosił wprowadzenie funkcji awaryjnej blokady konta. Rozwiązanie to, nazywane potocznie „panic button”, ma umożliwić klientom natychmiastową reakcję w przypadku podejrzenia nieautoryzowanego dostępu do ich środków.",
+      "title": "\"Panic Button\" w XTB. Broker wprowadza nową funkcję blokady konta Broker XTB oferujący platformę inwestycyjną i aplikację mobilną ogłosił wprowadzenie funkcji awaryjnej blokady konta. Rozwiązanie to, nazywane potocznie „panic button”, ma umożliwić klientom natychmiastową reakcję w przypadku podejrzenia nieautoryzowanego dostępu do ich środków.",
       "content_html": "",
       "date_published": "2026-03-10T13:10:00+01:00"
     },
@@ -569,13 +590,6 @@
       "title": "Citi obniżyło rekomendację dla Budimeksu do \"sprzedaj\" Analityk Citi Rafał Wiatr obniżył rekomendację dla Budimeksu do \"sprzedaj\" z \"neutralnie\" - poinformowała agencja Bloomberg.",
       "content_html": "",
       "date_published": "2026-03-09T07:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wszyscy-turysci-Rainbow-z-Bliskiego-Wschodu-wrocili-do-Polski-9094885.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wszyscy-turysci-Rainbow-z-Bliskiego-Wschodu-wrocili-do-Polski-9094885.html",
-      "title": "Wszyscy turyści Rainbow z Bliskiego Wschodu wrócili do Polski 1270 turystów Rainbow, którzy co najmniej od 28 lutego przebywali na terenach Omanu, ZEA lub Jordanii – w momencie ataku Izraela i Stanów Zjednoczonych na Iran, zostało sprowadzonych przez biuro do Polski. W niedzielę w godzinach wieczornych do kraju przyleci ostatnia grupa turystów, która przebywała w Dubaju.",
-      "content_html": "",
-      "date_published": "2026-03-08T18:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
