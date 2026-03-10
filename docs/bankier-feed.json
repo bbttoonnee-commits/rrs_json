@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-gore-UOKiK-nie-ma-podstaw-do-interwencji-9095682.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-gore-UOKiK-nie-ma-podstaw-do-interwencji-9095682.html",
+      "title": "Ceny paliw w górę. UOKiK: nie ma podstaw do interwencji",
+      "content_html": "Obecna sytuacja zawirowania na rynku paliw spowodowana jest wybuchem konfliktu na Bliskim Wschodzie; nie wynika ona z nieuczciwych praktyk przedsiębiorców, działających na rynku, przez co nie ma podstaw do interwencji UOKiK - poinformował we wtorek...",
+      "date_published": "2026-03-10T11:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-po-skoku-cen-gazu-podniosla-ceny-nawozow-o-kilka-procent-9095715.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-po-skoku-cen-gazu-podniosla-ceny-nawozow-o-kilka-procent-9095715.html",
+      "title": "Grupa Azoty po skoku cen gazu podniosła ceny nawozów o kilka procent. \"Aby ograniczyć presję kosztową\"",
+      "content_html": "Grupa Azoty po wzroście cen gazu związanym z napięciami na Bliskim Wschodzie, podniosła ceny nawozów jedynie o kilka procent, aby ograniczyć presję kosztową dla rolników i stabilizować rynek – przekazało we wtorek biuro prasowe Grupy Azoty...",
+      "date_published": "2026-03-10T11:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Meta-w-centrum-skandalu-Intymne-nagrania-z-okularow-Ray-Ban-trafily-w-niepowolane-rece-9095638.html",
+      "url": "https://www.bankier.pl/wiadomosc/Meta-w-centrum-skandalu-Intymne-nagrania-z-okularow-Ray-Ban-trafily-w-niepowolane-rece-9095638.html",
+      "title": "Meta w centrum skandalu. Intymne nagrania z okularów Ray-Ban trafiły w niepowołane ręce",
+      "content_html": "Miał być przełom w technologii, jest gigantyczny skandal obyczajowy i prawny. Inteligentne okulary Ray-Ban Meta, reklamowane jako „zaprojektowane z myślą o prywatności”, stały się narzędziem masowej inwigilacji. Do sądu wpłynął właśnie...",
+      "date_published": "2026-03-10T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Syndrom-osieroconych-akcji-i-wielka-gra-o-plynnosc-Jak-GPW-kusi-Londyn-i-Wall-Street-9095374.html",
+      "url": "https://www.bankier.pl/wiadomosc/Syndrom-osieroconych-akcji-i-wielka-gra-o-plynnosc-Jak-GPW-kusi-Londyn-i-Wall-Street-9095374.html",
+      "title": "Syndrom \"osieroconych akcji\" i wielka gra o płynność. Jak GPW kusi Londyn i Wall Street?",
+      "content_html": "Podczas 26. Konferencji Rynku Kapitałowego w Bukowinie Tatrzańskiej odbyła się dyskusja o kondycji i perspektywach warszawskiego parkietu - m.in. w obszarze IPOs. Eksperci z wiodących instytucji finansowych poświęcili wiele miejsca tematowi zagranicznego...",
+      "date_published": "2026-03-10T10:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-w-sprawie-glowic-bojowych-dla-dronow-planuje-fabryke-9095697.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-w-sprawie-glowic-bojowych-dla-dronow-planuje-fabryke-9095697.html",
+      "title": "Nowa fabryka broni w Polsce. Niewiadów wchodzi w drony",
+      "content_html": "Niewiadów - PGM zawarł z dwoma spółkami ze swojej grupy kapitałowej memorandum of understanding (MoU) dotyczące współpracy przy rozwijaniu technologii dronowych, w szczególności w zakresie głowic bojowych dla dronów - podała spółka. Strony...",
+      "date_published": "2026-03-10T10:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cudzoziemcy-w-Polsce-Pracuje-ich-juz-ponad-milion-9095672.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cudzoziemcy-w-Polsce-Pracuje-ich-juz-ponad-milion-9095672.html",
+      "title": "Cudzoziemcy w Polsce. Pracuje ich już ponad milion",
+      "content_html": "Liczba cudzoziemców wykonujących w Polsce pracę w końcu września 2025 r. wyniosła 1.128,9 tys. osób, o 7,2 proc. więcej rdr - podał GUS. W porównaniu do poprzedniego miesiąca ich liczba wzrosła o 2,3 proc.",
+      "date_published": "2026-03-10T10:40:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-rekomendacje-dla-Budimeksu-do-sprzedaj-9095667.html",
       "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-rekomendacje-dla-Budimeksu-do-sprzedaj-9095667.html",
       "title": "Noble Securities obniżył rekomendację dla Budimeksu do \"sprzedaj\"",
@@ -646,62 +688,6 @@
       "title": "Podwyżka na A2. Kierowcy zapłacą więcej za odcinek Nowy Tomyśl – Konin",
       "content_html": "W środę wzrosną stawki opłat za przejazd płatnymi odcinkami A2 na trasie Nowy Tomyśl – Konin - podała w poniedziałek Autostrada Wielkopolska SA. Samochody osobowe za przejazd całym tym odcinkiem zapłacą 120 zł.",
       "date_published": "2026-03-09T14:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PiS-zlozylo-do-TK-wniosek-o-czasowe-wstrzymanie-wyboru-sedziow-TK-9095248.html",
-      "url": "https://www.bankier.pl/wiadomosc/PiS-zlozylo-do-TK-wniosek-o-czasowe-wstrzymanie-wyboru-sedziow-TK-9095248.html",
-      "title": "PiS złożyło do TK wniosek o czasowe wstrzymanie wyboru sędziów TK",
-      "content_html": "Prawo i Sprawiedliwość złożyło w poniedziałek do Trybunału Konstytucyjnego wniosek o zabezpieczenie i czasowe wstrzymanie Sejmu od wyboru sędziów TK - poinformował PAP poseł PiS Marcin Warchoł. Zdaniem posłów tej partii konieczne jest wcześniejsze...",
-      "date_published": "2026-03-09T14:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-wprowadzil-miedzynarodowa-akceptacje-kart-sportowych-szacuje-potencjal-kart-na-4-2-4-8-mln-9095241.html",
-      "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-wprowadzil-miedzynarodowa-akceptacje-kart-sportowych-szacuje-potencjal-kart-na-4-2-4-8-mln-9095241.html",
-      "title": "Wielka zmiana w MultiSport. Karta zadziała w sześciu krajach",
-      "content_html": "Benefit Systems wprowadził międzynarodową akceptację kart sportowych i zapewnia użytkownikom dostęp do 11 tys. obiektów sportowo-rekreacyjnych łącznie w sześciu krajach. Długoterminowy potencjał pod względem wysycenia kart grupa szacuje na...",
-      "date_published": "2026-03-09T14:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Francja-skontroluje-ceny-na-stacjach-Wojna-nie-moze-sluzyc-jako-pretekst-do-bezprawnych-podwyzek-9095140.html",
-      "url": "https://www.bankier.pl/wiadomosc/Francja-skontroluje-ceny-na-stacjach-Wojna-nie-moze-sluzyc-jako-pretekst-do-bezprawnych-podwyzek-9095140.html",
-      "title": "Francja skontroluje ceny na stacjach. \"Wojna nie może służyć jako pretekst do bezprawnych podwyżek\"",
-      "content_html": "We Francji w poniedziałek rozpoczynają się kontrole na stacjach benzynowych, które mają zapobiec ewentualnemu nieuzasadnionemu podnoszeniu cen paliw. W drugiej połowie tygodnia rząd spotka się z dystrybutorami. Władze obecnie nie rozważają...",
-      "date_published": "2026-03-09T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czy-globalne-wstrzasy-uderza-w-polska-gospodarke-Prezes-PFR-w-Bankier-TV-9095205.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czy-globalne-wstrzasy-uderza-w-polska-gospodarke-Prezes-PFR-w-Bankier-TV-9095205.html",
-      "title": "Czy globalne wstrząsy uderzą w polską gospodarkę? Prezes PFR w Bankier.TV",
-      "content_html": "Gwałtowne skoki cen ropy, napięcia na Bliskim Wschodzie i rosnąca rynkowa niepewność stawiają przed naszą gospodarką nowe wyzwania. Czy czeka nas weryfikacja optymistycznych prognoz makroekonomicznych? W studiu Bankier.TV prosto z Konferencji...",
-      "date_published": "2026-03-09T13:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zadne-panstwo-nie-bylo-w-stanie-pomoc-Rumunii-KE-sama-zaczela-ewakuacje-obywateli-9095181.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zadne-panstwo-nie-bylo-w-stanie-pomoc-Rumunii-KE-sama-zaczela-ewakuacje-obywateli-9095181.html",
-      "title": "Żadne państwo nie było w stanie pomóc Rumunii. KE sama zaczęła ewakuację obywateli",
-      "content_html": "Komisja Europejska uruchomiła dodatkowy instrument, by sprowadzać z Bliskiego Wschodu obywateli UE - sama zorganizowała dwa loty z Omanu na wniosek Rumunii, której żadne inne państwo UE nie było w stanie pomóc. Dwa samoloty z 356 osobami na pokładzie...",
-      "date_published": "2026-03-09T13:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czarzasty-W-srode-poznamy-kandydatow-na-sedziow-do-Trybunalu-Konstytucyjnego-9095189.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-W-srode-poznamy-kandydatow-na-sedziow-do-Trybunalu-Konstytucyjnego-9095189.html",
-      "title": "Czarzasty: W środę poznamy kandydatów na sędziów do Trybunału Konstytucyjnego",
-      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty wyznaczył na środę, 11 marca, do godziny 12 termin składania wniosków w sprawie wyboru sześciu sędziów do Trybunału Konstytucyjnego. Dodał, że do ich wyboru może dojść na rozpoczynającym się w środę...",
-      "date_published": "2026-03-09T13:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-rejsu-pod-falszywa-bandera-Szwedzka-Straz-Przybrzezna-zatrzymala-Rosjan-na-Baltyku-9095176.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-rejsu-pod-falszywa-bandera-Szwedzka-Straz-Przybrzezna-zatrzymala-Rosjan-na-Baltyku-9095176.html",
-      "title": "Koniec rejsu pod fałszywą banderą. Szwedzka Straż Przybrzeżna zatrzymała Rosjan na Bałtyku",
-      "content_html": "Szwedzka prokuratura poinformowała w poniedziałek o zatrzymaniu kapitana statku Caffa, obywatela Rosji, w związku z podejrzeniem posługiwania się fałszywymi dokumentami oraz naruszenia przepisów o bezpieczeństwie morskim.",
-      "date_published": "2026-03-09T13:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-XTPL-zdecydowalo-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-do-300-tys-akcji-serii-Y-9095212.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-XTPL-zdecydowalo-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-do-300-tys-akcji-serii-Y-9095212.html",
-      "title": "NWZ XTPL zdecydowało o podwyższeniu kapitału zakładowego poprzez emisję do 300 tys. akcji serii Y",
-      "content_html": "Akcjonariusze XTPL zdecydowali o podwyższeniu kapitału zakładowego poprzez emisję do 300 tys. akcji serii Y, z pozbawieniem w całości prawa poboru akcjonariuszy - wynika z podjętych przez NWZ uchwał.",
-      "date_published": "2026-03-09T13:22:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
