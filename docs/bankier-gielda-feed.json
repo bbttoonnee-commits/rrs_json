@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Compensa-stawia-na-ubezpieczenia-zdrowotne-i-chce-miec-pol-miliona-klientow-do-2028-roku-9096487.html",
+      "url": "https://www.bankier.pl/wiadomosc/Compensa-stawia-na-ubezpieczenia-zdrowotne-i-chce-miec-pol-miliona-klientow-do-2028-roku-9096487.html",
+      "title": "Compensa stawia na ubezpieczenia zdrowotne i chce mieć pół miliona klientów do 2028 roku Compensa zapowiada ekspansję w segmencie ubezpieczeń zdrowotnych – nowa strategia na lata 2026-2030 zakłada, że do 2028 roku firma będzie miała co najmniej pół miliona klientów w obszarze zdrowia - podała Compensa w komunikacie prasowym. Ubezpieczyciel zapowiedział rozwój oferty dla klientów indywidualnych i firm.",
+      "content_html": "",
+      "date_published": "2026-03-11T12:49:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-105-lokali-w-Krakowie-9096452.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-105-lokali-w-Krakowie-9096452.html",
+      "title": "Dom Development wprowadził do sprzedaży 105 lokali w Krakowie Dom Development rozpoczął sprzedaż mieszkań w ostatnim etapie Apartamentów Park Matecznego w Krakowie. W dwóch budynkach powstanie 105 lokali - poinformował deweloper w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-03-11T12:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nalezaca-do-Grupy-MOL-chorwacka-INA-zakonczyla-modernizacje-rafinerii-w-Rijece-9096429.html",
       "url": "https://www.bankier.pl/wiadomosc/Nalezaca-do-Grupy-MOL-chorwacka-INA-zakonczyla-modernizacje-rafinerii-w-Rijece-9096429.html",
       "title": "Należąca do Grupy MOL chorwacka INA zakończyła modernizację rafinerii w Rijece Należąca do Grupy MOL chorwacka INA zakończyła modernizację rafinerii w Rijece - podał MOL w komunikacie prasowym. Projekt o wartości blisko 700 mln euro to największa pojedyncza inwestycja w historii INA.",
@@ -604,13 +618,6 @@
       "title": "Wielton chce pozyskać minimum 30 mln zł z emisji nowych akcji Wielton chce dokapitalizować spółkę poprzez podwyższenie kapitału zakładowego kwotą minimum 30 mln zł w drodze emisji nowych akcji - podał Wielton w komunikacie. Akcjonariusz MP Inwestors zadeklarował uczestnictwo w emisji.",
       "content_html": "",
       "date_published": "2026-03-09T13:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Celon-Pharmy-ma-umowe-finansowania-z-EBOR-na-23-mln-euro-9095158.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Celon-Pharmy-ma-umowe-finansowania-z-EBOR-na-23-mln-euro-9095158.html",
-      "title": "23 mln euro pożyczki dla spółki zależnej Celon Pharma Celon Pharma Slovakia s.r.o., spółka zależna Celon Pharmy, zawarła umowę finansowania w formie pożyczki w kwocie do 23 mln euro z Europejskim Bankiem Odbudowy i Rozwoju - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-09T12:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
