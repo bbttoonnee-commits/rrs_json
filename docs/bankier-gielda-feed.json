@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/EuCO-zlozylo-wnioski-o-uchylenie-ukladu-oraz-o-ogloszenie-upadlosci-9096319.html",
+      "url": "https://www.bankier.pl/wiadomosc/EuCO-zlozylo-wnioski-o-uchylenie-ukladu-oraz-o-ogloszenie-upadlosci-9096319.html",
+      "title": "EuCO złożyło wnioski o uchylenie układu oraz o ogłoszenie upadłości Zarząd Europejskiego Centrum Odszkodowań złożył do Sądu Rejonowego w Legnicy, V Wydziału Gospodarczego ds. Restrukturyzacyjnych i Upadłościowych wniosek o uchylenie układu zatwierdzonego w postępowaniu sanacyjnym oraz wniosek o ogłoszenie upadłości - podała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-03-11T08:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tauron-oddal-do-eksploatacji-farme-wiatrowa-Sieradz-o-lacznej-mocy-23-8-MW-9096308.html",
       "url": "https://www.bankier.pl/wiadomosc/Tauron-oddal-do-eksploatacji-farme-wiatrowa-Sieradz-o-lacznej-mocy-23-8-MW-9096308.html",
       "title": "Tauron oddał do eksploatacji farmę wiatrową Sieradz o łącznej mocy 23,8 MW Tauron oddał do eksploatacji farmę wiatrową Sieradz w gminie Wróblew, w województwie łódzkim o łącznej mocy 23,8 MW - podała spółka w komunikacie prasowym.",
@@ -611,13 +618,6 @@
       "title": "Ipopema Securities: Polska giełda nie potrzebuje już zagranicy, by robić wielkie miliardy Eksperci Ipopemy Securities Krisztina Bende i Artur Iwański oceniają, że w 2026 r. wartość transakcji na rynku kapitałowym w Polsce może sięgnąć ok. 30 mld zł wobec ok. 20 mld zł rok wcześniej. Wskazują, że krajowy popyt pozostaje bardzo mocny, a jego motorami są PPK, OFE, dywidendy oraz aktywność family offices.",
       "content_html": "",
       "date_published": "2026-03-09T09:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-tymczasowo-umozliwia-wydluzenie-czasu-pracy-kierowcom-cystern-z-paliwem-9095013.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-tymczasowo-umozliwia-wydluzenie-czasu-pracy-kierowcom-cystern-z-paliwem-9095013.html",
-      "title": "Kierowcy cystern będą pracować dłużej. Rządowa specustawa, by ratować dostawy paliw? Rząd wprowadza tymczasowe przepisy umożliwiające wydłużenie czasu pracy dla kierowców cystern w krajowych przewozach paliw - podano w obwieszczeniu Ministra Infrastruktury, opublikowanym w Monitorze Polskim.",
-      "content_html": "",
-      "date_published": "2026-03-09T08:54:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
