@@ -4,10 +4,87 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
+      "url": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
+      "title": "PIP nakazuje JSW wypłatę zaległej \"barbórki\" mimo kryzysu płynności",
+      "content_html": "Do JSW wpłynął nakaz wydany przez Inspektora Okręgowego Inspektoratu Pracy w Katowicach, zgodnie z którym Państwowa Inspekcja Pracy nakazała JSW dokonanie wypłaty pozostałej części nagrody z okazji \"Dnia Górnika\" oraz ekwiwalentu barbórkowego...",
+      "date_published": "2026-03-11T06:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/10-tysiecy-pracownikow-w-szczycie-i-zgodnie-z-planem-PEJ-o-szczegolach-budowy-elektrowni-jadrowej-9096261.html",
+      "url": "https://www.bankier.pl/wiadomosc/10-tysiecy-pracownikow-w-szczycie-i-zgodnie-z-planem-PEJ-o-szczegolach-budowy-elektrowni-jadrowej-9096261.html",
+      "title": "10 tysięcy pracowników w szczycie i \"zgodnie z planem\". PEJ o szczegółach budowy elektrowni jądrowej",
+      "content_html": "Elektrownia jądrowa na Pomorzu ruszy z budową w 2028 roku. Prezes Polskich Elektrowni Jądrowych Marek Woszczyk zapowiedział w rozmowie z PAP, że w szczycie realizacji projektu przy budowie pracę znajdzie około 10 tys. osób. Zapewnił, że inwestycja...",
+      "date_published": "2026-03-11T06:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rekordowe-uwolnienie-rezerw-ropy-MAE-szykuje-najwieksza-interwencje-w-dziejach-9096262.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowe-uwolnienie-rezerw-ropy-MAE-szykuje-najwieksza-interwencje-w-dziejach-9096262.html",
+      "title": "Rekordowe uwolnienie rezerw ropy. MAE szykuje największą interwencję w dziejach",
+      "content_html": "Międzynarodowa Agencja Energetyczna (MAE) zaproponowała największe w historii uwolnienie rezerw ropy naftowej, by obniżyć ceny surowca, które gwałtownie wzrosły w wyniku wojny USA i Izraela z Iranem – poinformował we wtorek „Wall Street Journal”...",
+      "date_published": "2026-03-11T06:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Firmy-uciekaja-od-umow-o-dzielo-ZUS-notuje-rekordowo-niska-liczbe-9096235.html",
+      "url": "https://www.bankier.pl/wiadomosc/Firmy-uciekaja-od-umow-o-dzielo-ZUS-notuje-rekordowo-niska-liczbe-9096235.html",
+      "title": "Firmy uciekają od umów o dzieło. ZUS notuje rekordowo niską liczbę",
+      "content_html": "ZUS odnotował najmniejszą liczbę zgłoszonych umów o dzieło od początku funkcjonowania swojego rejestru – podaje w środę „Rzeczpospolita”.",
+      "date_published": "2026-03-11T06:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ekspansja-w-cieniu-niepewnosci-Tak-polskie-firmy-jak-Lingaro-podbijaja-rynki-globalne-9095211.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekspansja-w-cieniu-niepewnosci-Tak-polskie-firmy-jak-Lingaro-podbijaja-rynki-globalne-9095211.html",
+      "title": "Ekspansja w cieniu niepewności. Tak polskie firmy podbijają rynki globalne przez brytyjski most",
+      "content_html": "W świecie, gdzie granice biznesowe zacierają się dzięki technologii, a geopolityka wyznacza nowe reguły gry, polskie firmy jak Lingaro coraz śmielej sięgają po udziały na rynkach zagranicznych. Czy recepta na sukces tkwi w „metodzie małych...",
+      "date_published": "2026-03-11T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowosci-w-ubezpieczeniach-majatkowych-marzec-2026-9095294.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowosci-w-ubezpieczeniach-majatkowych-marzec-2026-9095294.html",
+      "title": "Nowe rozdanie w ubezpieczeniach. AI w likwidacji szkód i zmiany w polisach mieszkaniowych",
+      "content_html": "Ostatnie tygodnie to dla towarzystw ubezpieczeniowych czas wprowadzania małych, ale istotnych dla klientów zmian. Ubezpieczyciele coraz śmielej korzystają z AI w likwidacji szkód, dopasowują ochronę nieruchomości do oczekiwań odbiorców, a także...",
+      "date_published": "2026-03-11T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Najwiekszy-w-tym-roku-konkurs-z-dotacjami-Rozdadza-az-700-mln-zl-Kto-ma-szanse-9095730.html",
       "url": "https://www.bankier.pl/wiadomosc/Najwiekszy-w-tym-roku-konkurs-z-dotacjami-Rozdadza-az-700-mln-zl-Kto-ma-szanse-9095730.html",
       "title": "Największy w tym roku konkurs z dotacjami. Rozdadzą aż 700 mln zł. Kto ma szanse?",
       "content_html": "Tak dużej puli nie ma w tym roku w żadnym innym naborze z dotacjami. W konkursie Ścieżka SMART zainteresowani przedsiębiorcy otrzymają aż 700 mln zł. Jakie warunki trzeba spełnić, aby dostać dofinasowanie?",
+      "date_published": "2026-03-11T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Twarde-zakazy-reklam-kredytow-i-nowe-limity-oplat-Nowa-wersja-projektu-ustawy-to-ani-kroku-wstecz-9095837.html",
+      "url": "https://www.bankier.pl/wiadomosc/Twarde-zakazy-reklam-kredytow-i-nowe-limity-oplat-Nowa-wersja-projektu-ustawy-to-ani-kroku-wstecz-9095837.html",
+      "title": "Twarde zakazy reklam kredytów i nowe limity opłat. Nowa wersja projektu ustawy to „ani kroku wstecz”",
+      "content_html": "Trwają prace nad nową wersją ustawy o kredycie konsumenckim. Najnowsza wersja projektu skierowana została właśnie do ponownych uzgodnień. Lekko złagodzono brzmienie przepisów o zdolności kredytowej, ale większość restrykcji pozostaje bez...",
+      "date_published": "2026-03-11T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nagle-anulacje-lotow-i-czartery-ratunkowe-Branza-turystyczna-w-trybie-kryzysowym-9096008.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nagle-anulacje-lotow-i-czartery-ratunkowe-Branza-turystyczna-w-trybie-kryzysowym-9096008.html",
+      "title": "Odwołane wyjazdy i drogie akcje ratunkowe. Biura podróży liczą koszty",
+      "content_html": "Eskalacja konfliktu na Bliskim Wschodzie uderzyła w branżę turystyczną. Polskie biura podróży musiały organizować kosztowne powroty klientów z regionu, czarterować dodatkowe samoloty i zapewniać noclegi osobom, które utknęły w zagranicznych...",
+      "date_published": "2026-03-11T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosnie-pewnosc-co-do-tego-ze-bedzie-niepewnosc-Co-dzis-radzi-inwestorom-prof-Jajuga-9096035.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosnie-pewnosc-co-do-tego-ze-bedzie-niepewnosc-Co-dzis-radzi-inwestorom-prof-Jajuga-9096035.html",
+      "title": "„Rośnie pewność co do tego, że będzie niepewność”. Co dziś radzi inwestorom prof. Jajuga?",
+      "content_html": "#KRK'26 #KRK2026 Kumulacja napięć geopolitycznych na Bliskim Wschodzie, surowcowe huśtawki i wreszcie gigantyczne wyceny spółek technologicznych napędzane szałem na sztuczną inteligencję – to środowisko, w którym przyszło obecnie działać...",
+      "date_published": "2026-03-11T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dlaczego-wybieramy-fundusze-dluzne-a-nie-fundusze-akcji-Wiceprezeska-Investors-TFI-ma-na-to-odpowiedz-9096047.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dlaczego-wybieramy-fundusze-dluzne-a-nie-fundusze-akcji-Wiceprezeska-Investors-TFI-ma-na-to-odpowiedz-9096047.html",
+      "title": "Dlaczego wybieramy fundusze dłużne, a nie fundusze akcji? Wiceprezeska Investors TFI ma na to odpowiedź",
+      "content_html": "#KRK'26 #KRK2026 – Większość kapitału płynie obecnie do instrumentów dłużnych i funduszy bezpiecznych. Myślę jednak, że to naturalny etap rozwoju rynku. Najpierw środki przechodzą z depozytów do instrumentów dłużnych, a kolejnym...",
+      "date_published": "2026-03-11T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Transformacja-energetyczna-to-tanszy-prad-i-bezpieczniejszy-kraj-a-nie-tylko-unijne-regulacje-i-cele-do-zrealizowania-9096134.html",
+      "url": "https://www.bankier.pl/wiadomosc/Transformacja-energetyczna-to-tanszy-prad-i-bezpieczniejszy-kraj-a-nie-tylko-unijne-regulacje-i-cele-do-zrealizowania-9096134.html",
+      "title": "Transformacja energetyczna to tańszy prąd i bezpieczniejszy kraj, a nie tylko unijne regulacje i cele do zrealizowania",
+      "content_html": "Zmiany klimatyczne, rewolucja sztucznej inteligencji i nieubłagane trendy demograficzne – to wyzwania, które w najbliższych latach przemodelują polską gospodarkę. Czy transformacja energetyczna musi oznaczać dla firm wyłącznie rosnące koszty...",
       "date_published": "2026-03-11T06:00:00+01:00"
     },
     {
@@ -625,34 +702,6 @@
       "title": "Synektik ma umowę na dostawę systemu robotycznego da Vinci za 12,88 mln zł",
       "content_html": "Synektik podpisał umowę z Regionalnym Szpitalem Specjalistycznym im. dr. Władysława Biegańskiego w Grudziądzu na dostawę, montaż, instalację i uruchomienie systemu chirurgii robotycznej da Vinci za 12,88 mln zł netto - podała spółka w komunikacie...",
       "date_published": "2026-03-10T11:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-tych-krajach-jest-najwiecej-uchodzcow-z-Ukrainy-Eurostat-podal-nowe-dane-9095718.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-tych-krajach-jest-najwiecej-uchodzcow-z-Ukrainy-Eurostat-podal-nowe-dane-9095718.html",
-      "title": "W tych krajach jest najwięcej uchodźców z Ukrainy. Eurostat podał nowe dane",
-      "content_html": "Liczba obywateli Ukrainy ze statusem ochrony czasowej w Polsce w I spadła o 3,25 tys. mdm do 965,99 tys. - podał Eurostat.",
-      "date_published": "2026-03-10T11:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/TDJ-Equity-I-oglasza-przymusowy-wykup-akcji-Grenevii-9095605.html",
-      "url": "https://www.bankier.pl/wiadomosc/TDJ-Equity-I-oglasza-przymusowy-wykup-akcji-Grenevii-9095605.html",
-      "title": "TDJ Equity I ogłasza przymusowy wykup akcji Grenevii",
-      "content_html": "TDJ Equity I ogłosił przymusowy wykup 27.714.269 akcji spółki Grenevia, reprezentujących łącznie około 4,82 proc. kapitału zakładowego spółki, po cenie 3,30 zł za jedną akcję - poinformowano w komunikacie.",
-      "date_published": "2026-03-10T11:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niemcy-wola-robic-zakupy-w-Polsce-Produkty-kupuja-o-polowe-taniej-9095657.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemcy-wola-robic-zakupy-w-Polsce-Produkty-kupuja-o-polowe-taniej-9095657.html",
-      "title": "Niemcy wolą robić zakupy w Polsce? Produkty kupują o połowę taniej",
-      "content_html": "Coraz więcej naszych zachodnich sąsiadów przyjeżdża do Polski na zakupy spożywcze. Głównym powodem są ceny - wiele produktów jest tu wyraźnie tańszych niż w niemieckich supermarketach. Z porównania koszyka zakupowego wynika, że niektóre...",
-      "date_published": "2026-03-10T11:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Faworyzowal-Paramount-ale-finansowal-Netfliksa-Trump-zainwestowal-miliony-w-obligacje-giganta-9095702.html",
-      "url": "https://www.bankier.pl/wiadomosc/Faworyzowal-Paramount-ale-finansowal-Netfliksa-Trump-zainwestowal-miliony-w-obligacje-giganta-9095702.html",
-      "title": "Faworyzował Paramount, ale finansował Netfliksa. Trump zainwestował miliony w obligacje giganta",
-      "content_html": "Publicznie rzucał kłody pod nogi Netflixowi, grożąc zablokowaniem gigantycznej fuzji. W kuluarach – a dokładniej poprzez rodzinny fundusz powierniczy – lokował miliony dolarów w papiery dłużne tej samej spółki oraz przejmowanego Warner...",
-      "date_published": "2026-03-10T11:20:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

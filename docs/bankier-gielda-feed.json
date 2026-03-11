@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
+      "url": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
+      "title": "PIP nakazuje JSW wypłatę zaległej \"barbórki\" mimo kryzysu płynności Do JSW wpłynął nakaz wydany przez Inspektora Okręgowego Inspektoratu Pracy w Katowicach, zgodnie z którym Państwowa Inspekcja Pracy nakazała JSW dokonanie wypłaty pozostałej części nagrody z okazji \"Dnia Górnika\" oraz ekwiwalentu barbórkowego za 2025 rok - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-11T06:56:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dlaczego-wybieramy-fundusze-dluzne-a-nie-fundusze-akcji-Wiceprezeska-Investors-TFI-ma-na-to-odpowiedz-9096047.html",
       "url": "https://www.bankier.pl/wiadomosc/Dlaczego-wybieramy-fundusze-dluzne-a-nie-fundusze-akcji-Wiceprezeska-Investors-TFI-ma-na-to-odpowiedz-9096047.html",
       "title": "Dlaczego wybieramy fundusze dłużne, a nie fundusze akcji? Wiceprezeska Investors TFI ma na to odpowiedź #KRK'26 #KRK2026 – Większość kapitału płynie obecnie do instrumentów dłużnych i funduszy bezpiecznych. Myślę jednak, że to naturalny etap rozwoju rynku. Najpierw środki przechodzą z depozytów do instrumentów dłużnych, a kolejnym krokiem edukacji inwestorów jest dokładanie do portfela bardziej ryzykownych aktywów – ocenia Beata Sax, wiceprezeska Investors TFI.",
@@ -604,13 +611,6 @@
       "title": "Chaos na rynku węgla. Rośnie ryzyko braku. Ceny w górę o ponad 7 proc. W lutym wzrosty na międzynarodowych rynkach węgla, nasilają się obawy o podaż surowca - wynika z opracowania Agencji Rozwoju Przemysłu (ARP).",
       "content_html": "",
       "date_published": "2026-03-09T08:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Citi-obnizylo-rekomendacje-dla-Budimeksu-do-sprzedaj-z-neutralnie-9094971.html",
-      "url": "https://www.bankier.pl/wiadomosc/Citi-obnizylo-rekomendacje-dla-Budimeksu-do-sprzedaj-z-neutralnie-9094971.html",
-      "title": "Citi obniżyło rekomendację dla Budimeksu do \"sprzedaj\" Analityk Citi Rafał Wiatr obniżył rekomendację dla Budimeksu do \"sprzedaj\" z \"neutralnie\" - poinformowała agencja Bloomberg.",
-      "content_html": "",
-      "date_published": "2026-03-09T07:02:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
