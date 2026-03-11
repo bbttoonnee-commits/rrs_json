@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Historyczna-interwencja-MAE-Rekordowe-400-mln-barylek-ropy-zostanie-uwolnione-9096636.html",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczna-interwencja-MAE-Rekordowe-400-mln-barylek-ropy-zostanie-uwolnione-9096636.html",
+      "title": "Historyczna interwencja MAE. Rekordowe 400 mln baryłek ropy zostanie uwolnione Międzynarodowa Agencja Energetyczna (MAE) zgodziła się w środę na uwolnienie 400 mln baryłek ropy naftowej w celu zaradzenia zakłóceniom w dostawach wywołanym wojną z Iranem – podano w komunikacie. Jest to największa tego typu akcja w historii organizacji.",
+      "content_html": "",
+      "date_published": "2026-03-11T15:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-ma-umowe-o-dofinansowanie-z-NCBR-9096609.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ryvu-Therapeutics-ma-umowe-o-dofinansowanie-z-NCBR-9096609.html",
+      "title": "Ryvu Therapeutics ma umowę o dofinansowanie z NCBR Ryvu Therapeutics w wyniku konkursu zawarł umowę o dofinansowaniu z NCBR - podała spółka w komunikacie. Całkowita wartość netto projektu PERO wynosi 32,3 mln zł, a rekomendowana wartość dofinansowania to 19,9 mln zł.",
+      "content_html": "",
+      "date_published": "2026-03-11T15:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-26-rekordowe-ponad-5-mld-zl-nakladow-inwestycyjnych-w-PGE-Dystrybucja-m-in-dzieki-KPO-Lubera-9096606.html",
       "url": "https://www.bankier.pl/wiadomosc/W-26-rekordowe-ponad-5-mld-zl-nakladow-inwestycyjnych-w-PGE-Dystrybucja-m-in-dzieki-KPO-Lubera-9096606.html",
       "title": "W '26 rekordowe ponad 5 mld zł nakładów inwestycyjnych w PGE Dystrybucja m.in. dzięki KPO - Lubera PGE otrzymało już 20 mld zł z KPO, z czego ponad 12 mld zostało przeznaczonych dla PGE Dystrybucja - poinformował prezes PGE Dariusz Lubera przy okazji podpisania umowy z NFOŚiGW na 1,4 mld zł z KPO dla PGE Dystrybucja. Dodał, że m.in. dzięki tym środkom PGE Dystrybucja pobije w tym roku rekord nakładów inwestycyjnych - na ponad 5 mld zł.",
@@ -583,13 +597,6 @@
       "title": "Trzy scenariusze rozwoju konfliktu na Bliskim Wschodzie. Pytamy Michała Szymańskiego z VIG/C-Quadrat TFI, co czeka rynki Potężna zawierucha geopolityczna i niepewność co do dalszych losów globalnej logistyki surowcowej rodzą kluczowe pytanie: czy to tylko chwilowa panika, czy wstęp do głębszego kryzysu i powrotu wysokiej inflacji? O tym, jak odnaleźć się w inwestycyjnym chaosie i jakie scenariusze pisze dla nas rynek, rozmawiamy w studiu Bankier.TV w Bukowinie z Michałem Szymańskim, prezesem VIG/C-Quadrat TFI.",
       "content_html": "",
       "date_published": "2026-03-09T17:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JSW-zawarla-aneks-do-umowy-dotyczacej-finansowania-w-formule-sustainability-linked-loan-9095309.html",
-      "url": "https://www.bankier.pl/wiadomosc/JSW-zawarla-aneks-do-umowy-dotyczacej-finansowania-w-formule-sustainability-linked-loan-9095309.html",
-      "title": "JSW zawarła aneks do umowy dotyczącej finansowania w formule sustainability-linked loan JSW zawarła aneks do umowy dotyczącej finansowania w formule sustainability-linked loan - podała JSW w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-09T15:38:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
