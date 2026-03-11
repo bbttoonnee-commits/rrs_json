@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-zrezygnowal-z-funkcji-wiceprezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9096730.html",
+      "url": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-zrezygnowal-z-funkcji-wiceprezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9096730.html",
+      "title": "Artur Błażejak zrezygnował z funkcji wiceprezesa Grupy Azoty Zakłady Chemiczne \"Police\" Zarząd spółki Grupa Azoty Zakłady Chemiczne \"Police\" otrzymał rezygnację Artura Błażejaka z członkostwa w zarządzie spółki i funkcji wiceprezesa spółki oraz p.o. prezesa, ze skutkiem na koniec dnia 11 marca 2026 roku - podała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-03-11T19:08:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-304-812-akcji-po-35-zl-szt-9096805.html",
       "url": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-304-812-akcji-po-35-zl-szt-9096805.html",
       "title": "LSI Software zaprasza do sprzedaży do 304.812 akcji, po 35 zł/szt. LSI Software zaprasza do składania przez akcjonariuszy ofert sprzedaży do 304.812 akcji spółki, reprezentujących nie więcej niż ok. 9,35 proc. kapitału zakładowego i nie więcej niż ok. 6,27 proc. ogólnej liczby głosów, po cenie 35 zł za papier - podała spółka w komunikacie.",
@@ -37,13 +44,6 @@
       "title": "Energa zidentyfikowała konieczność dokonania odpisów aktualizujących na łączną kwotę ok. 145 mln zł Energa zidentyfikowała konieczność dokonania odpisów aktualizujących na łączną kwotę ok. 145 mln zł w obszarze wytwarzania energii elektrycznej, z czego ok. 97 mln zł przypada na aktywa OZE - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-11T17:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-zrezygnowal-z-funkcji-wiceprezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9096730.html",
-      "url": "https://www.bankier.pl/wiadomosc/Artur-Blazejak-zrezygnowal-z-funkcji-wiceprezesa-Grupy-Azoty-Zaklady-Chemiczne-Police-9096730.html",
-      "title": "Artur Błażejak zrezygnował z funkcji wiceprezesa Grupy Azoty Zakłady Chemiczne \"Police\" Zarząd spółki Grupa Azoty Zakłady Chemiczne \"Police\" otrzymał rezygnację Artura Błażejaka z członkostwa w zarządzie spółki i funkcji wiceprezesa spółki oraz p.o. prezesa, ze skutkiem na koniec dnia 11 marca 2026 roku - podała spółka w komunikacie. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-03-11T17:25:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Historyczna-interwencja-MAE-Rekordowe-400-mln-barylek-ropy-zostanie-uwolnione-9096636.html",
@@ -646,20 +646,6 @@
       "title": "Kryzys naftowy, stagflacja i… wzrosty na Wall Street Pomimo groźby regularnego kryzysu naftowego poniedziałkowa sesja na nowojorskich giełdach zakończyła się solidnymi zwyżkami.",
       "content_html": "",
       "date_published": "2026-03-09T21:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-panstw-G7-gotowa-do-uwolnienia-zapasow-ropy-jesli-bedzie-to-konieczne-do-wsparcia-podazy-9095364.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-panstw-G7-gotowa-do-uwolnienia-zapasow-ropy-jesli-bedzie-to-konieczne-do-wsparcia-podazy-9095364.html",
-      "title": "Grupa państw G7 gotowa do uwolnienia zapasów ropy, jeśli będzie to konieczne do wsparcia podaży Ministrowie finansów grupy G7 oświadczyli, że są gotowi podjąć wszelkie niezbędne kroki w celu wsparcia globalnych dostaw energii, w tym uwolnić strategiczne rezerwy ropy naftowej – napisano w oświadczeniu po poniedziałkowym spotkaniu.",
-      "content_html": "",
-      "date_published": "2026-03-09T18:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ElevenLabs-chce-byc-gotowy-do-IPO-w-ciagu-2-3-lat-mysli-o-dual-listingu-w-Warszawie-9095433.html",
-      "url": "https://www.bankier.pl/wiadomosc/ElevenLabs-chce-byc-gotowy-do-IPO-w-ciagu-2-3-lat-mysli-o-dual-listingu-w-Warszawie-9095433.html",
-      "title": "ElevenLabs chce być gotowy do IPO w ciągu 2-3 lat, myśli o dual listingu w Warszawie ElevenLabs chce być gotowy do IPO w cigu 2-3 lat, myśli o dual listingu na giełdzie w Warszawie - poinformował Mati Staniszewski, CEO i współzałożyciel ElevenLabs podczas Konferencji Rynku Kapitałowego w Bukowinie Tatrzańskiej.",
-      "content_html": "",
-      "date_published": "2026-03-09T18:28:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

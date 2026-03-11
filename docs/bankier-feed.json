@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-304-812-akcji-po-35-zl-szt-9096805.html",
+      "url": "https://www.bankier.pl/wiadomosc/LSI-Software-zaprasza-do-sprzedazy-do-304-812-akcji-po-35-zl-szt-9096805.html",
+      "title": "LSI Software zaprasza do sprzedaży do 304.812 akcji, po 35 zł/szt.",
+      "content_html": "LSI Software zaprasza do składania przez akcjonariuszy ofert sprzedaży do 304.812 akcji spółki, reprezentujących nie więcej niż ok. 9,35 proc. kapitału zakładowego i nie więcej niż ok. 6,27 proc. ogólnej liczby głosów, po cenie 35 zł za...",
+      "date_published": "2026-03-11T18:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Episkopacie-Powolano-komisje-ds-pedofilii-9096768.html",
       "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Episkopacie-Powolano-komisje-ds-pedofilii-9096768.html",
       "title": "Przełom w Episkopacie. Powołano komisję ds. pedofilii",
@@ -23,6 +30,13 @@
       "title": "Allegro skupi akcje. Rada Dyrektorów rekomenduje skup w kwocie do 1,6 mld zł",
       "content_html": "Rada Dyrektorów Allegro.eu podjęła uchwałę o zarekomendowaniu najbliższemu Zwyczajnemu Walnemu Zgromadzeniu spółki zwrotu nadwyżki kapitału akcjonariuszom poprzez nabycie akcji własnych w kwocie 1,6 mld zł - podała spółka w komunikacie...",
       "date_published": "2026-03-11T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niemcy-szukaja-hakerow-Berlin-chce-tez-wzmocnic-agentow-w-ambasadach-9096794.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niemcy-szukaja-hakerow-Berlin-chce-tez-wzmocnic-agentow-w-ambasadach-9096794.html",
+      "title": "Niemcy szukają hakerów. Berlin chce też wzmocnić agentów w ambasadach",
+      "content_html": "Niemiecka Federalna Służba Wywiadowcza (BND) chce wzmocnić działania operacyjne i pozyskiwać nowych specjalistów, m.in. młodych hakerów - napisał w środę dziennik „Sueddeutsche Zeitung”. Według gazety większą rolę w zbieraniu informacji...",
+      "date_published": "2026-03-11T17:59:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Creepy-Jar-chce-przeznaczyc-na-wyplate-dywidendy-lacznie-ok-30-mln-zl-9096786.html",
@@ -534,20 +548,6 @@
       "title": "Mostostal Płock z większym kontraktem od Orlenu. Budowa zbiornika ropy drożeje do 122 mln zł",
       "content_html": "Mostostal Płock podpisał z Orlenem aneks do umowy na wykonanie usługi inwestycyjnej w formule PC w zakresie demontażu istniejącego zbiornika wraz z infrastrukturą oraz budowy nowego zbiornika nr 55 - podał Mostostal Płock w komunikacie. Aneks...",
       "date_published": "2026-03-11T09:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PZ-Cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-Equisse-9096340.html",
-      "url": "https://www.bankier.pl/wiadomosc/PZ-Cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-Equisse-9096340.html",
-      "title": "PZ Cormay zakończył przegląd opcji strategicznych dla projektu Equisse",
-      "content_html": "PZ Cormay zakończył przegląd opcji strategicznych dla projektu analizatora biochemicznego Equisse 400i - podała spółka w komunikacie. W efekcie przeglądu spółka zawarła z Planet Innovation Products z centralą w Kalifornii umowę produkcji kontraktowej...",
-      "date_published": "2026-03-11T09:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/To-mialo-trafic-do-sprzedazy-Ponad-600-tys-jaj-z-Ukrainy-z-zakazem-wjazdu-9096312.html",
-      "url": "https://www.bankier.pl/wiadomosc/To-mialo-trafic-do-sprzedazy-Ponad-600-tys-jaj-z-Ukrainy-z-zakazem-wjazdu-9096312.html",
-      "title": "To miało trafić do sprzedaży. Ponad 600 tys. jaj z Ukrainy z zakazem wjazdu",
-      "content_html": "Oddziały Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych w Rzeszowie oraz Katowicach wydały dwa niekorzystne rozstrzygnięcia dotyczące produktów sprowadzonych z zagranicy. Zastrzeżenia urzędników wzbudziły tym razem dostawy kapusty...",
-      "date_published": "2026-03-11T09:24:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Uspokojenie-na-rynku-zlotego-Kurs-euro-bez-zmian-frank-pozostaje-mocny-9096333.html",
