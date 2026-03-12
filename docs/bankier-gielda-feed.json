@@ -4,18 +4,53 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
-      "title": "Allegro zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 r. o 9-13 proc. Allegro.eu zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 roku o 9-13 proc. rdr, a skonsolidowany CAPEX szacuje na 1,04 - 1,15 mld zł - poinformowała spółka w prezentacji.",
-      "content_html": "",
-      "date_published": "2026-03-12T06:08:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-Grupy-Azoty-Polyolefins-9096965.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-zlozyl-zaktualizowana-oferte-zakupu-wszystkich-akcji-Grupy-Azoty-Polyolefins-9096965.html",
-      "title": "Orlen złożył zaktualizowaną ofertę zakupu wszystkich akcji Grupy Azoty Polyolefins Orlen złożył pozostałym udziałowcom Grupy Azoty Polyolefins oraz instytucjom finansującym zaktualizowaną niewiążącą ofertę zakupu wszystkich akcji spółki - podał Orlen w komunikacie. Łączna wartość oferty opiewa na 1,140 mld zł.",
+      "title": "Orlen składa ofertę przejęcia Grupie Azoty Polyolefins za 1,14 mld zł Orlen złożył pozostałym udziałowcom Grupy Azoty Polyolefins oraz instytucjom finansującym zaktualizowaną niewiążącą ofertę zakupu wszystkich akcji spółki - podał Orlen w komunikacie. Łączna wartość oferty opiewa na 1,140 mld zł.",
       "content_html": "",
-      "date_published": "2026-03-12T05:56:00+01:00"
+      "date_published": "2026-03-12T07:01:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-spelnia-warunki-do-wyplaty-dywidendy-w-wysokosci-do-75-proc-zysku-za-25-9096984.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-spelnia-warunki-do-wyplaty-dywidendy-w-wysokosci-do-75-proc-zysku-za-25-9096984.html",
+      "title": "Strategiczne zrealizowane dwa lata przed terminem. PKO BP planuje wypłatę 75 proc. dywidendy Intencją PKO BP jest wypłata dywidendy w 2026 roku z zysku netto 2025 roku, a rekordowy wynik oraz silna pozycja kapitałowa umożliwiają bankowi wypłatę 75 proc. dywidendy z zysku za 2025 rok - poinformował PKO BP w czwartek.",
+      "content_html": "",
+      "date_published": "2026-03-12T06:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-I-kw-grupa-Allegro-notuje-wzrost-GMV-o-10-proc-9096978.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-I-kw-grupa-Allegro-notuje-wzrost-GMV-o-10-proc-9096978.html",
+      "title": "Ekspansja międzynarodowa napędza Allegro. Wartość sprzedaży za granicą w górę o 30 proc. W I kwartale grupa Allegro notuje wzrost GMV o 10 proc. - podała spółka w prezentacji.",
+      "content_html": "",
+      "date_published": "2026-03-12T06:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PKO-BP-w-IV-kw-25-wyniosl-2-715-mln-zl-powyzej-oczekiwan-9096975.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PKO-BP-w-IV-kw-25-wyniosl-2-715-mln-zl-powyzej-oczekiwan-9096975.html",
+      "title": "Ponad 2,7 mld zł w jednym kwartale. Zyski PKO BP rosną szybciej niż prognozy Zysk netto grupy grupy PKO BP w IV kwartale 2025 r. wzrósł do 2.715 mln zł z 2.446 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 6,9 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 2.540,7 mln zł.",
+      "content_html": "",
+      "date_published": "2026-03-12T06:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-grupy-Allegro-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096974.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-grupy-Allegro-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096974.html",
+      "title": "Wyniki grupy Allegro w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Allegro w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-03-12T06:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-PKO-BP-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096972.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-PKO-BP-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9096972.html",
+      "title": "Wyniki PKO BP w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki PKO BP w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-03-12T06:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
+      "url": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
+      "title": "Allegro odkrywa karty na 2026 rok. Miliard złotych na inwestycje i wzrost zysku Allegro.eu zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 roku o 9-13 proc. rdr, a skonsolidowany CAPEX szacuje na 1,04 - 1,15 mld zł - poinformowała spółka w prezentacji.",
+      "content_html": "",
+      "date_published": "2026-03-12T06:08:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Jon-Eastick-zamierza-odejsc-ze-stanowiska-dyrektora-finansowego-Allegro-9096913.html",
@@ -268,6 +303,13 @@
       "title": "EuCO złożyło wnioski o uchylenie układu oraz o ogłoszenie upadłości Zarząd Europejskiego Centrum Odszkodowań złożył do Sądu Rejonowego w Legnicy, V Wydziału Gospodarczego ds. Restrukturyzacyjnych i Upadłościowych wniosek o uchylenie układu zatwierdzonego w postępowaniu sanacyjnym oraz wniosek o ogłoszenie upadłości - podała spółka w komunikacie. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-03-11T08:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-miedzy-politycznym-desantem-a-milionowymi-roszczeniami-Zatrudniali-dzialaczy-PiS-i-ich-rodziny-9096300.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-miedzy-politycznym-desantem-a-milionowymi-roszczeniami-Zatrudniali-dzialaczy-PiS-i-ich-rodziny-9096300.html",
+      "title": "Związki zawodowe „głową hydry” pożerającej JSW? Ujawniono kulisy kryzysu Jastrzębska Spółka Węglowa (JSW) zmaga się z kumulacją kryzysów. Do fatalnych wyników finansowych i sporów płacowych dołączają doniesienia o systemowym nepotyzmie oraz prokuratorskie śledztwo dotyczące nadużyć w strukturach związkowych. Ujawniony przez media \"list do premiera\" wskazuje, że spółka mogła służyć jako zaplecze kadrowe dla działaczy poprzedniej ekipy rządzącej.",
+      "content_html": "",
+      "date_published": "2026-03-11T08:20:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tauron-oddal-do-eksploatacji-farme-wiatrowa-Sieradz-o-lacznej-mocy-23-8-MW-9096308.html",
@@ -529,6 +571,13 @@
       "date_published": "2026-03-10T11:50:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/TDJ-Equity-I-oglasza-przymusowy-wykup-akcji-Grenevii-9095605.html",
+      "url": "https://www.bankier.pl/wiadomosc/TDJ-Equity-I-oglasza-przymusowy-wykup-akcji-Grenevii-9095605.html",
+      "title": "TDJ Equity I ogłasza przymusowy wykup akcji Grenevii TDJ Equity I ogłosił przymusowy wykup 27.714.269 akcji spółki Grenevia, reprezentujących łącznie około 4,82 proc. kapitału zakładowego spółki, po cenie 3,30 zł za jedną akcję - poinformowano w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-10T11:24:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Faworyzowal-Paramount-ale-finansowal-Netfliksa-Trump-zainwestowal-miliony-w-obligacje-giganta-9095702.html",
       "url": "https://www.bankier.pl/wiadomosc/Faworyzowal-Paramount-ale-finansowal-Netfliksa-Trump-zainwestowal-miliony-w-obligacje-giganta-9095702.html",
       "title": "Faworyzował Paramount, ale finansował Netfliksa. Trump zainwestował miliony w obligacje giganta Publicznie rzucał kłody pod nogi Netflixowi, grożąc zablokowaniem gigantycznej fuzji. W kuluarach – a dokładniej poprzez rodzinny fundusz powierniczy – lokował miliony dolarów w papiery dłużne tej samej spółki oraz przejmowanego Warner Bros. Discovery. Najnowsze dokumenty ujawniają kulisy podwójnej gry prezydenta USA na rynku medialnym.",
@@ -618,41 +667,6 @@
       "title": "BM Pekao obniżył rekomendację dla ZE PAK do \"trzymaj\" Analitycy BM Pekao w raporcie z 10 marca obniżyli rekomendację ZE PAK do \"trzymaj\" z \"kupuj\" i ustalili cenę docelową akcji spółki na 20,32 zł.",
       "content_html": "",
       "date_published": "2026-03-10T08:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drozyzna-na-stacjach-i-w-rachunkach-URE-uspokaja-emocje-Tak-dzialaja-teraz-taryfy-9095611.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drozyzna-na-stacjach-i-w-rachunkach-URE-uspokaja-emocje-Tak-dzialaja-teraz-taryfy-9095611.html",
-      "title": "Drożyzna na stacjach i w rachunkach? URE uspokaja emocje. Tak działają teraz taryfy Nie ma podstaw do paniki w związku ze wzrostem cen surowców spowodowanym konfliktem na Bliskim Wschodzie - poinformowała PAP Biznes Renata Mroczek, prezes Urzędu Regulacji Energetyki. W jej opinii brak na razie uzasadnienia, by zakładać, że obecna sytuacja doprowadzi do kryzysu podobnego jak po wybuchu wojny w Ukrainie.",
-      "content_html": "",
-      "date_published": "2026-03-10T08:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Decyzje-URE-dot-doplat-do-FWRC-w-najblizszych-dniach-spolki-moga-sie-odwolac-wywiad-9095610.html",
-      "url": "https://www.bankier.pl/wiadomosc/Decyzje-URE-dot-doplat-do-FWRC-w-najblizszych-dniach-spolki-moga-sie-odwolac-wywiad-9095610.html",
-      "title": "Kontrole w PGE, Tauronie i Enei. URE żąda gigantycznych kwot W najbliższych dniach Prezes URE wyda decyzje dla spółek energetycznych ws. wysokości dopłat do Funduszu Wypłaty Różnicy Ceny - poinformowała PAP Biznes Renata Mroczek, prezes Urzędu Regulacji Energetyki. Spółki mogą się odwołać, ale mają obowiązek dokonać wpłaty w ciągu 30 dni, albo uzyskać od sądu postanowienie o wstrzymaniu wykonalności decyzji.",
-      "content_html": "",
-      "date_published": "2026-03-10T08:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nagly-zwrot-na-stacjach-paliw-Cena-barylki-spadla-o-6-proc-w-jedna-noc-9095534.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nagly-zwrot-na-stacjach-paliw-Cena-barylki-spadla-o-6-proc-w-jedna-noc-9095534.html",
-      "title": "Nagły zwrot na stacjach paliw? Cena baryłki spadła o 6 proc. w jedną noc Ceny ropy naftowej spadły w poniedziałek po zapowiedziach Trumpa, że wojna z Iranem jest bliska zakończenia oraz informacji o tym, że rozważa przejęcie kontroli nad Cieśniną Ormuz. W niedzielę ceny ropy WTI i Brent przebiły pułap 100 USD za baryłkę, a następnie rosły do blisko 120 USD za baryłkę.",
-      "content_html": "",
-      "date_published": "2026-03-10T07:51:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBITDA-grupy-Passus-w-25-wyniosla-14-8-mln-zl-wzrosla-5-proc-rdr-9095601.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBITDA-grupy-Passus-w-25-wyniosla-14-8-mln-zl-wzrosla-5-proc-rdr-9095601.html",
-      "title": "EBITDA grupy Passus w '25 wyniosła 14,8 mln zł, wzrosła 5 proc. rdr Przychody grupy Passus, integratora rozwiązań IT specjalizującego się w cyberbezpieczeństwie oraz monitorowaniu wydajności sieci i aplikacji w 2025 roku wyniosły 123,3 mln zł, czyli wzrosły 15 proc. rdr, a zysk EBITDA osiągnął 14,8 mln zł, rosnąc 5 proc. rdr - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-10T07:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-o-rosnacych-cenach-ropy-mam-plan-bedziecie-zadowoleni-9095407.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-o-rosnacych-cenach-ropy-mam-plan-bedziecie-zadowoleni-9095407.html",
-      "title": "Trump o rosnących cenach ropy: mam plan, będziecie zadowoleni Prezydent Stanów Zjednoczonych Donald Trump ma w poniedziałek przeanalizować szereg opcji mających na celu opanowanie cen ropy, które wzrosły do ponad 100 dolarów za baryłkę w wyniku wojny z Iranem - informuje agencja Reuters, powołując się na źródła.",
-      "content_html": "",
-      "date_published": "2026-03-10T06:42:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
