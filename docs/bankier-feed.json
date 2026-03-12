@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Projekt-XTPL-rekomendowany-do-10-1-mln-zl-dofinansowania-w-ramach-konkursu-NCBR-9097025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Projekt-XTPL-rekomendowany-do-10-1-mln-zl-dofinansowania-w-ramach-konkursu-NCBR-9097025.html",
+      "title": "XTPL z rekomendacją do 10,1 mln zł dofinansowania z Narodowego Centrum Badań i Rozwoju",
+      "content_html": "Projekt XTPL został rekomendowany do dofinansowania w ramach konkursu FENG organizowanego przez NCBR - podała spółka w komunikacie. Wartość projektu to 18,29 mln zł, a rekomendowana wartość dofinansowania 10,1 mln zł.",
+      "date_published": "2026-03-12T08:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CEZ-w-25-mial-137-mld-CZK-EBITDA-na-26-prognozuje-wynik-na-poziomie-103-108-mld-CZK-9097019.html",
+      "url": "https://www.bankier.pl/wiadomosc/CEZ-w-25-mial-137-mld-CZK-EBITDA-na-26-prognozuje-wynik-na-poziomie-103-108-mld-CZK-9097019.html",
+      "title": "Stabilny zysk dzięki atomowi. Czeski gigant CEZ odkrywa karty",
+      "content_html": "Grupa CEZ osiągnęła w 2025 roku EBITDA w wysokości 137 mld CZK i 28,1 mld CZK skorygowanego zysku netto - poinformowała spółka w komunikacie ze wstępnymi wynikami. Na 2026 rok grupa przewiduje 103-108 mld CZK wyniku EBITDA i 27-31 mld CZK skorygowanego...",
+      "date_published": "2026-03-12T08:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/7700-ewakuowanych-z-Bliskiego-Wschodu-Unijny-mechanizm-i-samoloty-LOT-u-w-akcji-9097013.html",
+      "url": "https://www.bankier.pl/wiadomosc/7700-ewakuowanych-z-Bliskiego-Wschodu-Unijny-mechanizm-i-samoloty-LOT-u-w-akcji-9097013.html",
+      "title": "7700 ewakuowanych z Bliskiego Wschodu. Unijny mechanizm i samoloty LOT-u w akcji",
+      "content_html": "Od początku wojny w Iranie ponad 7700 obywateli państw Unii Europejskich wróciło do swoich krajów dzięki Mechanizmowi Ochrony Ludności UE – poinformowała w czwartek Komisja Europejska na platformie X.",
+      "date_published": "2026-03-12T08:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Historyczny-zrzut-ropy-na-rynki-Trump-uwalnia-172-mln-barylek-z-rezerw-strategicznych-USA-9096925.html",
       "url": "https://www.bankier.pl/wiadomosc/Historyczny-zrzut-ropy-na-rynki-Trump-uwalnia-172-mln-barylek-z-rezerw-strategicznych-USA-9096925.html",
       "title": "Historyczny zrzut ropy na rynki. Trump uwalnia 172 mln baryłek z rezerw strategicznych USA",
@@ -69,7 +90,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Juz-piec-jednostek-zaatakowanych-w-Zatoce-Perskiej-Nie-zyje-marynarz-9096940.html",
       "url": "https://www.bankier.pl/wiadomosc/Juz-piec-jednostek-zaatakowanych-w-Zatoce-Perskiej-Nie-zyje-marynarz-9096940.html",
-      "title": "Już pięć jednostek zaatakowanych w Zatoce Perskiej. Nie żyje marynarz",
+      "title": "Już pięć jednostek zaatakowanych w Zatoce Perskiej. Ceny ropy reagują na ekskalację",
       "content_html": "Do pięciu wzrosła liczba statków handlowych zaatakowanych w środę w rejonie Zatoki Perskiej – wynika z czwartkowych doniesień agencji Reutera. Nowe raporty potwierdzają uderzenia w dwa kolejne tankowce na wodach irackich. Wyłowiono ciało co...",
       "date_published": "2026-03-12T07:41:00+01:00"
     },
@@ -660,48 +681,6 @@
       "title": "Rekord pracujących Ukraińców w Polsce. 41 proc. nie wie, czy zostanie po wojnie",
       "content_html": "Na koniec września 2025 r. w Polsce pracowało ponad 759 tys. obywateli Ukrainy. To o 7,2 proc. więcej niż rok wcześniej oraz o 2,7 proc. więcej niż w sierpniu 2025 r. Dane pokazują, że obecność pracowników ze wschodu wciąż rośnie. Jednocześnie...",
       "date_published": "2026-03-11T12:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-trzeci-Polak-spoznia-sie-z-oplatami-za-mieszkanie-Rata-kredytu-wazniejsza-niz-smieci-9096471.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-trzeci-Polak-spoznia-sie-z-oplatami-za-mieszkanie-Rata-kredytu-wazniejsza-niz-smieci-9096471.html",
-      "title": "Co trzeci Polak spóźnia się z opłatami za mieszkanie. Rata kredytu ważniejsza niż śmieci",
-      "content_html": "Do opóźnień w regulowaniu opłat za mieszkanie przyznaje się 34 proc. badanych - wynika z badania Inquiry na zlecenie Nieruchomosci-online.pl. Ze wskazań respondentów wynika też, że w razie kłopotów finansowych najczęściej skłonni są odłożyć...",
-      "date_published": "2026-03-11T12:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polski-biznes-zaciska-pasa-choc-duzi-pozostaja-optymistyczni-9096442.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polski-biznes-zaciska-pasa-choc-duzi-pozostaja-optymistyczni-9096442.html",
-      "title": "Polski biznes zaciska pasa, choć duzi pozostają optymistyczni",
-      "content_html": "W marcu Miesięczny Indeks Koniunktury (MIK) nieznacznie spadł w porównaniu do lutego i wyniósł 97,9 pkt. - poinformował Polski Instytut Ekonomiczny. Jak dodał, podwyżki wynagrodzeń w najbliższych trzech miesiącach planuje co dziesiąta firma...",
-      "date_published": "2026-03-11T12:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-105-lokali-w-Krakowie-9096452.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-105-lokali-w-Krakowie-9096452.html",
-      "title": "Dom Development wprowadził do sprzedaży 105 lokali w Krakowie",
-      "content_html": "Dom Development rozpoczął sprzedaż mieszkań w ostatnim etapie Apartamentów Park Matecznego w Krakowie. W dwóch budynkach powstanie 105 lokali - poinformował deweloper w komunikacie prasowym.",
-      "date_published": "2026-03-11T12:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zatoka-Perska-pod-sciana-Ekspert-ostrzega-Iranczycy-moga-trafic-w-kazdy-statek-9096433.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zatoka-Perska-pod-sciana-Ekspert-ostrzega-Iranczycy-moga-trafic-w-kazdy-statek-9096433.html",
-      "title": "Zatoka Perska pod ścianą? Ekspert ostrzega: Irańczycy mogą trafić w każdy statek",
-      "content_html": "Siły irańskie mogą trafić w każdy statek w Zatoce Perskiej, a marynarka wojenna USA nie ma wystarczającej liczby okrętów do misji eskortowych - powiedział w wywiadzie dla „Frankfurter Allgemeine Zeitung“ Salvatore „Sal“ Mercogliano, ekspert...",
-      "date_published": "2026-03-11T11:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nalezaca-do-Grupy-MOL-chorwacka-INA-zakonczyla-modernizacje-rafinerii-w-Rijece-9096429.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nalezaca-do-Grupy-MOL-chorwacka-INA-zakonczyla-modernizacje-rafinerii-w-Rijece-9096429.html",
-      "title": "Należąca do Grupy MOL chorwacka INA zakończyła modernizację rafinerii w Rijece",
-      "content_html": "Należąca do Grupy MOL chorwacka INA zakończyła modernizację rafinerii w Rijece - podał MOL w komunikacie prasowym. Projekt o wartości blisko 700 mln euro to największa pojedyncza inwestycja w historii INA.",
-      "date_published": "2026-03-11T11:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-zapowiada-ataki-na-banki-Omijac-instytucje-powiazane-z-USA-i-Izraelem-9096396.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-zapowiada-ataki-na-banki-Omijac-instytucje-powiazane-z-USA-i-Izraelem-9096396.html",
-      "title": "Iran zapowiada ataki na banki. „Omijać instytucje powiązane z USA i Izraelem”",
-      "content_html": "Iran zaatakuje instytucje finansowe i bankowe powiązane z USA oraz Izraelem w regionie – poinformował w środę rzecznik połączonego dowództwa operacyjnego Iranu, cytowany przez agencję Reutera, w reakcji na atak wymierzony w jeden z irańskich...",
-      "date_published": "2026-03-11T11:31:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

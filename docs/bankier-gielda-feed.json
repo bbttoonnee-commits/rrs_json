@@ -4,9 +4,23 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-w-26-rozwinie-nowe-silniki-wzrostu-planuje-dalszy-wzrost-udzialow-rynkowych-wywiad-9097038.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-w-26-rozwinie-nowe-silniki-wzrostu-planuje-dalszy-wzrost-udzialow-rynkowych-wywiad-9097038.html",
+      "title": "PKO BP w '26 rozwinie nowe silniki wzrostu, planuje dalszy wzrost udziałów rynkowych (wywiad) PKO BP w 2026 roku rozwinie nowe silniki wzrostu i zakłada dalszy wzrost udziałów rynkowych w kluczowych liniach biznesowych. Liczy, że dzięki przyspieszeniu wzrostu wolumenów będzie w stanie skompensować wpływ obniżek stóp procentowych na wynik odsetkowy - poinformował PAP Biznes prezes banku Szymon Midera.",
+      "content_html": "",
+      "date_published": "2026-03-12T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Projekt-XTPL-rekomendowany-do-10-1-mln-zl-dofinansowania-w-ramach-konkursu-NCBR-9097025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Projekt-XTPL-rekomendowany-do-10-1-mln-zl-dofinansowania-w-ramach-konkursu-NCBR-9097025.html",
+      "title": "XTPL z rekomendacją do 10,1 mln zł dofinansowania z Narodowego Centrum Badań i Rozwoju Projekt XTPL został rekomendowany do dofinansowania w ramach konkursu FENG organizowanego przez NCBR - podała spółka w komunikacie. Wartość projektu to 18,29 mln zł, a rekomendowana wartość dofinansowania 10,1 mln zł.",
+      "content_html": "",
+      "date_published": "2026-03-12T08:38:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/CEZ-w-25-mial-137-mld-CZK-EBITDA-na-26-prognozuje-wynik-na-poziomie-103-108-mld-CZK-9097019.html",
       "url": "https://www.bankier.pl/wiadomosc/CEZ-w-25-mial-137-mld-CZK-EBITDA-na-26-prognozuje-wynik-na-poziomie-103-108-mld-CZK-9097019.html",
-      "title": "CEZ w '25 miał 137 mld CZK EBITDA, na '26 prognozuje wynik na poziomie 103-108 mld CZK Grupa CEZ osiągnęła w 2025 roku EBITDA w wysokości 137 mld CZK i 28,1 mld CZK skorygowanego zysku netto - poinformowała spółka w komunikacie ze wstępnymi wynikami. Na 2026 rok grupa przewiduje 103-108 mld CZK wyniku EBITDA i 27-31 mld CZK skorygowanego zysku netto.",
+      "title": "Stabilny zysk dzięki atomowi. Czeski gigant CEZ odkrywa karty Grupa CEZ osiągnęła w 2025 roku EBITDA w wysokości 137 mld CZK i 28,1 mld CZK skorygowanego zysku netto - poinformowała spółka w komunikacie ze wstępnymi wynikami. Na 2026 rok grupa przewiduje 103-108 mld CZK wyniku EBITDA i 27-31 mld CZK skorygowanego zysku netto.",
       "content_html": "",
       "date_published": "2026-03-12T08:24:00+01:00"
     },
@@ -653,20 +667,6 @@
       "title": "KDPW Już ponad 2,6 mln rachunków maklerskich w Polsce. Jeden gracz dominuje Pod koniec lutego 2026 roku liczba rachunków papierów wartościowych, prowadzonych przez banki oraz domy i biura maklerskie działające w Polsce wzrosła do 2.675.673 z 2.615.239 na koniec stycznia - podał Krajowy Depozyt Papierów Wartościowych w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-03-10T09:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/XTPL-dostarczy-system-ODRA-do-odbiorcy-przemyslowego-z-siedziba-w-Dolinie-Krzemowej-9095627.html",
-      "url": "https://www.bankier.pl/wiadomosc/XTPL-dostarczy-system-ODRA-do-odbiorcy-przemyslowego-z-siedziba-w-Dolinie-Krzemowej-9095627.html",
-      "title": "XTPL dostarczy system ODRA do odbiorcy przemysłowego z siedzibą w Dolinie Krzemowej XTPL dostarczy pierwszy w historii autorski system ODRA do odbiorcy przemysłowego z siedzibą w Dolinie Krzemowej w USA - podała spółka w komunikacie. Wskazano, że zamówienie oznacza dla XTPL rozpoczęcie komercjalizacji nowej linii biznesowej.",
-      "content_html": "",
-      "date_published": "2026-03-10T08:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-Pekao-obnizyl-rekomendacje-dla-ZE-PAK-do-trzymaj-9095625.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-Pekao-obnizyl-rekomendacje-dla-ZE-PAK-do-trzymaj-9095625.html",
-      "title": "BM Pekao obniżył rekomendację dla ZE PAK do \"trzymaj\" Analitycy BM Pekao w raporcie z 10 marca obniżyli rekomendację ZE PAK do \"trzymaj\" z \"kupuj\" i ustalili cenę docelową akcji spółki na 20,32 zł.",
-      "content_html": "",
-      "date_published": "2026-03-10T08:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
