@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Weto-Nawrockiego-ws-SAFE-Nie-podpisze-ustawy-9097588.html",
+      "url": "https://www.bankier.pl/wiadomosc/Weto-Nawrockiego-ws-SAFE-Nie-podpisze-ustawy-9097588.html",
+      "title": "No i jest prezydenckie weto ws. unijnego SAFE. \"Nie podpiszę ustawy\"",
+      "content_html": "Prezydent Karol Nawrocki poinformował w czwartkowym orędziu, że nie podpisze ustawy wdrażającej unijny program pożyczek na obronność SAFE. Według zapowiedzi rządu, weto nie uniemożliwi skorzystania z tych środków.",
+      "date_published": "2026-03-12T20:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Paraliz-w-79-krajach-Znany-producent-sprzetu-dla-wojska-celem-cyberataku-9097598.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paraliz-w-79-krajach-Znany-producent-sprzetu-dla-wojska-celem-cyberataku-9097598.html",
+      "title": "Paraliż w 79 krajach. Znany producent sprzętu dla wojska celem cyberataku",
+      "content_html": "Powiązana z Iranem grupa hakerska Handala przeprowadziła w środę atak na amerykańskiego producenta urządzeń medycznych Stryker, powodując globalne zakłócenia w systemach informatycznych firmy – podały amerykańskie media. Stryker ma biura...",
+      "date_published": "2026-03-12T20:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rolnicy-latwiej-sprzedadza-zywnosc-Resort-chce-wprowadzic-lokalna-polke-9097579.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rolnicy-latwiej-sprzedadza-zywnosc-Resort-chce-wprowadzic-lokalna-polke-9097579.html",
+      "title": "Rolnicy łatwiej sprzedadzą żywność? Resort chce wprowadzić \"lokalną półkę\"",
+      "content_html": "Resort rolnictwa pracuje nad rozwiązaniami, które mają ułatwić rolnikom sprzedaż produktów, nie tylko na rynkach międzynarodowych, ale także lokalnie - zapewniła w czwartek podczas posiedzenia sejmowej komisji rolnictwa wiceminister Małgorzata...",
+      "date_published": "2026-03-12T19:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-Kolejna-fala-nalotow-Izraela-na-Bejrut-9097577.html",
       "url": "https://www.bankier.pl/wiadomosc/Wojna-na-Bliskim-Wschodzie-Kolejna-fala-nalotow-Izraela-na-Bejrut-9097577.html",
       "title": "Wojna na Bliskim Wschodzie. Kolejna fala nalotów Izraela na Bejrut",
@@ -681,13 +702,6 @@
       "title": "Wyspa w cenie mieszkania w Warszawie. Królewski dar na sprzedaż w Wielkiej Brytanii",
       "content_html": "Taka okazyjna inwestycja zdarza się rzadko. Wyspa, która należała do brytyjskiej rodziny królewskiej, została właśnie wystawiona na sprzedaż za 350 tys. funtów, czyli około 1,7 mln zł. To oznacza, że w cenie dwupokojowego mieszkania w okolicach...",
       "date_published": "2026-03-12T09:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-bankowe-na-3-miesiace-marzec-2026-Ranking-Bankier-pl-9095233.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-bankowe-na-3-miesiace-marzec-2026-Ranking-Bankier-pl-9095233.html",
-      "title": "Banki tną oprocentowanie lokat. Te depozyty wciąż oferują najwięcej",
-      "content_html": "Oprocentowanie lokat jest coraz niższe. W ofertach banków widać wyraźny trend spadkowy. Sprawdziliśmy, które depozyty kwartalne nadal oferują najwyższe stawki na rynku. Kilka z nich proponuje stawki przekraczające 5 proc.",
-      "date_published": "2026-03-12T09:27:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
