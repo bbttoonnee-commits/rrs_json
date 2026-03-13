@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Podaz-obligacji-pod-lupa-MF-Domanski-Sytuacja-jest-bardzo-zmienna-9097768.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podaz-obligacji-pod-lupa-MF-Domanski-Sytuacja-jest-bardzo-zmienna-9097768.html",
+      "title": "Podaż obligacji pod lupą MF. Domański: Sytuacja jest bardzo zmienna MF będzie dostosowywało podaż obligacji do warunków rynkowych - poinformował w Programie I Polskiego Radia minister finansów i gospodarki Andrzej Domański. W tle jest m.in. prezydenckie weto ws. unijnego programu SAFE i dyskusja o źródłach finansowania modernizacji polskiej armii.",
+      "content_html": "",
+      "date_published": "2026-03-13T09:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-ZUE-o-wartosci-780-8-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9097774.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-ZUE-o-wartosci-780-8-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9097774.html",
+      "title": "Oferta ZUE o wartości 780,8 mln zł netto najkorzystniejsza w przetargu PKP PLK Oferta ZUE o wartości 780,8 mln zł netto została uznana za najkorzystniejszą w przetargu PKP PLK na opracowanie projektu wykonawczego i wykonanie robót budowlanych - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-13T08:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-Orlenu-do-144-zl-nadal-zaleca-ich-kupno-9097759.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-Orlenu-do-144-zl-nadal-zaleca-ich-kupno-9097759.html",
       "title": "DM BOŚ podniósł wycenę akcji Orlenu do 144 zł, nadal zaleca ich kupno Analitycy Domu Maklerskiego BOŚ w raporcie z 5 marca podnieśli cenę docelową akcji Orlenu w horyzoncie 12 miesięcy do 144 zł ze 100 zł wcześniej i podtrzymali dla nich rekomendację \"kupuj\".",
@@ -534,20 +548,6 @@
       "title": "Mostostal Płock z większym kontraktem od Orlenu. Budowa zbiornika ropy drożeje do 122 mln zł Mostostal Płock podpisał z Orlenem aneks do umowy na wykonanie usługi inwestycyjnej w formule PC w zakresie demontażu istniejącego zbiornika wraz z infrastrukturą oraz budowy nowego zbiornika nr 55 - podał Mostostal Płock w komunikacie. Aneks zwiększył wartość umowy z pierwotnie ustalonej kwoty 104,8 mln zł netto na maksymalną kwotę do 122,6 mln netto.",
       "content_html": "",
       "date_published": "2026-03-11T09:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PZ-Cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-Equisse-9096340.html",
-      "url": "https://www.bankier.pl/wiadomosc/PZ-Cormay-zakonczyl-przeglad-opcji-strategicznych-dla-projektu-Equisse-9096340.html",
-      "title": "PZ Cormay zakończył przegląd opcji strategicznych dla projektu Equisse PZ Cormay zakończył przegląd opcji strategicznych dla projektu analizatora biochemicznego Equisse 400i - podała spółka w komunikacie. W efekcie przeglądu spółka zawarła z Planet Innovation Products z centralą w Kalifornii umowę produkcji kontraktowej i dostawy Equisse.",
-      "content_html": "",
-      "date_published": "2026-03-11T09:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EuCO-zlozylo-wnioski-o-uchylenie-ukladu-oraz-o-ogloszenie-upadlosci-9096319.html",
-      "url": "https://www.bankier.pl/wiadomosc/EuCO-zlozylo-wnioski-o-uchylenie-ukladu-oraz-o-ogloszenie-upadlosci-9096319.html",
-      "title": "EuCO złożyło wnioski o uchylenie układu oraz o ogłoszenie upadłości Zarząd Europejskiego Centrum Odszkodowań złożył do Sądu Rejonowego w Legnicy, V Wydziału Gospodarczego ds. Restrukturyzacyjnych i Upadłościowych wniosek o uchylenie układu zatwierdzonego w postępowaniu sanacyjnym oraz wniosek o ogłoszenie upadłości - podała spółka w komunikacie. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-03-11T08:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
