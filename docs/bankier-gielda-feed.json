@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-baza-danych-o-finansach-Polakow-Sejm-podjal-decyzje-9097918.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-baza-danych-o-finansach-Polakow-Sejm-podjal-decyzje-9097918.html",
+      "title": "Wielka baza danych o finansach Polaków. Sejm podjął decyzję Sejm uchwalił w piątek nowelizację ustawy o przekazywaniu danych do europejskiego pojedynczego punktu dostępu. Dostosowuje ona polskie prawo do przepisów UE przewidujących powstanie platformy internetowej zapewniającej informacje o podmiotach finansowych.",
+      "content_html": "",
+      "date_published": "2026-03-13T12:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/SIU-ma-uruchomic-dlugoterminowy-kapital-i-podniesc-akceptacje-ryzyka-prezes-PFR-TFI-wywiad-9097908.html",
       "url": "https://www.bankier.pl/wiadomosc/SIU-ma-uruchomic-dlugoterminowy-kapital-i-podniesc-akceptacje-ryzyka-prezes-PFR-TFI-wywiad-9097908.html",
       "title": "WYWIAD Prezes PFR TFI: SIU ma uruchomić długoterminowy kapitał i podnieść akceptację ryzyka Europa ma wysoki poziom oszczędności, ale za mało kapitału długoterminowego dla innowacji i skalowania firm. Savings & Investment Union (SIU) ma zintegrować rynki, obniżyć koszty i zwiększyć udział finansowania rynkowego w gospodarce.",
@@ -513,13 +520,6 @@
       "title": "Inflacja w USA szykuje się do startu. Lutowy odczyt bez znaczenia i bez zaskoczenia Lutowa inflacja CPI grzecznie wpisała się w oczekiwania ekonomistów, zaś inflacja bazowa utrzymała się na najniższym poziomie od 5 lat.",
       "content_html": "",
       "date_published": "2026-03-11T13:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Compensa-stawia-na-ubezpieczenia-zdrowotne-i-chce-miec-pol-miliona-klientow-do-2028-roku-9096487.html",
-      "url": "https://www.bankier.pl/wiadomosc/Compensa-stawia-na-ubezpieczenia-zdrowotne-i-chce-miec-pol-miliona-klientow-do-2028-roku-9096487.html",
-      "title": "Compensa stawia na ubezpieczenia zdrowotne i chce mieć pół miliona klientów do 2028 roku Compensa zapowiada ekspansję w segmencie ubezpieczeń zdrowotnych – nowa strategia na lata 2026-2030 zakłada, że do 2028 roku firma będzie miała co najmniej pół miliona klientów w obszarze zdrowia - podała Compensa w komunikacie prasowym. Ubezpieczyciel zapowiedział rozwój oferty dla klientów indywidualnych i firm.",
-      "content_html": "",
-      "date_published": "2026-03-11T12:49:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
