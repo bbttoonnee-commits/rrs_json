@@ -11,6 +11,13 @@
       "date_published": "2026-03-14T08:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bartosz-Kublik-odwolany-z-funkcji-prezesa-BOS-9098313.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bartosz-Kublik-odwolany-z-funkcji-prezesa-BOS-9098313.html",
+      "title": "Bartosz Kublik odwołany z funkcji prezesa BOŚ",
+      "content_html": "Bartosz Kublik został odwołany przez radę nadzorczą z funkcji prezesa Banku Ochrony Środowiska - poinformował BOŚ w komunikacie.",
+      "date_published": "2026-03-13T21:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Premier-Ci-ktorzy-mowia-ze-weto-ws-SAFE-to-wstep-do-polexitu-maja-coraz-wiecej-racji-9098280.html",
       "url": "https://www.bankier.pl/wiadomosc/Premier-Ci-ktorzy-mowia-ze-weto-ws-SAFE-to-wstep-do-polexitu-maja-coraz-wiecej-racji-9098280.html",
       "title": "Premier: Ci, którzy mówią, że weto ws. SAFE to wstęp do polexitu, mają coraz więcej racji",
@@ -695,13 +702,6 @@
       "title": "Budowy będą się przeciągać. Odwołania od przetargów sparaliżują inwestycje",
       "content_html": "Firmy coraz zacieklej walczą o zlecenia, Krajowa Izba Odwoławcza zapycha się odwołaniami. W efekcie rozpoczynanie budów będzie się coraz bardziej opóźniać - czytamy w piątkowym wydaniu „Rzeczpospolitej\".",
       "date_published": "2026-03-13T07:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojtyla-nie-kryl-pedofili-Jego-dzialania-wyprzedzaly-organy-scigania-9097692.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojtyla-nie-kryl-pedofili-Jego-dzialania-wyprzedzaly-organy-scigania-9097692.html",
-      "title": "Wojtyła nie krył pedofili. Jego działania wyprzedzały organy ścigania?",
-      "content_html": "Ani w archiwach państwowych, ani kościelnych nie ma dowodów na to, by kardynał Karol Wojtyła, będąc metropolitą krakowskim (1962–1978), tuszował pedofilię - pisze piątkowa „Rzeczpospolita\".",
-      "date_published": "2026-03-13T07:17:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
