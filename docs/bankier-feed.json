@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-lutym-2026-byla-najnizsza-od-blisko-2-lat-Ale-marcowa-bedzie-znacznie-wyzsza-9097821.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-lutym-2026-byla-najnizsza-od-blisko-2-lat-Ale-marcowa-bedzie-znacznie-wyzsza-9097821.html",
+      "title": "Lutowa inflacja najniższa od blisko 2 lat. Ale marcowa będzie znacznie wyższa",
+      "content_html": "W skali roku ceny dóbr konsumpcyjnych rosły najwolniej od marca 2024 roku. Niestety wiemy już, że marcowa inflacja będzie wyraźnie wyższa od lutowej.",
+      "date_published": "2026-03-13T10:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Droga-ropa-uderzyla-w-zlotego-Dolar-mocno-zyskuje-a-kurs-euro-rosnie-9097801.html",
+      "url": "https://www.bankier.pl/wiadomosc/Droga-ropa-uderzyla-w-zlotego-Dolar-mocno-zyskuje-a-kurs-euro-rosnie-9097801.html",
+      "title": "Droga ropa uderzyła w złotego. Dolar mocno zyskuje, a kurs euro rośnie",
+      "content_html": "Powrót notowań ropy naftowej do trzycyfrowych poziomów negatywnie odbił się na kondycji polskiego złotego. Na niekorzyść naszej waluty działa też umacniający się dolar.",
+      "date_published": "2026-03-13T09:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/IKEA-przyspiesza-ekspansje-Nowy-format-sklepow-trafi-do-kolejnych-miast-9097767.html",
+      "url": "https://www.bankier.pl/wiadomosc/IKEA-przyspiesza-ekspansje-Nowy-format-sklepow-trafi-do-kolejnych-miast-9097767.html",
+      "title": "IKEA stawia na mniejszy format. W Polsce powstanie kolejny sklep kompaktowy",
+      "content_html": "Operator sklepów IKEA, Ingka Group, zapowiada otwarcie 20 nowych, mniejszych sklepów w ciągu najbliższych sześciu miesięcy w Europie i Ameryce Północnej. Firma chce być bliżej klientów z mniejszych miast i przedmieść, rozwijając jednocześnie...",
+      "date_published": "2026-03-13T09:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SAFE-Bylismy-na-to-przygotowani-Tusk-Historia-oceni-decyzje-prezydenta-9097804.html",
+      "url": "https://www.bankier.pl/wiadomosc/SAFE-Bylismy-na-to-przygotowani-Tusk-Historia-oceni-decyzje-prezydenta-9097804.html",
+      "title": "\"Byliśmy na to przygotowani\". Tusk: Historia oceni decyzję prezydenta, a weto nas nie zatrzyma",
+      "content_html": "Premier Donald Tusk poinformował w piątek, że rząd przyjmie uchwałę na podstawie, której zostanie zrealizowany program Polska Zbrojna. Będzie trudniej, ale zrobimy; weto prezydenta pod ustawą wdrażającą program SAFE nas nie zatrzyma - oświadczył...",
+      "date_published": "2026-03-13T09:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-dol-Realizacja-zyskow-w-cieniu-wojny-na-Bliskim-Wschodzie-9097808.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-dol-Realizacja-zyskow-w-cieniu-wojny-na-Bliskim-Wschodzie-9097808.html",
+      "title": "Ceny miedzi w dół. Realizacja zysków w cieniu wojny na Bliskim Wschodzie",
+      "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) spada o 1,03 proc. do 12 848 USD za tonę. Analitycy wskazują, że na rynkach odbywa się realizacja zysków wobec niepewności z powodu wojny na Bliskim Wschodzie.",
+      "date_published": "2026-03-13T09:40:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Podaz-obligacji-pod-lupa-MF-Domanski-Sytuacja-jest-bardzo-zmienna-9097768.html",
       "url": "https://www.bankier.pl/wiadomosc/Podaz-obligacji-pod-lupa-MF-Domanski-Sytuacja-jest-bardzo-zmienna-9097768.html",
       "title": "Podaż obligacji pod lupą MF. Domański: Sytuacja jest bardzo zmienna",
@@ -209,7 +244,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Wsrod-wlascicieli-Zabek-dominuje-jedna-plec-Zaskakujace-dane-9097363.html",
       "url": "https://www.bankier.pl/wiadomosc/Wsrod-wlascicieli-Zabek-dominuje-jedna-plec-Zaskakujace-dane-9097363.html",
-      "title": "Wśród właścicieli Żabek dominuje jedna płeć. Zaskakujące dane",
+      "title": "Wśród prowadzących Żabki dominuje jedna płeć. Zaskakujące dane",
       "content_html": "Wśród franczyzobiorców sieci Żabka aż 65% stanowią kobiety, co znacznie przewyższa rynkową średnią dotyczącą działalności gospodarczej – przekazali na spotkaniu z dziennikarzami przedstawiciele tej sieci handlowej. Dyskutowano również...",
       "date_published": "2026-03-13T06:00:00+01:00"
     },
@@ -667,41 +702,6 @@
       "title": "Bilans wojny. Zginęło ponad 1,3 tys. osób, zniszczono niemal 22 tys. budynków",
       "content_html": "Co najmniej 1,3 tys. Irańczyków, w tym kobiety i dzieci poniżej 12. roku życia, zginęło w wyniku trwających od 28 lutego ataków amerykańsko-izraelskich; potwierdzono też zniszczenie 21 720 budynków - wynika z najnowszych wyliczeń Irańskiego...",
       "date_published": "2026-03-12T13:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dostawy-broni-do-Europy-Amerykanie-maja-nowy-priorytet-Kosiniak-Kamysz-Trzeba-sie-z-tym-liczyc-9097219.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dostawy-broni-do-Europy-Amerykanie-maja-nowy-priorytet-Kosiniak-Kamysz-Trzeba-sie-z-tym-liczyc-9097219.html",
-      "title": "Amerykanie mają nowy priorytet. Kosiniak-Kamysz: Trzeba się z tym liczyć",
-      "content_html": "Istnieje poważne ryzyko opóźnień dostaw amerykańskiego sprzętu dla wielu odbiorców w Europie w związku z konfliktem na Bliskim Wschodzie - powiedział w czwartek wicepremier, szef MON Władysław Kosiniak-Kamysz. Wskazał, że chodzi przede wszystkim...",
-      "date_published": "2026-03-12T13:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gornicy-beda-budowac-czolgi-PGG-dostala-specjalna-koncesje-na-50-lat-9097220.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gornicy-beda-budowac-czolgi-PGG-dostala-specjalna-koncesje-na-50-lat-9097220.html",
-      "title": "Górnicy będą budować czołgi. PGG dostała specjalną koncesję na 50 lat",
-      "content_html": "Zakład Remontowo-Produkcyjny Polskiej Grupy Górniczej (ZRP) uzyskał koncesję na produkcję wojskową - poinformowała w czwartek PGG. Koncesja umożliwi zakładowi produkcję np. podwykonawczą, na podstawie porozumienia o współpracy PGG z Polską...",
-      "date_published": "2026-03-12T13:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uderzenie-w-serce-rezimu-Izrael-niszczy-iranski-osrodek-nuklearny-9097197.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uderzenie-w-serce-rezimu-Izrael-niszczy-iranski-osrodek-nuklearny-9097197.html",
-      "title": "Uderzenie w serce reżimu. Izrael niszczy irański ośrodek nuklearny",
-      "content_html": "Armia izraelska zaatakowała położony w rejonie Teheranu obiekt nuklearny, w którym pracowano nad „kluczowymi możliwościami w zakresie rozwoju broni jądrowej” - podał w czwartek portal Times of Israel, powołując się na komunikat Sił Obronnych...",
-      "date_published": "2026-03-12T13:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-oczekuje-orzeczenia-ws-sporu-z-InPostem-na-poczatku-przyszlego-roku-9097217.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-oczekuje-orzeczenia-ws-sporu-z-InPostem-na-poczatku-przyszlego-roku-9097217.html",
-      "title": "Allegro oczekuje orzeczenia ws. sporu z InPostem na początku przyszłego roku",
-      "content_html": "Allegro oczekuje orzeczenia w postępowaniu arbitrażowym z InPostem na początku przyszłego roku - poinformował prezes Allegro Marcin Kuśmierz. Jak ocenił, jest dość spokojny o przyszłość tego postępowania.",
-      "date_published": "2026-03-12T13:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gornicy-pomoga-zbrojeniowce-PGG-z-historyczna-koncesja-na-produkcje-militarna-9097175.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gornicy-pomoga-zbrojeniowce-PGG-z-historyczna-koncesja-na-produkcje-militarna-9097175.html",
-      "title": "Górnicy pomogą zbrojeniówce. PGG z historyczną koncesją na produkcję militarną",
-      "content_html": "Polska Grupa Górnicza uzyskała od Ministra Spraw Wewnętrznych i Administracji koncesję na wytwarzanie i obrót materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym - poinformowała Polska...",
-      "date_published": "2026-03-12T12:57:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
