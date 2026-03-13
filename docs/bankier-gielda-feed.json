@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Action-szacuje-przychody-w-IV-kw-25-na-873-02-mln-zl-a-zysk-netto-na-18-1-mln-zl-9098004.html",
+      "url": "https://www.bankier.pl/wiadomosc/Action-szacuje-przychody-w-IV-kw-25-na-873-02-mln-zl-a-zysk-netto-na-18-1-mln-zl-9098004.html",
+      "title": "Action szacuje przychody w IV kw. '25 na 873,02 mln zł, a zysk netto na 18,1 mln zł Grupa Action szacuje przychody ze sprzedaży w IV kwartale 2025 roku na 873,02 mln zł, a zysk netto na 18,1 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-13T13:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-na-linii-C-E-20-zostal-uniewazniony-9097992.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-na-linii-C-E-20-zostal-uniewazniony-9097992.html",
+      "title": "Wybór oferty konsorcjum Budimeksu w przetargu PKP PLK na linii C-E 20 został unieważniony Wybór oferty konsorcjum, którego liderem jest Budimex, jako najkorzystniejsza w przetargu PKP PLK na zaprojektowanie i wykonanie robót na linii kolejowej C-E 20 na odcinku Czachówek Wschodni - Pilawa wraz z mostem nad Wisłą, został unieważniony - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-13T13:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowe-rekomendacje-dla-Grupy-Orlen-po-wybuchu-wojny-na-Bliskim-Wschodzie-Analitycy-widza-szanse-na-ATH-9097960.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-rekomendacje-dla-Grupy-Orlen-po-wybuchu-wojny-na-Bliskim-Wschodzie-Analitycy-widza-szanse-na-ATH-9097960.html",
+      "title": "Analitycy celują w historyczny szczyt na kursie Orlenu. Wysyp nowych rekomendacji po wybuchu wojny w Zatoce Perskiej Marzec 2026 roku przyniósł serię podwyżek cen docelowych i rekomendacji dla Grupy Orlen, napędzanych rosnącymi marżami rafineryjnymi oraz napiętą sytuacją geopolityczną. Podczas gdy rynek obawia się skutków konfliktu w Iranie i blokady Cieśniny Ormuz, polski gigant energetyczny wyrasta na jednego z beneficjentów rynkowej niepewności.",
+      "content_html": "",
+      "date_published": "2026-03-13T13:10:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielka-baza-danych-o-finansach-Polakow-Sejm-podjal-decyzje-9097918.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielka-baza-danych-o-finansach-Polakow-Sejm-podjal-decyzje-9097918.html",
       "title": "Wielka baza danych o finansach Polaków. Sejm podjął decyzję Sejm uchwalił w piątek nowelizację ustawy o przekazywaniu danych do europejskiego pojedynczego punktu dostępu. Dostosowuje ona polskie prawo do przepisów UE przewidujących powstanie platformy internetowej zapewniającej informacje o podmiotach finansowych.",
@@ -513,13 +534,6 @@
       "title": "W '26 rekordowe ponad 5 mld zł nakładów inwestycyjnych w PGE Dystrybucja m.in. dzięki KPO - Lubera PGE otrzymało już 20 mld zł z KPO, z czego ponad 12 mld zostało przeznaczonych dla PGE Dystrybucja - poinformował prezes PGE Dariusz Lubera przy okazji podpisania umowy z NFOŚiGW na 1,4 mld zł z KPO dla PGE Dystrybucja. Dodał, że m.in. dzięki tym środkom PGE Dystrybucja pobije w tym roku rekord nakładów inwestycyjnych - na ponad 5 mld zł.",
       "content_html": "",
       "date_published": "2026-03-11T15:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-USA-w-lutym-2026-roku-Marcowy-odczyt-bedzie-wyraznie-wyzszy-9096513.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-USA-w-lutym-2026-roku-Marcowy-odczyt-bedzie-wyraznie-wyzszy-9096513.html",
-      "title": "Inflacja w USA szykuje się do startu. Lutowy odczyt bez znaczenia i bez zaskoczenia Lutowa inflacja CPI grzecznie wpisała się w oczekiwania ekonomistów, zaś inflacja bazowa utrzymała się na najniższym poziomie od 5 lat.",
-      "content_html": "",
-      "date_published": "2026-03-11T13:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
