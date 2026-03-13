@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/SIU-ma-uruchomic-dlugoterminowy-kapital-i-podniesc-akceptacje-ryzyka-prezes-PFR-TFI-wywiad-9097908.html",
+      "url": "https://www.bankier.pl/wiadomosc/SIU-ma-uruchomic-dlugoterminowy-kapital-i-podniesc-akceptacje-ryzyka-prezes-PFR-TFI-wywiad-9097908.html",
+      "title": "WYWIAD Prezes PFR TFI: SIU ma uruchomić długoterminowy kapitał i podnieść akceptację ryzyka Europa ma wysoki poziom oszczędności, ale za mało kapitału długoterminowego dla innowacji i skalowania firm. Savings & Investment Union (SIU) ma zintegrować rynki, obniżyć koszty i zwiększyć udział finansowania rynkowego w gospodarce.",
+      "content_html": "",
+      "date_published": "2026-03-13T12:04:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Na-OKI-poczekamy-sobie-dluzej-MF-zabiera-glos-9097858.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-OKI-poczekamy-sobie-dluzej-MF-zabiera-glos-9097858.html",
       "title": "Na OKI poczekamy sobie dłużej. MF zabiera głos Planowane wejście w życie ustawy o osobistych kontach inwestycyjnych (OKI) zostało przesunięte na 1 stycznia 2027 r. - poinformowało Ministerstwo Finansów w stanowisku do uwag zgłoszonych do projektu ustawy. Wielokrotnie obiecywany termin 1 lipca 2026 r. okazał się niestety nierealny.",
@@ -513,20 +520,6 @@
       "title": "Compensa stawia na ubezpieczenia zdrowotne i chce mieć pół miliona klientów do 2028 roku Compensa zapowiada ekspansję w segmencie ubezpieczeń zdrowotnych – nowa strategia na lata 2026-2030 zakłada, że do 2028 roku firma będzie miała co najmniej pół miliona klientów w obszarze zdrowia - podała Compensa w komunikacie prasowym. Ubezpieczyciel zapowiedział rozwój oferty dla klientów indywidualnych i firm.",
       "content_html": "",
       "date_published": "2026-03-11T12:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-105-lokali-w-Krakowie-9096452.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-wprowadzil-do-sprzedazy-105-lokali-w-Krakowie-9096452.html",
-      "title": "Dom Development wprowadził do sprzedaży 105 lokali w Krakowie Dom Development rozpoczął sprzedaż mieszkań w ostatnim etapie Apartamentów Park Matecznego w Krakowie. W dwóch budynkach powstanie 105 lokali - poinformował deweloper w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-03-11T12:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nalezaca-do-Grupy-MOL-chorwacka-INA-zakonczyla-modernizacje-rafinerii-w-Rijece-9096429.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nalezaca-do-Grupy-MOL-chorwacka-INA-zakonczyla-modernizacje-rafinerii-w-Rijece-9096429.html",
-      "title": "Należąca do Grupy MOL chorwacka INA zakończyła modernizację rafinerii w Rijece Należąca do Grupy MOL chorwacka INA zakończyła modernizację rafinerii w Rijece - podał MOL w komunikacie prasowym. Projekt o wartości blisko 700 mln euro to największa pojedyncza inwestycja w historii INA.",
-      "content_html": "",
-      "date_published": "2026-03-11T11:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
