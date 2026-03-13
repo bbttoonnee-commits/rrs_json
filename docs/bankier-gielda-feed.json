@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-prezes-chce-budowac-nowa-Grupe-Azoty-pracuje-nad-dodatkowym-zrodlem-przychodow-wywiad-9097729.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-prezes-chce-budowac-nowa-Grupe-Azoty-pracuje-nad-dodatkowym-zrodlem-przychodow-wywiad-9097729.html",
+      "title": "Nowy prezes chce budować \"nową Grupę Azoty\", pracuje nad dodatkowym źródłem przychodów Nowy prezes chce budowy „nowej Grupy Azoty”, powstałej po konsolidacji i restrukturyzacji, zasilanej dodatkowym źródłem przychodów. Marcin Celejewski w rozmowie z PAP Biznes zapowiada nowe kierunki rozwoju, ale najpierw konieczne jest uporządkowanie relacji z bankami i sprzedaż Polimerów Police.",
+      "content_html": "",
+      "date_published": "2026-03-13T06:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-mierzy-sie-z-sytuacja-w-nawozach-rozmawia-z-Orlenem-o-polityce-gazowej-wywiad-9097728.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-mierzy-sie-z-sytuacja-w-nawozach-rozmawia-z-Orlenem-o-polityce-gazowej-wywiad-9097728.html",
+      "title": "WYWIAD Grupa Azoty mierzy się z sytuacją w nawozach, rozmawia z Orlenem o polityce gazowej Grupa Azoty mierzy się z niestabilną sytuacją na rynku nawozów, wynikającą przede wszystkim z wahań cen gazu po wybuchu konfliktu na Bliskim Wschodzie i silnej presji konkurencyjnej spoza UE. Prezes Marcin Celejewski mówi o rozmowach z Orlenem w sprawie większej elastyczności w polityce gazowej.",
+      "content_html": "",
+      "date_published": "2026-03-13T06:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/USA-i-Iran-podpalili-rope-Kolany-Skonczyl-sie-okres-dezinflacji-9097500.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-i-Iran-podpalili-rope-Kolany-Skonczyl-sie-okres-dezinflacji-9097500.html",
       "title": "\"GPW\" USA i Iran podpalili ropę. Kolany: Skończył się okres dezinflacji Ropa znów stała się paliwem globalnego strachu. Wystarczyło kilka uderzeń, groźba blokady cieśniny Ormuz i rynek natychmiast przypomniał sobie, jak wygląda prawdziwy szok naftowy. Stawką nie są już tylko notowania surowca, ale ceny paliw, inflacja i kondycja całej gospodarki. Czy grozi nam powtórka z największych kryzysów energetycznych? O tym w najnowszym odcinku „Gospodarczego Punktu Widzenia\" Aleksander Ogrodnik rozmawia z Krzysztofem Kolanym, głównym analitykiem Bankier.pl.",
@@ -548,20 +562,6 @@
       "title": "Molecure ocenia, że przeprowadzenie analizy cząstkowej w badaniu KITE będzie możliwe w poł. '26 Molecure ocenia, że w badaniu klinicznym KITE (program rozwoju OATD-01) możliwe będzie przeprowadzenie analizy cząstkowej (interim analysis) wraz z uzyskaniem jej wyników w połowie 2026 r. - poinformowała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-03-11T08:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drony-i-radary-z-Polski-Polskie-firmy-podbijaja-rynek-defense-9096267.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drony-i-radary-z-Polski-Polskie-firmy-podbijaja-rynek-defense-9096267.html",
-      "title": "Drony i radary z Polski. Cywilne firmy podbijają rynek defense Polskie przedsiębiorstwa coraz częściej rozwijają technologie, które mogą być wykorzystywane zarówno w sektorze cywilnym, jak i wojskowym. Wojna w Ukrainie przyspieszyła ten trend, pokazując znaczenie...",
-      "content_html": "",
-      "date_published": "2026-03-11T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
-      "url": "https://www.bankier.pl/wiadomosc/PIP-nakazala-JSW-wyplate-pozostalej-czesci-nagrody-z-okazji-Dnia-Gornika-oraz-ekwiwalentu-barborkowego-za-25-9096275.html",
-      "title": "PIP nakazuje JSW wypłatę zaległej \"barbórki\" mimo kryzysu płynności Do JSW wpłynął nakaz wydany przez Inspektora Okręgowego Inspektoratu Pracy w Katowicach, zgodnie z którym Państwowa Inspekcja Pracy nakazała JSW dokonanie wypłaty pozostałej części nagrody z okazji \"Dnia Górnika\" oraz ekwiwalentu barbórkowego za 2025 rok - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-11T06:56:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
