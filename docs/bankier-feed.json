@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-konkurent-Energylandii-rosnie-na-Slasku-Inwestor-odkrywa-karty-ws-parku-rozrywki-9098405.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-konkurent-Energylandii-rosnie-na-Slasku-Inwestor-odkrywa-karty-ws-parku-rozrywki-9098405.html",
+      "title": "Nowy konkurent Energylandii rośnie na Śląsku. Inwestor odkrywa karty ws. parku rozrywki",
+      "content_html": "W Gliwicach rośnie nowa potęga na mapie polskiej rozrywki. Inwestycja, która od miesięcy budziła emocje wśród mieszkańców i analityków branży turystycznej, wchodzi w decydującą fazę. Inwestor właśnie odkrył karty: znamy dokładną datę...",
+      "date_published": "2026-03-14T09:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Co-dalej-ze-sklepami-Auchan-Gigantyczna-sprzedaz-portfela-nieruchomosci-9098398.html",
       "url": "https://www.bankier.pl/wiadomosc/Co-dalej-ze-sklepami-Auchan-Gigantyczna-sprzedaz-portfela-nieruchomosci-9098398.html",
       "title": "Co dalej ze sklepami Auchan? Gigantyczna sprzedaż portfela nieruchomości",
@@ -695,13 +702,6 @@
       "title": "Trump Vodka w Rosji? \"Taka marka nie może się marnować\"",
       "content_html": "Rosyjska wytwórnia alkoholi Kristall z obwodu kałuskiego podjęła kroki prawne, aby wprowadzić na rynek markę wódki i ginu sygnowaną nazwiskiem prezydenta USA, Donalda Trumpa. Firma złożyła wniosek do rosyjskiego sądu własności intelektualnej...",
       "date_published": "2026-03-13T11:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-rozwodach-Koniec-z-koniecznoscia-wizyty-w-sadzie-9097885.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-rozwodach-Koniec-z-koniecznoscia-wizyty-w-sadzie-9097885.html",
-      "title": "Przełom w rozwodach. Koniec z koniecznością wizyty w sądzie",
-      "content_html": "Sejm uchwalił w piątek rządową nowelizację Kodeksu rodzinnego i opiekuńczego, której celem jest wprowadzenie do polskiego prawa możliwości pozasądowego rozwiązania małżeństwa.",
-      "date_published": "2026-03-13T11:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
