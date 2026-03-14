@@ -11,6 +11,13 @@
       "date_published": "2026-03-15T08:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Armia-USA-wymienia-arsenal-Po-raz-pierwszy-od-1968-r-wprowadza-nowy-granat-9096892.html",
+      "url": "https://www.bankier.pl/wiadomosc/Armia-USA-wymienia-arsenal-Po-raz-pierwszy-od-1968-r-wprowadza-nowy-granat-9096892.html",
+      "title": "Armia USA wymienia arsenał. Po raz pierwszy od 1968 r. wprowadza nowy granat",
+      "content_html": "Armia Stanów Zjednoczonych po niemal sześćdziesięciu latach zrezygnowała ze starego granatu odłamkowego Mk3A2 i zatwierdziła do służby nowy ofensywny granat ręczny M111, o czym poinformowała na swojej oficjalnej stronie Army.mil.",
+      "date_published": "2026-03-14T21:13:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Iran-grozi-Ukrainie-atakiem-twierdzac-ze-przystapila-do-wojny-wspierajac-Izrael-9098472.html",
       "url": "https://www.bankier.pl/wiadomosc/Iran-grozi-Ukrainie-atakiem-twierdzac-ze-przystapila-do-wojny-wspierajac-Izrael-9098472.html",
       "title": "Iran grozi Ukrainie atakiem, twierdząc, że przystąpiła do wojny, wspierając Izrael",
@@ -23,6 +30,13 @@
       "title": "Radykalny ruch Xi Jinpinga. Nowe przepisy dzielą rodziny",
       "content_html": "Chiński fasadowy parlament przyjął niemal jednomyślnie w czwartek ustawę o „jedności etnicznej”, która zdaniem obrońców praw człowieka sformalizuje przymusową asymilację mniejszości. Przepisy nakazują m.in. używanie mandaryńskiego...",
       "date_published": "2026-03-14T20:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Partia-sprzedawala-tanie-paliwo-w-ramach-kampanii-wyborczej-9098489.html",
+      "url": "https://www.bankier.pl/wiadomosc/Partia-sprzedawala-tanie-paliwo-w-ramach-kampanii-wyborczej-9098489.html",
+      "title": "Partia sprzedawała tanie paliwo w ramach kampanii wyborczej",
+      "content_html": "Skrajnie prawicowa Duńska Partia Ludowa sprzedawała w sobotę tanie paliwo na siedmiu stacjach benzynowych w Danii. Niecodzienna akcja - to kampania wyborcza przed wyznaczonymi na 24 marca wyborami parlamentarnymi.",
+      "date_published": "2026-03-14T20:21:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/90-proc-gospodarstw-w-Polsce-ma-mniej-niz-30-ha-Paradoks-polskiego-sektora-rolnego-9096284.html",
@@ -142,6 +156,13 @@
       "title": "Fatalne rady medyczne ChataGPT. Uspokaja zamiast zalecać pójście do lekarza",
       "content_html": "Chatbot medyczny ChatGPT Health - nowe, ale już popularne narzędzie sztucznej inteligencji udzielające użytkownikom porad zdrowotnych - nie zaleca wizyty w szpitalu w ponad połowie przypadków, w których jest ona konieczna - wynika z badania opublikowanego...",
       "date_published": "2026-03-14T15:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/TSUE-stawia-sprawe-jasno-Plec-w-dokumentach-musi-byc-zgodna-z-tranzycja-9097183.html",
+      "url": "https://www.bankier.pl/wiadomosc/TSUE-stawia-sprawe-jasno-Plec-w-dokumentach-musi-byc-zgodna-z-tranzycja-9097183.html",
+      "title": "TSUE stawia sprawę jasno. Płeć w dokumentach musi być zgodna z tranzycją",
+      "content_html": "Przepisy państwa członkowskiego, które nie pozwalają dokonać zmiany danych dotyczących płci obywatela, są niezgodne z prawem Unii i mogą naruszać prawo do swobodnego przemieszczania się tej osoby – orzekł w czwartek Trybunał Sprawiedliwości...",
+      "date_published": "2026-03-14T14:54:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kolejne-weto-prezydenta-Tym-razem-chodzi-o-reforme-procedury-karnej-9098214.html",
@@ -681,13 +702,6 @@
       "title": "Sejm wybrał nowych sędziów Trybunału Konstytucyjnego",
       "content_html": "Sejm wybrał w piątek sześcioro sędziów Trybunału Konstytucyjnego - wszyscy to osoby, których kandydatury zostały zgłoszone przez Prezydium Sejmu. Poparcia nie zyskali dwaj kandydaci zgłoszeni przez klub PiS.",
       "date_published": "2026-03-13T15:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/TDJ-Equity-I-nabyl-27-714-269-akcji-Grenevii-w-ramach-przymusowego-wykupu-9098105.html",
-      "url": "https://www.bankier.pl/wiadomosc/TDJ-Equity-I-nabyl-27-714-269-akcji-Grenevii-w-ramach-przymusowego-wykupu-9098105.html",
-      "title": "TDJ Equity I nabył 27.714.269 akcji Grenevii w ramach przymusowego wykupu",
-      "content_html": "TDJ Equity I nabył łącznie 27.714.269 akcji Grenevii w ramach przymusowego wykupu akcji - podała Grenevia w komunikacie.",
-      "date_published": "2026-03-13T15:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
