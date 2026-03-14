@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tanio-juz-bylo-olej-napedowy-najdrozszy-od-3-lat-Orlen-cenniejszy-od-Gazpromu-a-naftowy-kolos-pompuje-miliardy-petrodolarow-9097027.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tanio-juz-bylo-olej-napedowy-najdrozszy-od-3-lat-Orlen-cenniejszy-od-Gazpromu-a-naftowy-kolos-pompuje-miliardy-petrodolarow-9097027.html",
+      "title": "WYKRESY TYGODNIA Tanio już było: olej napędowy najdroższy od 3 lat, Orlen cenniejszy od Gazpromu, a naftowy kolos pompuje miliardy petrodolarów Podczas gdy polscy kierowcy mierzą się z najwyższymi cenami oleju napędowego od lat, krajowy czempion energetyczny, Grupa Orlen, przegania rynkową wyceną rosyjski Gazprom. I choć inflacja w lutym dała nam chwilę oddechu, to prognozy na marzec nie zostawiają złudzeń: taniej już było. W minionym tygodniu emocji w gospodarce nie brakowało. Zapraszamy zatem na tradycyjny podsumowanie ostatnich dni na wykresach.",
+      "content_html": "",
+      "date_published": "2026-03-14T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bartosz-Kublik-odwolany-z-funkcji-prezesa-BOS-9098313.html",
       "url": "https://www.bankier.pl/wiadomosc/Bartosz-Kublik-odwolany-z-funkcji-prezesa-BOS-9098313.html",
       "title": "Bartosz Kublik odwołany z funkcji prezesa BOŚ Bartosz Kublik został odwołany przez radę nadzorczą z funkcji prezesa Banku Ochrony Środowiska - poinformował BOŚ w komunikacie.",
@@ -443,13 +450,6 @@
       "title": "Ekspansja międzynarodowa napędza Allegro. Wartość sprzedaży za granicą w górę o 30 proc. W I kwartale grupa Allegro notuje wzrost GMV o 10 proc. - podała spółka w prezentacji.",
       "content_html": "",
       "date_published": "2026-03-12T06:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-wzrost-skorygowanego-zysku-EBITDA-grupy-w-2026-r-o-9-13-proc-9096970.html",
-      "title": "Allegro odkrywa karty na 2026 rok. Miliard złotych na inwestycje i wzrost zysku Allegro.eu zakłada wzrost skorygowanego zysku EBITDA grupy w 2026 roku o 9-13 proc. rdr, a skonsolidowany CAPEX szacuje na 1,04 - 1,15 mld zł - poinformowała spółka w prezentacji.",
-      "content_html": "",
-      "date_published": "2026-03-12T06:08:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
