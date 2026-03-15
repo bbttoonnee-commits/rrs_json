@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ataki-Iranu-na-Tel-Awiw-Sa-trafienia-odlamki-uszkodzily-dom-konsula-USA-w-Jerozolimie-9098593.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ataki-Iranu-na-Tel-Awiw-Sa-trafienia-odlamki-uszkodzily-dom-konsula-USA-w-Jerozolimie-9098593.html",
+      "title": "Ataki Iranu na Tel Awiw. Są trafienia, odłamki uszkodziły dom konsula USA w Jerozolimie",
+      "content_html": "Podczas irańskiego ataku rakietowego na Tel Awiw doszło do kilku trafień, a w sobotę odłamki uszkodziły rezydencję amerykańskiego konsula w Jerozolimie – podały w niedzielę media izraelskie. Iran twierdzi, że przeprowadził też ataki dronami...",
+      "date_published": "2026-03-15T15:55:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/TSUE-orzekl-na-niekorzysc-rosyjskiej-spolki-i-bialoruskiego-biznesmena-9097368.html",
       "url": "https://www.bankier.pl/wiadomosc/TSUE-orzekl-na-niekorzysc-rosyjskiej-spolki-i-bialoruskiego-biznesmena-9097368.html",
       "title": "TSUE orzekł na niekorzyść rosyjskiej spółki i białoruskiego biznesmena",
       "content_html": "Trybunał Sprawiedliwości UE uznał, że posiadająca kwity depozytowe rosyjska spółka SBK Art jest pozbawiona prawa głosu na zgromadzeniu walnym z powodu sankcji. Orzekł też, że aktywa litewskiej spółki EM System mogą być zamrożone, ponieważ...",
       "date_published": "2026-03-15T15:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izrael-zatwierdzil-827-mln-dolarow-na-pilne-zakupy-wojskowe-9098587.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-zatwierdzil-827-mln-dolarow-na-pilne-zakupy-wojskowe-9098587.html",
+      "title": "Izrael zatwierdził 827 mln dolarów na „pilne” zakupy wojskowe",
+      "content_html": "Izraelski rząd zatwierdził w niedzielę 827 mln dolarów na „pilne” zakupy wojskowe – poinformowała agencja AFP, powołując się na izraelskie media. Według dziennika „Haarec” wysokość kwoty ustalono na posiedzeniu w nocy z piątku na...",
+      "date_published": "2026-03-15T15:10:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pustynna-pulapka-i-przerwane-mosty-Nowa-rzeczywistosc-rosyjskiej-turystyki-9097889.html",
@@ -142,6 +156,13 @@
       "title": "Urzędnicy w Polsce korzystają z AI. Koniec z rutyną i stosem dokumentów?",
       "content_html": "Niemal połowa pracowników urzędów w Polsce korzysta z narzędzi generatywnej sztucznej inteligencji do realizacji zadań zawodowych - wynika z raportu NASK omówionego przez Polski Instytut Ekonomiczny (PIE). 16 proc. urzędników obawia się, że...",
       "date_published": "2026-03-15T08:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Straznicy-Rewolucji-Bedziemy-scigac-i-zabijemy-izraelskiego-premiera-Netanjahu-9098549.html",
+      "url": "https://www.bankier.pl/wiadomosc/Straznicy-Rewolucji-Bedziemy-scigac-i-zabijemy-izraelskiego-premiera-Netanjahu-9098549.html",
+      "title": "Strażnicy Rewolucji: Będziemy ścigać i zabijemy izraelskiego premiera Netanjahu",
+      "content_html": "Irański Korpus Strażników Rewolucji Islamskiej zapowiedział w niedzielę, że będzie „ścigać i zabije” premiera Izraela Benjamina Netanjahu – podała agencja AFP.",
+      "date_published": "2026-03-15T08:33:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Doswiadczenia-z-dziecinstwa-zmieniaja-sposob-w-jaki-pomagamy-innym-9098538.html",
@@ -681,13 +702,6 @@
       "title": "Irańskie pociski nad Turcją. \"Nie damy się wciągnąć w nieswoją wojnę\"",
       "content_html": "Prezydent Turcji Recep Tayyip Erdogan oświadczył w piątek, że nie pozwoli, by jego kraj „został wciągnięty w nieswoją wojnę”. Podkreślił, że toczą ją Izrael i USA z Iranem, a irańskie pociski przechwycone w tureckiej przestrzeni powietrznej...",
       "date_published": "2026-03-13T21:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sad-w-USA-zablokowal-sledztwo-przeciwko-szefowi-Fed-Jerome-owi-Powellowi-9098296.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sad-w-USA-zablokowal-sledztwo-przeciwko-szefowi-Fed-Jerome-owi-Powellowi-9098296.html",
-      "title": "Sąd w USA zablokował śledztwo przeciwko szefowi Fed Jerome'owi Powellowi",
-      "content_html": "Sędzia federalny w Waszyngtonie zablokował wystawione przez prokuraturę wezwania kierownictwa Rezerwy Federalnej do złożenia zeznań w śledztwie przeciwko jej prezesowi Jerome'owi Powellowi. Sędzia zarzucił administracji Donalda Trumpa motywację...",
-      "date_published": "2026-03-13T21:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
