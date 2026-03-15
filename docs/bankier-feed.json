@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html",
+      "title": "Dziesiątki tysięcy osób na „Marszu Pokoju” premiera Orbana. Padły ostre słowa o UE",
+      "content_html": "Dziesiątki tysięcy osób dołączyło w niedzielę do organizowanego w Budapeszcie przez premiera Węgier Viktora Orbana „Marszu Pokoju”. Węgrzy obchodzą tego dnia Święto Narodowe, upamiętniające rewolucję z 1848 roku.",
+      "date_published": "2026-03-15T16:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Premier-Polexit-to-dzisiaj-realne-zagrozenie-9098608.html",
+      "url": "https://www.bankier.pl/wiadomosc/Premier-Polexit-to-dzisiaj-realne-zagrozenie-9098608.html",
+      "title": "Premier: Polexit to dzisiaj realne zagrożenie",
+      "content_html": "Szef rządu Donald Tusk ocenił w niedzielę, że polexit to dzisiaj realne zagrożenie. Dodał, że polexitu pragną obie konfederacje i większość PiS, a prezydent Karol Nawrocki jest ich patronem. Zaznaczył, że zrobi wszystko, żeby ich powstrzymać...",
+      "date_published": "2026-03-15T16:41:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pieniadze-ze-starego-depozytu-Symboliczna-kwota-zamienila-sie-w-fortune-9098606.html",
       "url": "https://www.bankier.pl/wiadomosc/Pieniadze-ze-starego-depozytu-Symboliczna-kwota-zamienila-sie-w-fortune-9098606.html",
       "title": "Pieniądze ze starego depozytu. Symboliczna kwota zamieniła się w fortunę",
@@ -30,6 +44,13 @@
       "title": "Ataki Iranu na Tel Awiw. Są trafienia, odłamki uszkodziły dom konsula USA w Jerozolimie",
       "content_html": "Podczas irańskiego ataku rakietowego na Tel Awiw doszło do kilku trafień, a w sobotę odłamki uszkodziły rezydencję amerykańskiego konsula w Jerozolimie – podały w niedzielę media izraelskie. Iran twierdzi, że przeprowadził też ataki dronami...",
       "date_published": "2026-03-15T15:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wisla-przyplynely-na-barkach-dwie-gigantyczne-kolumny-dla-Orlenu-9098612.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wisla-przyplynely-na-barkach-dwie-gigantyczne-kolumny-dla-Orlenu-9098612.html",
+      "title": "Wisłą przypłynęły na barkach dwie gigantyczne kolumny dla Orlenu",
+      "content_html": "Dwie potężne kolumny o wadze po około 555 i 288 ton, przeznaczone dla petrochemicznej inwestycji w zakładzie głównym Orlenu, przypłynęły w niedzielę Wisłą do Płocka (Mazowieckie) na specjalnych barkach. Wcześniej drogą morską dotarły...",
+      "date_published": "2026-03-15T15:51:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/TSUE-orzekl-na-niekorzysc-rosyjskiej-spolki-i-bialoruskiego-biznesmena-9097368.html",
@@ -681,13 +702,6 @@
       "title": "Ropa opłacona w juanach przepłynie przez Ormuz?",
       "content_html": "Iran rozważa możliwość pozwolenia na przejście przez cieśninę Ormuz ograniczonej liczbie tankowców, jeśli ich załadunek jest rozliczany w chińskich juanach - poinformowała w piątek stacja CNN, powołując się na wysokiego rangą irańskiego...",
       "date_published": "2026-03-13T23:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gieldy-koncza-nerwowy-tydzien-umiarkowanymi-spadkami-9098331.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gieldy-koncza-nerwowy-tydzien-umiarkowanymi-spadkami-9098331.html",
-      "title": "Giełdy kończą nerwowy tydzień umiarkowanymi spadkami",
-      "content_html": "Piątkowa sesja na Wall Street zakończyła się umiarkowanymi spadkami głównych indeksów, a inwestorzy nadal z niepokojem obserwowali rosnące ceny ropy naftowej. To już trzeci spadkowy tydzień dla amerykańskich giełd z rzędu.",
-      "date_published": "2026-03-13T23:01:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

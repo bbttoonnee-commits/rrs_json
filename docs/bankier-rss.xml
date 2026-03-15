@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 15 Mar 2026 16:31:00 +0100</lastBuildDate>
-    <item>
-      <title>Giełdy kończą nerwowy tydzień umiarkowanymi spadkami</title>
-      <link>https://www.bankier.pl/wiadomosc/Gieldy-koncza-nerwowy-tydzien-umiarkowanymi-spadkami-9098331.html</link>
-      <description>Piątkowa sesja na Wall Street zakończyła się umiarkowanymi spadkami głównych indeksów, a inwestorzy nadal z niepokojem obserwowali rosnące ceny ropy naftowej. To już trzeci spadkowy tydzień dla amerykańskich giełd z rzędu.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Gieldy-koncza-nerwowy-tydzien-umiarkowanymi-spadkami-9098331.html</guid>
-      <pubDate>Fri, 13 Mar 2026 23:01:00 +0100</pubDate>
-    </item>
+    <lastBuildDate>Sun, 15 Mar 2026 16:47:00 +0100</lastBuildDate>
     <item>
       <title>Ropa opłacona w juanach przepłynie przez Ormuz?</title>
       <link>https://www.bankier.pl/wiadomosc/Ropa-oplacona-w-juanach-przeplynie-przez-Ormuz-9098335.html</link>
@@ -668,6 +661,13 @@
       <pubDate>Sun, 15 Mar 2026 15:45:00 +0100</pubDate>
     </item>
     <item>
+      <title>Wisłą przypłynęły na barkach dwie gigantyczne kolumny dla Orlenu</title>
+      <link>https://www.bankier.pl/wiadomosc/Wisla-przyplynely-na-barkach-dwie-gigantyczne-kolumny-dla-Orlenu-9098612.html</link>
+      <description>Dwie potężne kolumny o wadze po około 555 i 288 ton, przeznaczone dla petrochemicznej inwestycji w zakładzie głównym Orlenu, przypłynęły w niedzielę Wisłą do Płocka (Mazowieckie) na specjalnych barkach. Wcześniej drogą morską dotarły...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wisla-przyplynely-na-barkach-dwie-gigantyczne-kolumny-dla-Orlenu-9098612.html</guid>
+      <pubDate>Sun, 15 Mar 2026 15:51:00 +0100</pubDate>
+    </item>
+    <item>
       <title>Ataki Iranu na Tel Awiw. Są trafienia, odłamki uszkodziły dom konsula USA w Jerozolimie</title>
       <link>https://www.bankier.pl/wiadomosc/Ataki-Iranu-na-Tel-Awiw-Sa-trafienia-odlamki-uszkodzily-dom-konsula-USA-w-Jerozolimie-9098593.html</link>
       <description>Podczas irańskiego ataku rakietowego na Tel Awiw doszło do kilku trafień, a w sobotę odłamki uszkodziły rezydencję amerykańskiego konsula w Jerozolimie – podały w niedzielę media izraelskie. Iran twierdzi, że przeprowadził też ataki dronami...</description>
@@ -694,6 +694,20 @@
       <description>Mieszkaniec północy Włoch dowiedział się, że symboliczny wkład w wysokości tysiąca lirów, złożony ponad 60 lat temu przez jego rodziców w kasie oszczędnościowej, ma obecnie wartość około 50 tysięcy euro. Dokument w sprawie depozytu...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pieniadze-ze-starego-depozytu-Symboliczna-kwota-zamienila-sie-w-fortune-9098606.html</guid>
       <pubDate>Sun, 15 Mar 2026 16:31:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Premier: Polexit to dzisiaj realne zagrożenie</title>
+      <link>https://www.bankier.pl/wiadomosc/Premier-Polexit-to-dzisiaj-realne-zagrozenie-9098608.html</link>
+      <description>Szef rządu Donald Tusk ocenił w niedzielę, że polexit to dzisiaj realne zagrożenie. Dodał, że polexitu pragną obie konfederacje i większość PiS, a prezydent Karol Nawrocki jest ich patronem. Zaznaczył, że zrobi wszystko, żeby ich powstrzymać...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Premier-Polexit-to-dzisiaj-realne-zagrozenie-9098608.html</guid>
+      <pubDate>Sun, 15 Mar 2026 16:41:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Dziesiątki tysięcy osób na „Marszu Pokoju” premiera Orbana. Padły ostre słowa o UE</title>
+      <link>https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html</link>
+      <description>Dziesiątki tysięcy osób dołączyło w niedzielę do organizowanego w Budapeszcie przez premiera Węgier Viktora Orbana „Marszu Pokoju”. Węgrzy obchodzą tego dnia Święto Narodowe, upamiętniające rewolucję z 1848 roku.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html</guid>
+      <pubDate>Sun, 15 Mar 2026 16:47:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
