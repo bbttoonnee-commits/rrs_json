@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-moze-byc-o-15-proc-bogatsza-Bank-Swiatowy-wskazuje-jeden-warunek-9097043.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-moze-byc-o-15-proc-bogatsza-Bank-Swiatowy-wskazuje-jeden-warunek-9097043.html",
+      "title": "Polska może być o 15 proc. bogatsza? Bank Światowy wskazuje jeden warunek Bułgaria, Chorwacja, Polska i Rumunia mogą zwiększyć produktywność pracy o 10 do 15 procent dzięki szerszemu wdrażaniu technologii cyfrowych, zwłaszcza oprogramowania i narzędzi opartych na AI - wynika z raportu Banku Światowego.",
+      "content_html": "",
+      "date_published": "2026-03-15T09:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Interwencja-na-rynku-ropy-wywola-katastrofe-Rosna-tez-obawy-o-sektor-wyceniany-na-1-8-bln-dolarow-9098465.html",
       "url": "https://www.bankier.pl/wiadomosc/Interwencja-na-rynku-ropy-wywola-katastrofe-Rosna-tez-obawy-o-sektor-wyceniany-na-1-8-bln-dolarow-9098465.html",
       "title": "O TYM MÓWI WALL STREET „Interwencja na rynku ropy wywoła katastrofę”. Rosną też obawy o sektor wyceniany na 1,8 bln dolarów „Impreza stała się zbyt głośna, a drzwi są za wąskie” – tak eksperci opisują dziś sytuację na rynku długu prywatnego, który zaczyna mieć problemy z płynnością. Równolegle Wall Street z rosnącym niepokojem patrzy na Bliski Wschód, ostrzegając administrację USA przed rynkową i polityczną katastrofą w przypadku ręcznego sterowania cenami paliw.",
@@ -177,20 +184,6 @@
       "title": "Lutowa inflacja najniższa od blisko 2 lat. Ale marcowa będzie znacznie wyższa W skali roku ceny dóbr konsumpcyjnych rosły najwolniej od marca 2024 roku. Niestety wiemy już, że marcowa inflacja będzie wyraźnie wyższa od lutowej.",
       "content_html": "",
       "date_published": "2026-03-13T10:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podaz-obligacji-pod-lupa-MF-Domanski-Sytuacja-jest-bardzo-zmienna-9097768.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podaz-obligacji-pod-lupa-MF-Domanski-Sytuacja-jest-bardzo-zmienna-9097768.html",
-      "title": "Podaż obligacji pod lupą MF. Domański: Sytuacja jest bardzo zmienna MF będzie dostosowywało podaż obligacji do warunków rynkowych - poinformował w Programie I Polskiego Radia minister finansów i gospodarki Andrzej Domański. W tle jest m.in. prezydenckie weto ws. unijnego programu SAFE i dyskusja o źródłach finansowania modernizacji polskiej armii.",
-      "content_html": "",
-      "date_published": "2026-03-13T09:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-ZUE-o-wartosci-780-8-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9097774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-ZUE-o-wartosci-780-8-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9097774.html",
-      "title": "Oferta ZUE o wartości 780,8 mln zł netto najkorzystniejsza w przetargu PKP PLK Oferta ZUE o wartości 780,8 mln zł netto została uznana za najkorzystniejszą w przetargu PKP PLK na opracowanie projektu wykonawczego i wykonanie robót budowlanych - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-13T08:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
