@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pustynna-pulapka-i-przerwane-mosty-Nowa-rzeczywistosc-rosyjskiej-turystyki-9097889.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pustynna-pulapka-i-przerwane-mosty-Nowa-rzeczywistosc-rosyjskiej-turystyki-9097889.html",
+      "title": "Pustynna pułapka i przerwane mosty. Nowa rzeczywistość rosyjskiej turystyki",
+      "content_html": "Wiosenny sezon turystyczny w 2026 roku, który miał być dla rosyjskiej branży biur podróży czasem ostatecznego odbicia po latach rynkowych zawirowań, zamienił się w jeden z najbardziej dramatycznych kryzysów logistycznych ostatniej dekady. Nagła...",
+      "date_published": "2026-03-15T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zetki-rezygnuja-ze-zwiazkow-i-dzieci-Niepokojacy-raport-o-mlodych-Polakach-9097132.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zetki-rezygnuja-ze-zwiazkow-i-dzieci-Niepokojacy-raport-o-mlodych-Polakach-9097132.html",
+      "title": "Zetki rezygnują ze związków i dzieci. Niepokojący raport o młodych Polakach",
+      "content_html": "Polscy nastolatkowie są zestresowani, przeciążeni, mają lęk przed porażka zawodową. Młodzi dorośli później wchodzą w dorosłość, nie mają stabilnego poczucia własnej wartości, rzadziej wchodzą w związki. Jednocześnie Pokolenie Z optymistycznie...",
+      "date_published": "2026-03-15T11:31:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/36-proc-Amerykanow-nie-stac-na-oplacenie-wizyty-u-lekarza-Koszty-leczenia-w-USA-wymknely-sie-spod-kontroli-9096946.html",
       "url": "https://www.bankier.pl/wiadomosc/36-proc-Amerykanow-nie-stac-na-oplacenie-wizyty-u-lekarza-Koszty-leczenia-w-USA-wymknely-sie-spod-kontroli-9096946.html",
       "title": "36 proc. Amerykanów nie stać na opłacenie wizyty u lekarza. Koszty leczenia w USA wymknęły się spod kontroli",
@@ -688,20 +702,6 @@
       "title": "Szef Hezbollahu: Jesteśmy przygotowani na długą konfrontację z Izraelem",
       "content_html": "Przywódca Hezbollahu Naim Kasem ogłosił w piątek, że ta libańska grupa zbrojna jest przygotowana na długą konfrontację z Izraelem i nie pozwoli mu się zniszczyć. Dodał, że nie boi się „gróźb wroga”. Izraelski minister obrony Israel...",
       "date_published": "2026-03-13T21:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-dyplomacji-Wegier-nikt-nam-nie-bedzie-mowil-gdzie-mamy-kupowac-rope-9098290.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-dyplomacji-Wegier-nikt-nam-nie-bedzie-mowil-gdzie-mamy-kupowac-rope-9098290.html",
-      "title": "Szef dyplomacji Węgier: nikt nam nie będzie mówił, gdzie mamy kupować ropę",
-      "content_html": "Nikt nie będzie Węgrom mówił, gdzie mają kupować ropę naftową – oświadczył w piątek szef dyplomacji węgierskiej Peter Szijjarto, odnosząc się do słów ministra spraw zagranicznych Litwy Kestutisa Budrysa, że wstydziłby się pracować...",
-      "date_published": "2026-03-13T20:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-z-Cypru-dla-Europy-Padla-konkretna-data-9098276.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-z-Cypru-dla-Europy-Padla-konkretna-data-9098276.html",
-      "title": "Gaz z Cypru dla Europy. Padła konkretna data",
-      "content_html": "Cypr mógłby rozpocząć wydobycie gazu na eksport już w 2028 roku – oświadczył cypryjski minister energetyki Michael Damianos w opublikowanym w piątek wywiadzie dla agencji Reutera.",
-      "date_published": "2026-03-13T19:53:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
