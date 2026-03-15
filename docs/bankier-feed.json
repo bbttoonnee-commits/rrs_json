@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Port-Gdansk-umocnil-pozycje-wsrod-najwiekszych-portow-Europy-9098319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Port-Gdansk-umocnil-pozycje-wsrod-najwiekszych-portow-Europy-9098319.html",
+      "title": "Port Gdańsk umocnił pozycję wśród największych portów Europy",
+      "content_html": "Port Gdańsk awansował pod względem przeładunków na ósme miejsce na kontynencie i szóste w Unii Europejskiej, wyprzedzając m.in. porty w Walencji, Amsterdamie i Konstancy - przekazała rzeczniczka spółki Regina Stawnicka. W 2025 roku w gdańskim...",
+      "date_published": "2026-03-15T19:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html",
       "url": "https://www.bankier.pl/wiadomosc/Dziesiatki-tysiecy-osob-na-Marszu-Pokoju-premiera-Orbana-Padly-ostre-slowa-o-UE-9098591.html",
       "title": "Dziesiątki tysięcy osób na „Marszu Pokoju” premiera Orbana. Padły ostre słowa o UE",
@@ -688,20 +695,6 @@
       "title": "5 tankowców USA uszkodzonych w irańskim ataku w Arabii Saudyjskiej",
       "content_html": "Pięć amerykańskich tankowców powietrznych zostało uszkodzonych podczas irańskiego ataku rakietowego na bazę lotniczą w Arabii Saudyjskiej w minionych dniach - poinformował w piątek dziennik „Wall Street Journal”, powołując się na dwóch...",
       "date_published": "2026-03-14T03:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Juszczenko-do-Orbana-zatrzymaj-sie-i-przypomnij-sobie-kim-byles-9098339.html",
-      "url": "https://www.bankier.pl/wiadomosc/Juszczenko-do-Orbana-zatrzymaj-sie-i-przypomnij-sobie-kim-byles-9098339.html",
-      "title": "Juszczenko do Orbana: zatrzymaj się i przypomnij sobie, kim byłeś",
-      "content_html": "Trzeci prezydent Ukrainy, Wiktor Juszczenko, zwrócił się w liście otwartym do premiera Węgier, Viktora Orbana, i wezwał go, by znów „był liderem, którego świat kiedyś szanował”, poinformowała w piątek Ukraińska Prawda",
-      "date_published": "2026-03-14T01:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-oplacona-w-juanach-przeplynie-przez-Ormuz-9098335.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-oplacona-w-juanach-przeplynie-przez-Ormuz-9098335.html",
-      "title": "Ropa opłacona w juanach przepłynie przez Ormuz?",
-      "content_html": "Iran rozważa możliwość pozwolenia na przejście przez cieśninę Ormuz ograniczonej liczbie tankowców, jeśli ich załadunek jest rozliczany w chińskich juanach - poinformowała w piątek stacja CNN, powołując się na wysokiego rangą irańskiego...",
-      "date_published": "2026-03-13T23:53:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
