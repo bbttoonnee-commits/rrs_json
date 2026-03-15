@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Praca-w-chmurach-PAZP-szuka-nowych-kontrolerow-9098374.html",
+      "url": "https://www.bankier.pl/wiadomosc/Praca-w-chmurach-PAZP-szuka-nowych-kontrolerow-9098374.html",
+      "title": "Praca w chmurach. PAŻP szuka nowych kontrolerów",
+      "content_html": "Polska Agencja Żeglugi Powietrznej ogłosiła rekrutację na rozpoczynający się w drugiej połowie br. kurs, w ramach którego można uzyskać prawo do wykonywania zawodu kontrolera ruchu lotniczego - poinformowała PAŻP w komunikacie. Obecnie w Agencji...",
+      "date_published": "2026-03-15T20:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tyle-zaplacimy-za-kurczaka-i-jaja-Nowe-prognozy-bankowych-analitykow-9098565.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tyle-zaplacimy-za-kurczaka-i-jaja-Nowe-prognozy-bankowych-analitykow-9098565.html",
+      "title": "Tyle zapłacimy za kurczaka i jaja. Nowe prognozy bankowych analityków",
+      "content_html": "Ceny skupu drobiu w Polsce mogą spaść do 5,40 zł/kg na koniec 2026 r. i ok. 5,10 zł/kg na koniec 2027 r. z 5,68 zł/kg notowanych w styczniu tego roku – prognozują analitycy Credit Agricole Bank Polska. Spadkowi cen sprzyja poprawa sytuacji podażowej...",
+      "date_published": "2026-03-15T20:20:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chcemy-byc-SAFE-Obywatele-przyszli-pod-Palac-Prezydencki-9098618.html",
       "url": "https://www.bankier.pl/wiadomosc/Chcemy-byc-SAFE-Obywatele-przyszli-pod-Palac-Prezydencki-9098618.html",
       "title": "\"Chcemy być SAFE\". Obywatele przyszli pod Pałac Prezydencki",
@@ -142,6 +156,13 @@
       "title": "Politechnika Opolska weszła do QS World University Rankings",
       "content_html": "W gronie uczelni ocenianych w prestiżowym rankingu QS World University Rankings: Europe 2026 po raz pierwszy znalazła się Politechnika Opolska - poinformował Anna Kułynycz, rzeczniczka uczelni. Najwyżej ocenioną polską uczelnią jest Uniwersytet...",
       "date_published": "2026-03-15T16:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ataki-Iranu-na-Tel-Awiw-Sa-trafienia-odlamki-uszkodzily-dom-konsula-USA-w-Jerozolimie-9098593.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ataki-Iranu-na-Tel-Awiw-Sa-trafienia-odlamki-uszkodzily-dom-konsula-USA-w-Jerozolimie-9098593.html",
+      "title": "Ataki Iranu na Tel Awiw. Są trafienia, odłamki uszkodziły dom konsula USA w Jerozolimie",
+      "content_html": "Podczas irańskiego ataku rakietowego na Tel Awiw doszło do kilku trafień, a w sobotę odłamki uszkodziły rezydencję amerykańskiego konsula w Jerozolimie – podały w niedzielę media izraelskie. Iran twierdzi, że przeprowadził też ataki dronami...",
+      "date_published": "2026-03-15T15:55:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wisla-przyplynely-na-barkach-dwie-gigantyczne-kolumny-dla-Orlenu-9098612.html",
@@ -681,20 +702,6 @@
       "title": "Rosyjski uszkodzony tankowiec wypełniony skroplonym gazem zbliża się do brzegów Malty",
       "content_html": "Dryfujący od 3 marca uszkodzony i pozbawiony załogi tankowiec rosyjski Arctic Metagaz niebezpiecznie zbliża się do brzegów Malty, od której dzieli go już tylko około 50 km, poinformował w piątek dziennik „Malta Today”.",
       "date_published": "2026-03-14T08:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-moga-oszalec-USA-zbombardowaly-wyspe-Chark-9098337.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-moga-oszalec-USA-zbombardowaly-wyspe-Chark-9098337.html",
-      "title": "Ceny paliw mogą oszaleć. USA zbombardowały wyspę Chark",
-      "content_html": "Prezydent USA Donald Trump poinformował w piątek, że amerykańskie siły przeprowadziły „jedno z najsilniejszych bombardowań w historii Bliskiego Wschodu”, niszcząc „wszystkie cele militarne” na irańskiej wyspie Chark w Zatoce Perskiej...",
-      "date_published": "2026-03-14T08:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sad-Ostateczny-poddany-nadzwyczajnej-konserwacji-9090931.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sad-Ostateczny-poddany-nadzwyczajnej-konserwacji-9090931.html",
-      "title": "\"Sąd Ostateczny\" poddany nadzwyczajnej konserwacji",
-      "content_html": "W Kaplicy Sykstyńskiej w Watykanie trwają nadzwyczajne prace konserwatorskie, których celem jest usunięcie białej patyny z fresku Michała Anioła „Sąd Ostateczny”. Jak zapowiedziano, arcydziełu zostanie dzięki temu przywrócone bogactwo barw...",
-      "date_published": "2026-03-14T08:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
