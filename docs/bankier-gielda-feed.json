@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/InPost-testuje-wersje-beta-aplikacji-z-asystentem-zakupowym-AI-9099228.html",
+      "url": "https://www.bankier.pl/wiadomosc/InPost-testuje-wersje-beta-aplikacji-z-asystentem-zakupowym-AI-9099228.html",
+      "title": "InPost testuje wersję beta aplikacji z asystentem zakupowym AI Grupa InPost testuje wersję beta aplikacji InPost Mobile z nową funkcjonalnością, którą są zakupy wspierane przez asystenta AI z bezpłatną dostawą i zwrotami w ramach InPost Plus - podał InPost w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-03-16T20:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EPO-wyda-europejski-patent-na-ochrone-antygenowo-specyficznych-limfocytow-Treg-PolTREG-9099225.html",
+      "url": "https://www.bankier.pl/wiadomosc/EPO-wyda-europejski-patent-na-ochrone-antygenowo-specyficznych-limfocytow-Treg-PolTREG-9099225.html",
+      "title": "EPO wyda europejski patent na ochronę antygenowo-specyficznych limfocytów Treg - PolTREG Europejski Urząd Patentowy (EPO) wydał decyzje o zamiarze przyznania Gdańskiemu Uniwersytetowi Medycznemu patentu na ochronę antygenowo-specyficznych limfocytów Treg. Wynalazek ten jest przedmiotem licencji wyłącznej udzielonej PolTREG przez Gdański Uniwersytet Medyczny - podał PolTREG w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-16T19:56:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/BM-Banku-Millennium-podwyzszyl-rekomendacje-Ambry-do-kupuj-9099213.html",
       "url": "https://www.bankier.pl/wiadomosc/BM-Banku-Millennium-podwyzszyl-rekomendacje-Ambry-do-kupuj-9099213.html",
       "title": "BM Banku Millennium podwyższył rekomendację Ambry do \"kupuj\" Analitycy BM Banku Millennium, w raporcie z 16 marca podwyższył rekomendację Ambry do \"kupuj\" z \"akumuluj\", wyznaczając cenę docelową akcji spółki na poziomie 23,5 zł.",
@@ -65,6 +79,13 @@
       "title": "Selvita ma umowę o dofinansowanie projektu w ramach programu FENG Selvita podpisała umowę z Narodowym Centrum Badań i Rozwoju o dofinansowanie projektu \"Platforma CART-AI do rozwoju zaawansowanych terapii immunoonkologicznych opartych na modyfikowanych limfocytach T z użyciem AI - etap przedkliniczny\" - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-16T17:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Handel-metalami-na-gieldzie-LME-zostal-wstrzymany-9099142.html",
+      "url": "https://www.bankier.pl/wiadomosc/Handel-metalami-na-gieldzie-LME-zostal-wstrzymany-9099142.html",
+      "title": "Handel metalami na giełdzie LME został wstrzymany Obrót wszystkimi kontraktami na London Metal Exchange został wstrzymany, a dealerzy nie mogli składać zleceń na rynkach od aluminium po cynk, oczekując na dalsze informacje dotyczące przyczyny awarii – podała w poniedziałek agencja Bloomberga.",
+      "content_html": "",
+      "date_published": "2026-03-16T17:28:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-utworzyl-rezerwe-w-wys-40-6-mln-zl-w-zwiazku-z-postepowaniami-przed-UOKiK-9099134.html",
