@@ -4,11 +4,109 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gigant-z-Wielkopolski-podsumowal-rok-Ponad-236-tys-aut-i-historyczny-rekord-9098948.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gigant-z-Wielkopolski-podsumowal-rok-Ponad-236-tys-aut-i-historyczny-rekord-9098948.html",
+      "title": "Gigant z Wielkopolski podsumował rok. Ponad 236 tys. aut i historyczny rekord",
+      "content_html": "Ponad 236 tys. samochodów wyprodukowała w 2025 roku spółka Volkswagen Poznań, jedyny producent modeli Caddy i Crafter. Należąca do spółki odlewnia wytworzyła 4,8 mln komponentów – to rekord w jej historii.",
+      "date_published": "2026-03-16T14:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaria-w-mBanku-marzec-2026-9098867.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaria-w-mBanku-marzec-2026-9098867.html",
+      "title": "Awaria w dużym banku. Klienci bez dostępu do bankowości i aplikacji",
+      "content_html": "Od 11:00 przed południem klienci mBanku zgłaszają problemy z korzystaniem z usług banku. Użytkownicy skarżą się na problemy z bankowością elektroniczną i przelewami, mBank natomiast potwierdza kłopoty z dostępnością systemów, nie precyzuje...",
+      "date_published": "2026-03-16T14:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Znaleziono-kolejne-szczatki-niezidentyfikowanego-obiektu-9098931.html",
+      "url": "https://www.bankier.pl/wiadomosc/Znaleziono-kolejne-szczatki-niezidentyfikowanego-obiektu-9098931.html",
+      "title": "Znaleziono kolejne szczątki niezidentyfikowanego obiektu",
+      "content_html": "Metalowe szczątki niezidentyfikowanego obiektu jeden z mieszkańców odnalazł w miejscowości Krzywowierzba w gm. Wyryki (Lubelskie) – podała w poniedziałek policja. Na miejscu pracują pirotechnicy i Żandarmeria Wojskowa.",
+      "date_published": "2026-03-16T14:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-lutym-2026-roku-wreszcie-powrocila-do-celu-NBP-9098933.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-lutym-2026-roku-wreszcie-powrocila-do-celu-NBP-9098933.html",
+      "title": "Inflacja bazowa wreszcie znalazła się w celu NBP. Po „zaledwie” 6 latach",
+      "content_html": "Potrzeba było przeszło 6 lat, aby inflacja bazowa powróciła do 2,5-procentowego celu NBP.",
+      "date_published": "2026-03-16T14:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Protest-glodowy-w-spolce-z-Grupy-Orlen-Akt-najwyzszej-desperacji-9098930.html",
+      "url": "https://www.bankier.pl/wiadomosc/Protest-glodowy-w-spolce-z-Grupy-Orlen-Akt-najwyzszej-desperacji-9098930.html",
+      "title": "Protest głodowy w spółce z Grupy Orlen. „Akt najwyższej desperacji”",
+      "content_html": "Komisja Zakładowa NSZZ „Solidarność” przekazała, że część pracowników Inowrocławskich Kopalni Soli Solino S.A. rozpoczęła protest głodowy. Jest formą sprzeciwu wobec „osłabiania krajowego kompleksu sodowo-solnego\". Według Orlenu...",
+      "date_published": "2026-03-16T13:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pozyczka-gotowkowa-w-Citi-Handlowym-Sprawdzamy-koszty-i-warunki-kredytu-9098871.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pozyczka-gotowkowa-w-Citi-Handlowym-Sprawdzamy-koszty-i-warunki-kredytu-9098871.html",
+      "title": "Gotówka bez wizyty w banku. Sprawdzamy ofertę pożyczki w Citi Handlowym",
+      "content_html": "Citi Handlowy utrzymuje w ofercie pożyczkę gotówkową dla nowych klientów, którą można zaciągnąć całkowicie online. Maksymalna kwota finansowania sięga 150 tys. zł, a okres spłaty może wynosić nawet 120 miesięcy. Bank nie pobiera prowizji...",
+      "date_published": "2026-03-16T13:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Razace-naruszenia-w-Funduszu-Sprawiedliwosci-NIK-ujawnia-skale-nieprawidlowosci-9098932.html",
+      "url": "https://www.bankier.pl/wiadomosc/Razace-naruszenia-w-Funduszu-Sprawiedliwosci-NIK-ujawnia-skale-nieprawidlowosci-9098932.html",
+      "title": "Rażące naruszenia w Funduszu Sprawiedliwości. NIK ujawnia skalę nieprawidłowości",
+      "content_html": "NIK, która opublikowała wyniki kontroli w Funduszu Sprawiedliwości, negatywnie oceniła jego funkcjonowanie w latach 2021-2023. Gospodarka finansowa Funduszu była prowadzona z rażącym naruszeniem zasad finansów publicznych - czytamy. Dodano, że...",
+      "date_published": "2026-03-16T13:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozwiazanie-dla-luki-czynszowej-Domanski-zapowiada-budowe-18-tys-mieszkan-9098844.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozwiazanie-dla-luki-czynszowej-Domanski-zapowiada-budowe-18-tys-mieszkan-9098844.html",
+      "title": "Rozwiązanie dla luki czynszowej? Domański zapowiada budowę 18 tys. mieszkań",
+      "content_html": "Zakontraktujemy budowę i remonty 18 tys. mieszkań. Razem ze środkami z 2024 i 2025 r. mówimy o budowie i remontach 35 tys. mieszkań w ciągu 3 lat naszych rządów – powiedział w poniedziałek minister finansów i gospodarki Andrzej Domański...",
+      "date_published": "2026-03-16T13:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozlam-w-NATO-Niemcy-odmawiaja-pomocy-USA-w-ciesninie-Ormuz-9098912.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozlam-w-NATO-Niemcy-odmawiaja-pomocy-USA-w-ciesninie-Ormuz-9098912.html",
+      "title": "Rozłam w NATO? Niemcy odmawiają pomocy USA w cieśninie Ormuz",
+      "content_html": "Rzecznik rządu Niemiec oświadczył w poniedziałek, że kraj nie wezmie udziału w wojnie przeciw Iranowi ani w działaniach na rzecz odblokowania cieśniny Ormuz środkami militarnymi. Podkreślił, że konflikt nie ma nic wspólnego z obronnym sojuszem...",
+      "date_published": "2026-03-16T13:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-nie-dla-USA-Grecja-odmawia-udzialu-w-operacji-9098919.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-nie-dla-USA-Grecja-odmawia-udzialu-w-operacji-9098919.html",
+      "title": "Kolejne „nie” dla USA. Grecja odmawia udziału w operacji",
+      "content_html": "Grecja nie będzie uczestniczyć w żadnej operacji wojskowej w cieśninie Ormuz – poinformowały w poniedziałek władze w Atenach. Zareagowały w ten sposób na apel prezydenta USA Donalda Trumpa o wsparcie dla amerykańskich wojsk w blokowanej przez...",
+      "date_published": "2026-03-16T13:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Glovo-skanowalo-dokumenty-tozsamosci-klientow-Milionowa-kara-dla-firmy-9098909.html",
+      "url": "https://www.bankier.pl/wiadomosc/Glovo-skanowalo-dokumenty-tozsamosci-klientow-Milionowa-kara-dla-firmy-9098909.html",
+      "title": "Glovo skanowało dokumenty tożsamości klientów? Milionowa kara dla firmy",
+      "content_html": "Prezes UODO nałożył prawie 5,9 mln kary na spółkę Restaurant Partner Polska, prowadzącą platformę Glovo, za bezprawne pozyskiwanie zdjęć dowodów tożsamości użytkowników aplikacji - poinformował w poniedziałek Urząd.",
+      "date_published": "2026-03-16T13:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tusk-i-Sikorski-jednym-glosem-Maski-opadly-Prawica-wprowadza-Polske-z-UE-9098866.html",
       "url": "https://www.bankier.pl/wiadomosc/Tusk-i-Sikorski-jednym-glosem-Maski-opadly-Prawica-wprowadza-Polske-z-UE-9098866.html",
       "title": "Tusk i Sikorski jednym głosem: Maski opadły. Prawica wprowadza Polskę z UE",
       "content_html": "Wicepremier, szef MSZ Radosław Sikorski powiedział w poniedziałek, że straszenie Polaków hipotetycznym zagrożeniem ze strony UE jest „oblaniem testu na patriotyzm”. W jego ocenie prezes PiS Jarosław Kaczyński prowadzi „niebezpieczną grę”...",
       "date_published": "2026-03-16T12:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szijjarto-Nie-planujemy-wyjsc-z-UE-Kwestie-polexitu-pozostawiam-Polakom-9098896.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szijjarto-Nie-planujemy-wyjsc-z-UE-Kwestie-polexitu-pozostawiam-Polakom-9098896.html",
+      "title": "Szijjarto: Nie planujemy wyjść z UE. Kwestię polexitu pozostawiam Polakom",
+      "content_html": "Minister spraw zagranicznych Węgier Peter Szijjarto powiedział w poniedziałek, że w Polsce praworządność jest w dużo większym stopniu zagrożona niż w jego kraju. Zapewnił, że Węgry nie planują wyjść z UE i chcą, by była silna. Kwestię...",
+      "date_published": "2026-03-16T12:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Glownym-zrodlem-przychodow-Syn2bio-beda-umowy-partneringowe-spolka-nie-zaklada-obecnie-emisji-9098897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Glownym-zrodlem-przychodow-Syn2bio-beda-umowy-partneringowe-spolka-nie-zaklada-obecnie-emisji-9098897.html",
+      "title": "Głównym źródłem przychodów Syn2bio będą umowy partneringowe. Spółka nie zakłada obecnie emisji",
+      "content_html": "Głównym źródłem przychodów Syn2bio będą umowy partneringowe, ale kontynuacja badań klinicznych kardioznacznika będzie finansowana m.in. ze środków zapewnionych przez Synektik. Spółka nie zakłada obecnie konieczności emisji akcji - poinformował...",
+      "date_published": "2026-03-16T12:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Francuz-skazany-na-10-lat-Szpiegowal-dla-Paryza-W-tle-relacje-z-Rosja-i-Chinami-9098894.html",
+      "url": "https://www.bankier.pl/wiadomosc/Francuz-skazany-na-10-lat-Szpiegowal-dla-Paryza-W-tle-relacje-z-Rosja-i-Chinami-9098894.html",
+      "title": "Francuz skazany na 10 lat. Szpiegował dla Paryża? W tle relacje z Rosją i Chinami",
+      "content_html": "Sąd w Azerbejdżanie skazał w poniedziałek obywatela Francji Martina Ryana na 10 lat więzienia za szpiegostwo na rzecz Paryża. Ryan został zatrzymany w 2023 roku, jego proces rozpoczął się w styczniu 2025 roku. Francja odrzucała oskarżenia...",
+      "date_published": "2026-03-16T12:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-spodziewa-sie-w-26-dwucyfrowego-wzrostu-przychodow-i-dodatniej-EBITDA-wywiad-9098889.html",
@@ -44,27 +142,6 @@
       "title": "Polskie wojsko w Cieśninie Ormuz? Sikorski ujawnia stanowisko rządu i prezydenta",
       "content_html": "Jeżeli Stany Zjednoczone zwrócą się do NATO o dyskusję na temat ochrony cieśniny Ormuz, rozważymy to - oświadczył w poniedziałek w Brukseli wicepremier, szef MSZ Radosław Sikorski. Zaznaczył jednak, że prezydent Karol Nawrocki wykluczył...",
       "date_published": "2026-03-16T12:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Praca-na-zleceniu-coraz-popularniejsza-To-juz-ponad-1-5-mln-osob-9098876.html",
-      "url": "https://www.bankier.pl/wiadomosc/Praca-na-zleceniu-coraz-popularniejsza-To-juz-ponad-1-5-mln-osob-9098876.html",
-      "title": "Praca na zleceniu coraz popularniejsza. To już ponad 1,5 mln osób",
-      "content_html": "Na koniec III kw. 2025 r. pracę wyłącznie na podstawie umów zlecenia i pokrewnych wykonywało nieco ponad 1,5 mln osób – poinformował w poniedziałek Główny Urząd Statystyczny. To o 5,4 proc. więcej niż na koniec września 2024 r.",
-      "date_published": "2026-03-16T12:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Awaria-w-mBanku-marzec-2026-9098867.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awaria-w-mBanku-marzec-2026-9098867.html",
-      "title": "Awaria w dużym banku. Klienci bez dostępu do bankowości i aplikacji",
-      "content_html": "Od 11:00 przed południem klienci mBanku zgłaszają problemy z korzystaniem z usług banku. Użytkownicy skarżą się na problemy z bankowością elektroniczną i przelewami, mBank natomiast potwierdza kłopoty z dostępnością systemów, nie precyzuje...",
-      "date_published": "2026-03-16T12:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozwiazanie-dla-luki-czynszowej-Domanski-zapowiada-budowe-18-tys-mieszkan-9098844.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozwiazanie-dla-luki-czynszowej-Domanski-zapowiada-budowe-18-tys-mieszkan-9098844.html",
-      "title": "Rozwiązanie dla luki czynszowej? Domański zapowiada budowę 18 tys. mieszkań",
-      "content_html": "Zakontraktujemy budowę i remonty 18 tys. mieszkań. Razem ze środkami z 2024 i 2025 r. mówimy o budowie i remontach 35 tys. mieszkań w ciągu 3 lat naszych rządów – powiedział w poniedziałek minister finansów i gospodarki Andrzej Domański...",
-      "date_published": "2026-03-16T11:53:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Aragczi-Zakonczenie-wojny-z-USA-i-Izraelem-bedzie-ostateczne-9098865.html",
@@ -277,6 +354,13 @@
       "date_published": "2026-03-16T08:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Izraelskie-wojsko-przekroczylo-granice-z-Libanem-Ograniczona-operacja-ladowa-9098730.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izraelskie-wojsko-przekroczylo-granice-z-Libanem-Ograniczona-operacja-ladowa-9098730.html",
+      "title": "Izraelskie wojsko przekroczyło granicę z Libanem. \"Ograniczona operacja lądowa\"",
+      "content_html": "Siły Obronne Izraela (IDF) poinformowały w poniedziałek rano, że rozpoczęły „ograniczoną i ukierunkowaną operację lądową przeciw kluczowym bastionom Hezbollahu” w południowym Libanie.",
+      "date_published": "2026-03-16T07:51:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-ida-w-dol-Rzadzi-wojna-na-Bliskim-Wschodzie-9098731.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-ida-w-dol-Rzadzi-wojna-na-Bliskim-Wschodzie-9098731.html",
       "title": "Ceny miedzi w Londynie idą w dół. Rządzi wojna na Bliskim Wschodzie",
@@ -331,13 +415,6 @@
       "title": "13 tuneli i 11 wiaduktów. Koleją z Krakowa do Nowego Sącza w godzinę",
       "content_html": "Podawane przez kolejarzy terminy zakończenia całej inwestycji mogą być bardzo optymistyczne. Zwłaszcza, że dopiero ma zacząć się budowa większości najtrudniejszych odcinków z wiaduktami i tunelami - pisze w poniedziałek „Dziennik Gazeta...",
       "date_published": "2026-03-16T06:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zbrojenia-z-SAFE-Polska-entuzjastyczna-ale-coraz-bardziej-ostrozna-9098681.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbrojenia-z-SAFE-Polska-entuzjastyczna-ale-coraz-bardziej-ostrozna-9098681.html",
-      "title": "Zbrojenia z SAFE. Polska entuzjastyczna, ale coraz bardziej ostrożna",
-      "content_html": "43 proc. uczestników sondażu CBOS ocenia, że unijny program SAFE dotyczący pożyczek na zbrojenia będzie korzystny dla Polski. 20,5 proc. uważa, że będzie to nawet bardzo korzystne. Przeciwnego zdania jest 39 proc. ankietowanych - wynika z sondażu...",
-      "date_published": "2026-03-16T06:54:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Eksplozja-na-lotnisku-w-Dubaju-Loty-tymczasowo-zawieszone-po-nocnym-ataku-9098673.html",
@@ -618,83 +695,6 @@
       "title": "Kanada i kraje nordyckie zacieśniają współpracę. Sprzeciw wobec obecności broni jądrowej",
       "content_html": "Przywódcy krajów nordyckich i Kanady, którzy obradują w niedzielę w Oslo, sprzeciwili się obecności broni jądrowej na terytoriach ich państw. Zadeklarowali pogłębienie i poszerzenie współpracy w Arktyce – od energetyki i surowców po bezpieczeństwo...",
       "date_published": "2026-03-15T13:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pustynna-pulapka-i-przerwane-mosty-Nowa-rzeczywistosc-rosyjskiej-turystyki-9097889.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pustynna-pulapka-i-przerwane-mosty-Nowa-rzeczywistosc-rosyjskiej-turystyki-9097889.html",
-      "title": "Pustynna pułapka i przerwane mosty. Nowa rzeczywistość rosyjskiej turystyki",
-      "content_html": "Wiosenny sezon turystyczny w 2026 roku, który miał być dla rosyjskiej branży biur podróży czasem ostatecznego odbicia po latach rynkowych zawirowań, zamienił się w jeden z najbardziej dramatycznych kryzysów logistycznych ostatniej dekady. Nagła...",
-      "date_published": "2026-03-15T12:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zetki-rezygnuja-ze-zwiazkow-i-dzieci-Niepokojacy-raport-o-mlodych-Polakach-9097132.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zetki-rezygnuja-ze-zwiazkow-i-dzieci-Niepokojacy-raport-o-mlodych-Polakach-9097132.html",
-      "title": "Zetki rezygnują ze związków i dzieci. Niepokojący raport o młodych Polakach",
-      "content_html": "Polscy nastolatkowie są zestresowani, przeciążeni, mają lęk przed porażka zawodową. Młodzi dorośli później wchodzą w dorosłość, nie mają stabilnego poczucia własnej wartości, rzadziej wchodzą w związki. Jednocześnie Pokolenie Z optymistycznie...",
-      "date_published": "2026-03-15T11:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/36-proc-Amerykanow-nie-stac-na-oplacenie-wizyty-u-lekarza-Koszty-leczenia-w-USA-wymknely-sie-spod-kontroli-9096946.html",
-      "url": "https://www.bankier.pl/wiadomosc/36-proc-Amerykanow-nie-stac-na-oplacenie-wizyty-u-lekarza-Koszty-leczenia-w-USA-wymknely-sie-spod-kontroli-9096946.html",
-      "title": "36 proc. Amerykanów nie stać na opłacenie wizyty u lekarza. Koszty leczenia w USA wymknęły się spod kontroli",
-      "content_html": "W 2025 roku aż 36 proc. dorosłych zrezygnowało z lekarza ze względów finansowych. Koszty leczenia w USA rosną, budząc niepokój - poinformował portal Axios w oparciu o badania niezależnej organizacji zdrowotnej KFF oraz sondaże Ipsos.",
-      "date_published": "2026-03-15T11:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Blisko-80-osob-na-lawie-oskarzonych-o-chrzczenie-mleka-Proces-odbywa-sie-w-kinie-9095708.html",
-      "url": "https://www.bankier.pl/wiadomosc/Blisko-80-osob-na-lawie-oskarzonych-o-chrzczenie-mleka-Proces-odbywa-sie-w-kinie-9095708.html",
-      "title": "Blisko 80 osób na ławie oskarżonych o \"chrzczenie mleka\". Proces odbywa się... w kinie",
-      "content_html": "Gostyńskie kino stało się we wtorek salą sądową. W procesie dotyczącym tzw. afery mlecznej oskarżonych zostało niemal 80 osób. Sąd Rejonowy w Gostyniu nie ma tak wielkiej sali rozpraw, by oskarżeni wraz z obrońcami się zmieścili, zdecydowano...",
-      "date_published": "2026-03-15T11:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiezowiec-Intraco-do-rozbiorki-Nagly-zwrot-akcji-w-sprawie-slynnego-biurowca-9095707.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiezowiec-Intraco-do-rozbiorki-Nagly-zwrot-akcji-w-sprawie-slynnego-biurowca-9095707.html",
-      "title": "Wieżowiec Intraco do rozbiórki? Nagły zwrot akcji w sprawie słynnego biurowca",
-      "content_html": "Mazowiecki konserwator zabytków Marcin Dawidowicz prowadzi postępowanie administracyjne w sprawie wpisu do rejestru zabytków nieruchomych budynku Intraco przy ul. Stawki 2 w Warszawie. Decyzję podejmie po całościowej analizie zebranej dokumentacji...",
-      "date_published": "2026-03-15T11:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szokujace-koszty-wojny-z-Iranem-Miliardy-dolarow-w-zaledwie-kilka-dni-9096918.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szokujace-koszty-wojny-z-Iranem-Miliardy-dolarow-w-zaledwie-kilka-dni-9096918.html",
-      "title": "Szokujące koszty wojny z Iranem. Miliardy dolarów w zaledwie kilka dni",
-      "content_html": "Przedstawiciele administracji USA szacują, że pierwszych sześć dni wojny z Iranem kosztowało Stany Zjednoczone co najmniej 11,3 mld dolarów - podała w środę agencja Reutera.",
-      "date_published": "2026-03-15T10:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Olbrzymia-nadpodaz-warzyw-gruntowych-Mocno-tanieja-u-progu-wiosny-9098379.html",
-      "url": "https://www.bankier.pl/wiadomosc/Olbrzymia-nadpodaz-warzyw-gruntowych-Mocno-tanieja-u-progu-wiosny-9098379.html",
-      "title": "Olbrzymia nadpodaż warzyw gruntowych. Mocno tanieją u progu wiosny",
-      "content_html": "Mimo wczesnej wiosny ceny warzyw krajowych gruntowych zamiast drożeć nadal tanieją, jest to efekt olbrzymiej nadpodaży w tym sektorze. Natomiast mało jest jeszcze tzw. nowalijek - poinformował PAP ekspert rynku hurtowego Maciej Kmera.",
-      "date_published": "2026-03-15T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rap-i-black-metal-zamiast-noblistow-w-kanonie-szkolnym-9098445.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rap-i-black-metal-zamiast-noblistow-w-kanonie-szkolnym-9098445.html",
-      "title": "Rap i black metal zamiast noblistów w kanonie szkolnym",
-      "content_html": "Rap imigranckich artystów, black metal i klasyczna muzyka Edwarda Griega znalazły się wśród treści edukacyjnych dla szkół zaproponowanych w tym tygodniu przez norweskie ministerstwo edukacji. Na listach zabrakło klasyków literatury – Henryka...",
-      "date_published": "2026-03-15T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Laureat-Nagrody-Nobla-w-dziedzinie-medycyny-chce-zostac-Polakiem-9097067.html",
-      "url": "https://www.bankier.pl/wiadomosc/Laureat-Nagrody-Nobla-w-dziedzinie-medycyny-chce-zostac-Polakiem-9097067.html",
-      "title": "Laureat Nagrody Nobla w dziedzinie medycyny chce zostać Polakiem",
-      "content_html": "Laureat Nagrody Nobla w dziedzinie medycyny z 2024 r. prof. Victor Ambros złożył wniosek o przywrócenie polskiego obywatelstwa; podjąłem wszystkie stosowne decyzje - niedługo nasz rodak będzie już formalnie Polakiem - poinformował w czwartek...",
-      "date_published": "2026-03-15T09:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polak-kupuje-samochod-Uzywany-i-do-50-tys-zl-9095650.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polak-kupuje-samochod-Uzywany-i-do-50-tys-zl-9095650.html",
-      "title": "Polak kupuje samochód. Używany i do 50 tys. zł",
-      "content_html": "Coraz więcej Polaków pozytywnie ocenia sytuację gospodarczą kraju – w 2025 r. odsetek takich osób wzrósł do 29 proc. z 18 proc. rok wcześniej. Jednocześnie 42 proc. badanych planuje zakup samochodu w ciągu najbliższych 12 miesięcy – wynika...",
-      "date_published": "2026-03-15T09:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-moze-byc-o-15-proc-bogatsza-Bank-Swiatowy-wskazuje-jeden-warunek-9097043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-moze-byc-o-15-proc-bogatsza-Bank-Swiatowy-wskazuje-jeden-warunek-9097043.html",
-      "title": "Polska może być o 15 proc. bogatsza? Bank Światowy wskazuje jeden warunek",
-      "content_html": "Bułgaria, Chorwacja, Polska i Rumunia mogą zwiększyć produktywność pracy o 10 do 15 procent dzięki szerszemu wdrażaniu technologii cyfrowych, zwłaszcza oprogramowania i narzędzi opartych na AI - wynika z raportu Banku Światowego.",
-      "date_published": "2026-03-15T09:06:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
