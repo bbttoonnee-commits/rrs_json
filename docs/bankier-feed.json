@@ -4,18 +4,102 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/ME-chce-umozliwic-dostep-do-swiadczen-oslonowych-gornikom-z-prywatnych-kopalni-9099660.html",
-      "url": "https://www.bankier.pl/wiadomosc/ME-chce-umozliwic-dostep-do-swiadczen-oslonowych-gornikom-z-prywatnych-kopalni-9099660.html",
-      "title": "ME chce umożliwić dostęp do świadczeń osłonowych górnikom z prywatnych kopalni",
-      "content_html": "Celem projektowanej nowelizacji ustawy o funkcjonowaniu górnictwa węgla kamiennego jest zapewnienie, aby pracownicy zakładów górniczych mieli równy dostęp do świadczeń osłonowych, niezależnie od tego czy są zatrudnieni w podmiotach publicznych...",
-      "date_published": "2026-03-17T15:14:00+01:00"
+      "id": "https://www.bankier.pl/wiadomosc/Zurek-zapowiada-plan-B-a-TK-odracza-sprawe-Pat-wokol-nowych-sedziow-Trybunalu-9099642.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zurek-zapowiada-plan-B-a-TK-odracza-sprawe-Pat-wokol-nowych-sedziow-Trybunalu-9099642.html",
+      "title": "Żurek zapowiada „plan B”, a TK odracza sprawę. Pat wokół nowych sędziów Trybunału",
+      "content_html": "Trybunał Konstytucyjny odroczył we wtorek bez terminu rozprawę ws. wniosku posłów PiS, którzy zaskarżyli przepisy odnoszące się do procedury wyboru sędziów TK przez Sejm; postanowił zwrócić się też do prezydenta Karola Nawrockiego o zajęcie...",
+      "date_published": "2026-03-17T16:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BTCS-chce-zmienic-rynek-notowan-na-rynek-glowny-GPW-9099738.html",
+      "url": "https://www.bankier.pl/wiadomosc/BTCS-chce-zmienic-rynek-notowan-na-rynek-glowny-GPW-9099738.html",
+      "title": "BTCS chce zmienić rynek notowań na rynek główny GPW",
+      "content_html": "Akcjonariusze BTCS, spółki technologicznej notowanej obecnie na NewConnect, upoważnili zarząd spółki do rozpoczęcia procesu zmiany rynku notowań spółki z NewConnect na GPW - podała spółka w komunikacie prasowym.",
+      "date_published": "2026-03-17T16:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Resort-klimatu-zdecydowal-o-przeniesieniu-koncesji-ze-zloza-Silesia-na-Bumech-9099736.html",
+      "url": "https://www.bankier.pl/wiadomosc/Resort-klimatu-zdecydowal-o-przeniesieniu-koncesji-ze-zloza-Silesia-na-Bumech-9099736.html",
+      "title": "Resort klimatu zdecydował o przeniesieniu koncesji ze złoża Silesia na Bumech",
+      "content_html": "Resort klimatu i środowiska przeniósł koncesję na wydobywanie węgla kamiennego ze złoża Silesia z PG Silesia do spółki Bumech - poinformował we wtorek na platformie X rzecznik ministerstwa klimatu Marek Pogorzelski.",
+      "date_published": "2026-03-17T16:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-niezwlocznie-wprowadzic-na-rynek-80-tys-ton-paliw-z-rezerw-9099733.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-niezwlocznie-wprowadzic-na-rynek-80-tys-ton-paliw-z-rezerw-9099733.html",
+      "title": "Orlen Lietuva ma niezwłocznie wprowadzić na rynek 80 tys. ton paliw z rezerw",
+      "content_html": "Rząd Litwy zobowiązał spółkę Orlen Lietuva do zmniejszenia zapasów ropy o 80 tys. ton i natychmiastowego skierowania tej ilości na rynek. Rozporządzenie w tej sprawie podpisał we wtorek minister energetyki Żigimantas Vaicziunas.",
+      "date_published": "2026-03-17T16:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolki-sektora-energetycznego-odbijaja-po-silnej-przecenie-z-ostatnich-tygodni-opinia-9099701.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolki-sektora-energetycznego-odbijaja-po-silnej-przecenie-z-ostatnich-tygodni-opinia-9099701.html",
+      "title": "Energetyczny rajd na GPW. Akcje PGE, Enei i Tauronu rosną o ponad 10 proc.",
+      "content_html": "We wtorek spółki energetyczne notowane na GPW silnie rosną. Zdaniem analityków, jest to m. in. reakcja na zbyt mocne spadki z ostatnich tygodni, a także efekt wypowiedzi przedstawicieli Komisji Europejskiej odnośnie systemu ETS, które sugerują...",
+      "date_published": "2026-03-17T16:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Develia-ma-zgode-UOKiK-na-koncentracje-z-Mosaic-Poland-Holding-9099723.html",
+      "url": "https://www.bankier.pl/wiadomosc/Develia-ma-zgode-UOKiK-na-koncentracje-z-Mosaic-Poland-Holding-9099723.html",
+      "title": "Develia ma zgodę UOKiK na koncentrację z Mosaic Poland Holding",
+      "content_html": "Develia uzyskała od UOKiK bezwarunkową zgodę na dokonanie koncentracji polegającej na utworzeniu wspólnego przedsiębiorcy z Mosaic Poland Holding w celu realizacji wspólnej inwestycji - poinformowała Develia w komunikacie.",
+      "date_published": "2026-03-17T16:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzadowy-program-wsparcia-sektora-gornictwa-wegla-kamiennego-koksujacego-umozliwi-oslony-dla-gornikow-JSW-9099659.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzadowy-program-wsparcia-sektora-gornictwa-wegla-kamiennego-koksujacego-umozliwi-oslony-dla-gornikow-JSW-9099659.html",
-      "title": "Rządowy program wsparcia sektora górnictwa węgla kamiennego koksującego umożliwi osłony dla górników JSW",
+      "title": "Rząd otwiera kasę dla JSW. Spółka potrzebuje 653 mln zł na tegoroczne odprawy",
       "content_html": "W wykazie prac rządu opublikowano we wtorek projekt programu wsparcia sektora górnictwa węgla kamiennego koksującego. Ma to być dokument strategiczny, który umożliwi wypłatę świadczeń osłonowych pracownikom Jastrzębskiej Spółki Węglowych...",
-      "date_published": "2026-03-17T15:12:00+01:00"
+      "date_published": "2026-03-17T16:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/S-P-podwyzszyl-perspektywe-ratingu-mBanku-do-pozytywnej-9099691.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P-podwyzszyl-perspektywe-ratingu-mBanku-do-pozytywnej-9099691.html",
+      "title": "S&P podwyższył perspektywę ratingu mBanku do \"pozytywnej\"",
+      "content_html": "Agencja ratingowa S&P podwyższyła perspektywę ratingu mBanku do \"pozytywnej\" ze \"stabilnej\" - podała agencja w komunikacie. Rating długoterminowy dla banku został podtrzymany na poziomie \"BBB+\", a krótkoterminowy na poziomie \"A-2\".",
+      "date_published": "2026-03-17T15:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Licencje-dla-Wenezueli-i-rozmowy-z-Marokiem-USA-reaguja-na-kryzys-nawozowy-9099626.html",
+      "url": "https://www.bankier.pl/wiadomosc/Licencje-dla-Wenezueli-i-rozmowy-z-Marokiem-USA-reaguja-na-kryzys-nawozowy-9099626.html",
+      "title": "Licencje dla Wenezueli i rozmowy z Marokiem. USA reagują na \"kryzys nawozowy\"",
+      "content_html": "Tankowce zaczynają przepływać przez cieśninę Ormuz, a irańskie próby zablokowania szlaku nie zaszkodziły amerykańskiej gospodarce – powiedział we wtorek doradca ekonomiczny Białego Domu Kevin Hassett. Doradca powiadomił też o imporcie nawozów...",
+      "date_published": "2026-03-17T15:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZUS-wylaczyl-ePUAP-wiec-wnioski-nie-beda-rozpatrywane-Jaka-jest-alternatywa-9099606.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZUS-wylaczyl-ePUAP-wiec-wnioski-nie-beda-rozpatrywane-Jaka-jest-alternatywa-9099606.html",
+      "title": "ZUS wyłączył ePUAP, więc wnioski nie będą rozpatrywane. Jaka jest alternatywa?",
+      "content_html": "Od 12 marca klienci indywidualni nie mogą już kontaktować się z ZUS przez platformę ePUAP. Oznacza to, że wnioski i pisma wpływające przez platformę nie będą rozpatrywane. W użyciu pozostają dwie drogi elektroniczne: portal eZUS oraz e-Doręczenia...",
+      "date_published": "2026-03-17T15:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bunt-w-zbrojeniowce-Solidarnosc-domaga-sie-odtajnienia-listy-programu-SAFE-9099601.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bunt-w-zbrojeniowce-Solidarnosc-domaga-sie-odtajnienia-listy-programu-SAFE-9099601.html",
+      "title": "Bunt w zbrojeniówce? „Solidarność” domaga się odtajnienia listy programu SAFE",
+      "content_html": "Rada Krajowej Sekcji Przemysłu Zbrojeniowego NSZZ „Solidarność” chce odtajnienia oficjalnej listy podmiotów zakwalifikowanych do programu SAFE. Związkowcy podkreślają, że oczekuje się od nich poparcia dla działań, których szczegóły pozostają...",
+      "date_published": "2026-03-17T15:35:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wieden-wraca-do-czasow-zimnej-wojny-Rosyjskie-Russencity-podsluchuje-Zachod-9099589.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wieden-wraca-do-czasow-zimnej-wojny-Rosyjskie-Russencity-podsluchuje-Zachod-9099589.html",
+      "title": "Wiedeń wraca do czasów zimnej wojny. Rosyjskie „Russencity” podsłuchuje Zachód",
+      "content_html": "Podobnie jak w czasach zimnej wojny, anteny satelitarne na dachach należących do Rosji budynków w Wiedniu znów stają się dla Moskwy kluczowym narzędziem szpiegowania Zachodu - pisze we wtorek brytyjski dziennik „Financial Times”.",
+      "date_published": "2026-03-17T15:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-zostal-uniewazniony-9099670.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-zostal-uniewazniony-9099670.html",
+      "title": "Wybór oferty konsorcjum Budimeksu w przetargu PKP PLK został unieważniony",
+      "content_html": "Wybór oferty konsorcjum, którego liderem jest Budimex, jako najkorzystniejszej w przetargu PKP PLK na wykonanie dokumentacji wykonawczej i realizację robót budowlanych w ramach projektów Rail Baltica na trzech odcinkach został unieważniony - podała...",
+      "date_published": "2026-03-17T15:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ME-chce-umozliwic-dostep-do-swiadczen-oslonowych-gornikom-z-prywatnych-kopalni-9099660.html",
+      "url": "https://www.bankier.pl/wiadomosc/ME-chce-umozliwic-dostep-do-swiadczen-oslonowych-gornikom-z-prywatnych-kopalni-9099660.html",
+      "title": "Rząd rozszerza wsparcie dla górników. Kopalnia Silesia objęta nowym programem",
+      "content_html": "Celem projektowanej nowelizacji ustawy o funkcjonowaniu górnictwa węgla kamiennego jest zapewnienie, aby pracownicy zakładów górniczych mieli równy dostęp do świadczeń osłonowych, niezależnie od tego czy są zatrudnieni w podmiotach publicznych...",
+      "date_published": "2026-03-17T15:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pieniadze-dla-JDG-leza-na-stole-Banki-placa-za-przejscie-rekordzista-daje-5000-zl-9097818.html",
@@ -76,7 +160,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Kurs-Grupy-Orlen-pobil-szczyt-z-2017-r-Najwieksza-polska-firma-srubuje-kosmiczna-kapitalizacje-9099576.html",
       "url": "https://www.bankier.pl/wiadomosc/Kurs-Grupy-Orlen-pobil-szczyt-z-2017-r-Najwieksza-polska-firma-srubuje-kosmiczna-kapitalizacje-9099576.html",
-      "title": "Kurs Grupy Orlen pobił szczyt z 2017 r. Nigdy tyle nie płacono za akcje polskiego giganta",
+      "title": "Orlen pobił szczyt z 2017 r. Słowa premiera i szefowej KE wsparły kurs giganta",
       "content_html": "Akcje Grupy Orlen ustanowiły 17 marca 2026 r. nowy historyczny rekord ceny na Giełdzie Papierów Wartościowych w Warszawie. Podczas sesji kurs paliwowego giganta przebił barierę 134,45 zł, pokonując dotychczasowy szczyt notowań ustanowiony blisko...",
       "date_published": "2026-03-17T13:56:00+01:00"
     },
@@ -618,83 +702,6 @@
       "title": "Wojna w Iranie krzyżuje plany USA. Trump przesuwa kluczową wizytę w Pekinie",
       "content_html": "Prezydent USA Donald Trump poinformował w poniedziałek, że jego wizyta w Pekinie może być przesunięta mniej więcej o miesiąc w związku z wojną w Iranie. Wcześniej Biały Dom zapowiadał, że Trump będzie w Chinach w dniach 31 marca-2 kwietnia...",
       "date_published": "2026-03-16T22:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-Niemiec-sprzeciwia-sie-przejeciu-Commerzbanku-przez-wloski-UniCredit-9099255.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-Niemiec-sprzeciwia-sie-przejeciu-Commerzbanku-przez-wloski-UniCredit-9099255.html",
-      "title": "Rząd Niemiec sprzeciwia się przejęciu Commerzbanku przez włoski UniCredit",
-      "content_html": "Po ogłoszeniu przez włoski bank UniCredit planów przejęcia Commerzbanku rzecznik niemieckiego ministerstwa finansów oświadczył w poniedziałek, że rząd podtrzymuje sprzeciw wobec wrogiego przejęcia. Berlin popiera niezależność Commerzbanku...",
-      "date_published": "2026-03-16T21:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-zabrali-sie-do-kupowania-akcji-S-P500-odbil-sie-z-tegorocznego-dna-9099254.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-zabrali-sie-do-kupowania-akcji-S-P500-odbil-sie-z-tegorocznego-dna-9099254.html",
-      "title": "Inwestorzy zabrali się do kupowania akcji. S&P500 odbił się z tegorocznego dna",
-      "content_html": "S&P500 odbił się z najniższych poziomów od listopada napędzany przez sektor AI. W tle pozostawała wojna na Bliskim Wschodzie windująca ceny ropy naftowej do ok. stu dolarów za baryłkę.",
-      "date_published": "2026-03-16T21:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EPO-wyda-europejski-patent-na-ochrone-antygenowo-specyficznych-limfocytow-Treg-PolTREG-9099225.html",
-      "url": "https://www.bankier.pl/wiadomosc/EPO-wyda-europejski-patent-na-ochrone-antygenowo-specyficznych-limfocytow-Treg-PolTREG-9099225.html",
-      "title": "EPO wyda europejski patent na ochronę antygenowo-specyficznych limfocytów Treg - PolTREG",
-      "content_html": "Europejski Urząd Patentowy (EPO) wydał decyzje o zamiarze przyznania Gdańskiemu Uniwersytetowi Medycznemu patentu na ochronę antygenowo-specyficznych limfocytów Treg. Wynalazek ten jest przedmiotem licencji wyłącznej udzielonej PolTREG przez Gdański...",
-      "date_published": "2026-03-16T19:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Reprywatyzacja-w-Warszawie-Przelomowa-uchwala-NSA-uderza-w-handlarzy-roszczen-9099223.html",
-      "url": "https://www.bankier.pl/wiadomosc/Reprywatyzacja-w-Warszawie-Przelomowa-uchwala-NSA-uderza-w-handlarzy-roszczen-9099223.html",
-      "title": "Reprywatyzacja w Warszawie. Przełomowa uchwała NSA uderza w handlarzy roszczeń",
-      "content_html": "Nabywcy roszczeń wynikających z dekretu warszawskiego nie przysługuje przymiot strony w sprawie administracyjnej o ustanowienie prawa użytkowania wieczystego na podstawie tego dekretu - orzekł w poniedziałkowej uchwale Naczelny Sąd Administracyjny...",
-      "date_published": "2026-03-16T19:51:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-Banku-Millennium-podwyzszyl-rekomendacje-Ambry-do-kupuj-9099213.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-Banku-Millennium-podwyzszyl-rekomendacje-Ambry-do-kupuj-9099213.html",
-      "title": "BM Banku Millennium podwyższył rekomendację Ambry do \"kupuj\"",
-      "content_html": "Analitycy BM Banku Millennium, w raporcie z 16 marca podwyższył rekomendację Ambry do \"kupuj\" z \"akumuluj\", wyznaczając cenę docelową akcji spółki na poziomie 23,5 zł.",
-      "date_published": "2026-03-16T19:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dwa-drony-uderzyly-w-jedno-z-najwiekszych-pol-naftowych-na-swiecie-9099210.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dwa-drony-uderzyly-w-jedno-z-najwiekszych-pol-naftowych-na-swiecie-9099210.html",
-      "title": "Dwa drony uderzyły w jedno z największych pól naftowych na świecie",
-      "content_html": "Dwa drony uderzyły w jedno z największych pól naftowych na świecie, Madżnun, położone na południu Iraku - poinformowała w poniedziałek agencja AFP, powołując się na przedstawicieli irackich służb bezpieczeństwa i ministerstwa ropy naftowej...",
-      "date_published": "2026-03-16T19:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferty-Arlen-o-lacznej-wartosci-120-8-mln-zl-wybrane-jako-najkorzystniejsze-9099205.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferty-Arlen-o-lacznej-wartosci-120-8-mln-zl-wybrane-jako-najkorzystniejsze-9099205.html",
-      "title": "Oferty Arlen o łącznej wartości 120,8 mln zł wybrane jako najkorzystniejsze",
-      "content_html": "Oferty Arlen zostały wybrane przez Skarb Państwa - 3 Regionalną Bazę Logistyczną w Krakowie jako najkorzystniejsze - podał Arlen w komunikacie. Łączna wartość ofert złożonych przez spółkę w ramach zamówień podstawowych wynosi 120,8 mln...",
-      "date_published": "2026-03-16T19:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-Santander-Bank-Polska-kary-pieniezne-w-lacznej-wysokosci-21-1-mln-zl-9099181.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-Santander-Bank-Polska-kary-pieniezne-w-lacznej-wysokosci-21-1-mln-zl-9099181.html",
-      "title": "Santander Bank Polska ukarany. KNF wylicza przewinienia banku",
-      "content_html": "Komisja Nadzoru Finansowego nałożyła na Santander Bank Polska kary pieniężne w łącznej wysokości 21,1 mln zł - poinformowała KNF w komunikacie.",
-      "date_published": "2026-03-16T19:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szefowa-KE-Musimy-dostosowac-system-ETS-do-nowych-realiow-9099194.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szefowa-KE-Musimy-dostosowac-system-ETS-do-nowych-realiow-9099194.html",
-      "title": "Szefowa KE: Musimy dostosować system ETS do nowych realiów",
-      "content_html": "Szefowa Komisji Europejskiej Ursula von der Leyen ogłosiła w poniedziałek, że system ETS sprawdził się jako napęd transformacji, a teraz musi zostać dostosowany do nowych realiów. Zapowiedziała m.in., że w ramach przeglądu ETS zostanie określona...",
-      "date_published": "2026-03-16T19:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Calkowita-mozliwa-do-wyplaty-w-26-dywidenda-Santander-Bank-Polska-wynosi-5-1-mld-zl-9099198.html",
-      "url": "https://www.bankier.pl/wiadomosc/Calkowita-mozliwa-do-wyplaty-w-26-dywidenda-Santander-Bank-Polska-wynosi-5-1-mld-zl-9099198.html",
-      "title": "Całkowita możliwa do wypłaty w '26 dywidenda Santander Bank Polska wynosi 5,1 mld zł",
-      "content_html": "Całkowita możliwa do wypłaty w 2026 roku dywidenda Santander Bank Polska wynosi 5,1 mld zł - poinformował bank w komunikacie.",
-      "date_published": "2026-03-16T18:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-w-liscie-do-sedziow-NSA-mamy-do-czynienia-z-bezprecedensowym-kryzysem-sadownictwa-w-Polsce-9099196.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-w-liscie-do-sedziow-NSA-mamy-do-czynienia-z-bezprecedensowym-kryzysem-sadownictwa-w-Polsce-9099196.html",
-      "title": "Prezydent w liście do sędziów NSA: mamy do czynienia z bezprecedensowym kryzysem sądownictwa w Polsce",
-      "content_html": "Prezydent Karol Nawrocki ocenił w liście do sędziów NSA, że obecnie „mamy do czynienia z bezprecedensowym kryzysem wymiaru sprawiedliwości i sądownictwa, zwłaszcza sądów powszechnych w Polsce”. Ten skandaliczny stan chaosu i anarchii pogłębiają...",
-      "date_published": "2026-03-16T18:45:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
