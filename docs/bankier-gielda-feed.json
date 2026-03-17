@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Australia-ponownie-podnosi-stopy-procentowe-w-marcu-2026-9099407.html",
+      "url": "https://www.bankier.pl/wiadomosc/Australia-ponownie-podnosi-stopy-procentowe-w-marcu-2026-9099407.html",
+      "title": "Australia ponownie podnosi stopy procentowe. I nie chodzi tu o Iran Bank Rezerw Australii zdecydował się na drugą z kolei podwyżkę stóp procentowych. To pierwszy bank centralny Zachodu, który w tym cyklu zaczął zaostrzać politykę monetarną.",
+      "content_html": "",
+      "date_published": "2026-03-17T09:07:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ETF-w-portfelu-2026-Polacy-inwestuja-dlugoterminowo-wybieraja-konta-emerytalne-i-rynki-akcji-9099392.html",
+      "url": "https://www.bankier.pl/wiadomosc/ETF-w-portfelu-2026-Polacy-inwestuja-dlugoterminowo-wybieraja-konta-emerytalne-i-rynki-akcji-9099392.html",
+      "title": "\"ETF w portfelu 2026”. Polacy inwestują długoterminowo, wybierają konta emerytalne i rynki akcji ETF-y przestają być niszowym narzędziem i na dobre zadomawiają się w portfelach Polaków. Z najnowszego raportu wyłania się dokładny obraz inwestorów sięgających po giełdowe fundusze: ich cele, decyzje finansowe i podejście do ryzyka, a także wyzwania, które nadal stoją na drodze popularyzacji tych instrumentów.",
+      "content_html": "",
+      "date_published": "2026-03-17T09:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-25-na-16-1-mln-zl-9099398.html",
       "url": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-25-na-16-1-mln-zl-9099398.html",
       "title": "DataWalk szacuje skorygowaną stratę EBITDA w '25 na 16,1 mln zł Grupa DataWalk szacuje skorygowaną stratę EBITDA w 2025 r. na 16,1 mln zł, wobec 19,8 mln zł straty w analogicznym okresie 2024 r. - podała spółka w komunikacie. Przychody grupy szacowane są na 37,8 mln zł, co oznacza wzrost o 53 proc. rdr.",
@@ -282,13 +296,6 @@
       "title": "Rynek półprzewodników oszalał. Branża zbliża się do biliona dolarów Globalny rynek półprzewodników w 2026 roku zbliży się do 1 bln USD, po wzroście do 795,6 mld USD w 2025 roku - wynika z prognoz organizacji branżowej World Semiconductor Trade Statistics (WSTS).",
       "content_html": "",
       "date_published": "2026-03-15T19:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-moze-byc-o-15-proc-bogatsza-Bank-Swiatowy-wskazuje-jeden-warunek-9097043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-moze-byc-o-15-proc-bogatsza-Bank-Swiatowy-wskazuje-jeden-warunek-9097043.html",
-      "title": "Polska może być o 15 proc. bogatsza? Bank Światowy wskazuje jeden warunek Bułgaria, Chorwacja, Polska i Rumunia mogą zwiększyć produktywność pracy o 10 do 15 procent dzięki szerszemu wdrażaniu technologii cyfrowych, zwłaszcza oprogramowania i narzędzi opartych na AI - wynika z raportu Banku Światowego.",
-      "content_html": "",
-      "date_published": "2026-03-15T09:06:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
