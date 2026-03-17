@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 17 Mar 2026 20:29:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 21:10:00 +0100</lastBuildDate>
     <item>
       <title>InPost testuje wersję beta aplikacji z asystentem zakupowym AI</title>
       <link>https://www.bankier.pl/wiadomosc/InPost-testuje-wersje-beta-aplikacji-z-asystentem-zakupowym-AI-9099228.html</link>
@@ -148,13 +148,6 @@
       <description>Rzecznik rządu Adam Szłapka stwierdził w sprawie ETS, że „śmieszy go mówienie o stanowisku polityków Prawa i Sprawiedliwości”, którzy według niego „pokrzykiwali na konferencjach”, gdy rządzili i byli „kompletnie nieasertywni w kwestiach...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Szlapka-o-PiS-i-ETS-byli-nieasertywni-w-UE-gdy-trzeba-bylo-walczyc-o-interes-Polski-9099417.html</guid>
       <pubDate>Tue, 17 Mar 2026 09:24:00 +0100</pubDate>
-    </item>
-    <item>
-      <title>Górnicy z PG Silesia bez pełnych pensji i odpraw. Napięcie wokół kopalni nie ustaje</title>
-      <link>https://www.bankier.pl/wiadomosc/Problemy-z-wyplatami-w-PG-Silesia-Wynagrodzenia-gornikow-wyplacane-w-transzach-9099389.html</link>
-      <description>W PG Silesia narastają problemy z wypłatami wynagrodzeń. Jak wynika z informacji portalu Czecho.pl, pracownicy od miesięcy czekają na dodatki, m.in. Barbórkę, a od lutego także na pełne wynagrodzenia. Związkowcy mówią, że kopalnia nie zabezpieczyła...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Problemy-z-wyplatami-w-PG-Silesia-Wynagrodzenia-gornikow-wyplacane-w-transzach-9099389.html</guid>
-      <pubDate>Tue, 17 Mar 2026 09:30:00 +0100</pubDate>
     </item>
     <item>
       <title>Złoty pozostaje pod presją. Dane z Polski pomogły naszej walucie</title>
@@ -708,6 +701,13 @@
       <description>Centrum Dokumentacji Ucieczka, Wypędzenie, Pojednanie w Berlinie połączyło pamięć o niemieckich ofiarach wojny z porozumieniem z sąsiadami. Związek Wypędzonych (BdV) chce przejąć kontrolę nad muzeum, co może ponownie wywołać zarzuty o rewizjonizm...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zwiazek-Wypedzonych-zada-wiecej-empatii-dla-Niemcow-Zagrozony-dialog-historyczny-z-sasiadami-9099871.html</guid>
       <pubDate>Tue, 17 Mar 2026 20:29:00 +0100</pubDate>
+    </item>
+    <item>
+      <title>Kontyuacja wzrostów na Wall Street. Czy Fed pomoże?</title>
+      <link>https://www.bankier.pl/wiadomosc/Kontyuacja-wzrostow-na-Wall-Street-Czy-Fed-pomoz-9099897.html</link>
+      <description>Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów podobnie jak dzień wcześniej, a inwestorzy liczą, że uda się znaleźć rozwiązanie konfliktu na Bliskim Wschodzie.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kontyuacja-wzrostow-na-Wall-Street-Czy-Fed-pomoz-9099897.html</guid>
+      <pubDate>Tue, 17 Mar 2026 21:10:00 +0100</pubDate>
     </item>
   </channel>
 </rss>
