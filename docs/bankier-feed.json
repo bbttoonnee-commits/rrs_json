@@ -4,11 +4,67 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szkola-bez-smartfona-Rzad-wprowadza-zakaz-uzywania-telefonow-w-podstawowkach-9100146.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szkola-bez-smartfona-Rzad-wprowadza-zakaz-uzywania-telefonow-w-podstawowkach-9100146.html",
+      "title": "Szkoła bez smartfona. Rząd wprowadza zakaz używania telefonów w podstawówkach",
+      "content_html": "Ministerstwo kończy prace nad przepisami, które spowodują, że od 1 września 2026 r. w szkołach podstawowych wprowadzimy zakaz używania telefonów komórkowych – poinformowała w środę w Olsztynie szefowa MEN Barbara Nowacka. Dodała, że jest...",
+      "date_published": "2026-03-18T12:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-wiszenia-na-telefonie-do-przychodni-Kolejne-wizyty-dostepne-w-e-rejestracji-9100139.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-wiszenia-na-telefonie-do-przychodni-Kolejne-wizyty-dostepne-w-e-rejestracji-9100139.html",
+      "title": "Koniec wiszenia na telefonie do przychodni? Kolejne wizyty dostępne w e-rejestracji",
+      "content_html": "Od 1 sierpnia przez centralną e-rejestrację będzie można zapisać się na kolejne świadczenia m.in. z zakresu chorób naczyń, chorób zakaźnych, endokrynologii i neonatologii - poinformowali w środę przedstawiciele Ministerstwa Zdrowia.",
+      "date_published": "2026-03-18T12:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NBP-sfinansuje-armie-Wzrostu-cen-zlota-nikt-nie-przewidzial-9100147.html",
+      "url": "https://www.bankier.pl/wiadomosc/NBP-sfinansuje-armie-Wzrostu-cen-zlota-nikt-nie-przewidzial-9100147.html",
+      "title": "NBP sfinansuje armię? \"Wzrostu cen złota nikt nie przewidział\"",
+      "content_html": "Polska gromadzi złoto w tempie, którego zazdrości nam Europa, ale czy kruszec powinien jedynie leżeć w skarbcach? Nowa koncepcja NBP zakłada, że rekordowe wzrosty cen złota można przekuć w realny zysk. Dzięki aktywnemu zarządzaniu rezerwami...",
+      "date_published": "2026-03-18T12:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cenne-marzenia-czy-deweloperska-ustawka-Fala-skarg-do-KRRiT-na-reportaz-Faktow-TVN-9099410.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cenne-marzenia-czy-deweloperska-ustawka-Fala-skarg-do-KRRiT-na-reportaz-Faktow-TVN-9099410.html",
+      "title": "\"Cenne marzenia\" czy deweloperska ustawka? Fala skarg do KRRiT na reportaż \"Faktów\" TVN",
+      "content_html": "Ponad 200 skarg wpłynęło w krótkim czasie do Krajowej Rady Radiofonii i Telewizji po emisji reportażu o rynku nieruchomości w głównym wydaniu \"Faktów\" TVN. Widzowie i internauci zarzucają stacji brak rzetelności oraz manipulację, wskazując...",
+      "date_published": "2026-03-18T12:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejna-siec-bedzie-otwarta-w-niedziele-Rzucaja-rekawice-Zabce-9100132.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejna-siec-bedzie-otwarta-w-niedziele-Rzucaja-rekawice-Zabce-9100132.html",
+      "title": "Kolejna sieć będzie otwarta w niedzielę? Rzucają rękawicę Żabce",
+      "content_html": "Kiedy myśleliśmy już, że kurz z walki o zakaz handlu w niedzielę opadł i wszyscy przyzwyczaili się do nowych warunków, przed szereg wychodzi sieć z grupy Eurocash znana ze sprzedaży alkoholu. Otóż Duży Ben ma plan na niedziele. Czy pójdzie...",
+      "date_published": "2026-03-18T12:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
+      "title": "Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł",
+      "content_html": "Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł w związku z decyzjami związanymi z przeglądem opcji strategicznych - podała spółka w komunikacie.",
+      "date_published": "2026-03-18T11:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dadelo-na-szczycie-Enea-odbila-Kwadrans-z-analiza-techniczna-9100137.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dadelo-na-szczycie-Enea-odbila-Kwadrans-z-analiza-techniczna-9100137.html",
+      "title": "Dadelo na szczycie, Enea odbiła. Kwadrans z analizą techniczną",
+      "content_html": "Wartość mojego portfela mocno się waha, a na niektórych spółkach ewidentnie widać realizację zysków przez inwestorów obawiających się załamania trendu wzrostowego. Zapytałem eksperta od analizy technicznej gdzie widać sygnały odwrotu.",
+      "date_published": "2026-03-18T11:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bilion-zlotych-w-dekade-Premier-oglasza-nowy-plan-na-energetyke-9100094.html",
       "url": "https://www.bankier.pl/wiadomosc/Bilion-zlotych-w-dekade-Premier-oglasza-nowy-plan-na-energetyke-9100094.html",
       "title": "Bilion złotych w dekadę. Premier ogłasza nowy plan na energetykę",
       "content_html": "W ciągu dekady Polska zainwestuje 1 bln zł w energetykę, w tym w OZE, magazyny energii, w elektrownię jądrową i w dystrybucję - poinformował premier Donald Tusk.",
       "date_published": "2026-03-18T11:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tajwanczycy-zamiast-Amerykanow-Na-podwroclawskiej-dzialce-po-Intelu-moze-powstac-ogromna-fabryka-9100130.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajwanczycy-zamiast-Amerykanow-Na-podwroclawskiej-dzialce-po-Intelu-moze-powstac-ogromna-fabryka-9100130.html",
+      "title": "Tajwańczycy zamiast Intela? Pod Wrocławiem może powstać ogromna fabryka",
+      "content_html": "Po rezygnacji Intela z budowy zakładu w Miękini pod Wrocławiem, na horyzoncie pojawił się nowy, potężny gracz. Jak ustalił \"Business Insider Polska\", tajwański gigant Foxconn wraz z grupą partnerów rozważa inwestycję w Polsce. Skala projektu...",
+      "date_published": "2026-03-18T11:23:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Milionowe-kary-dla-Uniwersytetu-SWPS-i-Politechniki-Lubelskiej-za-podnoszenie-czesnego-9100084.html",
@@ -86,13 +142,6 @@
       "title": "Na rynkach powiało optymizmem. Kurs euro ruszył w dół",
       "content_html": "Nadzieje na możliwie szybkie zakończenie wojny z Iranem poprawiły nastroje na rynkach finansowych, co wzmocniło złotego i obniżyło notowania tak euro jak i dolara amerykańskiego.",
       "date_published": "2026-03-18T10:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skandal-na-ukrainskim-portalu-order-Virtuti-Militari-wystawiony-na-sprzedaz-IPN-apeluje-9099894.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skandal-na-ukrainskim-portalu-order-Virtuti-Militari-wystawiony-na-sprzedaz-IPN-apeluje-9099894.html",
-      "title": "Skandal na ukraińskim portalu: order Virtuti Militari wystawiony na sprzedaż. IPN apeluje",
-      "content_html": "Na jednym z ukraińskich portali internetowych pojawiła się oferta sprzedaży Orderu Wojennego Virtuti Militari, którym odznaczono kpt. Juliusza Romana Heinzla, oficera zamordowanego przez NKWD wiosną 1940 r. - poinformował we wtorek na portalu X...",
-      "date_published": "2026-03-18T10:18:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-szacuje-do-5-mln-zl-kosztow-w-zw-z-sytuacja-w-regionie-Bliskiego-Wschodu-9100076.html",
@@ -417,6 +466,13 @@
       "date_published": "2026-03-17T20:29:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/140-mln-dolarow-dziennie-dla-Teheranu-Iran-zarabia-na-ropie-mimo-wojn-9099870.html",
+      "url": "https://www.bankier.pl/wiadomosc/140-mln-dolarow-dziennie-dla-Teheranu-Iran-zarabia-na-ropie-mimo-wojn-9099870.html",
+      "title": "140 mln dolarów dziennie dla Teheranu. Iran zarabia na ropie mimo wojen",
+      "content_html": "Od czasu rozpoczęcia ataków USA i Izraela na Iran pod koniec ubiegłego miesiąca, co najmniej 13 tankowców załadowało ropę naftową w głównym irańskim terminalu eksportowym na wyspie Chark; Teheran wciąż eksportuje 1,5 mln baryłek ropy dziennie...",
+      "date_published": "2026-03-17T20:22:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-zostal-uniewazniony-9099670.html",
       "url": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-zostal-uniewazniony-9099670.html",
       "title": "Budimex traci kontrakt na Rail Baltica? KIO nakazuje ponowną ocenę ofert w kluczowym przetargu",
@@ -646,48 +702,6 @@
       "title": "S&P podwyższył perspektywę ratingu mBanku do \"pozytywnej\"",
       "content_html": "Agencja ratingowa S&P podwyższyła perspektywę ratingu mBanku do \"pozytywnej\" ze \"stabilnej\" - podała agencja w komunikacie. Rating długoterminowy dla banku został podtrzymany na poziomie \"BBB+\", a krótkoterminowy na poziomie \"A-2\".",
       "date_published": "2026-03-17T15:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Licencje-dla-Wenezueli-i-rozmowy-z-Marokiem-USA-reaguja-na-kryzys-nawozowy-9099626.html",
-      "url": "https://www.bankier.pl/wiadomosc/Licencje-dla-Wenezueli-i-rozmowy-z-Marokiem-USA-reaguja-na-kryzys-nawozowy-9099626.html",
-      "title": "Licencje dla Wenezueli i rozmowy z Marokiem. USA reagują na \"kryzys nawozowy\"",
-      "content_html": "Tankowce zaczynają przepływać przez cieśninę Ormuz, a irańskie próby zablokowania szlaku nie zaszkodziły amerykańskiej gospodarce – powiedział we wtorek doradca ekonomiczny Białego Domu Kevin Hassett. Doradca powiadomił też o imporcie nawozów...",
-      "date_published": "2026-03-17T15:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ZUS-wylaczyl-ePUAP-wiec-wnioski-nie-beda-rozpatrywane-Jaka-jest-alternatywa-9099606.html",
-      "url": "https://www.bankier.pl/wiadomosc/ZUS-wylaczyl-ePUAP-wiec-wnioski-nie-beda-rozpatrywane-Jaka-jest-alternatywa-9099606.html",
-      "title": "ZUS wyłączył ePUAP, więc wnioski nie będą rozpatrywane. Jaka jest alternatywa?",
-      "content_html": "Od 12 marca klienci indywidualni nie mogą już kontaktować się z ZUS przez platformę ePUAP. Oznacza to, że wnioski i pisma wpływające przez platformę nie będą rozpatrywane. W użyciu pozostają dwie drogi elektroniczne: portal eZUS oraz e-Doręczenia...",
-      "date_published": "2026-03-17T15:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bunt-w-zbrojeniowce-Solidarnosc-domaga-sie-odtajnienia-listy-programu-SAFE-9099601.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bunt-w-zbrojeniowce-Solidarnosc-domaga-sie-odtajnienia-listy-programu-SAFE-9099601.html",
-      "title": "Bunt w zbrojeniówce? „Solidarność” domaga się odtajnienia listy programu SAFE",
-      "content_html": "Rada Krajowej Sekcji Przemysłu Zbrojeniowego NSZZ „Solidarność” chce odtajnienia oficjalnej listy podmiotów zakwalifikowanych do programu SAFE. Związkowcy podkreślają, że oczekuje się od nich poparcia dla działań, których szczegóły pozostają...",
-      "date_published": "2026-03-17T15:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wieden-wraca-do-czasow-zimnej-wojny-Rosyjskie-Russencity-podsluchuje-Zachod-9099589.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wieden-wraca-do-czasow-zimnej-wojny-Rosyjskie-Russencity-podsluchuje-Zachod-9099589.html",
-      "title": "Wiedeń wraca do czasów zimnej wojny. Rosyjskie „Russencity” podsłuchuje Zachód",
-      "content_html": "Podobnie jak w czasach zimnej wojny, anteny satelitarne na dachach należących do Rosji budynków w Wiedniu znów stają się dla Moskwy kluczowym narzędziem szpiegowania Zachodu - pisze we wtorek brytyjski dziennik „Financial Times”.",
-      "date_published": "2026-03-17T15:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pieniadze-dla-JDG-leza-na-stole-Banki-placa-za-przejscie-rekordzista-daje-5000-zl-9097818.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pieniadze-dla-JDG-leza-na-stole-Banki-placa-za-przejscie-rekordzista-daje-5000-zl-9097818.html",
-      "title": "Pieniądze dla JDG leżą na stole. Banki płacą za przejście, rekordzista daje 5000 zł",
-      "content_html": "Czy Twój stary bank co miesiąc każe Ci płacić za prowadzenie rachunku, podstawowe przelewy do ZUS czy obsługę karty firmowej? Jeśli tak, to najwyższy czas na zmianę banku. Sprawdź, gdzie zyskasz najwięcej i zredukujesz koszty firmowe do zera...",
-      "date_published": "2026-03-17T15:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-moze-stracic-pozwolenie-na-bron-Policjanci-prowadza-postepowanie-9099536.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbigniew-Ziobro-moze-stracic-pozwolenie-na-bron-Policjanci-prowadza-postepowanie-9099536.html",
-      "title": "Zbigniew Ziobro może stracić pozwolenie na broń. Policjanci prowadzą postępowanie",
-      "content_html": "Policjanci z KWP w Łodzi prowadzą postępowanie administracyjne zmierzające do cofnięcia Zbigniewowi Ziobrze wydanego pozwolenia na broń. Wszczęto je z urzędu - poinformowała PAP kom. Edyta Machnik, rzeczniczka KWP w Łodzi. Były minister sprawiedliwości...",
-      "date_published": "2026-03-17T15:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
