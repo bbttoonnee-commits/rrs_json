@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
+      "title": "Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł w związku z decyzjami związanymi z przeglądem opcji strategicznych - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-18T11:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tajwanczycy-zamiast-Amerykanow-Na-podwroclawskiej-dzialce-po-Intelu-moze-powstac-ogromna-fabryka-9100130.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajwanczycy-zamiast-Amerykanow-Na-podwroclawskiej-dzialce-po-Intelu-moze-powstac-ogromna-fabryka-9100130.html",
+      "title": "Tajwańczycy zamiast Intela? Pod Wrocławiem może powstać ogromna fabryka Po rezygnacji Intela z budowy zakładu w Miękini pod Wrocławiem, na horyzoncie pojawił się nowy, potężny gracz. Jak ustalił \"Business Insider Polska\", tajwański gigant Foxconn wraz z grupą partnerów rozważa inwestycję w Polsce. Skala projektu przyćmiewa plany Amerykanów - docelowo zatrudnienie może znaleźć nawet 40 tys. osób.",
+      "content_html": "",
+      "date_published": "2026-03-18T11:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-Unii-Europejskiej-w-lutym-2026-Rumunia-samodzielnym-liderem-euroinflacji-9100113.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-Unii-Europejskiej-w-lutym-2026-Rumunia-samodzielnym-liderem-euroinflacji-9100113.html",
+      "title": "Rumunia uciekła z inflacyjnego peletonu i jest samodzielnym liderem euroinflacji Kolejny miesiąc z rzędu Rumunia utrzymała się na niechlubnym miejscu inflacyjnego lidera Unii Europejskiej.",
+      "content_html": "",
+      "date_published": "2026-03-18T11:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-MLP-Group-w-26-moga-wzrosnac-o-20-30-proc-rdr-grupa-analizuje-nowe-rynki-wywiad-9100122.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-MLP-Group-w-26-moga-wzrosnac-o-20-30-proc-rdr-grupa-analizuje-nowe-rynki-wywiad-9100122.html",
+      "title": "WYWIAD Przychody MLP Group w '26 mogą wzrosnąć o 20-30 proc. rdr. Grupa analizuje nowe rynki MLP Group w I kw. notuje wysoką aktywność najemców, którzy chcą zapewnić sobie bezpieczeństwo łańcuchów dostaw, a w całym 2026 r. przychody grupy mogą wzrosnąć o 20-30 proc. rdr – ocenił w rozmowie z PAP Biznes prezes Radosław T. Krochta. Grupa analizuje nowe rynki - Beneluks, a także rynek północnych Włoch.",
+      "content_html": "",
+      "date_published": "2026-03-18T11:16:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-chce-wyplacic-49-98-zl-dywidendy-na-akcje-9100093.html",
       "url": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-chce-wyplacic-49-98-zl-dywidendy-na-akcje-9100093.html",
       "title": "Santander Bank Polska chce wypłacić 49,98 zł dywidendy na akcję Santander Bank Polska chce wypłacić 49,98 zł dywidendy na akcję z zysku za 2025 r. oraz z części zysków osiągniętych w latach ubiegłych - podał bank w komunikacie. Łączna kwota dywidendy będzie wynosić 5,1 mld zł.",
