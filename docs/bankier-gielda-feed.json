@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-rozpoczyna-proces-certyfikacji-IVDR-systemu-BACTEROMIC-z-Panelem-UNI-FAST-9100305.html",
+      "url": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-rozpoczyna-proces-certyfikacji-IVDR-systemu-BACTEROMIC-z-Panelem-UNI-FAST-9100305.html",
+      "title": "Scope Fluidics rozpoczyna proces certyfikacji IVDR systemu BACTEROMIC z Panelem UNI FAST Spółka zależna Scope Fluidics złożyła jednostce notyfikowanej dokumentację inicjującą proces certyfikacji IVDR dla systemu BACTEROMIC z Panelem UNI FAST. Uzyskanie certyfikatu spodziewane jest w połowie roku - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-18T15:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EU-Inc-jako-odpowiedz-na-fragmentacje-rynku-Jak-KE-chce-ratowac-konkurencyjnosc-Europy-9100288.html",
+      "url": "https://www.bankier.pl/wiadomosc/EU-Inc-jako-odpowiedz-na-fragmentacje-rynku-Jak-KE-chce-ratowac-konkurencyjnosc-Europy-9100288.html",
+      "title": "\"EU Inc.\" jako odpowiedź na fragmentację rynku. Jak KE chce ratować konkurencyjność Europy? Przewodnicząca Komisji Europejskiej Ursula von der Leyen zapowiedziała w środę nową unijną inicjatywę pod nazwą „EU Inc.\", określaną jako tzw. 28. reżim prawny, dzięki któremu prowadzenie działalności gospodarczej ma być łatwiejsze.",
+      "content_html": "",
+      "date_published": "2026-03-18T14:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Opinia-Rady-Wierzycieli-nie-wstrzymuje-procesu-zatwierdzenia-planu-restrukturyzacji-PKP-Cargo-9100198.html",
       "url": "https://www.bankier.pl/wiadomosc/Opinia-Rady-Wierzycieli-nie-wstrzymuje-procesu-zatwierdzenia-planu-restrukturyzacji-PKP-Cargo-9100198.html",
       "title": "Sędzia-komisarz zdecyduje o losach PKP Cargo. Głos wierzycieli nie jest wiążący? Opinia Rady Wierzycieli nie wstrzymuje procesu zatwierdzenia planu restrukturyzacji PKP Cargo - podała spółka w komunikacie prasowym. We wtorek podano, że według Rady Wierzycieli PKP Cargo przyjęte w planie restrukturyzacyjnym spółki założenia wiążą się z \"istotnym ryzykiem\" braku osiągnięcia prognozowanych wyników, a sam plan powinien zostać zmieniony oraz uszczegółowiony.",
@@ -527,20 +541,6 @@
       "title": "KNF zatwierdziła prospekt Scanway w związku z planowanym przeniesieniem notowań na główny rynek GPW Komisja Nadzoru Finansowego zatwierdziła prospekt Scanway w związku z planowanym przeniesieniem notowań akcji spółki z NewConnect na główny rynek GPW - podał Scanway w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-03-16T15:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Robinson-Europe-chce-wyplacic-0-1-zl-dywidendy-na-akcje-9099005.html",
-      "url": "https://www.bankier.pl/wiadomosc/Robinson-Europe-chce-wyplacic-0-1-zl-dywidendy-na-akcje-9099005.html",
-      "title": "Robinson Europe chce wypłacić 0,1 zł dywidendy na akcję Akcjonariusze Robinson Europe zdecydują o przeznaczeniu na dywidendę ok. 145 tys. zł z zysku za rok obrotowy 2024/2025, czyli 0,1 zł dywidendy na akcję - wynika z projektów uchwał walnego zgromadzenia zwołanego na 13 kwietnia.",
-      "content_html": "",
-      "date_published": "2026-03-16T15:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jeden-instrument-wielu-emitentow-Trwa-publiczna-emisja-certyfikatow-Michael-Strom-Obligacji-Korporacyjnych-FIZ-9099004.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jeden-instrument-wielu-emitentow-Trwa-publiczna-emisja-certyfikatow-Michael-Strom-Obligacji-Korporacyjnych-FIZ-9099004.html",
-      "title": "Jeden instrument, wielu emitentów. Trwa publiczna emisja certyfikatów Michael / Ström Obligacji Korporacyjnych FIZ Trwają zapisy na certyfikaty inwestycyjne Michael / Ström Obligacji Korporacyjnych FIZ. Emisja potrwa do 27 marca, a fundusz planuje pozyskać do 32 mln zł. Co warto wiedzieć o funduszu i jak złożyć zapis?",
-      "content_html": "",
-      "date_published": "2026-03-16T15:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
