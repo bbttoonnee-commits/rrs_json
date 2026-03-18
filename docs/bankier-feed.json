@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/CI-Games-w-ABB-sprzedalo-28-mln-akcji-po-cenie-2-50-zl-za-sztuke-9100576.html",
+      "url": "https://www.bankier.pl/wiadomosc/CI-Games-w-ABB-sprzedalo-28-mln-akcji-po-cenie-2-50-zl-za-sztuke-9100576.html",
+      "title": "CI Games w ABB sprzedało 28 mln akcji, po cenie 2,50 zł za sztukę",
+      "content_html": "CI Games zakończyło proces przyspieszonej budowy księgi popytu na 28 mln akcji nowej emisji serii M - poinformowała spółka w komunikacie. W ramach ABB inwestorzy zgłosili popyt na cały oferowany pakiet, a władze spółki wyznaczyły cenę emisyjną...",
+      "date_published": "2026-03-18T23:36:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MSZ-Ukrainy-chwali-polski-sad-za-decyzje-ws-rosyjskiego-archeologa-9100521.html",
       "url": "https://www.bankier.pl/wiadomosc/MSZ-Ukrainy-chwali-polski-sad-za-decyzje-ws-rosyjskiego-archeologa-9100521.html",
       "title": "MSZ Ukrainy chwali polski sąd za decyzję ws. rosyjskiego archeologa",
@@ -695,13 +702,6 @@
       "title": "Kryzys na lotniskach w USA. 50 tys. osób pracuje za darmo",
       "content_html": "Jeśli problemy z finansowaniem ministerstwa bezpieczeństwa krajowego USA będą przeciągać się w czasie, niektóre lotniska w kraju mogą zostać zamknięte w najbliższych tygodniach w związku z brakami personelu - zapowiedział we wtorek przedstawiciel...",
       "date_published": "2026-03-18T07:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-zagrozone-Elon-Musk-i-zespol-DOGE-wycieli-specjalistow-od-kryzysow-9099887.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-zagrozone-Elon-Musk-i-zespol-DOGE-wycieli-specjalistow-od-kryzysow-9099887.html",
-      "title": "Ceny ropy zagrożone. Elon Musk i zespół DOGE wycięli specjalistów od kryzysów",
-      "content_html": "Ubiegłoroczne masowe zwolnienia w Departamencie Stanu pozbawiły administrację Donalda Trumpa ekspertów, którzy przygotowywali m.in. scenariusze na wypadek zamknięcia cieśniny Ormuz - podał we wtorek portal NOTUS. Był to efekt cięć zainicjowanych...",
-      "date_published": "2026-03-18T07:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
