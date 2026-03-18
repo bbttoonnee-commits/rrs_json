@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Opinia-Rady-Wierzycieli-nie-wstrzymuje-procesu-zatwierdzenia-planu-restrukturyzacji-PKP-Cargo-9100198.html",
+      "url": "https://www.bankier.pl/wiadomosc/Opinia-Rady-Wierzycieli-nie-wstrzymuje-procesu-zatwierdzenia-planu-restrukturyzacji-PKP-Cargo-9100198.html",
+      "title": "Sędzia-komisarz zdecyduje o losach PKP Cargo. Głos wierzycieli nie jest wiążący? Opinia Rady Wierzycieli nie wstrzymuje procesu zatwierdzenia planu restrukturyzacji PKP Cargo - podała spółka w komunikacie prasowym. We wtorek podano, że według Rady Wierzycieli PKP Cargo przyjęte w planie restrukturyzacyjnym spółki założenia wiążą się z \"istotnym ryzykiem\" braku osiągnięcia prognozowanych wyników, a sam plan powinien zostać zmieniony oraz uszczegółowiony.",
+      "content_html": "",
+      "date_published": "2026-03-18T12:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
       "url": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
       "title": "Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł w związku z decyzjami związanymi z przeglądem opcji strategicznych - podała spółka w komunikacie.",
@@ -86,13 +93,6 @@
       "title": "Ministerstwo pomajstrowało przy OKI. Zmiany w limitach, lista aktywów i kolejna data startu Poznaliśmy nową wersję projektu Ustawy o osobistych kontach inwestycyjnych. To odpowiedź na szereg uwag, które trafiły do Ministerstwa Finansów w ramach procesu konsultacji nowego produktu. Wiemy już, że OKI zanotuje kolejny poślizg czasowy i pojawi się lista aktywów kwalifikowanych oraz kilka innych ważnych dla inwestorów zmian.",
       "content_html": "",
       "date_published": "2026-03-18T06:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-InPostu-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9099962.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-InPostu-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9099962.html",
-      "title": "Wyniki InPostu w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki InPostu w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-03-18T06:14:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Europejska-zbrojeniowka-lapie-zadyszke-Sama-wojna-dla-rynkow-to-juz-za-malo-9099636.html",
@@ -541,20 +541,6 @@
       "title": "Jeden instrument, wielu emitentów. Trwa publiczna emisja certyfikatów Michael / Ström Obligacji Korporacyjnych FIZ Trwają zapisy na certyfikaty inwestycyjne Michael / Ström Obligacji Korporacyjnych FIZ. Emisja potrwa do 27 marca, a fundusz planuje pozyskać do 32 mln zł. Co warto wiedzieć o funduszu i jak złożyć zapis?",
       "content_html": "",
       "date_published": "2026-03-16T15:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-lutym-2026-roku-wreszcie-powrocila-do-celu-NBP-9098933.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-lutym-2026-roku-wreszcie-powrocila-do-celu-NBP-9098933.html",
-      "title": "Inflacja bazowa wreszcie znalazła się w celu NBP. Po „zaledwie” 6 latach Potrzeba było przeszło 6 lat, aby inflacja bazowa powróciła do 2,5-procentowego celu NBP.",
-      "content_html": "",
-      "date_published": "2026-03-16T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Glownym-zrodlem-przychodow-Syn2bio-beda-umowy-partneringowe-spolka-nie-zaklada-obecnie-emisji-9098897.html",
-      "url": "https://www.bankier.pl/wiadomosc/Glownym-zrodlem-przychodow-Syn2bio-beda-umowy-partneringowe-spolka-nie-zaklada-obecnie-emisji-9098897.html",
-      "title": "Głównym źródłem przychodów Syn2bio będą umowy partneringowe. Spółka nie zakłada obecnie emisji Głównym źródłem przychodów Syn2bio będą umowy partneringowe, ale kontynuacja badań klinicznych kardioznacznika będzie finansowana m.in. ze środków zapewnionych przez Synektik. Spółka nie zakłada obecnie konieczności emisji akcji - poinformował zarząd podczas konferencji.",
-      "content_html": "",
-      "date_published": "2026-03-16T12:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
