@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/CI-Games-rozpoczyna-ABB-chce-zaoferowac-ok-28-mln-akcji-9100415.html",
+      "url": "https://www.bankier.pl/wiadomosc/CI-Games-rozpoczyna-ABB-chce-zaoferowac-ok-28-mln-akcji-9100415.html",
+      "title": "CI Games rozpoczyna ABB. Chce zaoferować ok. 28 mln akcji",
+      "content_html": "Zarząd CI Games podjął uchwałę w sprawie podwyższenia kapitału zakładowego spółki poprzez emisję nowych akcji serii M. Spółka rozpoczyna proces budowy księgi popytu na akcje serii M i chce zaoferować ok. 28 mln akcji - podała spółka...",
+      "date_published": "2026-03-18T17:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Iranu-potwierdza-smierc-ministra-wywiadu-Tchorzliwe-zabojstwa-9100392.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Iranu-potwierdza-smierc-ministra-wywiadu-Tchorzliwe-zabojstwa-9100392.html",
+      "title": "Prezydent Iranu potwierdza śmierć ministra wywiadu. \"Tchórzliwe zabójstwa\"",
+      "content_html": "Prezydent Iranu Masud Pezeszkian potwierdził w środę śmierć ministra wywiadu Esmaila Chatiba. Wcześniej Izrael oznajmił, że został on zabity w „precyzyjnym uderzeniu” w Teheranie.",
+      "date_published": "2026-03-18T17:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Litwa-utworzy-nowy-poligon-przy-granicy-z-Polska-Rzad-zatwierdzil-projekt-9100385.html",
+      "url": "https://www.bankier.pl/wiadomosc/Litwa-utworzy-nowy-poligon-przy-granicy-z-Polska-Rzad-zatwierdzil-projekt-9100385.html",
+      "title": "Litwa utworzy nowy poligon przy granicy z Polską. Rząd zatwierdził projekt",
+      "content_html": "Rząd Litwy zatwierdził w środę projekt ustawy o utworzeniu poligonu w Kopciowie przy granicy z Polską. Ostateczną decyzję ma podjąć Sejm. Minister obrony Robertas Kaunas podkreślił, że planowany poligon w obszarze przesmyku suwalskiego jest...",
+      "date_published": "2026-03-18T16:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-o-wecie-Nawrockiego-Przeprosiny-moglyby-oczyscic-atmosfere-9100307.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-o-wecie-Nawrockiego-Przeprosiny-moglyby-oczyscic-atmosfere-9100307.html",
+      "title": "Kosiniak-Kamysz o wecie Nawrockiego: Przeprosiny mogłyby oczyścić atmosferę",
+      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz uważa, że weto do ustawy o SAFE było błędem i niedobrą decyzją. Dlatego, jak dodał, „warto za nią przeprosić”, co mogłoby „oczyścić atmosferę”. Bezpieczeństwo wymaga współpracy...",
+      "date_published": "2026-03-18T16:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Co-dalej-z-cenami-pradu-dla-firm-Domanski-Placimy-rachunek-za-bezczynnosc-poprzednikow-9100381.html",
+      "url": "https://www.bankier.pl/wiadomosc/Co-dalej-z-cenami-pradu-dla-firm-Domanski-Placimy-rachunek-za-bezczynnosc-poprzednikow-9100381.html",
+      "title": "Co dalej z cenami prądu dla firm? Domański: Płacimy rachunek za bezczynność poprzedników",
+      "content_html": "Transformacja energetyczna to kluczowy element przywracania konkurencyjności polskiej gospodarce - powiedział w środę w Siemianowicach Śląskich minister finansów i gospodarki Andrzej Domański.",
+      "date_published": "2026-03-18T16:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Hennig-Kloska-o-systemie-kaucyjnym-Wraca-60-proc-butelek-9100376.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hennig-Kloska-o-systemie-kaucyjnym-Wraca-60-proc-butelek-9100376.html",
+      "title": "Hennig-Kloska o systemie kaucyjnym: Wraca 60 proc. butelek",
+      "content_html": "Około 60 proc. butelek, które trafiły do sprzedaży w pierwszym kwartale br., wróciło do systemu w ramach mechanizmu kaucyjnego – poinformowała w środę w Rzeszowie ministra klimatu i środowiska Paulina Hennig-Kloska. Zapowiedziała spotkanie...",
+      "date_published": "2026-03-18T16:38:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Niemcy-nie-wezma-udzialu-w-misji-militarnej-w-ciesninie-Ormuz-9100308.html",
       "url": "https://www.bankier.pl/wiadomosc/Niemcy-nie-wezma-udzialu-w-misji-militarnej-w-ciesninie-Ormuz-9100308.html",
       "title": "Niemcy nie wezmą udziału w misji militarnej w cieśninie Ormuz",
@@ -64,13 +106,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-rozpoczyna-proces-certyfikacji-IVDR-systemu-BACTEROMIC-z-Panelem-UNI-FAST-9100305.html",
       "title": "Scope Fluidics rozpoczyna proces certyfikacji IVDR dla panelu UNI FAST",
       "content_html": "Spółka zależna Scope Fluidics złożyła jednostce notyfikowanej dokumentację inicjującą proces certyfikacji IVDR dla systemu BACTEROMIC z Panelem UNI FAST. Uzyskanie certyfikatu spodziewane jest w połowie roku - podała spółka w komunikacie...",
-      "date_published": "2026-03-18T15:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-o-wecie-Nawrockiego-Przeprosiny-moglyby-oczyscic-atmosfere-9100307.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-o-wecie-Nawrockiego-Przeprosiny-moglyby-oczyscic-atmosfere-9100307.html",
-      "title": "Kosiniak-Kamysz o wecie Nawrockiego: Przeprosiny mogłyby oczyścić atmosferę",
-      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz uważa, że weto do ustawy o SAFE było błędem i niedobrą decyzją. Dlatego, jak dodał, „warto za nią przeprosić”, co mogłoby „oczyścić atmosferę”. Bezpieczeństwo wymaga współpracy...",
       "date_published": "2026-03-18T15:14:00+01:00"
     },
     {
@@ -277,6 +312,20 @@
       "date_published": "2026-03-18T11:40:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dadelo-na-szczycie-Enea-odbila-Kwadrans-z-analiza-techniczna-9100137.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dadelo-na-szczycie-Enea-odbila-Kwadrans-z-analiza-techniczna-9100137.html",
+      "title": "Dadelo na szczycie, Enea odbiła. Kwadrans z analizą techniczną",
+      "content_html": "Wartość mojego portfela mocno się waha, a na niektórych spółkach ewidentnie widać realizację zysków przez inwestorów obawiających się załamania trendu wzrostowego. Zapytałem eksperta od analizy technicznej gdzie widać sygnały odwrotu.",
+      "date_published": "2026-03-18T11:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bilion-zlotych-w-dekade-Premier-oglasza-nowy-plan-na-energetyke-9100094.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bilion-zlotych-w-dekade-Premier-oglasza-nowy-plan-na-energetyke-9100094.html",
+      "title": "Bilion złotych w dekadę. Premier ogłasza nowy plan na energetykę",
+      "content_html": "W ciągu dekady Polska zainwestuje 1 bln zł w energetykę, w tym w OZE, magazyny energii, w elektrownię jądrową i w dystrybucję - poinformował premier Donald Tusk.",
+      "date_published": "2026-03-18T11:24:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tajwanczycy-zamiast-Amerykanow-Na-podwroclawskiej-dzialce-po-Intelu-moze-powstac-ogromna-fabryka-9100130.html",
       "url": "https://www.bankier.pl/wiadomosc/Tajwanczycy-zamiast-Amerykanow-Na-podwroclawskiej-dzialce-po-Intelu-moze-powstac-ogromna-fabryka-9100130.html",
       "title": "Tajwańczycy zamiast Intela? Pod Wrocławiem może powstać ogromna fabryka",
@@ -359,20 +408,6 @@
       "title": "Rainbow Tours szacuje wpływ kryzysu w Zatoce: 5 mln zł kosztów i 3 mln zł utraconej marży",
       "content_html": "Rainbow Tours szacuje do 5 mln zł nadzwyczajnych kosztów w związku z sytuacją polityczno-gospodarczą w regionie Bliskiego Wschodu - podała spółka w komunikacie. Całość wskazanych kosztów zostanie ujęta w wynikach pierwszego kwartału 2026...",
       "date_published": "2026-03-18T10:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Utrudnianie-klientom-Allegro-wyboru-dostaw-znacznie-obniza-wolumeny-InPostu-prezes-9100070.html",
-      "url": "https://www.bankier.pl/wiadomosc/Utrudnianie-klientom-Allegro-wyboru-dostaw-znacznie-obniza-wolumeny-InPostu-prezes-9100070.html",
-      "title": "Brzoska: Allegro utrudnia klientom wybór InPostu. Wojna o 100 mln zł kary",
-      "content_html": "Stosowany przez Allegro mechanizm utrudniający klientom wybór formy dostaw przesyłek znacznie obniża wolumeny InPostu w Polsce - ocenia prezes InPostu Rafał Brzoska.",
-      "date_published": "2026-03-18T10:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-w-polskim-handlu-Stokrotka-trafila-w-nowe-rece-9100064.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-w-polskim-handlu-Stokrotka-trafila-w-nowe-rece-9100064.html",
-      "title": "Trzęsienie ziemi w polskim handlu. Stokrotka trafiła w nowe ręce",
-      "content_html": "Litewski gigant handlowy, Maxima Grupe, sfinalizował transakcję, która odbije się szerokim echem w polskim handlu detalicznym. Prawie 1000 sklepów sieci Stokrotka formalnie zmieniło właściciela. Choć transakcja ma charakter wewnątrzholdingowy...",
-      "date_published": "2026-03-18T10:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rusza-nowy-bon-turystyczny-tym-razem-na-Podlasiu-Znow-bedzie-hit-9100045.html",
@@ -625,62 +660,6 @@
       "title": "Wielkie kontrakty przepadają przez e-Doręczenia. Firmy ofiarami cyfrowego bałaganu",
       "content_html": "Część sporów o zamówienia publiczne nie jest rozpoznawana, bo firmy wnoszą odwołania przez skrzynkę do e-Doręczeń - pisze w środę „Rzeczpospolita”. Gazeta podkreśla, że właśnie ten sposób rekomenduje UZP.",
       "date_published": "2026-03-18T04:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pozar-na-najwiekszym-lotniskowcu-swiata-Gerald-R-Ford-musi-zawinac-do-portu-9099938.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozar-na-najwiekszym-lotniskowcu-swiata-Gerald-R-Ford-musi-zawinac-do-portu-9099938.html",
-      "title": "Pożar na największym lotniskowcu świata. Gerald R. Ford musi zawinąć do portu",
-      "content_html": "Amerykański lotniskowiec Gerald R. Ford, który wspiera operację zbrojną przeciwko Iranowi, zawinie na pewien czas do portu na Krecie w związku z pożarem, który niedawno wybuchł na tej jednostce - podała we wtorek agencja Reutera, powołując...",
-      "date_published": "2026-03-18T02:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cios-w-serce-Iranu-Nie-zyje-szef-Rady-Bezpieczenstwa-Ali-Laridzani-9099925.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cios-w-serce-Iranu-Nie-zyje-szef-Rady-Bezpieczenstwa-Ali-Laridzani-9099925.html",
-      "title": "Cios w serce Iranu. Nie żyje szef Rady Bezpieczeństwa Ali Laridżani",
-      "content_html": "Najwyższa Rada Bezpieczeństwa Narodowego Iranu potwierdziła we wtorek wieczorem, że nie żyje jej przewodniczący Ali Laridżani. Wcześniej o śmierci szefa organu, który m.in. kształtuje irańską politykę nuklearną, poinformował Izrael.",
-      "date_published": "2026-03-17T23:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dowiedz-sie-jak-inwestuja-najlepsi-Juz-w-piatek-i-sobote-Invest-Cuffs-2026-najwiekszy-kongres-inwestycyjny-w-Polsce-9099918.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dowiedz-sie-jak-inwestuja-najlepsi-Juz-w-piatek-i-sobote-Invest-Cuffs-2026-najwiekszy-kongres-inwestycyjny-w-Polsce-9099918.html",
-      "title": "Dowiedz się, jak inwestują najlepsi! Już w piątek i sobotę Invest Cuffs 2026, największy kongres inwestycyjny w Polsce",
-      "content_html": "Już 20 i 21 marca 2026 roku Kraków ponownie stanie się centrum finansowego świata. Invest Cuffs, największa w Europie Środkowo-Wschodniej konferencja poświęcona inwestowaniu, rynkom i gospodarce, powraca z dwunastą edycją. Wydarzenie zgromadzi...",
-      "date_published": "2026-03-17T22:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-chce-zmiany-planu-restrukturyzacyjnego-spolki-9099915.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-Wierzycieli-PKP-Cargo-chce-zmiany-planu-restrukturyzacyjnego-spolki-9099915.html",
-      "title": "Plan restrukturyzacji PKP Cargo do poprawki. Wierzyciele żądają szczegółów",
-      "content_html": "Według Rady Wierzycieli PKP Cargo przyjęte w planie restrukturyzacyjnym spółki założenia wiążą się z „istotnym ryzykiem” braku osiągnięcia prognozowanych wyników, a sam plan powinien zostać zmieniony oraz uszczegółowiony - przekazał...",
-      "date_published": "2026-03-17T22:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontyuacja-wzrostow-na-Wall-Street-Czy-Fed-pomoz-9099897.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontyuacja-wzrostow-na-Wall-Street-Czy-Fed-pomoz-9099897.html",
-      "title": "Kontyuacja wzrostów na Wall Street. Czy Fed pomoże?",
-      "content_html": "Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów podobnie jak dzień wcześniej, a inwestorzy liczą, że uda się znaleźć rozwiązanie konfliktu na Bliskim Wschodzie.",
-      "date_published": "2026-03-17T21:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zwiazek-Wypedzonych-zada-wiecej-empatii-dla-Niemcow-Zagrozony-dialog-historyczny-z-sasiadami-9099871.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zwiazek-Wypedzonych-zada-wiecej-empatii-dla-Niemcow-Zagrozony-dialog-historyczny-z-sasiadami-9099871.html",
-      "title": "Związek Wypędzonych żąda „więcej empatii” dla Niemców. Zagrożony dialog historyczny z sąsiadami",
-      "content_html": "Centrum Dokumentacji Ucieczka, Wypędzenie, Pojednanie w Berlinie połączyło pamięć o niemieckich ofiarach wojny z porozumieniem z sąsiadami. Związek Wypędzonych (BdV) chce przejąć kontrolę nad muzeum, co może ponownie wywołać zarzuty o rewizjonizm...",
-      "date_published": "2026-03-17T20:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/140-mln-dolarow-dziennie-dla-Teheranu-Iran-zarabia-na-ropie-mimo-wojn-9099870.html",
-      "url": "https://www.bankier.pl/wiadomosc/140-mln-dolarow-dziennie-dla-Teheranu-Iran-zarabia-na-ropie-mimo-wojn-9099870.html",
-      "title": "140 mln dolarów dziennie dla Teheranu. Iran zarabia na ropie mimo wojen",
-      "content_html": "Od czasu rozpoczęcia ataków USA i Izraela na Iran pod koniec ubiegłego miesiąca, co najmniej 13 tankowców załadowało ropę naftową w głównym irańskim terminalu eksportowym na wyspie Chark; Teheran wciąż eksportuje 1,5 mln baryłek ropy dziennie...",
-      "date_published": "2026-03-17T20:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-zostal-uniewazniony-9099670.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-PKP-PLK-zostal-uniewazniony-9099670.html",
-      "title": "Budimex traci kontrakt na Rail Baltica? KIO nakazuje ponowną ocenę ofert w kluczowym przetargu",
-      "content_html": "PKP PLK po wyroku KIO, który unieważnił wybór konsorcjum, którego liderem jest Budimex, w przetargu na linię kolejową Białystok-Ełk, muszą po raz kolejny wybrać wykonawcę - przekazały we wtorek PAP PKP PLK. Budimex przekazał, że przeanalizuje...",
-      "date_published": "2026-03-17T20:20:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
