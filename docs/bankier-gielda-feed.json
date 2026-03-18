@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/InPost-planuje-2-4-mld-zl-inwestycji-w-2026-roku-9100051.html",
+      "url": "https://www.bankier.pl/wiadomosc/InPost-planuje-2-4-mld-zl-inwestycji-w-2026-roku-9100051.html",
+      "title": "InPost planuje 2,4 mld zł inwestycji w 2026 roku InPost planuje zwiększyć swoje wydatki inwestycyjne w 2026 roku do 2,4 mld zł z 1,8 mld zł w 2025 roku - poinformowała Inga Jędrzejewska, zastępca CFO InPostu, podczas środowej konferencji prasowej.",
+      "content_html": "",
+      "date_published": "2026-03-18T09:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kryptowaluty-przyciagnely-inwestorow-z-GPW-Na-dniach-pojawi-sie-produkt-jakiego-jeszcze-nie-bylo-9099913.html",
       "url": "https://www.bankier.pl/wiadomosc/Kryptowaluty-przyciagnely-inwestorow-z-GPW-Na-dniach-pojawi-sie-produkt-jakiego-jeszcze-nie-bylo-9099913.html",
       "title": "Kryptowaluty przyciągnęły inwestorów z GPW. Na dniach pojawi się produkt, jakiego jeszcze nie było Szwedzka firma Virtune chce jeszcze w marcu wprowadzić do obrotu na warszawskiej giełdzie kolejne produkty pozwalające uzyskać ekspozycję na cyfrowe waluty. Te, które zadebiutowały jako pierwsze przed trzema tygodniami, przyciągnęły w jej ocenie już ponad dwa tysiące inwestorów.",
@@ -520,27 +527,6 @@
       "title": "Dariusz Dziubiński dołącza do biura analiz Ipopema Securities Dariusz Dziubiński dołącza od 16 marca do Ipopema Securities i wraz z Marcinem Nowakiem obejmie stanowisko Co-Head of Research / współdyrektora biura analiz - poinformowała Ipopema Securities w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-16T10:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-drozeje-Konflikt-na-Bliskim-Wschodzie-trwa-juz-3-tydzien-9098771.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-drozeje-Konflikt-na-Bliskim-Wschodzie-trwa-juz-3-tydzien-9098771.html",
-      "title": "Gaz w Europie drożeje. Konflikt na Bliskim Wschodzie trwa już 3. tydzień Ceny gazu w Europie rosną wraz z mocno zwyżkującymi notowaniami ropy naftowej. Konflikt na Bliskim Wschodzie trwa już 3. tydzień i nic nie wskazuje na to, aby miał wygasnąć - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-03-16T09:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Green-Lanes-rozpoczal-budowe-ksiegi-popytu-na-maks-307-293-nowo-emitowane-akcje-serii-G-9098753.html",
-      "url": "https://www.bankier.pl/wiadomosc/Green-Lanes-rozpoczal-budowe-ksiegi-popytu-na-maks-307-293-nowo-emitowane-akcje-serii-G-9098753.html",
-      "title": "Green Lanes rozpoczął budowę księgi popytu na maks. 307.293 nowo emitowane akcje serii G Green Lanes rozpoczął budowę księgi popytu na nie więcej niż 307.293 nowo emitowane akcje zwykłe na okaziciela serii G - podała spółka w komunikacie. Zakończenie procesu budowy księgi popytu planowane jest na 18 marca 2026 roku, ale może on zakończyć się wcześniej - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-16T08:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GreenX-przeprowadzil-emisje-598-235-000-dla-konsultanta-w-miejsce-gotowki-9098725.html",
-      "url": "https://www.bankier.pl/wiadomosc/GreenX-przeprowadzil-emisje-598-235-000-dla-konsultanta-w-miejsce-gotowki-9098725.html",
-      "title": "GreenX przeprowadził emisję 598 235 dla konsultanta w miejsce gotówki GreenX Metals przeprowadził emisję 598 235 w pełni opłaconych akcji zwykłych dla konsultanta w miejsce gotówki - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-16T08:55:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
