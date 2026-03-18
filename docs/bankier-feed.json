@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Powstala-mapa-powiazan-w-samorzadach-Kazdy-musi-gdzies-pracowac-9100009.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powstala-mapa-powiazan-w-samorzadach-Kazdy-musi-gdzies-pracowac-9100009.html",
+      "title": "Powstała mapa powiązań w samorządach. \"Każdy musi gdzieś pracować\"",
+      "content_html": "Czy radny, który ma kontrolować prezydenta lub burmistrza, może być jednocześnie jego pracownikiem? Choć prawo w wielu przypadkach na to pozwala, budzi to ogromne kontrowersje etyczne. Sieć Obywatelska Watchdog Polska uruchomiła specjalny serwis...",
+      "date_published": "2026-03-18T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Parafie-jako-centra-pomocy-MSWiA-i-MON-zaciesniaja-wspolprace-z-Kosciolem-9100001.html",
+      "url": "https://www.bankier.pl/wiadomosc/Parafie-jako-centra-pomocy-MSWiA-i-MON-zaciesniaja-wspolprace-z-Kosciolem-9100001.html",
+      "title": "\"Jak trwoga, to na parafię\"? Strategiczny dialog MSWiA i MON z Kościołem",
+      "content_html": "MSWiA chce współpracować z Kościołem w kwestii wzmocnienia bezpieczeństwa lokalnego. Chodzi o organizowanie doraźnego wsparcia materialnego i wykorzystanie rozproszonej infrastruktury parafialnej, jako centrów dystrybucji pomocy lub miejsc schronienia...",
+      "date_published": "2026-03-18T07:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-po-danych-o-jej-zapasach-9100012.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-po-danych-o-jej-zapasach-9100012.html",
+      "title": "Ceny miedzi w Londynie spadają po danych o jej zapasach",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie zniżkują po danych o jej zapasach - informują maklerzy.",
+      "date_published": "2026-03-18T07:51:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZUS-Od-marca-wyzsze-swiadczenie-dla-stulatkow-Znamy-nowa-kwote-9099975.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZUS-Od-marca-wyzsze-swiadczenie-dla-stulatkow-Znamy-nowa-kwote-9099975.html",
+      "title": "ZUS: Od marca wyższe świadczenie dla stulatków. Znamy nową kwotę",
+      "content_html": "Świadczenie honorowe wypłacane przez ZUS pobiera łącznie 4057 stulatków. Najwięcej w woj. mazowieckim (693), a najmniej w woj. opolskim (76) - poinformował PAP Zakład Ubezpieczeń Społecznych. Od marca kwota świadczenia z tytułu ukończenia...",
+      "date_published": "2026-03-18T07:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-spadaja-Irak-wkracza-do-akcji-9100007.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-spadaja-Irak-wkracza-do-akcji-9100007.html",
       "title": "Przełom w Iraku obniża ceny ropy. Surowiec popłynie do Turcji z ominięciem Ormuz",
@@ -282,6 +310,13 @@
       "title": "Ceny paliw najwyższe od lat. Niemcy i Włochy uderzają w marże koncernów i spekulantów",
       "content_html": "Wiele rządów państw europejskich podjęło działania w związku ze wzrostem cen paliw, wywołanym konfliktem na Bliskim Wschodzie. W Niemczech czy we Włoszech ceny paliw przekroczyły 2 euro za litr. Władze w Berlinie planują wprowadzić rozwiązanie...",
       "date_published": "2026-03-17T19:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-daja-oddech-rosyjskiej-ropie-by-zbic-ceny-Ekspert-UE-moze-to-zniwelowac-9099734.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-daja-oddech-rosyjskiej-ropie-by-zbic-ceny-Ekspert-UE-moze-to-zniwelowac-9099734.html",
+      "title": "USA dają oddech rosyjskiej ropie, by zbić ceny. Ekspert: UE może to zniwelować",
+      "content_html": "W czasie, kiedy Waszyngton wzmacnia wojenny budżet Kremla znosząc sankcje na rosyjską ropę, Europa powinna utrudnić jej sprzedaż, na przykład przez skuteczne aresztowanie statków rosyjskiej floty cieni - ocenia prof. Ernest Czermański z Uniwersytetu...",
+      "date_published": "2026-03-17T19:37:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Studnia-bez-dna-PiS-uderza-w-system-FALA-i-wzywa-NIK-na-pomoc-9099757.html",
@@ -660,41 +695,6 @@
       "title": "KNF zatwierdziła prospekt Cavatina Holding dot. programu emisji obligacji o wartości do 250 mln zł",
       "content_html": "Komisja Nadzoru Finansowego zatwierdziła prospekt Cavatina Holding sporządzony w związku z ofertą publiczną oraz zamiarem ubiegania się o dopuszczenie do obrotu obligacji emitowanych w ramach programu o łącznej wartości nominalnej nie wyższej...",
       "date_published": "2026-03-17T11:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wspolny-portfel-na-zbrojenia-Trzy-kraje-lacza-sily-by-kupowac-bron-9099477.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wspolny-portfel-na-zbrojenia-Trzy-kraje-lacza-sily-by-kupowac-bron-9099477.html",
-      "title": "Wspólny portfel na zbrojenia. Trzy kraje łączą siły, by kupować broń",
-      "content_html": "W obliczu rosnącego zagrożenia na całym świecie, związanego z wojnami w Ukrainie i na Bliskim Wschodzie, Wielka Brytania, Holandia i Finlandia rozważają nawiązanie współpracy w celu wspólnego finansowania i zakupu broni, amunicji oraz sprzętu...",
-      "date_published": "2026-03-17T11:07:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiceminister-infrastruktury-Rail-Baltica-bedzie-miala-10-lat-opoznienia-9099469.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiceminister-infrastruktury-Rail-Baltica-bedzie-miala-10-lat-opoznienia-9099469.html",
-      "title": "Wiceminister infrastruktury: Rail Baltica będzie miała 10 lat opóźnienia",
-      "content_html": "Budowa linii kolejowej Rail Baltica prawdopodobnie zostanie ukończona 10 lat później niż zakładano, gdyż priorytetem jest poprawa stanu istniejących linii na wypadek rosyjskiego ataku - przyznał w rozmowie z dziennikiem „Financial Times” polski...",
-      "date_published": "2026-03-17T11:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Browar-Tenczynek-na-sprzedaz-Czy-pieniedzy-wystarczy-choc-dla-czesci-poszkodowanych-9099465.html",
-      "url": "https://www.bankier.pl/wiadomosc/Browar-Tenczynek-na-sprzedaz-Czy-pieniedzy-wystarczy-choc-dla-czesci-poszkodowanych-9099465.html",
-      "title": "Browar Tenczynek na sprzedaż. Czy pieniędzy wystarczy choć dla części poszkodowanych?",
-      "content_html": "Syndyk prowadzący postępowanie upadłościowe wobec majątku Janusza Palikota wystawił na sprzedaż Browar Tenczynek. Cena wywoławcza historycznego obiektu wynosi 23,7 mln zł. Kwota ta jest jednak znacząco niższa od łącznej sumy wierzytelności...",
-      "date_published": "2026-03-17T10:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiceministra-Rezygnacja-z-systemu-ETS-to-rezygnacja-z-funduszy-na-transformacje-energetyczna-9099468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiceministra-Rezygnacja-z-systemu-ETS-to-rezygnacja-z-funduszy-na-transformacje-energetyczna-9099468.html",
-      "title": "Wiceministra: Rezygnacja z systemu ETS to rezygnacja z funduszy na transformację energetyczną",
-      "content_html": "Wiceminister klimatu i środowiska Urszula Zielińska oceniła, że rezygnacja z Europejskiego Systemu Handlu Emisjami (ETS) to brak funduszy na transformację energetyczną. Do 2032 roku Polska ma otrzymać na ten cel prawie 300 mld zł. Odejście od...",
-      "date_published": "2026-03-17T10:47:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BNP-Paribas-sypie-gotowka-Zgarnij-100-zl-od-reki-za-zalozenie-konta-i-kolejnych-kilka-stowek-za-aktywnosc-9099411.html",
-      "url": "https://www.bankier.pl/wiadomosc/BNP-Paribas-sypie-gotowka-Zgarnij-100-zl-od-reki-za-zalozenie-konta-i-kolejnych-kilka-stowek-za-aktywnosc-9099411.html",
-      "title": "BNP Paribas sypie gotówką. Zgarnij 100 zł od ręki za założenie konta i kolejnych kilka stówek za aktywność",
-      "content_html": "BNP Paribas Bank Polska ruszył z nową promocją. Pierwszą część premii można zyskać już za samo otwarcie konta osobistego. To jednak dopiero początek. Regularne wpływy i kilka transakcji kartą w miesiącu pozwoli zyskać łącznie 550 zł...",
-      "date_published": "2026-03-17T10:45:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
