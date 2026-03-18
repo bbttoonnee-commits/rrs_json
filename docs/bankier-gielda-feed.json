@@ -4,9 +4,30 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Decyzja-Rezerwy-Federalnej-w-marcu-2026-Stopy-procentowe-bez-zmian-i-bez-zaskoczen-9100205.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-Rezerwy-Federalnej-w-marcu-2026-Stopy-procentowe-bez-zmian-i-bez-zaskoczen-9100205.html",
+      "title": "Fed dał na wstrzymanie. Stopy procentowe bez zmian i bez zaskoczeń Federalny Komitet Otwartego Rynku zgodnie z oczekiwaniami inwestorów i ekonomistów postanowił nie zmieniać poziomu stóp procentowych.",
+      "content_html": "",
+      "date_published": "2026-03-18T19:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-25-mld-euro-przychodu-Biedronki-Siec-podsumowala-rok-181-nowymi-otwarciami-9100507.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-25-mld-euro-przychodu-Biedronki-Siec-podsumowala-rok-181-nowymi-otwarciami-9100507.html",
+      "title": "Ponad 25 mld euro przychodu Biedronki. Sieć podsumowała rok 181 nowymi otwarciami Sprzedaż sieci Biedronka, należącej do portugalskiej Jeronimo Martins, w walucie lokalnej w 2025 roku wzrosła o 5,9 proc., a sprzedaż porównywalna LFL w walucie lokalnej wzrosła w zeszłym roku o 1,9 proc. - poinformowało Jeronimo Martins w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-18T19:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-umorzenia-akcji-wlasnych-zmienilo-przeznaczenie-kapitalu-rezerwowego-9100503.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-umorzenia-akcji-wlasnych-zmienilo-przeznaczenie-kapitalu-rezerwowego-9100503.html",
+      "title": "Inne plany w Asseco. Zmiana przeznaczenia kapitału rezerwowego Akcjonariusze Asseco Poland nie podjęli uchwały w sprawie umorzenia akcji własnych spółki. Nie została podjęta również uchwała w sprawie obniżenia kapitału zakładowego - podała spółka w komunikacie. NWZ zdecydowało o zmianie przeznaczenia kapitału rezerwowego, który może być wykorzystany m.in. do wypłaty dywidendy.",
+      "content_html": "",
+      "date_published": "2026-03-18T19:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/ACRX-Investments-zmniejszyl-udzial-w-akcjonariacie-Pure-Biologics-do-ponizej-5-proc-9100485.html",
       "url": "https://www.bankier.pl/wiadomosc/ACRX-Investments-zmniejszyl-udzial-w-akcjonariacie-Pure-Biologics-do-ponizej-5-proc-9100485.html",
-      "title": "ACRX Investments zmniejszył udział w akcjonariacie Pure Biologics do poniżej 5 proc. ACRX Investments, akcjonariusz spółki Pure Biologics, zmniejszył udział w akcjonariacie spółki do 4,98 proc. - podał Pure Biologics w komunikacie.",
+      "title": "ACRX Investments schodzi poniżej progu 5 proc. w akcjonariacie Pure Biologics ACRX Investments, akcjonariusz spółki Pure Biologics, zmniejszył udział w akcjonariacie spółki do 4,98 proc. - podał Pure Biologics w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-18T18:52:00+01:00"
     },
@@ -478,34 +499,6 @@
       "title": "Inwestorzy zabrali się do kupowania akcji. S&P500 odbił się z tegorocznego dna S&P500 odbił się z najniższych poziomów od listopada napędzany przez sektor AI. W tle pozostawała wojna na Bliskim Wschodzie windująca ceny ropy naftowej do ok. stu dolarów za baryłkę.",
       "content_html": "",
       "date_published": "2026-03-16T21:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EPO-wyda-europejski-patent-na-ochrone-antygenowo-specyficznych-limfocytow-Treg-PolTREG-9099225.html",
-      "url": "https://www.bankier.pl/wiadomosc/EPO-wyda-europejski-patent-na-ochrone-antygenowo-specyficznych-limfocytow-Treg-PolTREG-9099225.html",
-      "title": "EPO wyda europejski patent na ochronę antygenowo-specyficznych limfocytów Treg - PolTREG Europejski Urząd Patentowy (EPO) wydał decyzje o zamiarze przyznania Gdańskiemu Uniwersytetowi Medycznemu patentu na ochronę antygenowo-specyficznych limfocytów Treg. Wynalazek ten jest przedmiotem licencji wyłącznej udzielonej PolTREG przez Gdański Uniwersytet Medyczny - podał PolTREG w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-16T19:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-Banku-Millennium-podwyzszyl-rekomendacje-Ambry-do-kupuj-9099213.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-Banku-Millennium-podwyzszyl-rekomendacje-Ambry-do-kupuj-9099213.html",
-      "title": "BM Banku Millennium podwyższył rekomendację Ambry do \"kupuj\" Analitycy BM Banku Millennium, w raporcie z 16 marca podwyższył rekomendację Ambry do \"kupuj\" z \"akumuluj\", wyznaczając cenę docelową akcji spółki na poziomie 23,5 zł.",
-      "content_html": "",
-      "date_published": "2026-03-16T19:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferty-Arlen-o-lacznej-wartosci-120-8-mln-zl-wybrane-jako-najkorzystniejsze-9099205.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferty-Arlen-o-lacznej-wartosci-120-8-mln-zl-wybrane-jako-najkorzystniejsze-9099205.html",
-      "title": "Oferty Arlen o łącznej wartości 120,8 mln zł wybrane jako najkorzystniejsze Oferty Arlen zostały wybrane przez Skarb Państwa - 3 Regionalną Bazę Logistyczną w Krakowie jako najkorzystniejsze - podał Arlen w komunikacie. Łączna wartość ofert złożonych przez spółkę w ramach zamówień podstawowych wynosi 120,8 mln zł brutto.",
-      "content_html": "",
-      "date_published": "2026-03-16T19:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-Santander-Bank-Polska-kary-pieniezne-w-lacznej-wysokosci-21-1-mln-zl-9099181.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-Santander-Bank-Polska-kary-pieniezne-w-lacznej-wysokosci-21-1-mln-zl-9099181.html",
-      "title": "Santander Bank Polska ukarany. KNF wylicza przewinienia banku Komisja Nadzoru Finansowego nałożyła na Santander Bank Polska kary pieniężne w łącznej wysokości 21,1 mln zł - poinformowała KNF w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-16T19:06:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

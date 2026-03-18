@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Decyzja-Rezerwy-Federalnej-w-marcu-2026-Stopy-procentowe-bez-zmian-i-bez-zaskoczen-9100205.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-Rezerwy-Federalnej-w-marcu-2026-Stopy-procentowe-bez-zmian-i-bez-zaskoczen-9100205.html",
+      "title": "Fed dał na wstrzymanie. Stopy procentowe bez zmian i bez zaskoczeń",
+      "content_html": "Federalny Komitet Otwartego Rynku zgodnie z oczekiwaniami inwestorów i ekonomistów postanowił nie zmieniać poziomu stóp procentowych.",
+      "date_published": "2026-03-18T19:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-25-mld-euro-przychodu-Biedronki-Siec-podsumowala-rok-181-nowymi-otwarciami-9100507.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-25-mld-euro-przychodu-Biedronki-Siec-podsumowala-rok-181-nowymi-otwarciami-9100507.html",
+      "title": "Ponad 25 mld euro przychodu Biedronki. Sieć podsumowała rok 181 nowymi otwarciami",
+      "content_html": "Sprzedaż sieci Biedronka, należącej do portugalskiej Jeronimo Martins, w walucie lokalnej w 2025 roku wzrosła o 5,9 proc., a sprzedaż porównywalna LFL w walucie lokalnej wzrosła w zeszłym roku o 1,9 proc. - poinformowało Jeronimo Martins w komunikacie...",
+      "date_published": "2026-03-18T19:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-umorzenia-akcji-wlasnych-zmienilo-przeznaczenie-kapitalu-rezerwowego-9100503.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-umorzenia-akcji-wlasnych-zmienilo-przeznaczenie-kapitalu-rezerwowego-9100503.html",
+      "title": "Inne plany w Asseco. Zmiana przeznaczenia kapitału rezerwowego",
+      "content_html": "Akcjonariusze Asseco Poland nie podjęli uchwały w sprawie umorzenia akcji własnych spółki. Nie została podjęta również uchwała w sprawie obniżenia kapitału zakładowego - podała spółka w komunikacie. NWZ zdecydowało o zmianie przeznaczenia...",
+      "date_published": "2026-03-18T19:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zalosne-i-podlane-cynizmem-Polscy-europoslowie-skrytykowali-wypowiedzi-Brauna-9100486.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zalosne-i-podlane-cynizmem-Polscy-europoslowie-skrytykowali-wypowiedzi-Brauna-9100486.html",
+      "title": "\"Żałosne\" i podlane cynizmem\". Polscy europosłowie skrytykowali wypowiedzi Brauna",
+      "content_html": "Europosłowie KO i PiS skrytykowali w środę antysemickie wypowiedzi polityka Konfederacji Korony Polskiej Grzegorza Brauna, które padły podczas wtorkowego spotkania komisji spraw zagranicznych Parlamentu Europejskiego (AFET) z szefową unijnej dyplomacji...",
+      "date_published": "2026-03-18T18:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ACRX-Investments-zmniejszyl-udzial-w-akcjonariacie-Pure-Biologics-do-ponizej-5-proc-9100485.html",
+      "url": "https://www.bankier.pl/wiadomosc/ACRX-Investments-zmniejszyl-udzial-w-akcjonariacie-Pure-Biologics-do-ponizej-5-proc-9100485.html",
+      "title": "ACRX Investments schodzi poniżej progu 5 proc. w akcjonariacie Pure Biologics",
+      "content_html": "ACRX Investments, akcjonariusz spółki Pure Biologics, zmniejszył udział w akcjonariacie spółki do 4,98 proc. - podał Pure Biologics w komunikacie.",
+      "date_published": "2026-03-18T18:52:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chiny-nie-planuja-inwazji-na-Tajwan-w-2027-r-a-Rosja-nie-chce-konca-wojny-9100466.html",
       "url": "https://www.bankier.pl/wiadomosc/Chiny-nie-planuja-inwazji-na-Tajwan-w-2027-r-a-Rosja-nie-chce-konca-wojny-9100466.html",
       "title": "\"Chiny nie planują inwazji na Tajwan w 2027 r., a Rosja nie chce końca wojny\"",
@@ -41,7 +76,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Odstraszanie-vs-rzeczywiste-zdolnosci-Wyzwania-stojace-przed-wschodnia-flanka-NATO-9100445.html",
       "url": "https://www.bankier.pl/wiadomosc/Odstraszanie-vs-rzeczywiste-zdolnosci-Wyzwania-stojace-przed-wschodnia-flanka-NATO-9100445.html",
-      "title": "Odstraszanie vs. rzeczywiste zdolności. Wyzwania stojące przed wschodnią flanką NATO",
+      "title": "Odstraszanie vs rzeczywiste zdolności. Wyzwania stojące przed wschodnią flanką NATO",
       "content_html": "Obecność dwóch brygad sił USA w Polsce jest kluczowa dla natowskiego odstraszania - oświadczył w środę gen. Alexus Grynkewich, dowódca sił USA i NATO w Europie podczas wysłuchania w Izbie Reprezentantów. Dodał, że nie rekomenduje obecnie...",
       "date_published": "2026-03-18T17:56:00+01:00"
     },
@@ -109,13 +144,6 @@
       "date_published": "2026-03-18T16:45:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-o-wecie-Nawrockiego-Przeprosiny-moglyby-oczyscic-atmosfere-9100307.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-o-wecie-Nawrockiego-Przeprosiny-moglyby-oczyscic-atmosfere-9100307.html",
-      "title": "Kosiniak-Kamysz o wecie Nawrockiego: Przeprosiny mogłyby oczyścić atmosferę",
-      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz uważa, że weto do ustawy o SAFE było błędem i niedobrą decyzją. Dlatego, jak dodał, „warto za nią przeprosić”, co mogłoby „oczyścić atmosferę”. Bezpieczeństwo wymaga współpracy...",
-      "date_published": "2026-03-18T16:43:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Co-dalej-z-cenami-pradu-dla-firm-Domanski-Placimy-rachunek-za-bezczynnosc-poprzednikow-9100381.html",
       "url": "https://www.bankier.pl/wiadomosc/Co-dalej-z-cenami-pradu-dla-firm-Domanski-Placimy-rachunek-za-bezczynnosc-poprzednikow-9100381.html",
       "title": "Co dalej z cenami prądu dla firm? Domański: Płacimy rachunek za bezczynność poprzedników",
@@ -142,6 +170,13 @@
       "title": "\"Nawrocki swoją decyzją będzie brał odpowiedzialność\". Reforma PIP czeka na podpis prezydenta",
       "content_html": "Reforma Państwowej Inspekcji Pracy jest największą zmianą systemową tej instytucji od 20 lat – powiedziała w środę ministra pracy Agnieszka Dziemianowicz-Bąk. Zadeklarowała otwartość na rozmowy z Kancelarią Prezydenta w tej sprawie, podkreślając...",
       "date_published": "2026-03-18T16:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przepustowosc-Naftoportu-wzrosnie-o-20-procent-Polska-zabezpiecza-sie-przed-kryzysem-9100344.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przepustowosc-Naftoportu-wzrosnie-o-20-procent-Polska-zabezpiecza-sie-przed-kryzysem-9100344.html",
+      "title": "Przepustowość Naftoportu wzrośnie o 20 procent. Polska zabezpiecza się przed kryzysem",
+      "content_html": "Rozbudowa, która będzie realizowana w kolejnych miesiącach, zwiększy przepustowość Naftoportu o blisko 20 proc – powiedział w środę w Gdańsku minister energii Miłosz Motyka. Dodał, że Polska dywersyfikuje źródła dostaw surowców, m.in...",
+      "date_published": "2026-03-18T16:06:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Konflikt-wstrzymany-na-czas-swieta-Decyzja-wladz-Pakistanu-9100340.html",
@@ -660,41 +695,6 @@
       "title": "Zełenski pokazuje iPad wojny w Londynie. „Nasze systemy muszą wyprzedzać morderców”",
       "content_html": "Na Bliskim Wschodzie jest już 201 ukraiński ekspertów wojskowych - oznajmił we wtorek przemawiając w brytyjskiej Izbie Gmin prezydent Ukrainy Wołodymyr Zełenski. Dodał, że kolejnych 34 jest gotowych do rozmieszczenia w regionie.",
       "date_published": "2026-03-18T06:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-projekt-ustawy-o-OKI-Zmiany-w-limitach-lista-aktywow-i-kolejna-data-startu-9099927.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-projekt-ustawy-o-OKI-Zmiany-w-limitach-lista-aktywow-i-kolejna-data-startu-9099927.html",
-      "title": "Ministerstwo pomajstrowało przy OKI. Zmiany w limitach, lista aktywów i kolejna data startu",
-      "content_html": "Poznaliśmy nową wersję projektu Ustawy o osobistych kontach inwestycyjnych. To odpowiedź na szereg uwag, które trafiły do Ministerstwa Finansów w ramach procesu konsultacji nowego produktu. Wiemy już, że OKI zanotuje kolejny poślizg czasowy...",
-      "date_published": "2026-03-18T06:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/InPost-oczekuje-w-2026-r-wzrostu-wolumenow-o-kilkanascie-proc-i-stabilnej-skoryg-EBITDA-9099968.html",
-      "url": "https://www.bankier.pl/wiadomosc/InPost-oczekuje-w-2026-r-wzrostu-wolumenow-o-kilkanascie-proc-i-stabilnej-skoryg-EBITDA-9099968.html",
-      "title": "Ekspansja InPostu przyspiesza. Spółka spodziewa się dwucyfrowych wzrostów",
-      "content_html": "InPost w 2026 roku oczekuje zwiększonego udziału w rynku, z wolumenami grupy rosnącymi rok do roku na poziomie średnich do wysokich kilkunastu procent. Skorygowana EBITDA grupy ma się utrzymać na stabilnym poziomie - poinformowała spółka w komunikacie...",
-      "date_published": "2026-03-18T06:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lokaty-terminowe-w-styczniu-2026-r-Rekord-wplat-na-lokaty-kwartalne-mimo-spadku-oprocentowania-9099464.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lokaty-terminowe-w-styczniu-2026-r-Rekord-wplat-na-lokaty-kwartalne-mimo-spadku-oprocentowania-9099464.html",
-      "title": "Najnowsze dane NBP dotyczące lokat. Rekord wpłat na lokaty kwartalne mimo spadku oprocentowania",
-      "content_html": "Klienci ponownie udali się do banków lub ochoczo przekierowywali swoje środki z kont na lokaty terminowe. Styczeń okazał się miesiącem intensywnego odbudowywania oszczędności po nieco wyższych wydatkach grudniowych związanych z przygotowywaniem...",
-      "date_published": "2026-03-18T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-dzialek-budowlanych-IV-kw-2025-Raport-9099472.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-transakcyjne-dzialek-budowlanych-IV-kw-2025-Raport-9099472.html",
-      "title": "Ceny działek budowlanych biją w sufit. Już prawie 1 mln zł za 10 arów w Warszawie",
-      "content_html": "Choć przed rokiem o tej samej porze pisaliśmy, że galop cen na rynku działek budowlanych zakończył się upadkiem, dziś, w obliczu nasilających się wzrostów cen, mało kto już o tym pamięta. Kilkuprocentowe podwyżki w ujęciu kwartalnym i...",
-      "date_published": "2026-03-18T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sanatorium-prywatne-i-na-NFZ-w-PIT-Co-faktycznie-mozna-odliczyc-9099483.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sanatorium-prywatne-i-na-NFZ-w-PIT-Co-faktycznie-mozna-odliczyc-9099483.html",
-      "title": "Zwrot za wyjazd w PIT? Co faktycznie można odliczyć",
-      "content_html": "Wydatki na sanatorium mogą obniżyć podatek nawet o kilka tysięcy złotych – wynika z przepisów dotyczących ulgi rehabilitacyjnej. Nie oznacza to jednak, że każdy koszt pobytu podlega odliczeniu. Ministerstwo Finansów wyjaśnia, co faktycznie...",
-      "date_published": "2026-03-18T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
