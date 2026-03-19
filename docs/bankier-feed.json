@@ -4,6 +4,62 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kruk-przydzielil-obligacje-o-wartosci-600-mln-zl-9101094.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kruk-przydzielil-obligacje-o-wartosci-600-mln-zl-9101094.html",
+      "title": "Kruk przydzielił obligacje o wartości 600 mln zł",
+      "content_html": "Kruk przydzielił 600 tys. obligacji serii AL6 o łącznej wartości emisyjnej 600 mln zł - podała spółka w komunikacie. Emisja była przeprowadzona w ramach I Programu Bezprospektowych Emisji Obligacji i oferta skierowana była wyłącznie do kwalifikowanych...",
+      "date_published": "2026-03-19T17:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Biedronka-przejmie-Carrefoura-Prezes-mowi-o-rewolucji-we-franczyzie-9101090.html",
+      "url": "https://www.bankier.pl/wiadomosc/Biedronka-przejmie-Carrefoura-Prezes-mowi-o-rewolucji-we-franczyzie-9101090.html",
+      "title": "Biedronka przejmie Carrefoura? Prezes mówi o rewolucji we franczyzie",
+      "content_html": "Podczas gdy rynek handlowy w Polsce staje się coraz bardziej nasycony, lider branży – Jeronimo Martins – szuka nowych dróg ekspansji. Luis Araujo, prezes Biedronki, po raz pierwszy otwarcie przyznał, że sieć analizuje możliwość przejęcia...",
+      "date_published": "2026-03-19T16:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Majatek-wart-8-mln-zl-i-zwloki-w-domu-Sad-w-Gdansku-zdecydowal-ws-gangstera-9101076.html",
+      "url": "https://www.bankier.pl/wiadomosc/Majatek-wart-8-mln-zl-i-zwloki-w-domu-Sad-w-Gdansku-zdecydowal-ws-gangstera-9101076.html",
+      "title": "Majątek wart 8 mln zł i zwłoki w domu. Sąd w Gdańsku zdecydował ws. gangstera",
+      "content_html": "Sąd Okręgowy w Gdańsku utrzymał w mocy decyzję o umorzeniu śledztwa po śmierci rolnika spod Gdyni – 77-letniego Stanisława W., którego wart 8 mln zł majątek przejął były gangster. Uzasadnienie powinno zostać sporządzone w ciągu najbliższych...",
+      "date_published": "2026-03-19T16:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/150-osob-z-zarzutami-Mafia-smieciowa-stracila-fortune-9101072.html",
+      "url": "https://www.bankier.pl/wiadomosc/150-osob-z-zarzutami-Mafia-smieciowa-stracila-fortune-9101072.html",
+      "title": "150 osób z zarzutami. Mafia śmieciowa straciła fortunę",
+      "content_html": "W ramach śledztwa dotyczącego mafii śmieciowej Prokuratura Regionalna w Katowicach zabezpieczyła dotychczas mienie podejrzanych o wartości ponad 22,6 mln zł – poinformował rzecznik tej jednostki Michał Binkiewicz.",
+      "date_published": "2026-03-19T16:35:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-pracuje-nad-propozycjami-ukladowymi-dla-wierzycieli-chce-je-zglosic-do-30-IV-9101069.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-pracuje-nad-propozycjami-ukladowymi-dla-wierzycieli-chce-je-zglosic-do-30-IV-9101069.html",
+      "title": "PKP Cargo pracuje nad propozycjami układowymi. Wierzyciele mają wątpliwości",
+      "content_html": "PKP Cargo pracuje nad przygotowaniem dla wierzycieli propozycji układowych, które zostaną zgłoszone do 30 kwietnia - poinformował PAP wiceprezes PKP Cargo Paweł Miłek. Jego zdaniem przyjęcie planu restrukturyzacyjnego to sukces spółki, który...",
+      "date_published": "2026-03-19T16:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
+      "url": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
+      "title": "EBC nie odważył się podnieść stóp. Rynek obstawia podwyżki wbrew ekonomistom",
+      "content_html": "Rada Prezesów Europejskiego Banku Centralnego na kolejnym posiedzeniu z rzędu nie zmieniła poziomu stóp procentowych.",
+      "date_published": "2026-03-19T16:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-w-UE-Zelenski-Wejscie-nie-moze-zostac-zablokowane-tak-jak-pozyczka-9101064.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-w-UE-Zelenski-Wejscie-nie-moze-zostac-zablokowane-tak-jak-pozyczka-9101064.html",
+      "title": "Ukraina w UE? Zełenski: Wejście nie może zostać zablokowane tak, jak pożyczka",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski podczas spotkania online z biorącymi udział w czwartkowym posiedzeniu Rady Europejskiej w Brukseli przywódcami UE, ostrzegł przed tym, żeby akcesja Ukrainy do Unii nie została zablokowana tak, jak 90 mld euro...",
+      "date_published": "2026-03-19T16:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-bezkarnosci-w-Zatoce-Szesc-panstw-gotowe-do-wniesienia-wkladu-9101016.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-bezkarnosci-w-Zatoce-Szesc-panstw-gotowe-do-wniesienia-wkladu-9101016.html",
+      "title": "Koniec bezkarności w Zatoce? Sześć państw \"gotowe do wniesienia wkładu\"",
+      "content_html": "Sześć państw - Francja, Wielka Brytania, Niemcy, Włochy, Holandia i Japonia – oznajmiło w czwartek, że są „gotowe do wniesienia wkładu” w zapewnienie bezpieczeństwa w cieśninie Ormuz. Cieśnina jest blokowana przez Iran w związku z amerykańsko-izraelskimi...",
+      "date_published": "2026-03-19T16:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-wiecej-wart-od-Gazpromu-Tusk-chwali-sie-sukcesem-9100958.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-wiecej-wart-od-Gazpromu-Tusk-chwali-sie-sukcesem-9100958.html",
       "title": "Orlen więcej wart od Gazpromu. Tusk chwali się sukcesem",
@@ -11,11 +67,25 @@
       "date_published": "2026-03-19T15:51:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Katar-moze-wstrzymac-dostawy-gazu-17-proc-instalacji-zniszczone-w-jedna-noc-9101024.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katar-moze-wstrzymac-dostawy-gazu-17-proc-instalacji-zniszczone-w-jedna-noc-9101024.html",
+      "title": "Katar może wstrzymać dostawy gazu. 17 proc. instalacji zniszczone",
+      "content_html": "Irańskie ataki zniszczyły 17 proc. potencjału eksportowego skroplonego gazu ziemnego (LNG) Kataru, powodując roczne szkody szacowane na 20 mld dolarów z tytułu utraconego dochodu i zagrażając dostawom do Europy i Azji – poinformował prezes...",
+      "date_published": "2026-03-19T15:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bessent-kusi-Iran-Mozemy-zdjac-sankcje-z-waszej-ropy-naftowej-9101020.html",
       "url": "https://www.bankier.pl/wiadomosc/Bessent-kusi-Iran-Mozemy-zdjac-sankcje-z-waszej-ropy-naftowej-9101020.html",
       "title": "Bessent kusi Iran: Możemy zdjąć sankcje z waszej ropy naftowej",
       "content_html": "Minister finansów USA Scott Bessent zapowiedział w czwartek w wywiadzie dla Fox Business, że administracja Donalda Trumpa rozważa zniesienie sankcji z około 140 mln baryłek irańskiej ropy, znajdującej się obecnie na tankowcach. Oskarżył też...",
       "date_published": "2026-03-19T15:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-energii-zmiazdza-niemiecki-przemysl-Moga-wypchnac-firmy-z-kraju-9101014.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-energii-zmiazdza-niemiecki-przemysl-Moga-wypchnac-firmy-z-kraju-9101014.html",
+      "title": "Ceny energii zmiażdżą niemiecki przemysł? \"Mogą wypchnąć firmy z kraju\"",
+      "content_html": "Ministra gospodarki RFN Katherina Reiche ostrzegła w czwartek, że wysokie ceny energii mogą skłonić przedsiębiorstwa do opuszczenia Niemiec. Opowiedziała się zarazem przeciwko podejmowaniu działań nadzwyczajnych.",
+      "date_published": "2026-03-19T15:33:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Drozyzna-na-stacjach-Rzad-Japonii-rzuca-miliardy-by-ratowac-kierowcow-9101005.html",
@@ -72,34 +142,6 @@
       "title": "Newag ma umowę dostawy lokomotyw elektrycznych o wartości 85 mln zł netto",
       "content_html": "Newag zawarł z CEMET umowę dostawy lokomotyw elektrycznych - poinformował Newag w komunikacie. Wartość umowy wynosi 85 mln zł netto i stanowi łączne wynagrodzenie za dostawę lokomotyw wraz ze świadczeniami dodatkowymi.",
       "date_published": "2026-03-19T14:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hennig-Kloska-Najlepiej-zeby-ETS2-byl-systemem-dobrowolnym-do-2030-r-9100937.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hennig-Kloska-Najlepiej-zeby-ETS2-byl-systemem-dobrowolnym-do-2030-r-9100937.html",
-      "title": "Hennig-Kloska: Najlepiej, żeby ETS2 był systemem dobrowolnym do 2030 r.",
-      "content_html": "Polska nadal walczy o dalsze opóźnienie unijnego systemu ETS2, najlepiej gdyby uczynić ten system dobrowolnym do 2030 r. - poinformowała na konferencji ministra klimatu i środowiska Paulina Hennig-Kloska. Przypomniała, że na razie jest blok poparcia...",
-      "date_published": "2026-03-19T14:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
-      "title": "EBC nie odważył się podnieść stóp. Rynek obstawia podwyżki wbrew ekonomistom",
-      "content_html": "Rada Prezesów Europejskiego Banku Centralnego na kolejnym posiedzeniu z rzędu nie zmieniła poziomu stóp procentowych.",
-      "date_published": "2026-03-19T14:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-w-gore-Eksperci-Santandera-uspokajaja-9100924.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-w-gore-Eksperci-Santandera-uspokajaja-9100924.html",
-      "title": "Stopy procentowe w górę? Eksperci Santandera uspokajają",
-      "content_html": "Dane o inflacji PPI nie wydają się generować presji na wzrost cen wymagającej reakcji RPP. Dają czas na rozeznanie się w skutkach konfliktu na Bliskim Wschodzie - ocenili w czwartek analitycy Santander Bank Polska.",
-      "date_published": "2026-03-19T14:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcja-CBA-w-Poznaniu-Milion-zlotych-za-zalatwienie-sprawy-Wsrod-zatrzymanych-znana-radczyni-9100811.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcja-CBA-w-Poznaniu-Milion-zlotych-za-zalatwienie-sprawy-Wsrod-zatrzymanych-znana-radczyni-9100811.html",
-      "title": "Akcja CBA w Poznaniu. Milion złotych za „załatwienie” sprawy. Wśród zatrzymanych znana radczyni",
-      "content_html": "Centralne Biuro Antykorupcyjne zatrzymało pięć osób w sprawie powoływania się na wpływy w policji i prokuraturze w zamian za milion złotych oraz o pranie pieniędzy. Wśród nich są m.in. radczyni prawna i jej mąż – przedsiębiorca – podał...",
-      "date_published": "2026-03-19T14:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Merkel-do-migrantow-Glosujcie-przeciw-AfD-Merz-wprowadza-twarde-zasady-dla-azylantow-9100874.html",
@@ -358,20 +400,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Polski-przemysl-w-kratke-Tym-razem-w-gore-zgodnie-z-planem-9100711.html",
       "title": "Polski przemysł w kratkę. Tym razem w górę zgodnie z planem",
       "content_html": "Produkcja przemysłowa w Polsce znów na plusie, ale to odczyt pokazany przez GUS wpisuje się w bardzo zmienne nastroje w krajowym sektorze wytwórczym. Wzrost okazał się nieco lepszy od prognoz.",
-      "date_published": "2026-03-19T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-zszokowane-deklaracja-Izraela-To-nie-do-przyjecia-9100714.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-zszokowane-deklaracja-Izraela-To-nie-do-przyjecia-9100714.html",
-      "title": "Chiny zszokowane deklaracją Izraela. \"To nie do przyjęcia\"",
-      "content_html": "Chiny są zszokowane deklaracją władz Izraela o zezwoleniu armii na swobodne zabijanie przedstawicieli władz Iranu — oświadczyło w czwartek MSZ w Pekinie. Resort podkreślił, że likwidacja państwowych przywódców, w tym szefa irańskiej Rady...",
-      "date_published": "2026-03-19T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atal-wprowadzil-do-oferty-219-mieszkan-w-Szczecinie-9100752.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atal-wprowadzil-do-oferty-219-mieszkan-w-Szczecinie-9100752.html",
-      "title": "Atal wprowadził do oferty 219 mieszkań w Szczecinie",
-      "content_html": "Atal wprowadził do sprzedaży 219 mieszkań w Szczecinie przy ul. Floriana - poinformował deweloper w komunikacie prasowym.",
       "date_published": "2026-03-19T10:00:00+01:00"
     },
     {
@@ -653,34 +681,6 @@
       "title": "„Shrinkflacja bezpieczeństwa”. Sikorski o rosnących kosztach gwarancji USA",
       "content_html": "Wicepremier, szef MSZ RP Radosław Sikorski w wykładzie w Europejskim Instytucie Uniwersyteckim (EUI) we Florencji oświadczył w środę, że Europa ma potencjał, by stać się jedynym w swoim rodzaju bezpiecznym portem i miejscem, w którym zasady...",
       "date_published": "2026-03-19T07:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Branza-meblowa-w-pulapce-dlugow-Zaleglosci-wzrosly-do-381-mln-zl-9100630.html",
-      "url": "https://www.bankier.pl/wiadomosc/Branza-meblowa-w-pulapce-dlugow-Zaleglosci-wzrosly-do-381-mln-zl-9100630.html",
-      "title": "Branża meblowa w pułapce długów. Zaległości wzrosły do 381 mln zł",
-      "content_html": "Zaległe zadłużenie branży meblowej wyniosło w styczniu br. blisko 381 mln zł, czyli wzrosło w ciągu roku o 13,4 proc.; sektor stolarski i ciesielski był winny ponad 155 mln zł, czyli o 7 proc. więcej niż rok wcześniej - poinformowano w opublikowanym...",
-      "date_published": "2026-03-19T07:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Goraca-linia-Macron-Trump-Niezwloczne-moratorium-na-ataki-na-infrastrukture-cywilna-9100580.html",
-      "url": "https://www.bankier.pl/wiadomosc/Goraca-linia-Macron-Trump-Niezwloczne-moratorium-na-ataki-na-infrastrukture-cywilna-9100580.html",
-      "title": "Gorąca linia Macron-Trump. \"Niezwłoczne moratorium na ataki na infrastrukturę cywilną\"",
-      "content_html": "Prezydent Francji Emmanuel Macron oświadczył w nocy ze środy na czwartek na platformie X, że apeluje o wprowadzenie moratorium na ataki na infrastrukturę cywilną na Bliskim Wschodzie. Przyznał, że rozmawiał o tym z prezydentem USA Donaldem Trumpem...",
-      "date_published": "2026-03-19T07:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gdansk-zbudowal-prom-dla-Norwegii-To-mozliwosci-hybrydowego-Bjarkoy-9100574.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gdansk-zbudowal-prom-dla-Norwegii-To-mozliwosci-hybrydowego-Bjarkoy-9100574.html",
-      "title": "Gdańsk zbudował prom dla Norwegii. To możliwości hybrydowego Bjarkoy",
-      "content_html": "Gdańska stocznia Remontowa Shipbuilding zbudowała prom pasażersko-samochodowy o napędzie hybrydowym dla jednej z największych firm żeglugowych w Norwegii. Ma być przeznaczony do obsługi żeglugi w norweskich fiordach na trasie Stornes-Bjornera...",
-      "date_published": "2026-03-19T07:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bez-szybkiej-sciezki-dla-Paramount-Kazda-zwloka-w-przejeciu-WBD-bedzie-slono-kosztowac-9100570.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bez-szybkiej-sciezki-dla-Paramount-Kazda-zwloka-w-przejeciu-WBD-bedzie-slono-kosztowac-9100570.html",
-      "title": "Bez \"szybkiej ścieżki\" dla Paramount. Każda zwłoka w przejęciu WBD będzie słono kosztować",
-      "content_html": "Wysoki rangą urzędnik ministerstwa sprawiedliwości USA Omeed Assefi powiedział w środę, że transakcja przejęcia Warner Bros. Discovery (WBD) przez Paramount Skydance „absolutnie” nie może liczyć na „szybką ścieżkę” do zatwierdzenia...",
-      "date_published": "2026-03-19T07:16:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

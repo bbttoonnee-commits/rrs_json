@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kruk-przydzielil-obligacje-o-wartosci-600-mln-zl-9101094.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kruk-przydzielil-obligacje-o-wartosci-600-mln-zl-9101094.html",
+      "title": "Kruk przydzielił obligacje o wartości 600 mln zł Kruk przydzielił 600 tys. obligacji serii AL6 o łącznej wartości emisyjnej 600 mln zł - podała spółka w komunikacie. Emisja była przeprowadzona w ramach I Programu Bezprospektowych Emisji Obligacji i oferta skierowana była wyłącznie do kwalifikowanych inwestorów niebędących osobami fizycznymi.",
+      "content_html": "",
+      "date_published": "2026-03-19T17:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-pracuje-nad-propozycjami-ukladowymi-dla-wierzycieli-chce-je-zglosic-do-30-IV-9101069.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-pracuje-nad-propozycjami-ukladowymi-dla-wierzycieli-chce-je-zglosic-do-30-IV-9101069.html",
+      "title": "PKP Cargo pracuje nad propozycjami układowymi. Wierzyciele mają wątpliwości PKP Cargo pracuje nad przygotowaniem dla wierzycieli propozycji układowych, które zostaną zgłoszone do 30 kwietnia - poinformował PAP wiceprezes PKP Cargo Paweł Miłek. Jego zdaniem przyjęcie planu restrukturyzacyjnego to sukces spółki, który pokazuje, że program jest wykonalny.",
+      "content_html": "",
+      "date_published": "2026-03-19T16:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
+      "url": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
+      "title": "EBC nie odważył się podnieść stóp. Rynek obstawia podwyżki wbrew ekonomistom Rada Prezesów Europejskiego Banku Centralnego na kolejnym posiedzeniu z rzędu nie zmieniła poziomu stóp procentowych.",
+      "content_html": "",
+      "date_published": "2026-03-19T16:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-wiecej-wart-od-Gazpromu-Tusk-chwali-sie-sukcesem-9100958.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-wiecej-wart-od-Gazpromu-Tusk-chwali-sie-sukcesem-9100958.html",
       "title": "Orlen więcej wart od Gazpromu. Tusk chwali się sukcesem Wartość Orlenu przekroczyła wartość rosyjskiego Gazpromu - napisał w czwartek na platformie X premier Donald Tusk. Wskazał przy tym, że wzrost wyceny polskiego koncernu multienergetycznego ponad wartość rosyjskiego koncernu gazowego wynika ze zmiany rządu w Polsce i odejścia PiS od władzy.",
@@ -23,13 +44,6 @@
       "title": "Newag ma umowę dostawy lokomotyw elektrycznych o wartości 85 mln zł netto Newag zawarł z CEMET umowę dostawy lokomotyw elektrycznych - poinformował Newag w komunikacie. Wartość umowy wynosi 85 mln zł netto i stanowi łączne wynagrodzenie za dostawę lokomotyw wraz ze świadczeniami dodatkowymi.",
       "content_html": "",
       "date_published": "2026-03-19T14:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBC-w-marcu-2026-nie-odwazyl-sie-podniesc-stop-Rynek-obstawia-podwyzki-wbrew-ekonomistom-9100822.html",
-      "title": "EBC nie odważył się podnieść stóp. Rynek obstawia podwyżki wbrew ekonomistom Rada Prezesów Europejskiego Banku Centralnego na kolejnym posiedzeniu z rzędu nie zmieniła poziomu stóp procentowych.",
-      "content_html": "",
-      "date_published": "2026-03-19T14:15:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-Synektika-zatwierdzilo-podzial-spolki-i-wydzielenie-projektu-kardioznacznika-do-Syn2bio-9100907.html",
@@ -436,34 +450,6 @@
       "title": "Grupa Niewiadów partnerem KNDS France. Powstanie amunicja 155 mm dla Krabów i K9 Grupa Niewiadów otrzymała od KNDS France list intencyjny dot. produkcji amunicji 155 mm - podało Niewiadów - PGM w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-17T17:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ME-chce-umozliwic-dostep-do-swiadczen-oslonowych-gornikom-z-prywatnych-kopalni-9099660.html",
-      "url": "https://www.bankier.pl/wiadomosc/ME-chce-umozliwic-dostep-do-swiadczen-oslonowych-gornikom-z-prywatnych-kopalni-9099660.html",
-      "title": "Rząd rozszerza wsparcie dla górników. Kopalnia Silesia objęta nowym programem Celem projektowanej nowelizacji ustawy o funkcjonowaniu górnictwa węgla kamiennego jest zapewnienie, aby pracownicy zakładów górniczych mieli równy dostęp do świadczeń osłonowych, niezależnie od tego czy są zatrudnieni w podmiotach publicznych, czy prywatnych - podał ME we wpisie do wykazu prac RM. Resort energii wymienił w tym kontekście kopalnię Silesia.",
-      "content_html": "",
-      "date_published": "2026-03-17T16:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BTCS-chce-zmienic-rynek-notowan-na-rynek-glowny-GPW-9099738.html",
-      "url": "https://www.bankier.pl/wiadomosc/BTCS-chce-zmienic-rynek-notowan-na-rynek-glowny-GPW-9099738.html",
-      "title": "BTCS chce zmienić rynek notowań na rynek główny GPW Akcjonariusze BTCS, spółki technologicznej notowanej obecnie na NewConnect, upoważnili zarząd spółki do rozpoczęcia procesu zmiany rynku notowań spółki z NewConnect na GPW - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-03-17T16:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolki-sektora-energetycznego-odbijaja-po-silnej-przecenie-z-ostatnich-tygodni-opinia-9099701.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolki-sektora-energetycznego-odbijaja-po-silnej-przecenie-z-ostatnich-tygodni-opinia-9099701.html",
-      "title": "Energetyczny rajd na GPW. Akcje PGE, Enei i Tauronu rosną o ponad 10 proc. We wtorek spółki energetyczne notowane na GPW silnie rosną. Zdaniem analityków, jest to m. in. reakcja na zbyt mocne spadki z ostatnich tygodni, a także efekt wypowiedzi przedstawicieli Komisji Europejskiej odnośnie systemu ETS, które sugerują wprowadzenie rozwiązań pozytywnych dla spółek energetycznych.",
-      "content_html": "",
-      "date_published": "2026-03-17T16:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Develia-ma-zgode-UOKiK-na-koncentracje-z-Mosaic-Poland-Holding-9099723.html",
-      "url": "https://www.bankier.pl/wiadomosc/Develia-ma-zgode-UOKiK-na-koncentracje-z-Mosaic-Poland-Holding-9099723.html",
-      "title": "Develia ma zgodę UOKiK na koncentrację z Mosaic Poland Holding Develia uzyskała od UOKiK bezwarunkową zgodę na dokonanie koncentracji polegającej na utworzeniu wspólnego przedsiębiorcy z Mosaic Poland Holding w celu realizacji wspólnej inwestycji - poinformowała Develia w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-17T16:26:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
