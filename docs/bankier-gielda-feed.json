@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dino-zdecydowalo-o-rozpoczeciu-budowy-nowego-centrum-dystrybucyjnego-9100850.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-zdecydowalo-o-rozpoczeciu-budowy-nowego-centrum-dystrybucyjnego-9100850.html",
+      "title": "Dino zbuduje nowe centrum dystrybucyjne Dino Polska zdecydowało o rozpoczęciu budowy nowego centrum dystrybucyjnego w miejscowości Zawiercie w województwie śląskim - poinformowała spółka w komunikacie. Szacowane nakłady inwestycyjne wyniosą około 150 mln zł netto i zostaną sfinansowane ze środków własnych spółki.",
+      "content_html": "",
+      "date_published": "2026-03-19T12:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-Poland-wroci-z-nowa-propozycja-programu-motywacyjnego-9100841.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-wroci-z-nowa-propozycja-programu-motywacyjnego-9100841.html",
+      "title": "Asseco Poland wróci z nową propozycją programu motywacyjnego Asseco Poland wróci z nową propozycją programu motywacyjnego - poinformował PAP Biznes wiceprezes Artur Wiza. W środę NWZ Asseco Poland nie uchwaliło programu motywacyjnego dla kluczowych menedżerów. NWZ nie podjęło także uchwały ws. umorzenia akcji własnych spółki.",
+      "content_html": "",
+      "date_published": "2026-03-19T11:52:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mocna-przecena-srebra-i-zlota-Kwestia-Fedu-czy-poszukiwania-plynnosci-9100801.html",
       "url": "https://www.bankier.pl/wiadomosc/Mocna-przecena-srebra-i-zlota-Kwestia-Fedu-czy-poszukiwania-plynnosci-9100801.html",
       "title": "Mocna przecena srebra i złota. Kwestia Fedu czy poszukiwania płynności? Wbrew „fundamentom” czwartkowy poranek przyniósł dalszą wyprzedaż kontraktów terminowych na złoto i srebro.",
@@ -464,13 +478,6 @@
       "title": "Unicredit przejmie Commerbank? Orlopp: Bardzo niska cena W europejskim sektorze bankowym zawrzało. Włoski gigant UniCredit oficjalnie ogłosił zamiar przejęcia pełnej kontroli nad niemieckim Commerzbankiem. Transakcja, która mogłaby całkowicie przerysować mapę finansową Europy, budzi jednak ogromny opór w Niemczech – zarówno ze strony rządu, jak i samego zarządu Commerzbanku. Dla polskich klientów i inwestorów kluczowe jest jedno: stawką w tej grze jest przyszłość mBanku.",
       "content_html": "",
       "date_published": "2026-03-17T13:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Z-wiezienia-na-szczyt-listy-najbogatszych-Changpeng-Zhao-najpotezniejszym-czlowiekiem-w-swiecie-krypto-9099493.html",
-      "url": "https://www.bankier.pl/wiadomosc/Z-wiezienia-na-szczyt-listy-najbogatszych-Changpeng-Zhao-najpotezniejszym-czlowiekiem-w-swiecie-krypto-9099493.html",
-      "title": "Najpotężniejszy człowiek w świecie kryptowalut. Bogatszy od Gatesa Choć oczy świata zazwyczaj skupiają się na ścisłym podium list najbogatszych, nie mniej fascynujące historie często kryją się za najbogatszymi z dalszych miejsc. Tegoroczny ranking miliarderów „Forbesa” przyniósł sensację na 17. pozycji. To tutaj uplasował się Changpeng Zhao, legendarny twórca największej giełdy kryptowalut Binance, którego majątek wyceniono wyżej niż fortunę założyciela Micosoftu czy twórcy Nike. To ogromny awans po kilku latach zawirowań, w czasie których CZ siedział nawet w więzieniu.",
-      "content_html": "",
-      "date_published": "2026-03-17T11:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
