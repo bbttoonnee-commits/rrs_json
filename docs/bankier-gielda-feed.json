@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trwaja-prace-nad-rozwiazaniami-systemowymi-sluzace-finansowaniu-JSW-Balczun-MAP-9100680.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trwaja-prace-nad-rozwiazaniami-systemowymi-sluzace-finansowaniu-JSW-Balczun-MAP-9100680.html",
+      "title": "Trwają prace nad rozwiązaniami systemowymi służące finansowaniu JSW - Balczun, MAP Trwają prace nad rozwiązaniami legislacyjnymi, które stworzą możliwość bardziej systemowego finansowania dla JSW - poinformował Wojciech Balczun, minister aktywów państwowych.",
+      "content_html": "",
+      "date_published": "2026-03-19T08:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-podniosl-rekomendacje-dla-Text-do-kupuj-cena-docelowa-45-zl-9100671.html",
+      "url": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-podniosl-rekomendacje-dla-Text-do-kupuj-cena-docelowa-45-zl-9100671.html",
+      "title": "BM PKO BP podniósł rekomendację dla Text do \"kupuj\", cena docelowa 45 zł Analitycy BM PKO BP, w raporcie z 18 marca, podnieśli rekomendację dla Text do \"kupuj\" z \"trzymaj\" , a cena docelowa akcji została ustalona na 45 zł wobec 57 zł wcześniej.",
+      "content_html": "",
+      "date_published": "2026-03-19T08:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tecnovatica-przejela-spolke-Grupa-Technologiczna-Pelikan-za-0-5-mln-zl-9100661.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tecnovatica-przejela-spolke-Grupa-Technologiczna-Pelikan-za-0-5-mln-zl-9100661.html",
+      "title": "Tecnovatica przejęła spółkę Grupa Technologiczna Pelikan za 0,5 mln zł Tecnovatica kupiła 100 proc. udziałów w Grupie Technologicznej Pelikan, spółki z sektora nowoczesnych mediów, za 0,5 mln zł - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-19T07:52:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gdansk-zbudowal-prom-dla-Norwegii-To-mozliwosci-hybrydowego-Bjarkoy-9100574.html",
       "url": "https://www.bankier.pl/wiadomosc/Gdansk-zbudowal-prom-dla-Norwegii-To-mozliwosci-hybrydowego-Bjarkoy-9100574.html",
       "title": "Gdańsk zbudował prom dla Norwegii. To możliwości hybrydowego Bjarkoy Gdańska stocznia Remontowa Shipbuilding zbudowała prom pasażersko-samochodowy o napędzie hybrydowym dla jednej z największych firm żeglugowych w Norwegii. Ma być przeznaczony do obsługi żeglugi w norweskich fiordach na trasie Stornes-Bjornera.",
@@ -464,13 +485,6 @@
       "title": "\"ETF w portfelu 2026”. Polacy inwestują długoterminowo, wybierają konta emerytalne i rynki akcji ETF-y przestają być niszowym narzędziem i na dobre zadomawiają się w portfelach Polaków. Z najnowszego raportu wyłania się dokładny obraz inwestorów sięgających po giełdowe fundusze: ich cele, decyzje finansowe i podejście do ryzyka, a także wyzwania, które nadal stoją na drodze popularyzacji tych instrumentów.",
       "content_html": "",
       "date_published": "2026-03-17T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-25-na-16-1-mln-zl-9099398.html",
-      "url": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-25-na-16-1-mln-zl-9099398.html",
-      "title": "DataWalk szacuje skorygowaną stratę EBITDA w '25 na 16,1 mln zł Grupa DataWalk szacuje skorygowaną stratę EBITDA w 2025 r. na 16,1 mln zł, wobec 19,8 mln zł straty w analogicznym okresie 2024 r. - podała spółka w komunikacie. Przychody grupy szacowane są na 37,8 mln zł, co oznacza wzrost o 53 proc. rdr.",
-      "content_html": "",
-      "date_published": "2026-03-17T08:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
