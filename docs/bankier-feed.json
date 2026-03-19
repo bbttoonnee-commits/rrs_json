@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
+      "title": "Wall Street znów zrobiła Europę w konia. Były spadki i nie ma spadków",
+      "content_html": "Amerykańscy inwestorzy pod koniec dnia zniwelowali straty i jak zwykle wystawili Stary Kontynent do wiatru.",
+      "date_published": "2026-03-19T21:07:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
+      "title": "CD Projekt rozbił bank. Gigantyczne zyski spółki, analitycy w szoku",
+      "content_html": "Zysk netto z działalności kontynuowanej grupy CD Projekt w IV kwartale 2025 r. wyniósł 174,2 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk EBITDA wyniósł 167,7 mln zł. Konsensus zakładał 97,4 mln zł wyniku...",
+      "date_published": "2026-03-19T20:43:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nizsze-podatki-na-paliwa-Francja-nie-ma-juz-srodkow-na-takie-wsparcie-9101212.html",
       "url": "https://www.bankier.pl/wiadomosc/Nizsze-podatki-na-paliwa-Francja-nie-ma-juz-srodkow-na-takie-wsparcie-9101212.html",
       "title": "Niższe podatki na paliwa? \"Francja nie ma już środków na takie wsparcie\"",
@@ -86,13 +100,6 @@
       "title": "Rozluźnienie na Wschodzie? Trump: Nie wysyłam wojsk lądowych do Iranu",
       "content_html": "Nie wysyłam wojsk do Iranu - powiedział w czwartek prezydent USA Donald Trump podczas spotkania z premierką Japonii Sanae Takaichi. Chwalił przy tym Japonię, że stawia czoła wyzwaniu, które spowodowała wojna na Bliskim Wschodzie.",
       "date_published": "2026-03-19T18:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "title": "CD Projekt rozbił bank. Gigantyczne zyski spółki, analitycy w szoku",
-      "content_html": "Zysk netto z działalności kontynuowanej grupy CD Projekt w IV kwartale 2025 r. wyniósł 174,2 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk EBITDA wyniósł 167,7 mln zł. Konsensus zakładał 97,4 mln zł wyniku...",
-      "date_published": "2026-03-19T18:24:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-polowania-na-urzednikow-Sensacyjna-decyzja-prokuratury-ws-SKOK-Wolomin-9101178.html",
@@ -695,13 +702,6 @@
       "title": "Przełom w sprawie JSW. Rząd szykuje specjalną ustawę, by ratować giganta",
       "content_html": "Trwają prace nad rozwiązaniami legislacyjnymi, które stworzą możliwość bardziej systemowego finansowania dla JSW - poinformował Wojciech Balczun, minister aktywów państwowych.",
       "date_published": "2026-03-19T08:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-gore-kilkadziesiat-procent-Nowy-rozdzial-wojny-na-Bliskim-Wschodzie-znow-uderza-w-ceny-surowcow-9100679.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-gore-kilkadziesiat-procent-Nowy-rozdzial-wojny-na-Bliskim-Wschodzie-znow-uderza-w-ceny-surowcow-9100679.html",
-      "title": "Ceny za gaz najwyższe od ponad trzech lat. Kolejne 30 proc. w górę po nowych atakach na Bliskim Wschodzie",
-      "content_html": "Globalne rynki stanęły w obliczu nowych wyzwań związanych z wojną na Bliskim Wschodzie. Środowe ataki na kluczową infrastrukturę gazową w Iranie i Katarze oznaczają krytyczne przejście od zakłóceń w łańcuchu dostaw do bezpośredniego zagrożenia...",
-      "date_published": "2026-03-19T08:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
