@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Samsung-wylozy-fortune-by-zdominowac-rynek-sztucznej-inteligencji-9101552.html",
+      "url": "https://www.bankier.pl/wiadomosc/Samsung-wylozy-fortune-by-zdominowac-rynek-sztucznej-inteligencji-9101552.html",
+      "title": "Samsung wyłoży fortunę, by zdominować rynek sztucznej inteligencji Samsung Electronics planuje zainwestować w 2026 r. ponad 70 miliardów dolarów, aby walczyć o przewagę w produkcji chipów do AI - podał w czwartek \"The Wall Street Journal\".",
+      "content_html": "",
+      "date_published": "2026-03-20T13:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Agora-ocenia-ze-pozytywnie-zamknela-I-kw-26-w-segmencie-reklamy-9101503.html",
       "url": "https://www.bankier.pl/wiadomosc/Agora-ocenia-ze-pozytywnie-zamknela-I-kw-26-w-segmencie-reklamy-9101503.html",
       "title": "Agora ocenia, że pozytywnie zamknęła I kw. '26 w segmencie reklamy Agora ocenia, że zamknęła pozytywnie pierwszy kwartał 2026 roku w segmencie reklamy, a jego wynik potwierdza oczekiwania spółki względem jej prognoz na temat dynamiki wzrostu tego rynku w 2026 roku - poinformował podczas konferencji wynikowej członek zarządu spółki, Maciej Strzelecki.",
@@ -13,7 +20,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Dowiemy-sie-ile-zarobil-KGHM-na-rajdzie-cen-srebra-Sprawdz-co-zatrzesie-rynkami-na-wiosne-9101493.html",
       "url": "https://www.bankier.pl/wiadomosc/Dowiemy-sie-ile-zarobil-KGHM-na-rajdzie-cen-srebra-Sprawdz-co-zatrzesie-rynkami-na-wiosne-9101493.html",
-      "title": "TYM BĘDĄ ŻYŁY RYNKI Dowiemy się, ile zarobił KGHM na rajdzie cen srebra. Sprawdź, co zatrzęsie rynkami na wiosnę Od wyników polskiej sprzedaży detalicznej, przez globalne odczyty PMI, aż po sprawozdania finansowe takich spółek jak KGHM, Dino czy LPP – kalendarz pęka w szwach. Przygotowaliśmy zestawienie najważniejszych wydarzeń, które zdominują parkiety w kolejnym tygodniu.",
+      "title": "TYM BĘDĄ ŻYŁY RYNKI Ile zarobił KGHM na rajdzie cen srebra? Sprawdź, co zatrzęsie rynkami na wiosnę Od wyników polskiej sprzedaży detalicznej, przez globalne odczyty PMI, aż po sprawozdania finansowe takich spółek jak KGHM, Dino czy LPP – kalendarz pęka w szwach. Przygotowaliśmy zestawienie najważniejszych wydarzeń, które zdominują parkiety w kolejnym tygodniu.",
       "content_html": "",
       "date_published": "2026-03-20T12:00:00+01:00"
     },
@@ -429,13 +436,6 @@
       "title": "\"EU Inc.\" jako odpowiedź na fragmentację rynku. Jak KE chce ratować konkurencyjność Europy? Przewodnicząca Komisji Europejskiej Ursula von der Leyen zapowiedziała w środę nową unijną inicjatywę pod nazwą „EU Inc.\", określaną jako tzw. 28. reżim prawny, dzięki któremu prowadzenie działalności gospodarczej ma być łatwiejsze.",
       "content_html": "",
       "date_published": "2026-03-18T14:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/VIG-C-Quadrat-TFI-przedstawia-tezy-na-2026-szok-naftowy-raczej-krotkotrwaly-9100214.html",
-      "url": "https://www.bankier.pl/wiadomosc/VIG-C-Quadrat-TFI-przedstawia-tezy-na-2026-szok-naftowy-raczej-krotkotrwaly-9100214.html",
-      "title": "VIG/C-Quadrat TFI przedstawia tezy na 2026, szok naftowy raczej krótkotrwały Tezy inwestycyjne zarządzających VIG/C-Quadrat TFI na 2026 rok zakładają, że metale szlachetne będą zachowywać się relatywnie gorzej niż USD, rynki wschodzące będą słabsze niż USA, duże spółki będą słabsze niż małe, a branże związane ze sztuczną inteligencją będą mocniejsze niż indeks S&P 500.",
-      "content_html": "",
-      "date_published": "2026-03-18T13:14:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
