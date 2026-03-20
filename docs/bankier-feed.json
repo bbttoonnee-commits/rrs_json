@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-wydal-rekomendacje-trzymaj-dla-Orlenu-wycena-docelowa-akcji-137-7-zl-9101788.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-wydal-rekomendacje-trzymaj-dla-Orlenu-wycena-docelowa-akcji-137-7-zl-9101788.html",
+      "title": "Trigon DM wydał rekomendację \"trzymaj\" dla Orlenu, wycena docelowa akcji 137,7 zł",
+      "content_html": "Analitycy Trigon DM, w raporcie z 13 marca, podnieśli wycenę docelową Orlenu do poziomu 137,7 zł; rekomendują \"trzymaj\".",
+      "date_published": "2026-03-20T17:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Administracja-Trumpa-pozwala-Harvard-Dyskryminacja-zydowskich-studentow-9101773.html",
+      "url": "https://www.bankier.pl/wiadomosc/Administracja-Trumpa-pozwala-Harvard-Dyskryminacja-zydowskich-studentow-9101773.html",
+      "title": "Administracja Trumpa pozwała Harvard. Dyskryminacja żydowskich studentów?",
+      "content_html": "Resort sprawiedliwości USA złożył w piątek pozew przeciwko Uniwersytetowi Harvarda, zarzucając uczelni celowe zaniedbanie ochrony studentów żydowskich i izraelskich po ataku terrorystycznym Hamasu na Izrael z 7 października 2023 r. Administracja...",
+      "date_published": "2026-03-20T16:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trzy-wiedzmy-i-kociol-na-Bliskim-Wschodzie-Na-GPW-sypnelo-wynikami-9101770.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzy-wiedzmy-i-kociol-na-Bliskim-Wschodzie-Na-GPW-sypnelo-wynikami-9101770.html",
+      "title": "Trzy wiedźmy i kocioł na Bliskim Wschodzie. Na GPW sypnęło wynikami",
+      "content_html": "Piątkowa sesja na warszawskim parkiecie upłynęła pod znakiem dominacji podaży. Inwestorzy, są przestraszeni eskalacją konfliktu na Bliskim Wschodzie oraz jastrzębimi sygnałami z banków centralnych. W tym kotle dodatkowo zamieszały trzy wiedźmy...",
+      "date_published": "2026-03-20T16:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-i-Tajwan-blizej-siebie-Porty-w-Gdyni-i-Kaohsiung-lacza-sily-9101767.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-i-Tajwan-blizej-siebie-Porty-w-Gdyni-i-Kaohsiung-lacza-sily-9101767.html",
+      "title": "Polska i Tajwan bliżej siebie. Porty w Gdyni i Kaohsiung łączą siły",
+      "content_html": "Przedstawiciele Portu Gdynia i Portu Kaohsiung podpisali memorandum o współpracy, określające działania m.in. w zakresie nowoczesnych technologii portowych, automatyzacji, bezpieczeństwa i analizy potencjału rozwoju regularnych połączeń morskich...",
+      "date_published": "2026-03-20T16:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polscy-zolnierze-zostali-w-komplecie-ewakuowani-z-Iraku-9101749.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polscy-zolnierze-zostali-w-komplecie-ewakuowani-z-Iraku-9101749.html",
+      "title": "Polscy żołnierze zostali w komplecie ewakuowani z Iraku",
+      "content_html": "Polscy żołnierze w komplecie zostali ewakuowani z Iraku - poinformował w piątek wicepremier, szef MON Władysław Kosiniak-Kamysz. Dodał, że większość personelu Polskiego Kontyngentu Wojskowego z Iraku przebywa już w Polsce lub jest w drodze...",
+      "date_published": "2026-03-20T16:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zurek-wszczyna-procedure-odwolania-rektora-AWS-Michal-Sopinski-zapowiada-walke-9101744.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zurek-wszczyna-procedure-odwolania-rektora-AWS-Michal-Sopinski-zapowiada-walke-9101744.html",
+      "title": "Żurek wszczyna procedurę odwołania rektora AWS. Michał Sopiński zapowiada walkę",
+      "content_html": "Szef MS Waldemar Żurek wszczął z urzędu postępowanie administracyjne ws. odwołania rektora-komendanta Akademii Wymiaru Sprawiedliwości (AWS) dr. Michała Sopińskiego - poinformował w piątek resort sprawiedliwości. Jeszcze w 2024 r. przeciwko...",
+      "date_published": "2026-03-20T16:27:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-Panstwa-NATO-to-tchorze-operacja-w-Ormuzie-bylaby-prosta-9101685.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-Panstwa-NATO-to-tchorze-operacja-w-Ormuzie-bylaby-prosta-9101685.html",
       "title": "Trump: Państwa NATO to tchórze, operacja w Ormuzie byłaby prosta",
@@ -16,6 +58,13 @@
       "title": "Koniec polowania na urzędników? Sensacyjna decyzja prokuratury ws. SKOK Wołomin",
       "content_html": "Prokurator w procesie byłych szefów KNF ws. nadzoru nad SKOK Wołomin zwrócił się do siedmiorga oskarżonych o zgody na cofnięcie wobec nich aktu oskarżenia - poinformowała PAP rzeczniczka Prokuratora Generalnego Anna Adamiak. Dodała, że decyzja...",
       "date_published": "2026-03-20T16:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nie-widac-rychlego-wyjscia-z-konfrontacji-trwajacej-w-regionie-od-2023-9101723.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-widac-rychlego-wyjscia-z-konfrontacji-trwajacej-w-regionie-od-2023-9101723.html",
+      "title": "\"Nie widać rychłego wyjścia z konfrontacji trwającej w regionie od 2023\"",
+      "content_html": "Minister spraw zagranicznych Francji Jean-Noel Barrot podczas wizyty w Izraelu zaapelował o rozmowy izraelsko-libańskie i wdrożenie planu pokojowego dla Strefy Gazy. Ocenił, że w krótkoterminowej perspektywie nie widać oczywistego wyjścia z konfrontacji...",
+      "date_published": "2026-03-20T15:57:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-blokady-w-sluzbach-Nawrocki-mianuje-78-nowych-oficerow-SKW-9101705.html",
@@ -274,6 +323,13 @@
       "url": "https://www.bankier.pl/wiadomosc/Dowiemy-sie-ile-zarobil-KGHM-na-rajdzie-cen-srebra-Sprawdz-co-zatrzesie-rynkami-na-wiosne-9101493.html",
       "title": "Ile zarobił KGHM na rajdzie cen srebra? Sprawdź, co zatrzęsie rynkami na wiosnę",
       "content_html": "Od wyników polskiej sprzedaży detalicznej, przez globalne odczyty PMI, aż po sprawozdania finansowe takich spółek jak KGHM, Dino czy LPP – kalendarz pęka w szwach. Przygotowaliśmy zestawienie najważniejszych wydarzeń, które zdominują parkiety...",
+      "date_published": "2026-03-20T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Premier-Izraela-Rewolucji-nie-da-sie-zrobic-z-powietrza-9101497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Premier-Izraela-Rewolucji-nie-da-sie-zrobic-z-powietrza-9101497.html",
+      "title": "Premier Izraela: Rewolucji nie da się zrobić z powietrza",
+      "content_html": "Rewolucji nie da się przeprowadzić z powietrza; potrzebny jest element lądowy - powiedział premier Izraela Benjamin Netanjahu na konferencji prasowej z okazji 20. dnia wojny. Zapewnił, że Izrael nie będzie więcej atakować złóż gazu w Iranie...",
       "date_published": "2026-03-20T12:00:00+01:00"
     },
     {
@@ -639,55 +695,6 @@
       "title": "Nauczyciele bez dodatku za nadgodziny na wycieczkach. \"Wciąż krąży mit o 18 godzinach pracy\"",
       "content_html": "Choć Sąd Najwyższy już w 2025 r. przesądził, że praca nauczycieli ponad normę czasu pracy to godziny nadliczbowe, Ministerstwo Edukacji wciąż nie przedstawiło jasnych zasad ich rozliczania. Uregulowanie kwestii ma wpływ przede wszystkim na...",
       "date_published": "2026-03-20T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atom-wraca-ETS-uwiera-a-przemysl-traci-oddech-Niewiadomski-Europa-troche-sie-frajerzy-9100980.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atom-wraca-ETS-uwiera-a-przemysl-traci-oddech-Niewiadomski-Europa-troche-sie-frajerzy-9100980.html",
-      "title": "Atom wraca, ETS uwiera, a przemysł traci oddech. Niewiadomski: Europa trochę się frajerzy",
-      "content_html": "Bilion na energię, rewizja ETS i coraz większy niepokój o to, czy Europa nie płaci za transformację zbyt wysokiej ceny. Dziś gra toczy się już nie tylko o klimat, ale też o przemysł, inwestycje i gospodarcze przetrwanie w świecie coraz droższej...",
-      "date_published": "2026-03-20T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wraca-hit-Daja-dotacje-na-wejscie-z-firma-na-nowe-rynki-Jak-sie-zglosic-Kto-ma-szanse-na-granty-9100986.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wraca-hit-Daja-dotacje-na-wejscie-z-firma-na-nowe-rynki-Jak-sie-zglosic-Kto-ma-szanse-na-granty-9100986.html",
-      "title": "Wraca hit. Dają dotacje na wejście z firmą na nowe rynki. Jak się zgłosić?",
-      "content_html": "Przedsiębiorcy mają kolejną szansę na zdobycie dotacji. Tym razem pieniądze trafią do tych, którym marzy się wejście z biznesem na zagraniczne rynki. Pomoże im w tym program Polskie Mosty Technologiczne. Kto może zgarnąć granty i jakie warunki...",
-      "date_published": "2026-03-20T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czesi-chca-przeprowadzic-Polakow-z-kawalerek-do-magazynow-Wystarczy-100-euro-na-poczatek-9101063.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czesi-chca-przeprowadzic-Polakow-z-kawalerek-do-magazynow-Wystarczy-100-euro-na-poczatek-9101063.html",
-      "title": "Czesi chcą „przeprowadzić” Polaków z kawalerek... do magazynów. Wystarczy 100 euro na początek",
-      "content_html": "Inwestycje w sektorze komercyjnym zapewniają przewidywalne przychody i pozwalają czerpać bezpośrednie korzyści z rozwoju gospodarczego, jednak do tej pory cechowały się wysokim progiem wejścia. To się właśnie zmienia. Czeska grupa Accolade...",
-      "date_published": "2026-03-20T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wegry-nie-wykluczyly-wyslania-na-prosbe-Trumpa-wojsk-na-Bliski-Wschod-9101270.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wegry-nie-wykluczyly-wyslania-na-prosbe-Trumpa-wojsk-na-Bliski-Wschod-9101270.html",
-      "title": "Węgry nie wykluczyły wysłania na prośbę Trumpa wojsk na Bliski Wschód",
-      "content_html": "Gergely Gulyas, szef kancelarii premiera Węgier Viktora Orbana, przyznał w czwartek, że gdyby USA poprosiły Budapeszt o wysłanie wojsk w okolicę cieśniny Ormuz, węgierski rząd rozważyłby ich prośbę. Zdaniem lidera opozycji Petera Magyara...",
-      "date_published": "2026-03-19T23:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-znow-zrobila-Europe-w-konia-Byly-spadki-i-nie-ma-spadkow-9101241.html",
-      "title": "Wall Street znów zrobiła Europę w konia. Były spadki i nie ma spadków",
-      "content_html": "Amerykańscy inwestorzy pod koniec dnia zniwelowali straty i jak zwykle wystawili Stary Kontynent do wiatru.",
-      "date_published": "2026-03-19T21:07:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-CD-Projektu-z-dzialalnosci-kontynuowanej-w-IV-kw-wyniosl-174-2-mln-zl-wobec-konsensusu-97-4-mln-zl-9101181.html",
-      "title": "CD Projekt rozbił bank. Gigantyczne zyski spółki, analitycy w szoku",
-      "content_html": "Zysk netto z działalności kontynuowanej grupy CD Projekt w IV kwartale 2025 r. wyniósł 174,2 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego spółki. Zysk EBITDA wyniósł 167,7 mln zł. Konsensus zakładał 97,4 mln zł wyniku...",
-      "date_published": "2026-03-19T20:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nizsze-podatki-na-paliwa-Francja-nie-ma-juz-srodkow-na-takie-wsparcie-9101212.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nizsze-podatki-na-paliwa-Francja-nie-ma-juz-srodkow-na-takie-wsparcie-9101212.html",
-      "title": "Niższe podatki na paliwa? \"Francja nie ma już środków na takie wsparcie\"",
-      "content_html": "Rząd Francji nadal wyklucza obniżenie podatków na paliwa, by złagodzić wzrost cen benzyny. Jak poinformowała w czwartek rzeczniczka rządu Maud Bregeon, scenariusz ten obecnie nie jest przewidywany. W czwartek rano odbyło się spotkanie premiera...",
-      "date_published": "2026-03-19T20:12:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
