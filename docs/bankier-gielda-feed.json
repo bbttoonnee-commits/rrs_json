@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-umorzyl-postepowanie-upadlosciowe-MedApp-9101596.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-umorzyl-postepowanie-upadlosciowe-MedApp-9101596.html",
+      "title": "Sąd umorzył postępowanie upadłościowe MedApp Sąd Rejonowy dla Krakowa-Śródmieścia wydał postanowienie w przedmiocie umorzenia postępowania o ogłoszenie upadłości MedApp - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-20T14:02:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Samsung-wylozy-fortune-by-zdominowac-rynek-sztucznej-inteligencji-9101552.html",
       "url": "https://www.bankier.pl/wiadomosc/Samsung-wylozy-fortune-by-zdominowac-rynek-sztucznej-inteligencji-9101552.html",
       "title": "Samsung wyłoży fortunę, by zdominować rynek sztucznej inteligencji Samsung Electronics planuje zainwestować w 2026 r. ponad 70 miliardów dolarów, aby walczyć o przewagę w produkcji chipów do AI - podał w czwartek \"The Wall Street Journal\".",
@@ -429,13 +436,6 @@
       "title": "Scope Fluidics rozpoczyna proces certyfikacji IVDR dla panelu UNI FAST Spółka zależna Scope Fluidics złożyła jednostce notyfikowanej dokumentację inicjującą proces certyfikacji IVDR dla systemu BACTEROMIC z Panelem UNI FAST. Uzyskanie certyfikatu spodziewane jest w połowie roku - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-18T15:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EU-Inc-jako-odpowiedz-na-fragmentacje-rynku-Jak-KE-chce-ratowac-konkurencyjnosc-Europy-9100288.html",
-      "url": "https://www.bankier.pl/wiadomosc/EU-Inc-jako-odpowiedz-na-fragmentacje-rynku-Jak-KE-chce-ratowac-konkurencyjnosc-Europy-9100288.html",
-      "title": "\"EU Inc.\" jako odpowiedź na fragmentację rynku. Jak KE chce ratować konkurencyjność Europy? Przewodnicząca Komisji Europejskiej Ursula von der Leyen zapowiedziała w środę nową unijną inicjatywę pod nazwą „EU Inc.\", określaną jako tzw. 28. reżim prawny, dzięki któremu prowadzenie działalności gospodarczej ma być łatwiejsze.",
-      "content_html": "",
-      "date_published": "2026-03-18T14:54:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
