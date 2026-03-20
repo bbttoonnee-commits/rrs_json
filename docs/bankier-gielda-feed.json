@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mennica-Polska-w-26-chce-kontynuowac-polityke-ekspansji-na-rynki-zagraniczne-9101673.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mennica-Polska-w-26-chce-kontynuowac-polityke-ekspansji-na-rynki-zagraniczne-9101673.html",
+      "title": "Mennica Polska bije rekordy: 2 miliardy monet i ekspansja w Afryce Mennica Polska w 2026 roku chce dalej prowadzić politykę ekspansji na rynki zagraniczne - poinformowała podczas piątkowej konferencji Katarzyna Budnicka-Filipiuk, prezes Mennicy Polskiej. EBITDA spółki na koniec 2025 roku wyniosła blisko 160 mln zł, o 29 proc. więcej rdr, a EBIT wyniósł 125,5 mln zł, czyli więcej o 23 proc. rdr.",
+      "content_html": "",
+      "date_published": "2026-03-20T15:12:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MBF-Group-zglosilo-sie-do-wstepnych-konsultacji-rynkowych-Agencji-Uzbrojenia-9101666.html",
+      "url": "https://www.bankier.pl/wiadomosc/MBF-Group-zglosilo-sie-do-wstepnych-konsultacji-rynkowych-Agencji-Uzbrojenia-9101666.html",
+      "title": "MBF Group celuje w gigantyczne zamówienie. Miliony min dla polskiej armii na horyzoncie MBF Group, działając jako partner konsorcjum z partnerem technologicznym z siedzibą w Estonii przy udziale podmiotu powiązanego z siedzibą w Charkowie, zgłosiło się do udziału we wstępnych konsultacjach rynkowych prowadzonych przez Agencję Uzbrojenia, dotyczących pozyskania min przeciwpiechotnych - podało MBF Group w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-20T15:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-umorzyl-postepowanie-upadlosciowe-MedApp-9101596.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-umorzyl-postepowanie-upadlosciowe-MedApp-9101596.html",
       "title": "Sąd umorzył postępowanie upadłościowe MedApp Sąd Rejonowy dla Krakowa-Śródmieścia wydał postanowienie w przedmiocie umorzenia postępowania o ogłoszenie upadłości MedApp - poinformowała spółka w komunikacie.",
@@ -429,13 +443,6 @@
       "title": "Santander Bank Polska planuje skup akcji za ponad 220 mln zł w 2027 roku Santander Bank Polska, w ramach realizacji \"Programu Motywacyjnego VII\", planuje przeznaczyć na skup do 826 tys. akcji własnych w 2027 r. nie więcej niż 220,54 mln zł - poinformował bank w komunikacie z projektami uchwał walnego zgromadzenia zwołanego na 15 kwietnia.",
       "content_html": "",
       "date_published": "2026-03-18T16:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-rozpoczyna-proces-certyfikacji-IVDR-systemu-BACTEROMIC-z-Panelem-UNI-FAST-9100305.html",
-      "url": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-rozpoczyna-proces-certyfikacji-IVDR-systemu-BACTEROMIC-z-Panelem-UNI-FAST-9100305.html",
-      "title": "Scope Fluidics rozpoczyna proces certyfikacji IVDR dla panelu UNI FAST Spółka zależna Scope Fluidics złożyła jednostce notyfikowanej dokumentację inicjującą proces certyfikacji IVDR dla systemu BACTEROMIC z Panelem UNI FAST. Uzyskanie certyfikatu spodziewane jest w połowie roku - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-18T15:14:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
