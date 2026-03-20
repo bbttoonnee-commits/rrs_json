@@ -4,9 +4,30 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Agora-ocenia-ze-pozytywnie-zamknela-I-kw-26-w-segmencie-reklamy-9101503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agora-ocenia-ze-pozytywnie-zamknela-I-kw-26-w-segmencie-reklamy-9101503.html",
+      "title": "Agora ocenia, że pozytywnie zamknęła I kw. '26 w segmencie reklamy Agora ocenia, że zamknęła pozytywnie pierwszy kwartał 2026 roku w segmencie reklamy, a jego wynik potwierdza oczekiwania spółki względem jej prognoz na temat dynamiki wzrostu tego rynku w 2026 roku - poinformował podczas konferencji wynikowej członek zarządu spółki, Maciej Strzelecki.",
+      "content_html": "",
+      "date_published": "2026-03-20T12:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dowiemy-sie-ile-zarobil-KGHM-na-rajdzie-cen-srebra-Sprawdz-co-zatrzesie-rynkami-na-wiosne-9101493.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dowiemy-sie-ile-zarobil-KGHM-na-rajdzie-cen-srebra-Sprawdz-co-zatrzesie-rynkami-na-wiosne-9101493.html",
+      "title": "TYM BĘDĄ ŻYŁY RYNKI Dowiemy się, ile zarobił KGHM na rajdzie cen srebra. Sprawdź, co zatrzęsie rynkami na wiosnę Od wyników polskiej sprzedaży detalicznej, przez globalne odczyty PMI, aż po sprawozdania finansowe takich spółek jak KGHM, Dino czy LPP – kalendarz pęka w szwach. Przygotowaliśmy zestawienie najważniejszych wydarzeń, które zdominują parkiety w kolejnym tygodniu.",
+      "content_html": "",
+      "date_published": "2026-03-20T12:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dadelo-przekroczylo-wskazniki-warunkow-emisji-obligacji-serii-A-9101485.html",
       "url": "https://www.bankier.pl/wiadomosc/Dadelo-przekroczylo-wskazniki-warunkow-emisji-obligacji-serii-A-9101485.html",
       "title": "Dadelo przekroczyło wskaźniki warunków emisji obligacji serii A Dadelo przekroczyło dwa opisane w warunkach emisji obligacji serii A wskaźniki, co wynikało z zakupu znacznej ilości towaru po atrakcyjnych cenach, którego sprzedaż będzie realizowała w 2026 roku - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-20T11:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Analitycy-celuja-w-pierwsza-premiere-od-CD-Projekt-Zarzad-potrzebuje-ponad-pol-miliarda-zysku-netto-9101486.html",
+      "url": "https://www.bankier.pl/wiadomosc/Analitycy-celuja-w-pierwsza-premiere-od-CD-Projekt-Zarzad-potrzebuje-ponad-pol-miliarda-zysku-netto-9101486.html",
+      "title": "CD Projekt podgrzewa emocje, zbiera pieniądze i zaskakuje analityków. Zarząd potrzebuje ponad pół miliarda zysku netto Wyniki finansowe CD Projekt za 2025 rok nie tylko przebiły oczekiwania, ale i rozbudziły wyobraźnię inwestorów. Analitycy wskazują na realną szansę na nowy, płatny dodatek do „Wiedźmina 3” w 2026 r., aby zrealizować ambitny cel zarządu dotyczący zysku oraz rekordowo silną pozycję gotówkową spółki, która może być podstawą do wypłaty nieco wyższej dywidendy.",
       "content_html": "",
       "date_published": "2026-03-20T11:22:00+01:00"
     },
@@ -422,13 +443,6 @@
       "title": "Sędzia-komisarz zdecyduje o losach PKP Cargo. Głos wierzycieli nie jest wiążący? Opinia Rady Wierzycieli nie wstrzymuje procesu zatwierdzenia planu restrukturyzacji PKP Cargo - podała spółka w komunikacie prasowym. We wtorek podano, że według Rady Wierzycieli PKP Cargo przyjęte w planie restrukturyzacyjnym spółki założenia wiążą się z \"istotnym ryzykiem\" braku osiągnięcia prognozowanych wyników, a sam plan powinien zostać zmieniony oraz uszczegółowiony.",
       "content_html": "",
       "date_published": "2026-03-18T12:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sunex-zawiaze-rezerwe-ksiegowa-w-wysokosci-4-66-mln-zl-9100143.html",
-      "title": "Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł Sunex zawiąże rezerwę księgową w wysokości 4,66 mln zł w związku z decyzjami związanymi z przeglądem opcji strategicznych - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-18T11:40:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
