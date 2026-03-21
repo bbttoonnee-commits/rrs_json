@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-2050-Szymona-Holowni-zmienila-nazwe-9102088.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-2050-Szymona-Holowni-zmienila-nazwe-9102088.html",
+      "title": "Polska 2050 Szymona Hołowni zmieniła nazwę",
+      "content_html": "Polska 2050 Szymona Hołowni zmieniła nazwę na Polska 2050 Rzeczpospolitej Polskiej. O nowej nazwie poinformowała w sobotę przewodnicząca partii Katarzyna Pełczyńska-Nałęcz podczas Kongresu Nowego Otwarcia w Warszawie. Zaprezentowała na nim...",
+      "date_published": "2026-03-21T19:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-katastrofy-atomowej-USA-i-Izrael-uzyly-pogromcow-bunkrow-w-Natanz-9102066.html",
+      "url": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-katastrofy-atomowej-USA-i-Izrael-uzyly-pogromcow-bunkrow-w-Natanz-9102066.html",
+      "title": "Atak na nuklearne serce Iranu. USA i Izrael użyły \"pogromców bunkrów\" w Natanz",
+      "content_html": "Iran zarzucił w sobotę Stanom Zjednoczonych i Izraelowi zaatakowanie tego dnia rano kompleksu nuklearnego w Natanz w środkowym Iranie. Szef Międzynarodowej Agencji Energii Atomowej (MAEA) Rafael Grossi zaapelował o „powściągliwość militarną”...",
+      "date_published": "2026-03-21T19:08:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szeroka-koalicja-przeciwko-blokadzie-Ormuz-20-panstw-zada-otwarcia-szlaku-9102044.html",
       "url": "https://www.bankier.pl/wiadomosc/Szeroka-koalicja-przeciwko-blokadzie-Ormuz-20-panstw-zada-otwarcia-szlaku-9102044.html",
       "title": "Szeroka koalicja przeciwko blokadzie Ormuz. 20 państw żąda otwarcia szlaku",
@@ -44,13 +58,6 @@
       "title": "Usługi współdzielone nowym standardem? Oto czego Polacy szukają na nowoczesnych osiedlach",
       "content_html": "Ponad jedna trzecia respondentów rozważałaby zamieszkanie w budynku z usługami współdzielonymi, np. pralnią samoobsługową, siłownią czy pokojem do pracy - wynika z raportu Living 2040. Podobna część badanych udzieliła odpowiedzi negatywnej...",
       "date_published": "2026-03-21T13:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-katastrofy-atomowej-USA-i-Izrael-uzyly-pogromcow-bunkrow-w-Natanz-9102066.html",
-      "url": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-katastrofy-atomowej-USA-i-Izrael-uzyly-pogromcow-bunkrow-w-Natanz-9102066.html",
-      "title": "Atak na nuklearne serce Iranu. USA i Izrael użyły \"pogromców bunkrów\" w Natanz",
-      "content_html": "Iran zarzucił w sobotę Stanom Zjednoczonych i Izraelowi zaatakowanie tego dnia rano kompleksu nuklearnego w Natanz w środkowym Iranie. Szef Międzynarodowej Agencji Energii Atomowej (MAEA) Rafael Grossi zaapelował o „powściągliwość militarną”...",
-      "date_published": "2026-03-21T13:03:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rekordowy-poziom-indeksu-glodu-w-historii-Wojna-w-Iranie-uderzy-w-najbiedniejszych-9099610.html",
@@ -688,20 +695,6 @@
       "title": "Trump rozważa zajęcie irańskiej wyspy Chark",
       "content_html": "Amerykański prezydent Donald Trump rozważa zajęcie irańskiej wyspy Chark - poinformował w piątek portal Axios, powołując się na cztery źródła zaznajomione ze sprawą,",
       "date_published": "2026-03-20T12:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Minister-Domanski-zapowiada-wielkie-wydatki-W-energetyce-jest-przyszlosc-9101530.html",
-      "url": "https://www.bankier.pl/wiadomosc/Minister-Domanski-zapowiada-wielkie-wydatki-W-energetyce-jest-przyszlosc-9101530.html",
-      "title": "Minister Domański zapowiada wielkie wydatki. „W energetyce jest przyszłość”",
-      "content_html": "Setki miliardów złotych, które inwestujemy rok w rok w transformację energetyczną Polski, mają zapewnić tańszy prąd polskim rodzinom i firmom - powiedział w piątek w Gdańsku minister finansów i gospodarki Andrzej Domański. W energetyce jest...",
-      "date_published": "2026-03-20T12:53:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kim-z-corka-w-czolgu-Przywodca-Korei-pokazal-swiatu-potezna-bron-9101528.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kim-z-corka-w-czolgu-Przywodca-Korei-pokazal-swiatu-potezna-bron-9101528.html",
-      "title": "Kim z córką w czołgu. Przywódca Korei pokazał światu potężną broń",
-      "content_html": "Przywódca Korei Północnej Kim Dzong Un nadzorował manewry z użyciem nowych czołgów – przekazały w piątek reżimowe media. Jak wynika z publikowanych zdjęć, towarzyszyła mu córka Kim Dzu Ae, która także zasiadła w czołgu. Kim zapowiedział...",
-      "date_published": "2026-03-20T12:50:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
