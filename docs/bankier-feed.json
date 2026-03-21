@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Twoja-przyszlosc-jest-gwarantowana-Mosad-kusi-pracownikow-iranskich-fabryk-atomowych-9102123.html",
+      "url": "https://www.bankier.pl/wiadomosc/Twoja-przyszlosc-jest-gwarantowana-Mosad-kusi-pracownikow-iranskich-fabryk-atomowych-9102123.html",
+      "title": "\"Twoja przyszłość jest gwarantowana\". Mosad kusi pracowników irańskich fabryk atomowych",
+      "content_html": "Izraelska agencja wywiadowcza Mosad zaprosiła w sobotę do kontaktu Irańczyków zorientowanych w branży nuklearnej Republiki Islamskiej - przekazały media izraelskie.",
+      "date_published": "2026-03-21T20:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czy-to-poczatek-konca-wojny-z-Iranem-Trump-szykuje-Wielki-Uklad-9102121.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-to-poczatek-konca-wojny-z-Iranem-Trump-szykuje-Wielki-Uklad-9102121.html",
+      "title": "Czy to początek końca wojny z Iranem? USA stawiają 6 twardych warunków",
+      "content_html": "Po trzech tygodniach wojny z Iranem administracja prezydenta USA Donalda Trumpa zaczęła wstępne rozmowy na temat następnego etapu i tego, jak mogą wyglądać negocjacje pokojowe z Teheranem - podał w sobotę Axios, powołując się na źródła...",
+      "date_published": "2026-03-21T20:21:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Islandia-wchodzi-do-UE-Padla-konkretna-data-9100520.html",
       "url": "https://www.bankier.pl/wiadomosc/Islandia-wchodzi-do-UE-Padla-konkretna-data-9100520.html",
       "title": "Islandia wchodzi do UE? Padła konkretna data",
@@ -135,6 +149,13 @@
       "title": "Iran szuka ratunku w Indiach? Pezeszkian chce regionalnego paktu bezpieczeństwa",
       "content_html": "Prezydent Iranu Masud Pezeszkian zaproponował podczas rozmowy z premierem Indii Narendrą Modim utworzenie regionalnych ram bezpieczeństwa, obejmujących kraje Azji Zachodniej - poinformowała w sobotę ambasada Iranu w Indiach w serwisie społecznościowym...",
       "date_published": "2026-03-21T17:53:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kleska-wielkiej-ofensywy-Rosjan-Trzeci-Korpus-rozbil-dwie-armie-9102084.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kleska-wielkiej-ofensywy-Rosjan-Trzeci-Korpus-rozbil-dwie-armie-9102084.html",
+      "title": "Klęska wielkiej ofensywy Rosjan. Trzeci Korpus rozbił dwie armie",
+      "content_html": "Trzeci Korpus Armijny Ukrainy poinformował o udaremnieniu największej dotychczas próby przełamania frontu przez Rosjan na odcinku Łyman-Borowa na wschodzie kraju. Siły inwazyjne rzuciły do ataków dwie armie na siedmiu kierunkach, jednak te natarcia...",
+      "date_published": "2026-03-21T14:37:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szeroka-koalicja-przeciwko-blokadzie-Ormuz-20-panstw-zada-otwarcia-szlaku-9102044.html",
@@ -681,20 +702,6 @@
       "title": "Irańscy agenci zatrzymani. Chcieli wjechać do brytyjskiej bazy z bronią atomową",
       "content_html": "Dwoje domniemanych irańskich szpiegów zostało aresztowanych w związku z nieudaną próbą wdarcia się do bazy marynarki wojennej, w której stacjonują brytyjskie okręty podwodne z głowicami jądrowymi - ujawnił w piątek dziennik „The Sun”...",
       "date_published": "2026-03-20T14:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-bedzie-mogla-skorzystac-z-uwolnienia-rezerw-uprawnien-na-rynku-EU-ETS-9101438.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-bedzie-mogla-skorzystac-z-uwolnienia-rezerw-uprawnien-na-rynku-EU-ETS-9101438.html",
-      "title": "Premier: Polska będzie mogła skorzystać z uwolnienia rezerw uprawnień na rynku EU ETS",
-      "content_html": "Premier Donald Tusk poinformował po szczycie UE w Brukseli, że Polska znajdzie się w grupie państw objętych pomocą dzięki uwolnieniu rezerw uprawnień do emisji CO2. Jak przekazał, podczas szczytu udało się też uzgodnić przedłużenie udzielania...",
-      "date_published": "2026-03-20T14:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-staje-sie-regionalna-potega-FSRU2-coraz-blizej-9101624.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-staje-sie-regionalna-potega-FSRU2-coraz-blizej-9101624.html",
-      "title": "Polska staje się regionalną potęgą. FSRU2 coraz bliżej",
-      "content_html": "Gaz-System nie poniesie istotnych kosztów związanych z inwestycją lądowo-morską w drugi terminal pływający LNG (FSRU2), ponieważ gros infrastruktury zostanie wybudowane już przy okazji FSRU1- poinformował PAP Biznes prezes Gaz-Systemu Sławomir...",
-      "date_published": "2026-03-20T14:24:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
