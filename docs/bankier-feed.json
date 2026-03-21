@@ -137,6 +137,13 @@
       "date_published": "2026-03-21T08:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Lawa-przysieglych-orzekla-Elon-Musk-wprowadzil-w-blad-inwestorow-Twittera-9102023.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lawa-przysieglych-orzekla-Elon-Musk-wprowadzil-w-blad-inwestorow-Twittera-9102023.html",
+      "title": "Ława przysięgłych orzekła. Elon Musk wprowadził w błąd inwestorów Twittera",
+      "content_html": "Ława przysięgłych w sądzie federalnym w San Francisco orzekła w piątek, że Elon Musk celowo wprowadził w błąd inwestorów Twittera, próbując kupić platformę za niższą cenę - poinformowały agencje Bloomberga i Reutera. Prawnicy miliardera...",
+      "date_published": "2026-03-21T07:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Upadek-imperium-Harry-ego-i-Meghan-Nawet-Netflix-ma-juz-dosc-9100279.html",
       "url": "https://www.bankier.pl/wiadomosc/Upadek-imperium-Harry-ego-i-Meghan-Nawet-Netflix-ma-juz-dosc-9100279.html",
       "title": "Upadek imperium Harry’ego i Meghan. Nawet Netflix ma już dość",
@@ -695,13 +702,6 @@
       "title": "Koszmar polskich turystów. Wyjazd do Emiratów odwołany, pieniędzy nie oddano",
       "content_html": "Mieli jechać na wakacje w Zjednoczonych Emiratach Arabskich albo Omanu. Jednak wojna na Bliskim Wschodzie wymusiła na nich zmianę planów. Byli przekonani, że otrzymają szybko zwrot pieniędzy za wykupione wycieczki. Niestety tak się nie stało...",
       "date_published": "2026-03-20T11:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-oskarzyl-Wielka-Brytanie-o-wspoludzial-w-amerykanskich-aktach-agresji-9101476.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-oskarzyl-Wielka-Brytanie-o-wspoludzial-w-amerykanskich-aktach-agresji-9101476.html",
-      "title": "Iran oskarżył Wielką Brytanię o współudział w amerykańskich aktach „agresji”",
-      "content_html": "Minister spraw zagranicznych Iranu Abbas Aragczi potępił w rozmowie telefonicznej z szefową brytyjskiego MSZ Yvette Cooper wykorzystanie przez Stany Zjednoczone brytyjskich baz wojskowych. Będzie to traktowane jako „udział w agresji” - przekazał...",
-      "date_published": "2026-03-20T11:12:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
