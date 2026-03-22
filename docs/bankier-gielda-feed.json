@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Perspektywa-ciec-stop-przez-europejski-i-amerykanski-bank-centralny-oddala-sie-9102191.html",
+      "url": "https://www.bankier.pl/wiadomosc/Perspektywa-ciec-stop-przez-europejski-i-amerykanski-bank-centralny-oddala-sie-9102191.html",
+      "title": "PZU Perspektywa cięć stóp w USA i Europie wyraźnie się oddala Oddala się perspektywa obniżki stóp procentowych przez amerykański Fed i Europejski Bank Centralny - uważa Konrad Soszyński z PZU. Zwrócił uwagę, że prezesi obu instytucji zasugerowali, iż w najbliższych miesiącach nie należy oczekiwać obniżek.",
+      "content_html": "",
+      "date_published": "2026-03-22T08:19:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rolnikom-trudno-utrzymac-oplacalnosc-produkcji-Gospodarstwa-w-coraz-slabszej-kondycji-9098707.html",
       "url": "https://www.bankier.pl/wiadomosc/Rolnikom-trudno-utrzymac-oplacalnosc-produkcji-Gospodarstwa-w-coraz-slabszej-kondycji-9098707.html",
       "title": "Rolnikom trudno utrzymać opłacalność produkcji. Gospodarstwa w coraz słabszej kondycji Polska produkuje rocznie ok 35-36 mln t zbóż, jednak część ziarna pozostaje w magazynach gospodarstw z powodu niskich cen i trudności ze sprzedażą. W ciągu ostatnich dwóch dekad pogłowie trzody chlewnej...",
@@ -240,13 +247,6 @@
       "title": "Żabka chce otworzyć ponad 1,3 tys. sklepów Grupa Żabka zakłada, że jej CAPEX w 2026 r. będzie podobny jak w latach 2024 i 2025 - poinformowali przedstawiciele grupy.",
       "content_html": "",
       "date_published": "2026-03-20T09:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-akcji-CD-Projekt-rosnie-o-ponad-6-8-proc-po-publikacji-wynikow-9101405.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-akcji-CD-Projekt-rosnie-o-ponad-6-8-proc-po-publikacji-wynikow-9101405.html",
-      "title": "Kurs akcji CD Projekt rośnie po publikacji wyników Kurs akcji CD Projektu rośnie o 6,8 proc. do 250,5 zł po publikacji wyników za 2025 rok. WIG20 zwyżkuje o 0,8 proc.",
-      "content_html": "",
-      "date_published": "2026-03-20T09:20:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
