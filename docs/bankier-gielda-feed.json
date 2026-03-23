@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/GPW-zdecydowala-o-wprowadzeniu-27-marca-akcji-Scanway-do-obrotu-na-glownym-rynku-9102574.html",
+      "url": "https://www.bankier.pl/wiadomosc/GPW-zdecydowala-o-wprowadzeniu-27-marca-akcji-Scanway-do-obrotu-na-glownym-rynku-9102574.html",
+      "title": "Scanway z zielonym światłem od GPW. Od piątku akcje spółki na nowym parkiecie Giełda Papierów Wartościowych w Warszawie podjęła uchwałę o wprowadzeniu z dniem 27 marca 2026 r. do obrotu giełdowego na głównym rynku akcji zwykłych na okaziciela serii A, B, C, D, E, F,G i H spółki Scanway - podała GPW w uchwale zarządu.",
+      "content_html": "",
+      "date_published": "2026-03-23T13:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-rekomendacje-dla-Dino-Polska-do-akumuluj-cena-docelowa-46-9-zl-9102540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-rekomendacje-dla-Dino-Polska-do-akumuluj-cena-docelowa-46-9-zl-9102540.html",
+      "title": "Noble Securities podwyższył rekomendację dla Dino Polska Analitycy Noble Securities, w raporcie z 18 marca, podnieśli rekomendację dla Dino Polska do \"akumuluj\" z \"trzymaj\", podnosząc cenę docelową akcji do 46,9 zł z 41 zł.",
+      "content_html": "",
+      "date_published": "2026-03-23T12:54:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-zawrocil-rynki-Wystarczyl-jeden-wpis-by-prawie-wszystko-zaczelo-rosnac-9102521.html",
       "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-zawrocil-rynki-Wystarczyl-jeden-wpis-by-prawie-wszystko-zaczelo-rosnac-9102521.html",
       "title": "Donald Trump zawrócił rynki. Wystarczył jeden wpis, by (prawie) wszystko zaczęło rosnąć Drastyczne spadki na rynkach akcji zostały błyskawicznie wymazane. Ropa naftowa potaniała o ponad 10%.",
@@ -23,13 +37,6 @@
       "title": "Quercus TFI spodziewa się dalszej nadpłynności sektora bankowego i rekordowego I kwartału Quercus TFI spodziewa się dalszej nadpłynności sektora bankowego i zakłada, że pierwszy kwartał 2026 r. będzie pod względem wyników finansowych rekordowy - poinformował na konferencji prasowej prezes Sebastian Buczek. Wskazał, że pierwsze dwa miesiące roku były okresem kontynuacji bardzo dobrej koniunktury z 2025 roku, a marzec przyniósł zmianę tych tendencji - ze względu na wojnę w Iranie.",
       "content_html": "",
       "date_published": "2026-03-23T12:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-odklada-dalsze-ataki-na-Iran-Futures-w-USA-rosna-ceny-ropy-spadaja-9102504.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-odklada-dalsze-ataki-na-Iran-Futures-w-USA-rosna-ceny-ropy-spadaja-9102504.html",
-      "title": "Trump odkłada dalsze ataki na Iran. Futures w USA rosną, ceny ropy spadają Prezydent USA Donald Trump podał we wpisie na swojej platformie mediów społecznościowych Truht Social, że odkłada ataki na obiekty energetyczne Iranu wobec toczących się rozmów z władzami w Teheranie. Po informacji futures w USA idą w górę, a ceny ropy mocno spadają.",
-      "content_html": "",
-      "date_published": "2026-03-23T12:22:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Torpol-widzi-presje-konkurencyjna-na-rynku-nie-obawia-sie-o-kontrakt-dot-Warszawy-Wsch-9102487.html",
@@ -135,6 +142,13 @@
       "title": "Izostal rekomenduje 0,11 zł dywidendy na akcję z zysku za 2025 rok Zarząd Izostalu rekomenduje przeznaczenie na dywidendę ok. 3,6 mln zł z zysku za 2025 rok, czyli 0,11 zł na akcję - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-23T08:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-lutym-wzrosly-o-72-proc-rdr-do-ok-427-mln-USD-9102349.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-lutym-wzrosly-o-72-proc-rdr-do-ok-427-mln-USD-9102349.html",
+      "title": "Asbis szacuje, że przychody w lutym wzrosły o 72 proc. rdr, do ok. 427 mln USD Grupa Asbis szacuje, że jej skonsolidowane przychody za luty 2026 r. wyniosły ok. 427 mln USD i były o ok. 72 proc. wyższe od przychodów wypracowanych lutym 2025 r. - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-23T08:18:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miedz-najtansza-od-ponad-3-miesiecy-Konflikt-na-Bliskim-Wschodzie-ogranicza-apetyt-9102345.html",
