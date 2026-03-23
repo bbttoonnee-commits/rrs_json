@@ -4,9 +4,16 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Rynki-oceniaja-ultimatum-USA-wobec-Iranu-9102341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Rynki-oceniaja-ultimatum-USA-wobec-Iranu-9102341.html",
+      "title": "Ceny ropy rosną. Rynki oceniają ultimatum USA wobec Iranu Ceny ropy naftowej rosną i są blisko najwyższych poziomów od połowy 2022 r. Inwestorzy oceniają ultimatum prezydenta USA Donalda Trumpa wobec Iranu i groźby Teheranu - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-03-23T07:55:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Quercus-TFI-mial-w-25-60-2-mln-zl-zysku-netto-j-d-wobec-43-2-mln-zl-rok-wczesniej-9102321.html",
       "url": "https://www.bankier.pl/wiadomosc/Quercus-TFI-mial-w-25-60-2-mln-zl-zysku-netto-j-d-wobec-43-2-mln-zl-rok-wczesniej-9102321.html",
-      "title": "Quercus TFI miał w '25 60,2 mln zł zysku netto j.d., wobec 43,2 mln zł rok wcześniej Skonsolidowany zysk netto j.d. Quercus TFI w 2025 r. wyniósł 60,2 mln zł wobec 43,2 mln zł przed rokiem - poinformowała spółka w raporcie.",
+      "title": "Quercus TFI z rekordowym wynikiem. Pomogła hossa na rynkach akcji, obligacji i metali szlachetnych Skonsolidowany zysk netto j.d. Quercus TFI w 2025 r. wyniósł 60,2 mln zł wobec 43,2 mln zł przed rokiem - poinformowała spółka w raporcie.",
       "content_html": "",
       "date_published": "2026-03-23T06:48:00+01:00"
     },
@@ -37,13 +44,6 @@
       "title": "Rolnikom trudno utrzymać opłacalność produkcji. Gospodarstwa w coraz słabszej kondycji Polska produkuje rocznie ok 35-36 mln t zbóż, jednak część ziarna pozostaje w magazynach gospodarstw z powodu niskich cen i trudności ze sprzedażą. W ciągu ostatnich dwóch dekad pogłowie trzody chlewnej...",
       "content_html": "",
       "date_published": "2026-03-21T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lawa-przysieglych-orzekla-Elon-Musk-wprowadzil-w-blad-inwestorow-Twittera-9102023.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lawa-przysieglych-orzekla-Elon-Musk-wprowadzil-w-blad-inwestorow-Twittera-9102023.html",
-      "title": "Ława przysięgłych orzekła. Elon Musk wprowadził w błąd inwestorów Twittera Ława przysięgłych w sądzie federalnym w San Francisco orzekła w piątek, że Elon Musk celowo wprowadził w błąd inwestorów Twittera, próbując kupić platformę za niższą cenę - poinformowały agencje Bloomberga i Reutera. Prawnicy miliardera zapowiedzieli apelację.",
-      "content_html": "",
-      "date_published": "2026-03-21T07:48:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
