@@ -4,9 +4,23 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Skor-zysk-netto-j-d-GPW-wyniosl-w-IV-kw-47-3-mln-zl-wobec-47-7-mln-zl-konsensusu-9102897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skor-zysk-netto-j-d-GPW-wyniosl-w-IV-kw-47-3-mln-zl-wobec-47-7-mln-zl-konsensusu-9102897.html",
+      "title": "GPW dowozi wyniki. Zysk netto 204 mln zł w 2025 roku i ambitne plany dywidendowe Skorygowany zysk netto j.d. Grupy Kapitałowej GPW wyniósł w IV kw. 47,3 mln zł, skorygowana EBITDA wyniosła 54,5 mln zł - podała Giełda Papierów Wartościowych w komunikacie. Konsensus PAP Biznes zakładał 47,7 mln zł skorygowanego zysku netto oraz 54,5 mln zł skorygowanej EBITDA.",
+      "content_html": "",
+      "date_published": "2026-03-23T20:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-BS-w-ramach-buybacku-nabylo-lacznie-308-881-akcji-za-23-8-mln-zl-9102896.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-BS-w-ramach-buybacku-nabylo-lacznie-308-881-akcji-za-23-8-mln-zl-9102896.html",
+      "title": "Asseco BS kończy skup akcji. Popyt pięciokrotnie przewyższył ofertę spółki Asseco BS w ramach skupu akcji własnych nabyło łącznie 308.881 akcji stanowiących ok. 0,92 proc. głosów na WZ w cenie 77 zł za papier, czyli łącznie za 23,8 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-23T20:06:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Obnizka-marzy-przez-Orlen-stabilizuje-ceny-na-rynku-minister-aktywow-panstwowych-9102881.html",
       "url": "https://www.bankier.pl/wiadomosc/Obnizka-marzy-przez-Orlen-stabilizuje-ceny-na-rynku-minister-aktywow-panstwowych-9102881.html",
-      "title": "Obniżka marży przez Orlen stabilizuje ceny na rynku - minister aktywów państwowych Obniżka marży przez Orlen stabilizuje ceny na rynku - ocenił minister aktywów państwowych Wojciech Balczun w Polsat News. Potencjalnie rozpatrywane w przyszłości mogą być kwestia akcyzy, VAT-u czy dyskusje o ustawie o nadmiernych zyskach.",
+      "title": "Rząd walczy z drożyzną na stacjach. Orlen tnie marże, minister nie wyklucza obniżki VAT Obniżka marży przez Orlen stabilizuje ceny na rynku - ocenił minister aktywów państwowych Wojciech Balczun w Polsat News. Potencjalnie rozpatrywane w przyszłości mogą być kwestia akcyzy, VAT-u czy dyskusje o ustawie o nadmiernych zyskach.",
       "content_html": "",
       "date_published": "2026-03-23T19:44:00+01:00"
     },
@@ -135,6 +149,13 @@
       "title": "Donald Trump zawrócił rynki. Wystarczył jeden wpis, by (prawie) wszystko zaczęło rosnąć Drastyczne spadki na rynkach akcji zostały błyskawicznie wymazane. Ropa naftowa potaniała o ponad 10%.",
       "content_html": "",
       "date_published": "2026-03-23T12:35:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Alior-Banku-proponuje-wyplate-8-93-zl-dywidendy-na-akcje-z-zysku-za-25-9102512.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Alior-Banku-proponuje-wyplate-8-93-zl-dywidendy-na-akcje-z-zysku-za-25-9102512.html",
+      "title": "Zarząd Alior Banku proponuje wypłatę 8,93 zł dywidendy na akcję z zysku za '25 Zarząd Alior Banku zaproponował, by z zysku osiągniętego w 2025 roku na dywidendę trafiło około 1,16 mld zł, co daje 8,93 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-23T12:28:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Quercus-TFI-spodziewa-sie-dalszej-nadplynnosci-sektora-bankowego-i-rekordowego-I-kwartalu-9102511.html",

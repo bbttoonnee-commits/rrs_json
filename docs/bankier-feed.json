@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Malgorzata-Krolak-nowym-prezesem-Grupy-Azoty-Police-Zmiany-w-zarzadzie-giganta-9102916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Malgorzata-Krolak-nowym-prezesem-Grupy-Azoty-Police-Zmiany-w-zarzadzie-giganta-9102916.html",
+      "title": "Małgorzata Królak nowym prezesem Grupy Azoty Police. Zmiany w zarządzie giganta",
+      "content_html": "Rada nadzorcza Grupy Azoty Police powołała Małgorzatę Królak na funkcję prezesa zarządu spółki z dniem 1 kwietnia 2026 r. oraz Dominika Nowaka na wiceprezesa z dniem 24 marca 2026 r. - przekazała spółka w poniedziałek w komunikacie giełdowym...",
+      "date_published": "2026-03-23T20:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-wojskowego-Herculesa-w-Kolumbii-Na-pokladzie-110-osob-9102860.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-wojskowego-Herculesa-w-Kolumbii-Na-pokladzie-110-osob-9102860.html",
+      "title": "Katastrofa wojskowego Herculesa w Kolumbii. 125 osób na pokładzie",
+      "content_html": "W południowo-wschodniej części Kolumbii, w mieście Puerto Leguizamo, rozbił się w poniedziałek kolumbijski wojskowy samolot transportowy Hercules C-130, na pokładzie którego znajdowało się 125 osób; osiem spośród nich zginęło, a 15 znajduje...",
+      "date_published": "2026-03-23T20:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-BS-w-ramach-buybacku-nabylo-lacznie-308-881-akcji-za-23-8-mln-zl-9102896.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-BS-w-ramach-buybacku-nabylo-lacznie-308-881-akcji-za-23-8-mln-zl-9102896.html",
+      "title": "Asseco BS kończy skup akcji. Popyt pięciokrotnie przewyższył ofertę spółki",
+      "content_html": "Asseco BS w ramach skupu akcji własnych nabyło łącznie 308.881 akcji stanowiących ok. 0,92 proc. głosów na WZ w cenie 77 zł za papier, czyli łącznie za 23,8 mln zł - podała spółka w komunikacie.",
+      "date_published": "2026-03-23T20:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skor-zysk-netto-j-d-GPW-wyniosl-w-IV-kw-47-3-mln-zl-wobec-47-7-mln-zl-konsensusu-9102897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skor-zysk-netto-j-d-GPW-wyniosl-w-IV-kw-47-3-mln-zl-wobec-47-7-mln-zl-konsensusu-9102897.html",
+      "title": "GPW dowozi wyniki. Zysk netto 204 mln zł w 2025 roku i ambitne plany dywidendowe",
+      "content_html": "Skorygowany zysk netto j.d. Grupy Kapitałowej GPW wyniósł w IV kw. 47,3 mln zł, skorygowana EBITDA wyniosła 54,5 mln zł - podała Giełda Papierów Wartościowych w komunikacie. Konsensus PAP Biznes zakładał 47,7 mln zł skorygowanego zysku netto...",
+      "date_published": "2026-03-23T20:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Obnizka-marzy-przez-Orlen-stabilizuje-ceny-na-rynku-minister-aktywow-panstwowych-9102881.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obnizka-marzy-przez-Orlen-stabilizuje-ceny-na-rynku-minister-aktywow-panstwowych-9102881.html",
+      "title": "Rząd walczy z drożyzną na stacjach. Orlen tnie marże, minister nie wyklucza obniżki VAT",
+      "content_html": "Obniżka marży przez Orlen stabilizuje ceny na rynku - ocenił minister aktywów państwowych Wojciech Balczun w Polsat News. Potencjalnie rozpatrywane w przyszłości mogą być kwestia akcyzy, VAT-u czy dyskusje o ustawie o nadmiernych zyskach.",
+      "date_published": "2026-03-23T19:44:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-GPW-w-IV-kwartale-2025-roku-vs-konsensus-PAP-tabela-9102872.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-GPW-w-IV-kwartale-2025-roku-vs-konsensus-PAP-tabela-9102872.html",
       "title": "Wyniki GPW w IV kwartale 2025 roku vs. konsensus PAP (tabela)",
@@ -11,18 +46,25 @@
       "date_published": "2026-03-23T19:28:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bogucki-do-Czarzastego-Procedura-wyboru-sedziow-budzi-watpliwosci-co-do-zgodnosci-z-Konstytucja-9102871.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bogucki-do-Czarzastego-Procedura-wyboru-sedziow-budzi-watpliwosci-co-do-zgodnosci-z-Konstytucja-9102871.html",
+      "title": "Bogucki do Czarzastego: Procedura wyboru sędziów budzi wątpliwości co do zgodności z Konstytucją",
+      "content_html": "Stanowisko Kancelarii Sejmu w sprawie procedury wyboru sędziów Trybunału Konstytucyjnego nie odpowiada na zasadnicze wątpliwości konstytucyjne podniesione przez prezydenta - stwierdził w skierowanym w poniedziałek do marszałka Sejmu Włodzimierza...",
+      "date_published": "2026-03-23T19:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Siatka-iranskich-szpiegow-rozbita-w-Londynie-Planowali-ataki-na-synagogi-9102869.html",
+      "url": "https://www.bankier.pl/wiadomosc/Siatka-iranskich-szpiegow-rozbita-w-Londynie-Planowali-ataki-na-synagogi-9102869.html",
+      "title": "Londyn wzywa ambasadora po irańskim ataku",
+      "content_html": "Brytyjskie ministerstwo spraw zagranicznych poinformowało w poniedziałek, że wezwało ambasadora Iranu Sejjeda Alego Musawiego w związku z „lekkomyślnymi i destabilizującymi działaniami” Teheranu w Wielkiej Brytanii i za granicą.",
+      "date_published": "2026-03-23T19:19:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/USA-zwrocily-sie-z-propozycja-negocjacji-ale-nie-doszlo-do-zadnych-rozmow-9102865.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-zwrocily-sie-z-propozycja-negocjacji-ale-nie-doszlo-do-zadnych-rozmow-9102865.html",
       "title": "USA zwróciły się z propozycją negocjacji, ale \"nie doszło do żadnych rozmów\"",
       "content_html": "Ministerstwo spraw zagranicznych Iranu przekazało w poniedziałek, że dostało od USA propozycję negocjacji, ale zaprzeczyło, by od wybuchu wojny doszło do jakichkolwiek rozmów. Prezydent USA Donald Trump twierdzi, że rokowania trwają.",
       "date_published": "2026-03-23T19:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-wojskowego-Herculesa-w-Kolumbii-Na-pokladzie-110-osob-9102860.html",
-      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-wojskowego-Herculesa-w-Kolumbii-Na-pokladzie-110-osob-9102860.html",
-      "title": "Katastrofa wojskowego Herculesa w Kolumbii. Na pokładzie 110 osób",
-      "content_html": "W południowo-wschodniej części Kolumbii, w mieście Puerto Leguizamo, rozbił się w poniedziałek kolumbijski wojskowy samolot transportowy Hercules C-130, na pokładzie którego znajdowało się 110 osób; co najmniej 69 spośród nich udało się...",
-      "date_published": "2026-03-23T19:04:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-chce-wziac-udzial-w-procesie-nabycia-zagranicznej-spolki-za-ok-2-mld-zl-9102853.html",
@@ -102,20 +144,6 @@
       "date_published": "2026-03-23T18:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Bialorus-baza-rosyjskich-dronow-Zelenski-ujawnia-plany-budowy-stacji-kontrolnych-9102802.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bialorus-baza-rosyjskich-dronow-Zelenski-ujawnia-plany-budowy-stacji-kontrolnych-9102802.html",
-      "title": "Białoruś bazą rosyjskich dronów. Zełenski ujawnia plany budowy stacji kontrolnych",
-      "content_html": "Rosja planuje rozmieścić na Białorusi cztery naziemne stacje kontroli dronów uderzeniowych dalekiego zasięgu - poinformował w poniedziałek prezydent Ukrainy Wołodymyr Zełenski.",
-      "date_published": "2026-03-23T17:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wlochy-powiedzialy-nie-Czy-rzad-Meloni-bedzie-na-krawedzi-porazki-w-kluczowym-referendum-9102666.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wlochy-powiedzialy-nie-Czy-rzad-Meloni-bedzie-na-krawedzi-porazki-w-kluczowym-referendum-9102666.html",
-      "title": "Włochy powiedziały \"nie\"? Czy rząd Meloni będzie na krawędzi porażki w kluczowym referendum",
-      "content_html": "Rząd Giorgii Meloni nieznacznie przegrał dwudniowe referendum w sprawie przyjętej przez parlament ustawy o reformie sądownictwa, której projekt przygotował. Wynika to z danych sondażu exit poll, jakie po zamknięciu lokali wyborczych o godz. 15...",
-      "date_published": "2026-03-23T17:41:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Ten-Square-Games-chce-wyplacic-10-zl-dywidendy-na-akcje-za-2025-rok-9102795.html",
       "url": "https://www.bankier.pl/wiadomosc/Ten-Square-Games-chce-wyplacic-10-zl-dywidendy-na-akcje-za-2025-rok-9102795.html",
       "title": "Ten Square Games chce wypłacić 10 zł dywidendy na akcję za 2025 rok",
@@ -142,6 +170,13 @@
       "title": "\"Gaz albo cła\" USA stawiają Unii Europejskiej twarde ultimatum",
       "content_html": "Stany Zjednoczone ostrzegły Unię Europejską, że jeśli nie przyjmie umowy celnej z USA, to istnieje ryzyko utraty „korzystnego” dostępu do LNG - napisał w poniedziałek brytyjski dziennik „Financial Times” po rozmowie z ambasadorem Stanów...",
       "date_published": "2026-03-23T17:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sikorski-naradza-sie-z-dyplomatami-arabskimi-Omowiono-sytuacje-na-swiecie-9102761.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sikorski-naradza-sie-z-dyplomatami-arabskimi-Omowiono-sytuacje-na-swiecie-9102761.html",
+      "title": "Sikorski naradza się z dyplomatami arabskimi. Omówiono sytuację na świecie",
+      "content_html": "Sytuacja na Bliskim Wschodzie, perspektywy zakończenia konfliktu pomiędzy Izraelem i USA a Iranem oraz skutki polityczne i gospodarcze obecnych wydarzeń w regionie - były tematami spotkania wicepremiera, szefa MSZ Radosława Sikorskiego z przedstawicielami...",
+      "date_published": "2026-03-23T17:18:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/To-uderzy-w-pacjentow-Alivia-pisze-do-Tuska-w-sprawie-ciec-w-NFZ-9102752.html",
@@ -660,41 +695,6 @@
       "title": "Ostre ultimatum Korpusu Strażników Rewolucji. Energetyka na celowniku",
       "content_html": "Korpus Strażników Rewolucji Islamskiej (IRGC) zagroził w poniedziałek, że jeśli zostanie zaatakowana infrastruktura energetyczna Iranu, to nastąpią ataki odwetowe na elektrownie zasilające amerykańskie bazy w krajach regionu oraz w Izraelu.",
       "date_published": "2026-03-23T07:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Rynki-oceniaja-ultimatum-USA-wobec-Iranu-9102341.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-Rynki-oceniaja-ultimatum-USA-wobec-Iranu-9102341.html",
-      "title": "Ceny ropy rosną. Rynki oceniają ultimatum USA wobec Iranu",
-      "content_html": "Ceny ropy naftowej rosną i są blisko najwyższych poziomów od połowy 2022 r. Inwestorzy oceniają ultimatum prezydenta USA Donalda Trumpa wobec Iranu i groźby Teheranu - informują maklerzy.",
-      "date_published": "2026-03-23T07:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NBP-podzielil-Polakow-Czy-Adam-Glapinski-gwarantuje-niezaleznosc-banku-9102338.html",
-      "url": "https://www.bankier.pl/wiadomosc/NBP-podzielil-Polakow-Czy-Adam-Glapinski-gwarantuje-niezaleznosc-banku-9102338.html",
-      "title": "NBP podzielił Polaków. Czy Glapiński gwarantuje niezależność banku?",
-      "content_html": "44,3 proc. ankietowanych uważa, że prezes NBP Adam Glapiński angażuje bank w politykę i wspiera PiS oraz prezydenta, a 43,5 proc. badanych ocenia, że NBP pod kierownictwem Glapińskiego jest instytucją niezależną i apolityczną - wynika z sondażu...",
-      "date_published": "2026-03-23T07:51:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-IKEA-prace-straci-nawet-800-pracownikow-9102337.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-IKEA-prace-straci-nawet-800-pracownikow-9102337.html",
-      "title": "Zwolnienia grupowe w IKEA. Bez pracy nawet 800 osób",
-      "content_html": "Nawet 800 pracowników straci zatrudnienie w Grupie Ingka, która zarządza większością sklepów IKEA. Etaty mają stracić głównie pracownicy biurowi w Europie. Według firmy powodem tej decyzji jest konieczność obniżenia kosztów i uproszczenia...",
-      "date_published": "2026-03-23T07:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tajwan-doplaca-do-paliw-Ceny-na-stacjach-i-tak-rosna-9102336.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tajwan-doplaca-do-paliw-Ceny-na-stacjach-i-tak-rosna-9102336.html",
-      "title": "Tajwan dopłaca do paliw. Ceny na stacjach i tak rosną",
-      "content_html": "Ceny benzyny i oleju napędowego na Tajwanie wzrosły w poniedziałek odpowiednio o 1,8 dolara tajwańskiego (0,05 USD) i 1,4 dolara tajwańskiego (0,04 USD) za litr – podał portal Taiwan News. Media zwracają uwagę, że rząd w Tajpej amortyzuje...",
-      "date_published": "2026-03-23T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Francja-wybrala-faworyta-Edouard-Philippe-wybrany-na-kolejna-kadencje-9102264.html",
-      "url": "https://www.bankier.pl/wiadomosc/Francja-wybrala-faworyta-Edouard-Philippe-wybrany-na-kolejna-kadencje-9102264.html",
-      "title": "Francja wybrała faworyta. Edouard Philippe wybrany na kolejną kadencję?",
-      "content_html": "Wstępne wyniki po drugiej turze niedzielnych wyborów samorządowych we Francji wskazują, że w Hawrze obecny mer, były premier Edouard Philippe został wybrany na kolejną kadencję. Philippe zamierza startować w przyszłoroczny wyborach prezydenckich...",
-      "date_published": "2026-03-23T07:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
