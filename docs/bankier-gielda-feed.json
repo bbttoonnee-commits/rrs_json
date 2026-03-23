@@ -4,18 +4,60 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Panika-na-rynku-zlota-i-srebra-Metale-szlachetne-traca-przez-grozby-Trumpa-i-eskalacje-wojny-9102329.html",
+      "url": "https://www.bankier.pl/wiadomosc/Panika-na-rynku-zlota-i-srebra-Metale-szlachetne-traca-przez-grozby-Trumpa-i-eskalacje-wojny-9102329.html",
+      "title": "Panika na rynku złota i srebra. Metale szlachetne tracą przez groźby Trumpa i eskalację wojny Zapowiedzi eskalacji konfliktu na Bliskim Wschodzie wstrząsnęły rynkami, co szczególnie mocno odczuły metale szlachetne. W poniedziałek rano ceny złota zeszły do najniższego poziomu od listopada zeszłego roku. Notowania królewskiego kruszcu znajdują się już ponad 20 proc. poniżej szczytu z końca stycznia.",
+      "content_html": "",
+      "date_published": "2026-03-23T10:21:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-maksymalnie-ok-53-3-mln-zl-netto-na-roboty-zwiazane-z-magazynem-energii-9102424.html",
+      "url": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-maksymalnie-ok-53-3-mln-zl-netto-na-roboty-zwiazane-z-magazynem-energii-9102424.html",
+      "title": "Onde ma umowę na maksymalnie ok. 53,3 mln zł netto na roboty związane z magazynem energii Onde zawarło ze spółką celową inwestora z branży OZE z siedzibą w Europie Zachodniej umowę o wartości ok. 41,3 mln zł netto na wykonanie w formule BoP prac projektowych, budowlanych oraz elektroenergetycznych, z wyłączeniem dostaw technologii magazynowej dla magazynu energii elektrycznej - podało Onde w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-23T10:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Widmo-kryzysu-energetycznego-straszy-na-GPW-Trump-stawia-ultimatum-a-gieldy-spadaja-9102423.html",
+      "url": "https://www.bankier.pl/wiadomosc/Widmo-kryzysu-energetycznego-straszy-na-GPW-Trump-stawia-ultimatum-a-gieldy-spadaja-9102423.html",
+      "title": "Fatalne otwarcie tygodnia na GPW. WIG20 cały na czerwono Poniedziałkowe notowania na warszawskim parkiecie od rana stoją pod znakiem gwałtownej wyprzedaży akcji. Eskalacja napięcia na Bliskim Wschodzie, wzmocniona radykalną retoryką z Waszyngtonu, wywołała popłoch wśród inwestorów, spychając główne indeksy do wielomiesięcznych minimów. Donald Trump stawia Iranowi twarde ultimatum, a rynki finansowe zaczynają wyceniać najczarniejsze scenariusze, w których bezpieczeństwo energetyczne świata staje pod wielkim znakiem zapytania.",
+      "content_html": "",
+      "date_published": "2026-03-23T10:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wiele-aktywow-w-portfelu-Chodzi-nie-tylko-o-dywersyfikacje-9102420.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wiele-aktywow-w-portfelu-Chodzi-nie-tylko-o-dywersyfikacje-9102420.html",
+      "title": "INVEST CUFFS 2026 Wiele aktywów w portfelu? Chodzi nie tylko o dywersyfikację #investcuffs2026 Zalety portfeli zbudowanych z różnych klas aktywów stają się coraz bardziej widoczne w dynamicznie zmieniającym się otoczeniu rynkowym. Dywersyfikacja, czyli rozłożenie kapitału pomiędzy różne instrumenty finansowe, pozwala inwestorom ograniczać ryzyko i zwiększać stabilność wyników w długim terminie. Właśnie takie podejście do inwestowania promuje Saxo Bank, który otrzymał wyróżnienie w kategorii Broker Multi Asset 2025 podczas Invest Cuffs.",
+      "content_html": "",
+      "date_published": "2026-03-23T10:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-bedzie-jeszcze-drozsza-Goldman-Sachs-podnosi-prognozy-na-2026-rok-9102419.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-bedzie-jeszcze-drozsza-Goldman-Sachs-podnosi-prognozy-na-2026-rok-9102419.html",
+      "title": "Ropa będzie jeszcze droższa? Goldman Sachs podnosi prognozy na 2026 rok Goldman Sachs Group Inc. podwyższa swoje prognozy cen ropy naftowej na 2026 r. ze względu na przedłużające się zakłócenia w przepływie surowca przez Cieśninę Ormuz, które określa jako największy w historii szok podażowy na światowym rynku ropy naftowej.",
+      "content_html": "",
+      "date_published": "2026-03-23T10:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Eurohold-chce-do-konca-2028-wydawac-w-energetyce-ponad-100-mln-euro-rocznie-wywiad-9102418.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurohold-chce-do-konca-2028-wydawac-w-energetyce-ponad-100-mln-euro-rocznie-wywiad-9102418.html",
+      "title": "Eurohold chce do końca 2028 wydawać w energetyce ponad 100 mln euro rocznie Grupa Eurohold zakłada, że do końca 2028 r. CAPEX w segmencie energetyki przekroczy 100 mln euro rocznie - poinformował PAP Biznes Kiril Boshov, przewodniczący rady zarządzającej Eurohold. W nadchodzących latach grupa chce osiągnąć ponad 1 GW zainstalowanej mocy w OZE.",
+      "content_html": "",
+      "date_published": "2026-03-23T10:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-detaliczna-w-lutym-2026-rozczarowala-ekonomistow-Kurtki-i-buty-kupiono-w-styczniu-9102374.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-detaliczna-w-lutym-2026-rozczarowala-ekonomistow-Kurtki-i-buty-kupiono-w-styczniu-9102374.html",
+      "title": "Zimowa sprzedaż detaliczna rozczarowała ekonomistów. Kurtki i buty kupiono w styczniu? Lutowy odczyt sprzedaży detalicznej okazał się wyraźnie niższy od dość optymistycznych oczekiwań ekonomistów.",
+      "content_html": "",
+      "date_published": "2026-03-23T09:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-mocno-drozeje-USA-i-Iran-wymieniaja-sie-grozbami-9102373.html",
       "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-mocno-drozeje-USA-i-Iran-wymieniaja-sie-grozbami-9102373.html",
       "title": "Gaz w Europie mocno drożeje. USA i Iran wymieniają się groźbami Ceny gazu w Europie mocno rosną w poniedziałek. Inwestorzy obserwują \"wymianę\" gróźb pomiędzy USA a Iranem w sprawie Cieśniny Ormuz, co zwiększa nerwowość na już i tak niestabilnym rynku paliw - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-03-23T09:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Panika-na-rynku-zlota-i-srebra-Metale-szlachetne-traca-przez-grozby-Trumpa-i-eskalacje-wojny-9102329.html",
-      "url": "https://www.bankier.pl/wiadomosc/Panika-na-rynku-zlota-i-srebra-Metale-szlachetne-traca-przez-grozby-Trumpa-i-eskalacje-wojny-9102329.html",
-      "title": "Panika na rynku złota i srebra. Metale szlachetne tracą przez groźby Trumpa i eskalację wojny Zapowiedzi eskalacji konfliktu na Bliskim Wschodzie wstrząsnęły rynkami, co szczególnie mocno odczuły metale szlachetne. W poniedziałek rano ceny złota zeszły do najniższego poziomu od listopada zeszłego roku. Notowania królewskiego kruszcu znajdują się już ponad 20 proc. poniżej szczytu z końca stycznia.",
-      "content_html": "",
-      "date_published": "2026-03-23T08:31:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Izostal-rekomenduje-0-11-zl-dywidendy-na-akcje-z-zysku-za-2025-rok-9102354.html",
@@ -55,7 +97,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Kontrowersje-wokol-IPO-SpaceX-i-walka-o-mechaniczny-popyt-Inwazja-AI-w-indeksie-S-P500-9100998.html",
       "url": "https://www.bankier.pl/wiadomosc/Kontrowersje-wokol-IPO-SpaceX-i-walka-o-mechaniczny-popyt-Inwazja-AI-w-indeksie-S-P500-9100998.html",
-      "title": "AI szturmuje S&P500 i robi marcowe porządki na Wall Street. Czy SpaceX trafi do indeksu na \"skróty\"? W marcu S&P500 przeszedł pierwszą kwartalną rewizję 2026 r.oku. Do portfela indeksu weszły m.in. kolejne spółki z branży sztucznej inteligencji, w które inwestuje sama Nvidia. Równolegle na Wall Street toczy się gorąca, kuluarowa dyskusja, bowiem jak donosi Bloomberg, firma odpowiedzialna za indeks może nagiąć swoje rygorystyczne zasady kwalifikacji, aby wpuścić SpaceX Elona Muska na giełdowe salony szybciej, niż pozwala na to obecny regulamin.",
+      "title": "Kontrowersje wokół SpaceX. Inwazja AI w indeksie S&P500 W marcu S&P500 przeszedł pierwszą kwartalną rewizję 2026 r.oku. Do portfela indeksu weszły m.in. kolejne spółki z branży sztucznej inteligencji, w które inwestuje sama Nvidia. Równolegle na Wall Street toczy się gorąca, kuluarowa dyskusja, bowiem jak donosi Bloomberg, firma odpowiedzialna za indeks może nagiąć swoje rygorystyczne zasady kwalifikacji, aby wpuścić SpaceX Elona Muska na giełdowe salony szybciej, niż pozwala na to obecny regulamin.",
       "content_html": "",
       "date_published": "2026-03-23T06:00:00+01:00"
     },
