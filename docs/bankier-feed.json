@@ -4,6 +4,97 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Stopa-bezrobocia-lekko-w-gore-Nowe-dane-GUS-9103111.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stopa-bezrobocia-lekko-w-gore-Nowe-dane-GUS-9103111.html",
+      "title": "Stopa bezrobocia lekko w górę. Nowe dane GUS",
+      "content_html": "Stopa bezrobocia w lutym wyniosła 6,1 proc., wobec 6,0 proc. miesiąc wcześniej - podał Główny Urząd Statystyczny.",
+      "date_published": "2026-03-24T11:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Unimotu-do-200-zl-9103203.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Unimotu-do-200-zl-9103203.html",
+      "title": "DM BOŚ podwyższył wycenę akcji Unimotu do 200 zł",
+      "content_html": "Analitycy DM BOŚ, w raporcie z 17 marca, podwyższyli wycenę akcji Unimotu do 200 zł ze 190 zł wcześniej. Rekomendacja \"kupuj\" została podtrzymana.",
+      "date_published": "2026-03-24T11:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Kruka-ma-umowe-na-zakup-wierzytelnosci-o-wartosci-278-mln-euro-we-Wloszech-9103201.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-Kruka-ma-umowe-na-zakup-wierzytelnosci-o-wartosci-278-mln-euro-we-Wloszech-9103201.html",
+      "title": "Spółka zależna Kruka ma umowę na zakup wierzytelności o wartości 278 mln euro we Włoszech",
+      "content_html": "Spółka zależna Kruka - Kruk Investimenti s.r.l - ma umowę z jedną z grup finansowych we Włoszech na zakup niezabezpieczonych wierzytelności detalicznych o łącznej wartości ok. 278 mln euro - podał Kruk w komunikacie.",
+      "date_published": "2026-03-24T11:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ich-sasiadem-bedzie-hotel-Miedzy-domami-wyrosnie-obiekt-dla-setek-gosci-9103140.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ich-sasiadem-bedzie-hotel-Miedzy-domami-wyrosnie-obiekt-dla-setek-gosci-9103140.html",
+      "title": "Ich sąsiadem będzie hotel? Między domami \"wyrośnie\" obiekt dla setek gości",
+      "content_html": "W Bacieczkach nie chcą hotelu między domami. Miałby on stanąć przy ulicy Produkcyjnej. Miasto wydało pozwolenie, w którym powołało się na zapisy w planie zagospodarowania przestrzennego osiedla. Dokument został jednak oprotestowany - czytamy...",
+      "date_published": "2026-03-24T11:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Molecure-rozpoczyna-proces-budowania-ksiegi-popytu-na-akcje-nowej-emisji-i-akcje-istniejace-9103195.html",
+      "url": "https://www.bankier.pl/wiadomosc/Molecure-rozpoczyna-proces-budowania-ksiegi-popytu-na-akcje-nowej-emisji-i-akcje-istniejace-9103195.html",
+      "title": "Molecure rozpoczyna proces budowania księgi popytu na akcje nowej emisji i akcje istniejące",
+      "content_html": "Molecure rozpoczyna proces budowania księgi popytu na nie więcej niż 4.120.631 akcji nowej emisji serii K oraz nie więcej niż 2 mln istniejących akcji - podała spółka w komunikacie.",
+      "date_published": "2026-03-24T11:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EuroPMI-nie-jest-az-tak-zle-Szok-naftowy-rodzi-ryzyko-stagflacji-9103180.html",
+      "url": "https://www.bankier.pl/wiadomosc/EuroPMI-nie-jest-az-tak-zle-Szok-naftowy-rodzi-ryzyko-stagflacji-9103180.html",
+      "title": "EuroPMI: nie jest aż tak źle? Szok naftowy rodzi ryzyko stagflacji",
+      "content_html": "Choć groźba wystąpienia stagflacji pozostaje realna, to pierwsze doniesienia z sektora prywatnego nie wyglądają przesadnie niepokojąco.",
+      "date_published": "2026-03-24T11:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Hossa-to-za-malo-Dlaczego-spolki-boja-sie-gieldowego-debiutu-9103078.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hossa-to-za-malo-Dlaczego-spolki-boja-sie-gieldowego-debiutu-9103078.html",
+      "title": "Hossa to za mało? Dlaczego spółki boją się giełdowego debiutu?",
+      "content_html": "Indeks WIG zanotował rekordy, a płynność na warszawskim parkiecie dopisuje. Dlaczego w ślad za świetną koniunkturą nie idą nowe debiuty giełdowe? O bolączkach rynku pierwotnego, szansach na mądrą prywatyzację i zachowawczych prognozach na...",
+      "date_published": "2026-03-24T11:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Google-wyklada-miliony-na-AI-Polacy-moga-zyskac-potezne-wsparcie-w-rozwoju-kariery-9103170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Google-wyklada-miliony-na-AI-Polacy-moga-zyskac-potezne-wsparcie-w-rozwoju-kariery-9103170.html",
+      "title": "Google wykłada miliony na AI. Polacy mogą zyskać potężne wsparcie w rozwoju kariery",
+      "content_html": "Google ogłosiło we wtorek nową inicjatywę wspierającą osoby i firmy w całej Europie w zdobywaniu umiejętności niezbędnych do wykorzystania AI w rozwoju kariery i biznesu - podało Google w komunikacie prasowym. W ramach projektu firma przeznaczy...",
+      "date_published": "2026-03-24T11:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-upolowac-jednorozca-w-erze-AI-Sztuczna-inteligencja-to-juz-infrastruktura-9103149.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-upolowac-jednorozca-w-erze-AI-Sztuczna-inteligencja-to-juz-infrastruktura-9103149.html",
+      "title": "Jak upolować jednorożca w erze AI? \"Sztuczna inteligencja to już infrastruktura\"",
+      "content_html": "Podczas gdy inwestorzy na publicznych parkietach giełdowych opierają się na historycznych danych, fundusze Venture Capital wyceniają przyszłość, która dopiero powstaje . Jak w dobie rewolucji sztucznej inteligencji odróżnić prawdziwą innowację...",
+      "date_published": "2026-03-24T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
+      "url": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
+      "title": "Netanjahu: Trump widzi szansę na porozumienie z Iranem",
+      "content_html": "Premier Izraela Benjamin Netanjahu powiedział w poniedziałek, że rozmawiał z prezydentem USA Donaldem Trumpem i widzi on szanse na porozumienie z Iranem. Trump informował wcześniej, że Stany Zjednoczone prowadzą negocjacje pokojowe z Iranem, ale...",
+      "date_published": "2026-03-24T10:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/TSUE-wydal-wyrok-ws-neosedziow-9103137.html",
+      "url": "https://www.bankier.pl/wiadomosc/TSUE-wydal-wyrok-ws-neosedziow-9103137.html",
+      "title": "TSUE wydał wyrok ws. neosędziów",
+      "content_html": "Trybunał Sprawiedliwości UE orzekł we wtorek, że nieprawidłowość, której dopuszczono się przy powołaniu sędziego, nie wystarczy sama w sobie, by stwierdzić, że sędzia ten nie jest niezawisły. Według TSUE konieczna jest całościowa ocena...",
+      "date_published": "2026-03-24T10:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowa-hala-sportowa-w-Warszawie-Kiedy-powstanie-i-ile-osob-pomiesci-9103168.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-hala-sportowa-w-Warszawie-Kiedy-powstanie-i-ile-osob-pomiesci-9103168.html",
+      "title": "Warszawa wreszcie doczeka się hali sportowej. Pierwsze mecze za dwa lata",
+      "content_html": "Już za dwa lata w nowej hali sportowej na warszawskiej Ochocie mają odbyć się pierwsze zawody sportowe. Stolica po wielu latach dołączy tym samym do innych polskich miast posiadających nowoczesne hale. Obiekt za 237,6 mln zł zbuduje Mirbud. Jak...",
+      "date_published": "2026-03-24T10:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Energetyczny-paraliz-Moldawii-Rosja-odciela-polaczenie-z-Europa-9103166.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energetyczny-paraliz-Moldawii-Rosja-odciela-polaczenie-z-Europa-9103166.html",
+      "title": "Energetyczny paraliż Mołdawii. Rosja odcięła połączenie z Europą",
+      "content_html": "Prezydent Mołdawii Maia Sandu obarczyła we wtorek Rosję odpowiedzialnością za odcięcie połączenia energetycznego jej kraju z państwami europejskimi; jest to skutek ataku na infrastrukturę energetyczną Ukrainy z ostatniej nocy – podała agencja...",
+      "date_published": "2026-03-24T10:30:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Kino-Polska-w-25-miala-79-5-mln-zl-zysku-netto-o-19-proc-wiecej-rdr-szacunki-9103163.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Kino-Polska-w-25-miala-79-5-mln-zl-zysku-netto-o-19-proc-wiecej-rdr-szacunki-9103163.html",
       "title": "Grupa Kino Polska w '25 miała 79,5 mln zł zysku netto, o 19 proc. więcej rdr - szacunki",
@@ -36,13 +127,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Skandal-w-Stokrotce-Mozliwe-zawiadomienie-do-prokuratury-9103129.html",
       "title": "Afera w Stokrotce. Urlopy przyznawane bez wiedzy pracowników, zabierane premie",
       "content_html": "Zbyt mała obsada sklepów, brak realnego wpływu na terminy urlopów oraz utrata premii za urlop na żądanie to główne powody sporu w „Stokrotce”. Związkowcy z „Solidarności” działający w tej sieci, 23 marca pikietowali pod jednym ze swoich...",
-      "date_published": "2026-03-24T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/TSUE-wydal-wyrok-ws-neosedziow-9103137.html",
-      "url": "https://www.bankier.pl/wiadomosc/TSUE-wydal-wyrok-ws-neosedziow-9103137.html",
-      "title": "TSUE wydał wyrok ws. neosędziów",
-      "content_html": "Trybunał Sprawiedliwości UE orzekł we wtorek, że nieprawidłowość, której dopuszczono się przy powołaniu sędziego, nie wystarczy sama w sobie, by stwierdzić, że sędzia ten nie jest niezawisły. Według TSUE konieczna jest całościowa ocena...",
       "date_published": "2026-03-24T10:00:00+01:00"
     },
     {
@@ -86,13 +170,6 @@
       "title": "Zakaz prania w tygodniu i przymusowy postój aut. Korea wprowadza drastyczne oszczędności",
       "content_html": "Prezydent Korei Płd. Li Dze Mjung wezwał we wtorek do podjęcia ogólnokrajowej kampanii oszczędzania energii w obliczu wojny na Bliskim Wschodzie. Rząd wprowadza system rotacyjny dla aut służbowych i planuje dodatkowy budżet w wysokości 25 bln...",
       "date_published": "2026-03-24T09:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stopa-bezrobocia-lekko-w-gore-Nowe-dane-GUS-9103111.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stopa-bezrobocia-lekko-w-gore-Nowe-dane-GUS-9103111.html",
-      "title": "Stopa bezrobocia lekko w górę. Nowe dane GUS",
-      "content_html": "Stopa bezrobocia w lutym wyniosła 6,1 proc., wobec 6,0 proc. miesiąc wcześniej - podał Główny Urząd Statystyczny.",
-      "date_published": "2026-03-24T09:32:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Lufthansa-przedluza-zawieszenie-lotow-do-Iranu-i-krajow-Bliskiego-Wschodu-9103072.html",
@@ -340,13 +417,6 @@
       "date_published": "2026-03-24T07:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-szacuje-ze-w-2025-r-miala-strate-EBITDA-w-wysokosci-6-6-mln-zl-9103033.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-szacuje-ze-w-2025-r-miala-strate-EBITDA-w-wysokosci-6-6-mln-zl-9103033.html",
-      "title": "Grupa Wielton szacuje, że w 2025 r. miała stratę EBITDA w wysokości 6,6 mln zł",
-      "content_html": "Grupa Wielton szacuje, że w 2025 r. miała skonsolidowaną stratę EBITDA w wysokości 6,6 mln zł oraz skonsolidowane przychody ze sprzedaży na poziomie 2,2 mld zł - podała spółka w komunikacie.",
-      "date_published": "2026-03-24T06:54:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zielona-Tarcza-Wschod-nabiera-ksztaltow-Polska-wykorzysta-metode-z-II-wojny-swiatowej-9103000.html",
       "url": "https://www.bankier.pl/wiadomosc/Zielona-Tarcza-Wschod-nabiera-ksztaltow-Polska-wykorzysta-metode-z-II-wojny-swiatowej-9103000.html",
       "title": "„Zielona Tarcza Wschód” nabiera kształtów. Polska wykorzysta metodę z II wojny światowej",
@@ -373,13 +443,6 @@
       "title": "Fiskus interesuje się firmami, które nie weszły do KSeF",
       "content_html": "Urzędnicy dzwonią do przedsiębiorców, którzy nie wystawiają, choć powinni, faktur w KSeF. MF zapewnia, że to przyjazne rozmowy – pisze wtorkowa „Rzeczpospolita”.",
       "date_published": "2026-03-24T06:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
-      "url": "https://www.bankier.pl/wiadomosc/Netanjahu-Trump-widzi-szanse-na-porozumienie-z-Iranem-9102948.html",
-      "title": "Netanjahu: Trump widzi szansę na porozumienie z Iranem",
-      "content_html": "Premier Izraela Benjamin Netanjahu powiedział w poniedziałek, że rozmawiał z prezydentem USA Donaldem Trumpem i widzi on szanse na porozumienie z Iranem. Trump informował wcześniej, że Stany Zjednoczone prowadzą negocjacje pokojowe z Iranem, ale...",
-      "date_published": "2026-03-24T06:25:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Falszywy-uniwersytet-falszywy-bank-falszywy-ChatGPT-trzy-oszustwa-na-ktore-uwazaj-w-marcu-9102335.html",
@@ -632,76 +695,6 @@
       "title": "\"To uderzy w pacjentów\". Alivia pisze do Tuska w sprawie cięć w NFZ",
       "content_html": "Przyjęcie propozycji cięć w budżecie NFZ doprowadzi do szybkiego i radykalnego pogorszenia sytuacji pacjentów – wskazała Onkofundacja Alivia w liście do premiera Donalda Tuska. Podkreśliła, że konieczne jest m.in. niezwłoczne zasilenie budżetu...",
       "date_published": "2026-03-23T17:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/WIG20-z-pelnym-wynurzeniem-po-TACO-Trumpa-Prezydent-USA-znow-to-zrobil-9102734.html",
-      "url": "https://www.bankier.pl/wiadomosc/WIG20-z-pelnym-wynurzeniem-po-TACO-Trumpa-Prezydent-USA-znow-to-zrobil-9102734.html",
-      "title": "WIG20 z pełnym wynurzeniem po TACO Trumpa. Prezydent USA znów to zrobił",
-      "content_html": "Za nami jedna z bardziej szalonych sesji tego roku na światowych giełdach. Krwista czerwień jaką jeszcze rano świeciły notowania głównych indeksów, w południe zamieniła się w wyrazistą zieleń. W przypadku WIG20 odbicie od dziennych minimów...",
-      "date_published": "2026-03-23T17:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gawkowski-Polska-bezpieczna-w-sieci-Brak-cyberatakow-z-Bliskiego-Wschodu-9102707.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gawkowski-Polska-bezpieczna-w-sieci-Brak-cyberatakow-z-Bliskiego-Wschodu-9102707.html",
-      "title": "Gawkowski: Polska bezpieczna w sieci. Brak cyberataków z Bliskiego Wschodu",
-      "content_html": "Nie zaobserwowano incydentów cyberbezpieczeństwa, które miałyby szeroki kontekst związany z atakami z państw prowadzących wojnę na Bliskim Wschodzie - poinformował w poniedziałek wicepremier i minister cyfryzacji Krzysztof Gawkowski. Dodał...",
-      "date_published": "2026-03-23T16:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wybuch-niezidentyfikowanych-urzadzen-w-poblizu-budynkow-mieszkalnych-9102699.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wybuch-niezidentyfikowanych-urzadzen-w-poblizu-budynkow-mieszkalnych-9102699.html",
-      "title": "Wybuch niezidentyfikowanych urządzeń w pobliżu budynków mieszkalnych",
-      "content_html": "Kilka przedmiotów nieznanego pochodzenia wybuchło w poniedziałek niedaleko domów mieszkalnych w mieście Bucza w obwodzie kijowskim - poinformowały lokalne władze. Dodały, że w wyniku zdarzenia dwóch policjantów zostało rannych.",
-      "date_published": "2026-03-23T16:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-rekomendacje-Torpolu-do-akumuluj-cena-docelowa-wzrosla-do-68-1-zl-9102689.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-podwyzszyl-rekomendacje-Torpolu-do-akumuluj-cena-docelowa-wzrosla-do-68-1-zl-9102689.html",
-      "title": "\"Akumuluj\" dla Torpolu. Nowa rekomendacja widzi duży potencjał w wynikach 2026 roku",
-      "content_html": "Analitycy Domu Maklerskiego BDM, w raporcie z 23 marca, podwyższyli rekomendację Torpolu do \"akumuluj\" z \"trzymaj\", podwyższając cenę docelową do 68,1 zł z 62,2 zł wcześniej.",
-      "date_published": "2026-03-23T16:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-chce-uruchomic-usluge-zarzadzania-funduszami-zelaznymi-9102682.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-PKO-BP-chce-uruchomic-usluge-zarzadzania-funduszami-zelaznymi-9102682.html",
-      "title": "PKO BP chce uniezależnić fundacje od grantów. Rusza usługa zarządzania kapitałem żelaznym",
-      "content_html": "BM PKO BP chce uruchomić usługę zarządzania funduszami żelaznymi dla organizacji non-profit typu fundacje i uczelnie wyższe - poinformował dyrektor BM PKO BP Samer Masri. Pierwsze umowy mogą być zawarte do końca 2026 roku.",
-      "date_published": "2026-03-23T15:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-zlotej-ery-Dramatyczna-zmiana-prognoz-9102677.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-zlotej-ery-Dramatyczna-zmiana-prognoz-9102677.html",
-      "title": "Koniec \"złotej\" ery? Dramatyczna zmiana prognoz",
-      "content_html": "Przecena złota, którą widać w marcu, została wywołana m.in. dramatyczną zmianą oczekiwań co do polityki pieniężnej banków centralnych. Inwestorzy, którzy jeszcze niedawno spodziewali się obniżek lub stabilizacji stóp procentowych, teraz...",
-      "date_published": "2026-03-23T15:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Do-250-tys-zl-bez-prowizji-Sprawdzamy-kredyt-gotowkowy-w-UniCredit-9102465.html",
-      "url": "https://www.bankier.pl/wiadomosc/Do-250-tys-zl-bez-prowizji-Sprawdzamy-kredyt-gotowkowy-w-UniCredit-9102465.html",
-      "title": "Do 250 tys. zł bez prowizji. Sprawdzamy kredyt gotówkowy w UniCredit",
-      "content_html": "UniCredit oferuje kredyt gotówkowy, w którym można pożyczyć nawet 250 tys. zł bez prowizji. Maksymalnie spłatę można rozłożyć na 10 lat. Sprawdzamy, ile kosztuje takie pożyczka, kto może z niego skorzystać i jakie warunki trzeba spełnić...",
-      "date_published": "2026-03-23T15:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Columbus-uruchomil-procedure-zwrotu-do-WFOSiGW-kwestionowanych-zaliczek-z-Czystego-Powietrza-9102662.html",
-      "url": "https://www.bankier.pl/wiadomosc/Columbus-uruchomil-procedure-zwrotu-do-WFOSiGW-kwestionowanych-zaliczek-z-Czystego-Powietrza-9102662.html",
-      "title": "Koniec impasu z funduszami? Columbus oddaje 10 mln zł i żąda wypłaty zaległych środków",
-      "content_html": "Columbus Energy uruchomił procedurę natychmiastowego zwrotu do WFOŚiGW pobranych zaliczek w ramach programu priorytetowego \"Czyste Powietrze\" - podała spółka w komunikacie. Columbus do piątku zwróci ze środków własnych na rachunki bankowe WFOŚiGW...",
-      "date_published": "2026-03-23T15:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-opublikowal-Strategie-Cyberbezpieczenstwa-RP-do-2029-r-9102651.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-opublikowal-Strategie-Cyberbezpieczenstwa-RP-do-2029-r-9102651.html",
-      "title": "Rząd opublikował Strategię Cyberbezpieczeństwa RP do 2029 roku",
-      "content_html": "W Monitorze Polskim opublikowano w poniedziałek przyjętą 10 marca przez rząd Strategię Cyberbezpieczeństwa Rzeczypospolitej Polskiej do 2029 r., przedłożoną przez Ministra Cyfryzacji. Dokument w załączniku do depeszy.",
-      "date_published": "2026-03-23T15:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budapeszt-centrum-europejskiej-prawicy-Patrioci-dla-Europy-chca-przejac-stery-w-UE-9102644.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budapeszt-centrum-europejskiej-prawicy-Patrioci-dla-Europy-chca-przejac-stery-w-UE-9102644.html",
-      "title": "Budapeszt centrum europejskiej prawicy. \"Patrioci dla Europy\" chcą przejąć stery w UE?",
-      "content_html": "Tzw. Wielkie Zgromadzenie skrajnie prawicowej grupy w Parlamencie Europejskim, Patriotów dla Europy, odbywa się w poniedziałek w Budapeszcie. W przemówieniach otwierających szczyt przedstawiciele rządu Viktora Orbana wezwali do walki z imigracją...",
-      "date_published": "2026-03-23T15:10:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
