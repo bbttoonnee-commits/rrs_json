@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
+      "title": "Wall Street nabrała wątpliwości. Spadkowa sesja za Atlantykiem",
+      "content_html": "Wtorkowa sesja na nowojorskich giełdach nie przyniosła kontynuacji poniedziałkowego odbicia. W zwyżkach przeszkodziły sprzeczne doniesienia na temat zawarcia pokoju z Iranem.",
+      "date_published": "2026-03-24T21:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
       "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
       "title": "BFG określił wysokość składki B. Handlowego na fundusz przymusowej restrukturyzacji na 132,5 mln zł",
@@ -415,6 +422,13 @@
       "title": "Kurs TS Games spada o ponad 7 proc. przy zniżce mWIG40 o 1,5 proc.",
       "content_html": "Kurs akcji Ten Square Games spada o 7,2 proc. do 97,8 zł, podczas gdy mWIG40 zniżkuje o 1,5 proc.",
       "date_published": "2026-03-24T15:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Santander-BP-na-fundusz-przymusowej-restrukturyzacji-na-435-9-mln-zl-9103385.html",
+      "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Santander-BP-na-fundusz-przymusowej-restrukturyzacji-na-435-9-mln-zl-9103385.html",
+      "title": "BFG określił wysokość składki Santander BP na fundusz przymusowej restrukturyzacji na 435,9 mln zł",
+      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji należnej od Santander Bank Polska w 2026 r. w kwocie ok. 435,9 mln zł z uwzględnieniem wysokości korekt składek za 2025 r. - poinformował bank w komunikacie...",
+      "date_published": "2026-03-24T15:04:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-Alior-Banku-na-fundusz-przymusowej-restrukturyzacji-na-86-8-mln-zl-9103372.html",
