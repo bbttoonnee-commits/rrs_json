@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-zaklada-w-26-sprzedaz-3-2-3-5-tys-mieszkan-oraz-wzrost-liczby-przekazan-rdr-9103811.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-zaklada-w-26-sprzedaz-3-2-3-5-tys-mieszkan-oraz-wzrost-liczby-przekazan-rdr-9103811.html",
+      "title": "Archicom celuje w rekord: do 3 500 mieszkań w 2026 roku. Spółka stawia na segment popularny Archicom w 2026 r. zakłada sprzedaż na poziomie od 3.200 do 3.500 mieszkań oraz wzrost liczby przekazań rok do roku - podała spółka w komunikacie. Archicom zakłada w kolejnych latach wzrost udziału segmentu popularnego w strukturze sprzedaży do ok. 50 proc.",
+      "content_html": "",
+      "date_published": "2026-03-25T08:32:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Lokum-Deweloper-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9103771.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Lokum-Deweloper-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9103771.html",
       "title": "Wyniki Lokum Deweloper w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Lokum Deweloper w czwartym kwartale 2025 roku według wyliczeń PAP Biznes na podstawie raportu rocznego i ich odniesienie do konsensusu PAP Biznes.",
@@ -660,13 +667,6 @@
       "title": "INVEST CUFFS 2026 Kamil Gemra: Młodzi chłoną wiedzę o rynku kapitałowym W studiu Bankiera, prosto z kongresu Invest Cuffs w Krakowie, rozmawiamy z dr. Kamilem Gemrą z SGH o tegorocznej edycji jednego z największych wydarzeń inwestorskich w Polsce. Rekordowa frekwencja i rosnące zainteresowanie, szczególnie wśród młodych uczestników, pokazują, że temat inwestowania przyciąga coraz szersze grono odbiorców. Zastanowimy się, czy Invest Cuffs to dobre miejsce, by rozpocząć swoją przygodę z rynkiem kapitałowym i jaką wiedzę można wynieść z udziału w kongresie. Porozmawiamy również o tym, gdzie – poza tego typu wydarzeniami – warto szukać rzetelnych informacji i edukacji inwestycyjnej oraz jaką rolę w kształceniu przyszłych inwestorów odgrywa Szkoła Główna Handlowa w Warszawie.",
       "content_html": "",
       "date_published": "2026-03-23T10:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czy-kryptowalutowe-ETP-sa-bezpieczne-Pytamy-prezesa-Virtune-9102430.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czy-kryptowalutowe-ETP-sa-bezpieczne-Pytamy-prezesa-Virtune-9102430.html",
-      "title": "INVEST CUFFS 2026 Czy kryptowalutowe ETP są bezpieczne? Pytamy prezesa Virtune Szwedzka firma Virtune znacząco rozszerzyła ofertę kryptoaktywów dla polskich inwestorów, wprowadzając na giełdę w Warszawie produkty typu ETP oparte na Bitcoinie i innych kryptowalutach. O tym, jak wygodnie inwestować w cyfrowe aktywa, dlaczego warto korzystać z kont IKE i IKZE oraz w jaki sposób tokenizacja zmieni globalny system finansowy, opowiedział w studiu Bankier.pl podczas konferencji Invest Cuffs 2026 w Krakowie Christopher Kock, założyciel i prezes Virtune.",
-      "content_html": "",
-      "date_published": "2026-03-23T10:25:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
