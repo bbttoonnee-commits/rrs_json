@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Echo-Investment-spodziewa-sie-finalizacji-transakcji-z-sektora-PRS-w-II-kw-kontynuuje-redukcje-dlugu-9103947.html",
+      "url": "https://www.bankier.pl/wiadomosc/Echo-Investment-spodziewa-sie-finalizacji-transakcji-z-sektora-PRS-w-II-kw-kontynuuje-redukcje-dlugu-9103947.html",
+      "title": "Biurowce w Krakowie i Wrocławiu idą pod młotek. Echo Investment czyści portfel Echo Investment chce kontynuować sprzedaż aktywów komercyjnych i redukować poziom długu, a środki inwestować zwłaszcza w sektor mieszkaniowy i biurowy. Finalizacji sprzedaży portfela projektów z segmentu PRS spodziewa się w II kw. - poinformowali przedstawiciele zarządu.",
+      "content_html": "",
+      "date_published": "2026-03-25T11:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-liczy-na-powrot-w-26-do-zyskownosci-z-dzialalnosci-deweloperskiej-9103915.html",
       "url": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-liczy-na-powrot-w-26-do-zyskownosci-z-dzialalnosci-deweloperskiej-9103915.html",
       "title": "Lokum Deweloper liczy na powrót w '26 do zyskowności z działalności deweloperskiej Lokum Deweloper, który w 2025 roku zanotował pierwszą w historii spółki stratę na działalności deweloperskiej, liczy że dzięki większej liczbie rozpoznanych lokali w 2026 roku zanotuje w tym segmencie zysk - poinformował prezes spółki Bartosz Kuźniar.",
@@ -660,13 +667,6 @@
       "title": "Scanway z zielonym światłem od GPW. Od piątku akcje spółki na nowym parkiecie Giełda Papierów Wartościowych w Warszawie podjęła uchwałę o wprowadzeniu z dniem 27 marca 2026 r. do obrotu giełdowego na głównym rynku akcji zwykłych na okaziciela serii A, B, C, D, E, F,G i H spółki Scanway - podała GPW w uchwale zarządu.",
       "content_html": "",
       "date_published": "2026-03-23T13:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-rekomendacje-dla-Dino-Polska-do-akumuluj-cena-docelowa-46-9-zl-9102540.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-rekomendacje-dla-Dino-Polska-do-akumuluj-cena-docelowa-46-9-zl-9102540.html",
-      "title": "Noble Securities podwyższył rekomendację dla Dino Polska Analitycy Noble Securities, w raporcie z 18 marca, podnieśli rekomendację dla Dino Polska do \"akumuluj\" z \"trzymaj\", podnosząc cenę docelową akcji do 46,9 zł z 41 zł.",
-      "content_html": "",
-      "date_published": "2026-03-23T12:54:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
