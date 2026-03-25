@@ -4,6 +4,76 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-Vinci-z-grupy-BGK-zainwestowala-62-5-mln-zl-w-spolke-Mewo-9102363.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-Vinci-z-grupy-BGK-zainwestowala-62-5-mln-zl-w-spolke-Mewo-9102363.html",
+      "title": "Więcej polskich statków do obsługi farm wiatrowych. Mewo z potężnym zastrzykiem gotówki od BGK",
+      "content_html": "Spółka Vinci z grupy Banku Gospodarstwa Krajowego zainwestowała 62,5 mln zł w spółkę Mewo - podano w komunikacie BGK.",
+      "date_published": "2026-03-25T11:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Energetyczny-szantaz-czy-samoobrona-Wegry-odcinaja-gaz-dla-Ukrainy-9103894.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energetyczny-szantaz-czy-samoobrona-Wegry-odcinaja-gaz-dla-Ukrainy-9103894.html",
+      "title": "Orban idzie na udry z Kijowem. „Nie ma ropy, nie będzie gazu”",
+      "content_html": "Węgry wstrzymują dostawy gazu na Ukrainę do czasu wznowienia dostaw ropy naftowej rurociągiem Przyjaźń - ogłosił w środę w nagraniu zamieszczonym na Facebooku premier Węgier Viktor Orban.",
+      "date_published": "2026-03-25T11:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trybunal-Stanu-dla-Ziobry-w-cieniu-wegierskiego-azylu-Czarzasty-oglasza-gotowosc-9103902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trybunal-Stanu-dla-Ziobry-w-cieniu-wegierskiego-azylu-Czarzasty-oglasza-gotowosc-9103902.html",
+      "title": "Trybunał Stanu dla Ziobry w cieniu węgierskiego azylu. Czarzasty ogłasza gotowość",
+      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty przekazał w środę, że wniosek o postawienie b. szefa MS, posła PiS Zbigniewa Ziobry przed Trybunałem Stanu jest gotowy. Należy się spodziewać, że będzie on procedowany na początku kwietnia - poinformował...",
+      "date_published": "2026-03-25T11:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-dron-na-terenie-estonskiej-elektrowni-Sluzby-badaja-uszkodzenia-9103852.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-dron-na-terenie-estonskiej-elektrowni-Sluzby-badaja-uszkodzenia-9103852.html",
+      "title": "Rosyjski dron na terenie estońskiej elektrowni. Służby badają uszkodzenia",
+      "content_html": "Rosyjski dron uderzył w środę nad ranem w komin elektrowni w miejscowości Auvere na północnym wschodzie Estonii – podała agencja BNS.",
+      "date_published": "2026-03-25T11:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-liczy-na-powrot-w-26-do-zyskownosci-z-dzialalnosci-deweloperskiej-9103915.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-liczy-na-powrot-w-26-do-zyskownosci-z-dzialalnosci-deweloperskiej-9103915.html",
+      "title": "Lokum Deweloper liczy na powrót w '26 do zyskowności z działalności deweloperskiej",
+      "content_html": "Lokum Deweloper, który w 2025 roku zanotował pierwszą w historii spółki stratę na działalności deweloperskiej, liczy że dzięki większej liczbie rozpoznanych lokali w 2026 roku zanotuje w tym segmencie zysk - poinformował prezes spółki Bartosz...",
+      "date_published": "2026-03-25T11:12:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-chce-utrzymywac-30-40-proc-marze-brutto-sprzedaz-1-tys-mieszkan-kwartalnie-realna-9103911.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-chce-utrzymywac-30-40-proc-marze-brutto-sprzedaz-1-tys-mieszkan-kwartalnie-realna-9103911.html",
+      "title": "Archicom chce utrzymywać 30-40 proc. marżę brutto; sprzedaż 1 tys. mieszkań kwartalnie realna",
+      "content_html": "Archicom ocenia, że kwartalna sprzedaż na poziomie tysiąca mieszkań jest realna do powtórzenia i celuje w bycie TOP3 w Polsce - poinformowali przedstawiciele zarządu. Archicom chce utrzymywać poziom marży brutto między 30 a 40 proc.",
+      "date_published": "2026-03-25T11:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PSL-i-Polska-2050-poza-Sejmem-Braun-z-wlasna-partia-wchodzi-do-gry-9103910.html",
+      "url": "https://www.bankier.pl/wiadomosc/PSL-i-Polska-2050-poza-Sejmem-Braun-z-wlasna-partia-wchodzi-do-gry-9103910.html",
+      "title": "PSL i Polska 2050 poza Sejmem. Braun z własną partią wchodzi do gry",
+      "content_html": "Gdyby wybory do Sejmu odbyły się w najbliższą niedzielę, Koalicja Obywatelska uzyskałaby poparcie 30,6 proc. badanych, a Prawo i Sprawiedliwość – 26,4 proc. – wynika z sondażu Research Partner. Konfederacja mogłaby liczyć na 10,5 proc...",
+      "date_published": "2026-03-25T11:07:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mennica-Skarbowa-podtrzymuje-optymistyczne-prognozy-dla-rynku-zlota-9103906.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mennica-Skarbowa-podtrzymuje-optymistyczne-prognozy-dla-rynku-zlota-9103906.html",
+      "title": "Polacy rzucili się na srebro (i złoto). Mennica Skarbowa sprzedała 60 proc. więcej metalu",
+      "content_html": "Mennica Skarbowa podtrzymuje optymistyczne prognozy dla rynku złota, zakładając, że do końca roku cena kruszcu może przekroczyć 5.500 dolarów za uncję - poinformowała spółka w komunikacie prasowym. Wskazała, że niedawne spadki cen wywołały...",
+      "date_published": "2026-03-25T11:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Legimi-spodziewa-sie-odwrotu-spadkowego-trendu-przychodow-widzi-przyrost-nowych-uzytkownikow-9103897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Legimi-spodziewa-sie-odwrotu-spadkowego-trendu-przychodow-widzi-przyrost-nowych-uzytkownikow-9103897.html",
+      "title": "Legimi spodziewa się odwrotu spadkowego trendu przychodów; widzi przyrost nowych użytkowników",
+      "content_html": "Legimi spodziewa się w najbliższym czasie odwrócenia spadkowego trendu przychodów m.in. ze względu na nowe wdrożenia w platformie - poinformował podczas konferencji prezes spółki Mikołaj Małaczyński. Dodał, że spółka zauważa przyrost...",
+      "date_published": "2026-03-25T10:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bliskowschodnia-niepewnosc-pozostaje-w-grze-Zloty-czeka-i-patrzy-9103879.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bliskowschodnia-niepewnosc-pozostaje-w-grze-Zloty-czeka-i-patrzy-9103879.html",
+      "title": "Bliskowschodnia niepewność pozostaje w grze. Złoty czeka i patrzy",
+      "content_html": "Rynki finansowe nie bardzo wiedzą, jak się dostosować do mgły informacyjnej spowijającej sytuację w Zatoce Perskiej. W takim otoczeniu rynek złotego reaguje dość spokojnie.",
+      "date_published": "2026-03-25T10:37:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Arlen-podpisal-umowy-o-lacznej-wartosci-120-8-mln-zl-9103887.html",
       "url": "https://www.bankier.pl/wiadomosc/Arlen-podpisal-umowy-o-lacznej-wartosci-120-8-mln-zl-9103887.html",
       "title": "Arlen podpisał umowy o łącznej wartości 120,8 mln zł",
@@ -25,9 +95,16 @@
       "date_published": "2026-03-25T10:18:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Milionowe-kary-dla-sklepow-i-punktow-uslugowych-UOKiK-Od-do-to-nie-cena-9103871.html",
+      "url": "https://www.bankier.pl/wiadomosc/Milionowe-kary-dla-sklepow-i-punktow-uslugowych-UOKiK-Od-do-to-nie-cena-9103871.html",
+      "title": "Milionowe kary dla sklepów i punktów usługowych. UOKiK: „Od-do” to nie cena",
+      "content_html": "Inspekcja Handlowa skontrolowała ponad 3 tys. placówek i oceniła sposób informowania o cenie ponad 461 tys. produktów i usług - poinformował Urząd Ochrony Konkurencji i Konsumentów. Jak dodał, w wyniku kontroli nałożono łącznie 1,2 mln zł...",
+      "date_published": "2026-03-25T10:07:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mniej-lotow-przez-koszty-paliwa-LOT-przedstawia-swoja-strategie-na-teraz-9103860.html",
       "url": "https://www.bankier.pl/wiadomosc/Mniej-lotow-przez-koszty-paliwa-LOT-przedstawia-swoja-strategie-na-teraz-9103860.html",
-      "title": "Mniej lotów przez koszty paliwa. LOT przedstawia swoją strategię \"na teraz\"",
+      "title": "Podwyżki cen biletów czy cięcia w siatce połączeń? LOT ujawnia strategię",
       "content_html": "Przetasowania na globalnym rynku lotniczym to eufemistyczne określenie ciągu zdarzeń, z jakim mamy do czynienia po wybuchu wojny na Bliskim Wschodzie. PLL LOT na tle konkurencji prezentuje zaskakująco stabilną formę, ale nad horyzontem gromadzą...",
       "date_published": "2026-03-25T10:00:00+01:00"
     },
@@ -275,6 +352,13 @@
       "title": "Marta Nawrocka w Białym Domu. \"Dowód świetnych stosunków z USA\"",
       "content_html": "Zaproszenie prezydentowej Marty Nawrockiej do wystąpienia w Białym Domu na szczycie organizowanym przez Melanię Trump to dowód świetnych stosunków Polski z obecną administracją USA - powiedział w środę wiceszef Kancelarii Prezydenta Adam Andruszkiewicz...",
       "date_published": "2026-03-25T07:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ekspozycja-warta-miliony-Tak-igrzyska-wypromowaly-marke-rodziny-Karola-Nawrockiego-9103711.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekspozycja-warta-miliony-Tak-igrzyska-wypromowaly-marke-rodziny-Karola-Nawrockiego-9103711.html",
+      "title": "\"Reklama\" warta 11,5 mln zł. Tak igrzyska wypromowały markę rodziny Karola Nawrockiego",
+      "content_html": "O Nowrocky zrobiło się głośno przy okazji zimowych igrzysk olimpijskich i spotkania prezydenta z polskimi sportowcami. Jak podał Instytut Monitorowania Mediów (IMM), wartość reklamowa marki, której ubrania miał na sobie Karol Nawrocki, może...",
+      "date_published": "2026-03-25T07:04:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Echo-Investment-mialo-w-IV-kw-109-1-mln-zl-zysku-netto-j-d-wobec-107-7-mln-zl-konsensusu-9103748.html",
@@ -618,69 +702,6 @@
       "title": "NATO przegrupowuje okręty. Niemcy wypełniają lukę po Brytyjczykach",
       "content_html": "Po przeniesieniu przez Wielką Brytanię niszczyciela HMS Dragon na Morze Śródziemne Niemcy wzmacniają obecność swojej marynarki wojennej na północnym Atlantyku. Fregata Sachsen przejęła dowodzenie nad stałą grupą zadaniową NATO - poinformował...",
       "date_published": "2026-03-24T18:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-sa-za-niskie-Joanna-Tyrowicz-za-podwyzka-do-4-75-proc-9103470.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-sa-za-niskie-Joanna-Tyrowicz-za-podwyzka-do-4-75-proc-9103470.html",
-      "title": "Stopy procentowe są za niskie? Joanna Tyrowicz za podwyżką do 4,75 proc.",
-      "content_html": "Na ten moment odpowiedni poziom stopy procentowej to 4,75 proc. - oceniła członkini Rady Polityki Pieniężnej, Joanna Tyrowicz.",
-      "date_published": "2026-03-24T18:07:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zamiast-120-euro-jedynie-50-euro-za-dobe-Przewoznicy-wywalczyli-stawki-za-parking-na-Bialorusi-9103452.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zamiast-120-euro-jedynie-50-euro-za-dobe-Przewoznicy-wywalczyli-stawki-za-parking-na-Bialorusi-9103452.html",
-      "title": "Zamiast 120 euro jedynie 50 euro za dobę. Przewoźnicy wywalczyli stawki za „parking” na Białorusi",
-      "content_html": "Ogólnopolskie Stowarzyszenie Przewoźników z Białej Podlaskiej porozumiało się z władzami Białorusi, a zatrzymane w tym kraju pojazdy należące do polskich firm transportowych wrócą do Polski - poinformował we wtorek PAP prezes stowarzyszenia...",
-      "date_published": "2026-03-24T18:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Beneficjenci-kryzysu-w-Zatoce-od-amerykanskich-koncernow-po-chinskich-armatorow-9103423.html",
-      "url": "https://www.bankier.pl/wiadomosc/Beneficjenci-kryzysu-w-Zatoce-od-amerykanskich-koncernow-po-chinskich-armatorow-9103423.html",
-      "title": "Beneficjenci kryzysu w Zatoce: od amerykańskich koncernów po chińskich armatorów",
-      "content_html": "Na blokadzie Cieśniny Ormuz wygrywają ci, którzy mają węglowodory spoza Bliskiego Wschodu: Amerykanie, ale i Rosjanie – powiedział PAP Wojciech Jakóbik, analityk sektora energetycznego. W ocenie Ernesta Czermańskiego z UG sytuację w Zatoce...",
-      "date_published": "2026-03-24T17:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Wirtualnej-Polski-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9103545.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Wirtualnej-Polski-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9103545.html",
-      "title": "Wyniki Wirtualnej Polski w IV kw. 2025 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki Wirtualnej Polski w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes.",
-      "date_published": "2026-03-24T17:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Milionowe-oszustwa-w-NCBR-i-PARP-CBA-zatrzymalo-kolejnych-podejrzanych-9103400.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milionowe-oszustwa-w-NCBR-i-PARP-CBA-zatrzymalo-kolejnych-podejrzanych-9103400.html",
-      "title": "Milionowe oszustwa w NCBR i PARP. CBA zatrzymało kolejnych podejrzanych",
-      "content_html": "Centralne Biuro Antykorupcyjne zatrzymało pięć osób, które miały oszukać Narodowe Centrum Badań i Rozwoju, wyłudzając środki na dofinansowanie projektów unijnych i rozliczając granty niezgodnie z przeznaczeniem.",
-      "date_published": "2026-03-24T17:49:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezes-TK-pisze-do-prezydenta-Zapowiada-kroki-prawne-przeciwko-prokuratorom-9103376.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezes-TK-pisze-do-prezydenta-Zapowiada-kroki-prawne-przeciwko-prokuratorom-9103376.html",
-      "title": "Prezes TK pisze do prezydenta. Zapowiada kroki prawne przeciwko prokuratorom",
-      "content_html": "Prezes Trybunału Konstytucyjnego Bogdan Święczkowski zapowiada złożenie zawiadomienia ws. odmowy umorzenia śledztwa w sprawie, w której wnioskowano o uchylenie mu immunitetu. W liście do prezydenta Święczkowski wskazał, że prokuratura, kwestionując...",
-      "date_published": "2026-03-24T17:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-oblawa-na-falszerzy-euro-Robili-banknoty-50-i-100-euro-9103373.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-oblawa-na-falszerzy-euro-Robili-banknoty-50-i-100-euro-9103373.html",
-      "title": "Wielka obława na fałszerzy euro. Robili banknoty 50 i 100 euro",
-      "content_html": "Rumuńska policja zlikwidowała we wtorek w okręgu Suczawa, na północy kraju, dużą fabrykę fałszywych banknotów euro. Należała ona, jak twierdzą śledczy, do rumuńsko-bułgarskiej grupy przestępczej.",
-      "date_published": "2026-03-24T17:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-BNP-Paribas-BP-na-fundusz-przymusowej-restrukturyzacji-na-ok-238-9-mln-zl-9103520.html",
-      "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-BNP-Paribas-BP-na-fundusz-przymusowej-restrukturyzacji-na-ok-238-9-mln-zl-9103520.html",
-      "title": "BFG określił wysokość składki BNP Paribas BP na fundusz przymusowej restrukturyzacji na ok. 238,9 mln zł",
-      "content_html": "Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od BNP Paribas Bank Polska w 2026 roku w kwocie ok. 238,9 mln zł z uwzględnieniem wysokości korekty składki za 2025 r. - poinformował bank w komunikacie...",
-      "date_published": "2026-03-24T17:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Mennicy-Polskiej-rekomenduje-wyplate-1-5-zl-dywidendy-na-akcje-za-25-9103515.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Mennicy-Polskiej-rekomenduje-wyplate-1-5-zl-dywidendy-na-akcje-za-25-9103515.html",
-      "title": "Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za '25",
-      "content_html": "Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za 2025 rok, czyli łącznie na ten cel chce przeznaczyć 76,5 mln zł - podała spółka w komunikacie.",
-      "date_published": "2026-03-24T17:20:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
