@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-IV-kw-367-7-mln-zl-zysku-netto-j-d-ponizej-konsensusu-9105125.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-IV-kw-367-7-mln-zl-zysku-netto-j-d-ponizej-konsensusu-9105125.html",
+      "title": "Dino Polska miało w IV kw. 367,7 mln zł zysku netto j.d., poniżej konsensusu Zysk netto jednostki dominującej grupy Dino Polska wyniósł w czwartym kwartale 2025 roku 367,7 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego. Konsensus PAP Biznes zakładał 456,4 mln zł zysku netto.",
+      "content_html": "",
+      "date_published": "2026-03-26T21:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dino-Polska-chce-by-w-2026-r-wzrost-sprzedazy-LfL-byl-wyzszy-niz-w-2025-r-9105119.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-chce-by-w-2026-r-wzrost-sprzedazy-LfL-byl-wyzszy-niz-w-2025-r-9105119.html",
+      "title": "Dino Polska chce, by w 2026 r. wzrost sprzedaży LfL był wyższy niż w 2025 r. Dino Polska chce, by w 2026 r. wzrost sprzedaży LfL był wyższy niż w 2025 r., przy dużej dyscyplinie kosztowej - poinformował członek zarządu Michał Krauze. Spółka planuje otwarcie o kilkanaście procent więcej sklepów niż w ubiegłym roku.",
+      "content_html": "",
+      "date_published": "2026-03-26T21:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Dino-Polska-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9105116.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Dino-Polska-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9105116.html",
+      "title": "Wyniki Dino Polska w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Dino Polska w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, i ich odniesienie do konsensusu PAP Biznes oraz do poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-03-26T21:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bez-przelomu-na-Bliskim-Wschodzie-Mocne-spadki-na-Wall-Street-9105103.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bez-przelomu-na-Bliskim-Wschodzie-Mocne-spadki-na-Wall-Street-9105103.html",
+      "title": "Bez przełomu na Bliskim Wschodzie. Mocne spadki na Wall Street Brak postępu w kwestii pokoju na Bliskim Wschodzie i odblokowania Cieśniny Ormuz sprawił, że inwestorzy z Wall Street stracili cierpliwość.",
+      "content_html": "",
+      "date_published": "2026-03-26T21:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-pakiet-ustaw-dot-cen-paliw-w-tym-obnizki-VAT-i-akcyzy-opis-9105102.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-pakiet-ustaw-dot-cen-paliw-w-tym-obnizki-VAT-i-akcyzy-opis-9105102.html",
       "title": "Rząd przyjął pakiet ustaw dot. cen paliw, w tym obniżki VAT i akcyzy (opis) Rada Ministrów przyjęła pakiet ustaw, którego celem jest obniżenie cen na stacjach benzynowych. Pakiet wprowadza obniżkę VAT i akcyzy na benzynę i olej napędowy oraz maksymalną cenę detaliczną na paliwa - podał resort energii w komunikacie prasowym. W planach rządu jest też podatek od nadmiarowych zysków koncernów paliwowych.",
@@ -569,13 +597,6 @@
       "title": "Janusz Krypto: akt zgonu metaverse - jak miliardy dolarów poszły w cyfrowy piach Był taki czas, gdy działki w internecie drożały szybciej niż masło w osiedlowym sklepie, a Mark Zuckerberg zmienił nazwę swojej firmy, planując nam życie w goglach VR. Dziś, w marcu 2026 roku, rzeczywistość wystawiła tym planom słony rachunek. Meta zamyka projekt Horizon Worlds, a inwestorzy, którzy kupowali cyfrowe \"grunty\" obok Snoop Dogga, zostali z \"aktami własności\", których nawet nie da się podrzeć. Zapraszam na notatki z pogrzebu cyfrowej utopii.",
       "content_html": "",
       "date_published": "2026-03-25T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
-      "title": "Wall Street nabrała wątpliwości. Spadkowa sesja za Atlantykiem Wtorkowa sesja na nowojorskich giełdach nie przyniosła kontynuacji poniedziałkowego odbicia. W zwyżkach przeszkodziły sprzeczne doniesienia na temat zawarcia pokoju z Iranem.",
-      "content_html": "",
-      "date_published": "2026-03-24T21:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
