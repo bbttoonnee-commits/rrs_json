@@ -4,32 +4,53 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Atalu-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9104452.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Atalu-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9104452.html",
+      "title": "Wyniki Atalu w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Atalu w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-03-26T07:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-LFL-Pepco-w-ciagu-25-tygodni-do-22-marca-wzrosly-o-4-2-proc-z-wylaczeniem-FMCG-opis-9104443.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-LFL-Pepco-w-ciagu-25-tygodni-do-22-marca-wzrosly-o-4-2-proc-z-wylaczeniem-FMCG-opis-9104443.html",
+      "title": "Przychody LFL Pepco w ciągu 25 tygodni do 22 marca wzrosły o 4,2 proc., z wyłączeniem FMCG (opis) Przychody Pepco w ciągu 25 tygodni do 22 marca wzrosły o 4,8 proc. przy założeniu stałych kursów walutowych, a w ujęciu LFL wzrosły o 4,2 proc., z wyłączeniem FMCG - podała spółka w raporcie. Pepco podtrzymuje cele na 2026 rok.",
+      "content_html": "",
+      "date_published": "2026-03-26T07:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-zaklada-w-26-marze-brutto-w-przedziale-55-55-5-proc-wyniki-moga-byc-pod-wplywem-geopolityki-opis-9104428.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-zaklada-w-26-marze-brutto-w-przedziale-55-55-5-proc-wyniki-moga-byc-pod-wplywem-geopolityki-opis-9104428.html",
+      "title": "Ambitne plany LPP. Idzie na rekord, ale patrzy z niepokojem na Bliski Wschód Grupa LPP spodziewa się w 2026 r. marży brutto na sprzedaży w przedziale 55-55,5 proc. i marży zysku netto 9-10 proc. - podała spółka w prezentacji. Przychody przewidywane są na poziomie ok. 28-29 mld zł. Spółka ocenia, że w tym roku jej wyniki mogą pozostawać pod wpływem sytuacji sytuacji geopolitycznej na Bliskim Wschodzie.",
+      "content_html": "",
+      "date_published": "2026-03-26T06:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Neuca-spodziewa-sie-wzrostu-rynku-hurtu-aptecznego-w-26-o-6-6-5-proc-9104424.html",
+      "url": "https://www.bankier.pl/wiadomosc/Neuca-spodziewa-sie-wzrostu-rynku-hurtu-aptecznego-w-26-o-6-6-5-proc-9104424.html",
+      "title": "Neuca spodziewa się wzrostu rynku hurtu aptecznego w '26 o 6-6,5 proc. Neuca spodziewa się wzrostu wartości rynku hurtu aptecznego w 2026 r. w wysokości około 6-6,5 proc. - podano w sprawozdaniu zarządu.",
+      "content_html": "",
+      "date_published": "2026-03-26T06:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Neuki-rekomenduje-wyplate-17-8-zl-dywidendy-na-akcje-z-zysku-za-25-9104420.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Neuki-rekomenduje-wyplate-17-8-zl-dywidendy-na-akcje-z-zysku-za-25-9104420.html",
+      "title": "Zarząd Neuki rekomenduje wypłatę 17,8 zł dywidendy na akcję z zysku za '25 Zarząd Neuki rekomenduje, aby spółka wypłaciła z zysku za 2025 rok 17,8 zł dywidendy na akcję - poinformowała spółka w rocznym raporcie finansowym.",
+      "content_html": "",
+      "date_published": "2026-03-26T06:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Umiarkowane-wzrosty-na-Wall-Street-Gieldy-rosly-oczekujac-zlagodzenia-wojny-z-Iranem-9104356.html",
+      "url": "https://www.bankier.pl/wiadomosc/Umiarkowane-wzrosty-na-Wall-Street-Gieldy-rosly-oczekujac-zlagodzenia-wojny-z-Iranem-9104356.html",
+      "title": "Umiarkowane wzrosty na Wall Street. Rosną za to nadzieje na deeskalację konfliktu Środowa sesja na Wall Street przyniosła umiarkowane wzrosty głównych indeksów, gdyż inwestorzy mają nadzieję na złagodzenie konfliktu na Bliskim Wschodzie po tym jak prezydent Donald Trump przedstawił Iranowi propozycję porozumienia. Ceny ropy naftowej spadły.",
+      "content_html": "",
+      "date_published": "2026-03-26T06:31:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Neuca-miala-w-IV-kw-88-1-mln-zl-EBITDA-wobec-87-3-mln-zl-konsensusu-9104413.html",
       "url": "https://www.bankier.pl/wiadomosc/Neuca-miala-w-IV-kw-88-1-mln-zl-EBITDA-wobec-87-3-mln-zl-konsensusu-9104413.html",
       "title": "Neuca miała w IV kw. 88,1 mln zł EBITDA, wobec 87,3 mln zł konsensusu Neuca odnotowała w IV kw. 2025 roku 88,1 mln zł EBITDA oraz 3,52 mld zł przychodów – wynika z raportu spółki. Konsensus PAP Biznes zakładał EBITDA na poziomie 87,3 mln zł oraz 3,4 mld zł przychodów.",
       "content_html": "",
       "date_published": "2026-03-26T06:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przychody-grupy-LPP-w-okresie-1-II-23-III-wzrosly-o-13-proc-rdr-9104412.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przychody-grupy-LPP-w-okresie-1-II-23-III-wzrosly-o-13-proc-rdr-9104412.html",
-      "title": "Przychody grupy LPP w okresie 1 II-23 III wzrosły o 13 proc. rdr W okresie od 1 lutego do 23 marca przychody grupy LPP w walutach stałych wzrosły o 13 proc. rdr - poinformowała spółka w raporcie.",
-      "content_html": "",
-      "date_published": "2026-03-26T06:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-LPP-spodziewa-sie-w-2026-r-marzy-brutto-na-sprzedazy-w-przedziale-55-55-5-proc-9104406.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-LPP-spodziewa-sie-w-2026-r-marzy-brutto-na-sprzedazy-w-przedziale-55-55-5-proc-9104406.html",
-      "title": "Grupa LPP spodziewa się w 2026 r. marży brutto na sprzedaży w przedziale 55-55,5 proc. Grupa LPP spodziewa się w 2026 r. marży brutto na sprzedaży w przedziale 55-55,5 proc. i marży zysku netto 9-10 proc. - podała spółka w prezentacji. Wcześniej spółka przewidywała na ten okres marży brutto na sprzedaży w przedziale 54-54,5 proc., a marża netto przewidywana była na ok. 9 proc.",
-      "content_html": "",
-      "date_published": "2026-03-26T06:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-LPP-w-IV-kw-2025-26-roku-vs-konsensus-PAP-tabela-9104401.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-LPP-w-IV-kw-2025-26-roku-vs-konsensus-PAP-tabela-9104401.html",
-      "title": "Wyniki LPP w IV kw. 2025/26 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki grupy LPP w czwartym kwartale 2025/26 roku według wyliczeń PAP Biznes oraz ich odniesienie do konsensusu PAP Biznes.",
-      "content_html": "",
-      "date_published": "2026-03-26T06:08:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Neuki-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9104398.html",
@@ -51,6 +72,13 @@
       "title": "INWESTOR WOJTEK Gwiazdy Bankier.pl podpowiadają, gdzie szukać zysków w najbliższych 12 miesiącach Geopolityka znów uderzyła w rynki z potężną siłą, wymuszając na inwestorach rewizję portfeli. Podczas ostatniej Debaty Gwiazd Bankier.pl na konferencji Invest Cuffs w Krakowie zapytałem rynkowych ekspertów o ich inwestycyjne typy. W tym tekście przedstawiam ich prognozy - od uranu i zbrojeniówki, po powrót do gotówki i widmo stagflacji.",
       "content_html": "",
       "date_published": "2026-03-26T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Walne-zgromadzenie-Robygu-zdecydowalo-o-mozliwej-emisji-nowych-akcji-w-ramach-IPO-9104357.html",
+      "url": "https://www.bankier.pl/wiadomosc/Walne-zgromadzenie-Robygu-zdecydowalo-o-mozliwej-emisji-nowych-akcji-w-ramach-IPO-9104357.html",
+      "title": "Walne zgromadzenie Robygu zdecydowało o możliwej emisji nowych akcji w ramach IPO Walne zgromadzenie Robygu zdecydowało o możliwej emisji do 9,65 mln akcji serii B - poinformowała firma deweloperska w komunikacie. Ewentualna emisja akcji zostanie przeprowadzona w ramach oferty publicznej spółki, co oznaczałoby jej powrót po latach na warszawską giełdę.",
+      "content_html": "",
+      "date_published": "2026-03-25T23:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-ZUE-w-25-miala-11-2-mln-zl-zysku-netto-zgodnie-z-szacunkami-9104299.html",
@@ -270,6 +298,27 @@
       "date_published": "2026-03-25T06:04:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Xiaomi-na-zakrecie-Telefony-nie-schodza-samochody-ledwo-dowoza-a-kurs-nurkuje-9103208.html",
+      "url": "https://www.bankier.pl/wiadomosc/Xiaomi-na-zakrecie-Telefony-nie-schodza-samochody-ledwo-dowoza-a-kurs-nurkuje-9103208.html",
+      "title": "Xiaomi na zakręcie. Telefony nie schodzą, samochody ledwo dowożą, a kurs nurkuje Chiński gigant technologiczny zwalnia tempo. Choć dywizja motoryzacyjna dwoi się i troi, by ratować wyniki, załamanie w segmencie smartfonów ciągnie spółkę w dół. Inwestorzy tracą cierpliwość – akcje Xiaomi spadły już o ponad 40 proc. od szczytów z 2025 roku.",
+      "content_html": "",
+      "date_published": "2026-03-25T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-akt-zgonu-metaverse-jak-miliardy-dolarow-poszly-w-cyfrowy-piach-9103049.html",
+      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-akt-zgonu-metaverse-jak-miliardy-dolarow-poszly-w-cyfrowy-piach-9103049.html",
+      "title": "Janusz Krypto: akt zgonu metaverse - jak miliardy dolarów poszły w cyfrowy piach Był taki czas, gdy działki w internecie drożały szybciej niż masło w osiedlowym sklepie, a Mark Zuckerberg zmienił nazwę swojej firmy, planując nam życie w goglach VR. Dziś, w marcu 2026 roku, rzeczywistość wystawiła tym planom słony rachunek. Meta zamyka projekt Horizon Worlds, a inwestorzy, którzy kupowali cyfrowe \"grunty\" obok Snoop Dogga, zostali z \"aktami własności\", których nawet nie da się podrzeć. Zapraszam na notatki z pogrzebu cyfrowej utopii.",
+      "content_html": "",
+      "date_published": "2026-03-25T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-nabrala-watpliwosci-Spadkowa-sesja-za-Atlantykiem-9103648.html",
+      "title": "Wall Street nabrała wątpliwości. Spadkowa sesja za Atlantykiem Wtorkowa sesja na nowojorskich giełdach nie przyniosła kontynuacji poniedziałkowego odbicia. W zwyżkach przeszkodziły sprzeczne doniesienia na temat zawarcia pokoju z Iranem.",
+      "content_html": "",
+      "date_published": "2026-03-24T21:05:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
       "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
       "title": "BFG określił wysokość składki B. Handlowego na fundusz przymusowej restrukturyzacji na 132,5 mln zł Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od Banku Handlowego w 2026 roku w kwocie 132.455.794,41 zł z uwzględnieniem wysokości korekty składki za 2025 r. - poinformował bank w komunikacie.",
@@ -352,13 +401,6 @@
       "title": "Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za '25 Zarząd Mennicy Polskiej rekomenduje wypłatę 1,5 zł dywidendy na akcję za 2025 rok, czyli łącznie na ten cel chce przeznaczyć 76,5 mln zł - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-24T17:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sesja-na-GPW-korekta-oczekiwan-na-pokoj-spadki-indeksow-i-rajd-Trans-Polonii-9103456.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sesja-na-GPW-korekta-oczekiwan-na-pokoj-spadki-indeksow-i-rajd-Trans-Polonii-9103456.html",
-      "title": "Sesja na GPW: korekta oczekiwań na pokój, spadki indeksów i rajd Trans Polonii Po poniedziałkowym roller coasterze na rynkach, wtorek przyniósł ponowne ochłodzenie temperatury na giełdowych parkietach. WIG20, który zaczynał sesję od lekkich wzrostów, zakończył dzień pod kreską, ciągnięty w dół przez akcje banków. Słabo miały się też walory średnich spółek. Na szerokim rynku błyszczały pojedyncze walory, takie jak akcje Trans Polonii i Pure Biologics.",
-      "content_html": "",
-      "date_published": "2026-03-24T17:12:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KGHM-ma-memorandum-dot-wspolpracy-i-analiz-potencjalnych-projektow-surowcowych-w-Maroku-9103466.html",
@@ -543,16 +585,16 @@
       "date_published": "2026-03-24T11:15:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Google-wyklada-miliony-na-AI-Polacy-moga-zyskac-potezne-wsparcie-w-rozwoju-kariery-9103170.html",
-      "url": "https://www.bankier.pl/wiadomosc/Google-wyklada-miliony-na-AI-Polacy-moga-zyskac-potezne-wsparcie-w-rozwoju-kariery-9103170.html",
-      "title": "Google wykłada miliony na AI. Polacy mogą zyskać potężne wsparcie w rozwoju kariery Google ogłosiło we wtorek nową inicjatywę wspierającą osoby i firmy w całej Europie w zdobywaniu umiejętności niezbędnych do wykorzystania AI w rozwoju kariery i biznesu - podało Google w komunikacie prasowym. W ramach projektu firma przeznaczy 30 mln dolarów na Europejski Fundusz AI Opportunity prowadzony przez Google.org oraz rozszerzy dostęp do certyfikatu Google AI Professional Certificate.",
+      "id": "https://www.bankier.pl/wiadomosc/Hossa-to-za-malo-Dlaczego-spolki-boja-sie-gieldowego-debiutu-9103078.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hossa-to-za-malo-Dlaczego-spolki-boja-sie-gieldowego-debiutu-9103078.html",
+      "title": "INVEST CUFFS 2026 Hossa to za mało? Dlaczego spółki boją się giełdowego debiutu? Indeks WIG zanotował rekordy, a płynność na warszawskim parkiecie dopisuje. Dlaczego w ślad za świetną koniunkturą nie idą nowe debiuty giełdowe? O bolączkach rynku pierwotnego, szansach na mądrą prywatyzację i zachowawczych prognozach na 2026 rok rozmawiamy z Jarosławem Grzywińskim, szefem rynków kapitałowych Business Centre Club.",
       "content_html": "",
       "date_published": "2026-03-24T11:10:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Hossa-to-za-malo-Dlaczego-spolki-boja-sie-gieldowego-debiutu-9103078.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hossa-to-za-malo-Dlaczego-spolki-boja-sie-gieldowego-debiutu-9103078.html",
-      "title": "INVEST CUFFS 2026 Hossa to za mało? Dlaczego spółki boją się giełdowego debiutu? Indeks WIG zanotował rekordy, a płynność na warszawskim parkiecie dopisuje. Dlaczego w ślad za świetną koniunkturą nie idą nowe debiuty giełdowe? O bolączkach rynku pierwotnego, szansach na mądrą prywatyzację i zachowawczych prognozach na 2026 rok rozmawiamy z Jarosławem Grzywińskim, szefem rynków kapitałowych Business Centre Club.",
+      "id": "https://www.bankier.pl/wiadomosc/Google-wyklada-miliony-na-AI-Polacy-moga-zyskac-potezne-wsparcie-w-rozwoju-kariery-9103170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Google-wyklada-miliony-na-AI-Polacy-moga-zyskac-potezne-wsparcie-w-rozwoju-kariery-9103170.html",
+      "title": "Google wykłada miliony na AI. Polacy mogą zyskać potężne wsparcie w rozwoju kariery Google ogłosiło we wtorek nową inicjatywę wspierającą osoby i firmy w całej Europie w zdobywaniu umiejętności niezbędnych do wykorzystania AI w rozwoju kariery i biznesu - podało Google w komunikacie prasowym. W ramach projektu firma przeznaczy 30 mln dolarów na Europejski Fundusz AI Opportunity prowadzony przez Google.org oraz rozszerzy dostęp do certyfikatu Google AI Professional Certificate.",
       "content_html": "",
       "date_published": "2026-03-24T11:10:00+01:00"
     },
@@ -625,27 +667,6 @@
       "title": "INVEST CUFFS 2026 Michał Tekliński z Goldenmark: Dobre złoto na złe czasy To, co dzieje się obecnie na rynku złota, rzeczywiście potrafi przyprawić inwestorów o przyspieszony puls. W ostatnich miesiącach obserwujemy bowiem wyraźną zmienność notowań, wynikającą zarówno z napięć geopolitycznych, jak i z polityki banków centralnych oraz niepewności wokół globalnej gospodarki. W tym kontekście nie dziwi, że podczas kongresu Invest Cuffs w Krakowie jedna z debat otrzymała przewrotny tytuł „Kiedy złoto po 10 tys. USD”. Pytanie to, choć brzmi sensacyjnie, odzwierciedla realne emocje i oczekiwania części rynku.",
       "content_html": "",
       "date_published": "2026-03-24T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-w-wys-237-6-mln-zl-brutto-najkorzystniejsza-w-postepowaniu-Miasta-Stolecznego-Warszawa-9103085.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-w-wys-237-6-mln-zl-brutto-najkorzystniejsza-w-postepowaniu-Miasta-Stolecznego-Warszawa-9103085.html",
-      "title": "Oferta Mirbudu w wys. 237,6 mln zł brutto najkorzystniejsza w postępowaniu Miasta Stołecznego Warszawa Oferta Mirbudu została wybrana jako najkorzystniejsza w postępowaniu Miasta Stołecznego Warszawa - Stołecznego Centrum Sportu AKTYWNA WARSZAWA - podał Mirbud w komunikacie. Wartość oferty to 237,6 mln zł brutto.",
-      "content_html": "",
-      "date_published": "2026-03-24T08:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-najkorzystniejsza-na-rozbudowe-i-budowe-drogi-powiatowej-w-powiecie-slupeckim-9103083.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-najkorzystniejsza-na-rozbudowe-i-budowe-drogi-powiatowej-w-powiecie-slupeckim-9103083.html",
-      "title": "Oferta Mirbudu najkorzystniejsza na rozbudowę i budowę drogi powiatowej w powiecie słupeckim Oferta Mirbudu o wartości 137,9 mln zł brutto na rozbudowę i budowę drogi powiatowej w powiecie słupeckim została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-24T08:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBITDAaL-Play-wzrosl-w-IV-kw-o-1-proc-rdr-do-975-mln-zl-9103075.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBITDAaL-Play-wzrosl-w-IV-kw-o-1-proc-rdr-do-975-mln-zl-9103075.html",
-      "title": "EBITDAaL Play wzrósł w IV kw. o 1 proc. rdr do 975 mln zł Wynik EBITDAaL Play wzrósł w IV kw. 2025 roku o 1 proc. rdr do 975 mln zł, przy spadku marży EBITDAaL do 35,5 proc., tj. o 4,2 pp. Przychody wzrosły o 5,5 proc. rdr do 2,75 mld zł - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-24T08:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
