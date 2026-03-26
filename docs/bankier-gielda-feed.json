@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-pakiet-ustaw-dot-cen-paliw-w-tym-obnizki-VAT-i-akcyzy-opis-9105102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-przyjal-pakiet-ustaw-dot-cen-paliw-w-tym-obnizki-VAT-i-akcyzy-opis-9105102.html",
+      "title": "Rząd przyjął pakiet ustaw dot. cen paliw, w tym obniżki VAT i akcyzy (opis) Rada Ministrów przyjęła pakiet ustaw, którego celem jest obniżenie cen na stacjach benzynowych. Pakiet wprowadza obniżkę VAT i akcyzy na benzynę i olej napędowy oraz maksymalną cenę detaliczną na paliwa - podał resort energii w komunikacie prasowym. W planach rządu jest też podatek od nadmiarowych zysków koncernów paliwowych.",
+      "content_html": "",
+      "date_published": "2026-03-26T20:36:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polskie-wydatki-nokautuja-w-NATO-Rutte-Warszawa-absolutnym-liderem-wydatkow-9104707.html",
       "url": "https://www.bankier.pl/wiadomosc/Polskie-wydatki-nokautuja-w-NATO-Rutte-Warszawa-absolutnym-liderem-wydatkow-9104707.html",
       "title": "Polskie wydatki nokautują w NATO. Rutte: Warszawa absolutnym liderem wydatków Wydatki na obronność Polski wyniosły w 2025 roku 166,186 mld zł, co odpowiada 4,3 proc. PKB - wynika z szacunków Sojusz Północnoatlantyckiego zawartych w raporcie rocznym sekretarza generalnego NATO. Polska odnotowała najwyższy odsetek; kolejne miejsca zajęły Litwa (4 proc.) i Łotwa (3,74 proc.)",
@@ -569,20 +576,6 @@
       "title": "Wall Street nabrała wątpliwości. Spadkowa sesja za Atlantykiem Wtorkowa sesja na nowojorskich giełdach nie przyniosła kontynuacji poniedziałkowego odbicia. W zwyżkach przeszkodziły sprzeczne doniesienia na temat zawarcia pokoju z Iranem.",
       "content_html": "",
       "date_published": "2026-03-24T21:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
-      "url": "https://www.bankier.pl/wiadomosc/BFG-okreslil-wysokosc-skladki-B-Handlowego-na-fundusz-przymusowej-restrukturyzacji-na-132-5-mln-zl-9103644.html",
-      "title": "BFG określił wysokość składki B. Handlowego na fundusz przymusowej restrukturyzacji na 132,5 mln zł Bankowy Fundusz Gwarancyjny określił wysokość składki na fundusz przymusowej restrukturyzacji od Banku Handlowego w 2026 roku w kwocie 132.455.794,41 zł z uwzględnieniem wysokości korekty składki za 2025 r. - poinformował bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-24T21:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RN-Banku-Handlowego-zatwierdzila-polityke-dywidendowa-banku-na-25-27-9103642.html",
-      "url": "https://www.bankier.pl/wiadomosc/RN-Banku-Handlowego-zatwierdzila-polityke-dywidendowa-banku-na-25-27-9103642.html",
-      "title": "RN Banku Handlowego zatwierdziła politykę dywidendową banku na '25-27 Rada Nadzorcza Banku Handlowego zatwierdziła aktualizację polityki dywidendowej banku, zakładającej w latach 2025 - 2027 wypłatę dywidendy w wysokości minimum 75 proc. zysku netto za poprzedni rok obrotowy, z uwzględnieniem indywidualnych zaleceń KNF dotyczących wypłaty dywidendy w danym roku kalendarzowym - podał bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-24T20:52:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
