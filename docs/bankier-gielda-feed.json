@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-kryzys-energetyczny-moze-przeksztalcic-sie-w-kryzys-finansowy-9104063.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-kryzys-energetyczny-moze-przeksztalcic-sie-w-kryzys-finansowy-9104063.html",
+      "title": "Jak kryzys energetyczny może przekształcić się w kryzys finansowy Podczas gdy świat z napięciem obserwuje notowania paliw i energii, inwestorzy coraz bardziej niepokoją się sygnałami płynącymi z rynków długu. Ten bowiem wycenia znacząco wyższe stopy procentowe i to nawet w niezbyt odległej przyszłości.",
+      "content_html": "",
+      "date_published": "2026-03-27T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-IV-kw-367-7-mln-zl-zysku-netto-j-d-ponizej-konsensusu-opis-9105133.html",
       "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-IV-kw-367-7-mln-zl-zysku-netto-j-d-ponizej-konsensusu-opis-9105133.html",
       "title": "Dino Polska miało w IV kw. 367,7 mln zł zysku netto j.d., poniżej konsensusu (opis) Zysk netto jednostki dominującej grupy Dino Polska wyniósł w czwartym kwartale 2025 roku 367,7 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego. Konsensus PAP Biznes zakładał 456,4 mln zł zysku netto.",
@@ -590,20 +597,6 @@
       "title": "Wyniki Echo Investment w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Echo Investment w czwartym kwartale 2025 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
       "content_html": "",
       "date_published": "2026-03-25T06:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Xiaomi-na-zakrecie-Telefony-nie-schodza-samochody-ledwo-dowoza-a-kurs-nurkuje-9103208.html",
-      "url": "https://www.bankier.pl/wiadomosc/Xiaomi-na-zakrecie-Telefony-nie-schodza-samochody-ledwo-dowoza-a-kurs-nurkuje-9103208.html",
-      "title": "Xiaomi na zakręcie. Telefony nie schodzą, samochody ledwo dowożą, a kurs nurkuje Chiński gigant technologiczny zwalnia tempo. Choć dywizja motoryzacyjna dwoi się i troi, by ratować wyniki, załamanie w segmencie smartfonów ciągnie spółkę w dół. Inwestorzy tracą cierpliwość – akcje Xiaomi spadły już o ponad 40 proc. od szczytów z 2025 roku.",
-      "content_html": "",
-      "date_published": "2026-03-25T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-akt-zgonu-metaverse-jak-miliardy-dolarow-poszly-w-cyfrowy-piach-9103049.html",
-      "url": "https://www.bankier.pl/wiadomosc/Janusz-Krypto-akt-zgonu-metaverse-jak-miliardy-dolarow-poszly-w-cyfrowy-piach-9103049.html",
-      "title": "Janusz Krypto: akt zgonu metaverse - jak miliardy dolarów poszły w cyfrowy piach Był taki czas, gdy działki w internecie drożały szybciej niż masło w osiedlowym sklepie, a Mark Zuckerberg zmienił nazwę swojej firmy, planując nam życie w goglach VR. Dziś, w marcu 2026 roku, rzeczywistość wystawiła tym planom słony rachunek. Meta zamyka projekt Horizon Worlds, a inwestorzy, którzy kupowali cyfrowe \"grunty\" obok Snoop Dogga, zostali z \"aktami własności\", których nawet nie da się podrzeć. Zapraszam na notatki z pogrzebu cyfrowej utopii.",
-      "content_html": "",
-      "date_published": "2026-03-25T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
