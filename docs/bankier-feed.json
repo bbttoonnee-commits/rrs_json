@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Amica-szacuje-ze-w-25-zysk-brutto-grupy-wzrosl-do-41-9-mln-zl-9105730.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amica-szacuje-ze-w-25-zysk-brutto-grupy-wzrosl-do-41-9-mln-zl-9105730.html",
+      "title": "Amica szacuje, że w '25 zysk brutto grupy wzrósł do 41,9 mln zł",
+      "content_html": "Amica szacuje, że w 2025 roku zysk brutto grupy wzrósł do 41,9 mln zł z 28 mln zł w 2024 roku - poinformowała spółka w komunikacie.",
+      "date_published": "2026-03-27T17:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Energa-zdecydowala-o-zmianie-wysokosci-odpisow-o-laczna-kwote-ok-0-25-mld-zl-9105717.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energa-zdecydowala-o-zmianie-wysokosci-odpisow-o-laczna-kwote-ok-0-25-mld-zl-9105717.html",
+      "title": "Energa zdecydowała o zmianie wysokości odpisów o łączną kwotę ok. 0,25 mld zł",
+      "content_html": "Energa zdecydowała o zmianie wysokości odpisów o łączną kwotę ok. 0,25 mld zł i obecnie szacowana całkowita kwota odpisów aktualizujących wartość aktywów trwałych grupy wynosi ok. 120 mln zł oraz 220 mln zł odwrócenia wartości odpisów...",
+      "date_published": "2026-03-27T17:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Energa-Operator-pozyskala-ok-470-mln-zl-z-KPO-na-rozwoj-infrastruktury-elektroenergetycznej-9105711.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energa-Operator-pozyskala-ok-470-mln-zl-z-KPO-na-rozwoj-infrastruktury-elektroenergetycznej-9105711.html",
+      "title": "Energa Operator pozyskała ok. 470 mln zł z KPO na rozwój infrastruktury elektroenergetycznej",
+      "content_html": "Energa Operator pozyskała ok. 470 mln zł bezzwrotnej dotacji z KPO na rozwój inteligentnej infrastruktury elektroenergetycznej - podała spółka w komunikacie prasowym. NFOŚiGW podpisał w piątek umowy na dofinansowanie inwestycji w infrastrukturę...",
+      "date_published": "2026-03-27T17:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podziemne-miasto-rakiet-Amerykanski-wywiad-ocenia-straty-Iranu-Zniszczono-33-proc-arsenalu-9105703.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podziemne-miasto-rakiet-Amerykanski-wywiad-ocenia-straty-Iranu-Zniszczono-33-proc-arsenalu-9105703.html",
+      "title": "Podziemne miasto rakiet. Amerykański wywiad ocenia straty Iranu: Zniszczono 33 proc. arsenału",
+      "content_html": "Władze USA są przekonane, że w wyniku ataków zniszczono około 33 proc. irańskiego arsenału rakietowego - podała w piątek agencja Reutera, powołując się na cztery amerykańskie źródła, chcące zachować anonimowość.",
+      "date_published": "2026-03-27T17:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Krach-na-kursie-Dino-Wegiel-wraca-do-lask-na-GPW-9105707.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krach-na-kursie-Dino-Wegiel-wraca-do-lask-na-GPW-9105707.html",
+      "title": "Krach na kursie Dino. Węgiel wraca do łask na GPW",
+      "content_html": "Piątkowa sesja na warszawskim parkiecie upłynęła pod znakiem gwałtownej wyprzedaży na Dino, która przyćmiła wszystko inne. Mimo wszystko warto wspomnieć o dobrej postawie spółek węglowych. Tłem dla notowań pozostają dyplomatyczne zagrywki...",
+      "date_published": "2026-03-27T17:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-generowaniem-nagich-zdjec-przez-AI-Holandia-grozi-X-milionowymi-karami-9105681.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-generowaniem-nagich-zdjec-przez-AI-Holandia-grozi-X-milionowymi-karami-9105681.html",
+      "title": "Koniec z generowaniem nagich zdjęć przez AI. Holandia grozi X milionowymi karami",
+      "content_html": "Sąd w Amsterdamie zakazał oferowania w Holandii funkcji czatbota Grok, która umożliwia wirtualne „rozbieranie” osób bez ich zgody. Według sądu zabezpieczenia zastosowane przez właściciela czatbota platformę X są niewystarczające. Za każde...",
+      "date_published": "2026-03-27T17:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/15-gramow-jeden-krzak-i-zero-kary-Do-Sejmu-trafil-projekt-depenalizacji-marihuany-9105671.html",
       "url": "https://www.bankier.pl/wiadomosc/15-gramow-jeden-krzak-i-zero-kary-Do-Sejmu-trafil-projekt-depenalizacji-marihuany-9105671.html",
       "title": "15 gramów, jeden krzak i zero kary. Do Sejmu trafił projekt depenalizacji marihuany",
@@ -142,6 +184,13 @@
       "title": "Wyścig z czasem w parlamencie i po podpis prezydenta. Bogucki: Zrobimy wszystko",
       "content_html": "Jeżeli ustawy obniżające ceny paliw trafią na biurko prezydenta i nie będą zawierać jakichś krytycznych błędów - a zakładam, że nie - to zrobimy wszystko żeby je podpisać - zapewnił szef Kancelarii Prezydenta Zbigniew Bogucki.",
       "date_published": "2026-03-27T14:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-Wielkanoc-piemaje-i-marcowa-inflacja-9105513.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-Wielkanoc-piemaje-i-marcowa-inflacja-9105513.html",
+      "title": "Tym będą żyły rynki: Wielkanoc, piemaje i marcowa inflacja",
+      "content_html": "Uwagę inwestorów powinny zwrócić zwłaszcza marcowe odczyty PMI, inflacji CPI oraz comiesięczny raport z amerykańskiego rynku pracy.",
+      "date_published": "2026-03-27T13:40:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Iran-pobiera-myto-w-juanach-za-przeplyniecie-Ciesniny-Ormuz-Teheranska-bramka-oplat-9105508.html",
@@ -417,6 +466,13 @@
       "date_published": "2026-03-27T10:44:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/ATM-Grupa-chce-wyplacic-0-27-zl-dywidendy-na-akcje-9105359.html",
+      "url": "https://www.bankier.pl/wiadomosc/ATM-Grupa-chce-wyplacic-0-27-zl-dywidendy-na-akcje-9105359.html",
+      "title": "ATM Grupa chce wypłacić 0,27 zł dywidendy na akcję",
+      "content_html": "Zarząd ATM Grupa zarekomenduje zwyczajnemu walnemu zgromadzeniu wypłatę dywidendy w wysokości 0,27 zł na jedną akcję - podała spółka w komunikacie.",
+      "date_published": "2026-03-27T10:36:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Olej-napedowy-najdrozszy-w-historii-Jest-gorzej-niz-w-2022-9105347.html",
       "url": "https://www.bankier.pl/wiadomosc/Olej-napedowy-najdrozszy-w-historii-Jest-gorzej-niz-w-2022-9105347.html",
       "title": "Olej napędowy najdroższy w historii. Jest gorzej niż w 2022",
@@ -646,48 +702,6 @@
       "title": "Izraelska armia u progu załamania? Generałowie alarmują: Brakuje 15 tysięcy żołnierzy",
       "content_html": "Rzecznik armii Izraela, gen. Efi Defrin, oświadczył w czwartek, że wojsku brakuje ok. 15 tys. żołnierzy – podał portal Ynet. Dzień wcześniej szef sztabu, gen. Ejal Zamir, ostrzegł gabinet bezpieczeństwa, że armia może nie sprostać rosnącym...",
       "date_published": "2026-03-27T07:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spotkanie-Trumpa-z-Lukaszenka-nie-jest-niemozliwe-Pakt-za-wiezniow-9105159.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spotkanie-Trumpa-z-Lukaszenka-nie-jest-niemozliwe-Pakt-za-wiezniow-9105159.html",
-      "title": "Spotkanie Trumpa z Łukaszenką nie jest \"niemożliwe\". Pakt za więźniów?",
-      "content_html": "Nie ma w tej chwili planów spotkania prezydenta Trumpa z Alaksandrem Łukaszenką - powiedział PAP wysoki rangą urzędnik administracji USA. Zasugerował jednak, że jest to możliwe, jeśli Białoruś poczyni dalsze postępy w kwestii uwalniania więźniów...",
-      "date_published": "2026-03-27T07:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Projekt-BLOCK-PUTIN-w-Senacie-USA-chca-ukarac-Wegry-za-blokowanie-pomocy-Ukrainie-9105152.html",
-      "url": "https://www.bankier.pl/wiadomosc/Projekt-BLOCK-PUTIN-w-Senacie-USA-chca-ukarac-Wegry-za-blokowanie-pomocy-Ukrainie-9105152.html",
-      "title": "Projekt BLOCK PUTIN w Senacie. USA chcą ukarać Węgry za blokowanie pomocy Ukrainie",
-      "content_html": "Demokratka Jeanne Shaheen i Republikanin Thom Tillis złożyli w czwartek w Senacie projekt sankcji przeciwko przedstawicielom węgierskiego rządu za wstrzymywanie pomocy UE i NATO dla Ukrainy i kupowanie rosyjskiej ropy naftowej. Politycy potępili...",
-      "date_published": "2026-03-27T07:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-buduje-obrone-cywilna-od-zera-Brakuje-specjalistow-a-procedury-trwaja-tygodniami-9105199.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-buduje-obrone-cywilna-od-zera-Brakuje-specjalistow-a-procedury-trwaja-tygodniami-9105199.html",
-      "title": "Polska buduje obronę cywilną od zera. Brakuje specjalistów, a procedury trwają tygodniami",
-      "content_html": "Nowości związane z ochroną ludności i obroną cywilną są dla samorządów dużym wyzwaniem - ocenili eksperci i samorządowcy na odbywających się w Lubinie Targach Obrony Cywilnej. Jak z kolei przyznali producenci wyrobów niezbędnych w czasie...",
-      "date_published": "2026-03-27T07:31:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rolnicy-i-konsumenci-w-potrzasku-Blokada-ciesniny-Ormuz-zaglodzi-swiat-9105183.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rolnicy-i-konsumenci-w-potrzasku-Blokada-ciesniny-Ormuz-zaglodzi-swiat-9105183.html",
-      "title": "Rolnicy i konsumenci w potrzasku. Blokada cieśniny Ormuz zagłodzi świat?",
-      "content_html": "Nasilający się konflikt w Zatoce Perskiej powoduje gwałtowne zakłócenia w globalnym handlu i zagraża bezpieczeństwu żywnościowemu – ostrzegł główny ekonomista FAO Máximo Torero. Podkreślił pilną potrzebę rozwiązania kryzysu, który...",
-      "date_published": "2026-03-27T07:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-ryczalcie-sie-pogorszy-MF-chce-skonczyc-z-optymalizacja-9105175.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-ryczalcie-sie-pogorszy-MF-chce-skonczyc-z-optymalizacja-9105175.html",
-      "title": "Na ryczałcie się pogorszy. MF chce skończyć z optymalizacją",
-      "content_html": "Przedsiębiorcy, którzy są na niskiej stawce ryczałtu i mają wysokie przychody, zapłacą fiskusowi większy podatek. Podobnie jak wynajmujący majątek rodzinie czy spółce, w której są udziałowcami - informuje piątkowa „Rzeczpospolita\".",
-      "date_published": "2026-03-27T07:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mocny-apel-w-Dallas-Morawiecki-Walczmy-z-tymi-ktorzy-chca-wypchnac-Ameryke-z-Europy-9105150.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mocny-apel-w-Dallas-Morawiecki-Walczmy-z-tymi-ktorzy-chca-wypchnac-Ameryke-z-Europy-9105150.html",
-      "title": "Mocny apel w Dallas. Morawiecki: Walczmy z tymi, którzy chcą wypchnąć Amerykę z Europy",
-      "content_html": "Powinniśmy walczyć z tymi, którzy chcą wypchnąć USA z Europy – zaapelował w czwartek na konferencji konserwatystów CPAC w Teksasie były premier Mateusz Morawiecki. Zaznaczył, że Amerykanów i Europejczyków łączą wspólne interesy.",
-      "date_published": "2026-03-27T07:24:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
