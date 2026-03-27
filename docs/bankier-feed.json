@@ -4,6 +4,62 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Olej-napedowy-najdrozszy-w-historii-Jest-gorzej-niz-w-2022-9105347.html",
+      "url": "https://www.bankier.pl/wiadomosc/Olej-napedowy-najdrozszy-w-historii-Jest-gorzej-niz-w-2022-9105347.html",
+      "title": "Olej napędowy najdroższy w historii. Jest gorzej niż w 2022",
+      "content_html": "Ceny oleju napędowego na polskich stacjach właśnie osiągnęły najwyższy poziom w historii, zbliżając się do 9 zł/l. Benzynę już trudno był zatankować za mniej niż 7 zł/l.",
+      "date_published": "2026-03-27T10:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowele-zwiekszajaca-liczbe-mozliwych-podejsc-do-egzaminu-sedziowskiego-i-prokuratorskiego-9105293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowele-zwiekszajaca-liczbe-mozliwych-podejsc-do-egzaminu-sedziowskiego-i-prokuratorskiego-9105293.html",
+      "title": "Prezydent podpisał nowelę zwiększającą liczbę możliwych podejść do egzaminu sędziowskiego i prokuratorskiego",
+      "content_html": "Prezydent Karol Nawrocki podpisał nowelizację ustawy o Krajowej Szkole Sądownictwa i Prokuratury, która zwiększa z dwóch do trzech liczbę możliwych podejść do egzaminu sędziowskiego lub prokuratorskiego.",
+      "date_published": "2026-03-27T10:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oligarchowie-sypna-rublem-do-budzetu-na-wojne-z-Ukraina-Putin-i-tajne-spotkanie-9105303.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oligarchowie-sypna-rublem-do-budzetu-na-wojne-z-Ukraina-Putin-i-tajne-spotkanie-9105303.html",
+      "title": "Oligarchowie sypną rublem na wojnę z Ukrainą? Putin i tajne spotkanie",
+      "content_html": "Rosyjski przywódca Władimir Putin zwrócił się do oligarchów o wpłaty do budżetu; pieniądze te miałyby ustabilizować stan finansów kraju w związku z trwającą inwazją na Ukrainę – poinformowała w piątek agencja Reutera. Jak przekazano...",
+      "date_published": "2026-03-27T10:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wlochy-nagle-zamilkly-Wielki-strajk-dziennikarzy-Agencje-nie-nadaja-depesz-portale-stoja-9105332.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wlochy-nagle-zamilkly-Wielki-strajk-dziennikarzy-Agencje-nie-nadaja-depesz-portale-stoja-9105332.html",
+      "title": "Włochy nagle zamilkły. Wielki strajk dziennikarzy. Agencje nie nadają depesz, portale stoją",
+      "content_html": "Piątek jest we Włoszech dniem całodobowego strajku dziennikarzy, którzy domagają się odnowienia układu zbiorowego. Umowa ta wygasła dziesięć lat temu. Akcja protestacyjna została ogłoszona przez Narodową Federację Włoskiej Prasy (FNSI)...",
+      "date_published": "2026-03-27T10:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/RN-Torpolu-oddelegowala-Konrada-Miterskiego-do-wykonywania-czynnosci-prezesa-9105338.html",
+      "url": "https://www.bankier.pl/wiadomosc/RN-Torpolu-oddelegowala-Konrada-Miterskiego-do-wykonywania-czynnosci-prezesa-9105338.html",
+      "title": "RN Torpolu oddelegowała Konrada Miterskiego do wykonywania czynności prezesa",
+      "content_html": "Rada nadzorcza Torpolu postanowiła o oddelegowaniu Konrada Miterskiego, członka rady nadzorczej spółki, do wykonywania czynności prezesa od 1 kwietnia 2026 r. do 30 czerwca 2026 r. - podała spółka w komunikacie.",
+      "date_published": "2026-03-27T10:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prywatne-miliony-na-francuskie-pociski-Paryz-tworzy-France-Munition-by-ominac-brak-gotowki-9105304.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prywatne-miliony-na-francuskie-pociski-Paryz-tworzy-France-Munition-by-ominac-brak-gotowki-9105304.html",
+      "title": "Prywatne miliony na francuskie pociski. Paryż tworzy „France Munition”, by ominąć brak gotówki",
+      "content_html": "Dziennik „Le Monde” podał w piątek, że według rządu Francji podmioty prywatne są zainteresowane modelem współinwestowania w firmie France Munition. Rząd planuje utworzyć taki podmiot, by umożliwić szybsze i większe zamówienia amunicji...",
+      "date_published": "2026-03-27T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Santander-komentuje-CPN-Rzadowa-pomoc-moze-cofnac-wiekszosc-marcowego-wzrostu-cen-paliw-9105310.html",
+      "url": "https://www.bankier.pl/wiadomosc/Santander-komentuje-CPN-Rzadowa-pomoc-moze-cofnac-wiekszosc-marcowego-wzrostu-cen-paliw-9105310.html",
+      "title": "Santander komentuje CPN. \"Rządowa pomoc może cofnąć większość marcowego wzrostu cen paliw\"",
+      "content_html": "Wzrost cen paliw na stacjach w marcu wyniesie średnio ok. 15 proc., a wprowadzenie rządowych propozycji może cofnąć większość tego wzrostu – wskazali w piątek ekonomiści Santander Bank Polska w komentarzu do najnowszych decyzji rządu ws...",
+      "date_published": "2026-03-27T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CPN-czy-zabraknie-paliw-Niebezpieczny-element-rzadowej-interwencji-9105312.html",
+      "url": "https://www.bankier.pl/wiadomosc/CPN-czy-zabraknie-paliw-Niebezpieczny-element-rzadowej-interwencji-9105312.html",
+      "title": "CPN – czy zabraknie paliw? Niebezpieczny element rządowej interwencji",
+      "content_html": "Nie sądziłem, że kiedykolwiek będę pisał o CPN-ach. Dla tych, którzy je pamiętają, były one synonimem braków paliwa i racjonowania benzyny po odstaniu w długiej kolejce",
+      "date_published": "2026-03-27T09:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-rekomendacje-dla-Enei-i-PGE-do-kupuj-nadal-rekomenduje-trzymaj-Tauron-9105328.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-rekomendacje-dla-Enei-i-PGE-do-kupuj-nadal-rekomenduje-trzymaj-Tauron-9105328.html",
       "title": "DM BOŚ podniósł rekomendacje dla Enei i PGE do \"kupuj\", nadal rekomenduje \"trzymaj\" Tauron",
@@ -58,13 +114,6 @@
       "title": "Kurs akcji Scanway w debiucie na rynku głównym GPW wzrósł o 2,1 proc. do 340 zł",
       "content_html": "Kurs akcji Scanway na otwarciu w pierwszym dniu notowań na rynku głównym GPW wzrósł o 2,10 proc. do 340 zł. Spółka była dotychczas notowana na NewConnect.",
       "date_published": "2026-03-27T09:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowele-zwiekszajaca-liczbe-mozliwych-podejsc-do-egzaminu-sedziowskiego-i-prokuratorskiego-9105293.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowele-zwiekszajaca-liczbe-mozliwych-podejsc-do-egzaminu-sedziowskiego-i-prokuratorskiego-9105293.html",
-      "title": "Prezydent podpisał nowelę zwiększającą liczbę możliwych podejść do egzaminu sędziowskiego i prokuratorskiego",
-      "content_html": "Prezydent Karol Nawrocki podpisał nowelizację ustawy o Krajowej Szkole Sądownictwa i Prokuratury, która zwiększa z dwóch do trzech liczbę możliwych podejść do egzaminu sędziowskiego lub prokuratorskiego.",
-      "date_published": "2026-03-27T09:04:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/BIEC-obecne-warunki-zwiekszaja-niepewnosc-i-ryzyko-wyzszej-inflacji-9105290.html",
@@ -144,6 +193,27 @@
       "date_published": "2026-03-27T08:18:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-rozwaza-wyslanie-na-Bliski-Wschod-10-tys-dodatkowych-zolnierzy-9105258.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-rozwaza-wyslanie-na-Bliski-Wschod-10-tys-dodatkowych-zolnierzy-9105258.html",
+      "title": "Trump rozważa wysłanie na Bliski Wschód 10 tys. dodatkowych żołnierzy",
+      "content_html": "Prezydent USA Donald Trump rozważa wysłanie na Bliski Wschód dodatkowych 10 tys. żołnierzy, co pozwoliłoby na rozszerzenie opcji militarnych wobec Iranu - przekazał dziennik „Wall Street Journal”, Rozmieszczenie tych sił wskazywałoby na większe...",
+      "date_published": "2026-03-27T08:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-mitu-o-pijanym-polskim-kierowcy-Nowe-dane-ITS-zaskakuja-Europe-9105186.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-mitu-o-pijanym-polskim-kierowcy-Nowe-dane-ITS-zaskakuja-Europe-9105186.html",
+      "title": "Koniec mitu o pijanym polskim kierowcy? Nowe dane ITS zaskakują Europę",
+      "content_html": "Jesteśmy unijnym liderem pod względem trzeźwości za kierownicą, ale wyniki dotyczące prędkości w miastach stawiają nas w niekorzystnym świetle - oceniła Dagmara Jankowska-Karpa z Centrum Bezpieczeństwa Ruchu Drogowego ITS, odnosząc się do...",
+      "date_published": "2026-03-27T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZEA-chca-dolaczyc-do-miedzynarodowej-grupy-zadaniowej-by-odblokowac-ciesnine-Ormuz-9105253.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZEA-chca-dolaczyc-do-miedzynarodowej-grupy-zadaniowej-by-odblokowac-ciesnine-Ormuz-9105253.html",
+      "title": "ZEA chcą dołączyć do międzynarodowej grupy zadaniowej, by odblokować cieśninę Ormuz",
+      "content_html": "Zjednoczone Emiraty Arabskie chcą dołączyć do międzynarodowej grupy zadaniowej, której celem byłoby odblokowanie cieśniny Ormuz - poinformował w piątek „Financial Times”. Żegluga przez tę cieśninę, którą do światowych importerów...",
+      "date_published": "2026-03-27T07:58:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Operacja-Reaper-Amerykanskie-drony-MQ-9-w-drodze-by-uderzyc-w-Iran-9105174.html",
       "url": "https://www.bankier.pl/wiadomosc/Operacja-Reaper-Amerykanskie-drony-MQ-9-w-drodze-by-uderzyc-w-Iran-9105174.html",
       "title": "Operacja Reaper. Amerykańskie drony MQ-9 w drodze, by uderzyć w Iran",
@@ -198,20 +268,6 @@
       "title": "Na ryczałcie się pogorszy. MF chce skończyć z optymalizacją",
       "content_html": "Przedsiębiorcy, którzy są na niskiej stawce ryczałtu i mają wysokie przychody, zapłacą fiskusowi większy podatek. Podobnie jak wynajmujący majątek rodzinie czy spółce, w której są udziałowcami - informuje piątkowa „Rzeczpospolita\".",
       "date_published": "2026-03-27T07:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mocny-apel-w-Dallas-Morawiecki-Walczmy-z-tymi-ktorzy-chca-wypchnac-Ameryke-z-Europy-9105150.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mocny-apel-w-Dallas-Morawiecki-Walczmy-z-tymi-ktorzy-chca-wypchnac-Ameryke-z-Europy-9105150.html",
-      "title": "Mocny apel w Dallas. Morawiecki: Walczmy z tymi, którzy chcą wypchnąć Amerykę z Europy",
-      "content_html": "Powinniśmy walczyć z tymi, którzy chcą wypchnąć USA z Europy – zaapelował w czwartek na konferencji konserwatystów CPAC w Teksasie były premier Mateusz Morawiecki. Zaznaczył, że Amerykanów i Europejczyków łączą wspólne interesy.",
-      "date_published": "2026-03-27T07:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-starzeje-sie-na-potege-A-opiekunowie-zawodem-deficytowym-9105176.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-starzeje-sie-na-potege-A-opiekunowie-zawodem-deficytowym-9105176.html",
-      "title": "Polska starzeje się na potęgę. A opiekunowie zawodem deficytowym",
-      "content_html": "Opiekunów osób starszych lub niepełnosprawnych będzie w tym roku brakować w 202 spośród 380 powiatów, w tym w 11 miastach wojewódzkich - czytamy w piątkowym wydaniu „Rzeczpospolitej\".",
-      "date_published": "2026-03-27T07:20:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Konsumenci-nie-szastaja-groszem-Ale-zurek-jajka-i-kielbasa-musza-byc-9105177.html",
@@ -618,69 +674,6 @@
       "title": "Kryzys na Bliskim Wschodzie. Kanada wzywa do deeskalacji",
       "content_html": "Ministra spraw zagranicznych Kanady Anita Anand oceniła w czwartek, że kraje G7 powinny wspólnie wesprzeć deeskalację na Bliskim Wschodzie. Anand mówiła o tym w wywiadzie dla agencji AFP przed rozpoczęciem spotkania ministrów spraw zagranicznych...",
       "date_published": "2026-03-26T15:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Minister-zdrowia-do-dymisji-Premier-Tusk-zabral-glos-9104827.html",
-      "url": "https://www.bankier.pl/wiadomosc/Minister-zdrowia-do-dymisji-Premier-Tusk-zabral-glos-9104827.html",
-      "title": "Minister zdrowia do dymisji? Premier Tusk zabrał głos",
-      "content_html": "- Nie przewiduję dymisji minister zdrowia - powiedział w czwartek premier Donald Tusk, zapytany o krytykę pod adresem szefowej MZ Jolanty Sobierańskiej-Grendy. Ma ona związek z zapowiedzią NFZ przywrócenia limitów w diagnostyce i ambulatoryjnej...",
-      "date_published": "2026-03-26T15:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-Merza-bierze-sie-za-paliwa-Oto-nowy-plan-walki-z-drozyzna-i-marzami-gigantow-9104825.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-Merza-bierze-sie-za-paliwa-Oto-nowy-plan-walki-z-drozyzna-i-marzami-gigantow-9104825.html",
-      "title": "Rząd Merza bierze się za paliwa. Oto nowy plan walki z drożyzną i marżami gigantów",
-      "content_html": "Niemiecki Bundestag przegłosował w czwartek projekt ustawy mający na celu ograniczenie wzrostu cen paliw. Jego głównym założeniem jest wprowadzenie zasady, zgodnie z którą stacje benzynowe będą mogły podnosić ceny tylko raz dziennie.",
-      "date_published": "2026-03-26T15:43:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-Orlenu-spada-o-5-7-proc-po-informacji-o-planach-wprowadzenia-podatku-dla-koncernow-paliwowych-9104735.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-Orlenu-spada-o-5-7-proc-po-informacji-o-planach-wprowadzenia-podatku-dla-koncernow-paliwowych-9104735.html",
-      "title": "Notowania Orlenu spadają. Premier Tusk zapowiada windfall tax",
-      "content_html": "Kurs akcji Orlenu spadał o ponad 6 proc. po informacji o planach rządu wprowadzenia podatku od nadmiarowych zysków koncernów paliwowych. Obroty na akcjach spółki szybko rosną. Obecnie widać skromne odbicie kursu naftowego giganta.",
-      "date_published": "2026-03-26T15:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paramount-przejmie-Warner-Bros-Discovery-Znamy-date-glosowania-akcjonariuszy-9104820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paramount-przejmie-Warner-Bros-Discovery-Znamy-date-glosowania-akcjonariuszy-9104820.html",
-      "title": "Paramount przejmie Warner Bros. Discovery? Znamy datę głosowania akcjonariuszy",
-      "content_html": "Warner Bros. Discovery ogłosił w czwartek, że specjalne zgromadzenie akcjonariuszy w sprawie przejęcia firmy przez Paramount Skydance odbędzie się 23 kwietnia. Wtedy też dojdzie do głosowania posiadaczy akcji koncernu w tej sprawie.",
-      "date_published": "2026-03-26T15:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-Bank-Hipoteczny-rusza-z-druga-emisja-hipotecznych-listow-zastawnych-dla-detalu-9104802.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-Bank-Hipoteczny-rusza-z-druga-emisja-hipotecznych-listow-zastawnych-dla-detalu-9104802.html",
-      "title": "PKO Bank Hipoteczny rusza z drugą emisją hipotecznych listów zastawnych dla detalu",
-      "content_html": "PKO Bank Hipoteczny rusza z drugą emisją hipotecznych listów zastawnych dla inwestorów detalicznych - podał bank w komunikacie prasowym. PKO Bank Hipoteczny planuje pozyskać od 500 mln zł do 1 mld zł, które przeznaczy na finansowanie kredytów...",
-      "date_published": "2026-03-26T15:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/CherryPick-Games-podjal-decyzje-o-zlozeniu-wniosku-o-ogloszenie-upadlosci-9104803.html",
-      "url": "https://www.bankier.pl/wiadomosc/CherryPick-Games-podjal-decyzje-o-zlozeniu-wniosku-o-ogloszenie-upadlosci-9104803.html",
-      "title": "CherryPick Games podjął decyzję o złożeniu wniosku o ogłoszenie upadłości",
-      "content_html": "Cherrypick Games podjął decyzję o złożeniu wniosku o ogłoszenie upadłości spółki - poinformował CherryPick w komunikacie. Przyczyną podjęcia tej decyzji jest utrata zdolności do terminowego regulowania wymagalnych zobowiązań pieniężnych...",
-      "date_published": "2026-03-26T15:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niemcy-ostro-o-wojnie-USA-To-katastrofa-dla-swiatowych-gospodarek-9104801.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemcy-ostro-o-wojnie-USA-To-katastrofa-dla-swiatowych-gospodarek-9104801.html",
-      "title": "Niemcy ostro o wojnie USA. \"To katastrofa dla światowych gospodarek\"",
-      "content_html": "Niemcy byłyby gotowe „zabezpieczać pokój” po ewentualnym zawieszeniu broni w wojnie Izraela i USA z Iranem — powiedział w czwartek niemiecki minister obrony Boris Pistorius. Skrytykował przy tym Stany Zjednoczone za „brak strategii”.",
-      "date_published": "2026-03-26T15:19:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AB-wyplaci-6-45-zl-dywidendy-na-akcje-za-rok-obrotowy-2024-2025-9104773.html",
-      "url": "https://www.bankier.pl/wiadomosc/AB-wyplaci-6-45-zl-dywidendy-na-akcje-za-rok-obrotowy-2024-2025-9104773.html",
-      "title": "AB wypłaci 6,45 zł dywidendy na akcję za rok obrotowy 2024/2025",
-      "content_html": "AB wypłaci 104,4 mln zł dywidendy z zysku netto za rok obrotowy 2024/2025, co daje 6,45 zł na jedną akcję - podała spółka w komunikacie.",
-      "date_published": "2026-03-26T15:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Premier-Sedziowie-TK-tak-czy-inaczej-zloza-przysiege-9104764.html",
-      "url": "https://www.bankier.pl/wiadomosc/Premier-Sedziowie-TK-tak-czy-inaczej-zloza-przysiege-9104764.html",
-      "title": "Premier: Sędziowie TK tak czy inaczej złożą przysięgę",
-      "content_html": "Premier Donald Tusk stwierdził, że wybrani sędziowie Trybunału Konstytucyjnego „tak czy inaczej” złożą ślubowanie i będą sędziami. Jeśli prezydent nie będzie chciał być przy tym obecny, nic na to nie poradzę - podkreślił szef rządu...",
-      "date_published": "2026-03-26T14:58:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
