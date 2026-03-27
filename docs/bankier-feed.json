@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sonel-planuje-w-27-r-20-mln-zl-zysku-netto-i-17-proc-ROE-9105628.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sonel-planuje-w-27-r-20-mln-zl-zysku-netto-i-17-proc-ROE-9105628.html",
+      "title": "Sonel planuje w '27 r. 20 mln zł zysku netto i 17 proc. ROE",
+      "content_html": "Sonel planuje, że w 2027 roku zysk netto wyniesie 20 mln zł, utrzyma wskaźnik ROE na poziomie 17 proc., a przychody ze sprzedaży w grupie w segmencie miernikowym i usług montażu będą nie niższe niż 200 mln zł - poinformowała spółka w strategii...",
+      "date_published": "2026-03-27T15:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dino-widzi-od-poczatku-roku-efekt-deflacji-9105585.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-widzi-od-poczatku-roku-efekt-deflacji-9105585.html",
+      "title": "Dino widzi od początku roku efekt deflacji. Spółka chce poprawiać marże",
+      "content_html": "Dino widzi od początku roku efekt deflacji - poinformował Michał Krauze, członek zarządu i dyrektor finansowy Dino. Spółka chce poprawiać marże.",
+      "date_published": "2026-03-27T15:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Paliwa-winduja-inflacje-Santander-W-marcu-CPI-przyspiesza-do-3-1-proc-9105618.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paliwa-winduja-inflacje-Santander-W-marcu-CPI-przyspiesza-do-3-1-proc-9105618.html",
+      "title": "Paliwa windują inflację. Santander: W marcu CPI przyspiesza do 3,1 proc.",
+      "content_html": "Inflacja w marcu wzrosła do 3,1 proc. z 2,1 proc. w lutym – szacują analitycy Santander Bank Polska. Głównym powodem wzrostu inflacji, według ekonomistów banku, jest wzrost krajowych cen paliw o ok. 18 proc. w stosunku do lutego, wynikający z...",
+      "date_published": "2026-03-27T15:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bruksela-ugina-sie-pod-presja-Komisja-szykuje-pilne-zmiany-w-systemie-ETS-9105605.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bruksela-ugina-sie-pod-presja-Komisja-szykuje-pilne-zmiany-w-systemie-ETS-9105605.html",
+      "title": "Bruksela ugina się pod presją. Komisja szykuje pilne zmiany w systemie ETS",
+      "content_html": "Komisja Europejska w przyszłym tygodniu wyjdzie z propozycją zmian w systemie handlu emisjami ETS, do których wprowadzenia wezwali przywódcy na szczycie w Brukseli - dowiedziała się PAP od źródeł unijnych. Chodzi o dostępność darmowych uprawnień...",
+      "date_published": "2026-03-27T15:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-gotowy-na-CPN-Koncern-dostosuje-sie-do-nowych-podatkow-i-limitow-9105602.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-gotowy-na-CPN-Koncern-dostosuje-sie-do-nowych-podatkow-i-limitow-9105602.html",
+      "title": "Orlen gotowy na \"CPN\". Koncern dostosuje się do nowych podatków i limitów",
+      "content_html": "Orlen dostosuje prowadzoną działalność do regulacji dotyczących paliw wraz z wejściem ich w życie, w tym przepisów dotyczących akcyzy, VAT i cen maksymalnych - poinformował koncern, proszony przez PAP o komentarz w sprawie rządowego pakietu...",
+      "date_published": "2026-03-27T15:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zostal-juz-tylko-prezydent-Senat-przyjal-bez-poprawek-pakiet-ustaw-CPN-obnizajacych-VAT-i-akcyze-na-paliwa-9105598.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zostal-juz-tylko-prezydent-Senat-przyjal-bez-poprawek-pakiet-ustaw-CPN-obnizajacych-VAT-i-akcyze-na-paliwa-9105598.html",
+      "title": "Został już tylko prezydent. Senat przyjął bez poprawek pakiet ustaw \"CPN\"",
+      "content_html": "Senat przyjął w piątek bez poprawek nowelizację ustawy o akcyzie oraz nowelizację ustawy o zapasach ropy naftowej, które umożliwiają obniżenie cen paliw na stacjach. Ustawy trafią teraz do prezydenta do podpisu.",
+      "date_published": "2026-03-27T15:03:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Energa-Operator-pozyskala-ok-470-mln-zl-z-KPO-na-rozwoj-infrastruktury-elektroenergetycznej-9105523.html",
       "url": "https://www.bankier.pl/wiadomosc/Energa-Operator-pozyskala-ok-470-mln-zl-z-KPO-na-rozwoj-infrastruktury-elektroenergetycznej-9105523.html",
       "title": "Energa Operator pozyskała ok. 470 mln zł z KPO na rozwój infrastruktury elektroenergetycznej",
@@ -11,11 +53,18 @@
       "date_published": "2026-03-27T14:49:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dino-widzi-od-poczatku-roku-efekt-deflacji-9105585.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dino-widzi-od-poczatku-roku-efekt-deflacji-9105585.html",
-      "title": "Dino widzi od początku roku efekt deflacji. Spółka chce poprawiać marże",
-      "content_html": "Dino widzi od początku roku efekt deflacji - poinformował Michał Krauze, członek zarządu i dyrektor finansowy Dino. Spółka chce poprawiać marże.",
-      "date_published": "2026-03-27T14:42:00+01:00"
+      "id": "https://www.bankier.pl/wiadomosc/Biurokracja-opoznia-SAFE-Umowa-na-unijne-miliardy-dopiero-w-kwietniu-9105591.html",
+      "url": "https://www.bankier.pl/wiadomosc/Biurokracja-opoznia-SAFE-Umowa-na-unijne-miliardy-dopiero-w-kwietniu-9105591.html",
+      "title": "Biurokracja opóźnia SAFE. Umowa na unijne miliardy dopiero w kwietniu",
+      "content_html": "Wbrew zapowiedziom nie uda się podpisać do końca marca umowy pożyczkowej z Polską w ramach instrumentu pożyczkowego na rzecz obronności SAFE. Rzecznik Komisji Europejskiej Thomas Regnier powiedział PAP w piątek, że do podpisania porozumienia...",
+      "date_published": "2026-03-27T14:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-robi-wyjatek-dla-Hiszpanii-Madryt-zyska-dostep-do-zablokowanej-Ciesniny-Ormuz-9105588.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-robi-wyjatek-dla-Hiszpanii-Madryt-zyska-dostep-do-zablokowanej-Ciesniny-Ormuz-9105588.html",
+      "title": "Iran robi wyjątek dla Hiszpanii. Madryt zyska dostęp do zablokowanej Cieśniny Ormuz",
+      "content_html": "Iran jest otwarty na wszelkie prośby ze strony rządu Hiszpanii, dotyczące przepływu statków przez blokowaną od prawie miesiąca cieśninę Ormuz – oświadczyła w piątek irańska ambasada w Madrycie.",
+      "date_published": "2026-03-27T14:44:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-SCT-w-Krakowie-Wojewoda-domaga-sie-calkowitego-uchylenia-uchwaly-9105419.html",
@@ -30,6 +79,13 @@
       "title": "\"CPN\" utopi budżet w ropie? Domański: Koszty są do udźwignięcia",
       "content_html": "Koszty zaproponowanych przez rząd rozwiązań dotyczących cen paliw są do udźwignięcia dla budżetu; z punktu widzenia resortu finansów ważne są też nastroje konsumentów - ocenił minister finansów i gospodarki, Andrzej Domański, podczas konferencji...",
       "date_published": "2026-03-27T14:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czy-i-ile-zlota-kupic-na-przecenie-W-Bankier-Weekly-Dino-Orlen-KGHM-i-zlotio-9105562.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-i-ile-zlota-kupic-na-przecenie-W-Bankier-Weekly-Dino-Orlen-KGHM-i-zlotio-9105562.html",
+      "title": "Czy i ile złota kupić na przecenie? W Bankier Weekly: Dino, Orlen, KGHM i złoto",
+      "content_html": "W najnowszym odcinku „Bankier Weekly” rozmawiamy z Michałem Krajczewskim szefem zespołu doradztwa inwestycyjnego w biurze maklerskim BNP Paribas. Wśród poruszonych tematów znalazły się przede wszystkim giełdowe wydarzania tygodnia jak powrót...",
+      "date_published": "2026-03-27T14:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Neuca-oczekuje-w-26-poprawy-rentownosci-segmentu-badan-klinicznych-i-finalizacji-akwizycji-9105553.html",
@@ -417,6 +473,13 @@
       "date_published": "2026-03-27T09:37:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nadchodzi-rewolucja-w-egzaminach-na-prawo-jazdy-Koniec-z-placem-manewrowym-9105313.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nadchodzi-rewolucja-w-egzaminach-na-prawo-jazdy-Koniec-z-placem-manewrowym-9105313.html",
+      "title": "Nadchodzi rewolucja w egzaminach na prawo jazdy. Koniec z placem manewrowym",
+      "content_html": "Przygotowujemy ustawę, która zreformuje system egzaminowania kierowców - zapowiedział w piątek minister infrastruktury Dariusz Klimczak. Zmiany mają być głębokie, a jedną z nich będzie rezygnacja z egzaminu na placu manewrowym.",
+      "date_published": "2026-03-27T09:34:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zarzad-Dom-Development-rekomenduje-wyplate-lacznie-14-zl-dywidendy-na-akcje-za-2025-rok-9099453.html",
       "url": "https://www.bankier.pl/wiadomosc/Zarzad-Dom-Development-rekomenduje-wyplate-lacznie-14-zl-dywidendy-na-akcje-za-2025-rok-9099453.html",
       "title": "Zarząd Dom Development rekomenduje wypłatę łącznie 14 zł dywidendy na akcję za 2025 rok",
@@ -639,62 +702,6 @@
       "title": "Rosja pomaga Iranowi? Rubio: Skupiona jest raczej na Ukrainie",
       "content_html": "Rosja skupiona jest przede wszystkim na wojnie, którą prowadzi - powiedział w czwartek sekretarz stanu USA Marco Rubio, pytany o doniesienia na temat rosyjskiego wsparcia dla Iranu. Szef amerykańskiej dyplomacji mówił też o postępach w rozmowach...",
       "date_published": "2026-03-27T07:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Firmy-obcokrajowcow-zalewaja-Polske-Liderem-Ukraincy-Niemcy-daleko-w-tyle-9105178.html",
-      "url": "https://www.bankier.pl/wiadomosc/Firmy-obcokrajowcow-zalewaja-Polske-Liderem-Ukraincy-Niemcy-daleko-w-tyle-9105178.html",
-      "title": "Firmy obcokrajowców zalewają Polskę. Zaskakujące trzecie miejsce na podium",
-      "content_html": "W 2025 roku obcokrajowcy założyli w Polsce 10,5 tys. firm. To trzeci wynik w historii. Najwięcej utworzyli ich Ukraińcy, Białorusini, Chińczycy i Niemcy - informuje piątkowy „Puls Biznesu\".",
-      "date_published": "2026-03-27T07:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nicolas-Maduro-znow-przed-sadem-na-Manhattanie-Grozi-mu-dozywocie-za-narkoterroryzm-9104951.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nicolas-Maduro-znow-przed-sadem-na-Manhattanie-Grozi-mu-dozywocie-za-narkoterroryzm-9104951.html",
-      "title": "Nicolas Maduro znów przed sądem na Manhattanie. Grozi mu dożywocie za \"narkoterroryzm\"",
-      "content_html": "Nicolas Maduro, pozbawiony w styczniu władzy w wyniku amerykańskiej interwencji zbrojnej prezydent Wenezueli, ponownie został doprowadzony w czwartek przed sąd federalny na Manhattanie. Jest oskarżony o narkoterroryzm i przemyt narkotyków do USA...",
-      "date_published": "2026-03-27T07:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-bezkarnosci-Temu-i-Shein-Przed-nami-historyczna-reforma-celna-9105143.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-bezkarnosci-Temu-i-Shein-Przed-nami-historyczna-reforma-celna-9105143.html",
-      "title": "Koniec bezkarności Temu i Shein? Przed nami historyczna reforma celna",
-      "content_html": "Państwa członkowskie w ramach Rady UE i Parlament Europejski osiągnęły w czwartek wieczorem w Brukseli porozumienie w sprawie przełomowej reformy unijnych przepisów celnych. Nowe regulacje mają dostosować system do rosnącego wolumenu handlu...",
-      "date_published": "2026-03-27T07:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinski-ryz-ratuje-Kube-Najwieksze-trudnosci-od-rewolucji-komunistycznej-9105179.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinski-ryz-ratuje-Kube-Najwieksze-trudnosci-od-rewolucji-komunistycznej-9105179.html",
-      "title": "Chiński ryż ratuje Kubę. Największe trudności od rewolucji komunistycznej",
-      "content_html": "Kuba odebrała ponad 15 tys. ton ryżu z Chin, przekazały w czwartek lokalne media, precyzując, że to druga dostawa z obiecanego w styczniu rządowi w Hawanie przez ChRL łącznego wolumenu 60 tys. ton tego zboża.",
-      "date_published": "2026-03-27T07:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tania-ropa-z-Rosji-to-za-malo-Indie-tna-specjalna-dodatkowa-akcyze-9105182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tania-ropa-z-Rosji-to-za-malo-Indie-tna-specjalna-dodatkowa-akcyze-9105182.html",
-      "title": "Tania ropa z Rosji to za mało. Indie tną specjalną dodatkową akcyzę",
-      "content_html": "Rząd Indii obniżył w piątek akcyzę na benzynę i olej napędowy o 10 rupii (0,11 USD) w odpowiedzi na kryzys wywołany wojną USA i Izraela z Iranem – informuje „The Economic Times”. Celem jest zahamowanie wzrostu cen paliw.",
-      "date_published": "2026-03-27T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-zmienia-zasady-pomocy-dla-Ukraincow-NGO-sy-alarmuja-Pacjenci-onkologiczni-i-matki-w-pulapce-9105201.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-zmienia-zasady-pomocy-dla-Ukraincow-NGO-sy-alarmuja-Pacjenci-onkologiczni-i-matki-w-pulapce-9105201.html",
-      "title": "Polska zmienia zasady pomocy dla Ukraińców. NGO-sy alarmują: Pacjenci onkologiczni i matki w pułapce",
-      "content_html": "Zmiany w przepisach o pomocy obywatelom Ukrainy uderzają w najsłabsze grupy: pacjentów w trakcie leczenia onkologicznego, rodziców małych dzieci oraz osoby niesamodzielne - powiedziała PAP prezeska Polskiego Forum Migracyjnego Agnieszka Kosowicz...",
-      "date_published": "2026-03-27T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paliwo-ma-byc-tansze-Rozpoczelo-sie-nadzwyczajne-posiedzenie-rzadu-ws-CPN-9104996.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paliwo-ma-byc-tansze-Rozpoczelo-sie-nadzwyczajne-posiedzenie-rzadu-ws-CPN-9104996.html",
-      "title": "Paliwo ma być tańsze. Nadzwyczajne posiedzenie rządu ws. CPN",
-      "content_html": "W czwartek o godz. 18 rozpoczęło się nadzwyczajne posiedzenie Rady Ministrów, na którym podjęte zostaną decyzje ws. obniżenia cen paliw. Rząd planuje obniżenie stawki VAT na paliwa z 23 proc. na 8 proc. oraz obniżenie akcyzy na paliwa do minimum...",
-      "date_published": "2026-03-27T06:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sejmowa-komisja-za-rzadowymi-projektami-ustaw-ws-cen-paliw-9105214.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sejmowa-komisja-za-rzadowymi-projektami-ustaw-ws-cen-paliw-9105214.html",
-      "title": "Sejmowa komisja za rządowymi projektami ustaw ws. cen paliw",
-      "content_html": "W czwartek wieczorem sejmowa komisja finansów publicznych poparła dwa rządowe projekty ustaw umożliwiających m.in. obniżenie akcyzy na paliwa za pomocą rozporządzenia oraz wprowadzenie maksymalnych cen paliw.",
-      "date_published": "2026-03-27T06:36:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
