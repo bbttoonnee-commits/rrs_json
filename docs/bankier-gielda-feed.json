@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cena-emisyjna-akcji-PolTREG-w-ABB-ustalona-na-15-zl-9105261.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cena-emisyjna-akcji-PolTREG-w-ABB-ustalona-na-15-zl-9105261.html",
+      "title": "Cena emisyjna akcji PolTREG w ABB ustalona na 15 zł W ramach procesu ABB inwestorzy złożyli deklarację objęcia 851.052 akcji nowej emisji oraz nabycia 401.956 akcji istniejących PolTREG - poinformowała spółka w komunikacie. Cena emisyjna akcji s. O została ustalona na 15 zł.",
+      "content_html": "",
+      "date_published": "2026-03-27T08:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Potrzebny-jest-program-hutnictwa-dla-obronnosci-JSW-moglaby-odegrac-kluczowa-role-prezes-ARP-9105233.html",
       "url": "https://www.bankier.pl/wiadomosc/Potrzebny-jest-program-hutnictwa-dla-obronnosci-JSW-moglaby-odegrac-kluczowa-role-prezes-ARP-9105233.html",
       "title": "Powstaje Polski Narodowy Program Hutnictwa. Miliardy na stal dla wojska i ratunek dla JSW Trwają analizy ws. utworzenia nowego programu polskiego hutnictwa na potrzeby przemysłu obronnego, który jednocześnie zabezpieczałby interesy ponad 30 tys. pracowników JSW - powiedział PAP prezes ARP Bartłomiej Babuśka. JSW jest głównym dostawcą surowca dla hut, ale wymaga restrukturyzacji.",
@@ -548,13 +555,6 @@
       "title": "Diagnostyka nabyła udziały w dwóch spółkach z segmentu diagnostyki obrazowej za łącznie 18,8 mln zł Diagnostyka przeprowadziła akwizycje w segmencie diagnostyki obrazowej - nabyła 75 proc. udziałów w spółce PP Diagnostyka oraz 61 proc. udziałów w spółce Skamed Rezonans - poinformowała Diagnostyka w komunikacie prasowym. Łączna wartość tych transakcji to 18,8 mln zł.",
       "content_html": "",
       "date_published": "2026-03-25T09:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Archicom-zaklada-w-26-sprzedaz-3-2-3-5-tys-mieszkan-oraz-wzrost-liczby-przekazan-rdr-9103811.html",
-      "url": "https://www.bankier.pl/wiadomosc/Archicom-zaklada-w-26-sprzedaz-3-2-3-5-tys-mieszkan-oraz-wzrost-liczby-przekazan-rdr-9103811.html",
-      "title": "Archicom celuje w rekord: do 3 500 mieszkań w 2026 roku. Spółka stawia na segment popularny Archicom w 2026 r. zakłada sprzedaż na poziomie od 3.200 do 3.500 mieszkań oraz wzrost liczby przekazań rok do roku - podała spółka w komunikacie. Archicom zakłada w kolejnych latach wzrost udziału segmentu popularnego w strukturze sprzedaży do ok. 50 proc.",
-      "content_html": "",
-      "date_published": "2026-03-25T08:32:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
