@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rosatom-wchodzi-do-Brazylii-po-strategiczne-surowce-Lula-robi-interesy-z-Putinem-9105755.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosatom-wchodzi-do-Brazylii-po-strategiczne-surowce-Lula-robi-interesy-z-Putinem-9105755.html",
+      "title": "Rosatom wchodzi do Brazylii po strategiczne surowce. „Lula robi interesy z Putinem”",
+      "content_html": "Grupa Uranium ONE, należąca do spółki TENEX, wchodzącej w skład rosyjskiej państwowej korporacji jądrowej Rosatom i brazylijska grupa NBEPAR zawarły umowę o utworzeniu spółki Nadina Minerals w celu wspólnej eksploatacji surowców strategicznych...",
+      "date_published": "2026-03-27T18:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iranskie-szpitale-w-gruzach-Czerwony-Polksiezyc-Ponad-1900-zabitych-i-20-tysiecy-rannych-9105754.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iranskie-szpitale-w-gruzach-Czerwony-Polksiezyc-Ponad-1900-zabitych-i-20-tysiecy-rannych-9105754.html",
+      "title": "Irańskie szpitale w gruzach. Czerwony Półksiężyc: Ponad 1900 zabitych i 20 tysięcy rannych",
+      "content_html": "Ponad 1900 osób zginęło, a co najmniej 20 tys. zostało rannych w Iranie w wyniku rozpoczętych 28 lutego ataków USA i Izraela na to państwo - poinformowała w piątek Międzynarodowa Federacja Stowarzyszeń Czerwonego Krzyża i Czerwonego Półksiężyca...",
+      "date_published": "2026-03-27T18:31:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Amica-szacuje-ze-w-25-zysk-brutto-grupy-wzrosl-do-41-9-mln-zl-9105730.html",
       "url": "https://www.bankier.pl/wiadomosc/Amica-szacuje-ze-w-25-zysk-brutto-grupy-wzrosl-do-41-9-mln-zl-9105730.html",
       "title": "Amica szacuje, że w '25 zysk brutto grupy wzrósł do 41,9 mln zł",
@@ -688,20 +702,6 @@
       "title": "Operacja Reaper. Amerykańskie drony MQ-9 w drodze, by uderzyć w Iran",
       "content_html": "Amerykańskie wojska zaatakują Iran dronami MQ-9 Reaper, które powinny dotrzeć niebawem na Bliski Wschód z należącej do Portugalii azorskiej wyspy Terceira, przekazała w czwartek lizbońska telewizja SIC.",
       "date_published": "2026-03-27T07:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polexit-po-wyborach-w-2027-roku-Nowy-sondaz-ujawnia-obawy-Polakow-9105192.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polexit-po-wyborach-w-2027-roku-Nowy-sondaz-ujawnia-obawy-Polakow-9105192.html",
-      "title": "Polexit po wyborach w 2027 roku? Nowy sondaż ujawnia obawy Polaków",
-      "content_html": "Blisko połowa Polaków uważa, że po wyborach w 2027 r. nie jest realny scenariusz opuszczenia przez Polskę Unii Europejskiej — wynika z najnowszego sondażu SW Research na zlecenie Onetu. Zaskoczeniem może być jednak spora grupa osób, która...",
-      "date_published": "2026-03-27T07:50:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izraelska-armia-u-progu-zalamania-Generalowie-alarmuja-Brakuje-15-tysiecy-zolnierzy-9105168.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izraelska-armia-u-progu-zalamania-Generalowie-alarmuja-Brakuje-15-tysiecy-zolnierzy-9105168.html",
-      "title": "Izraelska armia u progu załamania? Generałowie alarmują: Brakuje 15 tysięcy żołnierzy",
-      "content_html": "Rzecznik armii Izraela, gen. Efi Defrin, oświadczył w czwartek, że wojsku brakuje ok. 15 tys. żołnierzy – podał portal Ynet. Dzień wcześniej szef sztabu, gen. Ejal Zamir, ostrzegł gabinet bezpieczeństwa, że armia może nie sprostać rosnącym...",
-      "date_published": "2026-03-27T07:46:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
