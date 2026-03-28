@@ -4,11 +4,60 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/26-mld-dol-wystrzelone-w-16-dni-Izraelowi-i-USA-zostal-najwyzej-miesiac-9104360.html",
+      "url": "https://www.bankier.pl/wiadomosc/26-mld-dol-wystrzelone-w-16-dni-Izraelowi-i-USA-zostal-najwyzej-miesiac-9104360.html",
+      "title": "26 mld dol. „wystrzelone” w 16 dni. „Izraelowi i USA został najwyżej miesiąc”",
+      "content_html": "Izraelskie zasoby pocisków balistycznych Arrow są na wyczerpaniu. Również USA stoją w obliczu podobnego deficytu pocisków przechwytujących THAAD - wynika z najnowszej analizy brytyjskiego think tanku, Royal United Services Institute (RUSI).",
+      "date_published": "2026-03-28T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rezim-w-Iranie-jest-ledwo-zywy-Wyslannik-Trumpa-broni-wojny-na-konferencji-CPAC-9105827.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rezim-w-Iranie-jest-ledwo-zywy-Wyslannik-Trumpa-broni-wojny-na-konferencji-CPAC-9105827.html",
+      "title": "„Reżim w Iranie jest ledwo żywy”. Wysłannik Trumpa broni wojny na konferencji CPAC",
+      "content_html": "Reżim w Iranie jest ledwo żywy – ocenił w piątek Richard Grenell, wysłannik prezydenta USA Donalda Trumpa ds. misji specjalnych. Przekonywał podczas konferencji CPAC w Teksasie, że za kilka miesięcy Amerykanie będą się cieszyć z tego, że...",
+      "date_published": "2026-03-28T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ostre-spiecie-USA-z-Bruksela-Marco-Rubio-i-Kaja-Kallas-poklocili-sie-o-Rosje-9105872.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ostre-spiecie-USA-z-Bruksela-Marco-Rubio-i-Kaja-Kallas-poklocili-sie-o-Rosje-9105872.html",
+      "title": "Ostre spięcie USA z Brukselą. Marco Rubio i Kaja Kallas pokłócili się o Rosję",
+      "content_html": "Na spotkaniu ministrów krajów G7 w piątek we Francji między sekretarzem stanu USA Marco Rubio i szefową unijnej dyplomacji Kają Kallas doszło do spięcia wokół tematu Rosji i Ukrainy - podał w nocy serwis Axios, powołując się na trzy źródła...",
+      "date_published": "2026-03-28T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-20-amerykanskich-zolnierzy-rannych-Kolejne-uderzenie-Iranu-w-Arabii-Saudyjskiej-9105911.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-20-amerykanskich-zolnierzy-rannych-Kolejne-uderzenie-Iranu-w-Arabii-Saudyjskiej-9105911.html",
+      "title": "Ponad 20 amerykańskich żołnierzy rannych. Kolejne uderzenie Iranu w Arabii Saudyjskiej",
+      "content_html": "Ponad 20 amerykańskich żołnierzy zostało rannych w ciągu ostatniego tygodnia w wyniku irańskich ataków na bazę lotniczą w Arabii Saudyjskiej – podała w sobotę agencja Associated Press, powołując się na dwa źródła zaznajomione ze sprawą...",
+      "date_published": "2026-03-28T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-w-Iranie-uderza-w-Zachod-i-tuczy-Rosje-Moskwa-zyskuje-miliardy-dzieki-blokadzie-Ciesniny-Ormuz-9105915.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-w-Iranie-uderza-w-Zachod-i-tuczy-Rosje-Moskwa-zyskuje-miliardy-dzieki-blokadzie-Ciesniny-Ormuz-9105915.html",
+      "title": "Wojna w Iranie uderza w Zachód i tuczy Rosję. Moskwa zyskuje miliardy petrorubli",
+      "content_html": "Wojna w Iranie zwiększa już wpływy do rosyjskiego budżetu ze sprzedaży ropy; jej cena wzrosła o ok. 75 proc. w ostatnim miesiącu i przekroczyła 100 dol. za baryłkę - poinformowali ekonomiści PIE. Dodali, że wojna może również spowodować...",
+      "date_published": "2026-03-28T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-chwali-rzadowy-pakiet-Ceny-Paliw-Nizej-Koncern-jest-gotowy-na-nowe-przepisy-9105828.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-chwali-rzadowy-pakiet-Ceny-Paliw-Nizej-Koncern-jest-gotowy-na-nowe-przepisy-9105828.html",
+      "title": "Orlen chwali rządowy pakiet „Ceny Paliw Niżej”. Koncern jest gotowy na nowe przepisy",
+      "content_html": "Pakiet „Ceny Paliw Niżej” zapewnia klientom indywidualnym gwarancję przejrzystości w kształtowaniu cen oraz zabezpiecza prawidłowe funkcjonowanie rynku hurtowego, co jest niezbędne dla utrzymania bezpieczeństwa paliwowego kraju - podkreślił...",
+      "date_published": "2026-03-28T10:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-Okregowy-w-Warszawie-uchylil-decyzje-KRRiT-o-nalozeniu-550-tys-zl-kary-na-TVN-9105807.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-Okregowy-w-Warszawie-uchylil-decyzje-KRRiT-o-nalozeniu-550-tys-zl-kary-na-TVN-9105807.html",
       "title": "TVN jednak nie będzie musiał zapłacić 550 tys. zł kary. Sąd uchylił decyzję KRRiT",
       "content_html": "Sąd Okręgowy w Warszawie uchylił decyzję KRRiT o nałożeniu na TVN 550 tys. zł kary za emisję reportażu „Franciszkańska 3”. W uzasadnieniu sąd wskazał, że materiał nie był atakiem na Kościół katolicki, a poruszanie tematu ochrony...",
       "date_published": "2026-03-28T09:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Huti-otwieraja-nowy-front-Pierwszy-atak-jemenskich-rebeliantow-na-Izrael-9105914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Huti-otwieraja-nowy-front-Pierwszy-atak-jemenskich-rebeliantow-na-Izrael-9105914.html",
+      "title": "Huti otwierają nowy front. Pierwszy atak jemeńskich rebeliantów na Izrael",
+      "content_html": "Proirańscy rebelianci Huti w Jemenie potwierdzili w sobotę przeprowadzenie pierwszego ataku na Izrael od początku wojny tego kraju i USA z Iranem – podał Reuters. Grupa podała, że ostrzał jest jej odpowiedzią na działania armii izraelskiej...",
+      "date_published": "2026-03-28T09:15:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wierzyciele-Grupy-Azoty-Polyolefins-przyjeli-uklad-czesciowy-9105906.html",
@@ -51,6 +100,13 @@
       "title": "Owoce morza na „czarnej liście”. Skandal we Włoszech po serii zatruć",
       "content_html": "Władze Neapolu wydały zakaz podawania w tamtejszych restauracjach surowych owoców morza. Ma to związek z odnotowanym w mieście wzrostem liczby przypadków wirusowego zapalenia wątroby typu A. Pilne rozporządzenie podpisał burmistrz Gaetano Manfredi...",
       "date_published": "2026-03-28T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gigant-finansowy-na-celowniku-Bank-of-America-zaplaci-72-5-mln-dolarow-ofiarom-Epsteina-9105879.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gigant-finansowy-na-celowniku-Bank-of-America-zaplaci-72-5-mln-dolarow-ofiarom-Epsteina-9105879.html",
+      "title": "Gigant finansowy na celowniku. Bank of America zapłaci 72,5 mln dolarów ofiarom Epsteina",
+      "content_html": "Bank of America ma zapłacić 72,5 mln dolarów w ramach ugody z grupą kobiet, które w pozwie cywilnym oskarżyły tę instytucję o ułatwienie procederu wykorzystywania przez przestępcę seksualnego Jeffreya Epsteina. O szczegółach porozumienia...",
+      "date_published": "2026-03-28T06:17:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ziaja-i-L-Oreal-ida-na-wojne-z-Bruksela-Nie-nadazamy-z-wdrazaniem-zmian-9102039.html",
@@ -368,27 +424,6 @@
       "date_published": "2026-03-27T14:12:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/PALIWA-9105542.html",
-      "url": "https://www.bankier.pl/wiadomosc/PALIWA-9105542.html",
-      "title": "Wyścig z czasem w parlamencie i po podpis prezydenta. Bogucki: Zrobimy wszystko",
-      "content_html": "Jeżeli ustawy obniżające ceny paliw trafią na biurko prezydenta i nie będą zawierać jakichś krytycznych błędów - a zakładam, że nie - to zrobimy wszystko żeby je podpisać - zapewnił szef Kancelarii Prezydenta Zbigniew Bogucki.",
-      "date_published": "2026-03-27T14:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-Wielkanoc-piemaje-i-marcowa-inflacja-9105513.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-Wielkanoc-piemaje-i-marcowa-inflacja-9105513.html",
-      "title": "Tym będą żyły rynki: Wielkanoc, piemaje i marcowa inflacja",
-      "content_html": "Uwagę inwestorów powinny zwrócić zwłaszcza marcowe odczyty PMI, inflacji CPI oraz comiesięczny raport z amerykańskiego rynku pracy.",
-      "date_published": "2026-03-27T13:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-pobiera-myto-w-juanach-za-przeplyniecie-Ciesniny-Ormuz-Teheranska-bramka-oplat-9105508.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-pobiera-myto-w-juanach-za-przeplyniecie-Ciesniny-Ormuz-Teheranska-bramka-oplat-9105508.html",
-      "title": "Iran pobiera myto w juanach za przepłynięcie Cieśniny Ormuz. „Teherańska bramka opłat”",
-      "content_html": "Iran uruchomił „teherańską bramkę opłat” w Cieśninie Ormuz, pobierając od niektórych statków opłaty w juanach. To ruch strategiczny, ale - jak wskazują eksperci - jego trwałość i skutki dla światowej gospodarki mogą okazać się życzeniowym...",
-      "date_published": "2026-03-27T13:34:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Mirbudu-w-wysokosci-571-35-mln-zl-najkorzystniejsza-w-postepowaniu-GDDKiA-9105506.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-Mirbudu-w-wysokosci-571-35-mln-zl-najkorzystniejsza-w-postepowaniu-GDDKiA-9105506.html",
       "title": "Oferta konsorcjum Mirbudu w wysokości 571,35 mln zł najkorzystniejsza w postępowaniu GDDKiA",
@@ -646,62 +681,6 @@
       "title": "Stalprodukt popiera postępowanie KE ws. środków ochronnych dot. importu produktów GOES do UE",
       "content_html": "Stalprodukt popiera wszczęcie przez Komisję Europejską postępowania w sprawie środków ochronnych dotyczących importu produktów GOES do Unii Europejskiej - napisała spółka w komunikacie.",
       "date_published": "2026-03-27T10:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-o-CPN-dzialanie-rzadu-ws-cen-paliw-zmniejsza-ryzyko-odkotwiczenia-oczekiwan-inflacyjnych-9105367.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-o-CPN-dzialanie-rzadu-ws-cen-paliw-zmniejsza-ryzyko-odkotwiczenia-oczekiwan-inflacyjnych-9105367.html",
-      "title": "PKO BP o CPN: działanie rządu ws. cen paliw zmniejsza ryzyko odkotwiczenia oczekiwań inflacyjnych",
-      "content_html": "Działanie rządu ws. cen paliw zmniejsza ryzyko odkotwiczenia się oczekiwań inflacyjnych i wystąpienia efektów drugiej rundy i tym samym uprawdopodabnia scenariusz, że konflikt na Bliskim Wschodzie nie spowoduje podwyżek stóp procentowych - oceniają...",
-      "date_published": "2026-03-27T10:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ATM-Grupa-chce-wyplacic-0-27-zl-dywidendy-na-akcje-9105359.html",
-      "url": "https://www.bankier.pl/wiadomosc/ATM-Grupa-chce-wyplacic-0-27-zl-dywidendy-na-akcje-9105359.html",
-      "title": "ATM Grupa chce wypłacić 0,27 zł dywidendy na akcję",
-      "content_html": "Zarząd ATM Grupa zarekomenduje zwyczajnemu walnemu zgromadzeniu wypłatę dywidendy w wysokości 0,27 zł na jedną akcję - podała spółka w komunikacie.",
-      "date_published": "2026-03-27T10:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Olej-napedowy-najdrozszy-w-historii-Jest-gorzej-niz-w-2022-9105347.html",
-      "url": "https://www.bankier.pl/wiadomosc/Olej-napedowy-najdrozszy-w-historii-Jest-gorzej-niz-w-2022-9105347.html",
-      "title": "Olej napędowy najdroższy w historii. Jest gorzej niż w 2022",
-      "content_html": "Ceny oleju napędowego na polskich stacjach właśnie osiągnęły najwyższy poziom w historii, zbliżając się do 9 zł/l. Benzynę już trudno był zatankować za mniej niż 7 zł/l.",
-      "date_published": "2026-03-27T10:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gwardia-Rewolucyjna-wezwala-cywilow-do-opuszczenia-okolic-baz-USA-w-krajach-regionu-9105345.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gwardia-Rewolucyjna-wezwala-cywilow-do-opuszczenia-okolic-baz-USA-w-krajach-regionu-9105345.html",
-      "title": "Gwardia Rewolucyjna wezwała cywilów do opuszczenia okolic baz USA w krajach regionu",
-      "content_html": "Irański Korpus Gwardii Strażników Rewolucji (zwany również Gwardią Rewolucyjną) wezwał cywilów w państwach Bliskiego Wschodu do opuszczenia terenów położonych w sąsiedztwie baz wojsk USA - przekazała w piątek agencja Reutera, powołując...",
-      "date_published": "2026-03-27T10:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowele-zwiekszajaca-liczbe-mozliwych-podejsc-do-egzaminu-sedziowskiego-i-prokuratorskiego-9105293.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowele-zwiekszajaca-liczbe-mozliwych-podejsc-do-egzaminu-sedziowskiego-i-prokuratorskiego-9105293.html",
-      "title": "Prezydent podpisał nowelę zwiększającą liczbę możliwych podejść do egzaminu sędziowskiego i prokuratorskiego",
-      "content_html": "Prezydent Karol Nawrocki podpisał nowelizację ustawy o Krajowej Szkole Sądownictwa i Prokuratury, która zwiększa z dwóch do trzech liczbę możliwych podejść do egzaminu sędziowskiego lub prokuratorskiego.",
-      "date_published": "2026-03-27T10:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oligarchowie-sypna-rublem-do-budzetu-na-wojne-z-Ukraina-Putin-i-tajne-spotkanie-9105303.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oligarchowie-sypna-rublem-do-budzetu-na-wojne-z-Ukraina-Putin-i-tajne-spotkanie-9105303.html",
-      "title": "Oligarchowie sypną rublem na wojnę z Ukrainą? Putin i tajne spotkanie",
-      "content_html": "Rosyjski przywódca Władimir Putin zwrócił się do oligarchów o wpłaty do budżetu; pieniądze te miałyby ustabilizować stan finansów kraju w związku z trwającą inwazją na Ukrainę – poinformowała w piątek agencja Reutera. Jak przekazano...",
-      "date_published": "2026-03-27T10:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wlochy-nagle-zamilkly-Wielki-strajk-dziennikarzy-Agencje-nie-nadaja-depesz-portale-stoja-9105332.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wlochy-nagle-zamilkly-Wielki-strajk-dziennikarzy-Agencje-nie-nadaja-depesz-portale-stoja-9105332.html",
-      "title": "Włochy nagle zamilkły. Wielki strajk dziennikarzy. Agencje nie nadają depesz, portale stoją",
-      "content_html": "Piątek jest we Włoszech dniem całodobowego strajku dziennikarzy, którzy domagają się odnowienia układu zbiorowego. Umowa ta wygasła dziesięć lat temu. Akcja protestacyjna została ogłoszona przez Narodową Federację Włoskiej Prasy (FNSI)...",
-      "date_published": "2026-03-27T10:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RN-Torpolu-oddelegowala-Konrada-Miterskiego-do-wykonywania-czynnosci-prezesa-9105338.html",
-      "url": "https://www.bankier.pl/wiadomosc/RN-Torpolu-oddelegowala-Konrada-Miterskiego-do-wykonywania-czynnosci-prezesa-9105338.html",
-      "title": "RN Torpolu oddelegowała Konrada Miterskiego do wykonywania czynności prezesa",
-      "content_html": "Rada nadzorcza Torpolu postanowiła o oddelegowaniu Konrada Miterskiego, członka rady nadzorczej spółki, do wykonywania czynności prezesa od 1 kwietnia 2026 r. do 30 czerwca 2026 r. - podała spółka w komunikacie.",
-      "date_published": "2026-03-27T10:08:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
