@@ -284,6 +284,13 @@
       "date_published": "2026-03-27T17:26:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Krach-na-kursie-Dino-Wegiel-wraca-do-lask-na-GPW-9105707.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krach-na-kursie-Dino-Wegiel-wraca-do-lask-na-GPW-9105707.html",
+      "title": "Krach na kursie Dino. Węgiel wraca do łask na GPW",
+      "content_html": "Piątkowa sesja na warszawskim parkiecie upłynęła pod znakiem gwałtownej wyprzedaży na Dino, która przyćmiła wszystko inne. Mimo wszystko warto wspomnieć o dobrej postawie spółek węglowych. Tłem dla notowań pozostają dyplomatyczne zagrywki...",
+      "date_published": "2026-03-27T17:15:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-z-generowaniem-nagich-zdjec-przez-AI-Holandia-grozi-X-milionowymi-karami-9105681.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-z-generowaniem-nagich-zdjec-przez-AI-Holandia-grozi-X-milionowymi-karami-9105681.html",
       "title": "Koniec z generowaniem nagich zdjęć przez AI. Holandia grozi X milionowymi karami",
@@ -557,6 +564,13 @@
       "date_published": "2026-03-27T12:58:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Poslom-nie-udalo-sie-odrzucic-prezydenckiego-weta-do-noweli-Kodeksu-postepowania-karnego-9105463.html",
+      "url": "https://www.bankier.pl/wiadomosc/Poslom-nie-udalo-sie-odrzucic-prezydenckiego-weta-do-noweli-Kodeksu-postepowania-karnego-9105463.html",
+      "title": "Posłom nie udało się odrzucić prezydenckiego weta do noweli Kodeksu postępowania karnego",
+      "content_html": "Sejm nie odrzucił w piątek weta prezydenta Karola Nawrockiego do noweli Kodeksu postępowania karnego. Nie udało się uzyskać większości 3/5 głosów wymaganej do ponownego uchwalenia ustawy.",
+      "date_published": "2026-03-27T12:53:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Reforma-pomocy-spolecznej-Trudniej-o-miejsce-w-DPS-resort-wprowadza-nowe-zasady-9105458.html",
       "url": "https://www.bankier.pl/wiadomosc/Reforma-pomocy-spolecznej-Trudniej-o-miejsce-w-DPS-resort-wprowadza-nowe-zasady-9105458.html",
       "title": "Reforma pomocy społecznej. Trudniej o miejsce w DPS, resort wprowadza nowe zasady",
@@ -688,13 +702,6 @@
       "title": "Rynek obligacji bije na alarm. Pojawiają się wzorce podobne do 2008 roku",
       "content_html": "Na rynku obligacji zbiegły się trzy różne sygnały, które ostatnio wystąpiły razem w maju 2008 roku, tuż przed kryzysem finansowym. Eksperci dostrzegają kolejne oznaki zapowiadające dalsze osłabienie rynków akcji.",
       "date_published": "2026-03-27T10:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stalprodukt-popiera-postepowanie-KE-ws-srodkow-ochronnych-dot-importu-produktow-GOES-do-UE-9105366.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stalprodukt-popiera-postepowanie-KE-ws-srodkow-ochronnych-dot-importu-produktow-GOES-do-UE-9105366.html",
-      "title": "Stalprodukt popiera postępowanie KE ws. środków ochronnych dot. importu produktów GOES do UE",
-      "content_html": "Stalprodukt popiera wszczęcie przez Komisję Europejską postępowania w sprawie środków ochronnych dotyczących importu produktów GOES do Unii Europejskiej - napisała spółka w komunikacie.",
-      "date_published": "2026-03-27T10:44:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
