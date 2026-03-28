@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wierzyciele-Grupy-Azoty-Polyolefins-przyjeli-uklad-czesciowy-9105906.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wierzyciele-Grupy-Azoty-Polyolefins-przyjeli-uklad-czesciowy-9105906.html",
+      "title": "Wierzyciele Grupy Azoty Polyolefins przyjęli układ częściowy",
+      "content_html": "Wierzyciele Grupy Azoty Polyolefins przyjęli układ częściowy - poinformowała Grupa Azoty w komunikacie. Zarząd spółki złoży do sądu wniosek o zatwierdzenie przyjętego układu.",
+      "date_published": "2026-03-28T08:28:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ziaja-i-L-Oreal-ida-na-wojne-z-Bruksela-Nie-nadazamy-z-wdrazaniem-zmian-9102039.html",
       "url": "https://www.bankier.pl/wiadomosc/Ziaja-i-L-Oreal-ida-na-wojne-z-Bruksela-Nie-nadazamy-z-wdrazaniem-zmian-9102039.html",
       "title": "Ziaja i L’Oreal idą na wojnę z Brukselą. „Nie nadążamy z wdrażaniem zmian”",
@@ -695,13 +702,6 @@
       "title": "Ceny miedzi na LME rosną i po raz pierwszy od początku wojny z Iranem zmierząją do zamknięcia tygodnia na plusie",
       "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) rośnie o 0,57 proc. do 12 200 USD za tonę. Analitycy wskazują, że ceny odbijają po tym, jak USA starały się złagodzić obawy związane z pogłębiającym się konfliktem...",
       "date_published": "2026-03-27T09:37:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nadchodzi-rewolucja-w-egzaminach-na-prawo-jazdy-Koniec-z-placem-manewrowym-9105313.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nadchodzi-rewolucja-w-egzaminach-na-prawo-jazdy-Koniec-z-placem-manewrowym-9105313.html",
-      "title": "Nadchodzi rewolucja w egzaminach na prawo jazdy. Koniec z placem manewrowym",
-      "content_html": "Przygotowujemy ustawę, która zreformuje system egzaminowania kierowców - zapowiedział w piątek minister infrastruktury Dariusz Klimczak. Zmiany mają być głębokie, a jedną z nich będzie rezygnacja z egzaminu na placu manewrowym.",
-      "date_published": "2026-03-27T09:34:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
