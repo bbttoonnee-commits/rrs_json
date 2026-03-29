@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gaz-do-Europy-nowym-szlakiem-Nigeria-zbuduje-gazociag-przez-Czad-i-Libie-9102880.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-do-Europy-nowym-szlakiem-Nigeria-zbuduje-gazociag-przez-Czad-i-Libie-9102880.html",
+      "title": "Gaz do Europy nowym szlakiem. Nigeria zbuduje gazociąg przez Czad i Libię",
+      "content_html": "Nigeria zbuduje gazociąg o wartości 20 mld dolarów, którym przez Czad i Libię popłynie do Europy 30 mld m sześc. gazu ziemnego rocznie - zapewnili prezydent Nigerii Bola Tinubu i nigeryjski minister ds. zasobów ropy naftowej Ekperikpe Ekpo po...",
+      "date_published": "2026-03-29T20:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-kontra-media-Redaktorzy-naczelni-staja-w-obronie-reportera-TVN24-9104338.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-kontra-media-Redaktorzy-naczelni-staja-w-obronie-reportera-TVN24-9104338.html",
+      "title": "Prezydent kontra media. Redaktorzy naczelni stają w obronie reportera TVN24",
+      "content_html": "Rada Polskich Mediów w opublikowanym w środę apelu zwróciła się do prezydenta RP oraz jego współpracowników o uszanowanie roli dziennikarzy w systemie demokratycznym. Jak napisano, obowiązkiem dziennikarza jest pytać, a obowiązkiem polityka...",
+      "date_published": "2026-03-29T19:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Revoltella-Europa-musi-nadac-priorytet-bezpieczenstwu-energetycznemu-9102408.html",
+      "url": "https://www.bankier.pl/wiadomosc/Revoltella-Europa-musi-nadac-priorytet-bezpieczenstwu-energetycznemu-9102408.html",
+      "title": "Revoltella: Europa musi nadać priorytet bezpieczeństwu energetycznemu",
+      "content_html": "Bezpieczeństwo energetyczne jest kwestią bezpieczeństwa gospodarczego; obecna sytuacja geopolityczna stanowi dla Europy kolejny, silny sygnał ostrzegawczy, by nadać temu priorytet - ocenia główna ekonomistka Europejskiego Banku Inwestycyjnego (EBI)...",
+      "date_published": "2026-03-29T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SCT-9104088.html",
+      "url": "https://www.bankier.pl/wiadomosc/SCT-9104088.html",
+      "title": "Te modele znikną z Warszawy. Pół miliona pojazdów zostanie wykluczonych do 2032 roku",
+      "content_html": "Za dwa lata wejdzie w życie kolejny etap wdrażania strefy czystego transportu (SCT) w stolicy. Obejmie on dodatkowo samochody z silnikiem benzynowym o normie Euro 3 i silnikiem Diesla z normą Euro 5. W tej chwili zarejestrowanych jest w Warszawie jest...",
+      "date_published": "2026-03-29T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gospodarka-Wielkiej-Brytanii-w-opalach-Ponura-prognoza-OECD-9104798.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gospodarka-Wielkiej-Brytanii-w-opalach-Ponura-prognoza-OECD-9104798.html",
+      "title": "Gospodarka Wielkiej Brytanii w opałach. Ponura prognoza OECD",
+      "content_html": "Gospodarka Wielkiej Brytanii mocniej odczuje skutki wojny z Iranem niż gospodarka jakiegokolwiek innego kraju z grupy G20 - zwracają uwagę brytyjskie media, przywołując opublikowaną w czwartek prognozę Organizacji Współpracy Gospodarczej i Rozwoju...",
+      "date_published": "2026-03-29T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gigantyczne-odszkodowania-w-Portugalii-Nawet-45-tys-euro-dla-ofiar-Kosciola-9105039.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gigantyczne-odszkodowania-w-Portugalii-Nawet-45-tys-euro-dla-ofiar-Kosciola-9105039.html",
+      "title": "Gigantyczne odszkodowania w Portugalii. Nawet 45 tys. euro dla ofiar Kościoła",
+      "content_html": "Ponad 1,6 mln euro wypłaci łącznie Kościół katolicki w Portugalii ofiarom nadużyć seksualnych popełnionych w tym kraju przez ludzi wchodzących w skład jego struktur, zarówno duchownych, jak i świeckich.",
+      "date_published": "2026-03-29T19:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gniew-na-ulicach-USA-Od-Minneapolis-po-Waszyngton-Ameryka-protestuje-przeciwko-polityce-Trumpa-9106035.html",
       "url": "https://www.bankier.pl/wiadomosc/Gniew-na-ulicach-USA-Od-Minneapolis-po-Waszyngton-Ameryka-protestuje-przeciwko-polityce-Trumpa-9106035.html",
       "title": "Gniew na ulicach USA. Od Minneapolis po Waszyngton - Ameryka protestuje przeciwko polityce Trumpa",
@@ -618,27 +660,6 @@
       "title": "Ukraina jeszcze dostaje broń od USA, ale... Rubio: Może się zdarzyć",
       "content_html": "Sekretarz stanu USA Marco Rubio powiedział w piątek, że Stany Zjednoczone jeszcze nie przekierowały żadnych dostaw broni przeznaczonej dla Ukrainy , ale zastrzegł, że może się to zdarzyć. Zaprzeczył też, by żądały od Ukrainy oddania Donbasu...",
       "date_published": "2026-03-27T19:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-chcemy-Polexitu-chcemy-Tuskexitu-Czarnek-punktuje-rzad-za-ceny-paliw-9105775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-chcemy-Polexitu-chcemy-Tuskexitu-Czarnek-punktuje-rzad-za-ceny-paliw-9105775.html",
-      "title": "„Nie chcemy Polexitu, chcemy Tuskexitu”. Czarnek punktuje rząd za ceny paliw",
-      "content_html": "Wiceprezes PiS Przemysław Czarnek zarzucił rządowi, że wskutek braku jego działań bardzo drogie są nie tylko paliwa, ale i żywność. Drożyzna jest niebywała; my nie chcemy Polexitu, chcemy Tuskexitu - mówił polityk w piątek w Wysokiem Mazowieckiem...",
-      "date_published": "2026-03-27T19:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-uderza-w-iranski-program-nuklearny-Zbombardowano-reaktor-w-Araku-i-zaklad-w-Ardakanie-9105770.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-uderza-w-iranski-program-nuklearny-Zbombardowano-reaktor-w-Araku-i-zaklad-w-Ardakanie-9105770.html",
-      "title": "Izrael uderza w irański program nuklearny. Zbombardowano reaktor w Araku i zakład w Ardakanie",
-      "content_html": "Izraelska armia poinformowała w piątek, że zbombardowała reaktor ciężkowodny w mieście Arak w środkowym Iranie i zakład obróbki uranu w mieście Ardakan. Irańskie media potwierdziły ataki. Wojsko Izraela podkreśliło, że były to ważne...",
-      "date_published": "2026-03-27T19:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Transkrypcja-aktu-malzenstwa-osob-tej-samej-plci-rozbije-sie-o-TK-Poslowie-PiS-zaskarzyli-wyrok-NSA-9105769.html",
-      "url": "https://www.bankier.pl/wiadomosc/Transkrypcja-aktu-malzenstwa-osob-tej-samej-plci-rozbije-sie-o-TK-Poslowie-PiS-zaskarzyli-wyrok-NSA-9105769.html",
-      "title": "Transkrypcja aktu małżeństwa osób tej samej płci rozbije się o TK? Posłowie PiS zaskarżyli wyrok NSA",
-      "content_html": "Poseł PiS Marcin Warchoł poinformował, że wraz grupą posłów PiS złożył wniosek do Trybunału Konstytucyjnego o stwierdzenie niezgodności z konstytucją przepisów, na podstawie których NSA zobowiązał urząd stanu cywilnego do wpisania do...",
-      "date_published": "2026-03-27T19:05:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
