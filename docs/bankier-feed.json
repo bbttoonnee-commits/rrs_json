@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-szacuje-ze-mial-45-mln-zl-straty-netto-j-d-w-25-9106760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-szacuje-ze-mial-45-mln-zl-straty-netto-j-d-w-25-9106760.html",
+      "title": "Mostostal Warszawa szacuje, że miał 45 mln zł straty netto j.d. w '25",
+      "content_html": "Mostostal Warszawa szacuje, że w 2025 r. miał 45 mln zł straty netto j.d. - podała spółka w komunikacie. Skonsolidowane przychody ze sprzedaży wyniosły 1.363 mln zł.",
+      "date_published": "2026-03-30T20:58:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Panstwa-UE-zgodzily-sie-na-nowe-przepisy-dotyczace-imprez-turystycznych-9106733.html",
       "url": "https://www.bankier.pl/wiadomosc/Panstwa-UE-zgodzily-sie-na-nowe-przepisy-dotyczace-imprez-turystycznych-9106733.html",
       "title": "Koniec z walką o zwrot pieniędzy za wycieczkę. UE przyjmuje nowe, surowe prawo",
@@ -20,7 +27,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Sfinks-Polska-otrzymal-niewiazaca-oferte-nabycia-ZCP-9106732.html",
       "url": "https://www.bankier.pl/wiadomosc/Sfinks-Polska-otrzymal-niewiazaca-oferte-nabycia-ZCP-9106732.html",
-      "title": "Sfinks Polska otrzymał niewiążącą ofertę nabycia ZCP",
+      "title": "Sfinks Polska pod lupą inwestora z Malty. Na stole oferta zakupu sieci SPHINX",
       "content_html": "Sfinks Polska otrzymał od funduszu inwestycyjnego z siedzibą na Malcie niewiążącą ofertę nabycia zorganizowanej części przedsiębiorstwa - podała spółka w komunikacie.",
       "date_published": "2026-03-30T20:12:00+02:00"
     },
@@ -30,6 +37,13 @@
       "title": "Polwax z wielkim kontraktem. Znicze za 28 mln zł trafią do Biedronki",
       "content_html": "Polwax uzgodnił z Jeronimo Martins Poland warunki dostawy produktów (określone rodzaje zniczy) na rok 2026 - poinformował Polwax w komunikacie. Szacowana wartość kontraktu z JMP w ramach dokonanych uzgodnień wyniesie około 28 mln zł netto.",
       "date_published": "2026-03-30T20:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bomba-za-600-euro-Francuskie-sluzby-uderzaja-w-grupe-planujaca-zamach-w-stolicy-9106722.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bomba-za-600-euro-Francuskie-sluzby-uderzaja-w-grupe-planujaca-zamach-w-stolicy-9106722.html",
+      "title": "Bomba za 600 euro. Francuskie służby uderzają w grupę planującą zamach w stolicy",
+      "content_html": "Dwie kolejne osoby zatrzymano w poniedziałek we Francji w związku z udaremnionym atakiem na biuro Bank of America w Paryżu. Tym samym, liczba zatrzymanych po próbie ataku, do której doszło w weekend, wzrosła do pięciu. Prokuratura antyterrorystyczna...",
+      "date_published": "2026-03-30T19:58:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Na-tygodniowe-wakacje-stac-dwukrotnie-wiecej-Polakow-niz-10-lat-temu-9106716.html",
@@ -62,8 +76,8 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Niewiadow-PGM-dot-ubiegania-sie-o-dopuszczenie-akcji-do-obrotu-na-rynku-regulowanym-9106682.html",
       "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Niewiadow-PGM-dot-ubiegania-sie-o-dopuszczenie-akcji-do-obrotu-na-rynku-regulowanym-9106682.html",
-      "title": "KNF daje zielone światło Niewiadów-PGM",
-      "content_html": "Komisja Nadzoru Finansowego zatwierdziła prospekt w formie jednolitego dokumentu Niewiadów Polska Grupa Militarna, w związku z zamiarem ubiegania o dopuszczenie do obrotu na rynku regulowanym akcji serii A, B, C, D, E, F, G, H, I, TR, FA oraz K spółki...",
+      "title": "KNF daje zielone światło Niewiadów-PGM. Przeniesienie notowań na GPW",
+      "content_html": "Komisja Nadzoru Finansowego zatwierdziła prospekt notowanej obecnie na NewConnect spółki Niewiadów Polska Grupa Militarna, w związku z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym jej akcji serii A, B, C, D, E, F, G, H, I...",
       "date_published": "2026-03-30T19:06:00+02:00"
     },
     {
@@ -130,18 +144,11 @@
       "date_published": "2026-03-30T18:18:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-G7-Rzady-i-banki-centralne-lacza-sily-by-ustabilizowac-rynek-energii-9106633.html",
-      "url": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-G7-Rzady-i-banki-centralne-lacza-sily-by-ustabilizowac-rynek-energii-9106633.html",
-      "title": "Historyczny szczyt G7. Rządy i banki centralne łączą siły, by ustabilizować rynek energii",
-      "content_html": "Przedstawiciele grupy G7 zapewnili w poniedziałek, że gotowi są podjąć wszelkie niezbędne kroki, aby zapewnić stabilność rynku energii i ograniczyć wpływ wahań na tym rynku na gospodarkę. W poniedziałek obradowali ministrowie finansów,...",
-      "date_published": "2026-03-30T18:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontrole-w-Dino-Niska-temperatura-i-naruszenia-przepisow-9106591.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrole-w-Dino-Niska-temperatura-i-naruszenia-przepisow-9106591.html",
-      "title": "Kontrole w Dino ujawniają skalę problemu. Ponad 1000 decyzji i kolejne w drodze",
-      "content_html": "Kontrole Państwowej Inspekcji Pracy w sieci sklepów Dino Polska nabierają rozpędu. Jak wynika z najnowszych informacji przekazanych przez związki zawodowe oraz urząd, w wyniku dotychczasowych działań wydano już ponad 1000 decyzji wobec spółki...",
-      "date_published": "2026-03-30T17:47:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Ambasada-USA-wznawia-dzialalnosc-w-Wenezueli-9106615.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ambasada-USA-wznawia-dzialalnosc-w-Wenezueli-9106615.html",
+      "title": "Ambasada USA wznawia działalność w Wenezueli",
+      "content_html": "Ambasada USA oficjalnie wznawia w poniedziałek działalność w stolicy Wenezueli, Caracas - poinformowała tego dnia agencja Bloomberga, powołując się na notatkę Departamentu Stanu. USA wycofały swoich dyplomatów z Wenezueli i wstrzymały funkcjonowanie...",
+      "date_published": "2026-03-30T17:43:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Unia-wyklada-pieniadze-na-zbrojenia-Rusza-historyczny-program-EDIP-9106600.html",
@@ -688,20 +695,6 @@
       "title": "Nawrocki bije Tuska. Tym politykom ufamy najbardziej",
       "content_html": "Prezydent Karol Nawrocki uzyskał pierwszą pozycję w marcowym rankingu zaufania; tuż za nim znalazł się szef MSZ Radosław Sikorski oraz premier Donald Tusk - wynika z opublikowanego w poniedziałek sondażu zaufania IBRiS dla Onetu.",
       "date_published": "2026-03-30T08:37:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-gra-o-Tajwan-Chiny-nakladaja-sankcje-i-wyciagaja-reke-do-opozycji-9106235.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-gra-o-Tajwan-Chiny-nakladaja-sankcje-i-wyciagaja-reke-do-opozycji-9106235.html",
-      "title": "Wielka gra o Tajwan. Chiny nakładają sankcje i wyciągają rękę do opozycji",
-      "content_html": "Przywódca ChRL Xi Jinping zaprosił do Chin szefową tajwańskiej opozycji z partii Kuomintang (KMT) Cheng Li-wun – podały w poniedziałek państwowe media. Równocześnie na Tajwan przybyła delegacja z USA, by wyrazić poparcie dla władz demokratycznie...",
-      "date_published": "2026-03-30T08:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skandal-dyplomatyczny-w-Bejrucie-Ambasador-Iranu-odmawia-wyjazdu-Zostaje-wbrew-nakazowi-MSZ-9106234.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skandal-dyplomatyczny-w-Bejrucie-Ambasador-Iranu-odmawia-wyjazdu-Zostaje-wbrew-nakazowi-MSZ-9106234.html",
-      "title": "Skandal dyplomatyczny w Bejrucie. Ambasador Iranu odmawia wyjazdu. Wbrew nakazowi MSZ",
-      "content_html": "Ambasador Iranu w Libanie Mohammad Reza Szeibani nie wyjedzie z tego kraju mimo nakazu MSZ w Bejrucie i uznaniu go za persona non grata - poinformowała AFP powołując się na źródła w kręgach dyplomatycznych. Ambasador miał opuścić Bejrut do...",
-      "date_published": "2026-03-30T08:17:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
