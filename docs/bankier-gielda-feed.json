@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spyrosoft-konczy-przeglad-opcji-strategicznych-pozyskanie-inwestora-najlepszym-wariantem-9106798.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spyrosoft-konczy-przeglad-opcji-strategicznych-pozyskanie-inwestora-najlepszym-wariantem-9106798.html",
+      "title": "Spyrosoft kończy przegląd opcji strategicznych; pozyskanie inwestora najlepszym wariantem Grupa Spyrosoft, po zakończonym przeglądzie opcji strategicznych, zdecydowała, że pozyskanie przez nią inwestora strategicznego z rynku prywatnego jest wariantem bardziej atrakcyjnym w obecnym otoczeniu biznesowym niż planowany do tej pory debiut na giełdzie międzynarodowej - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-30T21:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-szacuje-ze-mial-45-mln-zl-straty-netto-j-d-w-25-9106760.html",
       "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-szacuje-ze-mial-45-mln-zl-straty-netto-j-d-w-25-9106760.html",
-      "title": "Mostostal Warszawa szacuje, że miał 45 mln zł straty netto j.d. w '25 Mostostal Warszawa szacuje, że w 2025 r. miał 45 mln zł straty netto j.d. - podała spółka w komunikacie. Skonsolidowane przychody ze sprzedaży wyniosły 1.363 mln zł.",
+      "title": "Mostostal Warszawa szacuje, że miał 45 mln zł straty netto j.d. w 2025 Mostostal Warszawa szacuje, że w 2025 r. miał 45 mln zł straty netto j.d. - podała spółka w komunikacie. Skonsolidowane przychody ze sprzedaży wyniosły 1.363 mln zł.",
       "content_html": "",
       "date_published": "2026-03-30T19:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Domanski-uspokaja-Inflacja-3-proc-w-2026-r-wciaz-realna-mimo-wojny-9106749.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-uspokaja-Inflacja-3-proc-w-2026-r-wciaz-realna-mimo-wojny-9106749.html",
+      "title": "Domański uspokaja: Inflacja 3 proc. w 2026 r. wciąż realna mimo wojny Minister finansów i gospodarki Andrzej Domański poinformował, że prognoza inflacji na 2026 r. w wysokości 3 proc. jest aktualna. Nie widzi on obecnie potrzeby rewizji budżetu na 2026 r.",
+      "content_html": "",
+      "date_published": "2026-03-30T19:44:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sfinks-Polska-otrzymal-niewiazaca-oferte-nabycia-ZCP-9106732.html",
