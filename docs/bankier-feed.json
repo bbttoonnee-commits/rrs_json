@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Asseco-z-wyzszym-portfelem-zamowien-mozliwe-13-05-zl-dywidendy-na-akcje-opis-9107542.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Asseco-z-wyzszym-portfelem-zamowien-mozliwe-13-05-zl-dywidendy-na-akcje-opis-9107542.html",
+      "title": "Grupa Asseco z wyższym portfelem zamówień, możliwe 13,05 zł dywidendy na akcję (opis)",
+      "content_html": "Grupa Asseco ma wyższy o kilkanaście procent portfel zamówień na 2026 rok, zarząd spółki rekomenduje wypłatę z zysku za zeszły rok 13,05 zł dywidendy na akcję - poinformowała spółka w komunikacie. Asseco Poland, po 13 akwizycjach w 2025...",
+      "date_published": "2026-03-31T23:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Amerykanska-dziennikarka-uprowadzona-w-Iraku-Podejrzenia-padaja-na-proiranska-bojowke-9107461.html",
       "url": "https://www.bankier.pl/wiadomosc/Amerykanska-dziennikarka-uprowadzona-w-Iraku-Podejrzenia-padaja-na-proiranska-bojowke-9107461.html",
       "title": "Amerykańska dziennikarka uprowadzona w Iraku. Podejrzenia padają na proirańską bojówkę",
@@ -695,13 +702,6 @@
       "title": "Złoty pozostaje pod presją. Dolar blisko tegorocznego maksimum",
       "content_html": "Choć kluczowe opory techniczne na rynku złotego pozostają w mocy, to jednak polska waluta nadal znajduje się pod presją.",
       "date_published": "2026-03-31T11:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-Pentagonu-jego-broker-i-miliony-na-akcje-zbrojeniowe-przed-wojna-z-Iranem-9106955.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-Pentagonu-jego-broker-i-miliony-na-akcje-zbrojeniowe-przed-wojna-z-Iranem-9106955.html",
-      "title": "Szef Pentagonu, jego broker i miliony na akcje zbrojeniowe przed wojną z Iranem",
-      "content_html": "W tygodniach poprzedzających ataki USA i Izraela na Iran broker szefa Pentagonu Pete'a Hegsetha próbował dokonać dużej inwestycji w akcje firm zbrojeniowych - poinformował we wtorek dziennik \"Financial Times\", powołując się na trzy bliskie sprawie...",
-      "date_published": "2026-03-31T11:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
