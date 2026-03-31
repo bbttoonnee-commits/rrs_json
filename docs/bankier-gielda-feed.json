@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
+      "title": "Tauron zakłada spadek raportowanej EBITDA w 2026 roku – wiceprezes Tauron zakłada spadek raportowanej EBITDA w 2026 roku – poinformował wiceprezes Krzysztof Surma.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-Polsce-w-marcu-2026-Tak-szok-paliwowy-podbil-inflacje-CPI-9106948.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-Polsce-w-marcu-2026-Tak-szok-paliwowy-podbil-inflacje-CPI-9106948.html",
+      "title": "Tak szok paliwowy podbił inflację w Polsce. Ale ekonomiści spodziewali się, że będzie gorzej Napędzana drożejącymi paliwami inflacja konsumencka w marcu sięgnęła 3% i znalazła się powyżej 2,5-procentowego celu Narodowego Banku Polskiego.",
+      "content_html": "",
+      "date_published": "2026-03-31T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-II-do-27-24-proc-UTK-9106956.html",
+      "url": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-spadl-rdr-po-II-do-27-24-proc-UTK-9106956.html",
+      "title": "UTK Udział PKP Cargo w rynku przewiezionych towarów wg masy spadł rdr po II do 27,24 proc. Udział PKP Cargo w rynku przewiezionych towarów według masy spadł po lutym do 27,24 proc. całego rynku wobec 27,28 proc. po lutym 2025 roku - podał Urząd Transportu Kolejowego.",
+      "content_html": "",
+      "date_published": "2026-03-31T09:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sygnis-ma-porozumienie-o-wspolpracy-z-jednostka-ministerstwa-obrony-Ukrainy-9106952.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sygnis-ma-porozumienie-o-wspolpracy-z-jednostka-ministerstwa-obrony-Ukrainy-9106952.html",
+      "title": "Sygnis ma porozumienie o współpracy z jednostką ministerstwa obrony Ukrainy Sygnis zawarł porozumienie z oddziałem specjalnym Głównego Zarządu Wywiadu Ministerstwa Obrony Ukrainy w celu nawiązania strategicznej współpracy w obszarze kompetencji technologicznych, wdrażania nowoczesnych rozwiązań w technologiach addytywnych i zaawansowanych metod wytwarzania z uwzględnieniem zastosowań w obronności - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-31T09:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-WP-Holding-rosnie-o-ponad-22-proc-do-57-4-zl-mWIG40-zwyzkuje-o-0-8-proc-9106943.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-WP-Holding-rosnie-o-ponad-22-proc-do-57-4-zl-mWIG40-zwyzkuje-o-0-8-proc-9106943.html",
+      "title": "Kurs WP Holding rośnie o ponad 22 proc. do 57,4 zł, mWIG40 zwyżkuje o 0,8 proc. Kurs akcji WP Holding rośnie o 22,1 proc. do 57,4 zł, przy wzroście indeksu mWIG40 o 0,8 proc.",
+      "content_html": "",
+      "date_published": "2026-03-31T09:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-rozpoczyna-pokrywanie-Sniezki-od-rekomendacji-trzymaj-z-cena-docelowa-akcji-na-poziomie-78-1-zl-9106913.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-rozpoczyna-pokrywanie-Sniezki-od-rekomendacji-trzymaj-z-cena-docelowa-akcji-na-poziomie-78-1-zl-9106913.html",
       "title": "DM BOŚ rozpoczyna pokrywanie Śnieżki od rekomendacji \"trzymaj\" z ceną docelową akcji na poziomie 78,1 zł Analitycy DM BOŚ, w raporcie z 23 marca, rozpoczęli pokrywanie spółki Śnieżka od rekomendacji \"trzymaj\" z ceną docelową na poziomie 78,1 zł.",
@@ -100,13 +135,6 @@
       "title": "Develia kupiła nieruchomość w Warszawie za 16 mln zł pod inwestycję na ok. 109 mieszkań Spółka zależna Develii nabyła prawo własności nieruchomości położonej w Warszawie przy ulicy Głębockiej. Cena wyniosła 16 mln zł. Spółka zamierza zrealizować na nieruchomości projekt inwestycyjny z szacowaną liczbą ok. 109 lokali mieszkalnych - podała Develia w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-30T18:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Niewiadow-PGM-dot-ubiegania-sie-o-dopuszczenie-akcji-do-obrotu-na-rynku-regulowanym-9106682.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Niewiadow-PGM-dot-ubiegania-sie-o-dopuszczenie-akcji-do-obrotu-na-rynku-regulowanym-9106682.html",
-      "title": "KNF daje zielone światło Niewiadów-PGM. Przeniesienie notowań na GPW Komisja Nadzoru Finansowego zatwierdziła prospekt notowanej obecnie na NewConnect spółki Niewiadów Polska Grupa Militarna, w związku z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym jej akcji serii A, B, C, D, E, F, G, H, I, TR, FA oraz K - podał Niewiadów - PGM.",
-      "content_html": "",
-      "date_published": "2026-03-30T18:06:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Komisja-Nadzoru-zatwierdzila-prospekt-Alior-Banku-dot-programu-emisji-euroobligacji-o-wartosci-3-mld-euro-9106673.html",
