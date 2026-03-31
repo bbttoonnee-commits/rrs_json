@@ -4,18 +4,74 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
-      "url": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
-      "title": "Archicom rozpoczął budowę prawie 200 mieszkań w czwartym etapie poznańskiej Wieży Jeżyce Archicom rozpoczął w Warszawie budowę czwartego etapu inwestycji Wieża Jeżyce w Poznaniu - podała spółka w komunikacie prasowym. Archicom odda do użytku prawie 200 mieszkań. Lokale będą gotowe do odbioru w połowie 2028 roku.",
+      "id": "https://www.bankier.pl/wiadomosc/Euvic-otrzymal-zamowienie-o-wartosci-20-22-mln-USD-na-instalacje-systemu-serwerowego-NVIDIA-9107080.html",
+      "url": "https://www.bankier.pl/wiadomosc/Euvic-otrzymal-zamowienie-o-wartosci-20-22-mln-USD-na-instalacje-systemu-serwerowego-NVIDIA-9107080.html",
+      "title": "Euvic otrzymał zamówienie o wartości 20-22 mln USD na instalację systemu serwerowego NVIDIA Euvic zawarł umowę ramową dotyczącą dostawy sprzętu oraz świadczenia usług towarzyszących z KIEFER TEK LTD z Grecji, a na jej podstawie otrzymał zamówienie o wartości 20-22 mln USD netto na instalację systemu serwerowego NVIDIA do budowy fabryki AI - podała spółka w komunikacie.",
       "content_html": "",
-      "date_published": "2026-03-31T11:14:00+02:00"
+      "date_published": "2026-03-31T12:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Enea-Operator-zawarla-pierwsza-umowe-na-usluge-IRB-zwiekszajaca-elastycznosc-sieci-9107070.html",
+      "url": "https://www.bankier.pl/wiadomosc/Enea-Operator-zawarla-pierwsza-umowe-na-usluge-IRB-zwiekszajaca-elastycznosc-sieci-9107070.html",
+      "title": "Enea Operator zawarła pierwszą umowę na usługę IRB zwiększającą elastyczność sieci Enea Operator podpisała pierwszą w Polsce umowę na świadczenie usługi Interwencyjnej Regulacji Mocy Biernej (IRB) – podała spółka w komunikacie prasowym. IRB jest innowacyjną usługą zwiększającą elastyczność sieci.",
+      "content_html": "",
+      "date_published": "2026-03-31T12:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
+      "title": "Wiceprezes: Tauron zakłada spadek raportowanej EBITDA w 2026 roku Tauron zakłada spadek raportowanej EBITDA w 2026 roku – poinformował wiceprezes Krzysztof Surma.",
+      "content_html": "",
+      "date_published": "2026-03-31T12:09:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MBF-Group-zawarl-MoU-dotyczace-projektu-symulatora-szkoleniowego-dla-smiglowca-AH-64E-Apache-9107059.html",
+      "url": "https://www.bankier.pl/wiadomosc/MBF-Group-zawarl-MoU-dotyczace-projektu-symulatora-szkoleniowego-dla-smiglowca-AH-64E-Apache-9107059.html",
+      "title": "MBF Group zawarł MoU dotyczące projektu symulatora szkoleniowego dla śmigłowca AH-64E Apache MBF Group zawarł z amerykańską spółką Advanced Digital Manufacturing LLC Memorandum of Understanding dotyczące współpracy przy przygotowaniu i rozwoju projektu symulatora szkoleniowego dla śmigłowca AH-64E Apache - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-03-31T12:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Litwa-rozwaza-dodatkowe-opodatkowanie-spolki-Orlen-Lietuva-9107057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Litwa-rozwaza-dodatkowe-opodatkowanie-spolki-Orlen-Lietuva-9107057.html",
+      "title": "Litwa rozważa dodatkowe opodatkowanie spółki Orlen Lietuva Litewskie władze rozważają możliwość dodatkowego opodatkowania spółki Orlen Lietuva, gdyby okazało się, że rafineria czerpie dochody z powodu wzrostu na międzynarodowych rynkach ceny ropy naftowej, a zwłaszcza oleju napędowego, w związku z wojną na Bliskim Wschodzie.",
+      "content_html": "",
+      "date_published": "2026-03-31T12:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przymusowy-wykup-akcji-Ministerstwo-Finansow-szykuje-zmiany-9107055.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przymusowy-wykup-akcji-Ministerstwo-Finansow-szykuje-zmiany-9107055.html",
+      "title": "Przymusowy wykup akcji. Ministerstwo Finansów szykuje zmiany Ministerstwo Finansów proponuje zwiększenie ochrony akcjonariuszy mniejszościowych przy przymusowym wykupie akcji spółek publicznych – wynika z opublikowanego we wtorek projektu ustawy. Zawiera on także propozycje przepisów mających na celu zwiększenie atrakcyjności rynku kapitałowego.",
+      "content_html": "",
+      "date_published": "2026-03-31T12:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CERT-Orange-prognozuje-ze-AI-w-26-bedzie-uzywane-do-automatyzacji-kolejnych-etapow-atakow-9107053.html",
+      "url": "https://www.bankier.pl/wiadomosc/CERT-Orange-prognozuje-ze-AI-w-26-bedzie-uzywane-do-automatyzacji-kolejnych-etapow-atakow-9107053.html",
+      "title": "CERT Orange prognozuje, że AI w '26 będzie używane do automatyzacji kolejnych etapów ataków CERT Orange Polska prognozuje, że narzędzia sztucznej inteligencji w 2026 roku będą wykorzystywane do automatyzacji kolejnych etapów ataków – od rozpoznania aż po eksfiltrację danych AI pozwoli na weryfikację efektów działania i korektę scenariusza ataku - podano w raporcie CERT Orange Polska za 2025 rok.",
+      "content_html": "",
+      "date_published": "2026-03-31T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-sadach-jest-ponad-21-tys-spraw-dot-sankcji-kredytu-darmowego-9107046.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-sadach-jest-ponad-21-tys-spraw-dot-sankcji-kredytu-darmowego-9107046.html",
+      "title": "ZBP W sądach jest ponad 21 tys. spraw dot. sankcji kredytu darmowego Pod koniec 2025 roku w sądach było ponad 21 tys. spraw w toku dotyczących sankcji kredytu darmowego, a zakończyło się ok. 3,4 tys. takich spraw - poinformowała wiceprezeska Związku Banków Polskich Agnieszka Wachnicka. Podała, że około 85-90 proc. spraw sądowych kończy się wygraną sektora bankowego.",
+      "content_html": "",
+      "date_published": "2026-03-31T11:50:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Choczewie-Ruszyla-formalna-procedura-budowy-pierwszej-atomowki-9107011.html",
       "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Choczewie-Ruszyla-formalna-procedura-budowy-pierwszej-atomowki-9107011.html",
       "title": "Przełom w Choczewie. Ruszyła formalna procedura budowy pierwszej atomówki Polskie Elektrownie Jądrowe złożyły wniosek do Państwowej Agencji Atomistyki (PAA) o wydanie zezwolenia na budowę pierwszej polskiej elektrowni jądrowej w Choczewie - poinformował na konferencji online prezes PEJ Marek Woszczyk.",
       "content_html": "",
-      "date_published": "2026-03-31T11:00:00+02:00"
+      "date_published": "2026-03-31T11:41:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
+      "title": "Archicom rozpoczął budowę prawie 200 mieszkań w czwartym etapie poznańskiej Wieży Jeżyce Archicom rozpoczął w Warszawie budowę czwartego etapu inwestycji Wieża Jeżyce w Poznaniu - podała spółka w komunikacie prasowym. Archicom odda do użytku prawie 200 mieszkań. Lokale będą gotowe do odbioru w połowie 2028 roku.",
+      "content_html": "",
+      "date_published": "2026-03-31T11:14:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-eurolandzie-w-marcu-2026-byla-nizsza-od-prognoz-9107008.html",
@@ -65,13 +121,6 @@
       "title": "PZU połączy się z LINK4. Prezes liczy na wzrost konkurencyjności ubezpieczyciela Zarząd PZU zdecydował o rozpoczęciu procesu połączenia prawnego i operacyjnego ze spółką zależną LINK4. Prezes PZU Bogdan Benczak w rozmowie z PAP Biznes przekonuje, że wdrożenie modelu multibrand w połączonej spółce zwiększy konkurencyjność ubezpieczyciela.",
       "content_html": "",
       "date_published": "2026-03-31T10:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
-      "title": "Wiceprezes: Tauron zakłada spadek raportowanej EBITDA w 2026 roku Tauron zakłada spadek raportowanej EBITDA w 2026 roku – poinformował wiceprezes Krzysztof Surma.",
-      "content_html": "",
-      "date_published": "2026-03-31T10:02:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szef-Pentagonu-jego-broker-i-miliony-na-akcje-zbrojeniowe-przed-wojna-z-Iranem-9106955.html",
@@ -146,7 +195,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Ameryka-bezpieczna-Europa-zaplaci-rachunek-Krzysztof-Bledowski-o-wplywie-wojny-z-Iranem-na-rynki-9106568.html",
       "url": "https://www.bankier.pl/wiadomosc/Ameryka-bezpieczna-Europa-zaplaci-rachunek-Krzysztof-Bledowski-o-wplywie-wojny-z-Iranem-na-rynki-9106568.html",
-      "title": "TYLKO U NAS Ameryka bezpieczna, Europa zapłaci rachunek? Krzysztof Błędowski o wpływie wojny z Iranem na rynki Kraje mniej rozwinięte, te które są mniej odporne na wstrząsy podażowe, ucierpią najbardziej. Mam tu na myśli kraje takie jak Indie, Bangladesz, Sri Lankę, Filipiny czy Afrykę Subsaharyjską. W następnej kolejności mamy kraje europejskie, które specjalizują się w sektorach energochłonnych i surowcochłonnych, takich jak chemia czy nawozy sztuczne – mówi Krzysztof Błędowski, ekonomista z wieloletnim doświadczeniem w amerykańskich instytucjach finansowych, adiunkt wizytujący w Wyższej Szkole Informatyki i Zarządzania.",
+      "title": "TYLKO U NAS Ameryka bezpieczna, Europa zapłaci rachunek? Krzysztof Błędowski o wpływie wojny z Iranem na rynki Kraje mniej rozwinięte, te które są mniej odporne na wstrząsy podażowe, ucierpią najbardziej. Mam tu na myśli kraje takie jak Indie, Bangladesz, Sri Lankę, Filipiny czy Afrykę Subsaharyjską. W następnej kolejności mamy kraje europejskie, które specjalizują się w sektorach energochłonnych i surowcochłonnych, takich jak chemia czy nawozy sztuczne – mówi Krzysztof Błędowski ,Senior Fellow, Strategy & Leadershi, ekonomista z wieloletnim doświadczeniem w amerykańskich instytucjach finansowych, adiunkt wizytujący w Wyższej Szkole Informatyki i Zarządzania.",
       "content_html": "",
       "date_published": "2026-03-31T06:00:00+02:00"
     },
