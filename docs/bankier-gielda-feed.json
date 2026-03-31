@@ -4,11 +4,81 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
+      "title": "Archicom rozpoczął budowę prawie 200 mieszkań w czwartym etapie poznańskiej Wieży Jeżyce Archicom rozpoczął w Warszawie budowę czwartego etapu inwestycji Wieża Jeżyce w Poznaniu - podała spółka w komunikacie prasowym. Archicom odda do użytku prawie 200 mieszkań. Lokale będą gotowe do odbioru w połowie 2028 roku.",
+      "content_html": "",
+      "date_published": "2026-03-31T11:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Choczewie-Ruszyla-formalna-procedura-budowy-pierwszej-atomowki-9107011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Choczewie-Ruszyla-formalna-procedura-budowy-pierwszej-atomowki-9107011.html",
+      "title": "Przełom w Choczewie. Ruszyła formalna procedura budowy pierwszej atomówki Polskie Elektrownie Jądrowe złożyły wniosek do Państwowej Agencji Atomistyki (PAA) o wydanie zezwolenia na budowę pierwszej polskiej elektrowni jądrowej w Choczewie - poinformował na konferencji online prezes PEJ Marek Woszczyk.",
+      "content_html": "",
+      "date_published": "2026-03-31T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-eurolandzie-w-marcu-2026-byla-nizsza-od-prognoz-9107008.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-eurolandzie-w-marcu-2026-byla-nizsza-od-prognoz-9107008.html",
+      "title": "Inflacja w eurolandzie jednak niższa od prognoz. Nie będzie aż tak źle? Marcowy skok inflacji HICP w strefie euro okazał się niższy od przypuszczeń większości ekonomistów. Nie oznacza to jednak, że scenariusz stagflacyjny możemy już zdjąć z biurka.",
+      "content_html": "",
+      "date_published": "2026-03-31T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/R-Power-rozpoczal-budowe-magazynu-energii-Jedwabno-o-mocy-150-MW-i-pojemnosci-300-MWh-9107006.html",
+      "url": "https://www.bankier.pl/wiadomosc/R-Power-rozpoczal-budowe-magazynu-energii-Jedwabno-o-mocy-150-MW-i-pojemnosci-300-MWh-9107006.html",
+      "title": "R.Power rozpoczął budowę magazynu energii Jedwabno o mocy 150 MW i pojemności 300 MWh R.Power rozpoczął budowę wielkoskalowego projektu bateryjnego magazynu energii (BESS) o mocy 150 MW i pojemności 300 MWh - podała spółka w komunikacie prasowym. Zakończenie budowy planowane jest na koniec 2026 roku. Generalnym wykonawcą projektu jest Nomad Electric.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-chcialby-by-wyplata-dywidendy-byla-zdarzeniem-powtarzalnym-w-kolejnych-latach-9106995.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-chcialby-by-wyplata-dywidendy-byla-zdarzeniem-powtarzalnym-w-kolejnych-latach-9106995.html",
+      "title": "Tauron chciałby, by wypłata dywidendy była zdarzeniem powtarzalnym w kolejnych latach Tauron chciałby, by wypłata dywidendy była zdarzeniem powtarzalnym w kolejnych latach – poinformował wiceprezes Krzysztof Surma.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iranski-urzednik-radzi-inwestorom-gdy-Trump-pompuje-akcje-lepiej-sprzedawajcie-9106914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iranski-urzednik-radzi-inwestorom-gdy-Trump-pompuje-akcje-lepiej-sprzedawajcie-9106914.html",
+      "title": "Irański urzędnik radzi inwestorom: gdy Trump pompuje akcje, lepiej sprzedawajcie Przewodniczący irańskiego parlamentu napisał na platformie X, że komunikaty płynące od amerykańskiej administracji, służą głównie realizacji zysków na giełdzie i inwestorzy powinni traktować je jako odwrotny indykator. \"Jeśli pompują, shortuj. Jeśli wyprzedają, zajmij długą pozycję\" - stwierdził urzędnik. Iran podał w poniedziałek, że nie prowadził żadnych rozmów z USA od ataku z 28 lutego.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:45:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MCI-Capital-ASI-prowadzi-obecnie-piec-procesow-akwizycyjnych-9106988.html",
+      "url": "https://www.bankier.pl/wiadomosc/MCI-Capital-ASI-prowadzi-obecnie-piec-procesow-akwizycyjnych-9106988.html",
+      "title": "MCI Capital ASI prowadzi obecnie pięć procesów akwizycyjnych MCI Capital ASI, który w ciągu dwóch ostatnich lat zrealizował dwie transakcje kupna spółek o wartości 150-200 mln zł, prowadzi obecnie aktywne prace nad pięcioma procesami akwizycyjnymi - poinformował partner zarządzający MCI Capital ASI, Paweł Borys.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spyrosoft-nie-wyklucza-ze-inwestor-strategiczny-moglby-chciec-zdjac-spolke-z-gieldy-9106986.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spyrosoft-nie-wyklucza-ze-inwestor-strategiczny-moglby-chciec-zdjac-spolke-z-gieldy-9106986.html",
+      "title": "Spyrosoft nie wyklucza, że inwestor strategiczny mógłby chcieć zdjąć spółkę z giełdy Grupa Spyrosoft, która zdecydowała, że pozyskanie inwestora strategicznego jest głównym kierunkiem dla dalszego rozwoju, nie wyklucza, że mógłby on chcieć zdjąć spółkę z giełdy - poinformował PAP Biznes Konrad Weiske, prezes Spyrosoft. Prezes będzie chciał pozostać w spółce, ale mógłby rozważyć sprzedaż części posiadanych akcji.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PZU-polaczy-sie-z-LINK4-prezes-liczy-na-wzrost-konkurencyjnosci-ubezpieczyciela-wywiad-9106982.html",
+      "url": "https://www.bankier.pl/wiadomosc/PZU-polaczy-sie-z-LINK4-prezes-liczy-na-wzrost-konkurencyjnosci-ubezpieczyciela-wywiad-9106982.html",
+      "title": "PZU połączy się z LINK4. Prezes liczy na wzrost konkurencyjności ubezpieczyciela Zarząd PZU zdecydował o rozpoczęciu procesu połączenia prawnego i operacyjnego ze spółką zależną LINK4. Prezes PZU Bogdan Benczak w rozmowie z PAP Biznes przekonuje, że wdrożenie modelu multibrand w połączonej spółce zwiększy konkurencyjność ubezpieczyciela.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
       "url": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
-      "title": "Tauron zakłada spadek raportowanej EBITDA w 2026 roku – wiceprezes Tauron zakłada spadek raportowanej EBITDA w 2026 roku – poinformował wiceprezes Krzysztof Surma.",
+      "title": "Wiceprezes: Tauron zakłada spadek raportowanej EBITDA w 2026 roku Tauron zakłada spadek raportowanej EBITDA w 2026 roku – poinformował wiceprezes Krzysztof Surma.",
       "content_html": "",
       "date_published": "2026-03-31T10:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-Pentagonu-jego-broker-i-miliony-na-akcje-zbrojeniowe-przed-wojna-z-Iranem-9106955.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-Pentagonu-jego-broker-i-miliony-na-akcje-zbrojeniowe-przed-wojna-z-Iranem-9106955.html",
+      "title": "Szef Pentagonu, jego broker i miliony na akcje zbrojeniowe przed wojną z Iranem W tygodniach poprzedzających ataki USA i Izraela na Iran broker szefa Pentagonu Pete'a Hegsetha próbował dokonać dużej inwestycji w akcje firm zbrojeniowych - poinformował we wtorek dziennik \"Financial Times\", powołując się na trzy bliskie sprawie źródła.",
+      "content_html": "",
+      "date_published": "2026-03-31T10:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-Polsce-w-marcu-2026-Tak-szok-paliwowy-podbil-inflacje-CPI-9106948.html",
@@ -69,7 +139,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/WP-Holding-ma-porozumienie-z-glownymi-akcjonariuszami-ws-wezwania-na-skup-pozostalych-akcji-wlasnych-9106870.html",
       "url": "https://www.bankier.pl/wiadomosc/WP-Holding-ma-porozumienie-z-glownymi-akcjonariuszami-ws-wezwania-na-skup-pozostalych-akcji-wlasnych-9106870.html",
-      "title": "WP Holding ma porozumienie z głównymi akcjonariuszami ws. wezwania na skup pozostałych akcji własnych WP Holding ma porozumienie z głównymi akcjonariuszami - Jackiem Świderskim, Michałem Brańskim i Krzysztofem Sierotą oraz ich spółkami zależnymi Orfe, 10X i Albemuthws - dotyczące wezwania w celu nabycia wszystkich pozostałych akcji własnych spółki. Cena została określona w wysokości 59 zł za papier - podała spółka w komunikacie.",
+      "title": "Będzie wezwanie na Wirtualną Polskę. To formalny zabieg na skup akcji własnych WP Holding ma porozumienie z głównymi akcjonariuszami - Jackiem Świderskim, Michałem Brańskim i Krzysztofem Sierotą oraz ich spółkami zależnymi Orfe, 10X i Albemuthws - dotyczące wezwania w celu nabycia wszystkich pozostałych akcji własnych spółki. Cena została określona w wysokości 59 zł za papier - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-31T06:20:00+02:00"
     },
@@ -135,6 +205,13 @@
       "title": "Develia kupiła nieruchomość w Warszawie za 16 mln zł pod inwestycję na ok. 109 mieszkań Spółka zależna Develii nabyła prawo własności nieruchomości położonej w Warszawie przy ulicy Głębockiej. Cena wyniosła 16 mln zł. Spółka zamierza zrealizować na nieruchomości projekt inwestycyjny z szacowaną liczbą ok. 109 lokali mieszkalnych - podała Develia w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-30T18:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Niewiadow-PGM-dot-ubiegania-sie-o-dopuszczenie-akcji-do-obrotu-na-rynku-regulowanym-9106682.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zatwierdzila-prospekt-Niewiadow-PGM-dot-ubiegania-sie-o-dopuszczenie-akcji-do-obrotu-na-rynku-regulowanym-9106682.html",
+      "title": "KNF daje zielone światło Niewiadów-PGM. Przeniesienie notowań na GPW Komisja Nadzoru Finansowego zatwierdziła prospekt notowanej obecnie na NewConnect spółki Niewiadów Polska Grupa Militarna, w związku z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym jej akcji serii A, B, C, D, E, F, G, H, I, TR, FA oraz K - podał Niewiadów - PGM.",
+      "content_html": "",
+      "date_published": "2026-03-30T18:06:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Komisja-Nadzoru-zatwierdzila-prospekt-Alior-Banku-dot-programu-emisji-euroobligacji-o-wartosci-3-mld-euro-9106673.html",
