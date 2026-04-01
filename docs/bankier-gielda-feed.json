@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Izoblok-moze-zrealizowac-zamowienia-dla-Audi-Hungaria-za-ok-110-3-mln-zl-9108077.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izoblok-moze-zrealizowac-zamowienia-dla-Audi-Hungaria-za-ok-110-3-mln-zl-9108077.html",
+      "title": "Izoblok może zrealizować zamówienia dla Audi Hungaria za ok. 110,3 mln zł Spółka zależna Izobloku - Izoblok GmbH - otrzymała nominacje do projektów na produkcję seryjną części samochodowych produkowanych z tworzywa EPP od spółki Audi Hungaria - podał Izoblok w komunikacie. Łączna wartość otrzymanych zamówień szacowana jest na ok. 110,3 mln zł.",
+      "content_html": "",
+      "date_published": "2026-04-01T16:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Zabrze-ma-umowe-z-zagranicznym-podmiotem-o-wartosci-ok-11-proc-przychodow-za-25-9108021.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Zabrze-ma-umowe-z-zagranicznym-podmiotem-o-wartosci-ok-11-proc-przychodow-za-25-9108021.html",
+      "title": "Mostostal Zabrze ma umowę z zagranicznym podmiotem o wartości ok. 11 proc. przychodów za '25 Spółka zależna Mostostalu Zabrze - Mostostal Zabrze Realizacje Przemysłowe (MZRP) - ma umowę z zagranicznym kontrahentem o wartości ok. 11 proc. przychodów ze sprzedaży Grupy Mostostal Zabrze za 2025 rok - podała spółka w komunikacie. W 2025 roku Grupa Mostostal Zabrze miała 1,22 mld zł przychodów ze sprzedaży.",
+      "content_html": "",
+      "date_published": "2026-04-01T15:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ok-146-mln-zl-brutto-najkorzystniejsza-w-przetargu-Portu-Polska-9107995.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ok-146-mln-zl-brutto-najkorzystniejsza-w-przetargu-Portu-Polska-9107995.html",
       "title": "Oferta Budimeksu za ok. 146 mln zł brutto najkorzystniejsza w przetargu Portu Polska Oferta Budimeksu za ok. 146 mln zł brutto została wybrana najkorzystniejszą w przetargu na wykonanie fundamentów głębokich pod terminal pasażerski w ramach programu inwestycyjnego Port Polska - podała spółka w komunikacie prasowym.",
@@ -653,20 +667,6 @@
       "title": "KNF daje zielone światło Niewiadów-PGM. Przeniesienie notowań na GPW Komisja Nadzoru Finansowego zatwierdziła prospekt notowanej obecnie na NewConnect spółki Niewiadów Polska Grupa Militarna, w związku z zamiarem ubiegania się o dopuszczenie do obrotu na rynku regulowanym jej akcji serii A, B, C, D, E, F, G, H, I, TR, FA oraz K - podał Niewiadów - PGM.",
       "content_html": "",
       "date_published": "2026-03-30T18:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Komisja-Nadzoru-zatwierdzila-prospekt-Alior-Banku-dot-programu-emisji-euroobligacji-o-wartosci-3-mld-euro-9106673.html",
-      "url": "https://www.bankier.pl/wiadomosc/Komisja-Nadzoru-zatwierdzila-prospekt-Alior-Banku-dot-programu-emisji-euroobligacji-o-wartosci-3-mld-euro-9106673.html",
-      "title": "Komisja Nadzoru zatwierdziła prospekt. Alior gotowy do emisji euroobligacji Komisja Nadzoru nad Sektorem Finansowym (fr. Commission de Surveillance du Secteur Financier) zatwierdziła prospekt banku dotyczący programu emisji euroobligacji średnioterminowych (Program EMTN) o wartości 3 mld euro - podał Alior w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-30T17:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Voxel-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9106671.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Voxel-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9106671.html",
-      "title": "Wyniki Voxel w IV kw. 2025 roku vs. konsensus PAP Poniżej przedstawiono wyniki Voxel w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-03-30T17:44:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
