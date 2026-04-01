@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Austriaccy-rolnicy-protestuja-Na-ulice-Wiednia-wyjechalo-300-traktorow-9108219.html",
+      "url": "https://www.bankier.pl/wiadomosc/Austriaccy-rolnicy-protestuja-Na-ulice-Wiednia-wyjechalo-300-traktorow-9108219.html",
+      "title": "Austriaccy rolnicy protestują. Na ulice Wiednia wyjechało 300 traktorów",
+      "content_html": "Konwój 300 traktorów przejechał w środę ulicami Wiednia - przekazała agencja AFP. Protestujący rolnicy domagają się, aby restauracje i supermarkety informowały o pochodzeniu produktów, które oferują.",
+      "date_published": "2026-04-01T20:41:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-USA-chce-zniesc-prawo-ziemi-Tylko-nasz-kraj-jest-tak-glupi-9108213.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-USA-chce-zniesc-prawo-ziemi-Tylko-nasz-kraj-jest-tak-glupi-9108213.html",
+      "title": "Trump USA chce znieść prawo ziemi. „Tylko nasz kraj jest tak głupi”",
+      "content_html": "Tylko nasz kraj jest tak głupi, by nadawać obywatelstwo z urodzenia - oświadczył w środę prezydent USA Donald Trump, który tego dnia wziął udział w rozprawie w Sądzie Najwyższym dotyczącej jego dekretu, ograniczającego nabywanie obywatelstwa...",
+      "date_published": "2026-04-01T20:26:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Answear-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9108174.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Answear-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9108174.html",
       "title": "Słaba końcówka roku dla Answear. Zyski mocno poniżej oczekiwań",
@@ -681,27 +695,6 @@
       "title": "Prezent dla Kremla? USA zdejmują sankcje ze statków wożących ukraińskie zboże",
       "content_html": "Amerykański resort finansów poinformował we wtorek o zdjęciu sankcji z trzech rosyjskich statków handlowych. Nie wyjaśniono okoliczności tej decyzji. Według ukraińskich mediów jeden z kontenerowców był wykorzystywany przez Rosję do transportu...",
       "date_published": "2026-04-01T08:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawie-bilion-dolarow-za-tworcow-ChatGPT-OpenAI-kasuje-Sore-i-szykuje-sie-na-gielde-9107544.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawie-bilion-dolarow-za-tworcow-ChatGPT-OpenAI-kasuje-Sore-i-szykuje-sie-na-gielde-9107544.html",
-      "title": "Prawie bilion dolarów za twórców ChatGPT. OpenAI kasuje Sorę i szykuje się na giełdę",
-      "content_html": "Firma OpenAI zamknęła rekordową rundę finansowania o wartości 122 mld USD, osiągając wycenę post-money na poziomie 852 mld USD - poinformował CNBC.",
-      "date_published": "2026-04-01T08:37:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/36-zl-za-przejazd-A4-Katowice-Krakow-Techniczna-korekta-cen-9107545.html",
-      "url": "https://www.bankier.pl/wiadomosc/36-zl-za-przejazd-A4-Katowice-Krakow-Techniczna-korekta-cen-9107545.html",
-      "title": "36 zł za przejazd A4 Katowice-Kraków. \"Techniczna korekta\" cen",
-      "content_html": "Wprowadzana od 1 kwietnia podwyżka opłat za przejazd płatnym odcinkiem autostrady A4 Katowice-Kraków nie odzwierciedla w pełni realnego wzrostu kosztów - napisał w rozesłanym we wtorek oświadczeniu zarządca koncesyjnego odcinka A4, spółka...",
-      "date_published": "2026-04-01T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budowa-w-Bialym-Domu-zablokowana-Sedzia-uderza-w-projekt-prezydenta-Nie-jest-wlascicielem-9107556.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budowa-w-Bialym-Domu-zablokowana-Sedzia-uderza-w-projekt-prezydenta-Nie-jest-wlascicielem-9107556.html",
-      "title": "Budowa w Białym Domu zablokowana. Sędzia uderza w projekt Trumpa",
-      "content_html": "Budowa sali balowej przy Białym Domu ma być wstrzymana do czasu udzielenia zgody na ten projekt przez Kongres USA - orzekł we wtorek sędzia federalny w Waszyngtonie. Administracja ma dwa tygodnie na odwołanie się od tej decyzji.",
-      "date_published": "2026-04-01T08:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
