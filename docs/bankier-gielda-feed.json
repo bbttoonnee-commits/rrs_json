@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-24-godziny-na-Steam-sprzedano-12-721-sztuk-najnowszej-gry-Big-Cheese-Studio-9108262.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-24-godziny-na-Steam-sprzedano-12-721-sztuk-najnowszej-gry-Big-Cheese-Studio-9108262.html",
+      "title": "W 24 godziny na Steam sprzedano 12.721 sztuk najnowszej gry Big Cheese Studio W ciągu 24 godzin od premiery w dniu 31 marca na platformie Steam sprzedano 12.721 sztuk \"Cooking Simulator 2 Better Together\" - poinformował wydawca gry Big Cheese Studio w komunikacie. Łączne przychody ze sprzedaży gry na Steam w tym czasie wyniosły 240,48 tys. USD.",
+      "content_html": "",
+      "date_published": "2026-04-01T22:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosna-nadzieje-na-pokoj-z-Iranem-Wall-Street-kontynuuje-odbicie-9108257.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosna-nadzieje-na-pokoj-z-Iranem-Wall-Street-kontynuuje-odbicie-9108257.html",
+      "title": "Rosną nadzieje na pokój z Iranem. Wall Street kontynuuje odbicie Środa była drugim dniem odbicia na wcześniej wyprzedanym rynku. Pomagały także całkiem niezłe dane z amerykańskiej gospodarki.",
+      "content_html": "",
+      "date_published": "2026-04-01T22:07:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MOL-przejmuje-od-Fonix-15-38-proc-udzialow-w-Alteo-po-transakcji-bedzie-mial-lacznie-39-97-proc-udzialow-9108231.html",
       "url": "https://www.bankier.pl/wiadomosc/MOL-przejmuje-od-Fonix-15-38-proc-udzialow-w-Alteo-po-transakcji-bedzie-mial-lacznie-39-97-proc-udzialow-9108231.html",
       "title": "Strategiczna wymiana na Węgrzech. MOL oddaje udziały w Waberer's za akcje energetycznego Alteo Grupa MOL przejmuje od funduszu private equity Fonix 15,38 proc. udziałów (3.064.849 akcji) w Alteo, a Fonix w zamian otrzyma od MOL 15 proc. udziałów (2.654.061 akcji) w Waberer's International - podał MOL w komunikacie. Po przeprowadzeniu transakcji łączny udział Grupy MOL w spółce Alteo wzrośnie do 39,97 proc.",
@@ -646,20 +660,6 @@
       "title": "TYLKO U NAS Ameryka bezpieczna, Europa zapłaci rachunek? Krzysztof Błędowski o wpływie wojny z Iranem na rynki Kraje mniej rozwinięte, te które są mniej odporne na wstrząsy podażowe, ucierpią najbardziej. Mam tu na myśli kraje takie jak Indie, Bangladesz, Sri Lankę, Filipiny czy Afrykę Subsaharyjską. W następnej kolejności mamy kraje europejskie, które specjalizują się w sektorach energochłonnych i surowcochłonnych, takich jak chemia czy nawozy sztuczne – mówi Krzysztof Błędowski ,Senior Fellow, Strategy & Leadershi, ekonomista z wieloletnim doświadczeniem w amerykańskich instytucjach finansowych, adiunkt wizytujący w Wyższej Szkole Informatyki i Zarządzania.",
       "content_html": "",
       "date_published": "2026-03-31T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-Wall-Street-spada-Obligacje-na-przekor-drozejacej-ropie-9106821.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-Wall-Street-spada-Obligacje-na-przekor-drozejacej-ropie-9106821.html",
-      "title": "Trump grozi, Wall Street spada. Obligacje na przekór drożejącej ropie Nowojorskie giełdy zakończyły na minusie trzecią sesję z rzędu, a Nasdaq i S&P500 pogłębiły przeszło półroczne minima.",
-      "content_html": "",
-      "date_published": "2026-03-30T22:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-w-2025-roku-zwiekszyl-EBITDA-o-16-proc-zgodnie-z-szacunkami-9106818.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-w-2025-roku-zwiekszyl-EBITDA-o-16-proc-zgodnie-z-szacunkami-9106818.html",
-      "title": "Tauron pokazuje wyniki. 7,5 mld zł na liczniku i kluczowa decyzja zarządu Tauron w 2025 roku zwiększył wynik EBITDA o 16 proc., do 7,5 mld zł, a zysk netto poprawił się o 7,9 proc. i wyniósł 3,3 mld zł - poinformowała spółka w komunikacie. Wyniki są zgodne z wcześniej publikowanymi szacunkami.",
-      "content_html": "",
-      "date_published": "2026-03-30T21:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

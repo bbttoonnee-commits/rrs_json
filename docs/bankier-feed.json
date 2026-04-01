@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rosna-nadzieje-na-pokoj-z-Iranem-Wall-Street-kontynuuje-odbicie-9108257.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosna-nadzieje-na-pokoj-z-Iranem-Wall-Street-kontynuuje-odbicie-9108257.html",
+      "title": "Rosną nadzieje na pokój z Iranem. Wall Street kontynuuje odbicie",
+      "content_html": "Środa była drugim dniem odbicia na wcześniej wyprzedanym rynku. Pomagały także całkiem niezłe dane z amerykańskiej gospodarki.",
+      "date_published": "2026-04-01T23:07:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MOL-przejmuje-od-Fonix-15-38-proc-udzialow-w-Alteo-po-transakcji-bedzie-mial-lacznie-39-97-proc-udzialow-9108231.html",
       "url": "https://www.bankier.pl/wiadomosc/MOL-przejmuje-od-Fonix-15-38-proc-udzialow-w-Alteo-po-transakcji-bedzie-mial-lacznie-39-97-proc-udzialow-9108231.html",
       "title": "Strategiczna wymiana na Węgrzech. MOL oddaje udziały w Waberer's za akcje energetycznego Alteo",
@@ -688,20 +695,6 @@
       "title": "Oszustwo w Elektrowni Bełchatów. Sprzedali milion litrów wody z kranu za 21 mln zł",
       "content_html": "Prokuratura Regionalna w Łodzi skierowała do sądu akt oskarżenia przeciwko prezes spółki z woj. zachodniopomorskiego i jej mężowi. Mieli dopuścić się oszustw na szkodę Elektrowni Bełchatów. Zamiast specyfiku do odsiarczania spalin mieli...",
       "date_published": "2026-04-01T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Seria-kontrowersyjnych-zwolnien-w-Hiszpanii-Terrorysci-z-ETA-wychodza-z-wiezien-9107517.html",
-      "url": "https://www.bankier.pl/wiadomosc/Seria-kontrowersyjnych-zwolnien-w-Hiszpanii-Terrorysci-z-ETA-wychodza-z-wiezien-9107517.html",
-      "title": "Seria kontrowersyjnych zwolnień w Hiszpanii. Terroryści z ETA wychodzą z więzień?",
-      "content_html": "Około 60 byłych członków baskijskiej terrorystycznej organizacji ETA, którzy odbywają karę w Kraju Basków na północy Hiszpanii, mogłoby skorzystać z warunkowych zwolnień z więzień – zauważył we wtorek hiszpański dziennik „ABC”...",
-      "date_published": "2026-04-01T08:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-wprowadza-kare-smierci-dla-terrorystow-ONZ-ostrzega-przed-zbrodniami-wojennymi-9107554.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-wprowadza-kare-smierci-dla-terrorystow-ONZ-ostrzega-przed-zbrodniami-wojennymi-9107554.html",
-      "title": "Izrael wprowadza karę śmierci dla terrorystów. ONZ ostrzega przed zbrodniami wojennymi",
-      "content_html": "Realizacja przyjętego przez Izrael prawa, które zakłada karę śmierci dla terrorystów będzie stanowić „zbrodnię wojenną” – powiedział we wtorek Wysoki Komisarz ONZ ds. Praw Człowieka (UNHCHR) Volker Tuerk. Przeciw przyjętym przepisom...",
-      "date_published": "2026-04-01T08:44:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
