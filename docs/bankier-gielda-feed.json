@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Answear-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9108174.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Answear-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9108174.html",
+      "title": "Słaba końcówka roku dla Answear. Zyski mocno poniżej oczekiwań Poniżej przedstawiono wyniki Answear w czwartym kwartale 2025 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-04-01T18:53:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/RN-Answear-obnizyla-warunek-EBITDA-programu-motywacyjnego-na-26-ze-100-mln-zl-do-90-mln-zl-9108160.html",
       "url": "https://www.bankier.pl/wiadomosc/RN-Answear-obnizyla-warunek-EBITDA-programu-motywacyjnego-na-26-ze-100-mln-zl-do-90-mln-zl-9108160.html",
       "title": "RN Answear obniżyła warunek EBITDA programu motywacyjnego na '26 ze 100 mln zł do 90 mln zł Rada nadzorcza Answear podjęła uchwałę o obniżeniu warunku EBITDA programu motywacyjnego na rok 2026 ze 100 mln zł do 90 mln zł oraz warunku kursowego z 50 zł do 45 zł - podała spółka w komunikacie.",
@@ -660,13 +667,6 @@
       "title": "Mostostal Warszawa szacuje, że miał 45 mln zł straty netto j.d. w 2025 Mostostal Warszawa szacuje, że w 2025 r. miał 45 mln zł straty netto j.d. - podała spółka w komunikacie. Skonsolidowane przychody ze sprzedaży wyniosły 1.363 mln zł.",
       "content_html": "",
       "date_published": "2026-03-30T19:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Domanski-uspokaja-Inflacja-3-proc-w-2026-r-wciaz-realna-mimo-wojny-9106749.html",
-      "url": "https://www.bankier.pl/wiadomosc/Domanski-uspokaja-Inflacja-3-proc-w-2026-r-wciaz-realna-mimo-wojny-9106749.html",
-      "title": "Domański uspokaja: Inflacja 3 proc. w 2026 r. wciąż realna mimo wojny Minister finansów i gospodarki Andrzej Domański poinformował, że prognoza inflacji na 2026 r. w wysokości 3 proc. jest aktualna. Nie widzi on obecnie potrzeby rewizji budżetu na 2026 r.",
-      "content_html": "",
-      "date_published": "2026-03-30T19:44:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
