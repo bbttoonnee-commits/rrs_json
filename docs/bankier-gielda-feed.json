@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ok-146-mln-zl-brutto-najkorzystniejsza-w-przetargu-Portu-Polska-9107995.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ok-146-mln-zl-brutto-najkorzystniejsza-w-przetargu-Portu-Polska-9107995.html",
+      "title": "Oferta Budimeksu za ok. 146 mln zł brutto najkorzystniejsza w przetargu Portu Polska Oferta Budimeksu za ok. 146 mln zł brutto została wybrana najkorzystniejszą w przetargu na wykonanie fundamentów głębokich pod terminal pasażerski w ramach programu inwestycyjnego Port Polska - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-04-01T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unibep-zaklada-rozwoj-wszystkich-swoich-sektorow-budowlanych-liczy-na-zamowienia-zwiazane-z-obronnoscia-9107989.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unibep-zaklada-rozwoj-wszystkich-swoich-sektorow-budowlanych-liczy-na-zamowienia-zwiazane-z-obronnoscia-9107989.html",
+      "title": "Unibep zakłada rozwój wszystkich swoich sektorów budowlanych; liczy na zamówienia związane z obronnością Unibep dobiera selektywnie kontrakty do backlogu i ocenia, że wyniki po 2025 r. napawają optymizmem na przyszłość. Nastawia się na rozwój w każdym z obsługiwanych sektorów budowlanych, ale mocno nastawia się na zamówienia związane z obronnością - poinformowali przedstawiciele zarządu podczas konferencji.",
+      "content_html": "",
+      "date_published": "2026-04-01T14:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asseco-Poland-stawia-na-miekka-centralizacje-prac-zwiazanych-z-AI-w-swojej-grupie-9107774.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-stawia-na-miekka-centralizacje-prac-zwiazanych-z-AI-w-swojej-grupie-9107774.html",
+      "title": "Asseco Poland stawia na 'miękką' centralizację prac związanych z AI w swojej grupie Asseco Poland stawia na 'miękką' centralizację prac związanych z AI w swojej grupie - poinformował prezes Adam Góral na konferencji prasowej.",
+      "content_html": "",
+      "date_published": "2026-04-01T14:39:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-AC-w-I-kw-26-wyniosly-47-75-mln-zl-mniej-rdr-o-14-25-proc-wstepne-dane-9107969.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-AC-w-I-kw-26-wyniosly-47-75-mln-zl-mniej-rdr-o-14-25-proc-wstepne-dane-9107969.html",
+      "title": "Przychody AC w I kw. '26 wyniosły 47,75 mln zł, mniej rdr o 14,25 proc. - wstępne dane Przychody ze sprzedaży spółki AC w I kw. 2026 roku wyniosły 47,75 mln zł i są niższe rdr o 14,25 proc. - podała spółka w komunikacie z wstępnymi wynikami.",
+      "content_html": "",
+      "date_published": "2026-04-01T14:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-ma-porozumienie-o-wspolpracy-z-SGE-i-Atec-Group-ws-budowy-SMR-9107839.html",
       "url": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-ma-porozumienie-o-wspolpracy-z-SGE-i-Atec-Group-ws-budowy-SMR-9107839.html",
       "title": "Polimex Mostostal ma porozumienie o współpracy z SGE i Atec Group ws. budowy SMR Polimex Mostostal podpisał porozumienie o współpracy z SGE oraz z Atec Group w sprawie rozpoczęcia współpracy w zakresie wdrożenia i budowy małych reaktorów modułowych w oparciu o technologię BWRX-300 w regionie Europy Środkowo-Wschodniej - poinformowała spółka w komunikacie.",
@@ -72,13 +100,6 @@
       "title": "Debiut na gruzach crowdfundingu. Zanosi się na najlepszy start w historii NewConnect Kombinat Konopny, działający w segmencie naturalnych suplementów roślinnych oraz tekstyliów konopnych, zadebiutował w środę na rynku NewConnect. Kurs akcji spółki znajduje się w fazie równoważenia.",
       "content_html": "",
       "date_published": "2026-04-01T11:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-Poland-stawia-na-miekka-centralizacje-prac-zwiazanych-z-AI-w-swojej-grupie-9107774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-stawia-na-miekka-centralizacje-prac-zwiazanych-z-AI-w-swojej-grupie-9107774.html",
-      "title": "Asseco Poland stawia na 'miękką' centralizację prac związanych z AI w swojej grupie Asseco Poland stawia na 'miękką' centralizację prac związanych z AI w swojej grupie - poinformował prezes Adam Góral na konferencji prasowej.",
-      "content_html": "",
-      "date_published": "2026-04-01T11:14:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zadluzenie-Polski-dobilo-do-60-PKB-Stalo-sie-to-trzy-miesiace-temu-9107773.html",
@@ -646,27 +667,6 @@
       "title": "Wyniki Voxel w IV kw. 2025 roku vs. konsensus PAP Poniżej przedstawiono wyniki Voxel w czwartym kwartale 2025 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
       "content_html": "",
       "date_published": "2026-03-30T17:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dawny-GetBack-juz-160-procent-na-liczniku-w-tym-roku-Energetyka-i-wegiel-gwiazdami-sesji-9106658.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dawny-GetBack-juz-160-procent-na-liczniku-w-tym-roku-Energetyka-i-wegiel-gwiazdami-sesji-9106658.html",
-      "title": "SESJA NA GPW Dawny GetBack już 160 procent na liczniku w tym roku. Energetyka i węgiel gwiazdami sesji Choć poranek stał pod znakiem spadków pod wpływem doniesień na temat eskalacji konfliktu na Bliskim Wschodzie. To reszta dnia sugerowała poprawę nastrojów i uodpornienie na trudną sytuację na rynku ropy. Na GPW echem odbiły się lokalne impulsy w postaci zapowiedzi kolejnej dywidendy w energetyce oraz kontynuacja hossy na spółkach węglowych.",
-      "content_html": "",
-      "date_published": "2026-03-30T17:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-marnowaniem-pradu-z-fotowoltaiki-Rzad-pompuje-miliard-w-domowe-magazyny-energii-9106584.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-marnowaniem-pradu-z-fotowoltaiki-Rzad-pompuje-miliard-w-domowe-magazyny-energii-9106584.html",
-      "title": "Koniec z marnowaniem prądu z fotowoltaiki? Rząd pompuje miliard w domowe magazyny energii Polskie Sieci Elektroenergetyczne (PSE) wydały już warunki przyłączeniowe dla magazynów energii o łącznej mocy blisko 40 GW - poinformowała minister klimatu i środowiska Paulina Hennig-Kloska. Dodała, że celem MKiŚ jest osiągnięcie liczby 200 tys. przydomowych magazynów energii w Polsce.",
-      "content_html": "",
-      "date_published": "2026-03-30T16:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Magdalena-Kaminska-powolana-na-stanowisko-prezesa-Energi-od-1-IV-9106544.html",
-      "url": "https://www.bankier.pl/wiadomosc/Magdalena-Kaminska-powolana-na-stanowisko-prezesa-Energi-od-1-IV-9106544.html",
-      "title": "Magdalena Kamińska powołana na stanowisko prezesa Energi Magdalena Kamińska, dotychczasowa wiceprezes Energi, została powołana na stanowisko prezesa, które obejmie 1 kwietnia br. - poinformowała Energa w komunikacie giełdowym. Wiceprezesem spółki został Przemysław Janiak.",
-      "content_html": "",
-      "date_published": "2026-03-30T16:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
