@@ -4,11 +4,46 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Seleny-do-redukuj-9107724.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Seleny-do-redukuj-9107724.html",
+      "title": "DM BDM obniżył rekomendację Seleny do \"redukuj\" Analitycy DM BDM, w raporcie z 23 marca, obniżyli rekomendację spółki Selena FM do \"redukuj\" z \"kupuj\", wyznaczając cenę docelową na poziomie 47,5 zł.",
+      "content_html": "",
+      "date_published": "2026-04-01T10:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oto-10-najlepszych-spolek-na-GPW-9107647.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oto-10-najlepszych-spolek-na-GPW-9107647.html",
+      "title": "RANKING Oto 10 najlepszych spółek na GPW Analitycy, maklerzy i zarządzający funduszami wybrali najlepsze spółki z warszawskiej giełdy. W czołówce rankingu Giełdowa Spółka Roku 2025 znalazły się m.in. Creotech, cyber_Folks i Bioceltix.",
+      "content_html": "",
+      "date_published": "2026-04-01T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-akcji-Toya-do-15-5-zl-9107717.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-akcji-Toya-do-15-5-zl-9107717.html",
+      "title": "Noble Securities podniósł cenę docelową akcji Toya Analitycy Noble Securities, w raporcie z 27 marca, podnieśli cenę docelową akcji spółki Toya do 15,5 zł z 14,5 zł i rekomendują kupno akcji.",
+      "content_html": "",
+      "date_published": "2026-04-01T09:52:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Odbicie-na-rynkach-Inwestorzy-znow-uwierzyli-Trumpowi-i-stawiaja-na-szybki-koniec-wojny-9107640.html",
       "url": "https://www.bankier.pl/wiadomosc/Odbicie-na-rynkach-Inwestorzy-znow-uwierzyli-Trumpowi-i-stawiaja-na-szybki-koniec-wojny-9107640.html",
       "title": "Odbicie na rynkach. Inwestorzy znów uwierzyli Trumpowi i stawiają na szybki koniec wojny Ostatni dzień marca na Wall Street był najlepszą sesją amerykańskich indeksów od maja 2025 roku. Optymizm na rynkach przeniósł się na środę 1 kwietnia i azjatyckie giełdy. Wzrost cen ropy wyraźnie zahamował. Rosły złoto i bitcoin. Donald Trump zapowiedział, że wojna z Iranem zakończy się za 2-3 tygodni, a rynki chwyciły się nadziei na pokój.",
       "content_html": "",
-      "date_published": "2026-04-01T08:43:00+02:00"
+      "date_published": "2026-04-01T09:29:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PMI-w-marcu-2026-roku-pozytywnie-zaskoczyl-ekonomistow-Ale-jest-haczyk-9107669.html",
+      "url": "https://www.bankier.pl/wiadomosc/PMI-w-marcu-2026-roku-pozytywnie-zaskoczyl-ekonomistow-Ale-jest-haczyk-9107669.html",
+      "title": "PMI pozytywnie zaskoczył ekonomistów. Ale jest jeden haczyk Wyższy od oczekiwań wzrost polskiego PMI wynikał przede wszystkim z wydłużenia czasu dostaw oraz bardzo silnej presji kosztowej.",
+      "content_html": "",
+      "date_published": "2026-04-01T09:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-mocno-tanieje-Swiat-liczy-na-pokoj-na-Bliskim-Wschodzie-9107678.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-mocno-tanieje-Swiat-liczy-na-pokoj-na-Bliskim-Wschodzie-9107678.html",
+      "title": "Gaz w Europie mocno tanieje. Świat liczy na pokój na Bliskim Wschodzie Ceny gazu w Europie mocno spadają w reakcji na możliwy bliski koniec wojny na Bliskim Wschodzie - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-04-01T08:54:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-pomimo-zapowiedzi-USA-o-zblizajacym-sie-koncu-konfliktu-w-Iranie-9107649.html",
@@ -137,16 +172,16 @@
       "date_published": "2026-03-31T18:18:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
-      "title": "Wyniki Selvity w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Selvity w czwartym kwartale 2025 roku i ich odniesienie do konsensusu i poprzednich wyników.",
+      "id": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
+      "title": "Free float poniżej 10 proc. LSI Software wypada z WIG Po sesji 2 kwietnia 2026 roku z listy uczestników indeksów WIG, WIG-informatyka i WIG-Poland zostaną wykreślone akcje spółki LSI Software - podał GPW Benchmark w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-31T18:08:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
-      "url": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
-      "title": "Free float poniżej 10 proc. LSI Software wypada z WIG Po sesji 2 kwietnia 2026 roku z listy uczestników indeksów WIG, WIG-informatyka i WIG-Poland zostaną wykreślone akcje spółki LSI Software - podał GPW Benchmark w komunikacie.",
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
+      "title": "Wyniki Selvity w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Selvity w czwartym kwartale 2025 roku i ich odniesienie do konsensusu i poprzednich wyników.",
       "content_html": "",
       "date_published": "2026-03-31T18:08:00+02:00"
     },
@@ -233,20 +268,6 @@
       "title": "Gobarto liczy na pozytywne wyniki w kolejnych miesiącach 2026 r. Gobarto liczy na pozytywne wyniki w kolejnych miesiącach 2026 r. oraz planuje nowe inwestycje - poinformowali przedstawiciele spółki na konferencji prasowej. Podano, że w 2025 r. GK Gobarto wypracowało 3,83 mld zł przychodów ze sprzedaży, a skonsolidowany zysk EBITDA wyniósł 53,55 mln zł.",
       "content_html": "",
       "date_published": "2026-03-31T12:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Euvic-otrzymal-zamowienie-o-wartosci-20-22-mln-USD-na-instalacje-systemu-serwerowego-NVIDIA-9107080.html",
-      "url": "https://www.bankier.pl/wiadomosc/Euvic-otrzymal-zamowienie-o-wartosci-20-22-mln-USD-na-instalacje-systemu-serwerowego-NVIDIA-9107080.html",
-      "title": "Euvic otrzymał zamówienie o wartości 20-22 mln USD na instalację systemu serwerowego NVIDIA Euvic zawarł umowę ramową dotyczącą dostawy sprzętu oraz świadczenia usług towarzyszących z KIEFER TEK LTD z Grecji, a na jej podstawie otrzymał zamówienie o wartości 20-22 mln USD netto na instalację systemu serwerowego NVIDIA do budowy fabryki AI - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-31T12:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enea-Operator-zawarla-pierwsza-umowe-na-usluge-IRB-zwiekszajaca-elastycznosc-sieci-9107070.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enea-Operator-zawarla-pierwsza-umowe-na-usluge-IRB-zwiekszajaca-elastycznosc-sieci-9107070.html",
-      "title": "Enea Operator zawarła pierwszą umowę na usługę IRB zwiększającą elastyczność sieci Enea Operator podpisała pierwszą w Polsce umowę na świadczenie usługi Interwencyjnej Regulacji Mocy Biernej (IRB) – podała spółka w komunikacie prasowym. IRB jest innowacyjną usługą zwiększającą elastyczność sieci.",
-      "content_html": "",
-      "date_published": "2026-03-31T12:20:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tauron-zaklada-spadek-raportowanej-EBITDA-w-2026-roku-wiceprezes-9106971.html",
@@ -611,34 +632,6 @@
       "title": "Przełom w aplikacji mPay. BLIK wejdzie do systemu na nowych zasadach mPay podpisał umowę z Polskim Standardem Płatności, właścicielem i operatorem systemu płatności mobilnych BLIK, dotyczącą współpracy w zakresie integracji oraz rozwoju usług płatniczych opartych o rozwiązania BLIK - podał mPay w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-30T10:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PZU-testuje-rozwiazania-kolejnych-trzech-startupow-9106312.html",
-      "url": "https://www.bankier.pl/wiadomosc/PZU-testuje-rozwiazania-kolejnych-trzech-startupow-9106312.html",
-      "title": "PZU testuje rozwiązania kolejnych trzech startupów PZU rozwija współpracę ze startupami w ramach programów akceleracyjnych i rozpoczyna testowanie rozwiązań trzech młodych polskich firm technologicznych. Pilotaże te potrwają kilka miesięcy - poinformował ubezpieczyciel w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-30T10:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EBI-EFI-i-Santander-Consumer-Bank-podpisaly-umowe-dot-uruchomienia-w-Polsce-860-mln-zl-finansowania-9106308.html",
-      "url": "https://www.bankier.pl/wiadomosc/EBI-EFI-i-Santander-Consumer-Bank-podpisaly-umowe-dot-uruchomienia-w-Polsce-860-mln-zl-finansowania-9106308.html",
-      "title": "EBI, EFI i Santander Consumer Bank podpisały umowę dot. uruchomienia w Polsce 860 mln zł finansowania Europejski Bank Inwestycyjny, Europejski Fundusz Inwestycyjny i Santander Consumer Bank podpisały umowę, która umożliwi uruchomienie w Polsce 860 mln zł finansowania dla małych i średnich przedsiębiorstw, a także dla osób fizycznych planujących m.in. zakup samochodów elektrycznych lub instalację paneli fotowoltaicznych - podało EBI w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-03-30T09:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosna-kursy-spolek-energetycznych-w-tym-Tauron-zwyzkuje-o-3-5-proc-WIG20-lekko-spada-9106289.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosna-kursy-spolek-energetycznych-w-tym-Tauron-zwyzkuje-o-3-5-proc-WIG20-lekko-spada-9106289.html",
-      "title": "Rosną kursy spółek energetycznych, w tym Tauron zwyżkuje o 3,5 proc.; WIG20 lekko spada Kursy największych akcji spółek energetycznych rosną, w tym Tauron zyskuje 3,5 proc. do 9,2 zł. WIG20 spada o 0,2 proc.",
-      "content_html": "",
-      "date_published": "2026-03-30T09:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Tauronu-rekomenduje-wyplate-dywidendy-z-zysku-za-25-w-wys-0-2-zl-na-akcje-9106274.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Tauronu-rekomenduje-wyplate-dywidendy-z-zysku-za-25-w-wys-0-2-zl-na-akcje-9106274.html",
-      "title": "Zarząd Tauronu rekomenduje wypłatę dywidendy z zysku za '25 Zarząd Tauronu rekomenduje, by z zysku osiągniętego w 2025 roku wypłacono 20 groszy dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-30T09:08:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
