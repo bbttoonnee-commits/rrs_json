@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
+      "title": "Inwestorzy chcą mieć akcje na Wielkanoc. Liczą na otwarcie Cieśniny Ormuz?",
+      "content_html": "Pomimo galopujących cen ropy naftowej ostatnia w tym tygodniu sesja na Wall Street zakończyła się tylko minimalnymi zmianami głównych indeksów.",
+      "date_published": "2026-04-02T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-amerykanskich-baz-w-Hiszpanii-Graham-zada-odwetu-za-brak-pomocy-w-wojnie-9108865.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-amerykanskich-baz-w-Hiszpanii-Graham-zada-odwetu-za-brak-pomocy-w-wojnie-9108865.html",
       "title": "Koniec amerykańskich baz w Hiszpanii? Graham żąda odwetu za brak pomocy w wojnie",
@@ -695,13 +702,6 @@
       "title": "Krka chce wypłacić 9,1 euro dywidendy na akcję",
       "content_html": "Zarząd i rada nadzorcza Krka rekomendują wypłatę 9,1 euro brutto dywidendy na akcję za 2025 rok, czyli 10,3 proc. więcej niż przed rokiem - poinformowała spółka w komunikacie.",
       "date_published": "2026-04-02T09:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bagdad-na-celowniku-Amerykanie-maja-48-godzin-na-ucieczke-z-Iraku-9108364.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bagdad-na-celowniku-Amerykanie-maja-48-godzin-na-ucieczke-z-Iraku-9108364.html",
-      "title": "Bagdad na celowniku. Amerykanie mają 48 godzin na ucieczkę z Iraku?",
-      "content_html": "Ambasada USA w Bagdadzie wezwała w czwartek amerykańskich obywateli do natychmiastowego opuszczenia Iraku. Ostrzegła, że w ciągu najbliższych 24-48 godzin jedna z proirańskich milicji może zaatakować w centrum stolicy - przekazała agencja Reutera...",
-      "date_published": "2026-04-02T09:17:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

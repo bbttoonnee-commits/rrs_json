@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
+      "title": "Inwestorzy chcą mieć akcje na Wielkanoc. Liczą na otwarcie Cieśniny Ormuz? Pomimo galopujących cen ropy naftowej ostatnia w tym tygodniu sesja na Wall Street zakończyła się tylko minimalnymi zmianami głównych indeksów.",
+      "content_html": "",
+      "date_published": "2026-04-02T22:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-odstepuje-od-budowy-S19-GDDKiA-uznaje-ruch-za-bezpodstawny-9108790.html",
       "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-odstepuje-od-budowy-S19-GDDKiA-uznaje-ruch-za-bezpodstawny-9108790.html",
       "title": "Mostostal Warszawa odstępuje od budowy S19. GDDKiA uznaje ruch za bezpodstawny Spółka Mostostal Warszawa odstąpiła w czwartek od kontraktu na zaprojektowanie i budowę podkarpackiego odcinka drogi ekspresowej S19 Domaradz–Iskrzynia (Krosno). Generalna Dyrekcja Dróg Krajowych i Autostrad uznała to działanie za bezpodstawne i zapowiedziała podjęcie kroków prawnych.",
@@ -562,13 +569,6 @@
       "title": "PORTFEL GWIAZD BANKIER.PL Geopolityka rozdaje karty. W co grają Gwiazdy Bankiera w kwietniu? Wojny, napięcia i niepewność – rynki wchodzą w kolejny miesiąc pod presją wydarzeń, których nie sposób przewidzieć. W takich warunkach inwestorzy skracają horyzont i szukają okazji „tu i teraz”. Sprawdzamy, gdzie widzą je uczestnicy Portfela Gwiazd Bankier.pl.",
       "content_html": "",
       "date_published": "2026-04-01T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-stawia-na-koniec-wojny-z-Iranem-S-P500-odbija-z-7-miesiecznego-dna-9107540.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-stawia-na-koniec-wojny-z-Iranem-S-P500-odbija-z-7-miesiecznego-dna-9107540.html",
-      "title": "Wall Street stawia na koniec wojny z Iranem. S&P500 odbija z 7-miesięcznego dna Indeks S&P500 zaliczył najlepszą sesję od maja, z impetem odbijając się z 7-miesięcznego minimum.",
-      "content_html": "",
-      "date_published": "2026-03-31T22:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
