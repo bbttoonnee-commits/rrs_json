@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dino-Polska-otworzylo-od-stycznia-do-konca-marca-2026-r-62-nowe-sklepy-9108421.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-otworzylo-od-stycznia-do-konca-marca-2026-r-62-nowe-sklepy-9108421.html",
+      "title": "62 nowe sklepy w trzy miesiące. Ekspansja Dino nie zna granic Dino Polska otworzyło od stycznia do końca marca 2026 roku 62 nowe sklepy. Na koniec marca sieć liczyła 3.094 sklepy wobec 2.746 rok wcześniej - poinformowała spółka w komunikacie na stronie internetowej.",
+      "content_html": "",
+      "date_published": "2026-04-02T10:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Creotech-zakonczyl-proces-podzialu-debiut-Creotech-Quantum-na-GPW-planowany-na-17-IV-9108417.html",
+      "url": "https://www.bankier.pl/wiadomosc/Creotech-zakonczyl-proces-podzialu-debiut-Creotech-Quantum-na-GPW-planowany-na-17-IV-9108417.html",
+      "title": "Creotech Quantum celuje w 100 mln zł przychodów. Debiut na giełdzie już w kwietniu Creotech Instruments zakończył proces podziału na dwie niezależne spółki. W środę sąd rejestrowy wpisał do KRS podwyższenie kapitału zakładowego Creotech Quantum, co formalnie finalizuje wydzielenie segmentu kwantowego - podała spółka w komunikacie. Debiut Creotech Quantum na GPW planowany jest na 17 kwietnia 2026 roku.",
+      "content_html": "",
+      "date_published": "2026-04-02T10:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rynki-wrzucaja-wsteczny-bieg-po-oredziu-Trumpa-Ceny-ropy-ostro-w-gore-9108341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynki-wrzucaja-wsteczny-bieg-po-oredziu-Trumpa-Ceny-ropy-ostro-w-gore-9108341.html",
+      "title": "Rynki wrzucają wsteczny bieg po orędziu Trumpa. Ceny ropy ostro w górę Nadzieje na szybki koniec wojny na Bliskim Wschodzie, które zapewniły giełdom paliwo do wzrostów, znów topnieją. Prezydent USA Donald Trump w orędziu do narodu zapowiedział bardziej agresywne ataki na Iran w ciągu 2-3 tygodni nie przedstawiając przy tym nawet ogólnego harmonogramu wyjścia z konfliktu. Indeksy giełdowe zaczęły się cofać, a ceny ropy znów wystrzeliły.",
+      "content_html": "",
+      "date_published": "2026-04-02T09:34:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przychody-Dadelo-w-I-kw-wyniosly-139-mln-zl-wiecej-o-67-29-proc-rdr-szacunki-9108385.html",
       "url": "https://www.bankier.pl/wiadomosc/Przychody-Dadelo-w-I-kw-wyniosly-139-mln-zl-wiecej-o-67-29-proc-rdr-szacunki-9108385.html",
       "title": "Dadelo z mocnym uderzeniem w I kwartale 2026. Nowe sklepy wspierają wyniki Przychody Dadelo w pierwszym kwartale 2026 roku wyniosły 139 mln zł, więcej o 67,29 proc. rdr - podała spółka w komunikacie z szacunkami.",
@@ -58,13 +79,6 @@
       "title": "Dwa scenariusze, oba bolesne. Jak wojna na Bliskim Wschodzie uderzy w gospodarkę i rynki Nawet w optymistycznym, bazowym scenariuszu przedstawionym przez analityków banku UniCredit – zakładającym wygaśnięcie konfliktu na Bliskim Wschodzie na początku trzeciego kwartału – Stary Kontynent czeka gospodarcze hamowanie i powrót do podwyżek stóp procentowych przez EBC. Jeżeli jednak działania zbrojne w Iranie przeciągną się o kolejne miesiące, ceny ropy i gazu mogą poszybować w górę o kilkadziesiąt procent. W takim wariancie uderzenie w gospodarki, a także w portfele konsumentów i inwestorów, będzie bardziej dotkliwe.",
       "content_html": "",
       "date_published": "2026-04-02T07:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rynki-wrzucaja-wsteczny-bieg-po-oredziu-Trumpa-Ceny-ropy-ostro-w-gore-9108341.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rynki-wrzucaja-wsteczny-bieg-po-oredziu-Trumpa-Ceny-ropy-ostro-w-gore-9108341.html",
-      "title": "Rynki wrzucają wsteczny bieg po orędziu Trumpa. Ceny ropy ostro w górę Nadzieje na szybki koniec wojny na Bliskim Wschodzie, które zapewniły giełdom paliwo do wzrostów, znów topnieją. Prezydent USA Donald Trump w orędziu do narodu zapowiedział bardziej agresywne ataki na Iran w ciągu 2-3 tygodni nie przedstawiając przy tym nawet ogólnego harmonogramu wyjścia z konfliktu. Indeksy giełdowe zaczęły się cofać, a ceny ropy znów wystrzeliły.",
-      "content_html": "",
-      "date_published": "2026-04-02T07:44:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Amazon-chce-przejac-satelitarnego-operatora-Globalstar-Kurs-spolki-w-gore-9108299.html",
@@ -653,20 +667,6 @@
       "title": "Inflacja w eurolandzie jednak niższa od prognoz. Nie będzie aż tak źle? Marcowy skok inflacji HICP w strefie euro okazał się niższy od przypuszczeń większości ekonomistów. Nie oznacza to jednak, że scenariusz stagflacyjny możemy już zdjąć z biurka.",
       "content_html": "",
       "date_published": "2026-03-31T11:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/R-Power-rozpoczal-budowe-magazynu-energii-Jedwabno-o-mocy-150-MW-i-pojemnosci-300-MWh-9107006.html",
-      "url": "https://www.bankier.pl/wiadomosc/R-Power-rozpoczal-budowe-magazynu-energii-Jedwabno-o-mocy-150-MW-i-pojemnosci-300-MWh-9107006.html",
-      "title": "R.Power rozpoczął budowę magazynu energii Jedwabno o mocy 150 MW i pojemności 300 MWh R.Power rozpoczął budowę wielkoskalowego projektu bateryjnego magazynu energii (BESS) o mocy 150 MW i pojemności 300 MWh - podała spółka w komunikacie prasowym. Zakończenie budowy planowane jest na koniec 2026 roku. Generalnym wykonawcą projektu jest Nomad Electric.",
-      "content_html": "",
-      "date_published": "2026-03-31T10:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-chcialby-by-wyplata-dywidendy-byla-zdarzeniem-powtarzalnym-w-kolejnych-latach-9106995.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-chcialby-by-wyplata-dywidendy-byla-zdarzeniem-powtarzalnym-w-kolejnych-latach-9106995.html",
-      "title": "Tauron chciałby, by wypłata dywidendy była zdarzeniem powtarzalnym w kolejnych latach Tauron chciałby, by wypłata dywidendy była zdarzeniem powtarzalnym w kolejnych latach – poinformował wiceprezes Krzysztof Surma.",
-      "content_html": "",
-      "date_published": "2026-03-31T10:46:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
