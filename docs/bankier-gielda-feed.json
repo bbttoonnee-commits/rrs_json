@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Plock-podpisal-dwie-umowy-z-Orlenem-o-lacznej-wartosci-12-7-mln-zl-9108565.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Plock-podpisal-dwie-umowy-z-Orlenem-o-lacznej-wartosci-12-7-mln-zl-9108565.html",
+      "title": "Mostostal Płock podpisał dwie umowy z Orlenem o łącznej wartości 12,7 mln zł Mostostal Płock podpisał dwie umowy z Orlenem na wykonanie prac podczas remontu planowego instalacji Hydrokrakingu w Zakładzie Produkcyjnym Orlen za łącznie 12,7 mln zł netto - podał Mostostal Płock w komunikacie. Roboty mają być wykonane w terminie od 13 maja do 24 czerwca 2026 roku.",
+      "content_html": "",
+      "date_published": "2026-04-02T13:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowelizacje-ustawy-o-funduszach-inwestycyjnych-9108525.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-nowelizacje-ustawy-o-funduszach-inwestycyjnych-9108525.html",
+      "title": "Prezydent podpisał nowelizację ustawy o funduszach inwestycyjnych Prezydent Karol Nawrocki podpisał nowelizację ustawy o funduszach inwestycyjnych – poinformowała w czwartek kancelaria prezydenta. Celem nowelizacji jest umożliwienie rejestrowania certyfikatów inwestycyjnych FIZ niepublicznych poza Krajowym Depozytem Papierów Wartościowych (KDPW).",
+      "content_html": "",
+      "date_published": "2026-04-02T12:42:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dom-Development-w-I-kw-sprzedal-1-161-lokali-netto-9108503.html",
       "url": "https://www.bankier.pl/wiadomosc/Dom-Development-w-I-kw-sprzedal-1-161-lokali-netto-9108503.html",
       "title": "Boom na mieszkania mimo niepewności. Dom Development sprzedał ponad 1100 lokali Grupa Dom Development w I kwartale 2026 roku sprzedała 1.161 lokali netto - 542 w Warszawie, 260 w Trójmieście, 216 we Wrocławiu, 143 w Krakowie - podał deweloper w komunikacie. Spółka przekazała w tym czasie 1.273 lokale , w tym 601 w Warszawie, 132 w Trójmieście, 408 we Wrocławiu oraz 132 w Krakowie.",
@@ -529,16 +543,16 @@
       "date_published": "2026-03-31T18:18:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
-      "title": "Wyniki Selvity w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Selvity w czwartym kwartale 2025 roku i ich odniesienie do konsensusu i poprzednich wyników.",
+      "id": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
+      "title": "Free float poniżej 10 proc. LSI Software wypada z WIG Po sesji 2 kwietnia 2026 roku z listy uczestników indeksów WIG, WIG-informatyka i WIG-Poland zostaną wykreślone akcje spółki LSI Software - podał GPW Benchmark w komunikacie.",
       "content_html": "",
       "date_published": "2026-03-31T18:08:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
-      "url": "https://www.bankier.pl/wiadomosc/Po-sesji-2-IV-z-listy-uczestnikow-WIG-WIG-informatyka-i-WIG-Poland-zostana-wykreslone-akcje-LSI-Software-9107417.html",
-      "title": "Free float poniżej 10 proc. LSI Software wypada z WIG Po sesji 2 kwietnia 2026 roku z listy uczestników indeksów WIG, WIG-informatyka i WIG-Poland zostaną wykreślone akcje spółki LSI Software - podał GPW Benchmark w komunikacie.",
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9107412.html",
+      "title": "Wyniki Selvity w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Selvity w czwartym kwartale 2025 roku i ich odniesienie do konsensusu i poprzednich wyników.",
       "content_html": "",
       "date_published": "2026-03-31T18:08:00+02:00"
     },
@@ -604,20 +618,6 @@
       "title": "Scope Fluidics ma środki na działalność do końca '27. Planuje dwie transakcje do końca '28 Scope Fluidics planuje przeprowadzenie dwóch transakcji strategicznych do końca 2028 r., a jedną z nich ma być komercjalizacja BACTEROMIC. W portfelu chce mieć kilka projektów - poinformowali przedstawiciele zarządu. Grupa posiada środki zabezpieczające działalność do końca 2027 r.",
       "content_html": "",
       "date_published": "2026-03-31T15:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lubawa-szacuje-skonsolidowany-zysk-netto-w-25-na-126-1-mln-zl-9107123.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lubawa-szacuje-skonsolidowany-zysk-netto-w-25-na-126-1-mln-zl-9107123.html",
-      "title": "Lubawa szacuje skonsolidowany zysk netto w '25 na 126,1 mln zł Lubawa wstępnie szacuje, że jej skonsolidowany zysk netto w 2025 roku wzrósł o 25,4 proc. do 126,1 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-03-31T13:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Choczewie-Ruszyla-formalna-procedura-budowy-pierwszej-atomowki-9107011.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Choczewie-Ruszyla-formalna-procedura-budowy-pierwszej-atomowki-9107011.html",
-      "title": "Przełom w Choczewie. Ruszyła formalna procedura budowy pierwszej atomówki Polskie Elektrownie Jądrowe złożyły wniosek do Państwowej Agencji Atomistyki (PAA) o wydanie zezwolenia na budowę pierwszej polskiej elektrowni jądrowej w Choczewie - poinformował na konferencji online prezes PEJ Marek Woszczyk.",
-      "content_html": "",
-      "date_published": "2026-03-31T13:12:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
