@@ -284,6 +284,13 @@
       "date_published": "2026-04-02T16:52:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Skandal-na-Prime-MMA-KRRiT-uderza-w-federacje-i-idzie-do-prokuratury-9108676.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skandal-na-Prime-MMA-KRRiT-uderza-w-federacje-i-idzie-do-prokuratury-9108676.html",
+      "title": "Skandal na Prime MMA. KRRiT uderza w federację i idzie do prokuratury",
+      "content_html": "W związku z podejrzeniem naruszenia przepisów dotyczących ochrony małoletnich oraz zakazem rozpowszechniania treści nawołujących do nienawiści i przemocy, przewodnicząca KRRiT Agnieszka Glapiak wszczęła postępowanie wyjaśniające wobec Prime...",
+      "date_published": "2026-04-02T16:41:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przelom-w-FIZ-Masz-certyfikaty-za-40-tys-euro-Nowe-prawo-ma-ulatwic-zycie-9108664.html",
       "url": "https://www.bankier.pl/wiadomosc/Przelom-w-FIZ-Masz-certyfikaty-za-40-tys-euro-Nowe-prawo-ma-ulatwic-zycie-9108664.html",
       "title": "Przełom w FIZ. Masz certyfikaty za 40 tys. euro? Nowe prawo ma ułatwić życie",
@@ -695,13 +702,6 @@
       "title": "Bagdad na celowniku. Amerykanie mają 48 godzin na ucieczkę z Iraku?",
       "content_html": "Ambasada USA w Bagdadzie wezwała w czwartek amerykańskich obywateli do natychmiastowego opuszczenia Iraku. Ostrzegła, że w ciągu najbliższych 24-48 godzin jedna z proirańskich milicji może zaatakować w centrum stolicy - przekazała agencja Reutera...",
       "date_published": "2026-04-02T09:17:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grodno-szacuje-przychody-w-marcu-na-148-8-mln-zl-wzrost-o-46-proc-rdr-9108362.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grodno-szacuje-przychody-w-marcu-na-148-8-mln-zl-wzrost-o-46-proc-rdr-9108362.html",
-      "title": "Grodno: 148,8 mln zł przychodów w marcu, wzrost o 46% rdr",
-      "content_html": "Grupa Grodno szacuje, że miała w marcu 2026 roku 148,8 mln zł przychodów ze sprzedaży, co oznacza wzrost o 46 proc. rdr - podała spółka w komunikacie.",
-      "date_published": "2026-04-02T09:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
