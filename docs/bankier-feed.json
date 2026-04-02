@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-3-01-mld-zl-9108915.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-3-01-mld-zl-9108915.html",
+      "title": "Akcjonariusze Energi zdecydowali o podwyższeniu kapitału zakładowego o 3,01 mld zł",
+      "content_html": "Nadzwyczajne walne zgromadzenie akcjonariuszy spółki Energa zdecydowało o podwyższeniu kapitału zakładowego spółki o 3,01 mld zł do 7,5 mld zł - poinformowała spółka w czwartkowym raporcie giełdowym.",
+      "date_published": "2026-04-03T00:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Develia-kupi-nieruchomosci-w-Gdansku-stanowiace-tereny-dawnej-Stoczni-Cesarskiej-9108914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Develia-kupi-nieruchomosci-w-Gdansku-stanowiace-tereny-dawnej-Stoczni-Cesarskiej-9108914.html",
+      "title": "Develia kupi nieruchomości w Gdańsku stanowiące tereny dawnej Stoczni Cesarskiej",
+      "content_html": "Develia zawarła z Gdansk Development Holding N.V., utworzonym przez dwóch belgijskich deweloperów: Alides i Revive, przedwstępną umowę dotyczącą nabycia 100 proc. spółki Stocznia Cesarska Development, będącej użytkownikiem wieczystym nieruchomości...",
+      "date_published": "2026-04-03T00:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
       "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-chca-miec-akcje-na-Wielkanoc-Licza-na-otwarcie-Ciesniny-Ormuz-9108898.html",
       "title": "Inwestorzy chcą mieć akcje na Wielkanoc. Liczą na otwarcie Cieśniny Ormuz?",
@@ -128,13 +142,6 @@
       "title": "Wielka hossa w Warszawie. Obroty akcjami w marcu pobiły historyczny rekord",
       "content_html": "Łączna wartość obrotu akcjami na Głównym Rynku GPW w marcu 2026 r. wyniosła rekordowe 57,9 mld zł, co oznacza wzrost rdr o 26 proc. - poinformowała giełda w komunikacie. Wartość obrotu akcjami w ramach arkusza zleceń wzrosła o 27,6 proc...",
       "date_published": "2026-04-02T18:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-PTWP-szacuje-w-25-EBITDA-wzrosla-do-25-7-mln-zl-9108786.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-PTWP-szacuje-w-25-EBITDA-wzrosla-do-25-7-mln-zl-9108786.html",
-      "title": "Grupa PTWP szacuje, w '25 EBITDA wzrosła do 25,7 mln zł",
-      "content_html": "Grupa PTWP szacuje, że w 2025 roku EBITDA wzrosła do 25,7 mln zł z 9 mln zł rok wcześniej, natomiast zysk netto wzrósł do 19,3 mln zł z 2,8 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-02T18:44:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szokujacy-wyrok-ws-szczepionek-Pfizera-Cieszynski-wskazuje-na-winnego-9108781.html",
@@ -688,20 +695,6 @@
       "title": "Gaz drożeje przed świętami. Orędzie Trumpa mrozi europejskie giełdy",
       "content_html": "Ceny gazu w Europie rosną po zapowiedzi mocnych ataków USA na Iran - informują maklerzy.",
       "date_published": "2026-04-02T09:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kotecki-Marcowa-obnizka-stop-procentowych-byla-ostatnia-w-tym-roku-9108368.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kotecki-Marcowa-obnizka-stop-procentowych-byla-ostatnia-w-tym-roku-9108368.html",
-      "title": "Kotecki: Marcowa obniżka stóp procentowych była ostatnią w tym roku",
-      "content_html": "Marcowa obniżka stóp procentowych była ostatnią w tym roku - ocenił w rozmowie z portalem WNP.PL członek Rady Polityki Pieniężnej Ludwik Kotecki.",
-      "date_published": "2026-04-02T09:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krka-chce-wyplacic-9-1-euro-dywidendy-na-akcje-9108366.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krka-chce-wyplacic-9-1-euro-dywidendy-na-akcje-9108366.html",
-      "title": "Krka chce wypłacić 9,1 euro dywidendy na akcję",
-      "content_html": "Zarząd i rada nadzorcza Krka rekomendują wypłatę 9,1 euro brutto dywidendy na akcję za 2025 rok, czyli 10,3 proc. więcej niż przed rokiem - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-02T09:22:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
