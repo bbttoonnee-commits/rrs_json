@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zanosi-sie-na-pierwsza-z-wielu-pauz-RPP-w-cieciu-stop-Co-przyniesie-poswiateczny-tydzien-na-rynkach-9109083.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zanosi-sie-na-pierwsza-z-wielu-pauz-RPP-w-cieciu-stop-Co-przyniesie-poswiateczny-tydzien-na-rynkach-9109083.html",
+      "title": "Zanosi się na pierwszą z wielu pauz RPP w cięciu stóp. Co przyniesie poświąteczny tydzień na rynkach? Nadchodzący tydzień to przede wszystkim decyzja w zakresie polskiej polityki pieniężnej. Po marcowych zawirowaniach na rynku paliw, oczy wszystkich zwrócą się na RPP, która w obliczu wojny z udziałem Iranu prawdopodobnie zamrozi stopy procentowe na dłużej. Na „gwóźdź programu” przyjdzie nam poczekać do piątku, kiedy poznamy dane o inflacji CPI z USA, chyba że wcześniej nie wydarzy się coś przełomowego w kontekście wojny na Bliskim Wschodzie.",
+      "content_html": "",
+      "date_published": "2026-04-03T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-rozpoczal-budowe-prawie-200-mieszkan-w-czwartym-etapie-poznanskiej-Wiezy-Jezyce-9107018.html",
+      "title": "Archicom rozpoczął budowę prawie 200 mieszkań w czwartym etapie poznańskiej Wieży Jeżyce Archicom rozpoczął budowę czwartego etapu inwestycji Wieża Jeżyce w Poznaniu - podała spółka w komunikacie prasowym. Archicom odda do użytku prawie 200 mieszkań. Lokale będą gotowe do odbioru w połowie 2028 roku.",
+      "content_html": "",
+      "date_published": "2026-04-03T11:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-marca-wyniosla-8-98-mld-zl-9109061.html",
       "url": "https://www.bankier.pl/wiadomosc/Wartosc-aktywow-pod-zarzadzaniem-Quercus-TFI-na-koniec-marca-wyniosla-8-98-mld-zl-9109061.html",
       "title": "Wartość aktywów pod zarządzaniem Quercus TFI na koniec marca wyniosła 8,98 mld zł Wartość aktywów pod zarządzaniem Quercus TFI na koniec marca 2026 r. wyniosła 8.981,1 mln zł, wobec 9.470,9 mln zł, na koniec lutego 2026 r. - poinformowała spółka w komunikacie.",
@@ -506,20 +520,6 @@
       "title": "Mostostal Warszawa pozywa GDDKiA. Żąda prawie 500 mln zł za budowę S19 Mostostal Warszawa złożył pozew przeciwko Generalnej Dyrekcji Dróg Krajowych i Autostrad, chce podwyższenia o 487 mln zł brutto wynagrodzenia za wykonanie kontraktu na budowę odcinka drogi ekspresowej S19 - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-01T12:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-sprzedal-we-wtorek-ponad-30-mln-l-paliwa-wobec-sredniej-okolo-20-mln-l-prezes-9107787.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-sprzedal-we-wtorek-ponad-30-mln-l-paliwa-wobec-sredniej-okolo-20-mln-l-prezes-9107787.html",
-      "title": "Efekt ceny maksymalnej. 30 mln litrów paliwa zniknęło ze stacji w 24 godziny Orlen, po wprowadzeniu mechanizmu ceny maksymalnej, sprzedał we wtorek ponad 30 mln litrów paliwa wobec średniej około 20 mln litrów - poinformował prezes Orlenu Ireneusz Fąfara.",
-      "content_html": "",
-      "date_published": "2026-04-01T11:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kombinat-Konopny-zadebiutowal-na-NewConnect-kurs-w-fazie-rownowazenia-9107784.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kombinat-Konopny-zadebiutowal-na-NewConnect-kurs-w-fazie-rownowazenia-9107784.html",
-      "title": "Debiut na gruzach crowdfundingu. Zanosi się na najlepszy start w historii NewConnect Kombinat Konopny, działający w segmencie naturalnych suplementów roślinnych oraz tekstyliów konopnych, zadebiutował w środę na rynku NewConnect. Kurs akcji spółki znajduje się w fazie równoważenia.",
-      "content_html": "",
-      "date_published": "2026-04-01T11:26:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
