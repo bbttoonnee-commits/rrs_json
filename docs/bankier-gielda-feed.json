@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-z-Wifama-ws-oferowania-produktow-dla-Polskich-Sil-Zbrojnych-9109015.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-z-Wifama-ws-oferowania-produktow-dla-Polskich-Sil-Zbrojnych-9109015.html",
+      "title": "Niewiadów - PGM ma memorandum z Wifama ws. oferowania produktów dla Polskich Sił Zbrojnych Spółka zależna od Niewiadów - PGM zawarła z Wifama Memorandum of understanding w sprawie wspólnego oferowania produktów dla Polskich Sił Zbrojnych - podała spółka Niewiadów - PGM w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-03T08:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Srednia-wazona-cena-kontraktu-na-dostawy-w-27-na-rynku-gazu-wzrosla-w-III-mdm-o-39-97-proc-TGE-9108989.html",
       "url": "https://www.bankier.pl/wiadomosc/Srednia-wazona-cena-kontraktu-na-dostawy-w-27-na-rynku-gazu-wzrosla-w-III-mdm-o-39-97-proc-TGE-9108989.html",
       "title": "Średnia ważona cena kontraktu na dostawy w '27 na rynku gazu wzrosła w III mdm o 39,97 proc. - TGE Średnia ważona cena kontraktu terminowego na rynku gazu BASE_Y-27 wyniosła w marcu 191,94 zł/MWh, czyli o 39,97 proc. więcej mdm - poinformowała TGE na stronie.",
@@ -555,34 +562,6 @@
       "title": "Odbicie na rynkach. Inwestorzy znów uwierzyli Trumpowi i stawiają na szybki koniec wojny Ostatni dzień marca na Wall Street był najlepszą sesją amerykańskich indeksów od maja 2025 roku. Optymizm na rynkach przeniósł się na środę 1 kwietnia i azjatyckie giełdy. Wzrost cen ropy wyraźnie zahamował. Rosły złoto i bitcoin. Donald Trump zapowiedział, że wojna z Iranem zakończy się za 2-3 tygodni, a rynki chwyciły się nadziei na pokój.",
       "content_html": "",
       "date_published": "2026-04-01T09:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PMI-w-marcu-2026-roku-pozytywnie-zaskoczyl-ekonomistow-Ale-jest-haczyk-9107669.html",
-      "url": "https://www.bankier.pl/wiadomosc/PMI-w-marcu-2026-roku-pozytywnie-zaskoczyl-ekonomistow-Ale-jest-haczyk-9107669.html",
-      "title": "PMI pozytywnie zaskoczył ekonomistów. Ale jest jeden haczyk Wyższy od oczekiwań wzrost polskiego PMI wynikał przede wszystkim z wydłużenia czasu dostaw oraz bardzo silnej presji kosztowej.",
-      "content_html": "",
-      "date_published": "2026-04-01T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-mocno-tanieje-Swiat-liczy-na-pokoj-na-Bliskim-Wschodzie-9107678.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-mocno-tanieje-Swiat-liczy-na-pokoj-na-Bliskim-Wschodzie-9107678.html",
-      "title": "Gaz w Europie mocno tanieje. Świat liczy na pokój na Bliskim Wschodzie Ceny gazu w Europie mocno spadają w reakcji na możliwy bliski koniec wojny na Bliskim Wschodzie - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-04-01T08:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-pomimo-zapowiedzi-USA-o-zblizajacym-sie-koncu-konfliktu-w-Iranie-9107649.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-drozeje-pomimo-zapowiedzi-USA-o-zblizajacym-sie-koncu-konfliktu-w-Iranie-9107649.html",
-      "title": "Raz wzrosty, raz spadki. Pokojowe nadzieje dołują ceny ropy Ceny ropy naftowej zwyżkują pomimo komentarzy prezydenta USA Donalda Trumpa o zbliżającym się zakończeniu wojny z Iranem - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-04-01T08:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-w-gore-Trumpa-pokojowe-wizje-w-Iranie-9107654.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-w-gore-Trumpa-pokojowe-wizje-w-Iranie-9107654.html",
-      "title": "Ceny miedzi w Londynie w górę. Trumpa pokojowe wizje w Iranie Notowania miedzi na giełdzie metali LME w Londynie rosną o 1 proc. po komentarzach prezydenta USA Donalda Trumpa ws. zakończenia wojny w Iranie - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-04-01T08:03:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
