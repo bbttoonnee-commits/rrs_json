@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sensacyjnie-mocne-wyniki-amerykanskiego-rynku-pracy-w-marcu-2026-9109104.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sensacyjnie-mocne-wyniki-amerykanskiego-rynku-pracy-w-marcu-2026-9109104.html",
+      "title": "Sensacyjnie mocne wyniki amerykańskiego rynku pracy. Etatów trzy razy więcej od oczekiwań Marcowe dane z amerykańskiego rynku pracy pokazały nadspodziewanie wysoki wzrost zatrudnienia, czego jednak kompletnie nie potwierdziły wyniki ankietowe.",
+      "content_html": "",
+      "date_published": "2026-04-03T14:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Helio-szacuje-w-III-kw-2025-2026-przychody-ze-sprzedazy-na-poziomie-ok-172-mln-zl-9109192.html",
       "url": "https://www.bankier.pl/wiadomosc/Helio-szacuje-w-III-kw-2025-2026-przychody-ze-sprzedazy-na-poziomie-ok-172-mln-zl-9109192.html",
       "title": "Helio szacuje w III kw. 2025/2026 przychody ze sprzedaży na poziomie ok. 172 mln zł Helio szacuje w trzecim kwartale roku obrotowego 2025/2026 (tj. styczeń - marzec 2026) przychody ze sprzedaży na poziomie ok. 172 mln zł względem 114,1 mln zł w analogicznym okresie roku ubiegłego - podał dystrybutor bakalii w komunikacie.",
@@ -464,34 +471,6 @@
       "title": "Mostostal Zabrze ma umowę z zagranicznym podmiotem o wartości ok. 11 proc. przychodów za '25 Spółka zależna Mostostalu Zabrze - Mostostal Zabrze Realizacje Przemysłowe (MZRP) - ma umowę z zagranicznym kontrahentem o wartości ok. 11 proc. przychodów ze sprzedaży Grupy Mostostal Zabrze za 2025 rok - podała spółka w komunikacie. W 2025 roku Grupa Mostostal Zabrze miała 1,22 mld zł przychodów ze sprzedaży.",
       "content_html": "",
       "date_published": "2026-04-01T15:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ok-146-mln-zl-brutto-najkorzystniejsza-w-przetargu-Portu-Polska-9107995.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ok-146-mln-zl-brutto-najkorzystniejsza-w-przetargu-Portu-Polska-9107995.html",
-      "title": "Oferta Budimeksu za ok. 146 mln zł brutto najkorzystniejsza w przetargu Portu Polska Oferta Budimeksu za ok. 146 mln zł brutto została wybrana najkorzystniejszą w przetargu na wykonanie fundamentów głębokich pod terminal pasażerski w ramach programu inwestycyjnego Port Polska - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-04-01T15:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unibep-zaklada-rozwoj-wszystkich-swoich-sektorow-budowlanych-liczy-na-zamowienia-zwiazane-z-obronnoscia-9107989.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unibep-zaklada-rozwoj-wszystkich-swoich-sektorow-budowlanych-liczy-na-zamowienia-zwiazane-z-obronnoscia-9107989.html",
-      "title": "Unibep zakłada rozwój wszystkich swoich sektorów budowlanych; liczy na zamówienia związane z obronnością Unibep dobiera selektywnie kontrakty do backlogu i ocenia, że wyniki po 2025 r. napawają optymizmem na przyszłość. Nastawia się na rozwój w każdym z obsługiwanych sektorów budowlanych, ale mocno nastawia się na zamówienia związane z obronnością - poinformowali przedstawiciele zarządu podczas konferencji.",
-      "content_html": "",
-      "date_published": "2026-04-01T14:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-Poland-stawia-na-miekka-centralizacje-prac-zwiazanych-z-AI-w-swojej-grupie-9107774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-Poland-stawia-na-miekka-centralizacje-prac-zwiazanych-z-AI-w-swojej-grupie-9107774.html",
-      "title": "Asseco Poland stawia na 'miękką' centralizację prac związanych z AI w swojej grupie Asseco Poland stawia na 'miękką' centralizację prac związanych z AI w swojej grupie - poinformował prezes Adam Góral na konferencji prasowej.",
-      "content_html": "",
-      "date_published": "2026-04-01T14:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przychody-AC-w-I-kw-26-wyniosly-47-75-mln-zl-mniej-rdr-o-14-25-proc-wstepne-dane-9107969.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przychody-AC-w-I-kw-26-wyniosly-47-75-mln-zl-mniej-rdr-o-14-25-proc-wstepne-dane-9107969.html",
-      "title": "Przychody AC w I kw. '26 wyniosły 47,75 mln zł, mniej rdr o 14,25 proc. - wstępne dane Przychody ze sprzedaży spółki AC w I kw. 2026 roku wyniosły 47,75 mln zł i są niższe rdr o 14,25 proc. - podała spółka w komunikacie z wstępnymi wynikami.",
-      "content_html": "",
-      "date_published": "2026-04-01T14:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
