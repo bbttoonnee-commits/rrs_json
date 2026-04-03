@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
+      "url": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
+      "title": "F-35 tango down? Reuters: Iran zestrzelił amerykański myśliwiec",
+      "content_html": "Myśliwiec sił powietrznych USA został zestrzelony nad Iranem - poinformowała w piątek agencja Reutera, powołując się na amerykańskiego urzędnika. Reuters zaznaczył, że trwa misja poszukiwawczo-ratownicza. Wcześniej irańska armia stwierdziła...",
+      "date_published": "2026-04-03T17:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-80-letniego-sojuszu-Musimy-myslec-o-NATO-bez-Amerykanow-9109258.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-80-letniego-sojuszu-Musimy-myslec-o-NATO-bez-Amerykanow-9109258.html",
+      "title": "Koniec 80-letniego sojuszu? \"Musimy myśleć o NATO bez Amerykanów\"",
+      "content_html": "Napięcia wokół wojny z Iranem pogłębiły podziały w NATO. Gniew Prezydenta USA Donalda Trumpa na europejskich sojuszników stawia pod znakiem zapytania przyszłość Sojuszu - skomentowała w piątek agencja Reutera.",
+      "date_published": "2026-04-03T17:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-XTB-zdecyduje-o-utworzeniu-programu-motywacyjnego-dla-wszystkich-pracownikow-9109254.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-XTB-zdecyduje-o-utworzeniu-programu-motywacyjnego-dla-wszystkich-pracownikow-9109254.html",
       "title": "NWZ XTB zdecyduje o utworzeniu programu motywacyjnego dla wszystkich pracowników",
@@ -688,20 +702,6 @@
       "title": "Piątkowa propozycja od Pekao. 500 zł na start i 5% dla oszczędności",
       "content_html": "Klienci cenią proste mechanizmy, a najnowsza propozycja Banku Pekao idealnie wpisuje się w ten model. W nowej promocji Konta Przekorzystnego mamy same piątki: 500 zł premii za 500 zł wpływu i 5 transakcji kartą, a dodatkowo do zyskania jest atrakcyjne...",
       "date_published": "2026-04-02T20:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-odstepuje-od-budowy-S19-GDDKiA-uznaje-ruch-za-bezpodstawny-9108790.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-odstepuje-od-budowy-S19-GDDKiA-uznaje-ruch-za-bezpodstawny-9108790.html",
-      "title": "Mostostal Warszawa odstępuje od budowy S19. GDDKiA uznaje ruch za bezpodstawny",
-      "content_html": "Spółka Mostostal Warszawa odstąpiła w czwartek od kontraktu na zaprojektowanie i budowę podkarpackiego odcinka drogi ekspresowej S19 Domaradz–Iskrzynia (Krosno). Generalna Dyrekcja Dróg Krajowych i Autostrad uznała to działanie za bezpodstawne...",
-      "date_published": "2026-04-02T19:57:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliwa-lotniczego-i-oleju-napedowego-w-Europie-najwyzsze-w-historii-9108834.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliwa-lotniczego-i-oleju-napedowego-w-Europie-najwyzsze-w-historii-9108834.html",
-      "title": "Historyczny rekord cen paliwa lotniczego i ON. Notowania wystrzeliły",
-      "content_html": "Ceny paliwa lotniczego i oleju napędowego w północno-zachodniej Europie przekroczyły w czwartek odpowiednio 1900 USD/t i 1600 USD/t, osiągając nowe maksima wszech czasów. Uczestnicy rynku spodziewają się dalszej eskalacji na Bliskim Wschodzie...",
-      "date_published": "2026-04-02T19:46:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
