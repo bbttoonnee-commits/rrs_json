@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/200-zl-kontra-1200-zl-Pat-w-negocjacjach-placowych-w-ZUS-9109301.html",
+      "url": "https://www.bankier.pl/wiadomosc/200-zl-kontra-1200-zl-Pat-w-negocjacjach-placowych-w-ZUS-9109301.html",
+      "title": "200 zł kontra 1200 zł. Pat w negocjacjach płacowych w ZUS",
+      "content_html": "Rozmowy pomiędzy związkowcami z ZUS a zarządem w sprawie podziału środków na podwyżki wynagrodzeń na 2026 rok zostaną wznowione 9 kwietnia. Strony zgodnie podpisały oświadczenie o zawieszeniu rozmów - poinformowało w piątek biuro prasowe...",
+      "date_published": "2026-04-03T19:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-wzywa-na-arbitraz-przeciwko-GE-Hydro-France-roszczenia-szacuje-na-35-mln-USD-9109292.html",
       "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-wzywa-na-arbitraz-przeciwko-GE-Hydro-France-roszczenia-szacuje-na-35-mln-USD-9109292.html",
       "title": "Mostostal Warszawa wzywa na arbitraż przeciwko GE Hydro France, roszczenia szacuje na 35 mln USD",
@@ -403,13 +410,6 @@
       "date_published": "2026-04-03T09:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Marzec-przyniosl-wyrazne-pogorszenie-na-rynku-funduszy-inwestycyjnych-9108994.html",
-      "url": "https://www.bankier.pl/wiadomosc/Marzec-przyniosl-wyrazne-pogorszenie-na-rynku-funduszy-inwestycyjnych-9108994.html",
-      "title": "Marzec przyniósł wyraźne pogorszenie na rynku funduszy inwestycyjnych",
-      "content_html": "Marzec na rynku funduszy inwestycyjnych przyniósł wyraźne pogorszenie nastrojów, a największe straty miały fundusze metali szlachetnych i rynków akcji. Mimo to część segmentów, w tym polskie akcje i fundusze rynków wschodzących, utrzymała...",
-      "date_published": "2026-04-03T08:52:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Iran-twierdzi-ze-stracil-drugi-amerykanski-mysliwiec-F-35-9108985.html",
       "url": "https://www.bankier.pl/wiadomosc/Iran-twierdzi-ze-stracil-drugi-amerykanski-mysliwiec-F-35-9108985.html",
       "title": "Iran twierdzi, że strącił drugi amerykański myśliwiec F-35",
@@ -681,27 +681,6 @@
       "title": "Rakieta uderzyła w bazę ONZ. Kolejny niebezpieczny incydent w Libanie",
       "content_html": "Rakieta trafiła w czwartek we włoską bazę sił ONZ, UNIFIL, w południowym Libanie - podała agencja Ansa, informując, że nikt nie został ranny. Jak zaznaczono, pochodzenie pocisku jest ustalane.",
       "date_published": "2026-04-02T21:19:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-odwoluje-Pam-Bondi-Kto-zostanie-nowym-prokuratorem-generalnym-9108845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Donald-Trump-odwoluje-Pam-Bondi-Kto-zostanie-nowym-prokuratorem-generalnym-9108845.html",
-      "title": "Donald Trump odwołał Pam Bondi. Kto zostanie nowym prokuratorem generalnym?",
-      "content_html": "Pam Bondi nie będzie już prokuratorką generalną USA - poinformowała w czwartek stacja Fox News po rozmowie z prezydentem USA Donaldem Trumpem. Bondi ma sprawować inną funkcję w administracji.",
-      "date_published": "2026-04-02T21:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/LPG-poza-CPN-Wiceminister-energii-ucina-spekulacje-ws-autogazu-9108860.html",
-      "url": "https://www.bankier.pl/wiadomosc/LPG-poza-CPN-Wiceminister-energii-ucina-spekulacje-ws-autogazu-9108860.html",
-      "title": "LPG poza CPN? Wiceminister energii ucina spekulacje ws. autogazu",
-      "content_html": "Obecnie nie ma planów włączenia gazu LPG do pakietu „Ceny Paliw Niżej” - wynika z wypowiedzi wiceministra energii Konrada Wojnarowskiego. Jego zdaniem, jeśli w najbliższych dniach z punktu widzenia rynkowego czy gospodarczego miałoby się coś...",
-      "date_published": "2026-04-02T21:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Brytyjskie-MSZ-zamykajac-Ormuz-Iran-wzial-swiatowa-gospodarke-jako-zakladnika-9108751.html",
-      "url": "https://www.bankier.pl/wiadomosc/Brytyjskie-MSZ-zamykajac-Ormuz-Iran-wzial-swiatowa-gospodarke-jako-zakladnika-9108751.html",
-      "title": "Brytyjskie MSZ: zamykając Ormuz, Iran wziął światową gospodarkę jako zakładnika",
-      "content_html": "Przedstawiciele ponad 40 krajów, którzy dyskutowali w czwartek o sposobach odblokowania cieśniny Ormuz, wezwali Iran do natychmiastowego i bezwarunkowego jej ponownego otwarcia oraz do przestrzegania fundamentalnych zasad swobody żeglugi i prawa morza...",
-      "date_published": "2026-04-02T20:51:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
