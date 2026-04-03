@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-szarpie-rynkami-AI-lapie-zadyszke-a-zloto-zawodzi-Kolany-Nie-ma-kapitulacji-rynku-9108668.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-szarpie-rynkami-AI-lapie-zadyszke-a-zloto-zawodzi-Kolany-Nie-ma-kapitulacji-rynku-9108668.html",
+      "title": "\"GPW\" Ropa szarpie rynkami, AI łapie zadyszkę, a złoto zawodzi. Kolany: Nie ma kapitulacji rynku Pierwszy kwartał 2026 roku nie przyniósł rynkom uspokojenia, tylko kolejną dawkę chaosu. Wojna na Bliskim Wschodzie wywindowała ceny ropy do poziomów, które jeszcze niedawno wydawały się scenariuszem skrajnym. Technologiczni giganci, jeszcze niedawno ciągnący hossę, zaczęli wyraźnie tracić impet. Nawet złoto, klasyczna bezpieczna przystań, zachowuje się inaczej, niż podpowiadałby podręcznik. Co to mówi o kondycji światowych rynków i czy inwestorzy wciąż udają, że nic wielkiego się nie dzieje? O tym w najnowszym odcinku „GPW – Gospodarczego Punktu Widzenia” Aleksander Ogrodnik rozmawia z Krzysztofem Kolanym, głównym analitykiem Bankier.pl",
+      "content_html": "",
+      "date_published": "2026-04-03T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-3-01-mld-zl-9108915.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Energi-zdecydowali-o-podwyzszeniu-kapitalu-zakladowego-o-3-01-mld-zl-9108915.html",
       "title": "Akcjonariusze Energi zdecydowali o podwyższeniu kapitału zakładowego o 3,01 mld zł Nadzwyczajne walne zgromadzenie akcjonariuszy spółki Energa zdecydowało o podwyższeniu kapitału zakładowego spółki o 3,01 mld zł do 7,5 mld zł - poinformowała spółka w czwartkowym raporcie giełdowym.",
@@ -576,13 +583,6 @@
       "title": "Inwestycja Orlenu za 1,35 mld zł. Koniec wielkiego problemu \"Polimerów Police\"? Orlen zawarł przedwstępną umowę sprzedaży z akcjonariuszami spółki Grupy Azoty Polyolefins (GAP), na mocy której nabędzie wszystkie pozostałe akcje GAP. Orlen dostarczy także finansowanie o łącznej wartości 1,35 mld zł - podały spółki w komunikatach. Finalizacja transakcji planowana jest w III kwartale 2026 r.",
       "content_html": "",
       "date_published": "2026-04-01T07:07:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Geopolityka-rozdaje-karty-W-co-graja-Gwiazdy-Bankiera-w-kwietniu-9107480.html",
-      "url": "https://www.bankier.pl/wiadomosc/Geopolityka-rozdaje-karty-W-co-graja-Gwiazdy-Bankiera-w-kwietniu-9107480.html",
-      "title": "PORTFEL GWIAZD BANKIER.PL Geopolityka rozdaje karty. W co grają Gwiazdy Bankiera w kwietniu? Wojny, napięcia i niepewność – rynki wchodzą w kolejny miesiąc pod presją wydarzeń, których nie sposób przewidzieć. W takich warunkach inwestorzy skracają horyzont i szukają okazji „tu i teraz”. Sprawdzamy, gdzie widzą je uczestnicy Portfela Gwiazd Bankier.pl.",
-      "content_html": "",
-      "date_published": "2026-04-01T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
