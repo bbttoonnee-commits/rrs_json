@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-walczy-o-przetrwanie-Miliardowa-pozyczka-i-wielkie-ciecia-dopiero-za-pol-roku-9109026.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-walczy-o-przetrwanie-Miliardowa-pozyczka-i-wielkie-ciecia-dopiero-za-pol-roku-9109026.html",
+      "title": "JSW walczy o przetrwanie. Miliardowa pożyczka i wielkie cięcia dopiero za pół roku? Bieżąca poprawa sytuacji rynkowej przełoży się na kondycję Jastrzębskiej Spółki Węglowej za około pół roku, rok - powiedział w piątek wiceminister energii Marian Zmarzły. Przypomniał, że plan restrukturyzacji spółki założył m.in. udzielenie jej ok. 2,9 mld zł pożyczek.",
+      "content_html": "",
+      "date_published": "2026-04-03T09:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-z-Wifama-ws-oferowania-produktow-dla-Polskich-Sil-Zbrojnych-9109015.html",
       "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-z-Wifama-ws-oferowania-produktow-dla-Polskich-Sil-Zbrojnych-9109015.html",
       "title": "Niewiadów - PGM ma memorandum z Wifama ws. oferowania produktów dla Polskich Sił Zbrojnych Spółka zależna od Niewiadów - PGM zawarła z Wifama Memorandum of understanding w sprawie wspólnego oferowania produktów dla Polskich Sił Zbrojnych - podała spółka Niewiadów - PGM w komunikacie.",
@@ -534,34 +541,6 @@
       "title": "Dom Development wprowadził do sprzedaży w III blisko 500 mieszkań w Krakowie, Wrocławiu i Trójmieście Dom Development w marcu wprowadził do sprzedaży blisko 500 mieszkań w inwestycjach realizowanych w Krakowie, Wrocławiu i Trójmieście - poinformował deweloper w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-04-01T10:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Seleny-do-redukuj-9107724.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Seleny-do-redukuj-9107724.html",
-      "title": "DM BDM obniżył rekomendację Seleny do \"redukuj\" Analitycy DM BDM, w raporcie z 23 marca, obniżyli rekomendację spółki Selena FM do \"redukuj\" z \"kupuj\", wyznaczając cenę docelową na poziomie 47,5 zł.",
-      "content_html": "",
-      "date_published": "2026-04-01T10:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oto-10-najlepszych-spolek-na-GPW-9107647.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oto-10-najlepszych-spolek-na-GPW-9107647.html",
-      "title": "RANKING Oto 10 najlepszych spółek na GPW Analitycy, maklerzy i zarządzający funduszami wybrali najlepsze spółki z warszawskiej giełdy. W czołówce rankingu Giełdowa Spółka Roku 2025 znalazły się m.in. Creotech, cyber_Folks i Bioceltix.",
-      "content_html": "",
-      "date_published": "2026-04-01T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-akcji-Toya-do-15-5-zl-9107717.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-akcji-Toya-do-15-5-zl-9107717.html",
-      "title": "Noble Securities podniósł cenę docelową akcji Toya Analitycy Noble Securities, w raporcie z 27 marca, podnieśli cenę docelową akcji spółki Toya do 15,5 zł z 14,5 zł i rekomendują kupno akcji.",
-      "content_html": "",
-      "date_published": "2026-04-01T09:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Odbicie-na-rynkach-Inwestorzy-znow-uwierzyli-Trumpowi-i-stawiaja-na-szybki-koniec-wojny-9107640.html",
-      "url": "https://www.bankier.pl/wiadomosc/Odbicie-na-rynkach-Inwestorzy-znow-uwierzyli-Trumpowi-i-stawiaja-na-szybki-koniec-wojny-9107640.html",
-      "title": "Odbicie na rynkach. Inwestorzy znów uwierzyli Trumpowi i stawiają na szybki koniec wojny Ostatni dzień marca na Wall Street był najlepszą sesją amerykańskich indeksów od maja 2025 roku. Optymizm na rynkach przeniósł się na środę 1 kwietnia i azjatyckie giełdy. Wzrost cen ropy wyraźnie zahamował. Rosły złoto i bitcoin. Donald Trump zapowiedział, że wojna z Iranem zakończy się za 2-3 tygodni, a rynki chwyciły się nadziei na pokój.",
-      "content_html": "",
-      "date_published": "2026-04-01T09:29:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
