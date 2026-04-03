@@ -4,10 +4,24 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-nadziei-dla-humbaka-z-Baltyku-Niemieckie-sluzby-przerywaja-akcje-ratunkowa-9109304.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-nadziei-dla-humbaka-z-Baltyku-Niemieckie-sluzby-przerywaja-akcje-ratunkowa-9109304.html",
+      "title": "Koniec nadziei dla humbaka z Bałtyku. Niemieckie służby przerywają akcję ratunkową",
+      "content_html": "Po ponad tygodniu prób uwolnienia humbaka, który utknął u północnych wybrzeży Niemiec, służby poinformowały, że nie będą już podejmować dalszych działań, by mu pomóc. Zwierzę zapewne padnie niebawem.",
+      "date_published": "2026-04-03T19:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/200-zl-kontra-1200-zl-Pat-w-negocjacjach-placowych-w-ZUS-9109301.html",
       "url": "https://www.bankier.pl/wiadomosc/200-zl-kontra-1200-zl-Pat-w-negocjacjach-placowych-w-ZUS-9109301.html",
       "title": "200 zł kontra 1200 zł. Pat w negocjacjach płacowych w ZUS",
       "content_html": "Rozmowy pomiędzy związkowcami z ZUS a zarządem w sprawie podziału środków na podwyżki wynagrodzeń na 2026 rok zostaną wznowione 9 kwietnia. Strony zgodnie podpisały oświadczenie o zawieszeniu rozmów - poinformowało w piątek biuro prasowe...",
+      "date_published": "2026-04-03T19:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjskie-statki-szpieguja-pod-przykrywka-zlej-pogody-Norweski-wywiad-ostrzega-9109302.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjskie-statki-szpieguja-pod-przykrywka-zlej-pogody-Norweski-wywiad-ostrzega-9109302.html",
+      "title": "Rosyjskie statki szpiegują pod przykrywką złej pogody? Norweski wywiad ostrzega",
+      "content_html": "Od początku pełnoskalowej wojny Rosji z Ukrainą rosyjskie statki co najmniej raz w tygodniu szukały schronienia przed złą pogodą w norweskich fiordach. Norweski kontrwywiad PST ostrzega, że mogą tak zbierać dane o infrastrukturze oraz zdolnościach...",
       "date_published": "2026-04-03T19:10:00+02:00"
     },
     {
@@ -408,6 +422,13 @@
       "title": "Wielkanocny szturm na Bałtyk. Hotele na Pomorzu wyprzedane do ostatniego miejsca",
       "content_html": "Mimo niestabilnej sytuacji geopolitycznej i rosnących kosztów transportu tegoroczne obłożenie w hotelach w okresie Wielkanocy na Pomorzu sięga blisko 100 proc. W wielu obiektach wolne miejsca wyprzedały się na kilka tygodni przed świętami –...",
       "date_published": "2026-04-03T09:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Marzec-przyniosl-wyrazne-pogorszenie-na-rynku-funduszy-inwestycyjnych-9108994.html",
+      "url": "https://www.bankier.pl/wiadomosc/Marzec-przyniosl-wyrazne-pogorszenie-na-rynku-funduszy-inwestycyjnych-9108994.html",
+      "title": "Marzec przyniósł wyraźne pogorszenie na rynku funduszy inwestycyjnych",
+      "content_html": "Marzec na rynku funduszy inwestycyjnych przyniósł wyraźne pogorszenie nastrojów, a największe straty miały fundusze metali szlachetnych i rynków akcji. Mimo to część segmentów, w tym polskie akcje i fundusze rynków wschodzących, utrzymała...",
+      "date_published": "2026-04-03T08:52:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Iran-twierdzi-ze-stracil-drugi-amerykanski-mysliwiec-F-35-9108985.html",
