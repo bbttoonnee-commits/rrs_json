@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-mial-8-6-mln-zl-przychodow-w-marcu-o-14-proc-wiecej-niz-w-lutym-9109429.html",
+      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-mial-8-6-mln-zl-przychodow-w-marcu-o-14-proc-wiecej-niz-w-lutym-9109429.html",
+      "title": "Artifex Mundi miał 8,6 mln zł przychodów w marcu, o 14 proc. więcej niż w lutym Artifex Mundi szacuje, że w marcu 2026 roku miał 8,6 mln zł przychodów ze sprzedaży, co oznacza wzrost o 14 proc. wobec lutego tego roku - poinformował producent i wydawca gier w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-04T11:52:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zignorujcie-niedzwiedzie-Rzadka-okazja-do-zakupow-na-przecenionym-rynku-9109270.html",
       "url": "https://www.bankier.pl/wiadomosc/Zignorujcie-niedzwiedzie-Rzadka-okazja-do-zakupow-na-przecenionym-rynku-9109270.html",
       "title": "O TYM MÓWI WALL STREET „Zignorujcie niedźwiedzie”. Rzadka okazja do zakupów na przecenionym rynku? W tym tygodniu rynki finansowe kontynuowały jazdę bez trzymanki, reagując na szybko zmieniające się nagłówki dotyczące wojny na Bliskim Wschodzie oraz nieprzewidywalną retorykę Donalda Trumpa. Na Wall Street słychać jednak coraz więcej głosów, że obecna korekta powoli dobiega końca.",
@@ -296,20 +303,6 @@
       "title": "Prezydent podpisał nowelizację ustawy o funduszach inwestycyjnych Prezydent Karol Nawrocki podpisał nowelizację ustawy o funduszach inwestycyjnych – poinformowała w czwartek kancelaria prezydenta. Celem nowelizacji jest umożliwienie rejestrowania certyfikatów inwestycyjnych FIZ niepublicznych poza Krajowym Depozytem Papierów Wartościowych (KDPW).",
       "content_html": "",
       "date_published": "2026-04-02T12:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-w-I-kw-sprzedal-1-161-lokali-netto-9108503.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-w-I-kw-sprzedal-1-161-lokali-netto-9108503.html",
-      "title": "Boom na mieszkania mimo niepewności. Dom Development sprzedał ponad 1100 lokali Grupa Dom Development w I kwartale 2026 roku sprzedała 1.161 lokali netto - 542 w Warszawie, 260 w Trójmieście, 216 we Wrocławiu, 143 w Krakowie - podał deweloper w komunikacie. Spółka przekazała w tym czasie 1.273 lokale , w tym 601 w Warszawie, 132 w Trójmieście, 408 we Wrocławiu oraz 132 w Krakowie.",
-      "content_html": "",
-      "date_published": "2026-04-02T12:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GK-Best-spodziewa-sie-w-2026-roku-znaczacego-wzrostu-inwestycji-w-portfele-9108499.html",
-      "url": "https://www.bankier.pl/wiadomosc/GK-Best-spodziewa-sie-w-2026-roku-znaczacego-wzrostu-inwestycji-w-portfele-9108499.html",
-      "title": "Best po fuzji rusza na zakupy. \"Znaczący wzrost inwestycji\" w 2026 roku Grupa Kapitałowa Best, działająca w branży windykacyjnej, chce w 2026 roku znacząco zwiększyć inwestycje w portfele wierzytelności - poinformował prezes Krzysztof Borusowski. Grupa w dalszym horyzoncie chce wchodzić na nowe rynki zagraniczne, ale na razie koncentruje się na poprawie we Włoszech.",
-      "content_html": "",
-      "date_published": "2026-04-02T12:08:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
