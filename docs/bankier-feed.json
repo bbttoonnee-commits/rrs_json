@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-chowu-klatkowego-Sklepy-i-Unia-mowia-dosc-a-ceny-jaj-ida-w-gore-9108549.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-chowu-klatkowego-Sklepy-i-Unia-mowia-dosc-a-ceny-jaj-ida-w-gore-9108549.html",
+      "title": "Koniec ery chowu klatkowego. Sklepy i Unia mówią \"dość\", a ceny jaj idą w górę",
+      "content_html": "Ok. 68 proc. produkcji jajek w naszym kraju - to do niedawna najbardziej popularne jaja klatkowe, tzw. \"trójki\". Tymczasem wiele sieci handlowych zrezygnowało z ich sprzedaży oferując konsumentom droższe jajka z tzw. chowów alternatywnych tj. nie...",
+      "date_published": "2026-04-04T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosatom-ewakuuje-personel-z-elektrowni-w-Iranie-Szef-koncernu-To-najgorszy-scenariusz-9109455.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosatom-ewakuuje-personel-z-elektrowni-w-Iranie-Szef-koncernu-To-najgorszy-scenariusz-9109455.html",
+      "title": "Rosatom ewakuuje personel z elektrowni w Iranie. Szef koncernu: To najgorszy scenariusz",
+      "content_html": "Rosyjski koncern Rosatom ewakuował w sobotę kolejnych 198 pracowników z elektrowni jądrowej w Buszehrze - poinformowała agencja Reutera, powołując się na rosyjskie media.",
+      "date_published": "2026-04-04T18:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-znow-atakuje-NATO-Nazywa-Sojusz-oslabionym-i-zawodnym-partnerem-9109456.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-znow-atakuje-NATO-Nazywa-Sojusz-oslabionym-i-zawodnym-partnerem-9109456.html",
+      "title": "Trump znów atakuje NATO. Nazywa Sojusz „osłabionym i zawodnym partnerem”",
+      "content_html": "NATO to nasz niezwykle osłabiony i zawodny „partner” - oświadczył w sobotę prezydent USA Donald Trump. To kolejne negatywne słowa prezydenta pod adresem Sojuszu w ostatnim czasie. Skrytykował też dziennik „New York Times”.",
+      "date_published": "2026-04-04T18:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zapanuje-tam-pieklo-Trump-daje-Iranowi-48-godzin-na-otwarcie-ciesniny-Ormuz-9109463.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zapanuje-tam-pieklo-Trump-daje-Iranowi-48-godzin-na-otwarcie-ciesniny-Ormuz-9109463.html",
+      "title": "„Zapanuje tam piekło”. Trump daje Iranowi 48 godzin na otwarcie cieśniny Ormuz",
+      "content_html": "Iran ma jeszcze 48 godzin na zawarcie porozumienia albo otwarcie cieśniny Ormuz, w przeciwnym razie zapanuje tam piekło - zapowiedział w sobotę prezydent USA Donald Trump.",
+      "date_published": "2026-04-04T18:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
+      "url": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
+      "title": "Iran zestrzelił amerykański myśliwiec. Wyścig z czasem w poszukiwaniu drugiego pilota",
+      "content_html": "Dwóch pilotów katapultowało się ze strąconego nad Iranem amerykańskiego myśliwca F-15 - poinformował portal Axios, powołując się na źródła. Jednego z członków załogi uratowały amerykańskie siły specjalne, poszukiwania drugiego trwają...",
+      "date_published": "2026-04-04T18:11:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-dementuje-odrzucenie-rozmow-pokojowych-Szef-iranskiego-MSZ-ostrzega-9109449.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-dementuje-odrzucenie-rozmow-pokojowych-Szef-iranskiego-MSZ-ostrzega-9109449.html",
+      "title": "Iran dementuje odrzucenie rozmów pokojowych. Szef irańskiego MSZ ostrzega",
+      "content_html": "Minister spraw zagranicznych Iranu Abbas Aragczi oświadczył w sobotę na platformie X, że Iran nigdy nie odrzucił propozycji rozmów pokojowych z USA w Islamabadzie. Dodał, że media amerykańskie błędnie przedstawiają stanowisko Teheranu w tej...",
+      "date_published": "2026-04-04T17:52:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spadek-migracji-na-wschodniej-granicy-o-96-proc-Spor-o-azyl-trwa-9109445.html",
       "url": "https://www.bankier.pl/wiadomosc/Spadek-migracji-na-wschodniej-granicy-o-96-proc-Spor-o-azyl-trwa-9109445.html",
       "title": "Spadek migracji na wschodniej granicy o 96 proc. Spór o azyl trwa",
@@ -72,13 +114,6 @@
       "title": "Bez akcesji do Unii PKB Polski byłby obecnie o 30 proc. niższy",
       "content_html": "Bez akcesji do Unii Europejskiej realne PKB Polski byłoby obecnie o 30 proc. niższe - oceniają ekonomiści Polskiego Instytutu Ekonomicznego.",
       "date_published": "2026-04-04T15:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
-      "url": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
-      "title": "Iran zestrzelił amerykański myśliwiec. Wyścig z czasem w poszukiwaniu drugiego pilota",
-      "content_html": "Dwóch pilotów katapultowało się ze strąconego nad Iranem amerykańskiego myśliwca F-15 - poinformował portal Axios, powołując się na źródła. Jednego z członków załogi uratowały amerykańskie siły specjalne, poszukiwania drugiego trwają...",
-      "date_published": "2026-04-04T14:10:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Seniorka-pozyczyla-25-tys-a-musi-splacic-222-proc-kwoty-RPO-interweniuje-9109394.html",
@@ -459,13 +494,6 @@
       "date_published": "2026-04-03T14:04:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Czterogodzinne-odprawy-na-lotniskach-Szef-Ryanaira-Glosowaliscie-za-brexitem-to-ku-stancie-w-kolejce-9109137.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czterogodzinne-odprawy-na-lotniskach-Szef-Ryanaira-Glosowaliscie-za-brexitem-to-ku-stancie-w-kolejce-9109137.html",
-      "title": "Czterogodzinne odprawy na lotniskach? Szef Ryanaira: Głosowaliście za brexitem, to ku^#$^ stańcie w kolejce",
-      "content_html": "Zachciało się opuścić Unię Europejską, to sobie postoicie - taką diagnozę długich kolejek do kontroli paszportowej przedstawił Michael O'Leary. Sam szef Ryanaira wielokrotnie też przyznawał, że w referendum głosował przeciwko brexitowi...",
-      "date_published": "2026-04-03T14:00:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Pociski-manewrujace-nad-Ukraina-Polskie-wojsko-poderwalo-mysliwce-9109058.html",
       "url": "https://www.bankier.pl/wiadomosc/Pociski-manewrujace-nad-Ukraina-Polskie-wojsko-poderwalo-mysliwce-9109058.html",
       "title": "Pociski manewrujące nad Ukrainą. Polskie wojsko poderwało myśliwce",
@@ -639,62 +667,6 @@
       "title": "Litwa zatwierdza tymczasową obniżkę akcyzy na olej napędowy",
       "content_html": "Rząd Litwy podjął w piątek decyzję o obniżeniu podatku akcyzowego na olej napędowy w celu złagodzenia wzrostu cen paliw. Obniżka ma obowiązywać do 15 czerwca i zmniejszyć cenę litra paliwa o około 6 eurocentów.",
       "date_published": "2026-04-03T10:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JSW-walczy-o-przetrwanie-Miliardowa-pozyczka-i-wielkie-ciecia-dopiero-za-pol-roku-9109026.html",
-      "url": "https://www.bankier.pl/wiadomosc/JSW-walczy-o-przetrwanie-Miliardowa-pozyczka-i-wielkie-ciecia-dopiero-za-pol-roku-9109026.html",
-      "title": "JSW walczy o przetrwanie. Miliardowa pożyczka i wielkie cięcia dopiero za pół roku?",
-      "content_html": "Bieżąca poprawa sytuacji rynkowej przełoży się na kondycję Jastrzębskiej Spółki Węglowej za około pół roku, rok - powiedział w piątek wiceminister energii Marian Zmarzły. Przypomniał, że plan restrukturyzacji spółki założył m.in...",
-      "date_published": "2026-04-03T10:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bunt-w-wegierskim-wojsku-Zolnierze-chca-masowo-odchodzic-9108944.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bunt-w-wegierskim-wojsku-Zolnierze-chca-masowo-odchodzic-9108944.html",
-      "title": "Bunt w węgierskim wojsku? Żołnierze chcą masowo odchodzić",
-      "content_html": "Kapitan Szilveszter Palinkas - czynny oficer węgierskiej armii - w wywiadzie udzielonym portalowi Telex stwierdził, że wojsko Węgier przeżywa bezprecedensowy kryzys moralny, a wśród żołnierzy rośnie niezadowolenie i chęć odejścia ze służby...",
-      "date_published": "2026-04-03T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niemiecka-prasa-uderza-w-Trumpa-Oredzie-to-nadete-samochwalstwo-9108983.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemiecka-prasa-uderza-w-Trumpa-Oredzie-to-nadete-samochwalstwo-9108983.html",
-      "title": "Niemiecka prasa uderza w Trumpa. „Orędzie to nadęte samochwalstwo”",
-      "content_html": "Niemiecka prasa zarzuca prezydentowi USA, że w poświęconym wojnie z Iranem orędziu do narodu nie przedstawił żadnych konkretów dotyczących celu wojny toczonej z tym państwem ani sposobu jej zakończenia. Komentatorzy krytykują „nadęte samochwalstwo”...",
-      "date_published": "2026-04-03T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pozar-w-kluczowej-rafinerii-Kuwejtu-po-ataku-drona-9109016.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozar-w-kluczowej-rafinerii-Kuwejtu-po-ataku-drona-9109016.html",
-      "title": "Pożar w kluczowej rafinerii Kuwejtu po ataku drona",
-      "content_html": "Atak drona spowodował w piątek pożar na terenie rafinerii ropy naftowej Mina Al-Ahmadi na wschodzie Kuwejtu, jeden z trzech takich zakładów w kraju - przekazała krajowa agencja informacyjna KUNA, cytowana przez AFP. Trwa akcja gaśnicza. Na razie...",
-      "date_published": "2026-04-03T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Blisko-polowa-iranskich-wyrzutni-rakiet-balistycznych-nadal-nienaruszona-9108999.html",
-      "url": "https://www.bankier.pl/wiadomosc/Blisko-polowa-iranskich-wyrzutni-rakiet-balistycznych-nadal-nienaruszona-9108999.html",
-      "title": "Blisko połowa irańskich wyrzutni rakiet balistycznych nadal nienaruszona",
-      "content_html": "Około połowa irańskich wyrzutni rakiet balistycznych pozostała nienaruszona mimo trwającego od ponad miesiąca bombardowania kraju przez USA i Izrael – podała w piątek stacja CNN, powołując się na źródła w amerykańskich służbach wywiadowczych...",
-      "date_published": "2026-04-03T09:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atomowa-Diablo-Canyon-w-najbogatszym-stanie-USA-bedzie-pracowac-dluzej-Nie-powtorzyli-bledu-Niemiec-9109009.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atomowa-Diablo-Canyon-w-najbogatszym-stanie-USA-bedzie-pracowac-dluzej-Nie-powtorzyli-bledu-Niemiec-9109009.html",
-      "title": "Nie powtórzyli błędu Niemiec. Ostatnia elektrownia atomowa w Kalifornii będzie pracować dłużej",
-      "content_html": "Amerykańska Komisja Regulacji Jądrowej (NRC) wydała decyzję o przedłużeniu licencji operacyjnej dla elektrowni Diablo Canyon, ostatniej czynnej elektrowni atomowej w Kalifornii. Obiekt, który był przeznaczony do zamknięcia w ubiegłym roku, popracuje...",
-      "date_published": "2026-04-03T09:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Do-kiedy-bedzie-dzialac-pakiet-CPN-Minister-energii-odpowiada-9109008.html",
-      "url": "https://www.bankier.pl/wiadomosc/Do-kiedy-bedzie-dzialac-pakiet-CPN-Minister-energii-odpowiada-9109008.html",
-      "title": "Do kiedy będzie działać pakiet CPN? Minister energii odpowiada",
-      "content_html": "Rządowy pakiet „Ceny Paliwa Niżej” będzie utrzymywany tak długo, jak będzie potrzebny - zadeklarował w piątek minister energii Miłosz Motyka. Dodał, że w sytuacji, gdy cena ropy pozostanie na wysokim poziomie przez dłuższy czas, byłby...",
-      "date_published": "2026-04-03T09:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-z-Wifama-ws-oferowania-produktow-dla-Polskich-Sil-Zbrojnych-9109015.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-memorandum-z-Wifama-ws-oferowania-produktow-dla-Polskich-Sil-Zbrojnych-9109015.html",
-      "title": "Niewiadów - PGM ma memorandum z Wifama ws. oferowania produktów dla Polskich Sił Zbrojnych",
-      "content_html": "Spółka zależna od Niewiadów - PGM zawarła z Wifama Memorandum of understanding w sprawie wspólnego oferowania produktów dla Polskich Sił Zbrojnych - podała spółka Niewiadów - PGM w komunikacie.",
-      "date_published": "2026-04-03T09:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
