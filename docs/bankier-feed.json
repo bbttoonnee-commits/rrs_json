@@ -18,6 +18,13 @@
       "date_published": "2026-04-04T15:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bez-akcesji-do-Unii-PKB-Polski-bylby-obecnie-o-30-proc-nizszy-9108512.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bez-akcesji-do-Unii-PKB-Polski-bylby-obecnie-o-30-proc-nizszy-9108512.html",
+      "title": "Bez akcesji do Unii PKB Polski byłby obecnie o 30 proc. niższy",
+      "content_html": "Bez akcesji do Unii Europejskiej realne PKB Polski byłoby obecnie o 30 proc. niższe - oceniają ekonomiści Polskiego Instytutu Ekonomicznego.",
+      "date_published": "2026-04-04T15:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
       "url": "https://www.bankier.pl/wiadomosc/F-35-tango-down-Reuters-Iran-zestrzelil-amerykanski-mysliwiec-9109260.html",
       "title": "Iran zestrzelił amerykański myśliwiec. Wyścig z czasem w poszukiwaniu drugiego pilota",
@@ -695,13 +702,6 @@
       "title": "Afera w Kłodzku. Wielichowska ostro odpowiada na zarzuty PiS",
       "content_html": "Wicemarszałkini Sejmu Monika Wielichowska wydała oświadczenie, którym odnosi się do znajomości z Kamilą L., skazaną ws. afery pedofilskiej w Kłodzku. Podkreśliła w nim, że nie utrzymywała prywatnych kontaktów z kobietą. Skierowana przeciwko...",
       "date_published": "2026-04-03T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Develii-w-IV-kw-wyniosl-136-4-mln-zl-powyzej-konsensusu-9108984.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Develii-w-IV-kw-wyniosl-136-4-mln-zl-powyzej-konsensusu-9108984.html",
-      "title": "Tyle zarabia się na budowie mieszkań w Polsce. Develia pokazała raport",
-      "content_html": "Zysk netto j.d. Develii w IV kwartale 2025 r. wyniósł 136,4 mln zł - wynika z raportu rocznego spółki. Konsensus PAP Biznes zakładał 114,5 mln zł zysku.",
-      "date_published": "2026-04-03T08:26:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
