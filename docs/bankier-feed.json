@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/USA-oglaszaja-sukces-misji-ratunkowej-w-Iranie-Trump-Drugi-pilot-F-15-jest-caly-i-zdrowy-9109540.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-oglaszaja-sukces-misji-ratunkowej-w-Iranie-Trump-Drugi-pilot-F-15-jest-caly-i-zdrowy-9109540.html",
+      "title": "USA ogłaszają sukces misji ratunkowej w Iranie. Trump: Drugi pilot F-15 jest cały i zdrowy",
+      "content_html": "Prezydent USA Donald Trump poinformował w niedzielę, że wojsko amerykańskie uratowało drugiego pilota z załogi myśliwca F-15 zestrzelonego w piątek nad Iranem. Media w Iranie podały, że irańskie wojsko zestrzeliło trzy samoloty USA biorące...",
+      "date_published": "2026-04-05T22:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Widmo-ropy-po-150-dolarow-OPEC-interweniuje-w-obliczu-globalnego-kryzysu-9109621.html",
+      "url": "https://www.bankier.pl/wiadomosc/Widmo-ropy-po-150-dolarow-OPEC-interweniuje-w-obliczu-globalnego-kryzysu-9109621.html",
+      "title": "Widmo ropy po 150 dolarów. OPEC+ interweniuje w obliczu globalnego kryzysu",
+      "content_html": "Organizacja Krajów Eksportujących Ropę naftową OPEC+ podjęła w niedzielę decyzję o zwiększeniu limitów produkcji ropy naftowej ze względu na zakłócenia na rynkach energetycznych, wywołanych wojną na Bliskim Wschodzie - poinformowała agencja...",
+      "date_published": "2026-04-05T22:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/San-Francisco-Almaty-czy-Bergen-w-letnim-rozkladzie-LOT-u-9106457.html",
       "url": "https://www.bankier.pl/wiadomosc/San-Francisco-Almaty-czy-Bergen-w-letnim-rozkladzie-LOT-u-9106457.html",
       "title": "San Francisco, Ałmaty czy Bergen w letnim rozkładzie LOT-u",
@@ -130,13 +144,6 @@
       "date_published": "2026-04-05T11:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gawkowski-ostrzega-Oszusci-wykorzystuja-zamieszanie-wokol-e-PIT-i-KSeF-9104252.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gawkowski-ostrzega-Oszusci-wykorzystuja-zamieszanie-wokol-e-PIT-i-KSeF-9104252.html",
-      "title": "Gawkowski ostrzega: Oszuści wykorzystują zamieszanie wokół e-PIT i KSeF",
-      "content_html": "W okresie rozliczeń podatkowych i wdrożenia Krajowego Systemu e-Faktur grupy cyberprzestępcze podszywają się pod Ministerstwo Finansów oraz Krajową Administrację Skarbową - ostrzega w środowym komunikacie pełnomocnik rządu ds. cyberbezpieczeństwa...",
-      "date_published": "2026-04-05T11:00:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-kariery-w-wieku-45-lat-Rzad-szykuje-uprzywilejowane-pomostowki-Dla-kogo-9104295.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-kariery-w-wieku-45-lat-Rzad-szykuje-uprzywilejowane-pomostowki-Dla-kogo-9104295.html",
       "title": "Koniec kariery w wieku 45 lat. Rząd szykuje „uprzywilejowane pomostówki”. Dla kogo?",
@@ -156,13 +163,6 @@
       "title": "„Kompletna porażka i chaos”. CEO Ryanaira wściekły na nowy system odpraw",
       "content_html": "„Chcieliście brexitu, to teraz stójcie w kolejkach” – w ten bezpardonowy sposób szef Ryanaira, Michael O'Leary, podsumowuje gigantyczne zatory na europejskich lotniskach. Nowy unijny system kontroli granic (EES) w zderzeniu z konsekwencjami wyjścia...",
       "date_published": "2026-04-05T09:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-oglaszaja-sukces-misji-ratunkowej-w-Iranie-Trump-Drugi-pilot-F-15-jest-caly-i-zdrowy-9109540.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-oglaszaja-sukces-misji-ratunkowej-w-Iranie-Trump-Drugi-pilot-F-15-jest-caly-i-zdrowy-9109540.html",
-      "title": "USA ogłaszają sukces misji ratunkowej w Iranie. Trump: Drugi pilot F-15 jest cały i zdrowy",
-      "content_html": "Prezydent Donald Trump ogłosił spektakularny sukces misji ratunkowej, informując o bezpiecznym odnalezieniu w Iranie drugiego pilota zestrzelonego myśliwca F-15. Choć Waszyngton mówi o brawurowej i bezkrwawej akcji z udziałem „dziesiątek samolotów”...",
-      "date_published": "2026-04-05T09:49:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Drony-nie-wygraja-tej-wojny-Ekspert-NATO-nie-ma-doswiadczen-z-prawdziwej-wojny-9109552.html",
@@ -688,20 +688,6 @@
       "title": "„Zignorujcie niedźwiedzie”. Rzadka okazja do zakupów na przecenionym rynku?",
       "content_html": "W tym tygodniu rynki finansowe kontynuowały jazdę bez trzymanki, reagując na szybko zmieniające się nagłówki dotyczące wojny na Bliskim Wschodzie oraz nieprzewidywalną retorykę Donalda Trumpa. Na Wall Street słychać jednak coraz więcej głosów...",
       "date_published": "2026-04-04T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Impas-w-negocjacjach-pokojowych-Iran-odrzuca-zadania-USA-Ciesnina-Ormuz-pozostanie-zablokowana-9109318.html",
-      "url": "https://www.bankier.pl/wiadomosc/Impas-w-negocjacjach-pokojowych-Iran-odrzuca-zadania-USA-Ciesnina-Ormuz-pozostanie-zablokowana-9109318.html",
-      "title": "Impas w negocjacjach pokojowych. Iran odrzuca żądania USA. Cieśnina Ormuz pozostanie zablokowana?",
-      "content_html": "Kolejna runda starań, podejmowanych przez kraje regionu, na czele z Pakistanem, by doprowadzić do rozejmu między USA i Iranem znalazła się w impasie - ocenił w piątek dziennik „Wall Street Journal”, powołując się na mediatorów.",
-      "date_published": "2026-04-04T00:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwieksze-wydatki-na-zbrojenia-od-II-Wojny-Swiatowej-Trump-chce-przeznaczyc-1-5-biliona-dolarow-na-armie-9109312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwieksze-wydatki-na-zbrojenia-od-II-Wojny-Swiatowej-Trump-chce-przeznaczyc-1-5-biliona-dolarow-na-armie-9109312.html",
-      "title": "Największe wydatki na zbrojenia od II Wojny Światowej. Trump chce przeznaczyć 1,5 biliona dolarów na armię",
-      "content_html": "Biały Dom w piątek ujawnił, że zwróci się do Kongresu o zgodę na przeznaczenie ok. 1,5 biliona dolarów na cele obronne w roku fiskalnym 2027. Media podkreślają, że byłby to największy budżet na cele militarne we współczesnej historii...",
-      "date_published": "2026-04-03T20:45:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
