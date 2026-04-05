@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Chiny-zakazaly-przechowywania-prochow-w-blokach-mieszkalnych-9106983.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-zakazaly-przechowywania-prochow-w-blokach-mieszkalnych-9106983.html",
+      "title": "Chiny zakazały przechowywania prochów w blokach mieszkalnych",
+      "content_html": "Od wtorku w Chinach zakazane jest wykorzystywanie mieszkań w blokach do przechowywania prochów. Praktyka ta była coraz częstsza wobec spadku cen nieruchomości i wzrostu kosztów utrzymania grobu - przekazał dziennik „Guardian”.",
+      "date_published": "2026-04-05T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bulgaria-wysyla-walentynke-do-Warszawy-14-lutego-Dniem-Polsko-Bulgarskiej-Przyjazni-i-Wspolpracy-9108113.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bulgaria-wysyla-walentynke-do-Warszawy-14-lutego-Dniem-Polsko-Bulgarskiej-Przyjazni-i-Wspolpracy-9108113.html",
+      "title": "Bułgaria wysyła walentynkę do Warszawy. 14 lutego Dniem Polsko-Bułgarskiej Przyjaźni i Współpracy",
+      "content_html": "Bułgarski parlament przyjął w marcu uchwałę o ogłoszeniu 14 lutego Dniem Polsko-Bułgarskiej Przyjaźni i Współpracy. Decyzję podjęto na podstawie wspólnej inicjatywy prezydentów obu państw Andrzeja Dudy i Rumena Radewa przedstawionej w 2025...",
+      "date_published": "2026-04-05T19:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-boja-sie-wlasnych-klotni-bardziej-niz-wojny-9106217.html",
       "url": "https://www.bankier.pl/wiadomosc/Polacy-boja-sie-wlasnych-klotni-bardziej-niz-wojny-9106217.html",
       "title": "Polacy boją się \"własnych\" kłótni bardziej niż wojny",
@@ -688,20 +702,6 @@
       "title": "Rosyjskie statki szpiegują pod przykrywką złej pogody? Norweski wywiad ostrzega",
       "content_html": "Od początku pełnoskalowej wojny Rosji z Ukrainą rosyjskie statki co najmniej raz w tygodniu szukały schronienia przed złą pogodą w norweskich fiordach. Norweski kontrwywiad PST ostrzega, że mogą tak zbierać dane o infrastrukturze oraz zdolnościach...",
       "date_published": "2026-04-03T19:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-wzywa-na-arbitraz-przeciwko-GE-Hydro-France-roszczenia-szacuje-na-35-mln-USD-9109292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-wzywa-na-arbitraz-przeciwko-GE-Hydro-France-roszczenia-szacuje-na-35-mln-USD-9109292.html",
-      "title": "Mostostal Warszawa wzywa na arbitraż przeciwko GE Hydro France, roszczenia szacuje na 35 mln USD",
-      "content_html": "Mostostal Warszawa złożył wezwanie na arbitraż przeciwko GE Hydro France do Międzynarodowego Sądu Arbitrażowego Międzynarodowej Izby Handlowej - podał Mostostal w komunikacie. Spółka szacuje aktualną wartość roszczeń na kwotę 35 mln USD...",
-      "date_published": "2026-04-03T18:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/The-Farm-51-zlozylo-wniosek-o-ogloszenie-upadlosci-w-toku-postepowania-o-zatwierdzenie-ukladu-9109289.html",
-      "url": "https://www.bankier.pl/wiadomosc/The-Farm-51-zlozylo-wniosek-o-ogloszenie-upadlosci-w-toku-postepowania-o-zatwierdzenie-ukladu-9109289.html",
-      "title": "The Farm 51 złożyło wniosek o ogłoszenie upadłości w toku postępowania o zatwierdzenie układu",
-      "content_html": "The Farm 51 Group, notowany na NewConnect producent gier wideo, złożył wniosek o ogłoszenie upadłości wraz z wnioskiem o wstrzymanie jego rozpoznania - podała spółka w komunikacie. Priorytetem jest przeprowadzenie postępowania o zatwierdzenie...",
-      "date_published": "2026-04-03T18:22:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
