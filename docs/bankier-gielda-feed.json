@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Setki-milionow-dolarow-na-AI-Europejski-startup-rzuca-wyzwanie-gigantom-9106569.html",
+      "url": "https://www.bankier.pl/wiadomosc/Setki-milionow-dolarow-na-AI-Europejski-startup-rzuca-wyzwanie-gigantom-9106569.html",
+      "title": "WSJ Setki milionów dolarów na AI. Europejski startup rzuca wyzwanie gigantom Francuski startup Mistral AI poinformował, że pozyskał 830 mln dolarów od konsorcjum banków w ramach swojej pierwszej operacji finansowania dłużnego, zabezpieczając wsparcie finansowe na uruchomienie nowego centrum danych, które będzie zasilane chipami Nvidii - podał w poniedziałek \"The Wall Street Journal\".",
+      "content_html": "",
+      "date_published": "2026-04-05T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-mial-8-6-mln-zl-przychodow-w-marcu-o-14-proc-wiecej-niz-w-lutym-9109429.html",
       "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-mial-8-6-mln-zl-przychodow-w-marcu-o-14-proc-wiecej-niz-w-lutym-9109429.html",
       "title": "Artifex Mundi miał 8,6 mln zł przychodów w marcu, o 14 proc. więcej niż w lutym Artifex Mundi szacuje, że w marcu 2026 roku miał 8,6 mln zł przychodów ze sprzedaży, co oznacza wzrost o 14 proc. wobec lutego tego roku - poinformował producent i wydawca gier w komunikacie.",
@@ -156,13 +163,6 @@
       "title": "Tyle zarabia się na budowie mieszkań w Polsce. Develia pokazała raport Zysk netto j.d. Develii w IV kwartale 2025 r. wyniósł 136,4 mln zł - wynika z raportu rocznego spółki. Konsensus PAP Biznes zakładał 114,5 mln zł zysku.",
       "content_html": "",
       "date_published": "2026-04-03T07:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-szarpie-rynkami-AI-lapie-zadyszke-a-zloto-zawodzi-Kolany-Nie-ma-kapitulacji-rynku-9108668.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-szarpie-rynkami-AI-lapie-zadyszke-a-zloto-zawodzi-Kolany-Nie-ma-kapitulacji-rynku-9108668.html",
-      "title": "\"GPW\" Ropa szarpie rynkami, AI łapie zadyszkę, a złoto zawodzi. Kolany: Nie ma kapitulacji rynku Pierwszy kwartał 2026 roku nie przyniósł rynkom uspokojenia, tylko kolejną dawkę chaosu. Wojna na Bliskim Wschodzie wywindowała ceny ropy do poziomów, które jeszcze niedawno wydawały się scenariuszem skrajnym. Technologiczni giganci, jeszcze niedawno ciągnący hossę, zaczęli wyraźnie tracić impet. Nawet złoto, klasyczna bezpieczna przystań, zachowuje się inaczej, niż podpowiadałby podręcznik. Co to mówi o kondycji światowych rynków i czy inwestorzy wciąż udają, że nic wielkiego się nie dzieje? O tym w najnowszym odcinku „GPW – Gospodarczego Punktu Widzenia” Aleksander Ogrodnik rozmawia z Krzysztofem Kolanym, głównym analitykiem Bankier.pl",
-      "content_html": "",
-      "date_published": "2026-04-03T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
