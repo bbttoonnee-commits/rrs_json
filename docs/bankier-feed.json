@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koszty-szkolenia-na-F-16-zwalaja-z-nog-Selekcja-kandydatow-na-pilotow-wojskowych-9106439.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koszty-szkolenia-na-F-16-zwalaja-z-nog-Selekcja-kandydatow-na-pilotow-wojskowych-9106439.html",
+      "title": "Koszty szkolenia na F-16 zwalają z nóg. Selekcja kandydatów na pilotów wojskowych",
+      "content_html": "Wyszkolenie jednego pilota F-16 trwa dwa lata i kosztuje ok. 5,18 mln dolarów, czyli ponad 21 mln zł. Przy tak wysokich nakładach kluczowe znaczenie ma selekcja kandydatów oraz utrzymanie ich w pełnej sprawności, co staje się jednym z kluczowych...",
+      "date_published": "2026-04-06T11:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pomorskie-zbroi-sie-na-unijne-kary-Rusza-wielka-budowa-kanalizacji-za-miliony-9106776.html",
       "url": "https://www.bankier.pl/wiadomosc/Pomorskie-zbroi-sie-na-unijne-kary-Rusza-wielka-budowa-kanalizacji-za-miliony-9106776.html",
       "title": "Pomorskie zbroi się na unijne kary. Rusza wielka budowa kanalizacji za miliony",
@@ -667,27 +674,6 @@
       "title": "Branża turystyczna: na Wielkanoc Polacy najchętniej wyjadą na południe Europy",
       "content_html": "Polacy spędzą święta wielkanocne najczęściej na południu Europy - głównie we Włoszech, Hiszpanii i na Malcie - wynika z informacji przekazanych PAP przez przedstawicieli branży turystycznej. W kraju największą popularnością cieszy się...",
       "date_published": "2026-04-04T11:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kradzione-auta-i-nielegalni-migranci-Co-ujawnily-kontrole-na-granicy-z-Niemcami-9109401.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kradzione-auta-i-nielegalni-migranci-Co-ujawnily-kontrole-na-granicy-z-Niemcami-9109401.html",
-      "title": "Kradzione auta i nielegalni migranci. Co ujawniły kontrole na granicy z Niemcami?",
-      "content_html": "Przez dziewięć miesięcy obwiązywania tymczasowych kontroli na lubuskim i dolnośląskim odcinku granicy z Niemcami skontrolowano 775 tys. osób oraz ponad 360 tys. pojazdów – poinformował PAP rzecznik Nadodrzańskiego Oddziału SG kpt. SG Paweł...",
-      "date_published": "2026-04-04T10:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-pulapka-3-lat-wlasnosci-Wazne-ulatwienia-w-programie-Czyste-Powietrze-9109404.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-pulapka-3-lat-wlasnosci-Wazne-ulatwienia-w-programie-Czyste-Powietrze-9109404.html",
-      "title": "Koniec z pułapką 3 lat własności. Ważne ułatwienia w programie „Czyste Powietrze”",
-      "content_html": "Podczas konsultacji „Czystego Powietrza” zgłoszono ponad 1,3 tys. uwag, a pierwsze korekty programu będą najpóźniej od lipca – przekazał PAP wiceprezes NFOŚiGW Robert Gajda. Pierwsze zmiany mają dotyczyć np. złagodzenia wymogu posiadania...",
-      "date_published": "2026-04-04T10:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ataki-na-iranskie-miasta-eksplozje-w-Syrii-i-uderzenia-dronow-w-ZEA-9109405.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ataki-na-iranskie-miasta-eksplozje-w-Syrii-i-uderzenia-dronow-w-ZEA-9109405.html",
-      "title": "Ataki na irańskie miasta, eksplozje w Syrii i uderzenia dronów w ZEA",
-      "content_html": "Amerykańsko-izraelskie naloty na Teheran i inne miasta w Iranie były kontynuowane w nocy z piątku na sobotę. W stolicy Syrii Damaszku słyszano eksplozje. W Dubaju odłamki pocisku uderzyły w budynek amerykańskiej firmy Oracle, a w Abu Zabi w piątek...",
-      "date_published": "2026-04-04T10:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
