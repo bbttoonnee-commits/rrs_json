@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-Belchatowie-9110343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Wielton-nie-otrzyma-wsparcia-dla-inwestycji-w-Belchatowie-9110343.html",
+      "title": "Grupa Wielton nie otrzyma wsparcia dla inwestycji w Bełchatowie",
+      "content_html": "Wielton Reefer, spółka z grupy kapitałowej Wielton, nie otrzyma wsparcia Łódzkiej Specjalnej Strefy Ekonomicznej na planowaną inwestycję w Bełchatowie zakładającą budowę zakładu produkcji naczep typu chłodnia - poinformował Wielton w komunikacie...",
+      "date_published": "2026-04-07T23:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tailwind-wstrzymal-negocjacje-w-sprawie-kupna-Software-Mind-spolki-zaleznej-Ailleronu-9110341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tailwind-wstrzymal-negocjacje-w-sprawie-kupna-Software-Mind-spolki-zaleznej-Ailleronu-9110341.html",
+      "title": "Tailwind wstrzymał negocjacje w sprawie kupna Software Mind, spółki zależnej Ailleronu",
+      "content_html": "Tailwind zdecydował się na wstrzymanie rozmów dotyczących potencjalnej transakcji kupna akcji Software Mind z grupy kapitałowej Ailleron z powodu niekorzystnej sytuacji rynkowej - poinformował Ailleron w komunikacie.",
+      "date_published": "2026-04-07T23:38:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/CD-Projekt-udostepni-w-srode-darmowa-aktualizacje-Cyberpunka-2077-dla-PlayStation-5-Pro-9110309.html",
       "url": "https://www.bankier.pl/wiadomosc/CD-Projekt-udostepni-w-srode-darmowa-aktualizacje-Cyberpunka-2077-dla-PlayStation-5-Pro-9110309.html",
       "title": "CD Projekt udostępni w środę darmową aktualizację „Cyberpunka 2077” dla PlayStation 5 Pro",
@@ -688,20 +702,6 @@
       "title": "Kierowcy mają dość drożyzny. Polacy chcą cen urzędowych na paliwa na dłużej",
       "content_html": "80 proc. Polaków uważa, że państwo powinno wprowadzić urzędowe ceny maksymalne na paliwa do końca 2026 r.; przeciwnego zdania jest 20 proc. badanych - wynika z wtorkowego sondażu Instytutu Badań Pollster na zlecenie „Super Expressu”.",
       "date_published": "2026-04-07T07:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
-      "title": "Rozpoczęła się wielka rotacja. Uderzenie na Iran zapalnikiem dla giełdowego trendu",
-      "content_html": "Przez poprzednie trzy lata na Wall Street królowały spółki technologiczne powiązane z boomem na AI. Ich czas powoli dobiega końca. Inwestorzy przypomnieli sobie o „najbardziej znienawidzonym segmencie rynku”.",
-      "date_published": "2026-04-07T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-najlepszych-kont-firmowych-kwiecien-2026-r-9108993.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-najlepszych-kont-firmowych-kwiecien-2026-r-9108993.html",
-      "title": "Konto firmowe za 0 zł bez dodatkowych warunków? Sprawdź najnowszy ranking",
-      "content_html": "Czołówka rankingu kont firmowych nie została wywrócona do góry nogami, ale względem poprzedniego kwartału w części ofert zaszły istotne zmiany w opłatach. W kwietniowym zestawieniu Bankier.pl sprawdzamy więc, jak dziś wypadają rachunki dla...",
-      "date_published": "2026-04-07T07:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
