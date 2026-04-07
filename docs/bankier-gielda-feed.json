@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Atom-zbuduja-nam-Azjaci-i-slono-zaplacimy-za-drogi-i-tory-Dajmy-szanse-polskim-wykonawcom-inaczej-zle-to-sie-skonczy-9109196.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atom-zbuduja-nam-Azjaci-i-slono-zaplacimy-za-drogi-i-tory-Dajmy-szanse-polskim-wykonawcom-inaczej-zle-to-sie-skonczy-9109196.html",
+      "title": "Atom zbudują nam Azjaci i słono zapłacimy za drogi i tory? „Dajmy szansę polskim wykonawcom, inaczej źle to się skończy\" Definicja tzw. local content nie ma znaczenia. W przededniu inwestycyjnego boomu najważniejsze jest natomiast likwidowanie wszelkich barier, które uniemożliwiają podmiotom z polskim kapitałem konkurowanie z zagranicznymi w dużych, strategicznych przetargach – apeluje Jerzy Mirgos, założyciel, główny udziałowiec i prezes Mirbudu. Jako przykład podaje przetarg na rozbudowę lotniska Chopina w Warszawie: „Postawiono tak wysokie wymagania (...), że na osiem firm konkurujących o udział w postępowaniu tylko jeden oferent jest w pełni polskim wykonawcą – to Mirbud. Nie tak to powinno wyglądać”. W wywiadzie dla Bankier.pl rozmawiamy też m.in. o głośnym wykluczeniu Mirbudu i Torpolu z przetargu na Rail Baltica i zaciętej konkurencji na torach, planach związanych z energetyką i obronnością, o Marywilskiej, a także o tym, czy Mirbud może być na sprzedaż i gdzie Jerzy Mirgos widziałby siebie tuż przed emeryturą.",
+      "content_html": "",
+      "date_published": "2026-04-07T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
+      "title": "Rozpoczęła się wielka rotacja. Uderzenie na Iran zapalnikiem dla giełdowego trendu Przez poprzednie trzy lata na Wall Street królowały spółki technologiczne powiązane z boomem na AI. Ich czas powoli dobiega końca. Inwestorzy przypomnieli sobie o „najbardziej znienawidzonym segmencie rynku”.",
+      "content_html": "",
+      "date_published": "2026-04-07T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrosty-czwarty-dzien-z-rzedu-Iran-juz-nie-straszny-9109816.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrosty-czwarty-dzien-z-rzedu-Iran-juz-nie-straszny-9109816.html",
+      "title": "Na Wall Street wzrosty czwarty dzień z rzędu. Iran już nie straszny? Poniedziałkowa sesja na Wall Street przyniosła wzrosty głównych indeksów, a S&P 500 zyskał czwarty dzień z rzędu. Inwestorzy ciągle mają nadzieje na rozejm pomiędzy Iranem a USA i Izraelem tuż przed końcem wyznaczonego przez prezydenta Donalda Trumpa terminem ultimatum.",
+      "content_html": "",
+      "date_published": "2026-04-06T22:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-wysadzeniem-calego-zloza-Kolejne-zaklady-energetyczne-w-Iranie-w-ogniu-9109762.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-wysadzeniem-calego-zloza-Kolejne-zaklady-energetyczne-w-Iranie-w-ogniu-9109762.html",
       "title": "Trump grozi „wysadzeniem całego złoża”. Kolejne zakłady energetyczne w Iranie w ogniu Irańskie media poinformowały, że wojska Izraela i USA zaatakowały w poniedziałek kompleks petrochemiczny w Marwdaszt w prowincji Fars, na południu kraju. Wcześniej Izrael przekazał, że armia tego państwa uderzyła w inny kompleks irańskiego przemysłu naftowego, w Asalujeh nad Zatoką Perską.",
@@ -23,13 +44,6 @@
       "title": "Zapasy gazu w magazynach UE lekko powyżej 28 proc., w Polsce niecałe 45 proc. Zapasy gazu ziemnego w magazynach UE wynoszą 28,2 proc. wobec średniej 5-letniej na tę porę wynoszącej 41,4 proc. W magazynach znajduje się obecnie 318,50 TWh gazu - wynika z wyliczeń firmy Gas Infrastructure Europe.",
       "content_html": "",
       "date_published": "2026-04-06T08:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Setki-milionow-dolarow-na-AI-Europejski-startup-rzuca-wyzwanie-gigantom-9106569.html",
-      "url": "https://www.bankier.pl/wiadomosc/Setki-milionow-dolarow-na-AI-Europejski-startup-rzuca-wyzwanie-gigantom-9106569.html",
-      "title": "WSJ Setki milionów dolarów na AI. Europejski startup rzuca wyzwanie gigantom Francuski startup Mistral AI poinformował, że pozyskał 830 mln dolarów od konsorcjum banków w ramach swojej pierwszej operacji finansowania dłużnego, zabezpieczając wsparcie finansowe na uruchomienie nowego centrum danych, które będzie zasilane chipami Nvidii - podał w poniedziałek \"The Wall Street Journal\".",
-      "content_html": "",
-      "date_published": "2026-04-05T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
