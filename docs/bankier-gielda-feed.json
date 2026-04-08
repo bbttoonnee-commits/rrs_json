@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Aktywa-PPK-spadly-pierwszy-raz-od-pazdziernika-2024-r-9110636.html",
+      "url": "https://www.bankier.pl/wiadomosc/Aktywa-PPK-spadly-pierwszy-raz-od-pazdziernika-2024-r-9110636.html",
+      "title": "Aktywa PPK spadły pierwszy raz od października 2024 r. Wartość aktywów netto PPK obniżyła się w marcu o 3,2 proc. w stosunku do lutego, do 46,9 mld zł. To pierwszy spadek od października 2024 r. choć w ujęciu rocznym aktywa wzrosły o ponad 35 proc. - poinformował w środę Polski Fundusz Rozwoju (PFR), operator portalu informacyjnego PPK.",
+      "content_html": "",
+      "date_published": "2026-04-08T13:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Akcje-jednego-dnia-zyskaly-1380-Kombinat-Konopny-odpalil-ale-nie-wszyscy-sa-w-dobrych-nastrojach-9110584.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcje-jednego-dnia-zyskaly-1380-Kombinat-Konopny-odpalil-ale-nie-wszyscy-sa-w-dobrych-nastrojach-9110584.html",
+      "title": "Akcje spółki od konopi jednego dnia zyskały 1380%. Kombinat odpalił, ale nie wszyscy są w dobrych nastrojach Pierwsza sesja handlowa akcjami Kombinatu Konopnego, przejdzie do historii polskiego rynku kapitałowego. Po tygodniu od oficjalnego debiutu, kiedy to kurs był równoważony, w końcu ruszyła wymiana między inwestorami, a kurs w pierwszych transakcjach zyskał 1150 procent. To nowe najlepsze otwarcie debiutującej spółki nie tylko na NewConnect, ale w całej historii GPW. Inwestorów liczących tak ogromne zyski, jednak nie ma.",
+      "content_html": "",
+      "date_published": "2026-04-08T13:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Develia-sprzedala-w-I-kw-860-lokali-9110553.html",
       "url": "https://www.bankier.pl/wiadomosc/Develia-sprzedala-w-I-kw-860-lokali-9110553.html",
       "title": "Develia sprzedała w I kw. 860 lokali Develia w I kw. 2026 roku sprzedała 860 lokali wobec 951 lokali w I kw. 2025 roku - podała spółka w komunikacie. Przekazania w I kw. wyniosły 1.205 lokali wobec 523 w analogicznym okresie poprzedniego roku.",
@@ -373,13 +387,6 @@
       "title": "Trump grozi „wysadzeniem całego złoża”. Kolejne zakłady energetyczne w Iranie w ogniu Irańskie media poinformowały, że wojska Izraela i USA zaatakowały w poniedziałek kompleks petrochemiczny w Marwdaszt w prowincji Fars, na południu kraju. Wcześniej Izrael przekazał, że armia tego państwa uderzyła w inny kompleks irańskiego przemysłu naftowego, w Asalujeh nad Zatoką Perską.",
       "content_html": "",
       "date_published": "2026-04-06T16:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Zatoce-Perskiej-Pierwsze-statki-z-LNG-testuja-blokade-Ciesniny-Ormuz-9109715.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Zatoce-Perskiej-Pierwsze-statki-z-LNG-testuja-blokade-Ciesniny-Ormuz-9109715.html",
-      "title": "Przełom w Zatoce Perskiej? Pierwsze statki z LNG testują blokadę Cieśniny Ormuz Dwa tankowce przewożące skroplony gaz ziemny z Kataru próbują opuścić Zatokę Perską przez Cieśninę Ormuz. Ruch ten jest uważnie monitorwany, ponieważ pomyślny tranzyt oznaczałby pierwszy eksport LNG do odbiorców spoza regionu od początku wojny na Bliskim Wschodzie - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-04-06T12:44:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
