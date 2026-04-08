@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 08 Apr 2026 21:58:00 +0200</lastBuildDate>
-    <item>
-      <title>PZU utrzymuje dominację, ale rynek przyspiesza. Warta i UNIQA rosną szybciej niż lider</title>
-      <link>https://www.bankier.pl/wiadomosc/Rynek-ubezpieczen-w-2025-r-kto-zyskal-a-kto-stracil-9110077.html</link>
-      <description>Rynek ubezpieczeń w 2025 r. ponownie urósł, i to zarówno pod kątem zysku, jak i zebranych składek, wynika z danych KNF. Towarzystwa ubezpieczeniowe zarówno z polis na życie, jak i majątkowych odnotowały o 5-6% więcej składek, ale wypłacane...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rynek-ubezpieczen-w-2025-r-kto-zyskal-a-kto-stracil-9110077.html</guid>
-      <pubDate>Wed, 08 Apr 2026 11:05:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 08 Apr 2026 23:05:00 +0200</lastBuildDate>
     <item>
       <title>Polacy ruszyli po obligacje. Sprzedaż w marcu przekroczyła 7,2 mld zł</title>
       <link>https://www.bankier.pl/wiadomosc/Polacy-ruszyli-po-obligacje-skarbowe-Sprzedaz-w-marcu-przekroczyla-7-2-mld-zl-9110498.html</link>
@@ -708,6 +701,13 @@
       <description>Iran zaakceptował porozumienie o zawieszeniu broni z USA jako podstawę do ostatecznego zakończenia wojny - powiedział w środę irański minister spraw zagranicznych Abbas Aragczi w rozmowie ze swoim tureckim odpowiednikiem Hakanem Fidanem.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Iran-potwierdza-zaakceptowalismy-rozejm-jako-podstawe-do-ostatecznego-zakonczenia-wojny-9110982.html</guid>
       <pubDate>Wed, 08 Apr 2026 21:58:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Zwyżka ulgi na nowojorskich giełdach. Optymizm za Atlantykiem jednak mniejszy niż w Europie</title>
+      <link>https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html</link>
+      <description>Skala zwyżek na Wall Street był znacznie mniejsza niż w Europie czy w Azji, gdzie wojna z Iranem wyrządzała znacznie większe szkody niż Ameryce.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html</guid>
+      <pubDate>Wed, 08 Apr 2026 23:05:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

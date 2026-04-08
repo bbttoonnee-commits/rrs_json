@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html",
+      "title": "Zwyżka ulgi na nowojorskich giełdach. Optymizm za Atlantykiem jednak mniejszy niż w Europie",
+      "content_html": "Skala zwyżek na Wall Street był znacznie mniejsza niż w Europie czy w Azji, gdzie wojna z Iranem wyrządzała znacznie większe szkody niż Ameryce.",
+      "date_published": "2026-04-08T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Iran-potwierdza-zaakceptowalismy-rozejm-jako-podstawe-do-ostatecznego-zakonczenia-wojny-9110982.html",
       "url": "https://www.bankier.pl/wiadomosc/Iran-potwierdza-zaakceptowalismy-rozejm-jako-podstawe-do-ostatecznego-zakonczenia-wojny-9110982.html",
       "title": "Iran potwierdza: zaakceptowaliśmy rozejm jako podstawę do ostatecznego zakończenia wojny",
@@ -695,13 +702,6 @@
       "title": "Polacy ruszyli po obligacje. Sprzedaż w marcu przekroczyła 7,2 mld zł",
       "content_html": "Sprzedaż obligacji detalicznych w marcu 2026 r. wyniosła 7.274,0 mln zł wobec 6.128,4 mln zł miesiąc wcześniej - podał resort finansów w komunikacie.",
       "date_published": "2026-04-08T11:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rynek-ubezpieczen-w-2025-r-kto-zyskal-a-kto-stracil-9110077.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rynek-ubezpieczen-w-2025-r-kto-zyskal-a-kto-stracil-9110077.html",
-      "title": "PZU utrzymuje dominację, ale rynek przyspiesza. Warta i UNIQA rosną szybciej niż lider",
-      "content_html": "Rynek ubezpieczeń w 2025 r. ponownie urósł, i to zarówno pod kątem zysku, jak i zebranych składek, wynika z danych KNF. Towarzystwa ubezpieczeniowe zarówno z polis na życie, jak i majątkowych odnotowały o 5-6% więcej składek, ale wypłacane...",
-      "date_published": "2026-04-08T11:05:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
