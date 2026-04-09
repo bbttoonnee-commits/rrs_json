@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrostow-ciag-dalszy-S-P500-i-Nasdaq-odrabiaja-marcowe-straty-9111760.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-wzrostow-ciag-dalszy-S-P500-i-Nasdaq-odrabiaja-marcowe-straty-9111760.html",
+      "title": "Na Wall Street wzrostów ciąg dalszy. S&P500 i Nasdaq odrabiają marcowe straty",
+      "content_html": "W czwartek na Wall Street akcje wzrosły drugi dzień z rzędu, mimo wzrostu cen ropy naftowej. Wzrósł optymizm wśród inwestorów, którzy wierzą, że kruche, dwutygodniowe zawieszenie broni między USA a Iranem może zostać utrzymane.",
+      "date_published": "2026-04-09T23:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pat-w-TK-Prezydent-nie-uznaje-slubowania-sedziowie-groza-pozwami-9111728.html",
       "url": "https://www.bankier.pl/wiadomosc/Pat-w-TK-Prezydent-nie-uznaje-slubowania-sedziowie-groza-pozwami-9111728.html",
       "title": "Pat w TK. Prezydent nie uznaje ślubowania, sędziowie grożą pozwami",
@@ -695,13 +702,6 @@
       "title": "Koniec drożyzny w Portugalii? Obniżka podatku paliwowego zatwierdzona",
       "content_html": "Parlament Portugalii, Zgromadzenie Republiki, zatwierdził w środę jednogłośnie obniżkę podatku od produktów paliwowych i energetycznych (ISP).",
       "date_published": "2026-04-09T08:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-strajk-Lufthansy-uderzy-w-glowne-lotniska-Ucierpia-tez-pasazerowie-w-Polsce-9111108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-strajk-Lufthansy-uderzy-w-glowne-lotniska-Ucierpia-tez-pasazerowie-w-Polsce-9111108.html",
-      "title": "Wielki strajk Lufthansy uderzy w główne lotniska. Ucierpią też pasażerowie w Polsce",
-      "content_html": "Personel pokładowy Lufthansy przewiduje na piątek strajk - poinformował związek zawodowy Ufo. Oznacza to, że niemiecki przewoźnik ponownie będzie odwoływał loty, a zakłócenia dotyczyć będą prawdopodobnie też lotów tej linii do i z Polski...",
-      "date_published": "2026-04-09T08:23:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
