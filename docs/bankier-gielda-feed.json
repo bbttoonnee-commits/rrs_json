@@ -4,9 +4,23 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-Polenergii-za-25-zostanie-przeniesiony-na-kapital-rezerwowy-ktory-moze-trafic-na-dywidende-9111117.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-Polenergii-za-25-zostanie-przeniesiony-na-kapital-rezerwowy-ktory-moze-trafic-na-dywidende-9111117.html",
+      "title": "Zysk Polenergii za '25 zostanie przeniesiony na kapitał rezerwowy, który może trafić na dywidendę Akcjonariusze Polenergii zdecydowali o przeniesieniu zysku netto za 2025 rok w kwocie blisko 87,4 mln zł na kapitał rezerwowy, który w przyszłości może być przeznaczony na wypłatę dywidendy - wynika z uchwał podjętych przez środowe walne zgromadzenie.",
+      "content_html": "",
+      "date_published": "2026-04-09T06:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Starcie-gigantow-odchudzania-Novo-Nordisk-pokona-Eli-Lilly-na-cudzym-boisku-9110746.html",
+      "url": "https://www.bankier.pl/wiadomosc/Starcie-gigantow-odchudzania-Novo-Nordisk-pokona-Eli-Lilly-na-cudzym-boisku-9110746.html",
+      "title": "Starcie gigantów odchudzania. Novo Nordisk pokona Eli Lilly na cudzym boisku? Większość analityków z Wall Street nie daje duńskiemu Novo Nordisk większych szans w starciu z Eli Lilly na amerykańskim rynku tabletek odchudzających. Danske Bank idzie jednak pod prąd i stawia odważną tezę: to europejski gigant wyjdzie z tego pojedynku zwycięsko. Stawką są miliardy dolarów.",
+      "content_html": "",
+      "date_published": "2026-04-09T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html",
       "url": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html",
-      "title": "Zwyżka ulgi na nowojorskich giełdach. Optymizm za Atlantykiem jednak mniejszy niż w Europie Skala zwyżek na Wall Street był znacznie mniejsza niż w Europie czy w Azji, gdzie wojna z Iranem wyrządzała znacznie większe szkody niż Ameryce.",
+      "title": "Zwyżka ulgi na nowojorskich giełdach. Optymizm za Atlantykiem jednak mniejszy niż w Europie Skala zwyżek na Wall Street była znacznie mniejsza niż w Europie czy w Azji, gdzie wojna z Iranem wyrządzała znacznie większe szkody niż Ameryce.",
       "content_html": "",
       "date_published": "2026-04-08T22:05:00+02:00"
     },
@@ -520,27 +534,6 @@
       "title": "Na rynkach ropy trzeci dzień zwyżek cen. Trump zniszczy Iran w noc? Ceny ropy naftowej rosną trzecią sesję w reakcji na zaostrzenie gróźb przez prezydenta USA Donalda Trumpa dotyczących możliwego zniszczenia irańskiej infrastruktury, jeśli nie zostaną spełnione warunki USA stawiane Iranowi - przed upływem wtorkowego terminu - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-04-07T07:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zondacrypto-na-krawedzi-niewyplacalnosci-Klienci-Zondacrypto-skarza-sie-na-zablokowane-wyplaty-9109789.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zondacrypto-na-krawedzi-niewyplacalnosci-Klienci-Zondacrypto-skarza-sie-na-zablokowane-wyplaty-9109789.html",
-      "title": "Zondacrypto na krawędzi niewypłacalności? Klienci skarżą się na zablokowane wypłaty Największa polska giełda kryptowalut może mieć poważne problemy z płynnością - podaje w poniedziałek portal money.pl. - Analiza, do której dotarły money.pl i Wirtualna Polska, ujawnia spadek rezerw bitcoinów giełdy Zondacrypto o 99 proc. Użytkownicy zgłaszają problemy z wypłatą środków - czytamy.",
-      "content_html": "",
-      "date_published": "2026-04-07T06:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atom-zbuduja-nam-Azjaci-i-slono-zaplacimy-za-drogi-i-tory-Dajmy-szanse-polskim-wykonawcom-inaczej-zle-to-sie-skonczy-9109196.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atom-zbuduja-nam-Azjaci-i-slono-zaplacimy-za-drogi-i-tory-Dajmy-szanse-polskim-wykonawcom-inaczej-zle-to-sie-skonczy-9109196.html",
-      "title": "Atom zbudują nam Azjaci i słono zapłacimy za drogi i tory? „Dajmy szansę polskim wykonawcom, inaczej źle to się skończy\" Definicja tzw. local content nie ma znaczenia. W przededniu inwestycyjnego boomu najważniejsze jest natomiast likwidowanie wszelkich barier, które uniemożliwiają podmiotom z polskim kapitałem konkurowanie z zagranicznymi w dużych, strategicznych przetargach – apeluje Jerzy Mirgos, założyciel, główny udziałowiec i prezes Mirbudu. Jako przykład podaje przetarg na rozbudowę lotniska Chopina w Warszawie: „Postawiono tak wysokie wymagania (...), że na osiem firm konkurujących o udział w postępowaniu tylko jeden oferent jest w pełni polskim wykonawcą – to Mirbud. Nie tak to powinno wyglądać”. W wywiadzie dla Bankier.pl rozmawiamy też m.in. o głośnym wykluczeniu Mirbudu i Torpolu z przetargu na Rail Baltica i zaciętej konkurencji na torach, planach związanych z energetyką i obronnością, o Marywilskiej, a także o tym, czy Mirbud może być na sprzedaż i gdzie Jerzy Mirgos widziałby siebie tuż przed emeryturą.",
-      "content_html": "",
-      "date_published": "2026-04-07T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozpoczela-sie-wielka-rotacja-Uderzenie-na-Iran-zapalnikiem-dla-gieldowego-trendu-9100283.html",
-      "title": "Rozpoczęła się wielka rotacja. Uderzenie na Iran zapalnikiem dla giełdowego trendu Przez poprzednie trzy lata na Wall Street królowały spółki technologiczne powiązane z boomem na AI. Ich czas powoli dobiega końca. Inwestorzy przypomnieli sobie o „najbardziej znienawidzonym segmencie rynku”.",
-      "content_html": "",
-      "date_published": "2026-04-07T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
