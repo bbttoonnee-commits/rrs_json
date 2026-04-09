@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-cene-docelowa-dla-akcji-Atrem-do-81-2-zl-9111720.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-cene-docelowa-dla-akcji-Atrem-do-81-2-zl-9111720.html",
+      "title": "DM BOŚ podwyższył cenę docelową dla akcji Atrem Analitycy DM BOŚ, w raporcie z 9 kwietnia, podwyższyli cenę docelową akcji spółki Atrem w horyzoncie 12-miesięcznym do 81,2 zł z 74,3 zł poprzednio, nadal rekomendują \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-04-09T19:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-oglosil-nowy-projekt-wydawniczy-9111713.html",
+      "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-oglosil-nowy-projekt-wydawniczy-9111713.html",
+      "title": "11 bit studios ogłosił nowy projekt wydawniczy 11 bit studios ogłosił nowy projekt wydawniczy o nazwie Crop, data premiery nowego tytułu nie została upubliczniona - poinformowała w czwartek spółka.",
+      "content_html": "",
+      "date_published": "2026-04-09T19:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Euvic-ma-umowe-z-Centrum-e-Zdrowia-o-wartosci-37-7-mln-zl-netto-9111699.html",
+      "url": "https://www.bankier.pl/wiadomosc/Euvic-ma-umowe-z-Centrum-e-Zdrowia-o-wartosci-37-7-mln-zl-netto-9111699.html",
+      "title": "Euvic ma umowę z Centrum e-Zdrowia o wartości 37,7 mln zł netto Euvic Solutions podpisał z Centrum e-Zdrowia umowę o wartości 37,7 mln zł netto na dostawę infrastruktury obliczeniowej i oprogramowania wraz z wdrożeniem oraz zapewnieniem usługi gwarancyjnej - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-09T18:52:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Games-Operators-chce-wyplacic-1-1-zl-dywidendy-na-akcje-9111691.html",
       "url": "https://www.bankier.pl/wiadomosc/Games-Operators-chce-wyplacic-1-1-zl-dywidendy-na-akcje-9111691.html",
       "title": "Games Operators chce wypłacić 1,1 zł dywidendy na akcję Zarząd Games Operators rekomenduje przeznaczenie na dywidendę łącznej kwoty 6,05 mln zł, co daje 1,1 zł dywidendy na jedną akcję - poinformowała spółka w komunikacie.",
@@ -555,13 +576,6 @@
       "title": "CD Projekt udostępni w środę darmową aktualizację „Cyberpunka 2077” dla PlayStation 5 Pro CD Projekt w środę 8 kwietnia udostępni darmową aktualizację do gry „Cyberpunk 2077” umożliwiającą wykorzystanie możliwości konsoli PlayStation 5 Pro - podała spółka za pośrednictwem mediów społecznościowych tytułu.",
       "content_html": "",
       "date_published": "2026-04-07T20:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-taniej-elektroniki-Boom-na-AI-geopolityka-i-braki-chipow-winduja-ceny-sprzetu-9110025.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-taniej-elektroniki-Boom-na-AI-geopolityka-i-braki-chipow-winduja-ceny-sprzetu-9110025.html",
-      "title": "Koniec ery taniej elektroniki. Boom na AI, geopolityka i braki chipów windują ceny sprzętu Tanie urządzenia technologiczne powoli znikają z półek. Splot globalnego niedoboru chipów, napięć geopolitycznych i gigantycznych inwestycji w sztuczną inteligencję bezlitośnie napędza wzrost kosztów. Zarówno konsumenci, jak i biznes muszą przygotować się na nową, znacznie droższą rzeczywistość na rynku IT.",
-      "content_html": "",
-      "date_published": "2026-04-07T19:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
