@@ -4,6 +4,153 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/XTB-ma-licencje-kategorii-1-oraz-2-w-Zjednoczonych-Emiratach-Arabskich-9111944.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTB-ma-licencje-kategorii-1-oraz-2-w-Zjednoczonych-Emiratach-Arabskich-9111944.html",
+      "title": "XTB podbija ZEA. Polski fintech z kluczowymi licencjami w Emiratach",
+      "content_html": "XTB, polski fintech oferujący dostęp do globalnych rynków finansowych za pomocą platformy inwestycyjnej online i aplikacji mobilnej, uzyskała w Zjednoczonych Emiratach Arabskich licencje kategorii 1 oraz 2, wydane przez tamtejszy Urząd ds. Rynków...",
+      "date_published": "2026-04-10T12:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelomowa-decyzja-dla-gigantycznej-inwestycji-Prad-poplynie-nowa-droga-9111924.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowa-decyzja-dla-gigantycznej-inwestycji-Prad-poplynie-nowa-droga-9111924.html",
+      "title": "Przełomowa decyzja dla gigantycznej inwestycji. Prąd popłynie nową drogą",
+      "content_html": "Polskie Sieci Elektroenergetyczne (PSE) uzyskały decyzje środowiskowe dla stacji elektroenergetycznych Norki i Wigry, budowanych w ramach projektu Harmony Link, czyli drugiego połączenia elektroenergetycznego Polska-Litwa – podały w piątek PSE...",
+      "date_published": "2026-04-10T12:33:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wstep-na-molo-w-Sopocie-bedzie-platny-Znamy-ceny-na-ten-sezon-9111280.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wstep-na-molo-w-Sopocie-bedzie-platny-Znamy-ceny-na-ten-sezon-9111280.html",
+      "title": "Wstęp na molo w Sopocie będzie płatny. Znamy ceny na ten sezon",
+      "content_html": "Od piątku, 10 kwietnia, wejście na molo w Sopocie będzie płatne. Władze miasta zdecydowały o utrzymaniu cen biletów na poziomie z 2025 r. Za bilet normalny zapłacimy 10 zł, a za ulgowy 5 zł. Mieszkańcy z Kartą Sopocką skorzystają z obiektu...",
+      "date_published": "2026-04-10T12:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-w-kwietniu-2026-r-9111878.html",
+      "url": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-w-kwietniu-2026-r-9111878.html",
+      "title": "Awaria bankowości Alior Banku tuż przed weekendem. Klienci nie mieli dostępu do systemu",
+      "content_html": "Tuż przed weekendem klienci Alior Banku zgłaszali problemy z dostępnością usług tej instytucji. Nie można było zalogować się do bankowości internetowej ani aplikacji mobilnej, co uniemożliwiło posiadaczom rachunków nie tylko sprawdzenie...",
+      "date_published": "2026-04-10T12:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Co-z-akcyza-na-paliwa-po-15-kwietnia-Minister-finansow-zdradza-plany-rzadu-9111925.html",
+      "url": "https://www.bankier.pl/wiadomosc/Co-z-akcyza-na-paliwa-po-15-kwietnia-Minister-finansow-zdradza-plany-rzadu-9111925.html",
+      "title": "Co z akcyzą na paliwa po 15 kwietnia? Minister finansów zdradza plany rządu",
+      "content_html": "Obniżona stawka akcyzy na paliwa zostanie utrzymana po 15 kwietnia; MF zdecyduje, na jak długo - poinformował minister finansów i gospodarki Andrzej Domański. Jak zaznaczył, obecnie sytuacja na Bliskim Wschodzie jest zbyt zmienna, żeby rząd podejmował...",
+      "date_published": "2026-04-10T12:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Euvic-ma-umowe-ramowa-z-COI-dot-wytwarzania-wdrazania-i-utrzymania-systemow-informatycznych-9111926.html",
+      "url": "https://www.bankier.pl/wiadomosc/Euvic-ma-umowe-ramowa-z-COI-dot-wytwarzania-wdrazania-i-utrzymania-systemow-informatycznych-9111926.html",
+      "title": "Euvic pomoże cyfryzować Polskę. Kontrakt z COI wart blisko 65 mln zł",
+      "content_html": "Euvic oraz 7 innych wykonawców zawarło z Centralnym Ośrodkiem Informatyki (COI) umowę ramową, której przedmiotem jest określenie warunków udzielania i realizacji zamówień wykonawczych obejmujących prace związane z wytwarzaniem, wdrażaniem...",
+      "date_published": "2026-04-10T12:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-10-kwietnia-2026-Autogaz-nigdy-nie-byl-tak-drogi-9111920.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-10-kwietnia-2026-Autogaz-nigdy-nie-byl-tak-drogi-9111920.html",
+      "title": "Ceny paliw znów poszły w górę. Autogaz nigdy nie był tak drogi",
+      "content_html": "Pomimo obowiązywania obniżonego VAT-u i akcyzy (oraz cen maksymalnych) średnie ceny benzyny i oleju napędowego były wyższe niż tydzień wcześniej. Z kolei autogaz był nominalnie najdroższy w historii.",
+      "date_published": "2026-04-10T12:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Czas-na-nagrody-dla-najlepszych-bankow-9110543.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Czas-na-nagrody-dla-najlepszych-bankow-9110543.html",
+      "title": "Czas na nagrody dla najlepszych banków",
+      "content_html": "Rusza kolejna edycja Złotego Bankiera, najważniejszego i najgłębszego dla sektora bankowego „konkursu piękności” w Polsce. Organizatorzy niezmiennie ci sami: Bankier.pl i Puls Biznesu. Oto wyniki plebiscytu, który od lat rozgrzewa branżę...",
+      "date_published": "2026-04-10T12:05:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ktore-banki-najlepiej-obsluguja-klientow-Zwyciezca-ten-sam-ale-sa-niespodzianki-9111708.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ktore-banki-najlepiej-obsluguja-klientow-Zwyciezca-ten-sam-ale-sa-niespodzianki-9111708.html",
+      "title": "Które banki najlepiej obsługują klientów? Zwycięzca ten sam, ale są niespodzianki",
+      "content_html": "Bank Millennium drugi raz z rzędu z tytułem Złoty Bank. Santander na drugim miejscu – tak samo jak przed rokiem. PKO Bank Polski także powtórzył wynik – jest trzeci. Układ w czołówce taki sam, ale w całym zestawieniu jest sporo zmian, w...",
+      "date_published": "2026-04-10T12:05:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Klient-zyskuje-banki-poprawiaja-oferty-kredytow-gotowkowych-9110503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klient-zyskuje-banki-poprawiaja-oferty-kredytow-gotowkowych-9110503.html",
+      "title": "Klient zyskuje, banki poprawiają oferty kredytów gotówkowych",
+      "content_html": "W tegorocznej edycji „Złotego Bankiera” rywalizacja o statuetkę w kategorii kredytu gotówkowego była wyjątkowo wyrównana. Banki wyraźnie podniosły poprzeczkę względem poprzedniego roku, poprawiając zarówno warunki ofert, jak i ich dostępność...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
+      "title": "Przebudzenie rynku hipotek podgrzało konkurencję",
+      "content_html": "Obniżki stóp procentowych dały w końcu paliwo rynkowi kredytów hipotecznych. Banki zaczęły mocniej konkurować o klientów, co przełożyło się na dynamiczne zmiany w cennikach. Jeśli dołożymy do tego kolejny etap cyfryzacji procesów, to...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "title": "ING Bank Śląski wyznacza standard, mBank i Bank Millennium z wyróżnieniami",
+      "content_html": "Czy bank może dziś być kimś więcej niż dostawcą konta, kredytu czy aplikacji mobilnej? Coraz wyraźniej widać, że tak. W nowoczesnej bankowości liczy się już nie tylko oferta, technologia i wygoda, ale również sens, odpowiedzialność i...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
+      "title": "Wygoda i cyfrowość ważniejsze niż kiedykolwiek",
+      "content_html": "W tegorocznej edycji Złotego Bankiera w kategorii kont premium wyraźnie widać zmianę akcentów. O zwycięstwie nie decydują już wyłącznie opłaty i podstawowe parametry rachunku, ale przede wszystkim jakość codziennego korzystania z banku, dostępność...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
+      "title": "Produkt/usługa z misją. 14 propozycji, trzy wyróżnienia",
+      "content_html": "Kategoria „Produkt/usługa z misją” w konkursie Złoty Bankier pozostaje jednym z najciekawszych barometrów zmian zachodzących w sektorze bankowym. Tegoroczna edycja przyniosła nieco mniejszą liczbę zgłoszeń niż przed rokiem – otrzymaliśmy...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Smart-Bankier-2025-oto-produkty-ktore-przyciagaly-uwage-9110578.html",
+      "url": "https://www.bankier.pl/wiadomosc/Smart-Bankier-2025-oto-produkty-ktore-przyciagaly-uwage-9110578.html",
+      "title": "Oto produkty, które przyciągały uwagę",
+      "content_html": "W ramach Złotego Bankiera przygotowaliśmy zestawienie produktów, które w minionym roku najmocniej przyciągały uwagę naszych Czytelników (w ramach porównywarki SMART Bankier) w najważniejszych kategoriach bankowości detalicznej: lokata,...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-konto-dla-dziecka-Koniec-ery-prostych-rachunkow-9110620.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-konto-dla-dziecka-Koniec-ery-prostych-rachunkow-9110620.html",
+      "title": "Najlepsze konto dla dziecka. Koniec ery prostych rachunków",
+      "content_html": "W tegorocznym Rankingu Złoty Bankier o zwycięstwie nie decydowały już tabele opłat, lecz jakość cyfrowego doświadczenia i zakres kontroli rodzicielskiej. Wyniki edycji 2026 pokazują, że walka na szczycie toczy się o pojedyncze punkty, a o końcowej...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wybralismy-najlepsze-konta-osobiste-9111182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wybralismy-najlepsze-konta-osobiste-9111182.html",
+      "title": "Wybraliśmy najlepsze konta osobiste",
+      "content_html": "Konto osobiste dawno przestało być prostym rachunkiem do odbierania przelewów i płacenia kartą. Dziś to rozbudowany ekosystem, w którym sam produkt bankowy splata się z aplikacją mobilną, narzędziami do zarządzania budżetem, portfelami cyfrowymi...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/mBank-detronizuje-dotychczasowego-lidera-Oto-zwyciezcy-Zlotego-Bankiera-w-kategorii-Social-Media-9111187.html",
+      "url": "https://www.bankier.pl/wiadomosc/mBank-detronizuje-dotychczasowego-lidera-Oto-zwyciezcy-Zlotego-Bankiera-w-kategorii-Social-Media-9111187.html",
+      "title": "mBank detronizuje dotychczasowego lidera. Oto zwycięzcy Złotego Bankiera w kategorii Social Media",
+      "content_html": "Zasięgi to już za mało — w influencer marketingu banków liczy się dziś autentyczność, strategia i wiarygodność. Tegoroczna edycja Złotego Bankiera w kategorii Social Media przyniosła zmianę warty na szczycie zestawienia i potwierdziła...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wzrost-cen-gazu-moze-przelozyc-sie-na-ceny-w-krajowych-taryfach-w-kolejnych-miesiacach-ME-9111916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wzrost-cen-gazu-moze-przelozyc-sie-na-ceny-w-krajowych-taryfach-w-kolejnych-miesiacach-ME-9111916.html",
+      "title": "Minister Motyka ostrzega: Problemy Kataru uderzą w polskie taryfy gazowe",
+      "content_html": "Wzrost cen gazu w efekcie konfliktu na Bliskim Wschodzie i zniszczeń w tamtejszej infrastrukturze może się także przełożyć na ceny w taryfach na polskim rynku w kolejnych miesiącach - ocenił w PR24 minister energii Miłosz Motyka.",
+      "date_published": "2026-04-10T11:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-rekomenduje-akumuluj-PCC-Rokita-9111903.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-rekomenduje-akumuluj-PCC-Rokita-9111903.html",
+      "title": "DM BDM rekomenduje \"akumuluj\" PCC Rokita",
+      "content_html": "Analitycy Domu Maklerskiego BDM w raporcie z 1 kwietnia, wznowili wydawanie rekomendacji dla spółki PCC Rokita od zalecenia \"akumuluj\" z ceną docelową 72,9 zł za akcję.",
+      "date_published": "2026-04-10T11:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/VeloBank-rzuca-wyzwanie-Klienci-banku-beda-mogli-inwestowac-na-GPW-9111899.html",
+      "url": "https://www.bankier.pl/wiadomosc/VeloBank-rzuca-wyzwanie-Klienci-banku-beda-mogli-inwestowac-na-GPW-9111899.html",
+      "title": "VeloBank rzuca wyzwanie? Klienci banku będą mogli inwestować na GPW",
+      "content_html": "Giełda Papierów Wartościowych dopuściła VeloBank do działania w charakterze podmiotu prowadzącego obrót papierami wartościowymi na rachunek klientów. Klienci banku będą mogli inwestować na GPW za pośrednictwem biura maklerskiego VeloBanku...",
+      "date_published": "2026-04-10T11:28:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nie-ma-mowy-o-podwyzce-stop-Zloty-na-tym-nie-ucierpial-9111893.html",
       "url": "https://www.bankier.pl/wiadomosc/Nie-ma-mowy-o-podwyzce-stop-Zloty-na-tym-nie-ucierpial-9111893.html",
       "title": "\"Nie ma mowy o podwyżce stóp\". Złoty na tym nie ucierpiał",
@@ -39,18 +186,18 @@
       "date_published": "2026-04-10T10:59:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-Tworzymy-przestrzen-dla-polskich-firm-9111889.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-Tworzymy-przestrzen-dla-polskich-firm-9111889.html",
+      "title": "PGE: Tworzymy przestrzeń dla polskich firm",
+      "content_html": "Wiele naszych projektów tworzymy z udziałem polskich przedsiębiorstw. Dzięki temu ich znaczenie będzie rosło – przekonywał Robert Kowalski, wiceprezes PGE Polskiej Grupy Energetycznej, na targach PowerConnect.",
+      "date_published": "2026-04-10T10:58:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-fach-na-rynku-dzieki-systemowi-kaucyjnemu-Kogo-poszukuja-i-ile-mozna-zarobic-9111881.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-fach-na-rynku-dzieki-systemowi-kaucyjnemu-Kogo-poszukuja-i-ile-mozna-zarobic-9111881.html",
       "title": "Nowy fach na rynku dzięki systemowi kaucyjnemu. Ile można zarobić?",
       "content_html": "System kaucyjny przyczynia się do powstawania nowych ofert pracy i specjalizacji zawodowych. Jak się okazuje, coraz więcej firm poszukuje kierowców tylko do odbioru butelek kaucyjnych. Takie oferty pojawiły się m.in. w Opolu i Warszawie. Jakie wynagrodzenie...",
       "date_published": "2026-04-10T10:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-w-kwietniu-2026-r-9111878.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-w-kwietniu-2026-r-9111878.html",
-      "title": "Nie działa bankowość Alior Banku. Klienci bez dostępu do systemu",
-      "content_html": "Tuż przed weekendem klienci Alior Banku zgłaszają problemy z dostępnością usług tej instytucji. Nie można zalogować się do bankowości internetowej ani aplikacji mobilnej, co uniemożliwia posiadaczom rachunków nie tylko sprawdzenie stanu konta...",
-      "date_published": "2026-04-10T10:32:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Miedz-obstawia-pokoj-Nadzieja-na-uklad-USA-Iran-winduje-ceny-9111877.html",
@@ -65,6 +212,13 @@
       "title": "Giełdowe byki budzą się z zimowego snu. Inwestorzy wierzą we wzrosty na GPW",
       "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 6,9 pkt. proc. i wyniósł 42,1 proc. Odsetek respondentów oczekujących trendu spadkowego spadł o 5,2 pkt. proc. do 34,2 proc. - wynika z cotygodniowego...",
       "date_published": "2026-04-10T10:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sloneczny-rekord-w-Slupsku-R-Power-bierze-200-mln-zl-z-KPO-na-wielka-elektrownie-9111869.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sloneczny-rekord-w-Slupsku-R-Power-bierze-200-mln-zl-z-KPO-na-wielka-elektrownie-9111869.html",
+      "title": "Słoneczny rekord w Słupsku. R.Power bierze 200 mln zł z KPO na elektrownię",
+      "content_html": "Spółka zależna z Grupy R.Power zawarła z BGK umowę pożyczki w ramach Krajowego Planu Odbudowy i Zwiększania Odporności w wysokości 200,2 mln zł na pokrycie kosztów kwalifikowanych budowy elektrowni PV w Słupsku o mocy 105 MWp - podało R.Power...",
+      "date_published": "2026-04-10T10:04:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-USA-rosna-Ruch-w-ciesninie-Ormuz-nadal-prawie-wstrzymany-9111868.html",
@@ -326,13 +480,6 @@
       "date_published": "2026-04-10T07:38:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Czas-na-nagrody-dla-najlepszych-bankow-9110543.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Czas-na-nagrody-dla-najlepszych-bankow-9110543.html",
-      "title": "Czas na nagrody dla najlepszych banków",
-      "content_html": "Rusza kolejna edycja Złotego Bankiera, najważniejszego i najgłębszego dla sektora bankowego „konkursu piękności” w Polsce. Organizatorzy niezmiennie ci sami: Bankier.pl i Puls Biznesu. Oto wyniki plebiscytu, który od lat rozgrzewa branżę...",
-      "date_published": "2026-04-10T07:00:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Najnowsze-dane-NBP-dotyczace-lokat-za-luty-2026-r-Srednia-stawka-znowu-na-minusie-9110838.html",
       "url": "https://www.bankier.pl/wiadomosc/Najnowsze-dane-NBP-dotyczace-lokat-za-luty-2026-r-Srednia-stawka-znowu-na-minusie-9110838.html",
       "title": "Średnie oprocentowanie lokat znów w dół. Najnowsze dane NBP za luty 2026 r.",
@@ -401,20 +548,6 @@
       "title": "170 tysięcy złotych na rękę. Górnicy ruszyli po jednorazowe odprawy",
       "content_html": "Z pierwszej transzy jednorazowych odpraw pieniężnych w Polskiej Grupie Górniczej korzysta 586 pracowników - wynika z informacji spółki. Według PGG przekazane przez resort energii środki na odprawy trafiają już do pierwszych uprawnionych pracowników...",
       "date_published": "2026-04-09T21:13:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chaos-w-Trybunale-Konstytucyjnym-Swieczkowski-Tylko-dwie-osoby-objely-urzedy-9111644.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chaos-w-Trybunale-Konstytucyjnym-Swieczkowski-Tylko-dwie-osoby-objely-urzedy-9111644.html",
-      "title": "Chaos w Trybunale Konstytucyjnym. Święczkowski: Tylko dwie osoby objęły urzędy",
-      "content_html": "Prezes TK powiedział, że spotkał się w czwartek z dwojgiem sędziów Trybunału Konstytucyjnego i z czterema osobami, które zostały wybrane na stanowiska sędziów TK. Dwoje sędziów, którzy złożyli ślubowanie wobec prezydenta objęło urzędy;...",
-      "date_published": "2026-04-09T21:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-pogodzi-sie-z-Libanem-Netanjahu-Wydalem-polecenie-rozpoczecia-rozmow-pokojowych-9111655.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-pogodzi-sie-z-Libanem-Netanjahu-Wydalem-polecenie-rozpoczecia-rozmow-pokojowych-9111655.html",
-      "title": "Izrael pogodzi się z Libanem? Netanjahu: Wydałem polecenie rozpoczęcia rozmów",
-      "content_html": "Premier Izraela Benjamin Netanjahu poinformował w czwartek, że wydał polecenie rozpoczęcia „tak szybko, jak to możliwe” rozmów pokojowych z Libanem, które obejmowałyby przede wszystkim rozbrojenie Hezbollahu.",
-      "date_published": "2026-04-09T20:45:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-cene-docelowa-dla-akcji-Atrem-do-81-2-zl-9111720.html",
@@ -550,144 +683,11 @@
       "date_published": "2026-04-09T18:06:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjskie-okrety-u-wybrzezy-Wielkiej-Brytanii-Polowali-na-kable-i-rurociagi-9111587.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjskie-okrety-u-wybrzezy-Wielkiej-Brytanii-Polowali-na-kable-i-rurociagi-9111587.html",
-      "title": "Rosyjskie okręty u wybrzeży Wielkiej Brytanii. Polowali na kable i rurociągi?",
-      "content_html": "Brytyjskie wojsko wykryło na brytyjskich wodach i przez miesiąc śledziło trzy rosyjskie okręty podwodne, które stanowiły zagrożenie dla podmorskich kabli i rurociągów - poinformował w czwartek minister obrony Wielkiej Brytanii John Healey...",
-      "date_published": "2026-04-09T17:43:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szpitale-czeka-rewolucja-Rzad-przeznaczy-1-149-mld-zl-na-konsolidacje-9111560.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szpitale-czeka-rewolucja-Rzad-przeznaczy-1-149-mld-zl-na-konsolidacje-9111560.html",
-      "title": "Szpitale czeka rewolucja. Rząd przeznaczy 1,149 mld zł na konsolidację",
-      "content_html": "Rząd przeznaczy 1,149 mld złotych na konsolidację lecznic - poinformowała w czwartek minister zdrowia Jolanta Sobierańska-Grenda. Nabór wniosków do konkursu na dofinansowanie procesów konsolidacyjnych szpitali ruszy 1 lipca i potrwa do 30 października...",
-      "date_published": "2026-04-09T17:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Zabrze-skupi-691-000-akcji-wlasnych-9111563.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Zabrze-skupi-691-000-akcji-wlasnych-9111563.html",
-      "title": "Mostostal Zabrze skupi 691 000 akcji własnych",
-      "content_html": "W wyniku przeprowadzonego skupu akcji własnych Mostostal Zabrze kupi 691 000 akcji - podała spółka w komunikacie.",
-      "date_published": "2026-04-09T17:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejna-nowosc-na-rynku-4-50-na-Lokacie-Bezwarunkowej-w-Volkswagen-Banku-9111150.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejna-nowosc-na-rynku-4-50-na-Lokacie-Bezwarunkowej-w-Volkswagen-Banku-9111150.html",
-      "title": "Ruch w depozytach. 4,50% na nowej Lokacie Bezwarunkowej",
-      "content_html": "W kwietniu rynek obrodził w nowe produkty oszczędnościowe w bankach. Jednym z nich jest Lokata Bezwarunkowa, którą można otworzyć w Volkswagen Banku. Mimo chwytliwej nazwy, depozyt ma jednak jeden wymóg do spełnienia – posiadanie konta osobistego...",
-      "date_published": "2026-04-09T17:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skrajnie-trudna-sytuacja-Azotow-i-JSW-Balczun-mowi-o-walce-o-plynnosc-9111547.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skrajnie-trudna-sytuacja-Azotow-i-JSW-Balczun-mowi-o-walce-o-plynnosc-9111547.html",
-      "title": "Skrajnie trudna sytuacja Azotów i JSW. Balczun mówi o \"walce o płynność\"",
-      "content_html": "Ministerstwo Aktywów Państwowych pracuje nad konstruktywnymi rozwiązaniami dla Grupy Azoty i Jastrzębskiej Spółki Węglowej (JSW), które znajdują się w skrajnie trudnej sytuacji finansowej - poinformował w czwartek minister aktywów państwowych...",
-      "date_published": "2026-04-09T17:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sunex-szacuje-ze-mial-w-I-kw-42-2-mln-zl-skonsolidowanych-przychodow-8-4-proc-mniej-rdr-9111539.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sunex-szacuje-ze-mial-w-I-kw-42-2-mln-zl-skonsolidowanych-przychodow-8-4-proc-mniej-rdr-9111539.html",
-      "title": "Sunex szacuje, że miał w I kw. 42,2 mln zł skonsolidowanych przychodów, 8,4 proc. mniej rdr",
-      "content_html": "Sunex szacuje, że wypracował w pierwszym kwartale 2026 roku 42,2 mln zł skonsolidowanych przychodów ze sprzedaży, czyli o 8,4 proc. mniej w porównaniu do analogicznego okresu 2025 roku - podała spółka w komunikacie.",
-      "date_published": "2026-04-09T17:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sedziowie-TK-slubuja-w-Sali-Kolumnowej-9111335.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sedziowie-TK-slubuja-w-Sali-Kolumnowej-9111335.html",
-      "title": "Sędziowie TK złożyli ślubowanie w Sali Kolumnowej",
-      "content_html": "W Sejmie w Sali Kolumnowej odbyła się uroczystość złożenia ślubowania przez nowo wybranych sędziów Trybunału Konstytucyjnego. Sędziowie otrzymali również uchwały o wyborze przez Sejm na sędziów TK.",
-      "date_published": "2026-04-09T16:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-drozyzny-na-stacjach-Paliwa-zaczely-taniec-ale-tylko-do-poludnia-9111522.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-drozyzny-na-stacjach-Paliwa-zaczely-taniec-ale-tylko-do-poludnia-9111522.html",
-      "title": "Koniec drożyzny na stacjach? Paliwa zaczęły tanieć, ale tylko do południa",
-      "content_html": "W Niemczech utrzymuje się lekka tendencja spadkowa cen paliw. Jak podał automobilklub ADAC, średnia dzienna cena oleju napędowego spadła w środę po raz pierwszy od 12 dni. W czwartek po południu litr benzyny E10 kosztował średnio 2,17 euro,...",
-      "date_published": "2026-04-09T16:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Paraliz-w-przestworzach-trwa-Air-France-przedluza-zawieszenie-polaczen-9111518.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paraliz-w-przestworzach-trwa-Air-France-przedluza-zawieszenie-polaczen-9111518.html",
-      "title": "Paraliż w przestworzach trwa. Air France przedłuża zawieszenie połączeń",
-      "content_html": "Linie lotnicze Air France zawiesiły loty na Bliski Wschód do 3 maja - podała w czwartek agencja AFP. Decyzję tę przewoźnik podjął przed ogłoszeniem rozejmu między Stanami Zjednoczonymi i Iranem. Linie powołały się na kwestie bezpieczeństwa...",
-      "date_published": "2026-04-09T16:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Relacja-z-konferencji-prof-Adama-Glapinskiego-NBP-kontra-naftowy-szok-9111419.html",
-      "url": "https://www.bankier.pl/wiadomosc/Relacja-z-konferencji-prof-Adama-Glapinskiego-NBP-kontra-naftowy-szok-9111419.html",
-      "title": "Prezes NBP: Cena złota jest w tej chwili bardzo korzystna. Wykorzystaliśmy spadek i dokupiliśmy kruszcu",
-      "content_html": "Zgodnie z przewidywaniami, stopa referencyjna Rady Polityki Pieniężnej pozostała w kwietniu bez zmian, ale spokój na rynkach jest tylko pozorny. Przy inflacji przyspieszającej do 3 procent i trwającej od tygodni blokadzie Cieśniny Ormuz, prezes...",
-      "date_published": "2026-04-09T16:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Rozczarowujace-NATO-nie-rozumie-niczego-bez-presji-9111508.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Rozczarowujace-NATO-nie-rozumie-niczego-bez-presji-9111508.html",
-      "title": "Trump: Rozczarowujące NATO nie rozumie niczego bez presji",
-      "content_html": "Rozczarowujące NATO nie rozumiało niczego, dopóki nie wywarto na nich presji - oświadczył w czwartek prezydent USA Donald Trump we wpisie na platformie Truth Social. Prezydent nie wyjaśnił, co ma na myśli.",
-      "date_published": "2026-04-09T16:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/XTB-w-ciagu-roku-pozyskalo-525-452-tys-rachunkow-maklerskich-KDPW-9111506.html",
-      "url": "https://www.bankier.pl/wiadomosc/XTB-w-ciagu-roku-pozyskalo-525-452-tys-rachunkow-maklerskich-KDPW-9111506.html",
-      "title": "XTB bije rekordy popularności. Ponad pół miliona nowych kont w rok",
-      "content_html": "XTB w ciągu roku pozyskało 525,452 tys. rachunków maklerskich - wynika z danych KDPW.",
-      "date_published": "2026-04-09T16:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zapisy-na-listy-zastawne-PKO-BH-przekroczyly-maksymalna-liczbe-10-IV-ostatnim-dniem-zapisow-9111492.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zapisy-na-listy-zastawne-PKO-BH-przekroczyly-maksymalna-liczbe-10-IV-ostatnim-dniem-zapisow-9111492.html",
-      "title": "Zapisy na listy zastawne PKO BH przekroczyły maksymalną liczbę, 10 IV ostatnim dniem zapisów",
-      "content_html": "Liczba listów zastawnych serii 2N PKO Banku Hipotecznego, na jakie inwestorzy złożyli zapisy, przekroczyła maksymalną liczbę oferowanych listów zastawnych i przyjmowanie zapisów zostało skrócone do 10 kwietnia 2026 r. - podał bank w komunikacie...",
-      "date_published": "2026-04-09T16:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-o-rope-trwa-mimo-rozejmu-Zaden-iracki-tankowiec-nie-przeplynal-ciesnina-Ormuz-9111379.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-o-rope-trwa-mimo-rozejmu-Zaden-iracki-tankowiec-nie-przeplynal-ciesnina-Ormuz-9111379.html",
-      "title": "Wojna o ropę trwa mimo rozejmu. \"Żaden iracki tankowiec nie przepłynął cieśniną Ormuz\"",
-      "content_html": "Iracki minister ds. ropy Hajan Abdel-Ghani przekazał w czwartek, że żaden tankowiec przewożący wydobytą w kraju ropę nie przepłyną trasą wiodącą Zatoką Perską przez cieśninę Ormuz.",
-      "date_published": "2026-04-09T16:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-Memorial-uznany-za-organizacje-ekstremistyczna-9111372.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-Memorial-uznany-za-organizacje-ekstremistyczna-9111372.html",
-      "title": "Rosyjski Memoriał uznany za organizację ekstremistyczną",
-      "content_html": "Rosyjski Sąd Najwyższy uznał ruch Memoriał za organizację ekstremistyczną - podały w czwartek rosyjskie media. O taką decyzję zwróciło się do sądu ministerstwo sprawiedliwości w Moskwie.",
-      "date_published": "2026-04-09T16:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Moldawia-opuszcza-WNP-Maia-Sandu-podpisala-kluczowe-dokumenty-9111469.html",
-      "url": "https://www.bankier.pl/wiadomosc/Moldawia-opuszcza-WNP-Maia-Sandu-podpisala-kluczowe-dokumenty-9111469.html",
-      "title": "Mołdawia opuszcza WNP. Maia Sandu podpisała kluczowe dokumenty",
-      "content_html": "Prezydentka Mołdawii Maia Sandu podpisała akty prawne potwierdzające wypowiedzenie umów o członkostwie we Wspólnocie Niepodległych Państw – poinformował w czwartek mołdawski portal Newsmaker.",
-      "date_published": "2026-04-09T15:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kryptowaluty-weto-Nawrockiego-i-Zondacrypto-Kto-nie-mowi-prawdy-9111165.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kryptowaluty-weto-Nawrockiego-i-Zondacrypto-Kto-nie-mowi-prawdy-9111165.html",
-      "title": "Kryptowaluty, weto Nawrockiego i Zondacrypto. Kto nie mówi prawdy?",
-      "content_html": "Podczas gdy klienci zondacrypto od tygodni czekają na swoje pieniądze, giełda staje się centralnym punktem politycznego starcia. Donald Tusk wylicza wpłaty na fundacje Ziobry i Wiplera, a Prokurator Generalny wymienia zespół śledczych. W cieniu...",
-      "date_published": "2026-04-09T15:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Iranu-izraelskie-ataki-na-Liban-pozbawiaja-negocjacje-sensu-9111457.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Iranu-izraelskie-ataki-na-Liban-pozbawiaja-negocjacje-sensu-9111457.html",
-      "title": "Prezydent Iranu: izraelskie ataki na Liban pozbawiają negocjacje sensu",
-      "content_html": "Prezydent Iranu Masud Pezeszkian ocenił w czwartek, że izraelskie ataki na Liban naruszają porozumienie o zawieszeniu broni i pozbawiają sensu negocjacje pokojowe z USA, które mają rozpocząć się w piątek. Dodał, że Teheran nie opuści narodu...",
-      "date_published": "2026-04-09T15:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/24-26-kwietnia-rozpocznie-sie-rebranding-Santander-Bank-Polska-na-Erste-Bank-Polska-9111402.html",
-      "url": "https://www.bankier.pl/wiadomosc/24-26-kwietnia-rozpocznie-sie-rebranding-Santander-Bank-Polska-na-Erste-Bank-Polska-9111402.html",
-      "title": "Rusza rebranding Santandera na Erste Bank. Co to oznacza dla klientów?",
-      "content_html": "Santander Bank Polska poinformował, że w weekend 24–26 kwietnia planuje rozpocząć rebranding, czyli formalną zmianę marki na Erste Bank Polska. To kolejny etap procesu integracji z austriacką Erste Group, która od 9 stycznia jest głównym akcjonariuszem...",
-      "date_published": "2026-04-09T15:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Afera-szpiegowska-w-UE-Przecieki-z-Wegier-do-Rosji-KE-zada-wyjasnien-9111428.html",
-      "url": "https://www.bankier.pl/wiadomosc/Afera-szpiegowska-w-UE-Przecieki-z-Wegier-do-Rosji-KE-zada-wyjasnien-9111428.html",
-      "title": "Afera szpiegowska w UE. Przecieki z Węgier do Rosji? KE żąda wyjaśnień",
-      "content_html": "Rzeczniczka Komisji Europejskiej Paula Pinho powiedziała w czwartek w Brukseli, że węgierski rząd musi w „trybie pilnym” złożyć wyjaśnienia w związku z nowymi doniesieniami o przeciekach informacji do Rosji. Szefowa KE Ursula von der Leyen...",
-      "date_published": "2026-04-09T15:10:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-niezaleznych-mediow-w-Rosji-Sluzby-w-redakcji-Nowej-Gaziety-9111488.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-niezaleznych-mediow-w-Rosji-Sluzby-w-redakcji-Nowej-Gaziety-9111488.html",
+      "title": "Koniec niezależnych mediów w Rosji? Służby w redakcji \"Nowej Gaziety\"",
+      "content_html": "Niezależna rosyjska „Nowaja Gazieta” podała w czwartek, że w jej redakcji w Moskwie doszło do rewizji. Adwokaci nie zostali dopuszczeni do pomieszczeń redakcji, gdzie znajdowali się niektórzy pracownicy. MSW Rosji ogłosiło, że wszczęto...",
+      "date_published": "2026-04-09T18:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
