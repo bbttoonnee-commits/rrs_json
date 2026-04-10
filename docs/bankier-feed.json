@@ -11,6 +11,13 @@
       "date_published": "2026-04-11T09:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
+      "title": "Na Wall Street bez kontynuacji. Nasdaq z najlepszym tygodniem od listopada",
+      "content_html": "Po siedmiu wzrostowych sesjach z rzędu nowojorskie indeksy nie chciały już iść w górę. imo słabszego piątku Nasdaq Composite zaliczył największy tygodniowy wzrost od listopada.",
+      "date_published": "2026-04-10T23:04:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-ogrzewania-gazowego-coraz-blizej-Francja-oglasza-radykalny-plan-i-miliardy-na-doplaty-9112293.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-ogrzewania-gazowego-coraz-blizej-Francja-oglasza-radykalny-plan-i-miliardy-na-doplaty-9112293.html",
       "title": "Koniec ogrzewania gazowego coraz bliżej. Francja ogłasza radykalny plan",
@@ -135,13 +142,6 @@
       "title": "Serbia może stracić 1,5 miliarda euro. Unia Europejska rozważa radykalny krok",
       "content_html": "Komisja Europejska na bieżąco ocenia, czy spełniane są warunki udzielania wsparcia finansowego dla Serbii - poinformowała w piątek rzeczniczka KE Arianna Podesta, odnosząc się do doniesień medialnych o możliwym ograniczeniu funduszy dla Belgradu...",
       "date_published": "2026-04-10T18:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-tydzien-na-GPW-Piatkowy-szturm-bankow-na-historyczne-szczyty-9112192.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-tydzien-na-GPW-Piatkowy-szturm-bankow-na-historyczne-szczyty-9112192.html",
-      "title": "Rekordowy tydzień na GPW. Piątkowy szturm banków na historyczne szczyty",
-      "content_html": "Indeks szerokiego rynku WIG po raz pierwszy w historii zameldował się powyżej poziomu 130 tys. punktów, napędzany euforią w sektorze finansowym. Hamulcowym tym razem był kurs Orlenu i choć paliwowy gigant wyraźnie odstawał od reszty stawki,...",
-      "date_published": "2026-04-10T18:15:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pekin-i-Pjongjang-ida-ramie-w-ramie-Wang-Yi-ujawnia-plan-strategicznej-koordynacji-9112185.html",
@@ -695,13 +695,6 @@
       "title": "Słoneczny rekord w Słupsku. R.Power bierze 200 mln zł z KPO na elektrownię",
       "content_html": "Spółka zależna z Grupy R.Power zawarła z BGK umowę pożyczki w ramach Krajowego Planu Odbudowy i Zwiększania Odporności w wysokości 200,2 mln zł na pokrycie kosztów kwalifikowanych budowy elektrowni PV w Słupsku o mocy 105 MWp - podało R.Power...",
       "date_published": "2026-04-10T10:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-USA-rosna-Ruch-w-ciesninie-Ormuz-nadal-prawie-wstrzymany-9111868.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-USA-rosna-Ruch-w-ciesninie-Ormuz-nadal-prawie-wstrzymany-9111868.html",
-      "title": "Ceny ropy w USA rosną. Ruch w Ormuz nadal prawie wstrzymany",
-      "content_html": "Ceny ropy naftowej w USA zwyżkują, lecz są drodze do tygodniowego spadku. Uwaga inwestorów koncentruje się na cieśninie Ormuz, która pozostaje nadal praktycznie zablokowana.",
-      "date_published": "2026-04-10T10:03:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

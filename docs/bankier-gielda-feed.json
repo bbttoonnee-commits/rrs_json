@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
+      "title": "Na Wall Street bez kontynuacji. Nasdaq z najlepszym tygodniem od listopada Po siedmiu wzrostowych sesjach z rzędu nowojorskie indeksy nie chciały już iść w górę. imo słabszego piątku Nasdaq Composite zaliczył największy tygodniowy wzrost od listopada.",
+      "content_html": "",
+      "date_published": "2026-04-10T22:04:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-JSW-Koks-podjelo-uchwale-o-dalszym-istnieniu-spolki-9112285.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-JSW-Koks-podjelo-uchwale-o-dalszym-istnieniu-spolki-9112285.html",
       "title": "NWZ JSW Koks podjęło uchwałę o dalszym istnieniu spółki Nadzwyczajne Walne Zgromadzenie JSW Koks podjęło uchwałę o dalszym istnieniu spółki - podało JSW w komunikacie. (PAP Biznes)",
@@ -527,13 +534,6 @@
       "title": "Starcie gigantów odchudzania. Novo Nordisk pokona Eli Lilly na cudzym boisku? Większość analityków z Wall Street nie daje duńskiemu Novo Nordisk większych szans w starciu z Eli Lilly na amerykańskim rynku tabletek odchudzających. Danske Bank idzie jednak pod prąd i stawia odważną tezę: to europejski gigant wyjdzie z tego pojedynku zwycięsko. Stawką są miliardy dolarów.",
       "content_html": "",
       "date_published": "2026-04-09T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-nowojorskich-gieldach-Optymizm-za-Atlantykiem-jednak-mniejszy-niz-w-Europie-9111054.html",
-      "title": "Zwyżka ulgi na nowojorskich giełdach. Optymizm za Atlantykiem jednak mniejszy niż w Europie Skala zwyżek na Wall Street była znacznie mniejsza niż w Europie czy w Azji, gdzie wojna z Iranem wyrządzała znacznie większe szkody niż Ameryce.",
-      "content_html": "",
-      "date_published": "2026-04-08T22:05:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
