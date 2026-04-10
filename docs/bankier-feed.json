@@ -11,6 +11,13 @@
       "date_published": "2026-04-11T09:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ogrzewania-gazowego-coraz-blizej-Francja-oglasza-radykalny-plan-i-miliardy-na-doplaty-9112293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ogrzewania-gazowego-coraz-blizej-Francja-oglasza-radykalny-plan-i-miliardy-na-doplaty-9112293.html",
+      "title": "Koniec ogrzewania gazowego coraz bliżej. Francja ogłasza radykalny plan",
+      "content_html": "Premier Francji Sebastien Lecornu zapowiedział w piątek kroki mające przyspieszyć zwiększenie wykorzystania elektryczności zamiast importowanych źródeł energii: ropy i gazu. Premier mówił o tym w wystąpieniu telewizyjnym na temat kryzysu energetycznego...",
+      "date_published": "2026-04-10T21:25:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ekwador-podniosl-cla-na-towary-z-Kolumbii-Relacje-coraz-gorsze-9112287.html",
       "url": "https://www.bankier.pl/wiadomosc/Ekwador-podniosl-cla-na-towary-z-Kolumbii-Relacje-coraz-gorsze-9112287.html",
       "title": "Ekwador podniósł cła na towary z Kolumbii. Relacje coraz gorsze",
@@ -557,6 +564,13 @@
       "date_published": "2026-04-10T12:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "title": "ING Bank Śląski wyznacza standard, mBank i Bank Millennium z wyróżnieniami",
+      "content_html": "Czy bank może dziś być kimś więcej niż dostawcą konta, kredytu czy aplikacji mobilnej? Coraz wyraźniej widać, że tak. W nowoczesnej bankowości liczy się już nie tylko oferta, technologia i wygoda, ale również sens, odpowiedzialność i...",
+      "date_published": "2026-04-10T12:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
       "url": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
       "title": "Wygoda i cyfrowość ważniejsze niż kiedykolwiek",
@@ -688,13 +702,6 @@
       "title": "Ceny ropy w USA rosną. Ruch w Ormuz nadal prawie wstrzymany",
       "content_html": "Ceny ropy naftowej w USA zwyżkują, lecz są drodze do tygodniowego spadku. Uwaga inwestorów koncentruje się na cieśninie Ormuz, która pozostaje nadal praktycznie zablokowana.",
       "date_published": "2026-04-10T10:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-koryguje-ceny-paliw-benzyna-w-dol-diesel-lekko-w-gore-9111866.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-koryguje-ceny-paliw-benzyna-w-dol-diesel-lekko-w-gore-9111866.html",
-      "title": "Orlen koryguje ceny paliw: benzyna w dół, diesel lekko w górę",
-      "content_html": "Orlen zmienił w piątek hurtowe ceny paliw. Benzyna bezołowiowa Eurosuper 95 staniała tam o 29 zł za metr sześc., natomiast olej napędowy Ekodiesel zdrożał o 7 zł za metr sześc. - wynika z danych publikowanych przez koncern. W porównaniu z...",
-      "date_published": "2026-04-10T10:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
