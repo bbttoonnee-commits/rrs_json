@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orange-Polska-wyplaci-0-61-zl-dywidendy-na-akcje-z-zysku-za-2025-r-9112171.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orange-Polska-wyplaci-0-61-zl-dywidendy-na-akcje-z-zysku-za-2025-r-9112171.html",
+      "title": "Orange Polska wypłaci 0,61 zł dywidendy na akcję z zysku za 2025 r. Orange Polska wypłaci 0,61 zł dywidendy na akcję z zysku za 2025 rok - podała spółka w komunikacie. Łączna kwota na wypłatę dywidendy wynosić będzie 800,53 mln zł.",
+      "content_html": "",
+      "date_published": "2026-04-10T16:36:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sygnity-zakonczyl-skup-akcji-wlasnych-9112129.html",
       "url": "https://www.bankier.pl/wiadomosc/Sygnity-zakonczyl-skup-akcji-wlasnych-9112129.html",
       "title": "Sygnity zakończył skup akcji własnych Sygnity zakończył skup akcji własnych - poinformowała spółka w komunikacie. W ramach skupu na rachunek Sygnity zostało nabyte łącznie 90.806 akcji po średniej cenie 70,30 zł.",
@@ -123,9 +130,9 @@
       "date_published": "2026-04-10T11:05:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
-      "title": "ZŁOTY BANKIER 2026 Produkt/usługa z misją. 14 propozycji, trzy wyróżnienia Kategoria „Produkt/usługa z misją” w konkursie Złoty Bankier pozostaje jednym z najciekawszych barometrów zmian zachodzących w sektorze bankowym. Tegoroczna edycja przyniosła nieco mniejszą liczbę zgłoszeń niż przed rokiem – otrzymaliśmy 14 propozycji – ale jednocześnie wyraźnie wyższy poziom ich dojrzałości i praktycznego zastosowania.",
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
+      "title": "ZŁOTY BANKIER 2026 Przebudzenie rynku hipotek podgrzało konkurencję Obniżki stóp procentowych dały w końcu paliwo rynkowi kredytów hipotecznych. Banki zaczęły mocniej konkurować o klientów, co przełożyło się na dynamiczne zmiany w cennikach. Jeśli dołożymy do tego kolejny etap cyfryzacji procesów, to możemy powiedzieć, że ożywienie stało się faktem.",
       "content_html": "",
       "date_published": "2026-04-10T11:00:00+02:00"
     },
@@ -133,6 +140,20 @@
       "id": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
       "url": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
       "title": "KONTO PREMIUM 2026 Wygoda i cyfrowość ważniejsze niż kiedykolwiek W tegorocznej edycji Złotego Bankiera w kategorii kont premium wyraźnie widać zmianę akcentów. O zwycięstwie nie decydują już wyłącznie opłaty i podstawowe parametry rachunku, ale przede wszystkim jakość codziennego korzystania z banku, dostępność usług oraz doświadczenie klienta w kanałach cyfrowych.",
+      "content_html": "",
+      "date_published": "2026-04-10T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
+      "title": "ZŁOTY BANKIER 2026 Produkt/usługa z misją. 14 propozycji, trzy wyróżnienia Kategoria „Produkt/usługa z misją” w konkursie Złoty Bankier pozostaje jednym z najciekawszych barometrów zmian zachodzących w sektorze bankowym. Tegoroczna edycja przyniosła nieco mniejszą liczbę zgłoszeń niż przed rokiem – otrzymaliśmy 14 propozycji – ale jednocześnie wyraźnie wyższy poziom ich dojrzałości i praktycznego zastosowania.",
+      "content_html": "",
+      "date_published": "2026-04-10T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
+      "title": "BANK Z MISJĄ 2026 ING Bank Śląski wyznacza standard, mBank i Bank Millennium z wyróżnieniami Czy bank może dziś być kimś więcej niż dostawcą konta, kredytu czy aplikacji mobilnej? Coraz wyraźniej widać, że tak. W nowoczesnej bankowości liczy się już nie tylko oferta, technologia i wygoda, ale również sens, odpowiedzialność i realny wpływ na otoczenie. Właśnie z takiego założenia wyrasta nowa, ważna kategoria „Bank z misją” w ramach Złotego Bankiera.",
       "content_html": "",
       "date_published": "2026-04-10T11:00:00+02:00"
     },
@@ -247,13 +268,6 @@
       "title": "Games Operators chce wypłacić 1,1 zł dywidendy na akcję Zarząd Games Operators rekomenduje przeznaczenie na dywidendę łącznej kwoty 6,05 mln zł, co daje 1,1 zł dywidendy na jedną akcję - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-09T18:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-planuje-emisje-obligacji-serii-P2026A-9111676.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-planuje-emisje-obligacji-serii-P2026A-9111676.html",
-      "title": "Cavatina Holding planuje emisję obligacji serii P2026A Zarząd Cavatina Holding podjął uchwałę o emisji nie więcej niż 50.000 obligacji serii P2026A o łącznej wartości nominalnej nie wyższej niż 50 mln zł, z zastrzeżeniem, że może podjąć decyzję o zwiększeniu liczby obligacji do nie więcej niż 100.000 o łącznej wartości nominalnej do 100 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-09T18:14:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Comp-planuje-w-26-transfer-do-akcjonariuszy-w-dwoch-transzach-lacznie-70-mln-zl-9111640.html",
@@ -562,20 +576,6 @@
       "title": "Zakład tuż przed atakiem na Iran. Jak rynki predykcyjne zacierają granicę między giełdą a kasynem Platformy takie jak Polymarket wyceniają prawdopodobieństwo wszystkiego – od wyników wyborów po wybuchy wojen. Dla analityków to innowacyjne narzędzie badające nastroje tłumu. Dla krytyków: wylęgarnia insider tradingu na poziomie państwowym i narzędzie zachęcające do manipulowania rzeczywistością.",
       "content_html": "",
       "date_published": "2026-04-08T17:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-Syn2bio-zadebiutuje-na-GPW-15-kwietnia-9110885.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-Syn2bio-zadebiutuje-na-GPW-15-kwietnia-9110885.html",
-      "title": "Spółka Syn2bio zadebiutuje na GPW 15 kwietnia Spółka Syn2bio zadebiutuje na GPW w środę, 15 kwietnia - wynika z przesłanego przez spółkę zaproszenia.",
-      "content_html": "",
-      "date_published": "2026-04-08T16:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-Millennium-podwyzszyl-rekomendacje-Shopera-do-kupuj-a-cene-docelowa-obnizyl-do-51-9-zl-9110845.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-Millennium-podwyzszyl-rekomendacje-Shopera-do-kupuj-a-cene-docelowa-obnizyl-do-51-9-zl-9110845.html",
-      "title": "BM Millennium podwyższył rekomendację Shopera do \"kupuj\", a cenę docelową obniżył do 51,9 zł Analitycy Biura Maklerskiego Millennium, w raporcie z 8 kwietnia, podwyższyli rekomendację Shopera do \"kupuj\" z \"akumuluj”, a cenę docelową obniżyli do 51,9 zł na akcję z 57,6 zł wcześniej.",
-      "content_html": "",
-      "date_published": "2026-04-08T15:56:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
