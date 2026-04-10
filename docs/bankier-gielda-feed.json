@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-BH-chce-wychodzic-na-rynek-z-oferta-detalicznych-LZ-czesciej-niz-raz-na-pol-roku-9112035.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-BH-chce-wychodzic-na-rynek-z-oferta-detalicznych-LZ-czesciej-niz-raz-na-pol-roku-9112035.html",
+      "title": "PKO BH chce wychodzić na rynek z ofertą detalicznych LZ częściej niż raz na pół roku PKO Bank Hipoteczny chce wychodzić na rynek z ofertą detalicznych hipotecznych listów zastawnych częściej niż raz na pół roku - poinformował prezes banku Wojciech Papierak.",
+      "content_html": "",
+      "date_published": "2026-04-10T13:54:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-I-kw-51-3-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc-wiecej-rdr-9112009.html",
       "url": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-I-kw-51-3-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc-wiecej-rdr-9112009.html",
       "title": "Sfinks miał w I kw. 51,3 mln zł przychodów ze sprzedaży gastronomicznej, ok. 2 proc. więcej rdr Sfinks Polska miał w pierwszym kwartale 2026 roku 51,3 mln zł przychodów ze sprzedaży gastronomicznej z wyłączeniem sieci Piwiarnia, wobec 50,3 mln zł w I kwartale 2025 r., co oznacza wzrost o ok. 2 proc. rdr - podała spóła w komunikacie.",
@@ -67,20 +74,6 @@
       "date_published": "2026-04-10T11:05:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
-      "title": "KONTO PREMIUM 2026 Wygoda i cyfrowość ważniejsze niż kiedykolwiek W tegorocznej edycji Złotego Bankiera w kategorii kont premium wyraźnie widać zmianę akcentów. O zwycięstwie nie decydują już wyłącznie opłaty i podstawowe parametry rachunku, ale przede wszystkim jakość codziennego korzystania z banku, dostępność usług oraz doświadczenie klienta w kanałach cyfrowych.",
-      "content_html": "",
-      "date_published": "2026-04-10T11:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
-      "title": "ZŁOTY BANKIER 2026 Przebudzenie rynku hipotek podgrzało konkurencję Obniżki stóp procentowych dały w końcu paliwo rynkowi kredytów hipotecznych. Banki zaczęły mocniej konkurować o klientów, co przełożyło się na dynamiczne zmiany w cennikach. Jeśli dołożymy do tego kolejny etap cyfryzacji procesów, to możemy powiedzieć, że ożywienie stało się faktem.",
-      "content_html": "",
-      "date_published": "2026-04-10T11:00:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
       "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
       "title": "ZŁOTY BANKIER 2026 Produkt/usługa z misją. 14 propozycji, trzy wyróżnienia Kategoria „Produkt/usługa z misją” w konkursie Złoty Bankier pozostaje jednym z najciekawszych barometrów zmian zachodzących w sektorze bankowym. Tegoroczna edycja przyniosła nieco mniejszą liczbę zgłoszeń niż przed rokiem – otrzymaliśmy 14 propozycji – ale jednocześnie wyraźnie wyższy poziom ich dojrzałości i praktycznego zastosowania.",
@@ -88,9 +81,23 @@
       "date_published": "2026-04-10T11:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
+      "title": "KONTO PREMIUM 2026 Wygoda i cyfrowość ważniejsze niż kiedykolwiek W tegorocznej edycji Złotego Bankiera w kategorii kont premium wyraźnie widać zmianę akcentów. O zwycięstwie nie decydują już wyłącznie opłaty i podstawowe parametry rachunku, ale przede wszystkim jakość codziennego korzystania z banku, dostępność usług oraz doświadczenie klienta w kanałach cyfrowych.",
+      "content_html": "",
+      "date_published": "2026-04-10T11:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
       "url": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
       "title": "BANK Z MISJĄ 2026 ING Bank Śląski wyznacza standard, mBank i Bank Millennium z wyróżnieniami Czy bank może dziś być kimś więcej niż dostawcą konta, kredytu czy aplikacji mobilnej? Coraz wyraźniej widać, że tak. W nowoczesnej bankowości liczy się już nie tylko oferta, technologia i wygoda, ale również sens, odpowiedzialność i realny wpływ na otoczenie. Właśnie z takiego założenia wyrasta nowa, ważna kategoria „Bank z misją” w ramach Złotego Bankiera.",
+      "content_html": "",
+      "date_published": "2026-04-10T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
+      "title": "ZŁOTY BANKIER 2026 Przebudzenie rynku hipotek podgrzało konkurencję Obniżki stóp procentowych dały w końcu paliwo rynkowi kredytów hipotecznych. Banki zaczęły mocniej konkurować o klientów, co przełożyło się na dynamiczne zmiany w cennikach. Jeśli dołożymy do tego kolejny etap cyfryzacji procesów, to możemy powiedzieć, że ożywienie stało się faktem.",
       "content_html": "",
       "date_published": "2026-04-10T11:00:00+02:00"
     },
@@ -261,13 +268,6 @@
       "title": "Skrajnie trudna sytuacja Azotów i JSW. Balczun mówi o \"walce o płynność\" Ministerstwo Aktywów Państwowych pracuje nad konstruktywnymi rozwiązaniami dla Grupy Azoty i Jastrzębskiej Spółki Węglowej (JSW), które znajdują się w skrajnie trudnej sytuacji finansowej - poinformował w czwartek minister aktywów państwowych Wojciech Balczun. Dla JSW rozważane są tylko możliwości finansowania dłużnego.",
       "content_html": "",
       "date_published": "2026-04-09T16:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sunex-szacuje-ze-mial-w-I-kw-42-2-mln-zl-skonsolidowanych-przychodow-8-4-proc-mniej-rdr-9111539.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sunex-szacuje-ze-mial-w-I-kw-42-2-mln-zl-skonsolidowanych-przychodow-8-4-proc-mniej-rdr-9111539.html",
-      "title": "Sunex szacuje, że miał w I kw. 42,2 mln zł skonsolidowanych przychodów, 8,4 proc. mniej rdr Sunex szacuje, że wypracował w pierwszym kwartale 2026 roku 42,2 mln zł skonsolidowanych przychodów ze sprzedaży, czyli o 8,4 proc. mniej w porównaniu do analogicznego okresu 2025 roku - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-09T16:04:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/XTB-w-ciagu-roku-pozyskalo-525-452-tys-rachunkow-maklerskich-KDPW-9111506.html",
@@ -583,13 +583,6 @@
       "title": "Budimex będzie dalej rozwijał FBSerwis w ramach swojej grupy Budimex w wyniku przeglądu opcji strategicznych Grupy FBSerwis podjął decyzję o dalszym jej rozwoju w ramach Grupy Budimex - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-08T14:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-IV-TSUE-wyda-wyroki-wazne-dla-ok-50-tys-sadowych-spraw-dot-kredytow-CHF-Bochenek-Votum-wywiad-9110734.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-IV-TSUE-wyda-wyroki-wazne-dla-ok-50-tys-sadowych-spraw-dot-kredytow-CHF-Bochenek-Votum-wywiad-9110734.html",
-      "title": "Bochenek z Votum: W IV TSUE wyda wyroki ważne dla ok. 50 tys. sądowych spraw dot. kredytów CHF W czwartek, 16 kwietnia, w TSUE zapadną rozstrzygnięcia w trzech sprawach dotyczących przedawnienia roszczeń banków względem frankowiczów. Zagadnienie to jest istotne z punktu widzenia blisko 50 tys. sądowych spraw - poinformował PAP Biznes Wojciech Bochenek z kancelarii należącej do grupy Votum.",
-      "content_html": "",
-      "date_published": "2026-04-08T14:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
