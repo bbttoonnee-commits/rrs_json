@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Emerytura-to-za-malo-Tyle-seniorow-wciaz-pracuje-9111226.html",
+      "url": "https://www.bankier.pl/wiadomosc/Emerytura-to-za-malo-Tyle-seniorow-wciaz-pracuje-9111226.html",
+      "title": "Emerytura to za mało? Tyle seniorów wciąż pracuje",
+      "content_html": "Na polskim rynku pracy przybywa pracowników w wieku emerytalnym; liczba pracujących osób w wieku 65+ wzrosła o 4,0 proc. w okresie I-X 2025 r. - podali analitycy PIE w tygodniku gospodarczym.",
+      "date_published": "2026-04-11T13:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
+      "url": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
+      "title": "Okazja w amerykańskiej technologii? Od dawna nie było tak tanio",
+      "content_html": "Kruchy rozejm na Bliskim Wschodzie i wstrzymana żegluga w Cieśninie Ormuz wciąż stanowią zagrożenie, jednak eksperci do spraw inwestycji coraz głośniej mówią o otwierających się na rynku możliwościach.",
+      "date_published": "2026-04-11T13:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Cyberprzestepcy-beda-masowo-wykorzystywac-AI-do-generowania-reklam-9110387.html",
       "url": "https://www.bankier.pl/wiadomosc/Cyberprzestepcy-beda-masowo-wykorzystywac-AI-do-generowania-reklam-9110387.html",
       "title": "Cyberprzestępcy będą masowo wykorzystywać AI do generowania reklam",
@@ -688,20 +702,6 @@
       "title": "Wstęp na molo w Sopocie będzie płatny. Znamy ceny na ten sezon",
       "content_html": "Od piątku, 10 kwietnia, wejście na molo w Sopocie będzie płatne. Władze miasta zdecydowały o utrzymaniu cen biletów na poziomie z 2025 r. Za bilet normalny zapłacimy 10 zł, a za ulgowy 5 zł. Mieszkańcy z Kartą Sopocką skorzystają z obiektu...",
       "date_published": "2026-04-10T12:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-w-kwietniu-2026-r-9111878.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awaria-w-Alior-Banku-w-kwietniu-2026-r-9111878.html",
-      "title": "Awaria bankowości Alior Banku tuż przed weekendem. Klienci nie mieli dostępu do systemu",
-      "content_html": "Tuż przed weekendem klienci Alior Banku zgłaszali problemy z dostępnością usług tej instytucji. Nie można było zalogować się do bankowości internetowej ani aplikacji mobilnej, co uniemożliwiło posiadaczom rachunków nie tylko sprawdzenie...",
-      "date_published": "2026-04-10T12:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-z-akcyza-na-paliwa-po-15-kwietnia-Minister-finansow-zdradza-plany-rzadu-9111925.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-z-akcyza-na-paliwa-po-15-kwietnia-Minister-finansow-zdradza-plany-rzadu-9111925.html",
-      "title": "Co z akcyzą na paliwa po 15 kwietnia? Minister finansów zdradza plany rządu",
-      "content_html": "Obniżona stawka akcyzy na paliwa zostanie utrzymana po 15 kwietnia; MF zdecyduje, na jak długo - poinformował minister finansów i gospodarki Andrzej Domański. Jak zaznaczył, obecnie sytuacja na Bliskim Wschodzie jest zbyt zmienna, żeby rząd podejmował...",
-      "date_published": "2026-04-10T12:20:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
