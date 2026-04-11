@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
+      "url": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
+      "title": "O TYM MÓWI WALL STREET Okazja w amerykańskiej technologii? Od dawna nie było tak tanio Kruchy rozejm na Bliskim Wschodzie i wstrzymana żegluga w Cieśninie Ormuz wciąż stanowią zagrożenie, jednak eksperci do spraw inwestycji coraz głośniej mówią o otwierających się na rynku możliwościach.",
+      "content_html": "",
+      "date_published": "2026-04-11T12:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Najlepsze-otwarcie-na-debiucie-na-GPW-i-zlote-zakupy-Tydzien-na-wykresach-9111932.html",
       "url": "https://www.bankier.pl/wiadomosc/Najlepsze-otwarcie-na-debiucie-na-GPW-i-zlote-zakupy-Tydzien-na-wykresach-9111932.html",
       "title": "WYKRESY TYGODNIA Najlepsze otwarcie na debiucie na GPW i złote zakupy. Tydzień na wykresach Polacy masowo ruszyli po jedną inwestycję, podczas gdy banki znów cięły oprocentowanie lokat, a RPP mrozi nadzieje kredytobiorców. W tym tygodniu wykresy mówią jasno: era taniego pieniądze oddala się na horyzoncie, a geopolityka zaczyna rozdawać karty na portfelach giełdowych graczy. Zobacz najważniejsze dane ostatnich siedmiu dni.",
@@ -450,20 +457,6 @@
       "title": "Onde chce utrzymywać poziom 2 GW w projektach własnych OZE w portfelu Onde po zrealizowaniu celu 2 GW w projektach własnych OZE w portfelu chce utrzymać taki poziom - poinformowali przedstawiciele zarządu podczas konferencji.",
       "content_html": "",
       "date_published": "2026-04-09T12:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Erbud-chce-w-tym-roku-podjac-decyzje-w-ramach-przegladu-opcji-strategicznych-9111253.html",
-      "url": "https://www.bankier.pl/wiadomosc/Erbud-chce-w-tym-roku-podjac-decyzje-w-ramach-przegladu-opcji-strategicznych-9111253.html",
-      "title": "Erbud chce w tym roku podjąć decyzje w ramach przeglądu opcji strategicznych Erbud chce w tym roku podjąć decyzje w ramach przeglądu opcji strategicznych - poinformowali przedstawiciele spółki podczas konferencji. Grupa nadal ostrożnie podchodzi do kontraktowania. W ocenie zarządu, segment modułowy także w 2026 r. będzie nierentowny.",
-      "content_html": "",
-      "date_published": "2026-04-09T12:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podatek-od-zyskow-Orlenu-coraz-blizej-Znany-ekonomista-ostrzega-obnizka-VAT-na-paliwo-to-blad-9111273.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podatek-od-zyskow-Orlenu-coraz-blizej-Znany-ekonomista-ostrzega-obnizka-VAT-na-paliwo-to-blad-9111273.html",
-      "title": "Podatek od zysków Orlenu coraz bliżej. Znany ekonomista ostrzega: obniżka VAT na paliwo to błąd Obniżka VAT i akcyzy na paliwo jest nieuzasadniona, bo subsydiuje konsumpcję - ocenił w Studiu PAP prof. Marcin Piątkowski. Jego zdaniem rząd mógłby odrobić część strat budżetu spowodowanych obniżką i poprawić stan finansów publicznych, wprowadzając podatek od nadmiarowych zysków firm paliwowych.",
-      "content_html": "",
-      "date_published": "2026-04-09T11:43:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
