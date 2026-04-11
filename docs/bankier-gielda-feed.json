@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-otwarcie-na-debiucie-na-GPW-i-zlote-zakupy-Tydzien-na-wykresach-9111932.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-otwarcie-na-debiucie-na-GPW-i-zlote-zakupy-Tydzien-na-wykresach-9111932.html",
+      "title": "WYKRESY TYGODNIA Najlepsze otwarcie na debiucie na GPW i złote zakupy. Tydzień na wykresach Polacy masowo ruszyli po jedną inwestycję, podczas gdy banki znów cięły oprocentowanie lokat, a RPP mrozi nadzieje kredytobiorców. W tym tygodniu wykresy mówią jasno: era taniego pieniądze oddala się na horyzoncie, a geopolityka zaczyna rozdawać karty na portfelach giełdowych graczy. Zobacz najważniejsze dane ostatnich siedmiu dni.",
+      "content_html": "",
+      "date_published": "2026-04-11T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
       "title": "Na Wall Street bez kontynuacji. Nasdaq z najlepszym tygodniem od listopada Po siedmiu wzrostowych sesjach z rzędu nowojorskie indeksy nie chciały już iść w górę. imo słabszego piątku Nasdaq Composite zaliczył największy tygodniowy wzrost od listopada.",
@@ -527,13 +534,6 @@
       "title": "Zysk Polenergii za '25 zostanie przeniesiony na kapitał rezerwowy, który może trafić na dywidendę Akcjonariusze Polenergii zdecydowali o przeniesieniu zysku netto za 2025 rok w kwocie blisko 87,4 mln zł na kapitał rezerwowy, który w przyszłości może być przeznaczony na wypłatę dywidendy - wynika z uchwał podjętych przez środowe walne zgromadzenie.",
       "content_html": "",
       "date_published": "2026-04-09T06:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Starcie-gigantow-odchudzania-Novo-Nordisk-pokona-Eli-Lilly-na-cudzym-boisku-9110746.html",
-      "url": "https://www.bankier.pl/wiadomosc/Starcie-gigantow-odchudzania-Novo-Nordisk-pokona-Eli-Lilly-na-cudzym-boisku-9110746.html",
-      "title": "Starcie gigantów odchudzania. Novo Nordisk pokona Eli Lilly na cudzym boisku? Większość analityków z Wall Street nie daje duńskiemu Novo Nordisk większych szans w starciu z Eli Lilly na amerykańskim rynku tabletek odchudzających. Danske Bank idzie jednak pod prąd i stawia odważną tezę: to europejski gigant wyjdzie z tego pojedynku zwycięsko. Stawką są miliardy dolarów.",
-      "content_html": "",
-      "date_published": "2026-04-09T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
