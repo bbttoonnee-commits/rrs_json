@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bez-exit-poll-i-ciszy-wyborczej-Tak-wygladaja-wybory-na-Wegrzech-9111336.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bez-exit-poll-i-ciszy-wyborczej-Tak-wygladaja-wybory-na-Wegrzech-9111336.html",
+      "title": "Bez exit poll i ciszy wyborczej. Tak wyglądają wybory na Węgrzech",
+      "content_html": "Na Węgrzech po głosowaniu w wyborach parlamentarnych nie publikuje się sondaży exit poll i nie obowiązuje cisza wyborcza. W przypadku niewielkiej różnicy głosów wynik może być ogłoszony nawet sześć dni po głosowaniu, w sobotę, po przeliczeniu...",
+      "date_published": "2026-04-11T17:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wenezuela-znosi-kluczowy-dekret-Chaveza-Prywatne-firmy-i-zagraniczny-kapital-dopuszczone-do-zloz-9111778.html",
       "url": "https://www.bankier.pl/wiadomosc/Wenezuela-znosi-kluczowy-dekret-Chaveza-Prywatne-firmy-i-zagraniczny-kapital-dopuszczone-do-zloz-9111778.html",
       "title": "Wenezuela znosi kluczowy dekret Chaveza. Prywatne firmy i zagraniczny kapitał dopuszczone do złóż",
@@ -695,13 +702,6 @@
       "title": "Ceny paliw na sobotę. Minister energii podał stawki",
       "content_html": "Od soboty do poniedziałku włącznie litr benzyny 95 ma kosztować nie więcej niż 6,14 zł, benzyny 98 - 6,73 zł a oleju napędowego - 7,68 zł - wynika z piątkowego obwieszczenia Ministra Energii. Oznacza to, że w sobotę spadną ceny maksymalne...",
       "date_published": "2026-04-10T13:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-wroci-na-Wegry-wiosna-Zelenski-Naprawimy-Przyjazn-jesli-Europa-zaplaci-9111971.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-wroci-na-Wegry-wiosna-Zelenski-Naprawimy-Przyjazn-jesli-Europa-zaplaci-9111971.html",
-      "title": "Ropa wróci na Węgry wiosną? Zełenski: Naprawimy Przyjaźń, jeśli Europa zapłaci",
-      "content_html": "Ukraina naprawi ropociąg Przyjaźń, jeśli nadal aktualna będzie kwestia europejskiego finansowania w zamian za możliwość dostaw ropy; remont zakończy się wiosną — przekazał w piątek prezydent Ukrainy Wołodymyr Zełenski.",
-      "date_published": "2026-04-10T13:16:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
