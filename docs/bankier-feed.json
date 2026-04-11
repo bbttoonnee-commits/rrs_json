@@ -4,11 +4,74 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Chiny-zezwolily-panstwowym-rafineriom-na-naruszenie-komercyjnych-rezerwy-ropy-9111882.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-zezwolily-panstwowym-rafineriom-na-naruszenie-komercyjnych-rezerwy-ropy-9111882.html",
+      "title": "Chiny zezwoliły państwowym rafineriom na naruszenie komercyjnych rezerwy ropy",
+      "content_html": "Władze Chin dały państwowym rafineriom zielone światło na naruszenie komercyjnych rezerw ropy naftowej w związku z globalnym kryzysem energetycznym wywołanym wojną na Bliskim Wschodzie — podała w piątek agencja Bloomberga, powołując się...",
+      "date_published": "2026-04-11T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kruchy-rozejm-na-Bliskim-Wschodzie-Tyle-statkow-utknelo-w-ciesninie-Ormuz-9111885.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kruchy-rozejm-na-Bliskim-Wschodzie-Tyle-statkow-utknelo-w-ciesninie-Ormuz-9111885.html",
+      "title": "Kruchy rozejm na Bliskim Wschodzie. Tyle statków utknęło w cieśninie Ormuz",
+      "content_html": "W rejonie cieśniny Ormuz w Zatoce Perskiej nadal uwięzionych jest ponad 600 statków o wyporności powyżej 10 tys. ton, w tym 325 tankowców - poinformował emiracki magazyn „Gulf News”, powołując się na brytyjskie dane.",
+      "date_published": "2026-04-11T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NFZ-w-finansowych-kleszczach-Od-2027-roku-trudniej-o-pieniadze-na-leczenie-9111116.html",
+      "url": "https://www.bankier.pl/wiadomosc/NFZ-w-finansowych-kleszczach-Od-2027-roku-trudniej-o-pieniadze-na-leczenie-9111116.html",
+      "title": "NFZ w finansowych kleszczach. Od 2027 roku trudniej o pieniądze na leczenie",
+      "content_html": "Uzupełnianie w ciągu roku luki finansowej na leczenie będzie trudniejsze, bo NFZ obejmie rozszerzona stabilizująca reguła wydatkowa - mówił PAP Łukasz Kozłowski, ekonomista z Federacji Przedsiębiorców Polskich. Według eksperta nowe zasady...",
+      "date_published": "2026-04-11T10:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-obiecuje-miliardy-dla-Wegier-Wykorzystamy-cala-potege-gospodarcza-USA-9112338.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-obiecuje-miliardy-dla-Wegier-Wykorzystamy-cala-potege-gospodarcza-USA-9112338.html",
+      "title": "Trump obiecuje miliardy dla Węgier. \"Wykorzystamy całą potęgę gospodarczą USA\"",
+      "content_html": "Prezydent USA Donald Trump oznajmił w piątek, że jego rząd jest gotowy wzmocnić gospodarkę Węgier, „jeśli Viktor Orban i Węgrzy będą tego potrzebować”. Deklaracja Trumpa pada na dwa dni przed wyborami, w których Trump poparł Orbana.",
+      "date_published": "2026-04-11T10:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Powtorka-z-2008-roku-Polacy-rzucili-sie-na-kredyty-BIK-ostrzega-9110429.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powtorka-z-2008-roku-Polacy-rzucili-sie-na-kredyty-BIK-ostrzega-9110429.html",
+      "title": "Powtórka z 2008 roku? Polacy rzucili się na kredyty, BIK ostrzega",
+      "content_html": "Wartość zapytań o kredyty mieszkaniowe w marcu wzrosła o 80,5 proc. rdr - podał BIK w komunikacie. O kredyt mieszkaniowy wnioskowało łącznie 63,31 tys. osób, o 71,7 proc. więcej rdr.",
+      "date_published": "2026-04-11T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloty-luk-triumfalny-Trumpa-w-Waszyngtonie-76-metrow-i-4-zlote-lwy-9112311.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloty-luk-triumfalny-Trumpa-w-Waszyngtonie-76-metrow-i-4-zlote-lwy-9112311.html",
+      "title": "Złoty łuk triumfalny Trumpa w Waszyngtonie. 76 metrów i 4 złote lwy",
+      "content_html": "Administracja prezydenta Donalda Trumpa oficjalnie zaprezentowała w piątek projekt planowanego w Waszyngtonie łuku triumfalnego mającego upamiętnić 250-lecie Stanów Zjednoczonych. 76-metrowa budowla ma mieć na szczycie złotą statuę wolności...",
+      "date_published": "2026-04-11T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-otworzy-sie-automatycznie-Trump-Najwazniejsze-to-kwestia-broni-jadrowej-9112340.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-otworzy-sie-automatycznie-Trump-Najwazniejsze-to-kwestia-broni-jadrowej-9112340.html",
+      "title": "\"Cieśnina Ormuz otworzy się automatycznie\". Trump: Najważniejsze to kwestia broni jądrowej",
+      "content_html": "Prezydent USA Donald Trump ocenił, że uniemożliwienie Iranowi zdobycia broni jądrowej jest zdecydowanie najważniejszym kryterium ewentualnej umowy z Iranem. Ocenił przy tym, że cieśnina Ormuz otworzy się „automatycznie”.",
+      "date_published": "2026-04-11T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-rosyjski-wiceminister-obrony-skazany-na-19-lat-wiezienia-Wczesniej-nie-gryzl-sie-w-jezyk-9112140.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-rosyjski-wiceminister-obrony-skazany-na-19-lat-wiezienia-Wczesniej-nie-gryzl-sie-w-jezyk-9112140.html",
+      "title": "Były rosyjski wiceminister obrony skazany na 19 lat więzienia. Wcześniej nie gryzł się w język",
+      "content_html": "Były rosyjski generał i wiceminister obrony Iwan Popow, który krytykował kierownictwo resortu obrony podczas inwazji Kremla na Ukrainę i został oskarżony o korupcję, otrzymał w piątek wyrok 19 lat pozbawienia wolności - podał Reuters.",
+      "date_published": "2026-04-11T09:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Znak-Produkt-Polski-bije-rekordy-popularnosci-9109841.html",
       "url": "https://www.bankier.pl/wiadomosc/Znak-Produkt-Polski-bije-rekordy-popularnosci-9109841.html",
       "title": "Znak \"Produkt Polski\" bije rekordy popularności",
       "content_html": "Około 75 proc. osób uznało za ważne kupowanie żywności produkowanej w Polsce, z krajowych surowców - wynika z badania „Polska wieś i rolnictwo 2025”. Świadome kupowanie przyczynia się do rozwoju gospodarki - zaznaczyli przedstawiciele Krajowego...",
       "date_published": "2026-04-11T09:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chiny-planuja-przekazac-Iranowi-nowe-systemy-obrony-powietrznej-9112385.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-planuja-przekazac-Iranowi-nowe-systemy-obrony-powietrznej-9112385.html",
+      "title": "Chiny planują przekazać Iranowi nowe systemy obrony powietrznej",
+      "content_html": "Amerykańskie służby wywiadowcze uważają, że Chiny przygotowują się do dostarczenia Iranowi w ciągu najbliższych kilku tygodni nowych systemów obrony powietrznej - podała w sobotę stacja CNN, powołując się na trzy osoby zaznajomione z najnowszymi...",
+      "date_published": "2026-04-11T08:44:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dom-zwiazany-z-Black-Sabbath-na-sprzedaz-Osbourne-wystawila-go-za-17-mln-dolarow-9110034.html",
@@ -39,11 +102,53 @@
       "date_published": "2026-04-11T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Historyczny-powrot-z-Ksiezyca-Misja-Artemis-II-zakonczona-sukcesem-padly-rekordy-9112347.html",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-powrot-z-Ksiezyca-Misja-Artemis-II-zakonczona-sukcesem-padly-rekordy-9112347.html",
+      "title": "Historyczny powrót z Księżyca. Misja Artemis II zakończona sukcesem",
+      "content_html": "Statek Orion z czwórką astronautów wykonał w piątek bezpieczne wodowanie na Pacyfiku u wybrzeży Kalifornii. W ten sposób po 10 dniach zakończyła się misja Artemis II, pierwsza od 1972 r. załogowa misja w okolice Księżyca",
+      "date_published": "2026-04-11T04:43:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izrael-odrzuca-rozejm-z-Hezbollahem-9112339.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izrael-odrzuca-rozejm-z-Hezbollahem-9112339.html",
+      "title": "Izrael odrzuca rozejm z Hezbollahem",
+      "content_html": "Ambasador Izraela w USA Yechiel Leiter twierdzi, że powiedział swojemu libańskiemu odpowiednikowi podczas ich pierwszej rozmowy telefonicznej, która odbyła się w piątek, że Izrael nie jest gotowy zaprzestać walki z Hezbollahem, nawet w trakcie...",
+      "date_published": "2026-04-11T01:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kaczynski-o-zamachu-smolenskim-Wzywam-tych-ktorzy-nie-sa-tchorzami-9112332.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kaczynski-o-zamachu-smolenskim-Wzywam-tych-ktorzy-nie-sa-tchorzami-9112332.html",
+      "title": "Kaczyński o zamachu smoleńskim: Wzywam tych, którzy nie są tchórzami",
+      "content_html": "Prezes PiS Jarosław Kaczyński powiedział w piątek podczas obchodów 16. rocznicy katastrofy smoleńskiej, że obecnie w centrum kłamstwa w życiu publicznym jest kłamstwo smoleńskie. Wzywam tych, którzy nie są tchórzami, żeby mówili o zamachu...",
+      "date_published": "2026-04-10T23:36:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-bez-kontynuacji-Nasdaq-z-najlepszym-tygodniem-od-listopada-9112326.html",
       "title": "Na Wall Street bez kontynuacji. Nasdaq z najlepszym tygodniem od listopada",
       "content_html": "Po siedmiu wzrostowych sesjach z rzędu nowojorskie indeksy nie chciały już iść w górę. imo słabszego piątku Nasdaq Composite zaliczył największy tygodniowy wzrost od listopada.",
       "date_published": "2026-04-10T23:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Premier-Pakistanu-rozmowy-USA-Iran-to-klucz-do-trwalego-zawieszenia-broni-9112322.html",
+      "url": "https://www.bankier.pl/wiadomosc/Premier-Pakistanu-rozmowy-USA-Iran-to-klucz-do-trwalego-zawieszenia-broni-9112322.html",
+      "title": "Premier Pakistanu: rozmowy USA-Iran to klucz do trwałego zawieszenia broni",
+      "content_html": "Premier Pakistanu Shehbaz Sharif powiedział w piątek, że rozmowy pokojowe delegacji USA i Iranu, które mają się odbyć w sobotę w Islamabadzie, są kluczem do trwałego zawieszenia broni w konflikcie trwającym na Bliskim Wschodzie.",
+      "date_published": "2026-04-10T22:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-mobilizacja-przeciwko-Orbanowi-Antyrzadowy-koncert-w-centrum-Budapesztu-9112317.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-mobilizacja-przeciwko-Orbanowi-Antyrzadowy-koncert-w-centrum-Budapesztu-9112317.html",
+      "title": "Wielka mobilizacja przeciwko Orbanowi. Antyrządowy koncert w centrum Budapesztu",
+      "content_html": "Dziesiątki tysięcy osób zebrało się w piątek wieczorem na Placu Bohaterów w centrum Budapesztu na antyrządowym koncercie, by wspólnie - w atmosferze radości i zabawy - świętować nadchodzące wybory parlamentarne. Oczekujemy, że w niedzielę...",
+      "date_published": "2026-04-10T22:41:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/5-partii-w-Sejmie-Razem-Polska-2050-i-PSL-bez-poslow-9112307.html",
+      "url": "https://www.bankier.pl/wiadomosc/5-partii-w-Sejmie-Razem-Polska-2050-i-PSL-bez-poslow-9112307.html",
+      "title": "5 partii w Sejmie. Razem, Polska 2050 i PSL bez posłów",
+      "content_html": "Gdyby w najbliższą niedzielę odbywały się wybory, to na Koalicję Obywatelską zagłosowałoby 35,2 proc. osób, Prawo i Sprawiedliwość uzyskałoby 22 proc. głosów, a Konfederacja 12,8 proc. - wynika z najnowszego sondażu Opinia24.",
+      "date_published": "2026-04-10T22:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-ogrzewania-gazowego-coraz-blizej-Francja-oglasza-radykalny-plan-i-miliardy-na-doplaty-9112293.html",
@@ -163,20 +268,6 @@
       "title": "yarrl ma umowę ramową z Centralnym Ośrodkiem Informatyki o wartości do 79,8 mln zł brutto",
       "content_html": "yarrl podpisał umowę ramową z Centralnym Ośrodkiem Informatyki w Warszawie, której przedmiotem jest określenie warunków udzielania i realizacji zamówień wykonawczych na realizację prac zw. z wytwarzaniem, wdrażaniem lub utrzymywaniem systemów...",
       "date_published": "2026-04-10T18:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Serbia-moze-stracic-1-5-miliarda-euro-Unia-Europejska-rozwaza-radykalny-krok-9112206.html",
-      "url": "https://www.bankier.pl/wiadomosc/Serbia-moze-stracic-1-5-miliarda-euro-Unia-Europejska-rozwaza-radykalny-krok-9112206.html",
-      "title": "Serbia może stracić 1,5 miliarda euro. Unia Europejska rozważa radykalny krok",
-      "content_html": "Komisja Europejska na bieżąco ocenia, czy spełniane są warunki udzielania wsparcia finansowego dla Serbii - poinformowała w piątek rzeczniczka KE Arianna Podesta, odnosząc się do doniesień medialnych o możliwym ograniczeniu funduszy dla Belgradu...",
-      "date_published": "2026-04-10T18:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-tydzien-na-GPW-Piatkowy-szturm-bankow-na-historyczne-szczyty-9112192.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-tydzien-na-GPW-Piatkowy-szturm-bankow-na-historyczne-szczyty-9112192.html",
-      "title": "Rekordowy tydzień na GPW. Piątkowy szturm banków na historyczne szczyty",
-      "content_html": "Indeks szerokiego rynku WIG po raz pierwszy w historii zameldował się powyżej poziomu 130 tys. punktów, napędzany euforią w sektorze finansowym. Hamulcowym tym razem był kurs Orlenu i choć paliwowy gigant wyraźnie odstawał od reszty stawki,...",
-      "date_published": "2026-04-10T18:15:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pekin-i-Pjongjang-ida-ramie-w-ramie-Wang-Yi-ujawnia-plan-strategicznej-koordynacji-9112185.html",
@@ -410,6 +501,13 @@
       "date_published": "2026-04-10T14:08:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-I-kw-51-3-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc-wiecej-rdr-9112009.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-I-kw-51-3-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc-wiecej-rdr-9112009.html",
+      "title": "Sfinks miał w I kw. 51,3 mln zł przychodów ze sprzedaży gastronomicznej, ok. 2 proc. więcej rdr",
+      "content_html": "Sfinks Polska miał w pierwszym kwartale 2026 roku 51,3 mln zł przychodów ze sprzedaży gastronomicznej z wyłączeniem sieci Piwiarnia, wobec 50,3 mln zł w I kwartale 2025 r., co oznacza wzrost o ok. 2 proc. rdr - podała spóła w komunikacie.",
+      "date_published": "2026-04-10T14:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielki-spadek-transferow-za-granice-Cudzoziemcy-wysylaja-coraz-mniej-pieniedzy-9112007.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielki-spadek-transferow-za-granice-Cudzoziemcy-wysylaja-coraz-mniej-pieniedzy-9112007.html",
       "title": "Wielki spadek transferów za granicę. Cudzoziemcy wysyłają coraz mniej pieniędzy",
@@ -429,13 +527,6 @@
       "title": "Francja walczy z suchymi stacjami. Cysterny wyjadą na drogi w weekendy i święta",
       "content_html": "Rząd Francji zezwolił na kursowanie cystern transportujących paliwa i obsługujących stacje benzynowe w weekendy, a także w poniedziałki i dni świąteczne. Celem jest uniknięcie niedoboru paliw na stacjach benzynowych. Zezwolenie będzie obowiązywać...",
       "date_published": "2026-04-10T13:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zyskaj-nawet-700-zl-z-ING-Bankiem-Slaskim-dzieki-promocjom-Mobilni-zyskuja-i-Polec-ING-9111359.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zyskaj-nawet-700-zl-z-ING-Bankiem-Slaskim-dzieki-promocjom-Mobilni-zyskuja-i-Polec-ING-9111359.html",
-      "title": "Premia w ING Banku Śląskim. Nawet 700 zł czeka na nowych klientów",
-      "content_html": "ING Bank Śląski daje nowym klientom możliwość zdobycia łącznej premii w wysokości aż 700 zł. Wystarczy połączyć główną akcję \"Mobilni zyskują\" (nagroda 600 zł) z programem rekomendacji \"Poleć ING\" (dodatkowe 100 zł dla nowego klienta)...",
-      "date_published": "2026-04-10T13:39:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/ESA-zaakceptowala-pozostala-czesc-kamienia-milowego-nr-2-w-ramach-projektu-Camila-Creotech-9111993.html",
@@ -576,111 +667,6 @@
       "title": "Klient zyskuje, banki poprawiają oferty kredytów gotówkowych",
       "content_html": "W tegorocznej edycji „Złotego Bankiera” rywalizacja o statuetkę w kategorii kredytu gotówkowego była wyjątkowo wyrównana. Banki wyraźnie podniosły poprzeczkę względem poprzedniego roku, poprawiając zarówno warunki ofert, jak i ich dostępność...",
       "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Przebudzenie-rynku-hipotek-podgrzalo-konkurencje-9110540.html",
-      "title": "Przebudzenie rynku hipotek podgrzało konkurencję",
-      "content_html": "Obniżki stóp procentowych dały w końcu paliwo rynkowi kredytów hipotecznych. Banki zaczęły mocniej konkurować o klientów, co przełożyło się na dynamiczne zmiany w cennikach. Jeśli dołożymy do tego kolejny etap cyfryzacji procesów, to...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bank-z-misja-2026-ING-Bank-Slaski-wyznacza-standard-mBank-i-Bank-Millennium-z-wyroznieniami-9110556.html",
-      "title": "ING Bank Śląski wyznacza standard, mBank i Bank Millennium z wyróżnieniami",
-      "content_html": "Czy bank może dziś być kimś więcej niż dostawcą konta, kredytu czy aplikacji mobilnej? Coraz wyraźniej widać, że tak. W nowoczesnej bankowości liczy się już nie tylko oferta, technologia i wygoda, ale również sens, odpowiedzialność i...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konto-Premium-2026-Wygoda-i-cyfrowosc-wazniejsze-niz-kiedykolwiek-9110568.html",
-      "title": "Wygoda i cyfrowość ważniejsze niż kiedykolwiek",
-      "content_html": "W tegorocznej edycji Złotego Bankiera w kategorii kont premium wyraźnie widać zmianę akcentów. O zwycięstwie nie decydują już wyłącznie opłaty i podstawowe parametry rachunku, ale przede wszystkim jakość codziennego korzystania z banku, dostępność...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zloty-Bankier-2026-Produkt-usluga-z-misja-14-propozycji-trzy-wyroznienia-9110574.html",
-      "title": "Produkt/usługa z misją. 14 propozycji, trzy wyróżnienia",
-      "content_html": "Kategoria „Produkt/usługa z misją” w konkursie Złoty Bankier pozostaje jednym z najciekawszych barometrów zmian zachodzących w sektorze bankowym. Tegoroczna edycja przyniosła nieco mniejszą liczbę zgłoszeń niż przed rokiem – otrzymaliśmy...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Smart-Bankier-2025-oto-produkty-ktore-przyciagaly-uwage-9110578.html",
-      "url": "https://www.bankier.pl/wiadomosc/Smart-Bankier-2025-oto-produkty-ktore-przyciagaly-uwage-9110578.html",
-      "title": "Oto produkty, które przyciągały uwagę",
-      "content_html": "W ramach Złotego Bankiera przygotowaliśmy zestawienie produktów, które w minionym roku najmocniej przyciągały uwagę naszych Czytelników (w ramach porównywarki SMART Bankier) w najważniejszych kategoriach bankowości detalicznej: lokata,...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-konto-dla-dziecka-Koniec-ery-prostych-rachunkow-9110620.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-konto-dla-dziecka-Koniec-ery-prostych-rachunkow-9110620.html",
-      "title": "Najlepsze konto dla dziecka. Koniec ery prostych rachunków",
-      "content_html": "W tegorocznym Rankingu Złoty Bankier o zwycięstwie nie decydowały już tabele opłat, lecz jakość cyfrowego doświadczenia i zakres kontroli rodzicielskiej. Wyniki edycji 2026 pokazują, że walka na szczycie toczy się o pojedyncze punkty, a o końcowej...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wybralismy-najlepsze-konta-osobiste-9111182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wybralismy-najlepsze-konta-osobiste-9111182.html",
-      "title": "Wybraliśmy najlepsze konta osobiste",
-      "content_html": "Konto osobiste dawno przestało być prostym rachunkiem do odbierania przelewów i płacenia kartą. Dziś to rozbudowany ekosystem, w którym sam produkt bankowy splata się z aplikacją mobilną, narzędziami do zarządzania budżetem, portfelami cyfrowymi...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/mBank-detronizuje-dotychczasowego-lidera-Oto-zwyciezcy-Zlotego-Bankiera-w-kategorii-Social-Media-9111187.html",
-      "url": "https://www.bankier.pl/wiadomosc/mBank-detronizuje-dotychczasowego-lidera-Oto-zwyciezcy-Zlotego-Bankiera-w-kategorii-Social-Media-9111187.html",
-      "title": "mBank detronizuje dotychczasowego lidera. Oto zwycięzcy Złotego Bankiera w kategorii Social Media",
-      "content_html": "Zasięgi to już za mało — w influencer marketingu banków liczy się dziś autentyczność, strategia i wiarygodność. Tegoroczna edycja Złotego Bankiera w kategorii Social Media przyniosła zmianę warty na szczycie zestawienia i potwierdziła...",
-      "date_published": "2026-04-10T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wzrost-cen-gazu-moze-przelozyc-sie-na-ceny-w-krajowych-taryfach-w-kolejnych-miesiacach-ME-9111916.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wzrost-cen-gazu-moze-przelozyc-sie-na-ceny-w-krajowych-taryfach-w-kolejnych-miesiacach-ME-9111916.html",
-      "title": "Minister Motyka ostrzega: Problemy Kataru uderzą w polskie taryfy gazowe",
-      "content_html": "Wzrost cen gazu w efekcie konfliktu na Bliskim Wschodzie i zniszczeń w tamtejszej infrastrukturze może się także przełożyć na ceny w taryfach na polskim rynku w kolejnych miesiącach - ocenił w PR24 minister energii Miłosz Motyka.",
-      "date_published": "2026-04-10T11:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-rekomenduje-akumuluj-PCC-Rokita-9111903.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-rekomenduje-akumuluj-PCC-Rokita-9111903.html",
-      "title": "DM BDM rekomenduje \"akumuluj\" PCC Rokita",
-      "content_html": "Analitycy Domu Maklerskiego BDM w raporcie z 1 kwietnia, wznowili wydawanie rekomendacji dla spółki PCC Rokita od zalecenia \"akumuluj\" z ceną docelową 72,9 zł za akcję.",
-      "date_published": "2026-04-10T11:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/VeloBank-rzuca-wyzwanie-Klienci-banku-beda-mogli-inwestowac-na-GPW-9111899.html",
-      "url": "https://www.bankier.pl/wiadomosc/VeloBank-rzuca-wyzwanie-Klienci-banku-beda-mogli-inwestowac-na-GPW-9111899.html",
-      "title": "VeloBank rzuca wyzwanie? Klienci banku będą mogli inwestować na GPW",
-      "content_html": "Giełda Papierów Wartościowych dopuściła VeloBank do działania w charakterze podmiotu prowadzącego obrót papierami wartościowymi na rachunek klientów. Klienci banku będą mogli inwestować na GPW za pośrednictwem biura maklerskiego VeloBanku...",
-      "date_published": "2026-04-10T11:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-ma-mowy-o-podwyzce-stop-Zloty-na-tym-nie-ucierpial-9111893.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-ma-mowy-o-podwyzce-stop-Zloty-na-tym-nie-ucierpial-9111893.html",
-      "title": "\"Nie ma mowy o podwyżce stóp\". Złoty na tym nie ucierpiał",
-      "content_html": "Prezes NBP zadeklarował w czwartek, że w obecnych warunkach Rada Polityki Pieniężnej nie zamierza podnosić stóp procentowych, mimo że rynek wciąż wycenia scenariusz wyższych stóp",
-      "date_published": "2026-04-10T11:07:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-Neptun-wraca-nad-morze-Gdansk-nowym-centrum-polskiego-wiatru-9111892.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-Neptun-wraca-nad-morze-Gdansk-nowym-centrum-polskiego-wiatru-9111892.html",
-      "title": "Orlen Neptun wraca nad morze. Gdańsk nowym centrum polskiego wiatru",
-      "content_html": "Spółka Orlen Neptun należąca do Grupy ORLEN, odpowiadająca za rozwój morskiej energetyki wiatrowej, zostanie przeniesiona z Warszawy do Gdańska – zapowiedział w piątek minister aktywów państwowych Wojciech Balczun.",
-      "date_published": "2026-04-10T11:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zabrze-logistycznym-sercem-regionu-PFR-i-KPO-buduja-terminal-za-145-mln-zl-9111891.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zabrze-logistycznym-sercem-regionu-PFR-i-KPO-buduja-terminal-za-145-mln-zl-9111891.html",
-      "title": "Zabrze logistycznym sercem regionu. Powstanie terminal za 145 mln zł",
-      "content_html": "Polski Fundusz Rozwoju (PFR) współfinansuje budowę terminala intermodalnego dla CLIP Group w Zabrzu - podał fundusz w komunikacie prasowym. Projekt o wartości ok. 145 mln zł realizowany jest na terenach poprzemysłowych dawnej kopalni KWK Makoszowy...",
-      "date_published": "2026-04-10T11:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukrainskie-niebo-z-nowa-ochrona-Zelenski-Nowa-partia-pociskow-do-Patriotow-juz-u-nas-9111890.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukrainskie-niebo-z-nowa-ochrona-Zelenski-Nowa-partia-pociskow-do-Patriotow-juz-u-nas-9111890.html",
-      "title": "Ukraińskie niebo z nową ochroną. Zełenski: Nowa partia pocisków do Patriotów już u nas",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski podczas spotkania z dziennikarzami przekazał, że partnerzy w ostatnich dniach przekazali jego krajowi nową partię pocisków do systemów obrony powietrznej Patriot - poinformowała w piątek agencja Interfax-Ukraina...",
-      "date_published": "2026-04-10T10:59:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
