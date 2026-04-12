@@ -8,28 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 12 Apr 2026 07:00:00 +0200</lastBuildDate>
-    <item>
-      <title>Rozmowy pokojowe z Izraelem. Liban wyśle delegację do USA</title>
-      <link>https://www.bankier.pl/wiadomosc/Rozmowy-pokojowe-z-Izraelem-Liban-wysle-delegacje-do-USA-9112016.html</link>
-      <description>Liban weźmie udział w rozmowach z USA i Izraelem o zawieszeniu broni, do których ma dojść w przyszłym tygodniu w Waszyngtonie - poinformowała w piątek agencja Reutera, powołując się na wysokiego rangą libańskiego urzędnika.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rozmowy-pokojowe-z-Izraelem-Liban-wysle-delegacje-do-USA-9112016.html</guid>
-      <pubDate>Fri, 10 Apr 2026 14:20:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Afera na granicy w Bobrownikach. Funkcjonariusze oskarżeni o gigantyczny przemyt</title>
-      <link>https://www.bankier.pl/wiadomosc/Afera-na-granicy-w-Bobrownikach-Funkcjonariusze-oskarzeni-o-gigantyczny-przemyt-9112023.html</link>
-      <description>Przed Sądem Okręgowym w Białymstoku rozpoczął się w piątek proces dziewięciu osób, w tym byłych funkcjonariuszy KAS z przejścia granicznego w Bobrownikach (woj. podlaskie). Są oskarżeni o przyjmowanie łapówek za umożliwianie przemytu papierosów...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Afera-na-granicy-w-Bobrownikach-Funkcjonariusze-oskarzeni-o-gigantyczny-przemyt-9112023.html</guid>
-      <pubDate>Fri, 10 Apr 2026 14:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>PKO BH chce wychodzić na rynek z ofertą detalicznych LZ częściej niż raz na pół roku</title>
-      <link>https://www.bankier.pl/wiadomosc/PKO-BH-chce-wychodzic-na-rynek-z-oferta-detalicznych-LZ-czesciej-niz-raz-na-pol-roku-9112035.html</link>
-      <description>PKO Bank Hipoteczny chce wychodzić na rynek z ofertą detalicznych hipotecznych listów zastawnych częściej niż raz na pół roku - poinformował prezes banku Wojciech Papierak.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/PKO-BH-chce-wychodzic-na-rynek-z-oferta-detalicznych-LZ-czesciej-niz-raz-na-pol-roku-9112035.html</guid>
-      <pubDate>Fri, 10 Apr 2026 14:54:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 12 Apr 2026 09:45:00 +0200</lastBuildDate>
     <item>
       <title>Amerykański papież pod ostrzałem Białego Domu. Watykan reaguje</title>
       <link>https://www.bankier.pl/wiadomosc/Amerykanski-papiez-pod-ostrzalem-Bialego-Domu-Watykan-reaguje-na-sensacyjne-doniesienia-9112036.html</link>
@@ -577,20 +556,6 @@
       <pubDate>Sat, 11 Apr 2026 14:33:00 +0200</pubDate>
     </item>
     <item>
-      <title>Orban trafi do więzienia? Magyar: To niezależne sądy zdecydują</title>
-      <link>https://www.bankier.pl/wiadomosc/Orban-trafi-do-wiezienia-Magyar-To-niezalezne-sady-zdecyduja-9112439.html</link>
-      <description>Lider opozycyjnej Tiszy Peter Magyar w wywiadzie opublikowanym w sobotę w dzienniku „Nepszava” zapewnił, że pod jego rządami to niezależne sądy będą wydawać wyroki. Pytany o oczekiwania wobec skazania premiera Viktora Orbana, odpowiedział...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Orban-trafi-do-wiezienia-Magyar-To-niezalezne-sady-zdecyduja-9112439.html</guid>
-      <pubDate>Sat, 11 Apr 2026 14:53:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>SMR-y tylko dla najbogatszych. Porażające koszty budowy reaktorów w Polsce</title>
-      <link>https://www.bankier.pl/wiadomosc/SMR-y-tylko-dla-najbogatszych-Porazajace-koszty-budowy-reaktorow-w-Polsce-9111375.html</link>
-      <description>Polska powinna określić jasne i stabilne ramy wsparcia publicznego w inwestycjach w reaktory jądrowe typu SMR, które umożliwią ich realizację przy zachowaniu zgodności z unijnymi zasadami pomocy publicznej - rekomendują eksperci PIE. Ich zdaniem...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/SMR-y-tylko-dla-najbogatszych-Porazajace-koszty-budowy-reaktorow-w-Polsce-9111375.html</guid>
-      <pubDate>Sat, 11 Apr 2026 15:00:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Górnictwo w Argentynie. Javier Milei otwiera lodowce dla inwestorów</title>
       <link>https://www.bankier.pl/wiadomosc/Gornictwo-w-Argentynie-Javier-Milei-otwiera-lodowce-dla-inwestorow-9111344.html</link>
       <description>Parlament Argentyny przegłosował w środę późnym wieczorem przepisy, które zezwalają na inwestycje górnicze w regionach lodowcowych. Za uchwaleniem przepisów, które są krytykowane przez opozycję i organizacje ekologiczne, opowiadał się prezydent...</description>
@@ -708,6 +673,27 @@
       <description>Ministra klimatu Paulina Hennig-Kloska ogłosiła niedawno, że w drugim kwartale do systemu kaucyjnego wróciło około 60 proc. butelek wprowadzonych do sprzedaży w pierwszym kwartale tego roku. „Widzimy gołym okiem, że plastik znika z naszego...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/System-kaucyjny-60-proc-sukcesu-100-proc-frustracji-Zrobiono-z-nas-dziadow-9109875.html</guid>
       <pubDate>Sun, 12 Apr 2026 07:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Naukowcy z Wrocławia opracowali "kosmiczny internet"</title>
+      <link>https://www.bankier.pl/wiadomosc/Naukowcy-z-Wroclawia-opracowali-kosmiczny-internet-9111410.html</link>
+      <description>Naukowcy opracowali radykalnie szybszą łączność satelitarną. Dzięki unikalnemu rozwiązaniu - technologii E-SSA, możliwe jest radykalne zwiększenie przepustowości bez konieczności rezerwowania dodatkowych pasm radiowych. To przełom w dziedzinie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Naukowcy-z-Wroclawia-opracowali-kosmiczny-internet-9111410.html</guid>
+      <pubDate>Sun, 12 Apr 2026 09:00:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Fiasko po 21 godzinach rozmów. J.D. Vance opuszcza Pakistan, Iran mówi o "nierozsądnych żądaniach"</title>
+      <link>https://www.bankier.pl/wiadomosc/Fiasko-po-21-godzinach-rozmow-J-D-Vance-opuszcza-Pakistan-Iran-mowi-o-nierozsadnych-zadaniach-9112531.html</link>
+      <description>Wiceprezydent USA J.D. Vance opuścił w niedzielę Islamabad po fiasku rozmów z Iranem na temat pokoju na Bliskim Wschodzie - poinformowała agencja AFP. Jego samolot wystartował ze stolicy Pakistanu po godz. 7 czasu lokalnego (4 w Polsce).</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Fiasko-po-21-godzinach-rozmow-J-D-Vance-opuszcza-Pakistan-Iran-mowi-o-nierozsadnych-zadaniach-9112531.html</guid>
+      <pubDate>Sun, 12 Apr 2026 09:38:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Złoty napad stulecia. Ukradł 6600 sztabek złota z lotniska. Wyrok sądu zaskoczył</title>
+      <link>https://www.bankier.pl/wiadomosc/Zloty-napad-stulecia-Ukradl-6600-sztabek-zlota-z-lotniska-Wyrok-sadu-zaskoczyl-9111841.html</link>
+      <description>44-letni mężczyzna, który ukradł 6600 sztabek złota z lotniska Pearsona w Toronto w kwietniu 2023 r., został skazany na cztery lata więzienia – poinformowali w czwartek prokuratura i obrońca. Była to największa kradzież złota w historii...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zloty-napad-stulecia-Ukradl-6600-sztabek-zlota-z-lotniska-Wyrok-sadu-zaskoczyl-9111841.html</guid>
+      <pubDate>Sun, 12 Apr 2026 09:45:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
