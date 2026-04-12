@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Skandal-w-Bialym-Domu-Urzednicy-zarabiali-na-informacjach-o-wojnie-9111979.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skandal-w-Bialym-Domu-Urzednicy-zarabiali-na-informacjach-o-wojnie-9111979.html",
+      "title": "Skandal w Białym Domu. Urzędnicy zarabiali na informacjach o wojnie? Biały Dom przestrzegł pracowników, by nie wykorzystywali poufnych informacji do zawierania transakcji na rynkach finansowych i platformach bukmacherskich - podał Bloomberg w piątek. Ostrzeżenie wydano wkrótce po ujawnieniu przez media informacji o nietypowej fali zleceń zakupu i sprzedaży.",
+      "content_html": "",
+      "date_published": "2026-04-12T12:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
       "url": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
       "title": "O TYM MÓWI WALL STREET Okazja w amerykańskiej technologii? Od dawna nie było tak tanio Kruchy rozejm na Bliskim Wschodzie i wstrzymana żegluga w Cieśninie Ormuz wciąż stanowią zagrożenie, jednak eksperci do spraw inwestycji coraz głośniej mówią o otwierających się na rynku możliwościach.",
@@ -130,13 +137,6 @@
       "date_published": "2026-04-10T14:05:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BH-chce-wychodzic-na-rynek-z-oferta-detalicznych-LZ-czesciej-niz-raz-na-pol-roku-9112035.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BH-chce-wychodzic-na-rynek-z-oferta-detalicznych-LZ-czesciej-niz-raz-na-pol-roku-9112035.html",
-      "title": "PKO BH chce wychodzić na rynek z ofertą detalicznych LZ częściej niż raz na pół roku PKO Bank Hipoteczny chce wychodzić na rynek z ofertą detalicznych hipotecznych listów zastawnych częściej niż raz na pół roku - poinformował prezes banku Wojciech Papierak.",
-      "content_html": "",
-      "date_published": "2026-04-10T13:54:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-I-kw-51-3-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc-wiecej-rdr-9112009.html",
       "url": "https://www.bankier.pl/wiadomosc/Sfinks-mial-w-I-kw-51-3-mln-zl-przychodow-ze-sprzedazy-gastronomicznej-ok-2-proc-wiecej-rdr-9112009.html",
       "title": "Sfinks miał w I kw. 51,3 mln zł przychodów ze sprzedaży gastronomicznej, ok. 2 proc. więcej rdr Sfinks Polska miał w pierwszym kwartale 2026 roku 51,3 mln zł przychodów ze sprzedaży gastronomicznej z wyłączeniem sieci Piwiarnia, wobec 50,3 mln zł w I kwartale 2025 r., co oznacza wzrost o ok. 2 proc. rdr - podała spóła w komunikacie.",
@@ -149,20 +149,6 @@
       "title": "Kolejny krok w stronę gwiazd. Creotech zamyka etap misji Camila Creotech Instruments otrzymał od ESA informację o zaakceptowaniu ukończenia realizacji pozostałej części kamienia milowego nr 2 w projekcie \"Country awerness mission in land analysis - Camila\", co oznacza, iż kamień milowy został zrealizowany w zakresie odpowiadającym 100 proc. - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-10T12:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-wegierskie-wybory-i-perskie-negocjacje-9111972.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-wegierskie-wybory-i-perskie-negocjacje-9111972.html",
-      "title": "Tym będą żyły rynki: węgierskie wybory i perskie negocjacje Podczas tego weekendu może dojść do zmiany władzy na Węgrzech, a w Islamabadzie ruszą negocjacje pokojowe pomiędzy rządami USA oraz Iranu. Na Wall Street rozpocznie się sezon publikacji raportów kwartalnych spółek. Na GPW czekać będą na nas… raporty za 2025 rok.",
-      "content_html": "",
-      "date_published": "2026-04-10T12:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lena-Lighting-chce-wyplacic-0-10-zl-dywidendy-na-akcje-za-25-9111970.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lena-Lighting-chce-wyplacic-0-10-zl-dywidendy-na-akcje-za-25-9111970.html",
-      "title": "Lena Lighting chce wypłacić 0,10 zł dywidendy na akcję za '25 Zarząd Lena Lighting rekomenduje walnemu zgromadzeniu wypłatę dywidendy za 2025 rok w wysokości 0,10 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-10T12:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
