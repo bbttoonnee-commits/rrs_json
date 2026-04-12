@@ -11,6 +11,20 @@
       "date_published": "2026-04-12T13:30:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-alkoholem-na-widoku-To-dziala-jak-obnizka-cen-9111220.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-alkoholem-na-widoku-To-dziala-jak-obnizka-cen-9111220.html",
+      "title": "Koniec z alkoholem na widoku? „To działa jak obniżka cen”",
+      "content_html": "Regulacja dostępności jest kluczem do ograniczenia spożycia alkoholu - wskazują analitycy Polskiego Instytut Ekonomicznego. Coraz więcej podmiotów publicznych decyduje się na ograniczanie dostępności np. w wymiarze czasowym; badania pokazują...",
+      "date_published": "2026-04-12T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-luka-placowa-najnizsza-w-UE-9111818.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-luka-placowa-najnizsza-w-UE-9111818.html",
+      "title": "Polska luka płacowa najniższa w UE",
+      "content_html": "Luka płacowa, czyli różnice w zarobkach kobiet i mężczyzn, to wciąż powszechny problem w Unii Europejskiej. Niższe wynagrodzenia przekładają się na dysproporcje w wysokości emerytur. To z kolei...",
+      "date_published": "2026-04-12T12:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pulapka-eksperta-Mlodzi-tona-w-szkodliwych-tresciach-ale-nie-chca-edukacji-9111219.html",
       "url": "https://www.bankier.pl/wiadomosc/Pulapka-eksperta-Mlodzi-tona-w-szkodliwych-tresciach-ale-nie-chca-edukacji-9111219.html",
       "title": "Pułapka „eksperta”. Młodzi toną w szkodliwych treściach, ale nie chcą edukacji",
@@ -688,20 +702,6 @@
       "title": "Jak zarządzić finansami samorządów? Już za kilka dni Samorządowy Kongres Finansowy Local Trends",
       "content_html": "Czy w warunkach globalnej konkurencji gospodarczej możliwe jest utrzymanie zrównoważonego rozwoju terytorialnego? Czy miasta średnie i mniejsze ośrodki mogą być realnymi biegunami wzrostu gospodarczego? Odpowiedzi na te pytania będą poszukiwać...",
       "date_published": "2026-04-10T17:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mam-juz-dosc-Brytyjski-premier-uderza-w-Trumpa-Putina-i-ceny-energii-9112150.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mam-juz-dosc-Brytyjski-premier-uderza-w-Trumpa-Putina-i-ceny-energii-9112150.html",
-      "title": "\"Mam już dość\". Brytyjski premier uderza w Trumpa, Putina i ceny energii",
-      "content_html": "Brytyjski premier Keir Starmer powiedział w piątek, że „ma dość” działań prezydenta USA Donalda Trumpa i przywódcy Rosji Władimira Putina, które powodują wzrost cen energii w Wielkiej Brytanii. Jak zauważają brytyjskie media, to najostrzejsze...",
-      "date_published": "2026-04-10T17:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drogie-paliwa-wkurzyly-Norwegow-Premier-rozumiem-frustracje-kierowcow-9112141.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drogie-paliwa-wkurzyly-Norwegow-Premier-rozumiem-frustracje-kierowcow-9112141.html",
-      "title": "Drogie paliwa wkurzyły Norwegów. Premier: rozumiem frustrację kierowców",
-      "content_html": "Kilkaset pojazdów próbowało w piątek wjechać do centrum Oslo w ramach protestu przeciwko wysokim cenom paliw spowodowanym przez wojnę na Bliskim Wschodzie. Policja zablokowała główną kolumnę. Mimo kwietniowych obniżek podatków olej napędowy...",
-      "date_published": "2026-04-10T17:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
