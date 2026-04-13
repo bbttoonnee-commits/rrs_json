@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/LSI-Software-rozpoczal-przeglad-opcji-strategicznych-9112866.html",
+      "url": "https://www.bankier.pl/wiadomosc/LSI-Software-rozpoczal-przeglad-opcji-strategicznych-9112866.html",
+      "title": "LSI Software rozpoczął przegląd opcji strategicznych LSI Software rozpoczął przegląd opcji strategicznych - podała spóła w komunikacie. Celem przeglądu jest analiza scenariuszy strategicznych, które mogą obejmować zmiany w strukturze kapitałowej lub organizacyjnej, transakcje kapitałowe lub korporacyjne, a także inne działania strategiczne.",
+      "content_html": "",
+      "date_published": "2026-04-13T11:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-dla-LPP-do-26-300-zl-9112856.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-dla-LPP-do-26-300-zl-9112856.html",
+      "title": "Noble Securities podniósł cenę docelową dla LPP do 26.300 zł Analitycy Noble Securities, w raporcie z 8 kwietnia, podnieśli cenę docelową akcji LPP do 26.300 zł z 23.000 zł, obniżając zalecenie do \"akumuluj\" z \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-04-13T10:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Eksportowy-rekord-Polski-Ponad-39-mld-zl-w-8-lat-tak-podbijamy-zagraniczne-rynki-9112841.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eksportowy-rekord-Polski-Ponad-39-mld-zl-w-8-lat-tak-podbijamy-zagraniczne-rynki-9112841.html",
+      "title": "Eksportowy rekord Polski. Ponad 39 mld zł w 8 lat - tak podbijamy zagraniczne rynki Eksport polskich produktów za pośrednictwem międzynarodowej sieci Lidl w 2025 roku osiągnął wartość 7,2 mld zł - podał Lidl w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-04-13T10:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-spolki-zaleznej-Wasko-za-25-9-mln-zl-brutto-najkorzystniejsza-w-przetargu-PARP-na-system-ERP-9112812.html",
       "url": "https://www.bankier.pl/wiadomosc/Oferta-spolki-zaleznej-Wasko-za-25-9-mln-zl-brutto-najkorzystniejsza-w-przetargu-PARP-na-system-ERP-9112812.html",
       "title": "Oferta spółki zależnej Wasko za 25,9 mln zł brutto najkorzystniejszą w przetargu Oferta spółki zależnej Wasko - COIG - została wybrana przez Polską Agencję Rozwoju Przedsiębiorczości jako najkorzystniejsza w przetargu na dostarczenie systemu klasy ERP - podało Wasko w komunikacie.",
@@ -65,13 +86,6 @@
       "title": "Skandal w Białym Domu. Urzędnicy zarabiali na informacjach o wojnie? Biały Dom przestrzegł pracowników, by nie wykorzystywali poufnych informacji do zawierania transakcji na rynkach finansowych i platformach bukmacherskich - podał Bloomberg w piątek. Ostrzeżenie wydano wkrótce po ujawnieniu przez media informacji o nietypowej fali zleceń zakupu i sprzedaży.",
       "content_html": "",
       "date_published": "2026-04-12T12:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
-      "url": "https://www.bankier.pl/wiadomosc/Okazja-w-amerykanskiej-technologii-Od-dawna-nie-bylo-tak-tanio-9112256.html",
-      "title": "O TYM MÓWI WALL STREET Okazja w amerykańskiej technologii? Od dawna nie było tak tanio Kruchy rozejm na Bliskim Wschodzie i wstrzymana żegluga w Cieśninie Ormuz wciąż stanowią zagrożenie, jednak eksperci do spraw inwestycji coraz głośniej mówią o otwierających się na rynku możliwościach.",
-      "content_html": "",
-      "date_published": "2026-04-11T12:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
