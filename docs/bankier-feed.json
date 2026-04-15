@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
+      "url": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
+      "title": "PGE miała w 2025 roku 3,5 mld zł straty netto j.d., zgodnie z szacunkami",
+      "content_html": "Grupa PGE miała w 2025 roku 3,5 mld zł skonsolidowanej straty netto j.d oraz ok. 12,89 mld zł powtarzalnej EBITDA - podała spółka w raporcie rocznym. Wyniki są zgodne z wcześniejszymi szacunkami spółki.",
+      "date_published": "2026-04-15T22:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-9114656.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-9114656.html",
+      "title": "Zaktualizowany budżet projektu Nowa Chemia w Orlenie wynosi 35,8 mld zł",
+      "content_html": "Rada nadzorcza Orlenu zaakceptowała zaktualizowany budżet projektu Nowa Chemia w wysokości 35,8 mld zł, w tym 4,6 mld zł kosztów finansowania - podał koncern w komunikacie.",
+      "date_published": "2026-04-15T21:58:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Starmer-Nie-ulegne-presji-Trumpa-nie-damy-sie-wciagnac-w-wojne-9114651.html",
       "url": "https://www.bankier.pl/wiadomosc/Starmer-Nie-ulegne-presji-Trumpa-nie-damy-sie-wciagnac-w-wojne-9114651.html",
       "title": "Starmer: Nie ulegnę presji Trumpa, nie damy się wciągnąć w wojnę",
@@ -282,6 +296,13 @@
       "title": "Porozumienie z resortem Siemoniaka? Prezydent zatwierdził awanse w ABW",
       "content_html": "Prezydent Karol Nawrocki 14 kwietnia podpisał 96 nominacji na pierwszy stopień oficerski dla funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego – poinformował w środę rano Rafał Leśkiewicz, rzecznik prezydenta.",
       "date_published": "2026-04-15T16:31:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Test-dla-Netanjahu-Czy-Izrael-zatrzyma-rosyjski-statek-z-ukrainskim-zbozem-9114412.html",
+      "url": "https://www.bankier.pl/wiadomosc/Test-dla-Netanjahu-Czy-Izrael-zatrzyma-rosyjski-statek-z-ukrainskim-zbozem-9114412.html",
+      "title": "Test dla Netanjahu. Czy Izrael zatrzyma rosyjski statek z ukraińskim zbożem?",
+      "content_html": "Władze Ukrainy protestują przeciwko przyjęciu w izraelskim porcie Hajfa rosyjskiego masowca, który według Kijowa przewozi skradzione na okupowanych terenach zboże. W sprawie interweniował m.in. szef ukraińskiej dyplomacji Andrij Sybiha. Izrael...",
+      "date_published": "2026-04-15T16:27:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/ING-Lease-Polska-zmienia-nazwe-na-ING-Leasing-9114409.html",
@@ -681,13 +702,6 @@
       "title": "Ceny ropy naftowej rosły, ale już spadają. USA i Iran aranżują kolejne rozmowy",
       "content_html": "Ceny ropy naftowej rosną w środę na globalnych rynkach paliw. USA i Iran zamierzają w najbliższych dniach zorganizować drugą rundę rozmów pokojowych, a tymczasem blokada Cieśniny Ormuz w dalszym ciągu utrudnia dostawy energii z Zatoki Perskiej...",
       "date_published": "2026-04-15T09:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-rzuca-Chinom-energetyczne-kolo-ratunkowe-Lawrow-w-Pekinie-obiecuje-bezwarunkowe-dostawy-9114098.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-rzuca-Chinom-energetyczne-kolo-ratunkowe-Lawrow-w-Pekinie-obiecuje-bezwarunkowe-dostawy-9114098.html",
-      "title": "Rosja rzuca Chinom energetyczne koło ratunkowe. Ławrow w Pekinie obiecuje bezwarunkowe dostawy",
-      "content_html": "Przebywający w Pekinie szef MSZ Rosji Siergiej Ławrow zadeklarował w środę podczas spotkania z przywódcą ChRL Xi Jinpingiem gotowość swego kraju do zaspokojenia chińskich potrzeb energetycznych – podała AFP. Niedobory te są skutkiem wojny...",
-      "date_published": "2026-04-15T09:43:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
