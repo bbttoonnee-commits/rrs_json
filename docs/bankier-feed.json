@@ -4,11 +4,60 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Port-Gdansk-karmi-Polske-20-miliardow-wkladu-do-PKB-i-armia-pracownikow-9114293.html",
+      "url": "https://www.bankier.pl/wiadomosc/Port-Gdansk-karmi-Polske-20-miliardow-wkladu-do-PKB-i-armia-pracownikow-9114293.html",
+      "title": "Port Gdańsk karmi Polskę. 20 miliardów wkładu do PKB i armia pracowników",
+      "content_html": "Port Gdańsk generuje rocznie 20,5 mld zł wkładu w polski PKB i wspiera utrzymanie około 84 tys. miejsc pracy w kraju – wynika z badania PwC Polska. Zgodnie z analizą z portem powiązanych jest ok. 700 firm.",
+      "date_published": "2026-04-15T14:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjska-ofensywa-pod-sciana-Ukraincy-odzyskuja-terytoria-9114290.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjska-ofensywa-pod-sciana-Ukraincy-odzyskuja-terytoria-9114290.html",
+      "title": "Rosyjska ofensywa pod ścianą? Ukraińcy odzyskują terytoria",
+      "content_html": "W marcu siły ukraińskie odzyskały kontrolę nad prawie 50 kilometrami kwadratowymi terytoriów okupowanych przez Rosję - poinformował w środę naczelny dowódca Sił Zbrojnych Ukrainy generał Ołeksandr Syrski. Dodał przy tym, że wojska rosyjskie...",
+      "date_published": "2026-04-15T14:19:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZWZ-Santander-Bank-Polska-powolalo-do-skladu-rady-nadzorczej-Katarzyne-Perez-9114282.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZWZ-Santander-Bank-Polska-powolalo-do-skladu-rady-nadzorczej-Katarzyne-Perez-9114282.html",
+      "title": "ZWZ Santander Bank Polska powołało do składu rady nadzorczej Katarzynę Perez",
+      "content_html": "ZWZ Santander Bank Polska powołało do składu rady nadzorczej banku Katarzynę Perez ze skutkiem od 15 kwietnia 2026 r. - podał bank w komunikacie.",
+      "date_published": "2026-04-15T13:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-I-kw-w-grupie-JSW-produkcja-wegla-ogolem-wyniosla-3-24-mln-ton-a-koksu-0-75-mln-ton-9114256.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-I-kw-w-grupie-JSW-produkcja-wegla-ogolem-wyniosla-3-24-mln-ton-a-koksu-0-75-mln-ton-9114256.html",
+      "title": "Produkcja koksu i węgla w I kwartale 2026 r. JSW pokazała najnowsze dane",
+      "content_html": "W I kw. 2026 r. w grupie JSW produkcja węgla ogółem wyniosła 3,24 mln ton, a koksu 0,75 mln ton - podało JSW w komunikacie. Z kolei sprzedaż węgla ogółem wyniosła w tym okresie ok. 2,94 mln ton i była niższa o ok. 2,1 proc. rdr.",
+      "date_published": "2026-04-15T13:53:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/I-ty-mozesz-nabyc-Rezerwy-zlota-NBP-Ruszyla-sprzedaz-nowych-monet-9114268.html",
+      "url": "https://www.bankier.pl/wiadomosc/I-ty-mozesz-nabyc-Rezerwy-zlota-NBP-Ruszyla-sprzedaz-nowych-monet-9114268.html",
+      "title": "I ty możesz nabyć „Rezerwy złota NBP”. Ruszyła sprzedaż nowych monet",
+      "content_html": "Emisja w ramach nowej serii „Niezależny bank centralny” jest wysoce niecodzienna. I nie tylko dlatego, że jej tematem są sławne już rezerwy złota NBP.",
+      "date_published": "2026-04-15T13:49:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Cenckiewicz-wygral-Chodzi-o-dostep-do-informacji-niejawnych-9114207.html",
       "url": "https://www.bankier.pl/wiadomosc/Cenckiewicz-wygral-Chodzi-o-dostep-do-informacji-niejawnych-9114207.html",
       "title": "Cenckiewicz wygrał. Chodzi o dostęp do informacji niejawnych",
       "content_html": "Naczelny Sąd Administracyjny oddalił w środę skargi kancelarii premiera od wyroków Wojewódzkiego Sądu Administracyjnego w Warszawie, w których WSA uchylił decyzję o cofnięciu obecnemu szefowi BBN Sławomirowi Cenckiewiczowi poświadczeń bezpieczeństwa...",
       "date_published": "2026-04-15T13:39:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-wysla-tysiace-dodatkowych-zolnierzy-na-Bliski-Wschod-9114261.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-wysla-tysiace-dodatkowych-zolnierzy-na-Bliski-Wschod-9114261.html",
+      "title": "USA wyślą tysiące dodatkowych żołnierzy na Bliski Wschód",
+      "content_html": "Stany Zjednoczone wyślą w najbliższych dniach tysiące dodatkowych żołnierzy na Bliski Wschód, by zwiększyć presję na Iran w celu nakłonienia go do porozumienia – napisał w środę dziennik „Washington Post”, powołując się na urzędników...",
+      "date_published": "2026-04-15T13:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/18-mld-zl-z-KPO-na-zdrowie-Onkologia-i-cyfryzacja-z-najwiekszym-wsparciem-9114250.html",
+      "url": "https://www.bankier.pl/wiadomosc/18-mld-zl-z-KPO-na-zdrowie-Onkologia-i-cyfryzacja-z-najwiekszym-wsparciem-9114250.html",
+      "title": "18 mld zł z KPO na zdrowie. Onkologia i cyfryzacja z największym wsparciem",
+      "content_html": "Ponad 18 mld zł z Krajowego Planu Odbudowy zasili ochronę zdrowia. Największe środki – 5,2 mld zł – przeznaczono na onkologię, 2,5 mld zł na kardiologię, a 4 mld zł na cyfryzację systemu ochrony zdrowia - poinformowała w środę wiceminister...",
+      "date_published": "2026-04-15T13:31:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Paliwo-tanieje-z-dnia-na-dzien-Oto-ceny-maksymalne-na-16-kwietnia-9114230.html",
@@ -142,6 +191,13 @@
       "title": "Kurs euro najniżej od początku marca. Dolar najtańszy od wybuchu wojny",
       "content_html": "Po raz pierwszy od sześciu tygodni kurs euro znalazł się poniżej 4,24 zł. Także dolar amerykański notowany jest najniżej od wybuchu wojny z Iranem.",
       "date_published": "2026-04-15T11:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bezos-sciga-sie-z-Muskiem-do-gwiazd-Amazon-przejmuje-Globalstar-za-11-6-mld-dolarow-9113981.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bezos-sciga-sie-z-Muskiem-do-gwiazd-Amazon-przejmuje-Globalstar-za-11-6-mld-dolarow-9113981.html",
+      "title": "Bezos ściga się z Muskiem do gwiazd. Amazon przejmuje Globalstar za 11,6 mld dolarów",
+      "content_html": "11,6 mld dolarów – tyle wyłoży Amazon, aby przejąć operatora satelitarnego Globalstar. Dzięki tej transakcji technologiczny gigant znacząco przyspieszy budowę własnej kosmicznej infrastruktury . To oznacza wkroczenie na terytorium, w którym...",
+      "date_published": "2026-04-15T11:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-rekomendacje-dla-Dadelo-do-trzymaj-9114146.html",
@@ -417,6 +473,13 @@
       "date_published": "2026-04-15T08:15:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Skutki-prezydenckiego-weta-i-braki-w-ORE-Reforma-Nowackiej-robiona-na-chybcika-9114014.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skutki-prezydenckiego-weta-i-braki-w-ORE-Reforma-Nowackiej-robiona-na-chybcika-9114014.html",
+      "title": "Skutki prezydenckiego weta i braki w ORE. Reforma Nowackiej robiona „na chybcika”?",
+      "content_html": "– Mamy szkolić ludzi z rzeczy, o których nie mamy pojęcia – mówi były pracownik Ośrodka Rozwoju Edukacji. Tak idzie wdrażanie reformy „Kompas Jutra\" Barbary Nowackiej – czytamy w środę w „Gazecie Wyborczej”.",
+      "date_published": "2026-04-15T08:03:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zelenski-Niemcy-pomagaja-nam-bardziej-niz-Amerykanie-9113988.html",
       "url": "https://www.bankier.pl/wiadomosc/Zelenski-Niemcy-pomagaja-nam-bardziej-niz-Amerykanie-9113988.html",
       "title": "Zełenski: Niemcy pomagają nam bardziej niż Amerykanie",
@@ -625,69 +688,6 @@
       "title": "Historyczne spotkanie w Waszyngtonie. Izrael i Liban przy jednym stole",
       "content_html": "Przedstawiciele Izraela i Libanu spotkali się we wtorek w stolicy USA na pierwszych od 1993 r. bezpośrednich rozmowach. Rząd w Bejrucie chce rozejmu w walkach Izraela z libańskim Hezbollahem. Izrael chce, by ta wspierana przez Iran grupa złożyła...",
       "date_published": "2026-04-14T21:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Swieza-zywnosc-prosto-od-rolnika-Resort-rolnictwa-tnie-biurokracje-9113915.html",
-      "url": "https://www.bankier.pl/wiadomosc/Swieza-zywnosc-prosto-od-rolnika-Resort-rolnictwa-tnie-biurokracje-9113915.html",
-      "title": "Świeża żywność prosto od rolnika. Resort rolnictwa tnie biurokrację",
-      "content_html": "Projekt rozporządzenia dotyczący m.in. upraszczania procedur rejestracji i zniesienia ograniczeń terytorialnych dla rolników sprzedających produkty klientom bezpośrednio czy też detalicznie, ma trafić do konsultacji przed wakacjami - poinformował...",
-      "date_published": "2026-04-14T21:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-i-kraje-UE-dostana-wiecej-Parlament-Europejski-licytuje-wyzej-9113917.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-i-kraje-UE-dostana-wiecej-Parlament-Europejski-licytuje-wyzej-9113917.html",
-      "title": "Polska i kraje UE dostaną więcej? Parlament Europejski licytuje wyżej",
-      "content_html": "W nowym budżecie UE zaproponujemy m.in. zwiększenie kwot dla rolników – powiedział we wtorek w Brukseli rumuński europoseł Siegfried Muresan, sprawozdawca europarlamentu ds. budżetu. Polityk zapowiedział, że PE będzie chciał zwiększenia...",
-      "date_published": "2026-04-14T21:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gra-o-atom-i-ciesnine-Ormuz-Trump-o-rozmowach-z-Iranem-Dzieja-sie-rzeczy-9113866.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gra-o-atom-i-ciesnine-Ormuz-Trump-o-rozmowach-z-Iranem-Dzieja-sie-rzeczy-9113866.html",
-      "title": "Gra o atom i cieśninę Ormuz. Trump o rozmowach z Iranem: Dzieją się rzeczy",
-      "content_html": "Prezydent Donald Trump powiedział dziennikowi „New York Post”, że w ciągu najbliższych dwóch dni może dojść do kolejnych rozmów z Iranem w Pakistanie. Nieco wcześniej w rozmowie z tą samą gazetą wykluczał, by miejscem negocjacji mógł...",
-      "date_published": "2026-04-14T21:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Marszalek-Sejmu-chce-ukarania-Berkowicza-Posel-pokazal-flage-Izraela-ze-swastyka-9113780.html",
-      "url": "https://www.bankier.pl/wiadomosc/Marszalek-Sejmu-chce-ukarania-Berkowicza-Posel-pokazal-flage-Izraela-ze-swastyka-9113780.html",
-      "title": "Marszałek Sejmu chce ukarania Berkowicza. Poseł pokazał flagę Izraela ze swastyką",
-      "content_html": "Poseł Konfederacji Konrad Berkowicz, przemawiając we wtorek z mównicy sejmowej, pokazał wydruk przerobionej flagi Izraela ze swastyką w miejscu gwiazdy Dawida. Kancelaria Sejmu przekazała PAP, że w tej sprawie „na pewno marszałek Sejmu podejmie...",
-      "date_published": "2026-04-14T20:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Berlin-zbroi-Kijow-Niemiecki-pakiet-za-4-mld-euro-wzmocni-ukrainskie-niebo-9113725.html",
-      "url": "https://www.bankier.pl/wiadomosc/Berlin-zbroi-Kijow-Niemiecki-pakiet-za-4-mld-euro-wzmocni-ukrainskie-niebo-9113725.html",
-      "title": "Berlin zbroi Kijów. Niemiecki pakiet za 4 mld euro wzmocni ukraińskie niebo",
-      "content_html": "Nowy, obszerny pakiet współpracy między Ukrainą a Niemcami o wartości 4 mld euro przewiduje zakup pocisków do systemów rakietowych Patriot, a także wspólną produkcję dronów – poinformował we wtorek ukraiński minister obrony Mychajło Fedorow...",
-      "date_published": "2026-04-14T20:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-buduje-Wojska-Medyczne-Rzad-zatwierdzil-odtworzenie-legendarnej-lodzkiej-uczelni-9113707.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-buduje-Wojska-Medyczne-Rzad-zatwierdzil-odtworzenie-legendarnej-lodzkiej-uczelni-9113707.html",
-      "title": "Polska buduje Wojska Medyczne. Rząd zatwierdził odtworzenie legendarnej łódzkiej uczelni",
-      "content_html": "Rząd przyjął projekt ustawy o utworzeniu Wojskowej Akademii Medycznej w Łodzi - poinformował wicepremier, szef MON Władysław Kosiniak-Kamysz. Łódzka WAM będzie reaktywowana od 1 lipca br., studenci mają rozpocząć naukę najpóźniej w roku...",
-      "date_published": "2026-04-14T20:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyfrowe-zdrowie-2-0-Rzad-przyjal-kluczowe-zmiany-dla-pacjentow-9113644.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyfrowe-zdrowie-2-0-Rzad-przyjal-kluczowe-zmiany-dla-pacjentow-9113644.html",
-      "title": "Cyfrowe zdrowie 2.0. Rząd przyjął kluczowe zmiany dla pacjentów",
-      "content_html": "Rząd przyjął we wtorek projekt nowelizacji ustaw związanych z rozwojem usług e-zdrowia. Wicepremier Władysław Kosiniak-Kamysz ocenił, że to przełomowe zmiany i dzięki nim Polska będzie najlepiej zorganizowanym krajem w UE pod kątem cyfryzacji...",
-      "date_published": "2026-04-14T20:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-niekorzystnego-scenariusza-MFW-ostrzega-przed-skutkami-konfliktu-9113836.html",
-      "url": "https://www.bankier.pl/wiadomosc/Swiat-na-krawedzi-niekorzystnego-scenariusza-MFW-ostrzega-przed-skutkami-konfliktu-9113836.html",
-      "title": "Świat na krawędzi „niekorzystnego scenariusza”. MFW ostrzega przed skutkami konfliktu",
-      "content_html": "Każdy dzień bez rozwiązania konfliktu z Iranem przyczynia się do niższego globalnego wzrostu gospodarczego i wyższej inflacji - powiedział we wtorek główny ekonomista Międzynarodowego Funduszu Walutowego (MFW) Pierre-Olivier Gourinchas. Ocenił...",
-      "date_published": "2026-04-14T20:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Upiekl-szczenie-Szokujace-slowa-prezesa-PiS-o-nowym-premierze-Wegier-KO-zada-kary-9113827.html",
-      "url": "https://www.bankier.pl/wiadomosc/Upiekl-szczenie-Szokujace-slowa-prezesa-PiS-o-nowym-premierze-Wegier-KO-zada-kary-9113827.html",
-      "title": "\"Upiekł szczenię\". Szokujące słowa prezesa PiS o nowym premierze Węgier. KO żąda kary",
-      "content_html": "Europoseł KO Krzysztof Brejza zwrócił się do sejmowej komisji etyki z wnioskiem o ukaranie prezesa PiS, posła Jarosława Kaczyńskiego za jego słowa o „upieczeniu szczeniaka” przez lidera węgierskiej partii TISZA Petera Magyara.",
-      "date_published": "2026-04-14T20:28:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

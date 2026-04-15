@@ -4,11 +4,39 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-zakonczyla-testy-na-utrate-wartosci-aktywow-trwalych-w-segmencie-wegiel-9114321.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-zakonczyla-testy-na-utrate-wartosci-aktywow-trwalych-w-segmencie-wegiel-9114321.html",
+      "title": "JSW zakończyła testy na utratę wartości aktywów trwałych w segmencie węgiel JSW zakończyła testy na utratę wartości aktywów trwałych. Testy wykazały utratę wartości w segmentach Węgiel i Koks na łączną kwotę ok. 2.351,5 mln zł. Spółka rozwiąże jednocześnie odpisy w segmencie Węgiel na łączną kwotę 301,5 mln zł - poinformowała grupa w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-15T13:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Elektrotim-widzi-ozywienie-w-przetargach-ale-tez-duza-konkurencje-i-presje-kosztowa-9114307.html",
+      "url": "https://www.bankier.pl/wiadomosc/Elektrotim-widzi-ozywienie-w-przetargach-ale-tez-duza-konkurencje-i-presje-kosztowa-9114307.html",
+      "title": "Elektrotim widzi ożywienie w przetargach, ale też dużą konkurencję i presję Elektrotim widzi ożywienie w przetargach, ale jednocześnie dużą konkurencję oraz presję kosztową. Spółka ocenia, że w swoim backlogu nie ma kontraktów z niską marżą - poinformowali przedstawiciele zarządu. W ich ocenie, przy niewielkich zmianach, Elektrotim będzie w stanie zrealizować cel 1 mld zł przychodów rocznie.",
+      "content_html": "",
+      "date_published": "2026-04-15T13:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZWZ-Santander-Bank-Polska-powolalo-do-skladu-rady-nadzorczej-Katarzyne-Perez-9114282.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZWZ-Santander-Bank-Polska-powolalo-do-skladu-rady-nadzorczej-Katarzyne-Perez-9114282.html",
+      "title": "ZWZ Santander Bank Polska powołało do składu rady nadzorczej Katarzynę Perez ZWZ Santander Bank Polska powołało do składu rady nadzorczej banku Katarzynę Perez ze skutkiem od 15 kwietnia 2026 r. - podał bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-15T12:58:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-I-kw-w-grupie-JSW-produkcja-wegla-ogolem-wyniosla-3-24-mln-ton-a-koksu-0-75-mln-ton-9114256.html",
       "url": "https://www.bankier.pl/wiadomosc/W-I-kw-w-grupie-JSW-produkcja-wegla-ogolem-wyniosla-3-24-mln-ton-a-koksu-0-75-mln-ton-9114256.html",
-      "title": "W I kw. w grupie JSW produkcja węgla ogółem wyniosła 3,24 mln ton, a koksu 0,75 mln ton W I kw. 2026 r. w grupie JSW produkcja węgla ogółem wyniosła 3,24 mln ton, a koksu 0,75 mln ton - podało JSW w komunikacie. Z kolei sprzedaż węgla ogółem wyniosła w tym okresie ok. 2,94 mln ton i była niższa o ok. 2,1 proc. rdr.",
+      "title": "Produkcja koksu i węgla w I kwartale 2026 r. JSW pokazała najnowsze dane W I kw. 2026 r. w grupie JSW produkcja węgla ogółem wyniosła 3,24 mln ton, a koksu 0,75 mln ton - podało JSW w komunikacie. Z kolei sprzedaż węgla ogółem wyniosła w tym okresie ok. 2,94 mln ton i była niższa o ok. 2,1 proc. rdr.",
       "content_html": "",
-      "date_published": "2026-04-15T12:34:00+02:00"
+      "date_published": "2026-04-15T12:53:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/I-ty-mozesz-nabyc-Rezerwy-zlota-NBP-Ruszyla-sprzedaz-nowych-monet-9114268.html",
+      "url": "https://www.bankier.pl/wiadomosc/I-ty-mozesz-nabyc-Rezerwy-zlota-NBP-Ruszyla-sprzedaz-nowych-monet-9114268.html",
+      "title": "I ty możesz nabyć „Rezerwy złota NBP”. Ruszyła sprzedaż nowych monet Emisja w ramach nowej serii „Niezależny bank centralny” jest wysoce niecodzienna. I nie tylko dlatego, że jej tematem są sławne już rezerwy złota NBP.",
+      "content_html": "",
+      "date_published": "2026-04-15T12:49:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-wyplaci-49-98-zl-dywidendy-na-akcje-9114238.html",
@@ -569,13 +597,6 @@
       "title": "Forint i BUX świętują koniec władzy Orbana. Historyczne rekordy na giełdzie, waluta najsilniejsza od lat Porażka Viktora Orbána odbiła się na węgierskich rynkach finansowych. Inwestorzy z entuzjazmem przyjęli zwycięstwo opozycji, licząc na szybkie odblokowanie miliardów euro z funduszy unijnych oraz powrót do proeuropejskiego kursu. Podczas gdy na europejskich parkietach dominowała czerwień, budapeszteński parkiet świętował historyczne rekordy, a forint stał się najsilniejszy od lat.",
       "content_html": "",
       "date_published": "2026-04-13T14:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pharmena-ma-umowe-na-przeprowadzenie-badan-stabilnosci-przyszlego-wyrobu-medycznego-9112946.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pharmena-ma-umowe-na-przeprowadzenie-badan-stabilnosci-przyszlego-wyrobu-medycznego-9112946.html",
-      "title": "Polska innowacja w leczeniu ran. Pharmena na ostatniej prostej przed debiutem rynkowym Pharmena ma umowę z specjalistycznym podmiotem na przeprowadzenie badań stabilności przyszłego wyrobu medycznego do stosowania w trudno gojących się ranach - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-13T12:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
