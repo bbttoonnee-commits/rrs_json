@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-opis-9114685.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-opis-9114685.html",
+      "title": "Zaktualizowany budżet projektu Nowa Chemia w Orlenie wynosi 35,8 mld zł (opis)",
+      "content_html": "Rada nadzorcza Orlenu zaakceptowała zaktualizowany budżet projektu Nowa Chemia w wysokości 35,8 mld zł, w tym 4,6 mld zł kosztów finansowania - podał koncern w komunikacie. Jak podano, oznacza to redukcję kosztu o 16 mld zł w porównaniu z pierwotnym...",
+      "date_published": "2026-04-15T23:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
       "title": "PGE miała w 2025 roku 3,5 mld zł straty netto j.d., zgodnie z szacunkami",
@@ -695,13 +702,6 @@
       "title": "Inwestor kupuje akcje mimo niepokoju? \"Teraz jest dobry moment\"",
       "content_html": "Podczas gdy większość globalnych graczy rynkowych wstrzymuje oddech, niektórzy widzą w obecnym chaosie szansę. Choć najnowsze ankiety wskazują na skrajną ostrożność, duńscy stratedzy zaczynają grać va banque, stawiając na szybkie odbicie...",
       "date_published": "2026-04-15T10:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-naftowej-rosna-USA-i-Iran-aranzuja-kolejne-rozmowy-9114070.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-naftowej-rosna-USA-i-Iran-aranzuja-kolejne-rozmowy-9114070.html",
-      "title": "Ceny ropy naftowej rosły, ale już spadają. USA i Iran aranżują kolejne rozmowy",
-      "content_html": "Ceny ropy naftowej rosną w środę na globalnych rynkach paliw. USA i Iran zamierzają w najbliższych dniach zorganizować drugą rundę rozmów pokojowych, a tymczasem blokada Cieśniny Ormuz w dalszym ciągu utrudnia dostawy energii z Zatoki Perskiej...",
-      "date_published": "2026-04-15T09:52:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

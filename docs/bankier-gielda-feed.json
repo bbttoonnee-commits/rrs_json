@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-opis-9114685.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaktualizowany-budzet-projektu-Nowa-Chemia-w-Orlenie-wynosi-35-8-mld-zl-opis-9114685.html",
+      "title": "Zaktualizowany budżet projektu Nowa Chemia w Orlenie wynosi 35,8 mld zł (opis) Rada nadzorcza Orlenu zaakceptowała zaktualizowany budżet projektu Nowa Chemia w wysokości 35,8 mld zł, w tym 4,6 mld zł kosztów finansowania - podał koncern w komunikacie. Jak podano, oznacza to redukcję kosztu o 16 mld zł w porównaniu z pierwotnym wariantem projektu.",
+      "content_html": "",
+      "date_published": "2026-04-15T22:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-miala-w-2025-roku-3-5-mld-zl-straty-netto-j-d-zgodnie-z-szacunkami-9114666.html",
       "title": "PGE miała w 2025 roku 3,5 mld zł straty netto j.d., zgodnie z szacunkami Grupa PGE miała w 2025 roku 3,5 mld zł skonsolidowanej straty netto j.d oraz ok. 12,89 mld zł powtarzalnej EBITDA - podała spółka w raporcie rocznym. Wyniki są zgodne z wcześniejszymi szacunkami spółki.",
@@ -618,13 +625,6 @@
       "title": "Grupa Murapol w I kw. sprzedała łącznie 953 lokale do klientów detalicznych, o 8 proc. więcej rdr Grupa Murapol w I kw. 2026 roku sprzedała łącznie 953 lokale do klientów detalicznych, czyli o 8 proc. więcej rdr - poinformowała spółka w komunikacie prasowym. Spółka posiadała ponad 3,8 tys. lokali w ofercie na koniec pierwszego kwartału.",
       "content_html": "",
       "date_published": "2026-04-14T07:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-straszy-ale-Wall-Street-pnie-sie-w-gore-Spolki-informatyczne-odrabiaja-straty-9113286.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-straszy-ale-Wall-Street-pnie-sie-w-gore-Spolki-informatyczne-odrabiaja-straty-9113286.html",
-      "title": "Trump straszy, ale Wall Street pnie się w górę. Spółki informatyczne odrabiają straty Inwestorzy najwyraźniej zlekceważyli nowe groźby prezydenta Trumpa i uznali, że kolejne TACO jest już w drodze. Ton zwyżkom nadawał mocno ostatnio przeceniony sektor IT.",
-      "content_html": "",
-      "date_published": "2026-04-13T22:25:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
