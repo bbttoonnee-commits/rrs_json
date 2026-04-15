@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-I-kw-w-grupie-JSW-produkcja-wegla-ogolem-wyniosla-3-24-mln-ton-a-koksu-0-75-mln-ton-9114256.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-I-kw-w-grupie-JSW-produkcja-wegla-ogolem-wyniosla-3-24-mln-ton-a-koksu-0-75-mln-ton-9114256.html",
+      "title": "W I kw. w grupie JSW produkcja węgla ogółem wyniosła 3,24 mln ton, a koksu 0,75 mln ton W I kw. 2026 r. w grupie JSW produkcja węgla ogółem wyniosła 3,24 mln ton, a koksu 0,75 mln ton - podało JSW w komunikacie. Z kolei sprzedaż węgla ogółem wyniosła w tym okresie ok. 2,94 mln ton i była niższa o ok. 2,1 proc. rdr.",
+      "content_html": "",
+      "date_published": "2026-04-15T12:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-wyplaci-49-98-zl-dywidendy-na-akcje-9114238.html",
+      "url": "https://www.bankier.pl/wiadomosc/Santander-Bank-Polska-wyplaci-49-98-zl-dywidendy-na-akcje-9114238.html",
+      "title": "Santander Bank Polska wypłaci 49,98 zł dywidendy na akcję Santander Bank Polska wypłaci 49,98 zł dywidendy na akcję z zysku za '25 oraz z części zysków osiągniętych w latach ubiegłych - podał bank komunikacie. Całkowita kwota przeznaczona na dywidendę wynosi 5.107,4 mln zł.",
+      "content_html": "",
+      "date_published": "2026-04-15T12:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Syn2bio-zaklada-zakonczenie-w-ciagu-kilkunastu-miesiecy-badania-III-fazy-kardioznacznika-w-Europie-9114233.html",
+      "url": "https://www.bankier.pl/wiadomosc/Syn2bio-zaklada-zakonczenie-w-ciagu-kilkunastu-miesiecy-badania-III-fazy-kardioznacznika-w-Europie-9114233.html",
+      "title": "Syn2bio zakłada zakończenie w ciągu kilkunastu miesięcy badania III fazy kardioznacznika w Europie Spółka Syn2bio, która zadebiutowała w środę na GPW, zakłada, że wkrótce rozpocznie się badanie III fazy kardioznacznika w Stanach Zjednoczonych. Badanie w Europie powinno zakończyć się w ciągu kilkunastu miesięcy - poinformował prezes Syn2bio Cezary Kozanecki. Spółka chce również w przyszłości pracować nad rozwojem kolejnych produktów.",
+      "content_html": "",
+      "date_published": "2026-04-15T12:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sniezka-ma-przestrzen-do-finansowania-kolejnych-akwizycji-ale-nie-prowadzi-rozmow-o-M-A-9114175.html",
       "url": "https://www.bankier.pl/wiadomosc/Sniezka-ma-przestrzen-do-finansowania-kolejnych-akwizycji-ale-nie-prowadzi-rozmow-o-M-A-9114175.html",
       "title": "Śnieżka ma przestrzeń do finansowania kolejnych akwizycji, ale nie prowadzi rozmów o MA Śnieżka uzyskała zwrot z inwestycji w węgierską spółkę Poli-Farbe po niecałych pięciu latach i po obniżeniu długu w relacji do EBITDA do docelowego poziomu ma potencjał do kolejnych akwizycji, niemniej jednak nie prowadzi obecnie żadnych rozmów - poinformował prezes Piotr Mikrut.",
@@ -555,13 +576,6 @@
       "title": "Polska innowacja w leczeniu ran. Pharmena na ostatniej prostej przed debiutem rynkowym Pharmena ma umowę z specjalistycznym podmiotem na przeprowadzenie badań stabilności przyszłego wyrobu medycznego do stosowania w trudno gojących się ranach - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-13T12:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niemcy-tna-podatki-na-stacjach-Tyle-mniej-za-litr-przez-dwa-miesiace-9112903.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemcy-tna-podatki-na-stacjach-Tyle-mniej-za-litr-przez-dwa-miesiace-9112903.html",
-      "title": "Niemcy tną podatki na stacjach. Tyle mniej za litr przez dwa miesiące Niemiecka koalicja rządowa ogłosiła w poniedziałek plan obniżenia podatku od paliw o 17 eurocentów za litr. Celem koalicji rządzącej CDU i SPD jest odciążenie kierowców zmagających się ze wzrostem cen. Nadzwyczajne rozwiązanie ma obowiązywać przez dwa miesiące.",
-      "content_html": "",
-      "date_published": "2026-04-13T11:52:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
