@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/XTPL-podpisal-z-NCBiR-umowe-na-10-1-mln-zl-dofinansowania-projektu-9115957.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTPL-podpisal-z-NCBiR-umowe-na-10-1-mln-zl-dofinansowania-projektu-9115957.html",
+      "title": "XTPL podpisał z NCBiR umowę na 10,1 mln zł dofinansowania projektu",
+      "content_html": "XTPL podpisał z NCBiR umowę o dofinansowanie projektu w ramach konkursu FENG - podała spółka w komunikacie. Wartość projektu to 18,29 mln zł, a rekomendowana wartość dofinansowania 10,1 mln zł.",
+      "date_published": "2026-04-17T20:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UniCredit-wyemitowal-obligacje-o-wartosci-400-mln-GBP-9115954.html",
+      "url": "https://www.bankier.pl/wiadomosc/UniCredit-wyemitowal-obligacje-o-wartosci-400-mln-GBP-9115954.html",
+      "title": "UniCredit wyemitował obligacje o wartości 400 mln GBP",
+      "content_html": "Włoski bank UniCredit wyemitował skierowane do inwestorów instytucjonalnych obligacje o wartości 400 mln GBP, z terminem wykupu w październiku 2031 r. - poinformował UniCredit w komunikacie.",
+      "date_published": "2026-04-17T20:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cognor-wzywa-Danieli-Automation-do-zawarcia-ugody-i-chce-odszkodowania-9115947.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cognor-wzywa-Danieli-Automation-do-zawarcia-ugody-i-chce-odszkodowania-9115947.html",
+      "title": "Cognor wzywa Danieli Automation do zawarcia ugody i chce odszkodowania",
+      "content_html": "Spółka zależna Cognor Holding wzywa spółkę Danieli Automation do próby ugodowej, w której Danieli miałby zobowiązać się do zapłaty na rzecz Cognor 28,58 mln zł - podał Cognor w komunikacie. Cognor dochodzi od Danieli odszkodowania za szkody...",
+      "date_published": "2026-04-17T20:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Huta-Czestochowa-w-rekach-panstwa-Agencja-Mienia-Wojskowego-przejmuje-udzialy-Co-z-produkcja-9115813.html",
+      "url": "https://www.bankier.pl/wiadomosc/Huta-Czestochowa-w-rekach-panstwa-Agencja-Mienia-Wojskowego-przejmuje-udzialy-Co-z-produkcja-9115813.html",
+      "title": "Huta Częstochowa w rękach państwa. Agencja Mienia Wojskowego przejmuje udziały. Co z produkcją?",
+      "content_html": "Do Urzędu Ochrony Konkurencji i Konsumentów wpłynął wniosek ws. utworzenia wspólnego przedsiębiorstwa na bazie Huty Częstochowa przez Węglokoks i Agencja Mienia Wojskowego - poinformowano na stronie UOKiK.",
+      "date_published": "2026-04-17T20:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ormuz-otwarty-ale-tylko-na-chwile-Iran-przepuszcza-statki-przez-ciesnine-9115770.html",
       "url": "https://www.bankier.pl/wiadomosc/Ormuz-otwarty-ale-tylko-na-chwile-Iran-przepuszcza-statki-przez-ciesnine-9115770.html",
       "title": "Dogadali się? Ormuz otwarty. Iran przepuszcza statki przez cieśninę, ropa tanieje",
@@ -23,6 +51,27 @@
       "title": "Jeszcze akcje czy już obligacje? Co włożyć do portfela?",
       "content_html": "Globalne rynki akcji regularnie biją historyczne rekordy, a polska gospodarka z prognozowanym wzrostem PKB blisko 4% wyrasta na jednego z liderów Unii Europejskiej . Czy za obecnymi wzrostami stoją jeszcze twarde fundamenty, czy to już tylko emocje...",
       "date_published": "2026-04-17T19:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zabraknie-paliwa-do-samolotow-KE-reaguje-na-czarny-scenariusz-9115904.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zabraknie-paliwa-do-samolotow-KE-reaguje-na-czarny-scenariusz-9115904.html",
+      "title": "Zabraknie paliwa do samolotów? KE reaguje na czarny scenariusz",
+      "content_html": "Nic nie wskazuje na systemowe braki paliwa, które mogłyby doprowadzić do masowego odwoływania lotów - oświadczyła w piątek rzeczniczka Komisji Europejskiej Anna-Kaisa Itkonen. Niektóre linie zapowiedziały odwołanie części lotów, ale w ocenie...",
+      "date_published": "2026-04-17T19:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/50-panstw-powola-misje-wspierajaca-zegluge-w-ciesninie-Ormuz-9115929.html",
+      "url": "https://www.bankier.pl/wiadomosc/50-panstw-powola-misje-wspierajaca-zegluge-w-ciesninie-Ormuz-9115929.html",
+      "title": "50 państw powoła misję wspierającą żeglugę w cieśninie Ormuz",
+      "content_html": "Przedstawiciele ok. 50 państw, w tym przywódcy Francji, Wielkiej Brytanii, Niemiec i Włoch, rozmawiali w piątek w Paryżu o powołaniu wielostronnej misji, która miałaby zapewnić swobodę żeglugi w cieśninie Ormuz. Polskę reprezentował wicepremier...",
+      "date_published": "2026-04-17T19:29:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zapewnia-dostawy-paliwa-lotniczego-do-klientow-zgodnie-z-umowami-9115887.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zapewnia-dostawy-paliwa-lotniczego-do-klientow-zgodnie-z-umowami-9115887.html",
+      "title": "Orlen zapewnia: dostawy paliwa lotniczego do klientów - zgodnie z umowami",
+      "content_html": "Orlen realizuje dostawy paliwa lotniczego do klientów zgodnie z umowami - poinformował PAP w piątek koncern. Zaznaczył, że obecnie nie widzi ryzyk dla ciągłości zaopatrzenia w tym obszarze. Podkreślił, że dostawy paliwa lotniczego przebiegają...",
+      "date_published": "2026-04-17T19:12:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bio-Planet-chce-wyplacic-0-63-zl-dywidendy-na-akcje-za-2025-rok-9115916.html",
@@ -93,13 +142,6 @@
       "title": "Bunt pokolenia Z obalił rząd. Bułgaria przed historycznym wyborem",
       "content_html": "Masowe demonstracje z końca 2025 r. w Bułgarii, określane protestami pokolenia Z ze względu na wiek znacznej części uczestników, doprowadziły do upadku rządu Rosena Żelazkowa i rozpisania wyborów. Przed głosowaniem w niedzielę młodzi Sofijczycy...",
       "date_published": "2026-04-17T17:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kompromitacja-unijnej-aplikacji-Zhakowana-w-dwie-minuty-tuz-po-premierze-9115809.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kompromitacja-unijnej-aplikacji-Zhakowana-w-dwie-minuty-tuz-po-premierze-9115809.html",
-      "title": "Kompromitacja unijnej aplikacji? Zhakowana w dwie minuty tuż po premierze",
-      "content_html": "Rzecznik Komisji Europejskiej Thomas Regnier zapewnił w piątek w Brukseli, że opulbikowana w środę wersja unijnej aplikacji do weryfikacji wieku internautów to jedynie wersja demonstracyjna, która będzie jeszcze ulepszana. To reakcja KE na doniesienia...",
-      "date_published": "2026-04-17T17:43:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zurek-ws-Zondacrypto-prokuratura-wszczela-postepowanie-karne-ws-oszustwa-i-prania-pieniedzy-9115720.html",
@@ -410,6 +452,20 @@
       "date_published": "2026-04-17T12:33:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-Zodnacrypto-wraca-do-przeszlosci-i-mowi-ze-zostawil-w-niej-miliard-zlotych-9115415.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-Zodnacrypto-wraca-do-przeszlosci-i-mowi-ze-zostawil-w-niej-miliard-zlotych-9115415.html",
+      "title": "Prezes Zondacrypto wraca do przeszłości i mówi, że zostawił w niej miliard złotych",
+      "content_html": "Zondacrypto posiada 4500 BTC, ale tak naprawdę ich nie ma, a odzyskanie tych środków (wartych przeszło miliard złotych) zależy od odnalezienia człowieka, który zaginął 4 lata temu - mniej więcej to powiedział w czwartek prezes giełdy Przemysław...",
+      "date_published": "2026-04-17T12:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-wdraza-pierwsze-produkty-na-rynku-i-pracuje-nad-kolejnymi-rozwiazaniami-wywiad-9115556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-wdraza-pierwsze-produkty-na-rynku-i-pracuje-nad-kolejnymi-rozwiazaniami-wywiad-9115556.html",
+      "title": "Koniec ery klasycznych hakerów? Creotech Quantum wdraża systemy bezpiecznej komunikacji",
+      "content_html": "Creotech Quantum wdraża pierwsze produkty na rynku i pracuje nad kolejnymi rozwiązaniami - poinformowała PAP Biznes prezeska spółki, Anna Kamińska. Creotech Quantum zadebiutował w piątek na rynku głównym GPW.",
+      "date_published": "2026-04-17T12:22:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Schron-dla-kazdego-Sejm-przyjal-reforme-Obrony-Cywilnej-9115551.html",
       "url": "https://www.bankier.pl/wiadomosc/Schron-dla-kazdego-Sejm-przyjal-reforme-Obrony-Cywilnej-9115551.html",
       "title": "Schron dla każdego? Sejm przyjął reformę Obrony Cywilnej",
@@ -639,41 +695,6 @@
       "title": "Koniec chaosu w regulaminach? Nawrocki podpisał nowelizację ustawy o mandacie posła",
       "content_html": "Prezydent Karol Nawrocki podpisał w czwartek nowelizację ustawy o wykonywaniu mandatu posła i senatora - podała kancelaria prezydenta. Zmiana ma na celu oddzielenie regulacji dotyczących tworzenia klubów i kół od zespołów poselskich, senackich...",
       "date_published": "2026-04-17T08:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-atomowego-snu-Teheranu-Trump-Zgodzili-sie-na-prawie-wszystko-9115320.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-atomowego-snu-Teheranu-Trump-Zgodzili-sie-na-prawie-wszystko-9115320.html",
-      "title": "Koniec atomowego snu Teheranu? Trump: Zgodzili się na prawie wszystko",
-      "content_html": "Iran zgodził się na prawie wszystko, w tym na oddanie nuklearnego materiału, a następna runda rozmów może odbyć się już w nadchodzący weekend - powiedział w czwartek prezydent USA Donald Trump. Ocenił też, że może sam polecieć do Pakistanu...",
-      "date_published": "2026-04-17T08:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-walk-w-Libanie-jeszcze-dzisiaj-Donald-Trump-oglasza-sukces-9115239.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-walk-w-Libanie-jeszcze-dzisiaj-Donald-Trump-oglasza-sukces-9115239.html",
-      "title": "Koniec walk w Libanie jeszcze dzisiaj. Donald Trump ogłasza sukces",
-      "content_html": "Prezydent USA Donald Trump ogłosił w czwartek, że rozmawiał z prezydentem Libanu Josephem Aounem i premierem Izraela Benjaminem Netanjahu i że obaj przywódcy zgodzili się na 10-dniowe zawieszenie broni. Walki mają być przerwane o godz. 17 czasu...",
-      "date_published": "2026-04-17T08:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Quercus-TFI-w-I-kw-26-wyniosl-16-mln-zl-wzrosl-76-proc-rdr-9115408.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Quercus-TFI-w-I-kw-26-wyniosl-16-mln-zl-wzrosl-76-proc-rdr-9115408.html",
-      "title": "Inwestorzy uciekali w marcu, ale Quercus i tak liczy miliony. Rekordowy I kwartał",
-      "content_html": "Quercus TFI w pierwszym kwartale 2026 roku miał 16 mln zł skonsolidowanego zysku przypadajacego akcjonariuszom jednostki dominującej, w porównaniu do 9,1 mln zł rok wcześniej - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-17T08:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-zaprosil-Polske-Domanski-Mamy-miejsce-przy-najwazniejszym-stole-9115307.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-zaprosil-Polske-Domanski-Mamy-miejsce-przy-najwazniejszym-stole-9115307.html",
-      "title": "Trump zaprosił Polskę. Domański: Mamy miejsce przy najważniejszym stole",
-      "content_html": "Dzięki zaproszeniu do G20 Polska zasiada przy najważniejszym stole decyzyjnym światowej gospodarki - oświadczył w czwartek minister finansów i gospodarki RP Andrzej Domański. Zaznaczył, że szybkie zakończenie konfliktu na Bliskim Wschodzie jest...",
-      "date_published": "2026-04-17T08:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Autostrady-zamiast-czolgow-Babisz-negocjuje-z-NATO-wydatki-na-zbrojenia-9115300.html",
-      "url": "https://www.bankier.pl/wiadomosc/Autostrady-zamiast-czolgow-Babisz-negocjuje-z-NATO-wydatki-na-zbrojenia-9115300.html",
-      "title": "Autostrady zamiast czołgów? Babisz negocjuje z NATO wydatki na zbrojenia",
-      "content_html": "Premier Czech Andrej Babisz powiedział w czwartek, że dla jego rządu zobowiązania wobec Sojuszu Północnoatlantyckiego są „niezwykle istotne i priorytetowe”. Babisz spotkał się w Pradze z sekretarzem generalnym NATO Markiem Ruttem.",
-      "date_published": "2026-04-17T07:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
