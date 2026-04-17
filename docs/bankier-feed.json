@@ -11,6 +11,13 @@
       "date_published": "2026-04-18T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-zostala-otwarta-Ropa-mocno-w-dol-Wall-Street-wybija-szczyty-9116005.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-zostala-otwarta-Ropa-mocno-w-dol-Wall-Street-wybija-szczyty-9116005.html",
+      "title": "Cieśnina Ormuz została otwarta? Ropa mocno w dół, Wall Street wybija szczyty",
+      "content_html": "Doniesienia o otwarciu Cieśniny Ormuz doprowadziły do ostrego spadku cen ropy naftowej i wybuchu entuzjazmu na Wall Street.",
+      "date_published": "2026-04-17T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Cena-ropy-zakladnikiem-Iranu-Szantaz-w-ciesninie-Ormuz-Bedzie-kolejna-blokada-9115944.html",
       "url": "https://www.bankier.pl/wiadomosc/Cena-ropy-zakladnikiem-Iranu-Szantaz-w-ciesninie-Ormuz-Bedzie-kolejna-blokada-9115944.html",
       "title": "Cena ropy zakładnikiem Iranu. Szantaż w cieśninie Ormuz: „Będzie kolejna blokada”",
@@ -695,13 +702,6 @@
       "title": "Medinice wchodzi w PFA oraz w robotykę",
       "content_html": "Medinice planuje poszerzyć swoje portfolio produktowe wchodząc z projektami do dwóch segmentów globalnego rynku MedTech: Pulsed Field Ablation (PFA) oraz robotyki z zakresu systemów chirurgicznych - poinformowało Medinice w komunikacie.",
       "date_published": "2026-04-17T09:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bogdanka-szacuje-ze-w-I-kw-2026-roku-skonsolidowana-strata-netto-wyniosla-22-1-mln-zl-9115432.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bogdanka-szacuje-ze-w-I-kw-2026-roku-skonsolidowana-strata-netto-wyniosla-22-1-mln-zl-9115432.html",
-      "title": "Zjazd pod ziemię. Bogdanka szacuje 22 mln zł straty w I kwartale",
-      "content_html": "Bogdanka szacuje, że w I kwartale 2026 roku skonsolidowana strata netto wyniosła 22,1 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-04-17T09:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
