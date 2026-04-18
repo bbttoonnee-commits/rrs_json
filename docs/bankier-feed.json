@@ -116,6 +116,13 @@
       "date_published": "2026-04-18T19:55:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pocisk-spadl-obok-polskich-zolnierzy-w-Libanie-Konwoje-wstrzymane-uszkodzone-pojazdy-9116152.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pocisk-spadl-obok-polskich-zolnierzy-w-Libanie-Konwoje-wstrzymane-uszkodzone-pojazdy-9116152.html",
+      "title": "Pocisk spadł obok polskich żołnierzy w Libanie. Konwoje wstrzymane, uszkodzone pojazdy",
+      "content_html": "W sobotę, podczas realizacji konwoju pomiędzy bazami przez żołnierzy Polskiego Kontyngentu Wojskowego UNIFIL w południowym Libanie, w bezpośredniej bliskości konwoju spadł pocisk moździerzowy. Żaden z żołnierzy nie odniósł obrażeń - poinformowało...",
+      "date_published": "2026-04-18T19:43:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Weglowy-renesans-w-cieniu-blokady-Ormuzu-Indie-i-Tajlandia-odkladaja-transformacje-9116073.html",
       "url": "https://www.bankier.pl/wiadomosc/Weglowy-renesans-w-cieniu-blokady-Ormuzu-Indie-i-Tajlandia-odkladaja-transformacje-9116073.html",
       "title": "Węglowy renesans w cieniu blokady Ormuzu. Indie i Tajlandia odkładają transformację",
@@ -695,13 +702,6 @@
       "title": "Kwantowa wiosna w Europie. Creotech Quantum i inni w pogoni za amerykańską hossą",
       "content_html": "Debiut Creotech Quantum to nie tylko lokalne wydarzenie, ale element szerszego, kontynentalnego trendu określanego mianem „Kwantowej Wiosny”. Europejskie spółki, zagrzewane nieprawdopodobnymi wręcz wzrostami swoich odpowiedników za oceanem, coraz...",
       "date_published": "2026-04-17T15:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozlam-w-PiS-Prezes-Kaczynski-uderza-w-nowe-stowarzyszenie-Miejsc-na-naszych-listach-nie-bedzie-9115675.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozlam-w-PiS-Prezes-Kaczynski-uderza-w-nowe-stowarzyszenie-Miejsc-na-naszych-listach-nie-bedzie-9115675.html",
-      "title": "Rozłam w PiS? Prezes Kaczyński uderza w nowe stowarzyszenie. „Miejsc na naszych listach nie będzie”",
-      "content_html": "Prezes PiS Jarosław Kaczyński zapowiedział w piątek, że dla ludzi, którzy będą się angażować w stowarzyszenie utworzone przez Mateusza Morawieckiego miejsc na listach Prawa i Sprawiedliwości nie będzie. Wyraził też nadzieję, że ci, którzy...",
-      "date_published": "2026-04-17T15:39:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
