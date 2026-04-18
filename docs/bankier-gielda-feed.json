@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zbrojeniowy-sojusz-Wadowic-i-Bytomia-Ponar-i-Demarko-pomoga-Jelczowi-9114364.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zbrojeniowy-sojusz-Wadowic-i-Bytomia-Ponar-i-Demarko-pomoga-Jelczowi-9114364.html",
+      "title": "Zbrojeniowy sojusz Wadowic i Bytomia. Ponar i Demarko pomogą Jelczowi Ponar Wadowice, operujący w obszarze zaawansowanej hydrauliki siłowej o charakterze dual-use oraz bytomska spółka Demarko, producent m.in. specjalistycznych naczep i przyczep, zawarły porozumienie o współpracy na rzecz sektora obronnego i przemysłowego.",
+      "content_html": "",
+      "date_published": "2026-04-18T19:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Inspekcja-w-sercu-swiatowych-finansow-Glapinski-sprawdzil-polskie-zloto-w-nowojorskim-skarbcu-Fed-9116071.html",
       "url": "https://www.bankier.pl/wiadomosc/Inspekcja-w-sercu-swiatowych-finansow-Glapinski-sprawdzil-polskie-zloto-w-nowojorskim-skarbcu-Fed-9116071.html",
       "title": "Inspekcja w sercu światowych finansów. Glapiński sprawdził polskie złoto w nowojorskim skarbcu Fed Warszawa, 17 kwietnia 2026 r. – Narodowy Bank Polski ogłosił, że prof. Adam Glapiński, jako pierwszy w historii Prezes NBP, dokonał osobistej weryfikacji polskiego zasobu złota przechowywanego w skarbcu Banku Rezerwy Federalnej w Nowym Jorku.",
@@ -296,13 +303,6 @@
       "title": "Historyczne rekordy na Wall Street. Pokój z Iranem na horyzoncie? Czwartkowa sesja na Wall Street zakończyła się wzrostami, a indeksy S&P 500 i Nasdaq ponownie ustanowiły historyczne rekordy. Silne wzrosty z tego tygodnia analitycy tłumaczą optymizmem co do możliwego rozwiązania wojny USA z Iranem.",
       "content_html": "",
       "date_published": "2026-04-16T23:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Comarch-z-rekordowymi-wynikami-i-portfelem-zamowien-mocno-stawia-na-AI-9115290.html",
-      "url": "https://www.bankier.pl/wiadomosc/Comarch-z-rekordowymi-wynikami-i-portfelem-zamowien-mocno-stawia-na-AI-9115290.html",
-      "title": "Comarch z rekordowymi wynikami i portfelem zamówień, mocno stawia na AI Comarch odnotował w 2025 roku rekordowe wyniki finansowe oraz mocny wzrost wartości portfela zamówień - poinformowała spółka w komunikacie prasowym. Grupa zapowiada przyspieszenie transformacji w kierunku organizacji opartej o sztuczną inteligencję.",
-      "content_html": "",
-      "date_published": "2026-04-16T20:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
