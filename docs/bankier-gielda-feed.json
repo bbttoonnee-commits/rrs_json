@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-w-dol-10-proc-inflacji-w-kraju-UE-a-KGHM-wypadl-z-elitarnego-grona-9115793.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-w-dol-10-proc-inflacji-w-kraju-UE-a-KGHM-wypadl-z-elitarnego-grona-9115793.html",
+      "title": "WYKRESY TYGODNIA Ropa w dół, 10 proc. inflacji w kraju UE, a KGHM wypadł z elitarnego grona Kapitalizacja światowych kopalń bije rekordy, ale na tej liście zabrakło KGHM. Analizujemy najnowsze dane o inflacji bazowej, zaglądamy w statystyki Eurostatu dotyczące cen mieszkań, zerkamy na cenę ropy. Oto wykresy, które zmieniły układ sił w tym tygodniu.",
+      "content_html": "",
+      "date_published": "2026-04-18T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kupowanie-podczas-wojny-sie-oplacilo-Czy-czas-postawic-wszystko-na-akcje-9115732.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kupowanie-podczas-wojny-sie-oplacilo-Czy-czas-postawic-wszystko-na-akcje-9115732.html",
+      "title": "O TYM MÓWI WALL STREET Kupowanie podczas wojny się opłaciło. Czy czas postawić wszystko na akcje? W tym tygodniu rynki akcji odrobiły straty wywołane wojną w Iranie i powróciły do bicia rekordów, mimo że USA i Iran nie zawarły jeszcze porozumienia pokojowego i nie odblokowały Cieśniny Ormuz. Uwaga Wall Street przenosi się z wojny na rozpoczęty sezon wyników finansowych spółek oraz kondycję gospodarki.",
+      "content_html": "",
+      "date_published": "2026-04-18T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-zostala-otwarta-Ropa-mocno-w-dol-Wall-Street-wybija-szczyty-9116005.html",
       "url": "https://www.bankier.pl/wiadomosc/Ciesnina-Ormuz-zostala-otwarta-Ropa-mocno-w-dol-Wall-Street-wybija-szczyty-9116005.html",
       "title": "Cieśnina Ormuz została otwarta? Ropa mocno w dół, Wall Street wybija szczyty Doniesienia o otwarciu Cieśniny Ormuz doprowadziły do ostrego spadku cen ropy naftowej i wybuchu entuzjazmu na Wall Street.",
@@ -492,13 +506,6 @@
       "title": "Zaktualizowany budżet projektu Nowa Chemia w Orlenie wynosi 35,8 mld zł Rada nadzorcza Orlenu zaakceptowała zaktualizowany budżet projektu Nowa Chemia w wysokości 35,8 mld zł, w tym 4,6 mld zł kosztów finansowania - podał koncern w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-16T06:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-w-Warszawie-swietuje-35-lat-Szalone-lata-90-na-GPW-wracaja-we-wspomnieniach-9113468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-w-Warszawie-swietuje-35-lat-Szalone-lata-90-na-GPW-wracaja-we-wspomnieniach-9113468.html",
-      "title": "ZDJĘCIA Giełda w Warszawie świętuje 35 lat. Tak hartował się polski kapitał „Jak kapitalizm, to kapitalizm: jesteśmy wielcy, byliśmy mali” – cytat z „Pod Budą” bardzo dobrze pasuje na podsumowanie wyjątkowego jubileuszu, jak obchodzi Giełda Papierów Wartościowych w Warszawie. Równo 35 lat temu, 16 kwietnia 1991 roku, odbyła się pierwsza giełdowa sesja – 5 spółek, 7 domów maklerskich i 112 zleceń. Dziś warszawski parkiet jest największym w Europie Środkowo-Wschodniej, a łączna kapitalizacja spółek przekracza bilion złotych.",
-      "content_html": "",
-      "date_published": "2026-04-16T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
