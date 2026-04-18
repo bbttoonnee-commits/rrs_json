@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inspekcja-w-sercu-swiatowych-finansow-Glapinski-sprawdzil-polskie-zloto-w-nowojorskim-skarbcu-Fed-9116071.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inspekcja-w-sercu-swiatowych-finansow-Glapinski-sprawdzil-polskie-zloto-w-nowojorskim-skarbcu-Fed-9116071.html",
+      "title": "Inspekcja w sercu światowych finansów. Glapiński sprawdził polskie złoto w nowojorskim skarbcu Fed Warszawa, 17 kwietnia 2026 r. – Narodowy Bank Polski ogłosił, że prof. Adam Glapiński, jako pierwszy w historii Prezes NBP, dokonał osobistej weryfikacji polskiego zasobu złota przechowywanego w skarbcu Banku Rezerwy Federalnej w Nowym Jorku.",
+      "content_html": "",
+      "date_published": "2026-04-18T08:03:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Historyczny-wstrzas-naftowy-MAE-Wojna-z-Iranem-gasi-popyt-na-rope-9113522.html",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-wstrzas-naftowy-MAE-Wojna-z-Iranem-gasi-popyt-na-rope-9113522.html",
+      "title": "Historyczny wstrząs naftowy. MAE: Wojna z Iranem gasi popyt na ropę Globalny popyt na ropę spadnie w tym roku po raz pierwszy od pandemii Covid-19 w 2020 r., ponieważ gwałtowny wzrost cen spowodowany wojną z Iranem wpłynie negatywnie na wzrost PKB - poinformowała Międzynarodowa Agencja Energii (MAE).",
+      "content_html": "",
+      "date_published": "2026-04-18T08:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ropa-w-dol-10-proc-inflacji-w-kraju-UE-a-KGHM-wypadl-z-elitarnego-grona-9115793.html",
       "url": "https://www.bankier.pl/wiadomosc/Ropa-w-dol-10-proc-inflacji-w-kraju-UE-a-KGHM-wypadl-z-elitarnego-grona-9115793.html",
       "title": "WYKRESY TYGODNIA Ropa w dół, 10 proc. inflacji w kraju UE, a KGHM wypadł z elitarnego grona Kapitalizacja światowych kopalń bije rekordy, ale na tej liście zabrakło KGHM. Analizujemy najnowsze dane o inflacji bazowej, zaglądamy w statystyki Eurostatu dotyczące cen mieszkań, zerkamy na cenę ropy. Oto wykresy, które zmieniły układ sił w tym tygodniu.",
@@ -457,27 +471,6 @@
       "title": "myORLEN wchodzi na rynek energii elektrycznej dla klientów indywidualnych Spółka myORLEN (dawniej PGNiG Obrót Detaliczny) weszła na rynek energii elektrycznej dla klientów indywidualnych w ramach szerszego procesu integracji usług energetycznych w Grupie Orlen - podała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-04-16T10:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-powiekszaja-spadki-Zapasy-zblizaja-sie-do-30-proc-9114820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-powiekszaja-spadki-Zapasy-zblizaja-sie-do-30-proc-9114820.html",
-      "title": "Ceny gazu w Europie powiększają spadki. Zapasy zbliżają się do 30 proc. Ceny gazu w Europie w czwartek powiększają spadki z poprzedniej sesji. Inwestorzy są optymistami co do możliwego wznowienia rozmów pokojowych pomiędzy USA a Iranem - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-04-16T08:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Scanway-wesprze-nadchodzaca-misje-Titan-realizowana-przez-firme-Aethero-9114805.html",
-      "url": "https://www.bankier.pl/wiadomosc/Scanway-wesprze-nadchodzaca-misje-Titan-realizowana-przez-firme-Aethero-9114805.html",
-      "title": "Scanway wesprze nadchodzącą misję Titan realizowaną przez firmę Aethero Scanway wesprze nadchodzącą misję Titan realizowaną przez firmę Aethero dostarczając system obrazowania dla nowej generacji przetwarzania danych i zastosowań AI na orbicie - podał Scanway w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-04-16T08:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JSW-podkreca-obroty-w-2026-roku-Wiecej-wegla-i-koksu-ale-rynek-wciaz-trudny-9114315.html",
-      "url": "https://www.bankier.pl/wiadomosc/JSW-podkreca-obroty-w-2026-roku-Wiecej-wegla-i-koksu-ale-rynek-wciaz-trudny-9114315.html",
-      "title": "JSW podkręca obroty w 2026 roku: Więcej węgla i koksu, ale rynek wciąż trudny W pierwszym kwartale 2026 r. grupa JSW wyprodukowała o 13,1 proc. węgla więcej niż w I kw. 2025 r., a koksu o 7,1 proc. więcej. Spółka zastrzega, że mimo poprawy parametrów operacyjnych, pozostaje silnie uzależniona od cykliczności rynku stali i globalnych cen surowców.",
-      "content_html": "",
-      "date_published": "2026-04-16T08:16:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
