@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Czarna-lista-polskich-afer-Od-Art-B-do-Zondacrypto-dlaczego-obywatele-traca-miliony-9115963.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czarna-lista-polskich-afer-Od-Art-B-do-Zondacrypto-dlaczego-obywatele-traca-miliony-9115963.html",
+      "title": "Czarna lista polskich afer. Od Art-B do Zondacrypto – dlaczego obywatele tracą miliony? Art-B, FOZZ, Amber Gold, GetBack, SKOK-Wołomin - to najgłośniejsze afery, w związku z którymi obywatele tracili w przeszłości wielkie pieniądze, a których wspólnym mianownikiem był związek z polityką. Teraz do tej listy dołączyła afera Zondacrypto.",
+      "content_html": "",
+      "date_published": "2026-04-19T19:45:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
       "url": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
       "title": "Wall Street odporna na kryzysy? 88 proc. spółek S&P 500 bije rekordy zysków Na obecnym wczesnym etapie sezon wyników za pierwszy kwartał dla S&P 500 rozpoczął się mocno względem oczekiwań - pisze FactSet. Zarówno odsetek spółek z indeksu S&P 500 raportujących pozytywne niespodzianki w wynikach zysków, jak i skala tych niespodzianek jest powyżej historycznych średnich.",
@@ -72,13 +79,6 @@
       "title": "Cieśnina Ormuz została otwarta? Ropa mocno w dół, Wall Street wybija szczyty Doniesienia o otwarciu Cieśniny Ormuz doprowadziły do ostrego spadku cen ropy naftowej i wybuchu entuzjazmu na Wall Street.",
       "content_html": "",
       "date_published": "2026-04-17T22:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-Huuuge-do-25-6-zl-9115972.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-Huuuge-do-25-6-zl-9115972.html",
-      "title": "Noble Securities obniżył cenę docelową Huuuge do 25,6 zł Analitycy Noble Securities, w raporcie z 17 kwietnia podtrzymali rekomendację \"akumuluj\" dla Huuuge, obniżając cenę docelową akcji spółki do 25,6 zł z 27,3 zł wcześniej.",
-      "content_html": "",
-      "date_published": "2026-04-17T19:58:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
