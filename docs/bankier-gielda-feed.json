@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
+      "title": "Wall Street odporna na kryzysy? 88 proc. spółek S&P 500 bije rekordy zysków Na obecnym wczesnym etapie sezon wyników za pierwszy kwartał dla S&P 500 rozpoczął się mocno względem oczekiwań - pisze FactSet. Zarówno odsetek spółek z indeksu S&P 500 raportujących pozytywne niespodzianki w wynikach zysków, jak i skala tych niespodzianek jest powyżej historycznych średnich.",
+      "content_html": "",
+      "date_published": "2026-04-19T13:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Banki-jako-tarcza-panstwa-Nowa-rola-finansistow-w-czasach-wielkiej-niepewnosci-9112944.html",
+      "url": "https://www.bankier.pl/wiadomosc/Banki-jako-tarcza-panstwa-Nowa-rola-finansistow-w-czasach-wielkiej-niepewnosci-9112944.html",
+      "title": "Banki jako tarcza państwa. Nowa rola finansistów w czasach wielkiej niepewności Banki stają się elementem infrastruktury bezpieczeństwa gospodarczego państwa, muszą być jednak w dużo większym stopniu niż dotychczas instytucjami rozwojowymi. Wśród konsumentów wzrośnie chęć do oszczędzania, co pozytywnie przełoży się na bankowe depozyty - ocenili eksperci podczas 31. Banking & Insurance Forum.",
+      "content_html": "",
+      "date_published": "2026-04-19T13:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-rodzinnych-imperiow-deweloperskich-Eksperci-Nadchodzi-fala-fuzji-9112923.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-rodzinnych-imperiow-deweloperskich-Eksperci-Nadchodzi-fala-fuzji-9112923.html",
+      "title": "Koniec rodzinnych imperiów deweloperskich? Eksperci: Nadchodzi fala fuzji W najbliższych latach falę fuzji i przejęć na polskim rynku mieszkaniowym będą napędzały problemy sukcesyjne - wynika z raportu przygotowanego przez ekspertów JLL Living oraz CRIDO.",
+      "content_html": "",
+      "date_published": "2026-04-19T13:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-rekord-sprzedazy-obligacji-w-2026-r-PKO-BP-prognozuje-ogromny-wzrost-zainteresowania-9115780.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-rekord-sprzedazy-obligacji-w-2026-r-PKO-BP-prognozuje-ogromny-wzrost-zainteresowania-9115780.html",
       "title": "Nowy rekord sprzedaży obligacji w 2026 r.? PKO BP prognozuje ogromny wzrost zainteresowania Sprzedaż detalicznych obligacji skarbowych w 2026 r. powinna wzrosnąć do 91 mld zł i tym samym ustanowić nowy rekord - prognozuje PKO Bank Polski.",
@@ -170,13 +191,6 @@
       "title": "Tym będą żyły rynki: polskie wynagrodzenia, przemysł i sprzedaż, brytyjska inflacja i wyniki Tesli Kluczowymi punktami w kalendarzu ekonomicznym na nadchodzący tydzień od 20-26 kwietnia będą w Polsce dane o produkcji przemysłowej, wynagrodzeniach i sprzedaży detalicznej. Na świecie wkraczamy powoli w sezon wynikowy - w środę swoje sprawozdanie za ostatni kwartał przedstawi Tesla.",
       "content_html": "",
       "date_published": "2026-04-17T13:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-ma-listy-intencyjne-z-finskimi-partnerami-dot-rozwiazan-w-obszarze-budownictwa-schronow-9115667.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-ma-listy-intencyjne-z-finskimi-partnerami-dot-rozwiazan-w-obszarze-budownictwa-schronow-9115667.html",
-      "title": "Polimex Mostostal ma listy intencyjne z fińskimi partnerami dot. rozwiązań w obszarze budownictwa schronów Polimex Mostostal podpisał listy intencyjne z fińskimi partnerami dotyczące współpracy przy rozwoju i wdrażaniu w obszarze budownictwa ochronnego oraz systemów ochrony ludności - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-04-17T13:18:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
