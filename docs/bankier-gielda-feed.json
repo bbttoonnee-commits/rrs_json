@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
+      "title": "Wall Street odporna na kryzysy? 88 proc. spółek S&P 500 bije rekordy zysków Na obecnym wczesnym etapie sezon wyników za pierwszy kwartał dla S&P 500 rozpoczął się mocno względem oczekiwań - pisze FactSet. Zarówno odsetek spółek z indeksu S&P 500 raportujących pozytywne niespodzianki w wynikach zysków, jak i skala tych niespodzianek jest powyżej historycznych średnich.",
+      "content_html": "",
+      "date_published": "2026-04-19T13:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Banki-jako-tarcza-panstwa-Nowa-rola-finansistow-w-czasach-wielkiej-niepewnosci-9112944.html",
       "url": "https://www.bankier.pl/wiadomosc/Banki-jako-tarcza-panstwa-Nowa-rola-finansistow-w-czasach-wielkiej-niepewnosci-9112944.html",
       "title": "Banki jako tarcza państwa. Nowa rola finansistów w czasach wielkiej niepewności Banki stają się elementem infrastruktury bezpieczeństwa gospodarczego państwa, muszą być jednak w dużo większym stopniu niż dotychczas instytucjami rozwojowymi. Wśród konsumentów wzrośnie chęć do oszczędzania, co pozytywnie przełoży się na bankowe depozyty - ocenili eksperci podczas 31. Banking & Insurance Forum.",
@@ -14,13 +21,6 @@
       "id": "https://www.bankier.pl/wiadomosc/Koniec-rodzinnych-imperiow-deweloperskich-Eksperci-Nadchodzi-fala-fuzji-9112923.html",
       "url": "https://www.bankier.pl/wiadomosc/Koniec-rodzinnych-imperiow-deweloperskich-Eksperci-Nadchodzi-fala-fuzji-9112923.html",
       "title": "Koniec rodzinnych imperiów deweloperskich? Eksperci: Nadchodzi fala fuzji W najbliższych latach falę fuzji i przejęć na polskim rynku mieszkaniowym będą napędzały problemy sukcesyjne - wynika z raportu przygotowanego przez ekspertów JLL Living oraz CRIDO.",
-      "content_html": "",
-      "date_published": "2026-04-19T13:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-odporna-na-kryzysy-88-proc-spolek-S-P-500-bije-rekordy-zyskow-9116219.html",
-      "title": "Wall Street odporna na kryzysy? 88 proc. spółek S&P 500 bije rekordy zysków Na obecnym wczesnym etapie sezon wyników za pierwszy kwartał dla S&P 500 rozpoczął się mocno względem oczekiwań - pisze FactSet. Zarówno odsetek spółek z indeksu S&P 500 raportujących pozytywne niespodzianki w wynikach zysków, jak i skala tych niespodzianek jest powyżej historycznych średnich.",
       "content_html": "",
       "date_published": "2026-04-19T13:00:00+02:00"
     },
@@ -121,27 +121,6 @@
       "title": "Newag szacuje zysk netto w 2025 r. na 356,5 mln zł, o 190,5 proc. więcej rdr Newag szacuje, że w 2025 r. grupa wypracowała 356,5 mln zł zysku netto, czyli o 233,8 mln zł więcej niż w roku poprzednim (+190,5 proc.) - poinformował producent taboru kolejowego w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-17T17:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wysyp-rekordow-w-WIG20-Do-tego-najwazniejszego-coraz-blizej-9115901.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wysyp-rekordow-w-WIG20-Do-tego-najwazniejszego-coraz-blizej-9115901.html",
-      "title": "Wysyp rekordów w WIG20. Do tego najważniejszego coraz bliżej Inwestorzy z entuzjazmem zareagowali na doniesienia o otwarciu Cieśniny Ormuz co przełożyło się na silne wzrosty głównych indeksów i serię nowych maksimów. Podczas gdy ropa naftowa gwałtownie taniała, kursy kilku polskich blue chipów, niesione globalną falą optymizmu, wyznaczały kolejne historyczne szczyty. Efektownie wypadł też debiut pierwszej w Polsce i zarazem pierwszej na europejskich parkietach spółki z branży technologii kwantowych.",
-      "content_html": "",
-      "date_published": "2026-04-17T17:23:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-szac-potrzeby-kapitalowe-na-425-570-mln-zl-9115889.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-szac-potrzeby-kapitalowe-na-425-570-mln-zl-9115889.html",
-      "title": "Mostostal Warszawa szac. potrzeby kapitałowe na 425-570 mln zł Przewidywane potrzeby kapitałowe Mostostalu Warszawa wynikające z prognozowanych skutków finansowych odstąpień od umów w ostatnich miesiącach oraz wyników finansowych wynoszą od 425 mln zł do 570 mln zł - podał Mostostal w komunikacie. Zarząd rozważa możliwości podwyższenia kapitału zakładowego.",
-      "content_html": "",
-      "date_published": "2026-04-17T17:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-z-ZUE-o-wartosci-915-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9115869.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-konsorcjum-z-ZUE-o-wartosci-915-mln-zl-netto-najkorzystniejsza-w-przetargu-PKP-PLK-9115869.html",
-      "title": "Oferta konsorcjum z ZUE o wartości 915 mln zł netto najkorzystniejsza w przetargu PKP PLK Oferta konsorcjum z ZUE o wartości 915 mln zł netto została uznana za najkorzystniejszą w przetargu PKP PLK na roboty budowlane na linii kolejowej nr 201 odc. Wierzchucin - Lipowa Tucholska oraz odc. Maksymilianowo - Wierzchucin - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-17T16:56:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
