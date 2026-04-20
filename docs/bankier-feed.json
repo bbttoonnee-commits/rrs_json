@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/System-nie-do-przejscia-Szpitale-powiatowe-protestuja-przeciwko-cieciom-NFZ-9116344.html",
+      "url": "https://www.bankier.pl/wiadomosc/System-nie-do-przejscia-Szpitale-powiatowe-protestuja-przeciwko-cieciom-NFZ-9116344.html",
+      "title": "System nie do przejścia. Szpitale powiatowe protestują przeciwko cięciom NFZ",
+      "content_html": "Przynajmniej 40 szpitali powiatowych jest zagrożonych upadłością – powiedział PAP prezes Ogólnopolskiego Związku Pracodawców Szpitali Powiatowych Waldemar Malinowski po analizie raportu dotyczącego stanu finansów placówek. Związek apeluje...",
+      "date_published": "2026-04-20T22:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
+      "title": "Trump: Izrael nie namówił mnie na wojnę z Iranem",
+      "content_html": "Izrael nie namówił mnie na wojnę z Iranem, przekonały mnie za to skutki ataku Hamasu z 7 października 2023 r. - powiedział w poniedziałek prezydent USA Donald Trump. Ponownie oskarżył media o publikowanie fałszywych wiadomości.",
+      "date_published": "2026-04-20T22:37:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Merz-zapowiada-podwojenie-wymiany-handlowej-z-Brazylia-9118220.html",
       "url": "https://www.bankier.pl/wiadomosc/Merz-zapowiada-podwojenie-wymiany-handlowej-z-Brazylia-9118220.html",
       "title": "Merz zapowiada podwojenie wymiany handlowej z Brazylią",
@@ -114,13 +128,6 @@
       "title": "Akt oskarżenia wobec byłych szefów KNF – formalnie wycofany",
       "content_html": "Prokuratura formalnie wycofała akt oskarżenia wobec członków b. kierownictwa KNF o nadzór nad SKOK Wołomin. Sąd w poniedziałek nie umorzył tego wątku; oskarżenie zostało podtrzymane na razie przez czterech z 11 oskarżycieli posiłkowych.",
       "date_published": "2026-04-20T20:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Izrael-nie-namowil-mnie-na-wojne-z-Iranem-9117531.html",
-      "title": "Trump: Izrael nie namówił mnie na wojnę z Iranem",
-      "content_html": "Izrael nie namówił mnie na wojnę z Iranem, przekonały mnie za to skutki ataku Hamasu z 7 października 2023 r. - powiedział w poniedziałek prezydent USA Donald Trump. Ponownie oskarżył media o publikowanie fałszywych wiadomości.",
-      "date_published": "2026-04-20T20:03:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/W-Polsce-powstanie-pierwsze-centrum-badan-i-rozwoju-technologii-laserow-ICL-i-T2SL-9116224.html",
@@ -695,13 +702,6 @@
       "title": "Przełomowy wyrok NSA w sprawie kar za brak OC. Kierowcy odetchną z ulgą?",
       "content_html": "Czy kierowcy ukarani za brak ważnego OC zyskali nowe możliwości odwołania od pisma UFG? Wiele na to wskazuje, bowiem Naczelny Sąd Administracyjny uznał, że wezwania Ubezpieczeniowego Funduszu Gwarancyjnego powinny być traktowane tak jak decyzje...",
       "date_published": "2026-04-20T10:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-traci-oczy-i-okrety-Bez-radaru-Podlot-i-kluczowych-transportowcow-9116432.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-traci-oczy-i-okrety-Bez-radaru-Podlot-i-kluczowych-transportowcow-9116432.html",
-      "title": "Rosja traci oczy i okręty. Bez radaru Podlot i kluczowych transportowców",
-      "content_html": "Wywiad wojskowy Ukrainy (HUR) poinformował o uderzeniach w dwa duże rosyjskie okręty desantowe na okupowanym Krymie. W wyniku ataku jednostki, które znajdowały się w Zatoce Sewastopolskiej, wyłączono z użycia – czytamy w opublikowanym w poniedziałek...",
-      "date_published": "2026-04-20T10:49:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
