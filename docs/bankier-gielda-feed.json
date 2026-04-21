@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-w-IV-kw-21-3-mln-zl-straty-EBITDA-9120634.html",
+      "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-mial-w-IV-kw-21-3-mln-zl-straty-EBITDA-9120634.html",
+      "title": "Arctic Paper miał w IV kw. 21,3 mln zł straty EBITDA Arctic Paper w czwartym kwartale 2025 r. miał 21,3 mln zł straty EBITDA, a strata operacyjna wyniosła 60 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu spółki. W lutym Arctic Paper szacował stratę EBITDA na 33,5 mln zł, a stratę EBIT na 72,2 mln zł.",
+      "content_html": "",
+      "date_published": "2026-04-21T20:23:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Unimot-chce-wyplacic-6-zl-dywidendy-na-akcje-za-2025-rok-9120596.html",
       "url": "https://www.bankier.pl/wiadomosc/Unimot-chce-wyplacic-6-zl-dywidendy-na-akcje-za-2025-rok-9120596.html",
       "title": "Unimot chce wypłacić 6 zł dywidendy na akcję za 2025 rok Zarząd Unimotu rekomenduje walnemu zgromadzeniu wypłatę 6 zł dywidendy na akcję za 2025 rok - podała spółka w komunikacie. Rada nadzorcza spółki pozytywnie rozpatrzyła wniosek zarządu w tej sprawie.",
@@ -555,13 +562,6 @@
       "title": "\"Z każdych zainwestowanych 100 złotych na GPW powinno trafiać 30 groszy\". Wpadamy w pułapkę, która kosztuje GPW to głównie spółki tzw. „starej ekonomii”, gdzie około 70% kapitalizacji stanowią finanse, surowce, paliwa i chemia, a innowacyjne sektory to margines. Odwrotnie niż choćby na giełdzie nowojorskiej. Kupując szeroki rynek w Polsce – kupujemy przeszłość, a dopiero kupując świat, inwestujemy w przyszłość. Koncentrując uwagę i portfel na warszawskim parkiecie nieświadomie rezygnujemy z tego, co mógłby wygenerować nasz kapitał gdzie indziej. Takie zjawisko ma swoją nazwę i generuje wymierne koszty.",
       "content_html": "",
       "date_published": "2026-04-20T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czarna-lista-polskich-afer-Od-Art-B-do-Zondacrypto-dlaczego-obywatele-traca-miliony-9115963.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czarna-lista-polskich-afer-Od-Art-B-do-Zondacrypto-dlaczego-obywatele-traca-miliony-9115963.html",
-      "title": "Czarna lista polskich afer. Od Art-B do Zondacrypto – dlaczego obywatele tracą miliony? Art-B, FOZZ, Amber Gold, GetBack, SKOK-Wołomin - to najgłośniejsze afery, w związku z którymi obywatele tracili w przeszłości wielkie pieniądze, a których wspólnym mianownikiem był związek z polityką. Teraz do tej listy dołączyła afera Zondacrypto.",
-      "content_html": "",
-      "date_published": "2026-04-19T19:45:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
