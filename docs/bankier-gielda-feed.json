@@ -4,9 +4,30 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Poltronic-wyplaci-0-05-zl-dywidendy-na-akcje-zysku-za-25-9120533.html",
+      "url": "https://www.bankier.pl/wiadomosc/Poltronic-wyplaci-0-05-zl-dywidendy-na-akcje-zysku-za-25-9120533.html",
+      "title": "Poltronic wypłaci 0,05 zł dywidendy na akcję zysku za '25 Walne zgromadzenie Poltronic zdecydowało o wypłacie 357,9 tys. zł dywidendy z zysku za 2025 rok, co daje 0,05 zł na akcję - podała spółka w komunikacie. Pozostałą kwotę w wysokości 11,7 tys. zł spółka postanowiła przeznaczyć na kapitał zapasowy.",
+      "content_html": "",
+      "date_published": "2026-04-21T16:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ten-Square-Games-wyplaci-10-zl-dywidendy-na-akcje-za-2025-rok-9120506.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ten-Square-Games-wyplaci-10-zl-dywidendy-na-akcje-za-2025-rok-9120506.html",
+      "title": "Ten Square Games wypłaci 10 zł dywidendy na akcję za 2025 rok Walne zgromadzenie Ten Square Games zdecydowało o wypłacie 63,75 mln zł dywidendy z zysku netto za rok 2025, co daje 10 zł na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-21T16:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-nalozylo-na-LPP-kare-pieniezna-w-wysokosci-15-mln-zl-9120488.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-nalozylo-na-LPP-kare-pieniezna-w-wysokosci-15-mln-zl-9120488.html",
+      "title": "LPP ukarane przez KNF za błędy w raportach. Chodzi o straty wojenne LPP otrzymało decyzję Komisji Nadzoru Finansowego nakładającą na spółkę karę pieniężną w wysokości 15 mln zł - podało LPP w komunikacie. Decyzja nie jest ostateczna, służy od niej droga odwoławcza.",
+      "content_html": "",
+      "date_published": "2026-04-21T16:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grodno-spodziewa-sie-wzrostu-sprzedazy-w-26-akwizycje-bez-wplywu-na-dywidende-wywiad-9120463.html",
       "url": "https://www.bankier.pl/wiadomosc/Grodno-spodziewa-sie-wzrostu-sprzedazy-w-26-akwizycje-bez-wplywu-na-dywidende-wywiad-9120463.html",
-      "title": "Grodno spodziewa się wzrostu sprzedaży w '26; akwizycje bez wpływu na dywidendę (wywiad) Grodno spodziewa się wzrostu sprzedaży w 2026 r., bieżący rok może być dla grupy rekordowy pod względem przychodów i rentowności – ocenił prezes Andrzej Jurczak. Grupa potencjalnych celów akwizycyjnych szuka w Polsce i za granicą, a przejęcia nie będą miały wpływu na plany powrotu do wypłaty dywidendy.",
+      "title": "Grodno spodziewa się wzrostu sprzedaży w '26. Akwizycje bez wpływu na dywidendę Grodno spodziewa się wzrostu sprzedaży w 2026 r., bieżący rok może być dla grupy rekordowy pod względem przychodów i rentowności – ocenił prezes Andrzej Jurczak. Grupa potencjalnych celów akwizycyjnych szuka w Polsce i za granicą, a przejęcia nie będą miały wpływu na plany powrotu do wypłaty dywidendy.",
       "content_html": "",
       "date_published": "2026-04-21T15:22:00+02:00"
     },
@@ -401,6 +422,13 @@
       "title": "KNF potwierdza: czarny marzec na giełdach. Aktywa OFE mocno w dół Wartość akcji spółek z GPW będących w posiadaniu OFE spadła w marcu o ok. 9,32 mld zł mdm do 243,760 mld zł - wynika z danych KNF.",
       "content_html": "",
       "date_published": "2026-04-20T12:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Argus-wycenia-akcje-Asbisu-na-75-zl-9116515.html",
+      "url": "https://www.bankier.pl/wiadomosc/Argus-wycenia-akcje-Asbisu-na-75-zl-9116515.html",
+      "title": "Argus wycenia akcję Asbisu na 75 zł Analitycy Argus Research, w raporcie z 17 kwietnia, wycenili akcję Asbisu na 75 zł.",
+      "content_html": "",
+      "date_published": "2026-04-20T12:34:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mirbud-szacuje-ze-w-25-mial-112-mln-zl-skonsolidowanego-zysku-netto-9116500.html",
