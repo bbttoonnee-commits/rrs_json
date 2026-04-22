@@ -4,6 +4,55 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Baseig-chca-sprzedac-w-ABB-lacznie-ok-121-5-tys-akcji-spolki-9121235.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Baseig-chca-sprzedac-w-ABB-lacznie-ok-121-5-tys-akcji-spolki-9121235.html",
+      "title": "Akcjonariusze Baseig chcą sprzedać w ABB łącznie ok. 121,5 tys. akcji spółki Akcjonariusze Baseig - P.B. Fundacja Rodzinna oraz od OZE Trading - chcą sprzedać w ABB odpowiednio do 61.428 oraz do 60.058 akcji spółki - poinformował Baseig w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-22T17:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CEZ-chce-wyplacic-42-CZK-dywidendy-na-akcje-9121211.html",
+      "url": "https://www.bankier.pl/wiadomosc/CEZ-chce-wyplacic-42-CZK-dywidendy-na-akcje-9121211.html",
+      "title": "CEZ chce wypłacić 42 CZK dywidendy na akcję Rada dyrektorów CEZ proponuje wypłatę 42 CZK dywidendy na akcję za 2025 rok - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-22T17:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Grupy-Kety-w-I-kw-26-wyniosl-145-mln-zl-wczesniej-szacowano-132-mln-zl-9121204.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Grupy-Kety-w-I-kw-26-wyniosl-145-mln-zl-wczesniej-szacowano-132-mln-zl-9121204.html",
+      "title": "Zysk netto j.d. Grupy Kęty w I kw. '26 wyniósł 145 mln zł; wcześniej szacowano 132 mln zł Grupa Kęty miała w pierwszym kwartale 2026 roku 1,374 mld zł skonsolidowanych przychodów ze sprzedaży oraz 196 mln zł EBIT - podała spółka w raporcie. Zysk netto j.d. wyniósł 145 mln zł, wobec szacowanych wcześniej 132 mln zł zysku.",
+      "content_html": "",
+      "date_published": "2026-04-22T17:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Orange-Polska-w-I-kwartale-2026-vs-konsensus-PAP-tabela-9121200.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Orange-Polska-w-I-kwartale-2026-vs-konsensus-PAP-tabela-9121200.html",
+      "title": "Wyniki Orange Polska w I kwartale 2026 vs. konsensus PAP Poniżej przedstawiono wyniki Orange Polska w pierwszym kwartale 2026 roku, ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-04-22T17:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-odbil-po-kilku-slabszych-sesjach-Banki-ciezarem-dla-WIG20-9121184.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-odbil-po-kilku-slabszych-sesjach-Banki-ciezarem-dla-WIG20-9121184.html",
+      "title": "SESJA NA GPW KGHM odbił po kilku słabszych sesjach. Banki ciężarem dla WIG20 Środowa sesja na warszawskim parkiecie upłynęła pod znakiem braku reakcji na przedłużenie zawieszenia broni między USA a Iranem. Incydenty w cieśninie Ormuz skutecznie schłodziły nadzieje inwestorów, że konflikt wygasa. WIG20 po ustanowieniu w poprzednim tygodniu nowego szczytu hossy powyżej 3700 punktów zalicza trzecią z rzędu sesję na minusie. Odbicie zaliczył kurs KGHM, a pod presją były największe banki.",
+      "content_html": "",
+      "date_published": "2026-04-22T17:13:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Astarta-sprzedala-w-I-kw-84-7-tys-ton-cukru-9121183.html",
+      "url": "https://www.bankier.pl/wiadomosc/Astarta-sprzedala-w-I-kw-84-7-tys-ton-cukru-9121183.html",
+      "title": "Astarta sprzedała w I kw. 84,7 tys. ton cukru Astarta Holding w pierwszym kwartale 2026 r. sprzedała 84,7 tys. ton cukru, co oznacza wzrost o 10 proc. rdr - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-22T17:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-moze-rozwazyc-nowe-produkty-we-wspolpracy-z-partnerami-w-tym-polska-nauka-prezes-9121177.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-moze-rozwazyc-nowe-produkty-we-wspolpracy-z-partnerami-w-tym-polska-nauka-prezes-9121177.html",
+      "title": "KGHM wchodzi w zbrojeniówkę i energetykę? Koncern chce produkować metale, których brakuje w Europie KGHM może rozważyć rozszerzenie łańcucha wartości o nowe produkty, we współpracy z polską nauką i partnerami - poinformował prezes KGHM Remigiusz Paszkiewicz. Jak poinformował, jeden z nich mógłby być wykorzystywany w sektorze militarnym.",
+      "content_html": "",
+      "date_published": "2026-04-22T17:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-noweli-umozliwiajacej-pozyczki-z-ARP-dla-JSW-i-Azotow-9121161.html",
       "url": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-noweli-umozliwiajacej-pozyczki-z-ARP-dla-JSW-i-Azotow-9121161.html",
       "title": "Senat bez poprawek do noweli umożliwiającej pożyczki z ARP dla JSW i Azotów Senat nie zaproponował w środę poprawek do nowelizacji ustawy o systemie instytucji rozwoju, której celem jest umożliwienie Agencji Rozwoju Przemysłu (ARP) udzielania pożyczek przedsiębiorstwom górniczym i innym spółkom o istotnym znaczeniu dla gospodarki, w tym JSW i Azotom.",
@@ -135,6 +184,13 @@
       "title": "Asbis szacuje, że przychody w marcu wzrosły o 68 proc. rdr, do ok. 462 mln USD Grupa Asbis szacuje, że jej skonsolidowane przychody za marzec 2026 r. wyniosły ok. 462 mln USD i były o ok. 68 proc. wyższe od przychodów wypracowanych w marcu 2025 r. - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-22T08:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-po-przedluzeniu-rozejmu-USA-Iran-9120799.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-po-przedluzeniu-rozejmu-USA-Iran-9120799.html",
+      "title": "Ceny miedzi w Londynie rosną po przedłużeniu rozejmu USA-Iran Notowania miedzi na giełdzie metali LME w Londynie rosną w reakcji na przedłużenie rozejmu USA-Iran - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-04-22T08:07:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-naftowej-spadaja-USA-przedluzyly-zawieszenie-broni-z-Iranem-9120795.html",
@@ -492,55 +548,6 @@
       "title": "Zaproszenie do inwestycji w polskie innowacje. Rusza nabór do funduszu Innovate PL FoF PFR Ventures otwiera proces aplikacji dla funduszy private equity, private debt oraz venture capital zainteresowanych pozyskaniem środków z funduszu Innovate PL FoF. PFR Ventures obecnie w ramach tego programu ma do rozdysponowania 2,4 mld zł środków przeznaczonych na inwestycje w innowacyjne firmy.",
       "content_html": "",
       "date_published": "2026-04-20T18:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fundusze-PKO-BP-Bankowy-PTE-maja-ponad-5-proc-glosow-w-Captor-Therapeutics-9117499.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fundusze-PKO-BP-Bankowy-PTE-maja-ponad-5-proc-glosow-w-Captor-Therapeutics-9117499.html",
-      "title": "Fundusze PKO BP Bankowy PTE mają ponad 5 proc. głosów w Captor Therapeutics Fundusze PKO BP Bankowy OFE oraz PKO DFE, reprezentowane przez PKO BP Bankowy PTE, zwiększyły łączny udział w głosach na WZ Captor Therapeutics do ponad 5 proc. - podał Captor Therapeutics w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-20T17:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wymog-MREL-TREA-dla-BNP-Paribas-Bank-Polska-wyznaczony-na-15-74-proc-9117457.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wymog-MREL-TREA-dla-BNP-Paribas-Bank-Polska-wyznaczony-na-15-74-proc-9117457.html",
-      "title": "Wymóg MREL-TREA dla BNP Paribas Bank Polska wyznaczony na 15,74 proc. Wymóg MREL dla BNP Paribas Bank Polska został określony na poziomie indywidualnym na 15,74 proc. wartości całkowitej ekspozycji na ryzyko (TREA) oraz 5,91 proc. miary ekspozycji całkowitej (TEM) - poinformował bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-20T17:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Diagnostyki-rekomenduje-wyplate-4-4-zl-dywidendy-na-akcje-9117456.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Diagnostyki-rekomenduje-wyplate-4-4-zl-dywidendy-na-akcje-9117456.html",
-      "title": "Zarząd Diagnostyki rekomenduje wypłatę 4,4 zł dywidendy na akcję Zarząd Diagnostyki rekomenduje za 2025 r. wypłatę 4,4 zł dywidendy na akcję, czyli łącznie na ten cel chce przeznaczyć 148,53 mln zł - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-20T17:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Diagnostyka-w-2025-r-odnotowala-wzrost-wolumenu-badan-o-8-1-proc-rdr-9117276.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Diagnostyka-w-2025-r-odnotowala-wzrost-wolumenu-badan-o-8-1-proc-rdr-9117276.html",
-      "title": "Grupa Diagnostyka w 2025 r. odnotowała wzrost wolumenu badań o 8,1 proc. rdr Grupa Diagnostyka w 2025 r. odnotowała wzrost wolumenu badań o 8,1 proc. rdr. Średnia cena badań wzrosła o 15 proc. rdr - podała spółka w raporcie.",
-      "content_html": "",
-      "date_published": "2026-04-20T17:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-Termika-z-umowa-na-125-4-mln-zl-dofinansowania-budowy-instalacji-odzysku-ciepla-9117263.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-Termika-z-umowa-na-125-4-mln-zl-dofinansowania-budowy-instalacji-odzysku-ciepla-9117263.html",
-      "title": "Orlen Termika z umową na 125,4 mln zł dofinansowania budowy instalacji odzysku ciepła Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej podpisał ze spółką Orlen Termika umowę na 125,4 mln zł dofinansowania budowy nowoczesnego układu odzysku ciepła ze ścieków z Przepompowni Żerań w Warszawie - poinformował NFOŚiGW.",
-      "content_html": "",
-      "date_published": "2026-04-20T17:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Diagnostyka-miala-w-IV-kw-36-9-mln-zl-zysku-netto-j-d-wobec-44-5-mln-zl-konsensusu-9117214.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Diagnostyka-miala-w-IV-kw-36-9-mln-zl-zysku-netto-j-d-wobec-44-5-mln-zl-konsensusu-9117214.html",
-      "title": "Grupa Diagnostyka pokazała wyniki. Prawie 2,5 miliarda złotych przychodów Grupa Diagnostyka miała w IV kw. 2025 roku 36,9 mln zł zysku netto j.d. - wynika z wyliczeń PAP Biznes na podstawie raportu rocznego. Konsensus PAP Biznes zakładał 44,5 mln zł zysku.",
-      "content_html": "",
-      "date_published": "2026-04-20T17:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kwantowy-rajd-Creotechu-oraz-klasyczne-rozdanie-amerykansko-iranskiego-pokera-9117201.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kwantowy-rajd-Creotechu-oraz-klasyczne-rozdanie-amerykansko-iranskiego-pokera-9117201.html",
-      "title": "SESJA NA GPW Kwantowy rajd Creotechu oraz klasyczne rozdanie amerykańsko-irańskiego pokera Po optymistycznym zamknięciu tygodnia, poniedziałek przyniósł schłodzenie nastrojów na warszawskim parkiecie. Niegasnący konflikt na linii Waszyngton-Teheran skutecznie odebrały inwestorom chęć bicia rekordów. Jak zwykle w ostatnich tygodniach, podczas gdy rosły ceny ropy i malał apetyty na ryzko, rynkowymi maruderami stały się banki i KGHM.",
-      "content_html": "",
-      "date_published": "2026-04-20T17:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
