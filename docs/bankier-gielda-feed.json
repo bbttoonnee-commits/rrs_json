@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Short-squeeze-na-wielka-skale-Paraboliczny-kurs-Avis-Budget-9120981.html",
+      "url": "https://www.bankier.pl/wiadomosc/Short-squeeze-na-wielka-skale-Paraboliczny-kurs-Avis-Budget-9120981.html",
+      "title": "Nie ma już akcji: wyciskanie krótkich pozycji na gigantyczną skalę. Paraboliczny kurs wypożyczalni samochodów Na akcjach spółki Avis Budget rozgrywa się właśnie short squeeze, który wypchnął akcje amerykańskiego lidera branży wynajmu samochodów o ponad 560 procent w jeden miesiąc. Sytuacja ta przypomina gwałtowny wzrost kursu Volkswagena z 2008 r., który uczynił go na krótko najcenniejszą firmą świata, oraz rok 2021, kiedy rajd na akcjach GameStop doprowadził do miliardowych strat funduszy takich jak Melvin Capital.",
+      "content_html": "",
+      "date_published": "2026-04-22T13:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Aktywa-ETF-w-Polsce-wzrosly-na-koniec-I-kw-2026-o-20-proc-kdk-do-15-4-mld-zl-Analizy-Online-9121004.html",
+      "url": "https://www.bankier.pl/wiadomosc/Aktywa-ETF-w-Polsce-wzrosly-na-koniec-I-kw-2026-o-20-proc-kdk-do-15-4-mld-zl-Analizy-Online-9121004.html",
+      "title": "Polacy pokochali ETF-y? Aktywa wzrosły o 80 proc. w rok W 2025 r. wartość zgromadzonych aktywów w ETF przez inwestorów indywidualnych w Polsce wzrosła do 12,8 mld zł z 7,1 mld zł, czyli o 80 proc. rdr, a w samym I kw. 2026 r. o prawie 2,6 mld zł, czyli o ok. 20 proc. kdk, do 15,4 mld zł na koniec marca - wynika z raportu Analiz Online.",
+      "content_html": "",
+      "date_published": "2026-04-22T13:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Inpro-w-2026-r-wstepnie-planuje-wprowadzic-do-sprzedazy-ok-1-075-lokali-9120940.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Inpro-w-2026-r-wstepnie-planuje-wprowadzic-do-sprzedazy-ok-1-075-lokali-9120940.html",
       "title": "Grupa Inpro w 2026 r. wstępnie planuje wprowadzić do sprzedaży ok. 1075 lokali Grupa Inpro w 2026 r. wstępnie planuje wprowadzić do sprzedaży ok. 1.075 lokali - podała spółka w komunikacie prasowym. Wskazano, że ostateczne decyzje inwestycyjne będą uzależnione od sytuacji makroekonomicznej oraz bieżącego poziomu popytu na rynku mieszkaniowym.",
@@ -548,20 +562,6 @@
       "title": "Prezes Unimotu: Rynek paliw w Europie pod presją ograniczonej podaży mimo spadków cen Rynek paliw w Europie pozostaje napięty pod względem podaży, pomimo obserwowanych spadków cen - ocenia Adam Sikorski, prezes Unimotu, w przesłanym komentarzu. Jak wskazuje, zawieszenie broni między Iranem a USA poprawiło nastroje, ale nie przełożyło się na wzrost realnej podaży ropy.",
       "content_html": "",
       "date_published": "2026-04-20T14:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-Yellen-ostrzega-przed-republika-bananowa-Burzliwa-zmiana-wladzy-w-Fedzie-9116542.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-Yellen-ostrzega-przed-republika-bananowa-Burzliwa-zmiana-wladzy-w-Fedzie-9116542.html",
-      "title": "Trump grozi, Yellen ostrzega przed „republiką bananową”. Burzliwa zmiana władzy w Fedzie Proces nominacji na stanowisko nowego prezesa amerykańskiej Rezerwy Federalnej wkracza w decydującą fazę. Już we wtorek, 21 kwietnia, kandydat Donalda Trumpa – Kevin Warsh – zostanie przesłuchany przez senacką komisję bankową. Tydzień później obecny szef Fed, Jerome Powell, najprawdopodobniej po raz ostatni poprowadzi posiedzenie banku centralnego. Oto 7 kluczowych wątków wokół zmiany na czele najważniejszego banku centralnego świata.",
-      "content_html": "",
-      "date_published": "2026-04-20T13:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lululemon-debiutuje-North-Fish-znika-Wielkie-zmiany-w-strukturze-najemcow-9116472.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lululemon-debiutuje-North-Fish-znika-Wielkie-zmiany-w-strukturze-najemcow-9116472.html",
-      "title": "Lululemon debiutuje, North Fish znika. Wielkie zmiany w strukturze najemców W pierwszym kwartale 2026 roku do użytku oddano pięć nowych obiektów oraz rozbudowano sześć istniejących, co łącznie przełożyło się na blisko 70 tys. m kw. nowej powierzchni najmu - wynika z raportu Colliers. Dodano, że niemal cała nowa podaż powstała w formacie parków handlowych, które pozostają kluczowym segmentem aktywności deweloperskiej w sektorze handlowym.",
-      "content_html": "",
-      "date_published": "2026-04-20T12:48:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
