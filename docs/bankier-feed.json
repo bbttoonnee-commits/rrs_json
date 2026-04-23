@@ -11,6 +11,20 @@
       "date_published": "2026-04-24T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-robi-krok-wstecz-Nadal-nie-wiadomo-kto-w-kontroluje-Ciesnine-Ormuz-9122084.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-robi-krok-wstecz-Nadal-nie-wiadomo-kto-w-kontroluje-Ciesnine-Ormuz-9122084.html",
+      "title": "Wall Street robi krok wstecz. Nadal nie wiadomo, kto kontroluje Cieśninę Ormuz",
+      "content_html": "Ostrożność inwestorów budziły wydarzenia na Bliskim Wschodzie, gdzie trwa gra o kontrolę nad Cieśniną Ormuz.",
+      "date_published": "2026-04-23T23:05:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Rainbow-Tours-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9122080.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Rainbow-Tours-w-IV-kw-2025-roku-vs-konsensus-PAP-tabela-9122080.html",
+      "title": "Wyniki Rainbow Tours w IV kw. 2025 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Rainbow Tours w czwartyim kwartale 2025 roku według wyliczeń PAP Biznes i ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
+      "date_published": "2026-04-23T22:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-Teheranie-uruchomiono-obrone-powietrzna-Izrael-zaprzecza-by-atakowal-9122055.html",
       "url": "https://www.bankier.pl/wiadomosc/W-Teheranie-uruchomiono-obrone-powietrzna-Izrael-zaprzecza-by-atakowal-9122055.html",
       "title": "W Teheranie uruchomiono obronę powietrzną. Izrael zaprzecza, by atakował",
@@ -688,20 +702,6 @@
       "title": "Żółte światło dla giganta. Moody's zmienia nastawienie do PKO BH",
       "content_html": "Agecja Moody's utrzymała ratingi PKO Banku Hipotecznego na poziomie A3/P-2 dla zobowiązań długoterminowych (stabilną perspektywą) i krótkoterminowych - podała agencja w komunikacie. Perspektywa ratingów długoterminowych banku została zmieniona...",
       "date_published": "2026-04-23T11:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Biurowy-zastoj-w-regionach-Popyt-na-najem-spadl-o-polowe-w-I-kwartale-2026-r-9121531.html",
-      "url": "https://www.bankier.pl/wiadomosc/Biurowy-zastoj-w-regionach-Popyt-na-najem-spadl-o-polowe-w-I-kwartale-2026-r-9121531.html",
-      "title": "Biurowy zastój w regionach. Popyt na najem spadł o połowę w I kwartale 2026 r.",
-      "content_html": "Na koniec I kwartału 2026 roku całkowite zasoby powierzchni biurowej na ośmiu głównych rynkach regionalnych wyniosły 6.760.600 m kw. - wynika z raportu Polskiej Izby Nieruchomości Komercyjnych (PINK).",
-      "date_published": "2026-04-23T10:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sad-uwzglednil-skarge-kasacyjna-Mirbudu-w-sprawie-kary-pienieznej-GIOS-9121501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sad-uwzglednil-skarge-kasacyjna-Mirbudu-w-sprawie-kary-pienieznej-GIOS-9121501.html",
-      "title": "Zwycięstwo Mirbudu w NSA. Sąd uchylił karę, która blokowała spółkę w przetargach",
-      "content_html": "Naczelny Sąd Administracyjny uwzględnił skargę kasacyjną Mirbudu w sprawie kary pieniężnej Głównego Inspektora Ochrony Środowiska z 2022 r. - poinformował Mirbud w komunikacie.",
-      "date_published": "2026-04-23T10:52:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
