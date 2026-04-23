@@ -4,9 +4,37 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-chce-wyplacic-za-2025-rok-8-60-zl-dywidendy-na-akcje-9121790.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-chce-wyplacic-za-2025-rok-8-60-zl-dywidendy-na-akcje-9121790.html",
+      "title": "Rainbow Tours chce wypłacić za 2025 rok 8,60 zł dywidendy na akcję Zarząd Rainbow Tours rekomenduje, aby z zysku osiągniętego w 2025 roku na dywidendę trafiło łącznie 125,14 mln zł, co dałoby 8,60 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-23T14:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rynek-ropy-stawia-na-osiagniecie-pokoju-w-Iranie-w-ciagu-miesiaca-9121748.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-ropy-stawia-na-osiagniecie-pokoju-w-Iranie-w-ciagu-miesiaca-9121748.html",
+      "title": "OPINIA Rynek ropy stawia na osiągnięcie pokoju w Iranie w ciągu miesiąca Ceny ropy mogą pozostać stabilne - utrzymując się w okolicach obecnych ok. 100 USD za baryłkę Brent - przez ok. miesiąc w oczekiwaniu na pokój na Bliskim Wschodzie - ocenił Adam Czorniej, zarządzający funduszami w Skarbiec TFI. Jednocześnie eskalacja konfliktu lub sygnały o trudnościach w osiąganiu porozumienia mogą wywindować ceny do ok. 120-130 USD/ bbl.",
+      "content_html": "",
+      "date_published": "2026-04-23T14:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-spolke-do-produkcji-glowic-bojowych-do-bezzalogowych-systemow-uzbrojenia-9121743.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-spolke-do-produkcji-glowic-bojowych-do-bezzalogowych-systemow-uzbrojenia-9121743.html",
+      "title": "Niewiadów - PGM ma spółkę do produkcji głowic bojowych do bezzałogowych systemów uzbrojenia Niewiadów Polska Grupa Militarna i jej spółka zależna Zakłady Sprzętu Precyzyjnego Niewiadów (ZSP) zawiązały spółkę Niewiadów Warhead Systems, która skupi się na produkcji specjalistycznych głowic bojowych przeznaczonych do bezzałogowych systemów uzbrojenia - podał Niewiadów PGM.",
+      "content_html": "",
+      "date_published": "2026-04-23T14:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-CEZ-zdecyduja-1-VI-o-optymalizacji-struktury-wlasnosciowej-grupy-9121727.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-CEZ-zdecyduja-1-VI-o-optymalizacji-struktury-wlasnosciowej-grupy-9121727.html",
+      "title": "Akcjonariusze CEZ zdecydują 1 VI o optymalizacji struktury własnościowej grupy Rada dyrektorów CEZ przedłożyła do zatwierdzenia akcjonariuszom optymalizację struktury własnościowej i ładu korporacyjnego grupy, przewidującą przeniesienie segmentu klientów grupy do spółki kontrolowanej przez CEZ z możliwością odsprzedaży mniejszościowego pakietu jej udziałów - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-23T13:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kino-Polska-zaklada-wzrost-inwestycji-programmingowych-w-26-polityka-odciaga-od-tresci-rozrywkowych-9121708.html",
       "url": "https://www.bankier.pl/wiadomosc/Kino-Polska-zaklada-wzrost-inwestycji-programmingowych-w-26-polityka-odciaga-od-tresci-rozrywkowych-9121708.html",
-      "title": "Kino Polska zakłada wzrost inwestycji programmingowych w '26; polityka odciąga od treści rozrywkowych Kino Polska zakłada wzrost inwestycji programmingowych w 2026 roku - poinformowała podczas konferencji, członkini zarządu, CEO spółki, Katarzyna Woźnicka. Kino Polska zauważa przesunięcie uwagi widzów w stronę contentu informacyjnego kosztem kanałów rozrywkowych.",
+      "title": "Kino Polska zakłada wzrost inwestycji programmingowych w '26. Polityka odciąga od treści rozrywkowych Kino Polska zakłada wzrost inwestycji programmingowych w 2026 roku - poinformowała podczas konferencji, członkini zarządu, CEO spółki, Katarzyna Woźnicka. Kino Polska zauważa przesunięcie uwagi widzów w stronę contentu informacyjnego kosztem kanałów rozrywkowych.",
       "content_html": "",
       "date_published": "2026-04-23T13:36:00+02:00"
     },
@@ -76,7 +104,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Kupowal-po-10-zl-dostal-w-przymusowym-wykupie-niespelna-1-70-zl-Wygral-w-Trybunale-Konstytucyjnym-9121574.html",
       "url": "https://www.bankier.pl/wiadomosc/Kupowal-po-10-zl-dostal-w-przymusowym-wykupie-niespelna-1-70-zl-Wygral-w-Trybunale-Konstytucyjnym-9121574.html",
-      "title": "Wykupiony z akcjonariatu dostał ułamek za papiery wycenione na blisko 7 zł. Wygrał w Trybunale Konstytucyjnym Trybunał Konstytucyjny orzekł, że przepisy określające sposób ustalania ceny podczas przymusowego wykupu akcji spółek publicznych są niezgodne z Konstytucją. Sprawa dotyczy skargi, którą złożył inwestor indywidualny, po tym gdy w procedurze przymusowego wykupu spółki notowanej na GPW za jedną akcję której wartość księgowa była bliska 7 zł dostał niespełna 1,70 zł. Wyrok TK to duży krok w stronę ochrony praw własności inwestorów, nad czym swoją drogą pracuje teraz Ministerstw Finansów.",
+      "title": "Wykupiony z akcjonariatu dostał ułamek za papiery wycenione na blisko 7 zł. Wygrał w Trybunale Konstytucyjnym Trybunał Konstytucyjny orzekł, że przepisy określające sposób ustalania ceny podczas przymusowego wykupu akcji spółek publicznych są niezgodne z Konstytucją. Sprawa dotyczy skargi, którą złożył inwestor indywidualny, po tym gdy w procedurze przymusowego wykupu spółki notowanej na GPW za jedną akcję, której wartość księgowa była bliska 7 zł dostał niespełna 1,70 zł. Wyrok TK to duży krok w stronę ochrony praw własności inwestorów, nad czym swoją drogą pracuje teraz Ministerstw Finansów.",
       "content_html": "",
       "date_published": "2026-04-23T11:53:00+02:00"
     },
@@ -541,48 +569,6 @@
       "title": "Grodno spodziewa się wzrostu sprzedaży w '26. Akwizycje bez wpływu na dywidendę Grodno spodziewa się wzrostu sprzedaży w 2026 r., bieżący rok może być dla grupy rekordowy pod względem przychodów i rentowności – ocenił prezes Andrzej Jurczak. Grupa potencjalnych celów akwizycyjnych szuka w Polsce i za granicą, a przejęcia nie będą miały wpływu na plany powrotu do wypłaty dywidendy.",
       "content_html": "",
       "date_published": "2026-04-21T15:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enea-ma-ok-1-4-GW-warunkow-przylaczenia-dla-magazynow-CAPEX-grupy-w-26-wyniesie-9-08-mld-zl-9120344.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enea-ma-ok-1-4-GW-warunkow-przylaczenia-dla-magazynow-CAPEX-grupy-w-26-wyniesie-9-08-mld-zl-9120344.html",
-      "title": "Enea ma ok. 1,4 GW warunków przyłączenia dla magazynów; CAPEX grupy w '26 wyniesie 9,08 mld zł Grupa Enea ma ok. 1,4 GW technicznych warunków przyłączenia do sieci dla magazynów energii, prace wykonawcze planowane są na przełomie I i II kwartału 2027 roku - poinformowali przedstawiciele spółki na konferencji. Enea zapowiada duże inwestycje na 2026 rok, CAPEX ma wynieść 9,08 mld zł.",
-      "content_html": "",
-      "date_published": "2026-04-21T14:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NBP-potwierdzil-doniesienia-Bankier-pl-Polska-ma-juz-ponad-580-ton-zlota-9120414.html",
-      "url": "https://www.bankier.pl/wiadomosc/NBP-potwierdzil-doniesienia-Bankier-pl-Polska-ma-juz-ponad-580-ton-zlota-9120414.html",
-      "title": "NBP potwierdził doniesienia Bankier.pl. Polska ma już ponad 580 ton złota W marcu Narodowy Bank Polski kontynuował zakupy złota i drugi miesiąc z rzędu powiększał rezerwy kruszcowe Polski. Jednocześnie za sprawą niższych cen królewskiego metalu rezerwy złota NBP w marcu wyceniane były niżej niż w lutym.",
-      "content_html": "",
-      "date_published": "2026-04-21T14:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enea-nie-przewiduje-by-local-content-wiazal-sie-z-wyzszymi-kosztami-9120413.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enea-nie-przewiduje-by-local-content-wiazal-sie-z-wyzszymi-kosztami-9120413.html",
-      "title": "Enea nie przewiduje, by local content wiązał się z wyższymi kosztami Enea nie przewiduje, by realizacja local content w programie inwestycyjnym oznaczała wyższe koszty – poinformowali przedstawiciele spółki.",
-      "content_html": "",
-      "date_published": "2026-04-21T14:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Forte-szacuje-ze-w-IV-kw-2025-26-mialo-5-mln-zl-skonsolidowanej-EBITDA-9120395.html",
-      "url": "https://www.bankier.pl/wiadomosc/Forte-szacuje-ze-w-IV-kw-2025-26-mialo-5-mln-zl-skonsolidowanej-EBITDA-9120395.html",
-      "title": "Forte szacuje, że w IV kw. 2025/26 miało 5 mln zł skonsolidowanej EBITDA Grupa Fabryk Mebli Forte szacuje, że miała w IV kw. roku obrotowego 2025/26 (od 1 stycznia do 31 marca 2026 r.) 5 mln zł skonsolidowanej EBITDA, w porównaniu do 50 mln zł rok wcześniej - podała spółka w komunikacie. Według szacunków, jej skonsolidowane przychody wyniosły 351 mln zł, o 7 proc. więcej rdr.",
-      "content_html": "",
-      "date_published": "2026-04-21T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unibep-chce-wyplacic-0-4-zl-dywidendy-na-akcje-9120383.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unibep-chce-wyplacic-0-4-zl-dywidendy-na-akcje-9120383.html",
-      "title": "Unibep chce wypłacić 0,4 zł dywidendy na akcję Zarząd Unibep rekomenduje, by z zysku netto za 2025 rok 13,21 mln zł przeznaczyć na dywidendę, co daje 0,4 zł dywidendy na akcję (po wyłączeniu akcji własnych posiadanych przez Unibep) - poinformowała budowlana spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-21T13:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pesa-ma-zgode-KE-na-udzial-w-konsorcjum-starajacym-sie-o-kontrakt-na-linie-metra-w-Lizbonie-9120376.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pesa-ma-zgode-KE-na-udzial-w-konsorcjum-starajacym-sie-o-kontrakt-na-linie-metra-w-Lizbonie-9120376.html",
-      "title": "Pesa ma zgodę KE na udział w konsorcjum starającym się o kontrakt na linię metra w Lizbonie Komisja Europejska zdecydowała o zgodzie na udział spółki Pesa w konsorcjum kierowanym przez Mota-Engil, w miejsce portugalskiej spółki CRRC, ubiegającym się o kontrakt na budowę i zaprojektowanie linii metra \"Violet\" w Lizbonie - podała Komisja w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-21T13:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
