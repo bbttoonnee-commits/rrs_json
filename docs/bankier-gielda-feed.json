@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/ING-Bank-Slaski-podpisal-finalna-umowe-nabycia-akcji-Goldman-Sachs-TFI-9122305.html",
+      "url": "https://www.bankier.pl/wiadomosc/ING-Bank-Slaski-podpisal-finalna-umowe-nabycia-akcji-Goldman-Sachs-TFI-9122305.html",
+      "title": "Goldman Sachs TFI zniknie z Polski? ING Bank Śląski przejmuje całość funduszu ING Bank Śląski podpisał finalną umowę nabycia 55 proc. akcji Goldman Sachs TFI od Goldman Sachs Asset Management International Holdings i będzie posiadać 100 proc. udziałów - poinformował bank w komunikacie. Cena nabycia wynosi 405 mln zł.",
+      "content_html": "",
+      "date_published": "2026-04-24T10:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-wprowadzil-do-sprzedazy-236-mieszkan-w-Lodzi-9122323.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-wprowadzil-do-sprzedazy-236-mieszkan-w-Lodzi-9122323.html",
+      "title": "Archicom wprowadził do sprzedaży 236 mieszkań w Łodzi Archicom wprowadził do sprzedaży etap 1C inwestycji Zenit w Łodzi obejmujący 236 lokali - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-04-24T10:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Answear-do-20-7-zl-9122297.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Answear-do-20-7-zl-9122297.html",
+      "title": "Noble Securities obniżył cenę docelową akcji Answear Analitycy Noble Securities, w raporcie z 21 kwietnia, obniżyli cenę docelową akcji Answear.com w horyzoncie 12-miesięcznym do 20,7 zł z 33,7 zł, podtrzymując rekomendację \"akumuluj\".",
+      "content_html": "",
+      "date_published": "2026-04-24T09:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lena-Lighting-szacuje-strate-netto-grupy-w-I-kw-26-na-983-tys-zl-9122291.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lena-Lighting-szacuje-strate-netto-grupy-w-I-kw-26-na-983-tys-zl-9122291.html",
+      "title": "Lena Lighting szacuje stratę netto grupy w I kw. '26 na 983 tys. zł Lena Lighting szacuje, że skonsolidowana strata netto w pierwszym kwartale 2026 r. wyniosła 983 tys. zł, w porównaniu do 94 tys. zł zysku w analogicznym okresie rok wcześniej - poinformowała spółka w komunikacie. Skonsolidowane przychody wyniosły ok. 33 mln zł, czyli były na porównywalnym rdr poziomie.",
+      "content_html": "",
+      "date_published": "2026-04-24T09:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kompap-chce-wyplacic-0-7-zl-dywidendy-na-akcje-za-2025-r-9122258.html",
       "url": "https://www.bankier.pl/wiadomosc/Kompap-chce-wyplacic-0-7-zl-dywidendy-na-akcje-za-2025-r-9122258.html",
       "title": "Kompap chce wypłacić 0,7 zł dywidendy na akcję za 2025 r. Zarząd spółki Kompap rekomenduje walnemu zgromadzeniu wypłatę 0,7 zł dywidendy na akcję za 2025 rok - podała spółka w komunikacie prasowym.",
@@ -16,6 +44,13 @@
       "title": "DeepSeek pokazał nowy model. Chiński sektor chipowy mocno w górę W świecie sztucznej inteligencji, gdzie dotychczas karty rozdawali amerykańscy giganci z miliardowymi budżetami, doszło do kolejnego tąpnięcia. Chiński start-up DeepSeek zaprezentował swój najnowszy flagowy model – DeepSeek-v4. To wydarzenie to nie tylko kolejny krok w rozwoju technologii, ale przede wszystkim potężny sygnał dla rynków finansowych: era monopolu OpenAI i Google może dobiegać końca, a model biznesowy oparty na gigantycznych kosztach trenowania AI właśnie stanął pod znakiem zapytania.",
       "content_html": "",
       "date_published": "2026-04-24T09:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-coraz-drozszy-USA-i-Iran-czynia-niewielkie-postepy-aby-wznowic-rozmowy-pokojowe-9122255.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-coraz-drozszy-USA-i-Iran-czynia-niewielkie-postepy-aby-wznowic-rozmowy-pokojowe-9122255.html",
+      "title": "Gaz w Europie coraz droższy. USA i Iran czynią niewielkie postępy, aby wznowić rozmowy pokojowe Ceny gazu w Europie rosną, a paliwo zaliczy pierwszą tygodniową zwyżkę notowań od miesiąca - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-04-24T09:06:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/FO-Debica-miala-w-2025-r-125-mln-zl-zysku-netto-tj-60-7-proc-wiecej-rdr-9122244.html",
@@ -618,48 +653,6 @@
       "title": "Zremb-Chojnice zdecydował o podwyższeniu kapitału przez emisję do 3 mln akcji serii L Zarząd Zremb-Chojnice podjął uchwałę w sprawie podwyższenia kapitału zakładowego w drodze emisji do 3 mln akcji serii L. Cena emisyjna wynosi 6 zł za papier - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-22T11:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bezpieczny-seks-nawet-o-jedna-trzecia-drozszy-Producent-prezerwatyw-Durex-popyt-wzrosl-o-30-9120881.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bezpieczny-seks-nawet-o-jedna-trzecia-drozszy-Producent-prezerwatyw-Durex-popyt-wzrosl-o-30-9120881.html",
-      "title": "Producent prezerwatyw Durex: popyt wzrósł o 30%. Zapowiada ogromną podwyżkę cen Prezes malezyjskiego giganta Karex, który jest największym na świecie producentem prezerwatyw, zapowiedział drastyczne podwyżki cen. Firma obsługująca m.in. markę Durex planuje podnieść ceny o nawet jedną trzecią, a jeśli sytuacja na Bliskim Wschodzie nie ulegnie poprawie, kwoty te mogą wzrosnąć jeszcze bardziej. Tymczasem prezes lateksowej spółki zdradził, że popyty na prezerwatywy wzrósł o około 30%.",
-      "content_html": "",
-      "date_published": "2026-04-22T11:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-wynik-Nest-Banku-Ponad-150-mln-zl-zysku-i-wielka-zmiana-dla-klientow-9120895.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-wynik-Nest-Banku-Ponad-150-mln-zl-zysku-i-wielka-zmiana-dla-klientow-9120895.html",
-      "title": "Rekordowy wynik Nest Banku. Ponad 150 mln zł zysku i wielka zmiana dla klientów Nest Bank zamknął 2025 r. zyskiem netto w kwocie 151,7 mln zł, ROE na poziomie 19 proc. i TCR 21,07 proc. - podał bank w komunikacie prasowym. Wskazano, że Nest Bank rozwija bankowość konwersacyjną opartą na AI.",
-      "content_html": "",
-      "date_published": "2026-04-22T11:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/To-silny-sygnal-dla-rynkow-Analitycy-oceniaja-wystapienie-przyszlego-szefa-Fedu-9120880.html",
-      "url": "https://www.bankier.pl/wiadomosc/To-silny-sygnal-dla-rynkow-Analitycy-oceniaja-wystapienie-przyszlego-szefa-Fedu-9120880.html",
-      "title": "\"To silny sygnał dla rynków\". Analitycy oceniają wystąpienie przyszłego szefa Fedu To są dobre wieści dla niezależności amerykańskiego banku centralnego – oceniają analitycy UniCredit wtorkowe wysłuchanie Kevina Warsha przed Senatem. Kandydat na szefa Rezerwy Federalnej nie dał rynkom powodów do nagłej zmiany oczekiwań, twardo odciął się od politycznych nacisków i zapowiedział powrót do merytorycznych sporów, określając je mianem „dobrej, rodzinnej kłótni”.",
-      "content_html": "",
-      "date_published": "2026-04-22T11:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Bloober-Team-do-40-zl-9120876.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Bloober-Team-do-40-zl-9120876.html",
-      "title": "Trigon DM podwyższył cenę docelową akcji Bloober Team Analitycy Trigon DM, w raporcie z 21 kwietnia, podwyższyli cenę docelową akcji Bloober Team do 40 zł z 35 zł wcześniej i podtrzymali rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-04-22T10:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/IMC-rozpoczelo-kampanie-siewna-we-wszystkich-gospodarstwach-nalezacych-do-firmy-9120870.html",
-      "url": "https://www.bankier.pl/wiadomosc/IMC-rozpoczelo-kampanie-siewna-we-wszystkich-gospodarstwach-nalezacych-do-firmy-9120870.html",
-      "title": "IMC rozpoczęło kampanię siewną we wszystkich gospodarstwach należących do firmy IMC, notowana na GPW spółka rolnicza działająca w Ukrainie, rozpoczęła kampanię siewną we wszystkich gospodarstwach należących do firmy - podała spółka w komunikacie prasowym. Wskazano, że grupa jest w pełni zabezpieczona sprzętowo oraz produktowo do sprawnej realizacji siewu wiosennego.",
-      "content_html": "",
-      "date_published": "2026-04-22T10:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-na-stabilnym-poziomie-Wczesniej-w-2-sesje-zdrozal-ponad-8-proc-9120846.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-na-stabilnym-poziomie-Wczesniej-w-2-sesje-zdrozal-ponad-8-proc-9120846.html",
-      "title": "Gaz w Europie na stabilnym poziomie. Wcześniej w 2 sesje zdrożał ponad 8 proc. Ceny gazu w Europie są na stabilnym poziomie po tym, jak w czasie 2 poprzednich sesji wzrosły o ponad 8 proc. - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-04-22T09:38:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
