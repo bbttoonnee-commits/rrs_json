@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Drago-entertainment-dokona-odpisow-aktualizujacych-w-lacznej-kwocie-1-6-mln-zl-9122826.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drago-entertainment-dokona-odpisow-aktualizujacych-w-lacznej-kwocie-1-6-mln-zl-9122826.html",
+      "title": "Drago entertainment dokona odpisów aktualizujących w łącznej kwocie 1,6 mln zł",
+      "content_html": "Drago entertainment, w związku z pracami nad sporządzeniem jednostkowego sprawozdania finansowego za rok 2025, po przeprowadzeniu testów na utratę wartości nakładów dotyczących realizowanych projektów w toku, podjął decyzję o dokonaniu odpisów...",
+      "date_published": "2026-04-24T22:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-szef-CENTCOM-Iran-posiada-jeszcze-setki-min-9122816.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-szef-CENTCOM-Iran-posiada-jeszcze-setki-min-9122816.html",
+      "title": "Były szef CENTCOM: Iran posiada jeszcze setki min",
+      "content_html": "Iran posiada jeszcze setki min, które może postawić w cieśninie Ormuz, próbując utrzymać ją zamkniętą dla żeglugi - uważa były szef Dowództwa Centralnego USA (CENTCOM), emerytowany generał Erik Kurilla.",
+      "date_published": "2026-04-24T21:58:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Smierc-posla-Lukasza-Litewki-Sa-wyniki-sekcji-zwlok-9122685.html",
       "url": "https://www.bankier.pl/wiadomosc/Smierc-posla-Lukasza-Litewki-Sa-wyniki-sekcji-zwlok-9122685.html",
       "title": "Śmierć posła Łukasza Litewki. Są wyniki sekcji zwłok",
@@ -688,20 +702,6 @@
       "title": "Codzienne zakupy coraz mocniej biją po kieszeni. Koniec wojen cenowych gigantów?",
       "content_html": "Średnia wartość koszyka zakupowego wyniosła w marcu br. 338,21 zł, czyli była o 1,11 proc. wyższa niż w lutym i o 7,43 proc. wyższa niż rok wcześniej - wynika z opublikowanej w piątek analizy ASM SFA. Podwyżki w skali roku objęły 12 z 13...",
       "date_published": "2026-04-24T09:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bliski-Wschod-dusi-rynek-metali-Miedz-konczy-tydzien-pod-kreska-9122215.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bliski-Wschod-dusi-rynek-metali-Miedz-konczy-tydzien-pod-kreska-9122215.html",
-      "title": "Bliski Wschód dusi rynek metali. Miedź kończy tydzień pod kreską",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają i zaliczą kończący się tydzień na minusie. Nie wiadomo co dalej z konfliktem na Bliskim Wschodzie, a to negatywnie wpływa na globalną gospodarkę i popyt - informują maklerzy.",
-      "date_published": "2026-04-24T09:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grecki-cud-wloski-problem-Rzym-z-najwiekszym-dlugiem-w-eurolandzie-9122059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grecki-cud-wloski-problem-Rzym-z-najwiekszym-dlugiem-w-eurolandzie-9122059.html",
-      "title": "Grecki cud, włoski problem. Rzym z największym długiem w eurolandzie",
-      "content_html": "Włochy wyprzedzą pod koniec 2026 roku Grecję jako najbardziej zadłużony kraj strefy euro - podaje w czwartek Reuters, powołując się na źródła w greckim rządzie i wieloletni plan budżetowy Rzymu. Dług Włoch sięgnie 138,6 proc. PKB, a Grecji...",
-      "date_published": "2026-04-24T09:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
