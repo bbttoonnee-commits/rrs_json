@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Baseig-sprzedali-w-ABB-lacznie-ok-121-5-tys-akcji-spolki-w-cenie-30-zl-szt-9122778.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Baseig-sprzedali-w-ABB-lacznie-ok-121-5-tys-akcji-spolki-w-cenie-30-zl-szt-9122778.html",
+      "title": "Akcjonariusze Baseig sprzedali w ABB łącznie ok. 121,5 tys. akcji spółki w cenie 30 zł/szt. Akcjonariusze Baseig - P.B. Fundacja Rodzinna oraz OZE Trading - sprzedali w ABB odpowiednio 61.428 oraz 60.058 akcji spółki w cenie 30 zł za papier - poinformował Baseig w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-24T19:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prezes-JSW-Wegiel-koksowy-surowcem-krytycznym-ale-mimo-to-nie-ma-systemu-wsparcia-9122745.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezes-JSW-Wegiel-koksowy-surowcem-krytycznym-ale-mimo-to-nie-ma-systemu-wsparcia-9122745.html",
       "title": "Prezes JSW: Węgiel koksowy surowcem krytycznym, ale mimo to nie ma systemu wsparcia Mimo, iż węgiel koksowy jest europejskim surowcem krytycznym, nie istnieją dla niego żadne mechanizmy wsparcia - wskazał podczas Europejskiego Kongresu Gospodarczego p.o. prezesa JSW Bogusław Oleksy. Dodał, że bez mechanizmu wsparcia trudno będzie utrzymać „w normalnym funkcjonowaniu” aktywa koksowe.",
@@ -618,13 +625,6 @@
       "title": "Wyniki Celon Pharma w IV kw. 2025 roku vs. konsensus PAP (tabela) Poniżej przedstawiono wyniki Celon Pharma w czwartym kwartale 2025 roku według wyliczeń PAP Biznes oraz ich odniesienie do konsensusu i wyników poprzednich okresów.",
       "content_html": "",
       "date_published": "2026-04-23T06:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Strategia-local-content-kluczem-do-niezaleznosci-gospodarczej-nowelizacja-PZP-nie-jest-wymagana-debata-na-EKG-9121298.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strategia-local-content-kluczem-do-niezaleznosci-gospodarczej-nowelizacja-PZP-nie-jest-wymagana-debata-na-EKG-9121298.html",
-      "title": "Miliardy zostaną w Polsce. Jak spółki Skarbu Państwa chcą budować krajowy łańcuch dostaw Budowa krajowego łańcucha dostaw to kwestia bezpieczeństwa i suwerenności Polski, a zamówienia publiczne mogą być narzędziem realizowania strategii państwa - ocenili uczestnicy środowej debaty podczas Europejskiego Kongresu Gospodarczego. Implementacja local content nie będzie wymagać nowelizacji Prawa Zamówień Publicznych.",
-      "content_html": "",
-      "date_published": "2026-04-22T19:46:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
