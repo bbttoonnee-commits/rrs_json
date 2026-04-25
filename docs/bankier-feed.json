@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trzej-politycy-zostali-przylapani-na-stawianiu-zakladow-nt-wlasnych-wyborow-9121379.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzej-politycy-zostali-przylapani-na-stawianiu-zakladow-nt-wlasnych-wyborow-9121379.html",
+      "title": "Trzej politycy zostali przyłapani na stawianiu zakładów nt. własnych wyborów",
+      "content_html": "Trzej politycy z obydwu partii w Minnesocie, Teksasie i Wirginii stawiali zakłady dotyczące wyborów, w których brali udział - poinformowała platforma rynków predykcyjnych Kalshi. Politycy zostali ukarani przez firmę kwotami od 500 do ponad 6 tys...",
+      "date_published": "2026-04-25T13:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Czarny-scenariusz-dla-firm-Konflikt-na-Bliskim-Wschodzie-zmiecie-z-rynku-tysiace-przedsiebiorstw-9120867.html",
       "url": "https://www.bankier.pl/wiadomosc/Czarny-scenariusz-dla-firm-Konflikt-na-Bliskim-Wschodzie-zmiecie-z-rynku-tysiace-przedsiebiorstw-9120867.html",
       "title": "Czarny scenariusz dla firm. Konflikt na Bliskim Wschodzie zmiecie z rynku tysiące przedsiębiorstw",
       "content_html": "Liczba niewypłacalności przedsiębiorstw na świecie wzrośnie w 2026 roku o 6 proc. - podało Allianz Trade w komunikacie prasowym. Allianz Trade szacuje, iż konflikt na Bliskim Wschodzie doprowadzi do ponad 15.000 niewypłacalności przedsiębiorstw...",
       "date_published": "2026-04-25T13:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Smierc-posla-Lukasza-Litewki-Sa-wyniki-sekcji-zwlok-9122685.html",
+      "url": "https://www.bankier.pl/wiadomosc/Smierc-posla-Lukasza-Litewki-Sa-wyniki-sekcji-zwlok-9122685.html",
+      "title": "Śmierć posła Łukasza Litewki. Są wyniki sekcji zwłok, kierowca aresztowany",
+      "content_html": "57-latek zatrzymany po wypadku, w którym zginął poseł Łukasz Litewka, usłyszał zarzut nieumyślnego spowodowania wypadku ze skutkiem śmiertelnym i został aresztowany - poinformował rzecznik Prokuratury Okręgowej w Sosnowcu Bartosz Kilian. Podejrzany...",
+      "date_published": "2026-04-25T12:30:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-z-bagazem-podrecznym-Nowa-taryfa-i-zmiana-zasad-u-duzego-przewoznika-9122934.html",
@@ -247,13 +261,6 @@
       "title": "Były szef CENTCOM: Iran posiada jeszcze setki min",
       "content_html": "Iran posiada jeszcze setki min, które może postawić w cieśninie Ormuz, próbując utrzymać ją zamkniętą dla żeglugi - uważa były szef Dowództwa Centralnego USA (CENTCOM), emerytowany generał Erik Kurilla.",
       "date_published": "2026-04-24T21:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Smierc-posla-Lukasza-Litewki-Sa-wyniki-sekcji-zwlok-9122685.html",
-      "url": "https://www.bankier.pl/wiadomosc/Smierc-posla-Lukasza-Litewki-Sa-wyniki-sekcji-zwlok-9122685.html",
-      "title": "Śmierć posła Łukasza Litewki. Są wyniki sekcji zwłok",
-      "content_html": "57-latek zatrzymany po wypadku, w którym zginął poseł Łukasz Litewka, usłyszał zarzut nieumyślnego spowodowania wypadku ze skutkiem śmiertelnym - poinformował rzecznik Prokuratury Okręgowej w Sosnowcu Bartosz Kilian. Podejrzany przyznał się...",
-      "date_published": "2026-04-24T21:41:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Al-Dzazira-Iran-moze-przetrzymac-amerykanska-blokade-jego-portow-9122800.html",
@@ -688,13 +695,6 @@
       "title": "Polski biznes ślepy na koszty energii. Płacimy najwięcej w Europie",
       "content_html": "Choć ceny prądu w Polsce należą do najwyższych na kontynencie, blisko połowa krajowych firm w ogóle nie kontroluje jego zużycia, ryzykując szybką utratę rynkowej konkurencyjności.",
       "date_published": "2026-04-24T12:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Awantura-o-tajemnice-WSI-sprzed-lat-wywolanie-wojny-polsko-polskiej-9122367.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awantura-o-tajemnice-WSI-sprzed-lat-wywolanie-wojny-polsko-polskiej-9122367.html",
-      "title": "Awantura o tajemnice WSI sprzed lat.\"wywołanie wojny polsko-polskiej\"",
-      "content_html": "Prezydent Karol Nawrocki chce doprowadzić do kolejnej wojny polsko-polskiej - ocenił w piątek wicepremier, minister cyfryzacji Krzysztof Gawkowski, mówiąc o ewentualnym odtajnieniu aneksu do raportu z likwidacji Wojskowych Służb Informacyjnych...",
-      "date_published": "2026-04-24T12:41:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
