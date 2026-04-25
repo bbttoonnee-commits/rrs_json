@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanskie-spolki-pokazuja-w-I-kwartale-zyski-o-12-3-proc-powyzej-prognoz-9122946.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanskie-spolki-pokazuja-w-I-kwartale-zyski-o-12-3-proc-powyzej-prognoz-9122946.html",
+      "title": "FACTSET Amerykańskie spółki pokazują w I kwartale zyski o 12,3 proc. powyżej prognoz Po jednej czwartej sezonu publikacji wyników za pierwszy kwartał przez amerykańskie spółki indeks S&P 500 notuje wzrost zysków łącznie o 12,3 proc. powyżej prognoz analityków - wynika z danych FactSet. Spółki z tego indeksu notują dwucyfrowy (rok do roku) wzrost zysków już szósty kwartał z rzędu.",
+      "content_html": "",
+      "date_published": "2026-04-25T14:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/24-26-kwietnia-rozpocznie-sie-rebranding-Santander-Bank-Polska-na-Erste-Bank-Polska-9111402.html",
+      "url": "https://www.bankier.pl/wiadomosc/24-26-kwietnia-rozpocznie-sie-rebranding-Santander-Bank-Polska-na-Erste-Bank-Polska-9111402.html",
+      "title": "Rusza rebranding Santandera na Erste Bank. Co to oznacza dla klientów? Santander Bank Polska poinformował, że w weekend 24–26 kwietnia planuje rozpocząć rebranding, czyli formalną zmianę marki na Erste Bank Polska. To kolejny etap procesu integracji z austriacką Erste Group, która od 9 stycznia jest głównym akcjonariuszem banku po sfinalizowaniu transakcji zakupu 49 proc. akcji Santander Bank Polska i 50 proc. akcji Santander TFI.",
+      "content_html": "",
+      "date_published": "2026-04-25T14:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PCF-Group-przejmuje-marke-Cooldown-Games-by-odbudowac-swoj-pion-wydawniczy-9122926.html",
       "url": "https://www.bankier.pl/wiadomosc/PCF-Group-przejmuje-marke-Cooldown-Games-by-odbudowac-swoj-pion-wydawniczy-9122926.html",
       "title": "PCF Group przejmuje markę Cooldown Games, by odbudować swój pion wydawniczy PCF Group przejmuje markę Cooldown Games wraz z jej prawami wydawniczymi - poinformował polski producent gier z segmentu AAA. Transakcja ma wzmocnić działalność wydawniczą grupy w modelu self-publishing, zwiększyć marżowość projektów własnych oraz wprowadzić nowy strumień przychodów.",
@@ -443,27 +457,6 @@
       "title": "Murapol chce wypłacić dodatkowo 1,97 zł dywidendy z zysku netto za 2025 rok Murapol chce przeznaczyć dodatkowo 80,4 mln zł z zysku netto za 2025 rok na dywidendę, co daje 1,97 zł na akcję - podała spółka w projektach uchwał na walne zgromadzenie zwołane na 22 maja. W grudniu Murapol wypłacił zaliczkę na poczet dywidendy za 2025 r. w wysokości 2,94 zł na akcję.",
       "content_html": "",
       "date_published": "2026-04-23T15:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-chce-wyplacic-za-2025-rok-8-60-zl-dywidendy-na-akcje-9121790.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-chce-wyplacic-za-2025-rok-8-60-zl-dywidendy-na-akcje-9121790.html",
-      "title": "Rainbow Tours chce wypłacić za 2025 rok 8,60 zł dywidendy na akcję Zarząd Rainbow Tours rekomenduje, aby z zysku osiągniętego w 2025 roku na dywidendę trafiło łącznie 125,14 mln zł, co dałoby 8,60 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-23T14:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rynek-ropy-stawia-na-osiagniecie-pokoju-w-Iranie-w-ciagu-miesiaca-9121748.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rynek-ropy-stawia-na-osiagniecie-pokoju-w-Iranie-w-ciagu-miesiaca-9121748.html",
-      "title": "OPINIA Rynek ropy stawia na osiągnięcie pokoju w Iranie w ciągu miesiąca Ceny ropy mogą pozostać stabilne - utrzymując się w okolicach obecnych ok. 100 USD za baryłkę Brent - przez ok. miesiąc w oczekiwaniu na pokój na Bliskim Wschodzie - ocenił Adam Czorniej, zarządzający funduszami w Skarbiec TFI. Jednocześnie eskalacja konfliktu lub sygnały o trudnościach w osiąganiu porozumienia mogą wywindować ceny do ok. 120-130 USD/ bbl.",
-      "content_html": "",
-      "date_published": "2026-04-23T14:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-spolke-do-produkcji-glowic-bojowych-do-bezzalogowych-systemow-uzbrojenia-9121743.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-spolke-do-produkcji-glowic-bojowych-do-bezzalogowych-systemow-uzbrojenia-9121743.html",
-      "title": "Niewiadów - PGM ma spółkę do produkcji głowic bojowych do bezzałogowych systemów uzbrojenia Niewiadów Polska Grupa Militarna i jej spółka zależna Zakłady Sprzętu Precyzyjnego Niewiadów (ZSP) zawiązały spółkę Niewiadów Warhead Systems, która skupi się na produkcji specjalistycznych głowic bojowych przeznaczonych do bezzałogowych systemów uzbrojenia - podał Niewiadów PGM.",
-      "content_html": "",
-      "date_published": "2026-04-23T14:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
