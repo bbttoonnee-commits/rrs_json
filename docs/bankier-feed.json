@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyjatkowy-stream-influencera-Latwogang-Zebral-miliony-na-walke-dzieci-z-rakiem-9122911.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyjatkowy-stream-influencera-Latwogang-Zebral-miliony-na-walke-dzieci-z-rakiem-9122911.html",
+      "title": "Wyjątkowy stream influencera Łatwogang. Zebrał 50 mln zł na walkę dzieci z rakiem, a licznik wciąż bije",
+      "content_html": "To, co dzieje się na polskim YouTubie, wymyka się wszelkim schematom. Influencer Łatwogang, realizując swój kilkudniowy stream, przekroczył niewyobrażalną barierę 50 milionów złotych zebranych na cele charytatywne. Skala hojności internautów...",
+      "date_published": "2026-04-25T19:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fiasko-rozmow-w-Islamabadzie-Trump-odwoluje-misje-Kushnera-a-Iran-leci-do-Moskwy-9123006.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fiasko-rozmow-w-Islamabadzie-Trump-odwoluje-misje-Kushnera-a-Iran-leci-do-Moskwy-9123006.html",
+      "title": "Fiasko rozmów w Islamabadzie. Trump odwołuje misję Kushnera, a Iran leci do Moskwy",
+      "content_html": "Delegacja Iranu z szefem MSZ tego kraju Abbasem Aragczim na czele opuściła w sobotę stolicę Pakistanu Islamabad - podała agencja Reutera, powołując się na źródła w pakistańskim rządzie. Informację tę potwierdziła stacja BBC za irańską...",
+      "date_published": "2026-04-25T18:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Viktor-Orban-rezygnuje-z-mandatu-Historyczny-odwrot-lidera-Fideszu-po-porazce-z-TISZA-9123005.html",
       "url": "https://www.bankier.pl/wiadomosc/Viktor-Orban-rezygnuje-z-mandatu-Historyczny-odwrot-lidera-Fideszu-po-porazce-z-TISZA-9123005.html",
       "title": "Viktor Orban rezygnuje z mandatu. Historyczny odwrót lidera Fideszu po porażce z TISZĄ",
@@ -30,13 +44,6 @@
       "title": "Jak to w końcu jest z alienacją rodzicielską? Prawniczka: Wokół niej narosło sporo mitów",
       "content_html": "Wokół alienacji rodzicielskiej narosło sporo mitów - powiedziała PAP dr Sylwia Różycka-Jaroś z Instytutu Profilaktyki Społecznej i Resocjalizacji UW. - Przedstawiana jako forma przemocy emocjonalnej wobec drugiego rodzica, może wynikać z próby...",
       "date_published": "2026-04-25T18:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyjatkowy-stream-influencera-Latwogang-Zebral-miliony-na-walke-dzieci-z-rakiem-9122911.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyjatkowy-stream-influencera-Latwogang-Zebral-miliony-na-walke-dzieci-z-rakiem-9122911.html",
-      "title": "Wyjątkowy stream influencera Łatwogang. Zebrał 45 mln zł na walkę dzieci z rakiem, a licznik wciąż bije",
-      "content_html": "To, co dzieje się na polskim YouTubie, wymyka się wszelkim schematom. Influencer Łatwogang, realizując swój kilkudniowy stream, przekroczył niewyobrażalną barierę 45 milionów złotych zebranych na cele charytatywne. Skala hojności internautów...",
-      "date_published": "2026-04-25T17:38:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wegry-otrzymaly-9-proc-pieniedzy-z-programu-wsparcia-po-pandemii-najmniej-w-UE-9116354.html",
@@ -695,13 +702,6 @@
       "title": "Na takie poparcie mogłaby liczyć potencjalna partia Morawieckiego",
       "content_html": "Na potencjalną partię byłego premiera Mateusza Morawieckiego mogłoby zagłosować 6 proc. ankietowanych - wynika z badania CBOS. Elektorat tej formacji w 60 proc. składałby się ze zwolenników PiS, w 27 proc. z sympatyków Konfederacji, a w 9 proc...",
       "date_published": "2026-04-24T14:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Andrzej-Duda-na-Kijowskim-Forum-Bezpieczenstwa-Ukraina-powinna-wstapic-do-UE-9122453.html",
-      "url": "https://www.bankier.pl/wiadomosc/Andrzej-Duda-na-Kijowskim-Forum-Bezpieczenstwa-Ukraina-powinna-wstapic-do-UE-9122453.html",
-      "title": "Andrzej Duda na Kijowskim Forum Bezpieczeństwa: Ukraina powinna wstąpić do UE",
-      "content_html": "Ukraina powinna zostać pełnoprawnym członkiem Unii Europejskiej i otrzymać gwarancje bezpieczeństwa od NATO; bezpieczeństwo Ukrainy jest bezpieczeństwem Polski – powiedział w piątek były prezydent RP Andrzej Duda, występując na Kijowskim...",
-      "date_published": "2026-04-24T14:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
