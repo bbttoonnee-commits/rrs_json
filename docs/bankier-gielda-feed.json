@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/To-byla-zywcem-kradziez-Wyciekly-nagrania-rozmow-Sylwestra-Suszka-z-Rafalem-Zaorskim-9123116.html",
+      "url": "https://www.bankier.pl/wiadomosc/To-byla-zywcem-kradziez-Wyciekly-nagrania-rozmow-Sylwestra-Suszka-z-Rafalem-Zaorskim-9123116.html",
+      "title": "„To była żywcem kradzież”. Wyciekły nagrania rozmów Sylwestra Suszka z Rafałem Zaorskim Jak się okazuje, Sylwester Suszek nagrywał rozmowy ze swoimi partnerami biznesowymi. \"Rzeczpospolita\" ujawniła nagranie rozmowy z Rafałem Zaorskim, znanym traderem i inwestorem. Zarejestrowana w nocy sylwestrową 2020 roku rozmowa między zaginionym Suszkiem a Zaorskim to brutalny zapis wzajemnych oskarżeń o milionowe kradzieże, nieudane spekulacje i wyprowadzanie środków przez Dubaj.",
+      "content_html": "",
+      "date_published": "2026-04-26T08:45:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcje-Nvidii-rekordowo-drogie-kapitalizacja-spolki-przekroczyla-5-bilionow-USD-9123028.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcje-Nvidii-rekordowo-drogie-kapitalizacja-spolki-przekroczyla-5-bilionow-USD-9123028.html",
       "title": "Akcje Nvidii rekordowo drogie, kapitalizacja spółki przekroczyła 5 bilionów USD Akcje zamknęły się w piątek na rekordowym w historii poziomie, zwiększając kapitalizację rynkową firmy po raz pierwszy do ponad 5 bilionów USD, ponieważ inwestorzy masowo inwestują w rynek układów scalonych AI przed ogłoszeniem wyników finansowych gigantów technologicznych w przyszłym tygodniu.",
@@ -275,34 +282,6 @@
       "title": "DeepSeek pokazał nowy model. Chiński sektor chipowy mocno w górę W świecie sztucznej inteligencji, gdzie dotychczas karty rozdawali amerykańscy giganci z miliardowymi budżetami, doszło do kolejnego tąpnięcia. Chiński start-up DeepSeek zaprezentował swój najnowszy flagowy model – DeepSeek-v4. To wydarzenie to nie tylko kolejny krok w rozwoju technologii, ale przede wszystkim potężny sygnał dla rynków finansowych: era monopolu OpenAI i Google może dobiegać końca, a model biznesowy oparty na gigantycznych kosztach trenowania AI właśnie stanął pod znakiem zapytania.",
       "content_html": "",
       "date_published": "2026-04-24T09:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-coraz-drozszy-USA-i-Iran-czynia-niewielkie-postepy-aby-wznowic-rozmowy-pokojowe-9122255.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-coraz-drozszy-USA-i-Iran-czynia-niewielkie-postepy-aby-wznowic-rozmowy-pokojowe-9122255.html",
-      "title": "Gaz w Europie coraz droższy. USA i Iran czynią niewielkie postępy, aby wznowić rozmowy pokojowe Ceny gazu w Europie rosną, a paliwo zaliczy pierwszą tygodniową zwyżkę notowań od miesiąca - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-04-24T09:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/FO-Debica-miala-w-2025-r-125-mln-zl-zysku-netto-tj-60-7-proc-wiecej-rdr-9122244.html",
-      "url": "https://www.bankier.pl/wiadomosc/FO-Debica-miala-w-2025-r-125-mln-zl-zysku-netto-tj-60-7-proc-wiecej-rdr-9122244.html",
-      "title": "FO Dębica miała w 2025 r. 125 mln zł zysku netto, tj. 60,7 proc. więcej rdr Firma Oponiarska Dębica odnotowała w 2025 r. 125 mln zł zysku netto, tj. 60,7 proc. więcej rdr - poinformowała spółka w komunikacie prasowym. Wskazano, że firma jest zadowolona z rezultatów osiągniętych w 2025 roku, jednak obecnie sytuacja na rynku oponiarskim pozostaje wymagająca.",
-      "content_html": "",
-      "date_published": "2026-04-24T08:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/IPO-Rex-Concepts-na-ostatniej-prostej-Akcje-wycenione-na-14-zl-9122185.html",
-      "url": "https://www.bankier.pl/wiadomosc/IPO-Rex-Concepts-na-ostatniej-prostej-Akcje-wycenione-na-14-zl-9122185.html",
-      "title": "IPO Rex Concepts na ostatniej prostej. Akcje wycenione na 14 zł Ostateczna cena sprzedaży akcji Rex Concepts w IPO to 14 zł, a liczba oferowanych akcji wynosi 35.555.555 szt. - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-24T08:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enel-Med-szacuje-wydluzenie-oczekiwania-na-badania-na-NFZ-na-od-kilku-miesiecy-do-ok-dwoch-lat-9122199.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enel-Med-szacuje-wydluzenie-oczekiwania-na-badania-na-NFZ-na-od-kilku-miesiecy-do-ok-dwoch-lat-9122199.html",
-      "title": "Enel-Med szacuje wydłużenie oczekiwania na badania na NFZ na od kilku miesięcy do ok. dwóch lat Po wejściu w życie nowych zasad rozliczania nadwykonań badań Enel-Med szacuje wydłużenie oczekiwania na badania na NFZ na od kilku miesięcy do blisko dwóch lat, w zależności od lokalizacji i rodzaju badania - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-04-24T07:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
