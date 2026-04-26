@@ -4,11 +4,18 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Singapur-dwukrotnie-zwiekszyl-import-rosyjskich-produktow-ropopochodnych-9122632.html",
+      "url": "https://www.bankier.pl/wiadomosc/Singapur-dwukrotnie-zwiekszyl-import-rosyjskich-produktow-ropopochodnych-9122632.html",
+      "title": "Singapur dwukrotnie zwiększył import rosyjskich produktów ropopochodnych",
+      "content_html": "W Singapurze gwałtownie wzrósł import rosyjskich produktów ropopochodnych po wybuchu wojny na Bliskim Wschodzie - poinformował „Financial Times”. Według danych firmy Vortexa, monitorującej ruch morski, wolumen importu w kwietniu był dwukrotnie...",
+      "date_published": "2026-04-26T17:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyjatkowy-stream-influencera-Latwogang-Zebral-miliony-na-walke-dzieci-z-rakiem-9122911.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyjatkowy-stream-influencera-Latwogang-Zebral-miliony-na-walke-dzieci-z-rakiem-9122911.html",
-      "title": "Wyjątkowy stream influencera. Łatwogang zebrał już 160 mln zł na walkę dzieci z rakiem, a licznik wciąż bije",
-      "content_html": "To, co dzieje się na polskim YouTubie, wymyka się wszelkim schematom. Influencer Łatwogang, realizując swój kilkudniowy stream, przekroczył niewyobrażalną barierę 160 milionów złotych zebranych na cele charytatywne. Skala hojności internautów...",
-      "date_published": "2026-04-26T16:43:00+02:00"
+      "title": "Wyjątkowy stream influencera. Łatwogang zebrał już 164 mln zł na walkę dzieci z rakiem",
+      "content_html": "To, co dzieje się na polskim YouTubie, wymyka się wszelkim schematom. Influencer Łatwogang, realizując swój kilkudniowy stream, przekroczył niewyobrażalną barierę 164 milionów złotych zebranych na cele charytatywne. Skala hojności internautów...",
+      "date_published": "2026-04-26T17:01:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-napedza-popyt-na-fotowoltaike-i-samochody-elektryczne-9121312.html",
@@ -695,13 +702,6 @@
       "title": "Rozpoczęła się operacja „Skrzydła Świtu” - powrót członków zaginionego plemienia",
       "content_html": "Do Izraela przyleciała grupa 240 członków żyjącej w Indiach społeczności Bnej Menasze, uważającej się za jedno z dziesięciu zaginionych plemion Izraela. W ramach operacji „Skrzydła Świtu” na północy Izraela do 2030 r. ma się osiedlić...",
       "date_published": "2026-04-24T21:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-zamrozily-344-mln-dolarow-w-kryptowalucie-ktore-sa-powiazane-z-Iranem-9122790.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-zamrozily-344-mln-dolarow-w-kryptowalucie-ktore-sa-powiazane-z-Iranem-9122790.html",
-      "title": "USA zamroziły 344 mln dolarów w kryptowalucie, które są powiązane z Iranem",
-      "content_html": "Władze USA zamroziły 344 mln dolarów w kryptowalucie, które według nich są powiązane z Iranem - podała w piątek stacja CNN. Minister finansów Scott Bessent oświadczył, że resort „nakłada sankcje na wiele portfeli powiązanych z Iranem”...",
-      "date_published": "2026-04-24T21:09:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
