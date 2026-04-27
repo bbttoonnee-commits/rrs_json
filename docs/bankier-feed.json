@@ -4,18 +4,172 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Produkcja-ropy-w-Zatoce-Perskiej-runela-o-40-procent-Analitycy-nie-maja-zludzen-9123498.html",
+      "url": "https://www.bankier.pl/wiadomosc/Produkcja-ropy-w-Zatoce-Perskiej-runela-o-40-procent-Analitycy-nie-maja-zludzen-9123498.html",
+      "title": "Produkcja ropy w Zatoce Perskiej runęła o 40 procent. Analitycy nie mają złudzeń",
+      "content_html": "Trwa jeden z największych kryzysów podażowych na rynku ropy naftowej w nowożytnej historii. Z wyliczeń analityków UniCredit wynika, że z powodu konfliktu z globalnego rynku wyparowało już ponad pół miliarda baryłek surowca. Perspektywy na...",
+      "date_published": "2026-04-27T14:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fala-zwolnien-w-IT-trwa-Microsoft-zwolni-16-tys-osob-9123468.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fala-zwolnien-w-IT-trwa-Microsoft-zwolni-16-tys-osob-9123468.html",
+      "title": "Fala zwolnień w IT trwa. Microsoft zwolni 16 tys. osób",
+      "content_html": "Starszy dyrektor lub niższy - ten szczebel pracowników Microsoftu nie może spać spokojnie. Koncern Billa Gatesa wciąż redukuje zatrudnienie. Może to dotknąć aż 16 tys. osób - j ak podaje stacja CNBC . Byłaby to jedna z największych jednorazowych...",
+      "date_published": "2026-04-27T14:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mirbud-ma-umowe-z-Powiatem-Slupeckim-o-wartosci-137-9-mln-zl-brutto-9123493.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mirbud-ma-umowe-z-Powiatem-Slupeckim-o-wartosci-137-9-mln-zl-brutto-9123493.html",
+      "title": "Mirbud ma umowę z Powiatem Słupeckim o wartości 137,9 mln zł brutto",
+      "content_html": "Mirbud podpisał umowę z Powiatem Słupeckim na rozbudowę i budowę drogi powiatowej w powiecie słupeckim, woj. wielkopolskie - podał Mirbud w komunikacie. Wartość umowy to 137,9 mln zł brutto.",
+      "date_published": "2026-04-27T14:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/We-wtorek-na-rzadzie-projekt-programu-oslonowego-dla-gornikow-z-JSW-9123488.html",
+      "url": "https://www.bankier.pl/wiadomosc/We-wtorek-na-rzadzie-projekt-programu-oslonowego-dla-gornikow-z-JSW-9123488.html",
+      "title": "We wtorek na rządzie projekt programu osłonowego dla górników z JSW",
+      "content_html": "Na wtorkowym posiedzeniu rząd ma rozpatrywać projekt uchwały ws. przyjęcia programu wsparcia górnictwa węgla kamiennego koksującego w Polsce, który ma umożliwić stosowanie wobec pracowników JSW instrumentów osłonowych przewidzianych w ustawie...",
+      "date_published": "2026-04-27T13:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukrainskie-drony-z-Norwegii-Pierwsze-sztuki-trafia-na-front-przed-wakacjami-9123486.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukrainskie-drony-z-Norwegii-Pierwsze-sztuki-trafia-na-front-przed-wakacjami-9123486.html",
+      "title": "Ukraińskie drony z Norwegii. Pierwsze sztuki trafią na front przed wakacjami",
+      "content_html": "Władze Norwegii i Ukrainy zawarły w poniedziałek umowę, dzięki której ukraińskie firmy rozpoczną produkcję dronów bojowych w zakładach w Norwegii. Norweskie ministerstwo obrony poinformowało, że pierwsze egzemplarze mają trafić na Ukrainę...",
+      "date_published": "2026-04-27T13:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-W-sprawie-KPO-trwa-teraz-wyscig-z-czasem-9123415.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pelczynska-Nalecz-W-sprawie-KPO-trwa-teraz-wyscig-z-czasem-9123415.html",
+      "title": "Pełczyńska-Nałęcz: W sprawie KPO trwa teraz wyścig z czasem",
+      "content_html": "Na ostatniej prostej wykorzystywania środków KPO trwa wyścig z czasem, celem jest wykorzystanie maksimum środków dla Polski, zwłaszcza grantowych - poinformowała ministra funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz. Powtórzyła...",
+      "date_published": "2026-04-27T13:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Leyen-Za-wczesnie-na-znoszenie-sankcji-nalozonych-na-Iran-9123485.html",
+      "url": "https://www.bankier.pl/wiadomosc/Leyen-Za-wczesnie-na-znoszenie-sankcji-nalozonych-na-Iran-9123485.html",
+      "title": "Leyen: Za wcześnie na znoszenie sankcji nałożonych na Iran",
+      "content_html": "Szefowa Komisji Europejskiej Ursula von der Leyen oceniła w poniedziałek w Berlinie, że jest zbyt wcześnie, aby znosić sankcje nałożone na Iran. Jak przekazała, od przełomu lutego i marca, czyli początku wojny USA i Izraela przeciwko Iranowi...",
+      "date_published": "2026-04-27T13:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Uprowadzono-statek-handlowy-u-wybrzezy-Somalii-Prawdopodobnymi-sprawcami-piraci-9123482.html",
+      "url": "https://www.bankier.pl/wiadomosc/Uprowadzono-statek-handlowy-u-wybrzezy-Somalii-Prawdopodobnymi-sprawcami-piraci-9123482.html",
+      "title": "Uprowadzono statek handlowy u wybrzeży Somalii. Prawdopodobnymi sprawcami piraci",
+      "content_html": "Grupa osób, najprawdopodobniej piratów, przedostała się na pokład drobnicowca pod banderą Saint Kitts i Nevis w pobliżu wód przybrzeżnych Somalii i kierują jednostkę w stronę somalijskiego wybrzeża – poinformowały w poniedziałek firmy...",
+      "date_published": "2026-04-27T13:45:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konflikt-Izrael-Liban-Hezbollah-po-raz-kolejny-przeciwko-bezposrednim-negocjacjom-9123471.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konflikt-Izrael-Liban-Hezbollah-po-raz-kolejny-przeciwko-bezposrednim-negocjacjom-9123471.html",
+      "title": "Konflikt Izrael-Liban. Hezbollah po raz kolejny przeciwko bezpośrednim negocjacjom",
+      "content_html": "Przywódca proirańskiego Hezbollahu Naim Kassem ponownie sprzeciwił się w poniedziałek bezpośrednim negocjacjom Libanu z Izraelem. W wypowiedzi dla powiązanej z ugrupowaniem telewizji Al-Manar wezwał władze w Bejrucie do cofnięcia przepisów...",
+      "date_published": "2026-04-27T13:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czolgi-K2-beda-produkowane-w-Polsce-Wielka-umowa-z-Korea-podpisana-9123416.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czolgi-K2-beda-produkowane-w-Polsce-Wielka-umowa-z-Korea-podpisana-9123416.html",
+      "title": "Czołgi K2 będą produkowane w Polsce. Wielka umowa z Koreą podpisana",
+      "content_html": "Spółki zbrojeniowe wchodzące w skład PGZ podpisały umowy podwykonawcze z południowokoreańską firmą Hyundai Rotem na produkcję oraz serwis czołgów K2 w Polsce. Mają one regulować działania w zakresie montażu, serwisowania i polonizacji...",
+      "date_published": "2026-04-27T13:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukryte-zapisy-w-umowie-z-Mercosurem-Polska-staje-w-obronie-rolnikow-przed-TSUE-9123432.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukryte-zapisy-w-umowie-z-Mercosurem-Polska-staje-w-obronie-rolnikow-przed-TSUE-9123432.html",
+      "title": "Ukryte zapisy w umowie z Mercosurem? Polska staje w obronie rolników przed TSUE",
+      "content_html": "Minister rolnictwa Stefan Krajewski powiedział w poniedziałek w Luksemburgu, że Polska zaskarży umowę z Mercosurem do Trybunału Sprawiedliwości UE. Dodał też, że resort analizuje informacje o zniesieniu w ramach umowy ceł na wołowinę premium...",
+      "date_published": "2026-04-27T13:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chiny-blokuja-przejecie-startupu-Manus-Meta-nie-kupi-tworcow-AI-za-2-mld-dolarow-9123442.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chiny-blokuja-przejecie-startupu-Manus-Meta-nie-kupi-tworcow-AI-za-2-mld-dolarow-9123442.html",
+      "title": "Chiny blokują przejęcie startupu Manus. Meta nie kupi twórców AI za 2 mld dolarów",
+      "content_html": "Chińskie władze ogłosiły w poniedziałek zablokowanie planowanego przejęcia startupu sztucznej inteligencji (AI) Manus przez amerykański koncern Meta. Transakcja została wstrzymana w kontekście rosnącej rywalizacji technologicznej ze Stanami...",
+      "date_published": "2026-04-27T13:17:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-Polska-i-Ukraina-zbuduja-armade-dronowa-Swyrydenko-Wspolpraca-wzmocni-oba-kraje-9123457.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-Polska-i-Ukraina-zbuduja-armade-dronowa-Swyrydenko-Wspolpraca-wzmocni-oba-kraje-9123457.html",
+      "title": "Tusk: Polska i Ukraina zbudują armadę dronową. Swyrydenko: Współpraca wzmocni oba kraje",
+      "content_html": "Polska i Ukraina zbudują wspólną armadę dronową, łącząc polskie finansowanie z ukraińskim doświadczeniem frontowym. Premier Donald Tusk i wicepremier Julia Swyrydenko ogłosili to w Rzeszowie podczas konferencji Road to URC. Wsparciem dla projektu...",
+      "date_published": "2026-04-27T13:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-Zondacrypto-Prokuratura-wydaje-pilne-zalecenia-dla-calego-kraju-9123454.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-Zondacrypto-Prokuratura-wydaje-pilne-zalecenia-dla-calego-kraju-9123454.html",
+      "title": "Afera Zondacrypto. Prokuratura wydaje pilne zalecenia dla całego kraju",
+      "content_html": "Prokuratura Regionalna w Katowicach poleciła prokuratorom okręgowym ze swego obszaru właściwości przyjmowanie zawiadomień i wykonywanie innych czynności z pokrzywdzonymi ws. ZondaCrypto. Prokuratury Regionalne w całym kraju dostały też zalecenia...",
+      "date_published": "2026-04-27T13:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Torpol-chce-wyplacic-3-39-zl-dywidendy-na-akcje-9123428.html",
+      "url": "https://www.bankier.pl/wiadomosc/Torpol-chce-wyplacic-3-39-zl-dywidendy-na-akcje-9123428.html",
+      "title": "Torpol chce wypłacić 3,39 zł dywidendy na akcję",
+      "content_html": "Torpol chce przeznaczyć na dywidendę z zysku netto za 2025 rok 77,86 mln zł, co daje 3,39 zł na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-04-27T13:07:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejna-podwyzka-na-stacjach-paliw-Oto-nowe-limity-cen-od-28-kwietnia-9123452.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejna-podwyzka-na-stacjach-paliw-Oto-nowe-limity-cen-od-28-kwietnia-9123452.html",
+      "title": "Kolejna podwyżka na stacjach paliw. Oto nowe limity cen od 28 kwietnia",
+      "content_html": "Maksymalna cena dla benzyny Pb95 wynosi 6,21 zł/l, dla benzyny Pb98 6,72 zł/l, a dla oleju napędowego 7,12 zł/l - wynika z obwieszczenia ministra energii opublikowanego w Monitorze Polskim. Ceny te będą obowiązywać na stacjach paliw we wtorek...",
+      "date_published": "2026-04-27T13:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-odznaczyl-Lukasza-Litewke-Posmiertny-order-dla-spolecznika-9123449.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-odznaczyl-Lukasza-Litewke-Posmiertny-order-dla-spolecznika-9123449.html",
+      "title": "Prezydent odznaczył Łukasza Litewkę. Pośmiertny order dla społecznika",
+      "content_html": "Prezydent Karol Nawrocki odznaczył pośmiertnie tragicznie zmarłego posła Łukasza Litewkę Krzyżem Oficerskim Orderu Odrodzenia Polski - poinformował w poniedziałek rzecznik prezydenta Rafał Leśkiewicz.",
+      "date_published": "2026-04-27T13:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/2-5-mln-Polakow-ma-krypto-a-20-tys-placi-podatki-Dlaczego-lepiej-to-zrobic-9123341.html",
+      "url": "https://www.bankier.pl/wiadomosc/2-5-mln-Polakow-ma-krypto-a-20-tys-placi-podatki-Dlaczego-lepiej-to-zrobic-9123341.html",
+      "title": "2,5 mln Polaków ma krypto, a 20 tys. płaci podatki. Dlaczego lepiej to zrobić?",
+      "content_html": "Jest 27 kwietnia 2026 roku. Za 72 godziny bramki systemu Twój e-PIT zatrzasną się z hukiem, a każdy, kto zapomniał o swoich kryptowalutowych przygodach z zeszłego roku, zacznie ryzykowną grę z fiskusem. W moich nowych notatkach z pomocą doradczyni...",
+      "date_published": "2026-04-27T13:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szantaz-intymnymi-nagraniami-14-osob-w-rekach-sluzb-wyludzili-od-Polakow-fortune-9123433.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szantaz-intymnymi-nagraniami-14-osob-w-rekach-sluzb-wyludzili-od-Polakow-fortune-9123433.html",
+      "title": "Szantaż intymnymi nagraniami. 14 osób w rękach służb, wyłudzili od Polaków fortunę",
+      "content_html": "Blisko 900 zarzutów przedstawiono 14 osobom podejrzanym o internetowe oszustwa i szantaż nagraniami o charakterze intymnym. Grupa miała wyłudzić w ten sposób co najmniej 1,35 mln zł – przekazała w poniedziałek kielecka prokuratura.",
+      "date_published": "2026-04-27T12:49:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/VRG-chce-by-segment-odziezowy-byl-trwale-rentowny-CAPEX-w-26-szacowany-na-ponad-56-mln-zl-9123431.html",
+      "url": "https://www.bankier.pl/wiadomosc/VRG-chce-by-segment-odziezowy-byl-trwale-rentowny-CAPEX-w-26-szacowany-na-ponad-56-mln-zl-9123431.html",
+      "title": "VRG chce, by segment odzieżowy był trwale rentowny. CAPEX w '26 szacowany na ponad 56 mln zł",
+      "content_html": "VRG chce, by segment odzieżowy był trwale rentowny - poinformowali przedstawiciele zarządu. CAPEX grupy w 2026 roku szacowany jest na ponad 56 mln zł.",
+      "date_published": "2026-04-27T12:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bilety-lotnicze-podrozeja-Hiszpanski-minister-turystyki-kupujcie-juz-teraz-9123424.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bilety-lotnicze-podrozeja-Hiszpanski-minister-turystyki-kupujcie-juz-teraz-9123424.html",
+      "title": "Bilety lotnicze podrożeją? Hiszpański minister turystyki: kupujcie już teraz",
+      "content_html": "Hiszpański minister turystyki Jordi Hereu zachęcił w poniedziałkowym wywiadzie dla dziennika „Expansion” do jak najszybszego kupowania biletów lotniczych w związku z możliwymi niedoborami paliwa lotniczego i podwyżką cen w związku z wojną...",
+      "date_published": "2026-04-27T12:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-podtrzymuje-cel-przychodowy-ze-strategii-portfel-zapewnia-prace-na-dwa-lata-9123419.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-podtrzymuje-cel-przychodowy-ze-strategii-portfel-zapewnia-prace-na-dwa-lata-9123419.html",
+      "title": "Polimex Mostostal podtrzymuje cel przychodowy ze strategii. Portfel zapewnia prace na dwa lata",
+      "content_html": "Polimex Mostostal podtrzymuje osiągnięcie łącznie 10 mld zł przychodów w okresie 2026-2028. Aktualny portfel zamówień zapewnia grupie prace na dwa lata - poinformowali przedstawiciele zarządu podczas konferencji. Polimex planuje wyjście za granicę...",
+      "date_published": "2026-04-27T12:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Domanski-Ukraina-jest-7-najwiekszym-partnerem-eksportowym-Polski-9123411.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-Ukraina-jest-7-najwiekszym-partnerem-eksportowym-Polski-9123411.html",
+      "title": "Domański: Ukraina jest 7. największym partnerem eksportowym Polski",
+      "content_html": "Ukraina to obecnie 7. największy partner eksportowy Polski - poinformował minister finansów i gospodarki Andrzej Domański w Rzeszowie. Podkreślił, że Polska nie tylko wspiera Ukrainę politycznie, ale też buduje fundamenty jej przyszłego rozwoju...",
+      "date_published": "2026-04-27T12:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tomczyk-Polski-sprzet-bedzie-testowany-na-ukrainskim-froncie-9123334.html",
       "url": "https://www.bankier.pl/wiadomosc/Tomczyk-Polski-sprzet-bedzie-testowany-na-ukrainskim-froncie-9123334.html",
       "title": "Tomczyk: Polski sprzęt będzie testowany na ukraińskim froncie",
       "content_html": "Zacieśnienie współpracy z Ukrainą w obszarze technologii dronowych zapowiedział w rozmowie PAP w Rzeszowie wiceminister obrony narodowej Cezary Tomczyk. Wiceszef MON zadeklarował, że Polska planuje wykorzystać ukraińskie doświadczenia frontowe...",
       "date_published": "2026-04-27T12:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Suwerennosc-lekowa-Polski-Adamed-otwiera-nowe-fabryki-w-Polsce-i-Hiszpanii-9123402.html",
-      "url": "https://www.bankier.pl/wiadomosc/Suwerennosc-lekowa-Polski-Adamed-otwiera-nowe-fabryki-w-Polsce-i-Hiszpanii-9123402.html",
-      "title": "Suwerenność lekowa Polski. Adamed otwiera nowe fabryki w Polsce i Hiszpanii",
-      "content_html": "",
-      "date_published": "2026-04-27T12:02:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/JSW-pracuje-nad-pozyskaniem-finansowania-komercyjnego-w-wys-ok-1-5-mld-USD-Balczun-MAP-9123309.html",
@@ -541,160 +695,6 @@
       "title": "Trump: Do strzelaniny nigdy by nie doszło, gdybyśmy mieli salę balową w Białym Domu",
       "content_html": "Do sobotniej strzelaniny na gali korespondentów nigdy by nie doszło, gdyby istniała budowana przy Białym Domu sala balowa - oświadczył w niedzielę prezydent USA Donald Trump. Wezwał do wycofania pozwu blokującego budowę obiektu.",
       "date_published": "2026-04-26T18:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Medioznawczyni-Zbiorka-Latwoganga-moze-stac-sie-WOSP-em-mlodego-pokolenia-9123165.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medioznawczyni-Zbiorka-Latwoganga-moze-stac-sie-WOSP-em-mlodego-pokolenia-9123165.html",
-      "title": "Medioznawczyni: Zbiórka Łatwoganga może stać się „WOŚP-em” młodego pokolenia",
-      "content_html": "Zbiórka Łatwoganga i Cancer Fighters może stać się „WOŚP-em” młodego pokolenia - oceniła w rozmowie z PAP prof. Monika Kaczmarek-Śliwińska, medioznawczyni z UW. 97 proc. komentarzy w Internecie dotyczących akcji ma charakter wspierający...",
-      "date_published": "2026-04-26T18:47:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/To-on-mial-zaatakowac-na-balu-korespondentow-Bialego-Domu-w-USA-9123186.html",
-      "url": "https://www.bankier.pl/wiadomosc/To-on-mial-zaatakowac-na-balu-korespondentow-Bialego-Domu-w-USA-9123186.html",
-      "title": "To on miał zaatakować na balu korespondentów Białego Domu w USA",
-      "content_html": "Sprawca strzelaniny podczas gali Stowarzyszenia Korespondentów Białego Domu w sobotę w Waszyngtonie, 31-letni Cole Tomas Allen z miasta Torrance w Kalifornii, jest m.in. twórcą gier komputerowych i byłym stażystą w NASA. Nie ma przeszłości kryminalnej...",
-      "date_published": "2026-04-26T18:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/2-proc-PKB-na-armie-to-fikcja-Premier-Babisz-kontra-NATO-i-czeska-opozycja-9123194.html",
-      "url": "https://www.bankier.pl/wiadomosc/2-proc-PKB-na-armie-to-fikcja-Premier-Babisz-kontra-NATO-i-czeska-opozycja-9123194.html",
-      "title": "2 proc. PKB na armię to fikcja? Premier Babisz kontra NATO i czeska opozycja",
-      "content_html": "Premier Czech Andrej Babisz oświadczył w niedzielę na platformie X, że według NATO jego kraj nie wywiąże się w tym roku z zobowiązania o przeznaczeniu na obronę 2 proc. PKB. Jego zdaniem z tego zobowiązania nie wywiązał się także poprzedni...",
-      "date_published": "2026-04-26T18:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiceszef-NFZ-Koszty-ustawy-placowej-w-2026-roku-wyniosa-ponad-70-mld-zl-9122699.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiceszef-NFZ-Koszty-ustawy-placowej-w-2026-roku-wyniosa-ponad-70-mld-zl-9122699.html",
-      "title": "Wiceszef NFZ: Koszty ustawy płacowej w 2026 roku wyniosą ponad 70 mld zł",
-      "content_html": "Łączny koszt obciążeń finansowych dla płatnika, wynikających z ustawy o minimalnym wynagrodzeniu w sektorze ochrony zdrowia, w 2026 r. przekroczy 70 mld zł – poinformował wiceprezes Narodowego Funduszu Zdrowia Jakub Szulc, podczas panelu na...",
-      "date_published": "2026-04-26T18:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Routery-i-lodowki-uzywane-przez-cyberwywiad-Chin-do-groznych-atakow-9122713.html",
-      "url": "https://www.bankier.pl/wiadomosc/Routery-i-lodowki-uzywane-przez-cyberwywiad-Chin-do-groznych-atakow-9122713.html",
-      "title": "Routery i lodówki używane przez cyberwywiad Chin do groźnych ataków",
-      "content_html": "Cyberwywiad Chin wykorzystuje na Zachodzie prywatne routery, gadżety podłączone do sieci, czy inteligentne lodówki do ataków hakerskich na instytucje i krytyczną infrastrukturę oraz do wykradania tajnych informacji – podał „Financial Times”...",
-      "date_published": "2026-04-26T18:23:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Singapur-dwukrotnie-zwiekszyl-import-rosyjskich-produktow-ropopochodnych-9122632.html",
-      "url": "https://www.bankier.pl/wiadomosc/Singapur-dwukrotnie-zwiekszyl-import-rosyjskich-produktow-ropopochodnych-9122632.html",
-      "title": "Singapur dwukrotnie zwiększył import rosyjskich produktów ropopochodnych",
-      "content_html": "W Singapurze gwałtownie wzrósł import rosyjskich produktów ropopochodnych po wybuchu wojny na Bliskim Wschodzie - poinformował „Financial Times”. Według danych firmy Vortexa, monitorującej ruch morski, wolumen importu w kwietniu był dwukrotnie...",
-      "date_published": "2026-04-26T17:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-napedza-popyt-na-fotowoltaike-i-samochody-elektryczne-9121312.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-napedza-popyt-na-fotowoltaike-i-samochody-elektryczne-9121312.html",
-      "title": "Wojna z Iranem napędza popyt na fotowoltaikę i samochody elektryczne",
-      "content_html": "Z powodu wojny z Iranem i związanych z nią wzrostów cen paliw w krajach europejskich, w tym w Niemczech, rośnie zainteresowanie instalacjami fotowoltaicznymi i samochodami elektrycznymi - pisze niemiecki tygodnik „Der Spiegel”.",
-      "date_published": "2026-04-26T16:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Medyczny-bazar-na-Alibabie-Brytyjski-rzad-walczy-z-wyciekiem-danych-o-nowotworach-i-demencji-9121935.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medyczny-bazar-na-Alibabie-Brytyjski-rzad-walczy-z-wyciekiem-danych-o-nowotworach-i-demencji-9121935.html",
-      "title": "Medyczny bazar na Alibabie. Brytyjski rząd walczy z wyciekiem danych o nowotworach i demencji",
-      "content_html": "Dane medyczne pół miliona Brytyjczyków, którzy dobrowolnie zgłosili się do szeroko zakrojonych badań zdrowotnych, były oferowane na sprzedaż na chińskiej platformie handlu internetowego Alibaba - poinformował brytyjski rząd.",
-      "date_published": "2026-04-26T15:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wdrazaj-wyroki-Tusku-Protest-organizacji-LGBT-przed-KPRM-9123003.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wdrazaj-wyroki-Tusku-Protest-organizacji-LGBT-przed-KPRM-9123003.html",
-      "title": "„Wdrażaj wyroki Tusku”. Protest organizacji LGBT+ przed KPRM",
-      "content_html": "Przed Kancelarią Prezesa Rady Ministrów odbył się w sobotę protest organizacji LGBT w sprawie wykonania wyroków Trybunału Sprawiedliwości Unii Europejskiej i Naczelnego Sądu Administracyjnego dotyczących małżeństw par jednopłciowych. Zebrało...",
-      "date_published": "2026-04-26T14:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Liderzy-Francji-Hiszpanii-i-Wloch-solidaryzuja-sie-z-Trumpem-po-strzelaninie-na-gali-korespondentow-9123152.html",
-      "url": "https://www.bankier.pl/wiadomosc/Liderzy-Francji-Hiszpanii-i-Wloch-solidaryzuja-sie-z-Trumpem-po-strzelaninie-na-gali-korespondentow-9123152.html",
-      "title": "Liderzy z Europy solidaryzują się z Trumpem po strzelaninie na gali korespondentów",
-      "content_html": "Prezydent Francji Emmanuel Macron oraz premierzy Hiszpanii i Włoch, Pedro Sanchez i Giorgia Meloni, w niedzielę wyrazili solidarność z prezydentem USA Donaldem Trumpem na wiadomość o strzelaninie, do której doszło podczas gali korespondentów...",
-      "date_published": "2026-04-26T14:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiosenne-odbicie-notowan-rzadu-CBOS-Polacy-coraz-lepiej-oceniaja-gospodarcze-plany-Tuska-9122468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiosenne-odbicie-notowan-rzadu-CBOS-Polacy-coraz-lepiej-oceniaja-gospodarcze-plany-Tuska-9122468.html",
-      "title": "Wiosenne odbicie notowań rządu. CBOS: Polacy coraz lepiej oceniają gospodarcze plany Tuska",
-      "content_html": "W kwietniu rząd popiera 35 proc. Polaków, 39 proc. ma o nim negatywną opinię, a 22 proc. ma do niego obojętny stosunek - wynika z badania CBOS. 37 proc. badanych jest zadowolone z tego, że premierem jest Donald Tusk, odmiennego zdania jest 49 proc...",
-      "date_published": "2026-04-26T14:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezes-PiS-Tusk-dal-sie-podpuscic-i-wykonal-dyspozycje-z-Berlina-podwazajac-sens-art-5-9123159.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezes-PiS-Tusk-dal-sie-podpuscic-i-wykonal-dyspozycje-z-Berlina-podwazajac-sens-art-5-9123159.html",
-      "title": "Prezes PiS: Tusk dał się podpuścić i wykonał dyspozycję z Berlina podważając sens art. 5",
-      "content_html": "Premier Donald Tusk dał się „podpuścić i wykonał dyspozycję z Berlina” podważając sens art. 5 Traktatu Północnoatlantyckiego - ocenił prezes PiS Jarosław Kaczyński. Jak dodał, Tusk niszczy relacje polsko-amerykańskie, a w tym czasie...",
-      "date_published": "2026-04-26T14:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Globalny-nadzor-uderza-w-Rzym-FATF-Wlochy-zbyt-poblazliwe-dla-finansowania-terroryzmu-9121695.html",
-      "url": "https://www.bankier.pl/wiadomosc/Globalny-nadzor-uderza-w-Rzym-FATF-Wlochy-zbyt-poblazliwe-dla-finansowania-terroryzmu-9121695.html",
-      "title": "Globalny nadzór uderza w Rzym. FATF: Włochy zbyt pobłażliwe dla finansowania terroryzmu",
-      "content_html": "Włochy powinny zrobić więcej, aby zwalczać pranie brudnych pieniędzy i ścigać osoby zaangażowane w finansowanie terroryzmu – ocenił w czwartek globalny organ nadzoru ds. przeciwdziałania praniu pieniędzy - Financial Action Task Force (FATF)...",
-      "date_published": "2026-04-26T14:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ekspert-medycyny-ratunkowej-Polska-jest-na-wczesnym-etapie-budowy-systemu-medycznego-na-czas-wojny-9119993.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ekspert-medycyny-ratunkowej-Polska-jest-na-wczesnym-etapie-budowy-systemu-medycznego-na-czas-wojny-9119993.html",
-      "title": "Ekspert medycyny ratunkowej: Polska jest na wczesnym etapie budowy systemu medycznego na czas wojny",
-      "content_html": "Polska jest na wczesnym etapie budowy systemu medycznego na czas wojny – ocenił w rozmowie z PAP ekspert medycyny ratunkowej prof. Robert Gałązkowski. Podkreślił potrzebę rozwoju kadr, uporządkowania kompetencji medyków oraz wzmocnienia edukacji...",
-      "date_published": "2026-04-26T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Finska-duma-idzie-na-zlom-Rosyjski-maszt-za-700-tysiecy-euro-okazal-sie-bublem-9121385.html",
-      "url": "https://www.bankier.pl/wiadomosc/Finska-duma-idzie-na-zlom-Rosyjski-maszt-za-700-tysiecy-euro-okazal-sie-bublem-9121385.html",
-      "title": "Fińska duma idzie na złom. Rosyjski maszt za 700 tysięcy euro okazał się bublem",
-      "content_html": "Wykonany w Rosji 100-metrowy maszt w mieście Hamina z największą w kraju flagą narodową zostanie zdemontowany z powodu stwierdzonych wad konstrukcyjnych i ogromnych kosztów naprawy - zdecydowały władze miasta położonego we wschodniej części...",
-      "date_published": "2026-04-26T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dawny-budowniczy-polskiej-elektrowni-jadrowej-katastrofa-w-Czarnobylu-wplynela-na-decyzje-o-rezygnacji-z-Zarnowca-9123092.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dawny-budowniczy-polskiej-elektrowni-jadrowej-katastrofa-w-Czarnobylu-wplynela-na-decyzje-o-rezygnacji-z-Zarnowca-9123092.html",
-      "title": "Dawny budowniczy polskiej elektrowni jądrowej: katastrofa w Czarnobylu wpłynęła na decyzję o rezygnacji z Żarnowca",
-      "content_html": "Katastrofa w Czarnobylu w znaczącym stopniu przyczyniła się do tego, że podjęto decyzję o rezygnacji z budowy elektrowni jądrowej w Żarnowcu, mimo jej znacznego zaawansowania — wskazał w rozmowie z PAP jeden z dyrektorów tamtej budowy Ryszard...",
-      "date_published": "2026-04-26T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Siemoniak-Ludzie-Ziobry-oskarzaja-rzad-za-to-ze-fundacja-Ziobry-wziela-450-tys-zl-9123142.html",
-      "url": "https://www.bankier.pl/wiadomosc/Siemoniak-Ludzie-Ziobry-oskarzaja-rzad-za-to-ze-fundacja-Ziobry-wziela-450-tys-zl-9123142.html",
-      "title": "Siemoniak: Ludzie Ziobry oskarżają rząd za to, że fundacja Ziobry wzięła 450 tys. zł",
-      "content_html": "Ludzie Zbigniewa Ziobry absurdalnie oskarżają rząd, że jest odpowiedzialny za to, że fundacja Ziobry wzięła 450 tys. zł od właściciela Zondacrypto, firmy zarejestrowanej poza Polską i nie poddanej polskiej jurysdykcji - podkreślił w niedzielę...",
-      "date_published": "2026-04-26T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Strzaly-na-kolacji-prezydenta-z-dziennikarzami-Donald-Trump-ewakuowany-9123059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strzaly-na-kolacji-prezydenta-z-dziennikarzami-Donald-Trump-ewakuowany-9123059.html",
-      "title": "Strzały na kolacji prezydenta z dziennikarzami. Donald Trump ewakuowany",
-      "content_html": "Prezydent USA Donald Trump został w sobotę wieczorem czasu miejscowego ewakuowany przez Secret Service z kolacji z korespondentami Białego Domu, podczas której padły strzały. Podejrzany otworzył ogień w lobby hotelowym i został ujęty przez służby...",
-      "date_published": "2026-04-26T13:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zostawili-ich-w-biedzie-i-odlecieli-Brytyjscy-zolnierze-masowo-porzucali-swoje-dzieci-w-Afryce-9116620.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zostawili-ich-w-biedzie-i-odlecieli-Brytyjscy-zolnierze-masowo-porzucali-swoje-dzieci-w-Afryce-9116620.html",
-      "title": "Zostawili ich w biedzie i odlecieli. Brytyjscy żołnierze masowo porzucali swoje dzieci w Afryce",
-      "content_html": "Brytyjscy żołnierze stacjonujący w bazie w Nanyuki w Kenii przez lata płodzili dzieci z miejscowymi kobietami i w wielu przypadkach je później pozostawiali - ujawniła stacja BBC. Prawnicy pomagający tym dzieciom odszukać ojców mówią, że mają...",
-      "date_published": "2026-04-26T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tylko-flaga-narodowa-i-protokol-Portugalia-wprowadza-surowe-prawo-dla-budynkow-publicznych-9119967.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tylko-flaga-narodowa-i-protokol-Portugalia-wprowadza-surowe-prawo-dla-budynkow-publicznych-9119967.html",
-      "title": "Tylko flaga narodowa i protokół. Portugalia wprowadza surowe prawo dla budynków publicznych",
-      "content_html": "Władze Portugalii zakazały umieszczania na budynkach państwowych i masztach flag innych krajów w sytuacji, kiedy odbywające się uroczystości nie mają z nimi związku. Zakazane zostało również eksponowanie symboli LGBT.",
-      "date_published": "2026-04-26T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PCF-Group-rozpoczal-budowe-ksiegi-popytu-na-4-11-mln-akcji-9123136.html",
-      "url": "https://www.bankier.pl/wiadomosc/PCF-Group-rozpoczal-budowe-ksiegi-popytu-na-4-11-mln-akcji-9123136.html",
-      "title": "PCF Group rozpoczął budowę księgi popytu na 4,11 mln akcji",
-      "content_html": "PCF Group rozpoczął proces budowy księgi popytu na maksymalnie 4.112.081 akcji serii I - poinformował polski wydawca gier z segmentu AAA. Emisja ma związek z transakcją cesji praw z umów wydawniczych zawartą ze spółką Cooldown Games.",
-      "date_published": "2026-04-26T11:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-kochaja-muzea-sztuki-ale-odwracaja-sie-od-Nocy-Muzeow-9116457.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-kochaja-muzea-sztuki-ale-odwracaja-sie-od-Nocy-Muzeow-9116457.html",
-      "title": "Polacy kochają muzea sztuki, ale odwracają się od Nocy Muzeów",
-      "content_html": "W 2025 r. muzea zwiedziło 46,2 mln osób, czyli o 4,2 proc. więcej niż w 2024 r. - wynika z danych Głównego Urzędu Statystycznego. Największą popularnością wśród wszystkich zwiedzających cieszyły się muzea sztuki, które odwiedziło 17...",
-      "date_published": "2026-04-26T11:34:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
