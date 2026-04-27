@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Niewielkie-wzrosty-na-Wall-Street-S-P-500-z-nowym-rekordem-9123845.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewielkie-wzrosty-na-Wall-Street-S-P-500-z-nowym-rekordem-9123845.html",
+      "title": "Niewielkie wzrosty na Wall Street. S&P 500 z nowym rekordem",
+      "content_html": "S&P 500 ustanowił nowy historyczny rekord. Inwestorzy dosyć spokojnie przyjmują brak postępu w rozmowach pokojowych między USA a Iranem.",
+      "date_published": "2026-04-27T23:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prawna-porazka-kanclerza-Merza-Niemieckie-kontrole-na-granicach-uznane-za-nielegalne-9123784.html",
       "url": "https://www.bankier.pl/wiadomosc/Prawna-porazka-kanclerza-Merza-Niemieckie-kontrole-na-granicach-uznane-za-nielegalne-9123784.html",
       "title": "Prawna porażka kanclerza Merza. Niemieckie kontrole na granicach uznane za nielegalne",
@@ -695,13 +702,6 @@
       "title": "Ceny ropy rosną pomimo sygnałów z Iranu dot. Cieśniny Ormuz",
       "content_html": "Ceny ropy naftowej rosną pomimo sygnałów z Iranu dotyczących ponownego otwarcia Cieśniny Ormuz - informują maklerzy.",
       "date_published": "2026-04-27T08:59:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-przedstawil-USA-nowa-propozycje-zakonczenia-wojny-9123288.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-przedstawil-USA-nowa-propozycje-zakonczenia-wojny-9123288.html",
-      "title": "Iran przedstawił USA nową propozycję zakończenia wojny",
-      "content_html": "Iran przedstawił Stanom Zjednoczonym nową propozycję ponownego otwarcia cieśniny Ormuz i zakończenia wojny przy jednoczesnym przełożeniu negocjacji nuklearnych na późniejszy termin – poinformował w poniedziałek portal Axios, powołując się...",
-      "date_published": "2026-04-27T08:45:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
