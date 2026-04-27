@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Stoczek-Natura-z-Grupy-Makarony-Polskie-przejmuje-Joyfood-9123872.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stoczek-Natura-z-Grupy-Makarony-Polskie-przejmuje-Joyfood-9123872.html",
+      "title": "Stoczek Natura z Grupy Makarony Polskie przejmuje Joyfood",
+      "content_html": "Joyfood, producent funkcjonalnych dań gotowych, past warzywnych i produktów typu superfoods po zgodzie UOKiK wejdzie w skład Grupy Makarony Polskie - poinformowały Makarony Polskie w komunikacie. Grupa sfinalizowała właśnie umowę warunkową zakupu...",
+      "date_published": "2026-04-28T00:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-ma-podejrzenia-o-manipulacje-i-naduzycia-w-sprawie-trzech-spolek-9123869.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-ma-podejrzenia-o-manipulacje-i-naduzycia-w-sprawie-trzech-spolek-9123869.html",
+      "title": "KNF ma podejrzenia o manipulacje i nadużycia w sprawie trzech spółek",
+      "content_html": "Komisja nadzoru finansowego poinformowała w poniedziałek o podejrzeniach dotyczących manipulowania kursami akcji i instrumentów finansowych oraz wykorzystania informacji poufnych w obrocie akcjami. Przekazane przez KNF informacje dotyczą spółek:...",
+      "date_published": "2026-04-28T00:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Niewielkie-wzrosty-na-Wall-Street-S-P-500-z-nowym-rekordem-9123845.html",
       "url": "https://www.bankier.pl/wiadomosc/Niewielkie-wzrosty-na-Wall-Street-S-P-500-z-nowym-rekordem-9123845.html",
       "title": "Niewielkie wzrosty na Wall Street. S&P 500 z nowym rekordem",
@@ -688,20 +702,6 @@
       "title": "Ceny miedzi w Londynie lekko zwyżkują",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie lekko zwyżkują w nowym tygodniu handlu - informują maklerzy.",
       "date_published": "2026-04-27T09:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pierscien-platniczy-za-1-zl-zamiast-699-zl-mBank-kusi-promocja-9109089.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pierscien-platniczy-za-1-zl-zamiast-699-zl-mBank-kusi-promocja-9109089.html",
-      "title": "Innowacyjny gadżet za 1 zł zamiast 699 zł. mBank kusi promocją",
-      "content_html": "Pierścień płatniczy Niceboy ONE Ultra za symboliczną złotówkę zamiast 699 zł? To nie żart, a specjalna promocja mBanku dla nowych klientów. Dodatkowo możesz zgarnąć nawet 720 zł premii w gotówce za otwarcie konta i proste aktywności...",
-      "date_published": "2026-04-27T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-pomimo-sygnalow-z-Iranu-dot-Ciesniny-Ormuz-9123292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-pomimo-sygnalow-z-Iranu-dot-Ciesniny-Ormuz-9123292.html",
-      "title": "Ceny ropy rosną pomimo sygnałów z Iranu dot. Cieśniny Ormuz",
-      "content_html": "Ceny ropy naftowej rosną pomimo sygnałów z Iranu dotyczących ponownego otwarcia Cieśniny Ormuz - informują maklerzy.",
-      "date_published": "2026-04-27T08:59:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
