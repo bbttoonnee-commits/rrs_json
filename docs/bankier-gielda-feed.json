@@ -4,9 +4,51 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Orlenu-rekomenduje-wyplate-8-zl-dywidendy-na-akcje-9125046.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Orlenu-rekomenduje-wyplate-8-zl-dywidendy-na-akcje-9125046.html",
+      "title": "Zarząd Orlenu sypie gotówką. Proponuje rekordową dywidendę Zarząd Orlenu rekomenduje przeznaczenie na dywidendę 9,3 mld zł, co daje 8 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T13:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowa-strategia-Cyfrowego-Polsatu-ma-byc-dlugoterminowa-bedzie-przeglad-kazdej-galezi-biznesu-9125010.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-strategia-Cyfrowego-Polsatu-ma-byc-dlugoterminowa-bedzie-przeglad-kazdej-galezi-biznesu-9125010.html",
+      "title": "Piotr Żak zapowiada wielki przegląd imperium. Nowa strategia Cyfrowego Polsatu na 10 lat Nowa strategia Cyfrowego Polsatu będzie długoterminowa, a spółka deklaruje przegląd każdej gałęzi biznesu w Grupie Polsat Plus - poinformował podczas konferencji wynikowej prezes Cyfrowego Polsatu Piotr Żak.",
+      "content_html": "",
+      "date_published": "2026-04-29T13:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-zadeklarowala-wsparcie-Wegier-w-odejsciu-od-rosyjskich-weglowodorow-9125013.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-zadeklarowala-wsparcie-Wegier-w-odejsciu-od-rosyjskich-weglowodorow-9125013.html",
+      "title": "Polska zadeklarowała wsparcie Węgier w odejściu od rosyjskich węglowodorów Polska pozostaje w pełnej gotowości, aby pomóc krajom regionu, także Węgrom, w odejściu od rosyjskich węglowodorów - poinformował ME o deklaracji szefa resortu podczas Szczytu Inicjatywy Trójmorza. Miłosz Motyka rozmawiał też w Dubrowniku z sekretarzem energii USA Chrisem Wrightem i poinformował, że Polska chce oprzeć swój miks energetyczny na dużych elektrowniach jądrowych i SMR-ach.",
+      "content_html": "",
+      "date_published": "2026-04-29T13:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wittchen-chce-optymalizowac-koszty-i-dywersyfikowac-miks-produktowy-9124993.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wittchen-chce-optymalizowac-koszty-i-dywersyfikowac-miks-produktowy-9124993.html",
+      "title": "Wittchen chce optymalizować koszty i dywersyfikować miks produktowy Wittchen chce w tym roku kontynuować optymalizację kosztów i dywersyfikować miks produktowy, zwiększając udział m.in. odzieży - poinformował wiceprezes Marcin Szyguła. Decyzja o ewentualnym skupie może zostać podjęta najwcześniej po wynikach I kwartału.",
+      "content_html": "",
+      "date_published": "2026-04-29T12:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izostal-wyplaci-0-11-zl-dywidendy-na-akcje-z-zysku-za-2025-rok-9124973.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izostal-wyplaci-0-11-zl-dywidendy-na-akcje-z-zysku-za-2025-rok-9124973.html",
+      "title": "Izostal wypłaci 0,11 zł dywidendy na akcję z zysku za 2025 rok Zwyczajne Walne Zgromadzenie Izostalu zdecydowało o przeznaczeniu na dywidendę ok. 3,6 mln zł z zysku za 2025 rok, czyli 0,11 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T12:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-5-mld-zl-straty-JSW-Zarzad-siega-po-kapital-zapasowy-9124951.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-5-mld-zl-straty-JSW-Zarzad-siega-po-kapital-zapasowy-9124951.html",
+      "title": "Wielka strata JSW. Zarząd sięga po kapitał zapasowy Zarząd Jastrzębskiej Spółki Węglowej zawnioskował do walnego zgromadzenia spółki o pokrycie 5,059 mld zł straty netto za 2025 r. w całości z kapitału zapasowego - podała w środę JSW w raporcie bieżącym.",
+      "content_html": "",
+      "date_published": "2026-04-29T12:21:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/CI-Games-planuje-budzet-na-LotF2-porownywalny-do-LotF-liczy-na-znacznie-wieksza-sprzedaz-9124968.html",
       "url": "https://www.bankier.pl/wiadomosc/CI-Games-planuje-budzet-na-LotF2-porownywalny-do-LotF-liczy-na-znacznie-wieksza-sprzedaz-9124968.html",
-      "title": "CI Games planuje budżet na LotF2 porównywalny do LotF, liczy na znacznie większą sprzedaż CI Games ocenia, że planowana na 2026 r. premiera gry Lord of the Fallen 2 jest realistyczna i planuje budżet tego tytułu na poziomie porównywalnym, choć w zakresie produkcji być może niższym niż w przypadku pierwszej części gry - poinformowali przedstawiciele spółki. Liczą oni na znacznie większą sprzedaż nowej gry.",
+      "title": "CI Games planuje budżet na LotF2 porównywalny do LotF. Liczy na znacznie większą sprzedaż CI Games ocenia, że planowana na 2026 r. premiera gry Lord of the Fallen 2 jest realistyczna i planuje budżet tego tytułu na poziomie porównywalnym, choć w zakresie produkcji być może niższym niż w przypadku pierwszej części gry - poinformowali przedstawiciele spółki. Liczą oni na znacznie większą sprzedaż nowej gry.",
       "content_html": "",
       "date_published": "2026-04-29T12:18:00+02:00"
     },
@@ -25,11 +67,32 @@
       "date_published": "2026-04-29T12:02:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/BGK-sprzedal-cztery-serie-obligacji-FPC-za-694-mln-zl-przy-popycie-na-poziomie-940-mln-zl-9124953.html",
+      "url": "https://www.bankier.pl/wiadomosc/BGK-sprzedal-cztery-serie-obligacji-FPC-za-694-mln-zl-przy-popycie-na-poziomie-940-mln-zl-9124953.html",
+      "title": "Inwestorzy ufają BGK. Popyt na obligacje funduszu wyniósł niemal miliard złotych Bank Gospodarstwa Krajowego sprzedał cztery serie obligacji (FPC0229, FPC0231, FPC0332 i FPC0235) za łącznie 694 mln zł, przy popycie na poziomie 940 mln zł - podał bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T12:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Co-trzecia-winda-na-swiecie-wymaga-wymiany-Demografia-i-najwieksza-fuzja-w-branzy-9124948.html",
+      "url": "https://www.bankier.pl/wiadomosc/Co-trzecia-winda-na-swiecie-wymaga-wymiany-Demografia-i-najwieksza-fuzja-w-branzy-9124948.html",
+      "title": "Korzystamy z ich wind, schodów i drzwi. Łączą siły w największej fuzji od lat Fińskiej spółka Kone ogłosił porozumienie w sprawie przejęcia swojego niemieckiego rywala, TK Elevator. Transakcja o wartości 29,4 mld euro skutkować będzie powstaniem największego na świecie producenta wind. Branża ma mieć przed sobą świetlaną przyszłość z uwagi na starzejące się społeczeństwo.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mangata-Holding-zaklada-800-mln-zl-przychodow-w-26-widzi-potencjal-rozwoju-w-sektorze-data-center-9124936.html",
       "url": "https://www.bankier.pl/wiadomosc/Mangata-Holding-zaklada-800-mln-zl-przychodow-w-26-widzi-potencjal-rozwoju-w-sektorze-data-center-9124936.html",
       "title": "Mangata ucieka od problemów automotive. Nowy cel: 800 mln zł przychodu i serwerownie Mangata Holding w 2026 r. zakłada przychody na poziomie ok. 800 mln zł, przy marży EBITDA 12-14 proc. - poinformowali przedstawiciele spółki podczas wideokonferencji. Zarząd nadal nie widzi poprawy w branży automotive, ale dostrzega potencjał rozwoju np. w sektorze data center.",
       "content_html": "",
       "date_published": "2026-04-29T11:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-na-oslony-w-JSW-Pierwsze-osoby-odejda-z-pracy-juz-w-maju-9124902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-na-oslony-w-JSW-Pierwsze-osoby-odejda-z-pracy-juz-w-maju-9124902.html",
+      "title": "Miliardy na osłony w JSW. Pierwsze osoby odejdą z pracy już w maju Wiceminister energii Marian Zmarzły zadeklarował w środę, że chce, by w maju pierwsze osoby w Jastrzębskiej Spółce Węglowej skorzystały z jednorazowych odpraw pieniężnych. Według niego być może w czerwcu uda się w JSW wypuścić pierwsze osoby na urlopy górnicze i przeróbkarskie.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:37:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pharmena-planuje-w-27-badania-kliniczne-wyrobu-medycznego-do-stosowania-w-trudno-gojacych-sie-ranach-wywiad-9124931.html",
@@ -403,6 +466,13 @@
       "date_published": "2026-04-28T12:30:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gieldowy-renesans-nafciarzy-Wojna-w-Iranie-winduje-wyniki-BP-9124102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldowy-renesans-nafciarzy-Wojna-w-Iranie-winduje-wyniki-BP-9124102.html",
+      "title": "Giełdowy renesans nafciarzy. Wojna w Iranie winduje wyniki BP Podczas gdy wojenny chaos na Bliskim Wschodzie uderza w amerykańskich gigantów naftowych, brytyjskie BP wyrasta na największego wygranego obecnej sytuacji rynkowej. Spółka zaraportowała skokowy wzrost zysków, napędzany rekordowymi marżami z handlu surowcami, a jej akcje deklasują konkurencję.",
+      "content_html": "",
+      "date_published": "2026-04-28T12:15:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bunkrowanie-gazu-LNG-w-Swinoujsciu-i-Zatoce-Gdanskiej-niewkluczone-po-2029-r-Orlen-9124125.html",
       "url": "https://www.bankier.pl/wiadomosc/Bunkrowanie-gazu-LNG-w-Swinoujsciu-i-Zatoce-Gdanskiej-niewkluczone-po-2029-r-Orlen-9124125.html",
       "title": "Orlen inwestuje w „morskie stacje gazowe”. Świnoujście i Zatoka Gdańska z nową infrastrukturą do 2030 r. Projekt udostępnienia w gazoporcie LNG w Świnoujściu tzw. bunkierki, zaopatrującej statki w gaz LNG, może ruszyć ok. 2029 r. - poinformował przedstawiciel Orlenu na podkomisji sejmowej dot. rynku Small-Scale LNG w Polsce. Dodał, że możliwość taka w Zatoce Gdańskiej to ewentualnie perspektywa lat 2029-2030.",
@@ -590,76 +660,6 @@
       "title": "Asseco SEE miał w I kw. 84,8 mln zł zysku EBITDA wobec konsensusu na poziomie 82,1 mln zł Asseco SEE miał w I kw. 2026 roku 47,5 mln zł zysku netto j.d. oraz 84,8 mln zł zysku EBITDA - podała spółka w raporcie kwartalnym. Konsensus PAP Biznes zakładał 36,6 mln zł zysku netto oraz 82,1 mln zł zysku EBITDA.",
       "content_html": "",
       "date_published": "2026-04-27T17:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-zastapi-Mabion-w-indeksie-sWIG80-po-sesji-29-kwietnia-9123696.html",
-      "url": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-zastapi-Mabion-w-indeksie-sWIG80-po-sesji-29-kwietnia-9123696.html",
-      "title": "Creotech Quantum zastąpi Mabion w indeksie sWIG80 po sesji 29 kwietnia Creotech Quantum zastąpi Mabion w indeksie sWIG80 po sesji 29 kwietnia 2026 r. - poinformowała GPW Benchmark w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-27T17:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Takiej-zlej-serii-na-WIG20-nie-bylo-od-przeszlo-2-lat-Licznik-ciagle-bije-9123695.html",
-      "url": "https://www.bankier.pl/wiadomosc/Takiej-zlej-serii-na-WIG20-nie-bylo-od-przeszlo-2-lat-Licznik-ciagle-bije-9123695.html",
-      "title": "Takiej złej serii na WIG20 nie było od przeszło 2 lat. Licznik ciągle bije Małymi kroczkami ciągle w dół. Tak można opisać ostatnie sesje na GPW, szczególnie niepokojące na WIG20, który ugina się pod ciężarem zniżkujących banków. W poniedziałek indeks polskich blue chipów zaliczył najgorszą serię spadków sesji od ponad dwóch lat.",
-      "content_html": "",
-      "date_published": "2026-04-27T17:37:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bedzie-strajk-generalny-w-Dino-Zarzad-sieci-nie-pojawil-sie-na-mediacjach-9123673.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bedzie-strajk-generalny-w-Dino-Zarzad-sieci-nie-pojawil-sie-na-mediacjach-9123673.html",
-      "title": "Skandal w Dino! Zarząd nie przyszedł na mediacje, pracownicy szykują strajk generalny Nikt z zarządu Dino Polska nie pojawił się na spotkaniu mediacyjnym, które miało się odbyć 27 kwietnia br. W związku z tym przedstawiciele związków zawodowych działających w sieci zapowiadają strajk generalny. Domagają się m.in. 900 zł podwyżki, utworzenia Zakładowego Funduszu Świadczeń Socjalnych, zwiększenia poziomu zatrudnienia oraz poprawy warunków pracy w marketach należących do sieci.",
-      "content_html": "",
-      "date_published": "2026-04-27T17:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Develia-wyemituje-obligacje-o-lacznej-wartosci-nominalnej-150-mln-zl-9123670.html",
-      "url": "https://www.bankier.pl/wiadomosc/Develia-wyemituje-obligacje-o-lacznej-wartosci-nominalnej-150-mln-zl-9123670.html",
-      "title": "Develia wyemituje obligacje o łącznej wartości nominalnej 150 mln zł Zarząd Develii podjął uchwałę w sprawie emisji 150.000 sztuk niezabezpieczonych obligacji zwykłych na okaziciela serii DVL0530OZ14, o wartości nominalnej 1.000 zł każda i maksymalnej łącznej wartości nominalnej wynoszącej 150 mln zł - podała spółka w komunikacie. Obligacje będą emitowane w ramach programu emisji obligacji do łącznej kwoty wynoszącej 850 mln zł.",
-      "content_html": "",
-      "date_published": "2026-04-27T17:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-spolki-zaleznej-SpyroSoft-za-maks-269-5-mln-zl-najkorzystniejsza-w-przetargu-brytyjskiego-Ordnance-Survey-9123665.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-spolki-zaleznej-SpyroSoft-za-maks-269-5-mln-zl-najkorzystniejsza-w-przetargu-brytyjskiego-Ordnance-Survey-9123665.html",
-      "title": "Oferta spółki zależnej SpyroSoft za maks. 269,5 mln zł najkorzystniejsza w przetargu brytyjskiego Ordnance Survey Oferta spółki zależnej SpyroSoft o maksymalnej wartości ok. 269,5 mln zł została wybrana przez brytyjską agencję kartograficzną, zajmującą się oficjalnym pomiarem geodezyjnym Wielkiej Brytanii - Ordnance Survey - najkorzystniejszą w przetargu na usługi IT i dostawcę oprogramowania do rozwoju i wsparcia produktu OS Maps - podał SpyroSoft w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-27T17:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-rekomendacje-Develii-i-Dom-Development-podtrzymal-dla-Murapolu-Atalu-i-Archicomu-9123620.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-rekomendacje-Develii-i-Dom-Development-podtrzymal-dla-Murapolu-Atalu-i-Archicomu-9123620.html",
-      "title": "Trigon DM obniżył rekomendacje Develii i Dom Development; podtrzymał dla Murapolu, Atalu i Archicomu Analitycy Trigon DM w raporcie z 20 kwietnia obniżyli remendacje dla Develii i Dom Developmnet do \"trzymaj\" z \"kupuj\", podwyższając cenę docelową akcji Develii do 11,5 zł z 10 i obniżając cenę docelową Dom Development do 295 zł z 300 zł. Analitycy podtrzymali rekomendacje \"kupuj\" dla Murapolu, Atalu i Archicomu.",
-      "content_html": "",
-      "date_published": "2026-04-27T16:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Umowa-licencyjna-Microsoftu-z-OpenAI-nie-bedzie-juz-na-wylacznosc-9123609.html",
-      "url": "https://www.bankier.pl/wiadomosc/Umowa-licencyjna-Microsoftu-z-OpenAI-nie-bedzie-juz-na-wylacznosc-9123609.html",
-      "title": "Umowa licencyjna Microsoftu z OpenAI nie będzie już na wyłączność Microsoft poinformował w poniedziałek w komunikacie, że jego partnerstwo z OpenAI, wiodącą firmą zajmującą się sztuczną inteligencją, nie będzie miało charakteru na wyłączność.",
-      "content_html": "",
-      "date_published": "2026-04-27T15:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jurysdykcja-banku-jako-element-dywersyfikacji-co-zyskuje-inwestor-dlugoterminowy-9123550.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jurysdykcja-banku-jako-element-dywersyfikacji-co-zyskuje-inwestor-dlugoterminowy-9123550.html",
-      "title": "Jurysdykcja banku jako element dywersyfikacji – co zyskuje inwestor długoterminowy? Przejście od koncentracji na kosztach do dywersyfikacji ryzyka i świadomej alokacji aktywów jest procesem dojrzewania w inwestowaniu. Bezpieczeństwo posiadanego kapitału w perspektywie długoterminowej zwraca coraz większą uwagę inwestorów, dla których jurysdykcja banku, w którym deponują aktywa, staje się ważnym elementem strategii inwestycyjnej.",
-      "content_html": "",
-      "date_published": "2026-04-27T15:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KGHM-chce-wyplacic-300-mln-zl-dywidendy-z-zysku-za-25-co-da-1-5-zl-na-akcje-9123542.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGHM-chce-wyplacic-300-mln-zl-dywidendy-z-zysku-za-25-co-da-1-5-zl-na-akcje-9123542.html",
-      "title": "KGHM chce wypłacić 300 mln zł dywidendy z zysku za '25, co da 1,5 zł na akcję Zarząd KGHM rekomenduje walnemu zgromadzeniu wypłacenie 300 mln zł dywidendy z zysku za 2025 rok, co da 1,5 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-04-27T15:19:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-Polimeksu-Mostostalu-spada-o-6-4-proc-przy-znizce-mWIG40-o-0-4-proc-9123574.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-Polimeksu-Mostostalu-spada-o-6-4-proc-przy-znizce-mWIG40-o-0-4-proc-9123574.html",
-      "title": "Kurs Polimeksu Mostostalu spada o 6,4 proc. przy zniżce mWIG40 o 0,4 proc. Kurs akcji Polimeksu Mostostalu spada o 6,4 proc. do 8,37 zł przy wysokich obrotach. Indeks mWIG40 zniżkuje o 0,4 proc.",
-      "content_html": "",
-      "date_published": "2026-04-27T15:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
