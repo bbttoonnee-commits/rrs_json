@@ -2,6 +2,406 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "Bankier.pl – Giełda – Wiadomości",
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
-  "items": [],
+  "items": [
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-na-oslony-w-JSW-Pierwsze-osoby-odejda-z-pracy-juz-w-maju-9124902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-na-oslony-w-JSW-Pierwsze-osoby-odejda-z-pracy-juz-w-maju-9124902.html",
+      "title": "Miliardy na osłony w JSW. Pierwsze osoby odejdą z pracy już w maju Wiceminister energii Marian Zmarzły zadeklarował w środę, że chce, by w maju pierwsze osoby w Jastrzębskiej Spółce Węglowej skorzystały z jednorazowych odpraw pieniężnych. Według niego być może w czerwcu uda się w JSW wypuścić pierwsze osoby na urlopy górnicze i przeróbkarskie.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:37:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pharmena-planuje-w-27-badania-kliniczne-wyrobu-medycznego-do-stosowania-w-trudno-gojacych-sie-ranach-wywiad-9124931.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pharmena-planuje-w-27-badania-kliniczne-wyrobu-medycznego-do-stosowania-w-trudno-gojacych-sie-ranach-wywiad-9124931.html",
+      "title": "Pharmena planuje w '27 badania kliniczne wyrobu medycznego do stosowania w trudno gojących się ranach (wywiad) Pharmena planuje w 2027 r. przeprowadzenie badań klinicznych wyrobu medycznego do stosowania w trudno gojących się ranach oraz rozpoczęcie procesu wprowadzenia produktu na rynek UE. Poszukuje także partnera do rozwoju kandydata na lek i liczy na wzrost przychodów dzięki nowym kanałom dystrybucji suplementów diety – poinformował prezes Konrad Palka.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Decora-szacuje-ze-zysk-netto-grupy-w-I-kw-26-wzrosl-o-8-4-proc-do-21-8-mln-zl-9124927.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decora-szacuje-ze-zysk-netto-grupy-w-I-kw-26-wzrosl-o-8-4-proc-do-21-8-mln-zl-9124927.html",
+      "title": "Remontowy boom trwa. Zysk Decory rośnie o ponad 8 proc. w I kwartale Decora szacuje, że skonsolidowany zysk netto grupy w pierwszym kwartale 2026 r. wzrósł rdr o 8,4 proc. rdr do 21,8 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/WZ-Gobarto-zdecyduje-ws-upowaznienia-zarzadu-do-nabycia-do-500-tys-akcji-wlasnych-9124925.html",
+      "url": "https://www.bankier.pl/wiadomosc/WZ-Gobarto-zdecyduje-ws-upowaznienia-zarzadu-do-nabycia-do-500-tys-akcji-wlasnych-9124925.html",
+      "title": "WZ Gobarto zdecyduje ws. upoważnienia zarządu do nabycia do 500 tys. akcji własnych Akcjonariusze Gobarto zdecydują w sprawie upoważnienia zarządu do nabycia do 500 tys. akcji własnych, stanowiących 1,8 proc. kapitału zakładowego - poinformowała spółka w projektach uchwał na ZWZ zwołanego na 28 maja 2026 roku.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pharmena-planuje-w-27-badania-kliniczne-wyrobu-medycznego-do-stosowania-w-trudno-gojacych-sie-ranach-wywiad-9124916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pharmena-planuje-w-27-badania-kliniczne-wyrobu-medycznego-do-stosowania-w-trudno-gojacych-sie-ranach-wywiad-9124916.html",
+      "title": "Pharmena rusza na podbój UE. W 2027 r. kluczowe badania nad przełomowym opatrunkiem Pharmena planuje w 2027 r. przeprowadzenie badań klinicznych wyrobu medycznego do stosowania w trudno gojących się ranach oraz rozpoczęcie procesu wprowadzenia produktu na rynek UE. Poszukuje także partnera do rozwoju kandydata na lek i liczy na wzrost przychodów dzięki nowym kanałom dystrybucji suplementów diety – poinformował prezes Konrad Palka.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zabka-oczekuje-w-kolejnych-kw-poprawy-wskaznika-zadluzenia-9124906.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zabka-oczekuje-w-kolejnych-kw-poprawy-wskaznika-zadluzenia-9124906.html",
+      "title": "Żabka odporna na mróz. Przychody rosną do 6,5 mld zł, a sieć testuje automaty Grupa Żabka oczekuje w kolejnych kwartałach poprawy wskaźnika długu netto do EBITDA - poinformowali przedstawiciele grupy. Wraz z normalizacją pogody trendy w zakresie sprzedaży LFL są korzystne.",
+      "content_html": "",
+      "date_published": "2026-04-29T11:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZE-PAK-bedzie-pracowal-nad-aktualizacja-strategii-9124777.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZE-PAK-bedzie-pracowal-nad-aktualizacja-strategii-9124777.html",
+      "title": "Wielka transformacja ZE PAK nabiera tempa. Na co stawia spółka? ZE PAK będzie pracował nad aktualizacją strategii - poinformował w liście do akcjonariuszy prezes Piotr Żak. W 2025 roku spółka miała 164,5 mln zł straty netto jednostki dominującej.",
+      "content_html": "",
+      "date_published": "2026-04-29T10:27:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inter-Cars-chce-wyplacic-1-42-zl-dywidendy-na-akcje-za-25-9124881.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inter-Cars-chce-wyplacic-1-42-zl-dywidendy-na-akcje-za-25-9124881.html",
+      "title": "Inter Cars chce wypłacić 1,42 zł dywidendy na akcję za '25 Zarząd Inter Cars rekomenduje, by z zysku osiągniętego w 2025 roku na dywidendę trafiło łącznie 20,1 mln zł, co daje 1,42 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T10:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-podwyzszyl-cene-docelowa-akcji-Noctiluca-do-162-11-zl-9124872.html",
+      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-podwyzszyl-cene-docelowa-akcji-Noctiluca-do-162-11-zl-9124872.html",
+      "title": "East Value Research podwyższył cenę docelową akcji Noctiluca do 162,11 zł Analitycy East Value Research, w raporcie z 26 kwietnia, podwyższyli 12-miesięczną cenę docelową akcji Noctiluca do 162,11 zł z 152,87 zł.",
+      "content_html": "",
+      "date_published": "2026-04-29T10:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-I-kw-26-mial-3-6-mln-zl-zysku-netto-i-5-8-mln-zl-EBITDA-9124854.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-I-kw-26-mial-3-6-mln-zl-zysku-netto-i-5-8-mln-zl-EBITDA-9124854.html",
+      "title": "Lentex odkrywa karty. 3,6 mln zł zysku netto w pierwszym kwartale 2026 roku Lentex szacuje, że w I kwartale 2026 roku miał 3,6 mln zł zysku netto i 5,8 mln zł EBITDA. Szacowane przychody netto wyniosły 40,67 mln zł - podała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-04-29T09:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sevenet-rozpoczal-przeglad-opcji-strategicznych-9124832.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sevenet-rozpoczal-przeglad-opcji-strategicznych-9124832.html",
+      "title": "Sevenet rozpoczął przegląd opcji strategicznych Sevenet zdecydował o rozpoczęciu procesu przeglądu opcji strategicznych - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T09:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mangata-chce-wyplacic-4-5-zl-dywidendy-na-akcje-9124816.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mangata-chce-wyplacic-4-5-zl-dywidendy-na-akcje-9124816.html",
+      "title": "Mangata chce wypłacić 4,5 zł dywidendy na akcję Zarząd Mangata Holding rekomenduje przeznaczenie na dywidendę 30 mln zł z zysku za 2025 rok, co daje 4,5 zł na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CI-Games-w-25-mialo-32-5-mln-zl-zysku-EBITDA-i-5-2-mln-zl-zysku-netto-9124814.html",
+      "url": "https://www.bankier.pl/wiadomosc/CI-Games-w-25-mialo-32-5-mln-zl-zysku-EBITDA-i-5-2-mln-zl-zysku-netto-9124814.html",
+      "title": "Sniper i Rycerze ratują budżet. CI Games kończy 2025 rok na solidnym plusie CI Games wypracowało w 2025 roku 32,5 mln zł zysku EBITDA oraz 5,2 mln zł zysku netto - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wplywy-z-podatku-od-nadmiarowych-zyskow-koncernow-powinny-przekroczyc-4-mld-zl-Domanski-MFiG-9124807.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wplywy-z-podatku-od-nadmiarowych-zyskow-koncernow-powinny-przekroczyc-4-mld-zl-Domanski-MFiG-9124807.html",
+      "title": "Podatek od nadmiarowych zysków koncernów. Na takie wpływy liczy minister finansów Wpływy z podatku od nadmiarowych zysków powinny przekroczyć 4 mld zł – powiedział w środę w Radiu ZET minister finansów i gospodarki Andrzej Domański. Przyznał, że jedną z firm, która może zostać objęta takim podatkiem, jest Orlen.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-wszczal-postepowanie-dot-nieprawidlowego-oznaczania-obnizek-m-in-przeciwko-Zabce-9124798.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-wszczal-postepowanie-dot-nieprawidlowego-oznaczania-obnizek-m-in-przeciwko-Zabce-9124798.html",
+      "title": "UOKiK bierze się za Żabkę i BRW. Gigantom grożą kary do 10 proc. obrotu Sklepy Black Red White, Żabka Nano oraz Peek & Cloppenburg nie informowały o najniższej cenie, która obowiązywała w okresie 30 dni przed obniżką - stwierdził Urząd Ochrony Konkurencji i Konsumentów i wszczął przeciwko nim postępowanie. Każdej z firm grozi kara w wysokości do 10 proc. obrotu.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stalprodukt-chce-przeznaczyc-zysk-za-25-na-kapital-rezerwowy-planuje-skup-akcji-9124792.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stalprodukt-chce-przeznaczyc-zysk-za-25-na-kapital-rezerwowy-planuje-skup-akcji-9124792.html",
+      "title": "Stalprodukt chce przeznaczyć zysk za 2025 na kapitał rezerwowy Zarząd Stalproduktu rekomenduje przeznaczenie całego zysku za 2025 rok w wysokości 77,8 mln zł na kapitał rezerwowy - poinformowała spółka w komunikacie. Jednocześnie spółka chce zaproponować skup akcji.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-PKP-Cargo-miala-w-2025-r-39-4-mln-zl-zysku-netto-i-409-7-mln-zl-EBITDA-9124785.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-PKP-Cargo-miala-w-2025-r-39-4-mln-zl-zysku-netto-i-409-7-mln-zl-EBITDA-9124785.html",
+      "title": "Wielki powrót PKP Cargo. Od 2,4 mld zł straty do zysku w rok Grupa PKP Cargo miała w 2025 r. 39,4 mln zł zysku netto wobec 2,4 mld zł straty rok wcześniej - podała spółka w raporcie rocznym. EBITDA wzrosła do 409,7 mln zł z 299,7 mln zł przed rokiem.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Afera-Zondacrypto-dociera-na-GPW-Odejscia-ze-spolki-Femion-i-znany-inwestor-w-tle-9124757.html",
+      "url": "https://www.bankier.pl/wiadomosc/Afera-Zondacrypto-dociera-na-GPW-Odejscia-ze-spolki-Femion-i-znany-inwestor-w-tle-9124757.html",
+      "title": "Afera Zondacrypto dociera na GPW. Odejścia ze spółki Femion i znany inwestor w tle Prezes Zondacrypto Przemysław Kral był głównym akcjonariuszem notowanej na NewConnect spółki Femion Technology, do której należała nadzorowana przez KNF instytucja płatnicza TryPay - podała we wtorek \"Gazeta Wyborcza\". Akcje Femionu straciły na ostatniej sesji blisko 50%. Zarząd i kluczowi managerowie złożyli rezygnacje. Przed tygodniem swoje udziały w firmie sprzedał January Ciszewski.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przewodniczacy-RN-Cyfrowego-Polsatu-widzi-poprawe-wynikow-w-I-kw-26-9124779.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przewodniczacy-RN-Cyfrowego-Polsatu-widzi-poprawe-wynikow-w-I-kw-26-9124779.html",
+      "title": "Rada nadzorcza Polsatu zachwycona. Wyniki za I kwartał 2026 r. idą w górę Przewodniczący rady nadzorczej Cyfrowego Polsatu zauważa poprawę wyników operacyjnych i finansowych Cyfrowego Polsatu w I kw. 2026 roku - napisał w liście przewodniczącego RN, Daniel Kaczorowski.",
+      "content_html": "",
+      "date_published": "2026-04-29T08:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-jesienia-oglosi-nowa-strategie-prezes-9124769.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-jesienia-oglosi-nowa-strategie-prezes-9124769.html",
+      "title": "Jesień zmian w Cyfrowym Polsacie. Prezes Żak: Już działamy Cyfrowy Polsat jesienią 2026 roku ogłosi nową strategię - poinformował piśmie prezesa zarządu, Piotr Żak.",
+      "content_html": "",
+      "date_published": "2026-04-29T07:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Energa-miala-w-2025-r-1-24-mld-zl-zysku-netto-j-d-i-3-6-mld-zl-EBITDA-9124768.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Energa-miala-w-2025-r-1-24-mld-zl-zysku-netto-j-d-i-3-6-mld-zl-EBITDA-9124768.html",
+      "title": "Zysk Energi wystrzelił o 200%. Grupa zarobiła 1,24 mld zł i stawia na inwestycje Grupa Energa zanotowała w 2025 r. 1,24 mld zł zysku netto przypadającego na akcjonariuszy jednostki dominującej wobec 376 mln zł zysku rok wcześniej - podała spółka w raporcie rocznym. EBITDA grupy wyniosła 3,6 mld zł, co oznacza wzrost o 5 proc. rdr.",
+      "content_html": "",
+      "date_published": "2026-04-29T07:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-mial-w-IV-kw-718-3-mln-zl-skor-EBITDA-wobec-704-7-mln-zl-konsensusu-9124762.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-mial-w-IV-kw-718-3-mln-zl-skor-EBITDA-wobec-704-7-mln-zl-konsensusu-9124762.html",
+      "title": "Telewizja to już przeszłość. Cyfrowy Polsat zarabia na wietrze, słońcu i wodorze Cyfrowy Polsat miał IV kw. 718,3 mln zł skorygowanej EBITDA oraz 3.771,6 mln zł przychodów - podała spółka w skonsolidowanym raporcie za 2025 rok. Konsensus PAP Biznes zakładał 704,7 mln zł skorygowanej EBITDA oraz 3.735 mln zł przychodów.",
+      "content_html": "",
+      "date_published": "2026-04-29T07:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PlayWay-dokona-odpisow-w-wys-44-9-mln-zl-w-skonsolidowanych-wynikach-za-2025-r-9124739.html",
+      "url": "https://www.bankier.pl/wiadomosc/PlayWay-dokona-odpisow-w-wys-44-9-mln-zl-w-skonsolidowanych-wynikach-za-2025-r-9124739.html",
+      "title": "PlayWay czyści bilans przed wynikami. 45 milionów złotych odpisu na gamingowe spółki PlayWay w skonsolidowanym sprawozdaniu finansowym za 2025 rok utworzy odpisy aktualizujące w łącznej wysokości blisko 44,9 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T06:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wittchen-mial-w-25-80-mln-zl-EBITDA-ostroznie-ocenia-perspektywy-rynku-na-kolejne-okresy-9124727.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wittchen-mial-w-25-80-mln-zl-EBITDA-ostroznie-ocenia-perspektywy-rynku-na-kolejne-okresy-9124727.html",
+      "title": "Walizki sprzedają się gorzej? Wittchen stawia na online i nowe kolekcje Grupa Wittchen zanotowała w 2025 roku spadek EBITDA o ok. 3 proc. rdr do 80 mln zł, a przychody wzrosły o 5 proc. rdr do 476,7 mln zł - poinformowała spółka w komunikacie prasowym. Firma ostrożnie podchodzi do oceny perspektyw rynkowych na kolejne okresy po słabszym sprzedażowo I kwartale tego roku.",
+      "content_html": "",
+      "date_published": "2026-04-29T06:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-czy-lokata-O-proporcjach-akcji-obligacji-i-lokat-w-portfelu-9124057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-czy-lokata-O-proporcjach-akcji-obligacji-i-lokat-w-portfelu-9124057.html",
+      "title": "Giełda czy lokata? O proporcjach akcji, obligacji i lokat w portfelu Polacy zgromadzili już 2,8 bln zł oszczędności, ale większość tej kwoty leży na bankowych depozytach lub w gotówce. Unikamy rynku kapitałowego, wierząc, że brak wahań ceny gwarantuje nam bezpieczeństwo, choć równolegle środki, które nie pracują, z czasem - w środowisku inflacyjnym - mogą tracić na wartości. Odpowiedzią na potrzebę dywersyfikacji portfela są akcje i obligacje, ale jak dobrać ich proporcje i czy portfel “60/40” to najlepsze możliwe rozwiązanie?",
+      "content_html": "",
+      "date_published": "2026-04-29T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/S-P500-spadl-ze-szczytu-Zadyszka-w-branzy-AI-9124658.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-spadl-ze-szczytu-Zadyszka-w-branzy-AI-9124658.html",
+      "title": "S&P500 spadł ze szczytu. Zadyszka w branży AI Obawy związane z przyszłością branży AI w połączeniu z wciąż drożejącą ropą naftową we wtorek ściągnęły nowojorskie giełdy z historycznych szczytów.",
+      "content_html": "",
+      "date_published": "2026-04-28T22:23:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Instytucje-finansujace-Grupe-Azoty-Pulawy-i-Police-odstapily-od-stosowania-wybranych-warunkow-umow-9124612.html",
+      "url": "https://www.bankier.pl/wiadomosc/Instytucje-finansujace-Grupe-Azoty-Pulawy-i-Police-odstapily-od-stosowania-wybranych-warunkow-umow-9124612.html",
+      "title": "Ważne porozumienie Grupy Azoty z bankami. 13 instytucji finansowych łagodzi warunki umów Grupa Azoty oraz wybrane pozostałe spółki z Grupy Kapitałowej Grupy Azoty podpisały porozumienia z 13 instytucjami finansującymi, na mocy których zgodziły się one na odstąpienie od stosowania wybranych warunków umów o finansowanie Grupy Azoty - poinformowały spółki w komunikatach.",
+      "content_html": "",
+      "date_published": "2026-04-28T21:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zabka-zaktualizowala-program-skupu-akcji-wlasnych-z-max-kwoty-130-mln-zl-do-273-mln-zl-9124569.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zabka-zaktualizowala-program-skupu-akcji-wlasnych-z-max-kwoty-130-mln-zl-do-273-mln-zl-9124569.html",
+      "title": "Żabka zaktualizowała program skupu akcji własnych z max. kwoty 130 mln zł do 273 mln zł Rada Dyrektorów Żabka podjęła uchwałę w sprawie aktualizacji programu skupu akcji własnych w celu realizacji zobowiązań wynikających z długoterminowego programu motywacyjnego na lata 2025-2027 - podała Żabka w komunikacie. Spółka zwiększyła maksymalną kwotę na nabycie akcji z 130 mln zł do 273 mln zł.",
+      "content_html": "",
+      "date_published": "2026-04-28T19:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Zabka-miala-w-I-kw-674-mln-zl-skorygowanej-EBITDA-wobec-641-2-mln-zl-konsensusu-9124529.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Zabka-miala-w-I-kw-674-mln-zl-skorygowanej-EBITDA-wobec-641-2-mln-zl-konsensusu-9124529.html",
+      "title": "Żabka pozytywnie zaskakuje rynek. Mniejsza strata i wyższa sprzedaż na początku roku Zabka Group zanotowała w pierwszym kwartale 2026 roku 674 mln zł skorygowanej EBITDA wobec 596 mln zł rok wcześniej - podała spółka w raporcie. Analitycy spodziewali się 641,2 mln zł skorygowanego wyniku EBITDA.",
+      "content_html": "",
+      "date_published": "2026-04-28T19:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skarbiec-Holding-mial-107-mln-zl-zysku-netto-po-szesciu-kw-roku-obrotowego-2024-25-9124556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skarbiec-Holding-mial-107-mln-zl-zysku-netto-po-szesciu-kw-roku-obrotowego-2024-25-9124556.html",
+      "title": "Skarbiec Holding miał 107 mln zł zysku netto po sześciu kw. roku obrotowego 2024/25 Skarbiec Holding po sześciu kwartałach roku obrotowego 2024/2025 (lipiec 2024 - grudzień 2025 r.) miał 107,2 mln zł zysku netto, podczas gdy w analogicznym okresie (lipiec 2023 - grudzień 2024 r.) zysk netto wyniósł 29,6 mln zł - poinformował Skarbiec Holding w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-28T19:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Grodna-do-20-8-zl-i-podtrzymal-rekomendacje-kupuj-9124549.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Grodna-do-20-8-zl-i-podtrzymal-rekomendacje-kupuj-9124549.html",
+      "title": "DM BOŚ podwyższył wycenę akcji Grodna do 20,8 zł i podtrzymał rekomendację \"kupuj\" Analitycy DM BOŚ, w raporcie z 28 kwietnia, podwyższyli wycenę akcji Grodna do 20,8 zł oraz podtrzymali rekomendację \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-04-28T18:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wymog-MREL-dla-mBanku-wynosi-15-36-proc-lacznej-kwoty-ekspozycji-na-ryzyko-9124537.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wymog-MREL-dla-mBanku-wynosi-15-36-proc-lacznej-kwoty-ekspozycji-na-ryzyko-9124537.html",
+      "title": "Wymóg MREL dla mBanku wynosi 15,36 proc. łącznej kwoty ekspozycji na ryzyko Zaktualizowany wymóg MREL dla mBanku na poziomie skonsolidowanym, z wyłączeniem z konsolidacji mBanku Hipotecznego, wynosi 15,36 proc. łącznej kwoty ekspozycji na ryzyko (TREA) - podał bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-28T18:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Zabka-Group-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9124527.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Zabka-Group-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9124527.html",
+      "title": "Wyniki Zabka Group w I kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiono wyniki Zabka Group w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "content_html": "",
+      "date_published": "2026-04-28T18:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PCF-Group-zlozy-inwestorom-oferty-objecia-lacznie-3-48-mln-akcji-serii-I-w-cenie-4-zl-szt-9124514.html",
+      "url": "https://www.bankier.pl/wiadomosc/PCF-Group-zlozy-inwestorom-oferty-objecia-lacznie-3-48-mln-akcji-serii-I-w-cenie-4-zl-szt-9124514.html",
+      "title": "PCF Group złoży inwestorom oferty objęcia łącznie 3,48 mln akcji serii I w cenie 4 zł/szt PCF Group po zakończeniu w dniu 28 kwietnia procesu budowania księgi popytu na akcje zwykłe na okaziciela serii I, ustalił, że złoży inwestorom oferty objęcia łącznie 3.476.916 akcji w cenie emisyjnej 4 zł za papier - podał producent gier w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-04-28T18:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/XTB-szacuje-zysk-netto-w-I-kw-26-na-535-mln-zl-wobec-498-mln-zl-konsensusu-9124471.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTB-szacuje-zysk-netto-w-I-kw-26-na-535-mln-zl-wobec-498-mln-zl-konsensusu-9124471.html",
+      "title": "XTB deklasuje rynkowy konsensus. Lawina nowych klientów i potężny zysk XTB szacuje, że zysk netto w I kw. 2026 r. wyniósł 535 mln zł wobec 193,9 mln zł zysku rok wcześniej - podała spółka w komunikacie. Konsensus PAP Biznes zakładał zysk netto na poziomie 498 mln zł.",
+      "content_html": "",
+      "date_published": "2026-04-28T18:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Action-wypracowala-w-2025-r-2-99-mld-zl-przychodow-ze-sprzedazy-i-45-7-mln-zl-zysku-netto-9124488.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Action-wypracowala-w-2025-r-2-99-mld-zl-przychodow-ze-sprzedazy-i-45-7-mln-zl-zysku-netto-9124488.html",
+      "title": "Grupa Action wypracowała w 2025 r. 2,99 mld zł przychodów ze sprzedaży i 45,7 mln zł zysku netto Grupa Action wypracowała w 2025 r. przychody ze sprzedaży w wysokości 2,99 mld zł - podała spółka w komunikacie prasowym. W tym okresie EBITDA wyniosła 67,5 mln zł, co oznacza wzrost o ok. 22 proc. rdr, a zysk netto wyniósł 45,7 mln zł, czyli 11 proc. więcej rdr.",
+      "content_html": "",
+      "date_published": "2026-04-28T18:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Medinice-ma-przedluzenie-waznosci-listu-intencyjnego-ws-komercjalizacji-CoolCryo-9124478.html",
+      "url": "https://www.bankier.pl/wiadomosc/Medinice-ma-przedluzenie-waznosci-listu-intencyjnego-ws-komercjalizacji-CoolCryo-9124478.html",
+      "title": "Medinice ma przedłużenie ważności listu intencyjnego ws. komercjalizacji CoolCryo Medinice i międzynarodowy podmiot działający na rynku kardiochirurgii, uzgodniły przedłużenie ważności listu intencyjnego (LoI) , dotyczącego komercjalizacji CoolCryo, do 30 czerwca 2026 r. - podało Medinice w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-28T17:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-wyemitowal-senioralne-obligacje-nieuprzywilejowane-o-wart-nominalnej-700-mln-euro-9124467.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-wyemitowal-senioralne-obligacje-nieuprzywilejowane-o-wart-nominalnej-700-mln-euro-9124467.html",
+      "title": "PKO BP wyemitował senioralne obligacje nieuprzywilejowane o wart. nominalnej 700 mln euro Zarząd PKO Banku Polskiego zakończył subskrypcję senioralnych obligacji nieuprzywilejowanych \"senior non preferred notes\" o łącznej wartości nominalnej 700 mln euro - podał bank w komunikacie. Emisja obligacji realizowana jest w ramach Programu EMTN.",
+      "content_html": "",
+      "date_published": "2026-04-28T17:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-XTB-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9124455.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-XTB-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9124455.html",
+      "title": "Wstępne wyniki XTB w I kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wstępne wyniki XTB w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-04-28T17:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czerwona-seria-WIG20-jest-juz-najdluzsza-od-4-lat-Koszmarny-debiut-wydawcy-Do-Rzeczy-9124443.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czerwona-seria-WIG20-jest-juz-najdluzsza-od-4-lat-Koszmarny-debiut-wydawcy-Do-Rzeczy-9124443.html",
+      "title": "Czerwona seria WIG20 najdłuższa od 4 lat. Koszmarny debiut wydawcy „Do Rzeczy” Wtorkowa sesja na warszawskim parkiecie przyniosła kontynuację fatalnej passy. Mimo obiecującego początku i prób wyprowadzenia kontry przez rynkowe byki, nastroje szybko uległy pogorszeniu, w efekcie czego WIG20 zanotował siódmą spadkową sesję z rzędu, czego nie widziano od pierwszej połowy 2022 r.",
+      "content_html": "",
+      "date_published": "2026-04-28T17:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BoomBit-planuje-przeznaczyc-zysk-netto-za-25-w-wys-1-1-mln-zl-na-kapital-zapasowy-spolki-9124419.html",
+      "url": "https://www.bankier.pl/wiadomosc/BoomBit-planuje-przeznaczyc-zysk-netto-za-25-w-wys-1-1-mln-zl-na-kapital-zapasowy-spolki-9124419.html",
+      "title": "BoomBit planuje przeznaczyć zysk netto za '25 w wys. 1,1 mln zł na kapitał zapasowy spółki Zarząd BoomBit rekomenduje przeznaczenie wypracowanego zysku netto za 2025 rok w kwocie 1,1 mln zł w całości na kapitał zapasowy spółki - poinformowała spółka w komunikacie. Rekomendacja wynika z braku zdolności dywidendowej.",
+      "content_html": "",
+      "date_published": "2026-04-28T17:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dla-sektora-kosmicznego-w-Polsce-kluczowym-zagrozeniem-niedostateczne-finansowanie-ARP-9124333.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dla-sektora-kosmicznego-w-Polsce-kluczowym-zagrozeniem-niedostateczne-finansowanie-ARP-9124333.html",
+      "title": "Polski kosmos bez pieniędzy? Eksperci alarmują o braku stabilnego finansowania Dla sektora kosmicznego w Polsce kluczowym zagrożeniem jest niedostateczne i niestabilne finansowanie - wynika z raportu \"Polski sektor kosmiczny 2025\" przygotowanego przez Agencję Rozwoju Przemysłu. Podano, że szanse dla polskich firm kosmicznych na rynkach międzynarodowych są znaczące, szczególnie w kontekście analizy danych satelitarnych, komponentów satelitarnych oraz trendu New Space.",
+      "content_html": "",
+      "date_published": "2026-04-28T15:37:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Auchan-chce-przejmowac-i-szybko-rosnac-Jestesmy-najtansi-na-rynku-9124268.html",
+      "url": "https://www.bankier.pl/wiadomosc/Auchan-chce-przejmowac-i-szybko-rosnac-Jestesmy-najtansi-na-rynku-9124268.html",
+      "title": "Auchan chce przejmować i szybko rosnąć. \"Jesteśmy najtańsi na rynku\" Sieć handlowa Auchan chce przyspieszyć rozwój w Polsce, m.in. poprzez franczyzę. Firma nie wyklucza przejęć - poinformował PAP Biznes Alexandre Saussard, dyrektor generalny Auchan Retail Polska.",
+      "content_html": "",
+      "date_published": "2026-04-28T15:33:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wawel-wyplaci-35-zl-dywidendy-na-akcje-z-zysku-za-2025-r-9124320.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wawel-wyplaci-35-zl-dywidendy-na-akcje-z-zysku-za-2025-r-9124320.html",
+      "title": "Wawel wypłaci 35 zł dywidendy na akcję z zysku za 2025 r. Walne zgromadzenie Wawelu zdecydowało o przeznaczeniu 45,2 mln zł z zysku netto za 2025 rok na wypłatę dywidendy, co daje 35 zł na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-28T15:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Decora-chce-przeznaczyc-na-wyplate-dywidendy-42-1-mln-zl-z-zysku-za-25-9124307.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decora-chce-przeznaczyc-na-wyplate-dywidendy-42-1-mln-zl-z-zysku-za-25-9124307.html",
+      "title": "Decora chce przeznaczyć na wypłatę dywidendy 42,1 mln zł z zysku za '25 Zarząd Decory rekomenduje wypłatę 42,1 mln zł z zysku wypracowanego w 2025 roku na dywidendę, a 32,9 mln zł zarząd rekomenduje przeznaczyć na kapitał zapasowy spółki - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-28T15:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/S-P-Global-Ratings-obnizyl-perspektywe-ratingu-CEZ-u-do-negatywnej-9124286.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P-Global-Ratings-obnizyl-perspektywe-ratingu-CEZ-u-do-negatywnej-9124286.html",
+      "title": "S&P Global Ratings obniżył perspektywę ratingu CEZ-u do negatywnej Agencja S&P Global Ratings zmieniła perspektywę ratingu czeskiego koncernu energetycznego CEZ na negatywną ze stabilnej - poinformowała agencja w komunikacie prasowym. Jako przyczynę podano rządowe plany wydzielenia działalności regulowanej. Długoterminowy rating \"A-\" został utrzymany.",
+      "content_html": "",
+      "date_published": "2026-04-28T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mabion-podtrzymuje-ze-celem-jest-osiagniecie-progu-rentownosci-EBITDA-na-koniec-2026-r-9124281.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mabion-podtrzymuje-ze-celem-jest-osiagniecie-progu-rentownosci-EBITDA-na-koniec-2026-r-9124281.html",
+      "title": "Mabion podtrzymuje, że celem jest osiągnięcie progu rentowności EBITDA na koniec 2026 r. Mabion podtrzymuje, że celem spółki jest osiągnięcie progu rentowności EBITDA na koniec 2026 r. - poinformowali przedstawiciele zarządu.",
+      "content_html": "",
+      "date_published": "2026-04-28T14:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-zwiekszyla-wielkosc-emisji-do-100-000-obligacji-serii-P2026A-9124257.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cavatina-Holding-zwiekszyla-wielkosc-emisji-do-100-000-obligacji-serii-P2026A-9124257.html",
+      "title": "Cavatina Holding zwiększyła wielkość emisji do 100.000 obligacji serii P2026A Cavatina Holding zwiększyła maksymalną liczbę obligacji serii P2026A, będących przedmiotem prowadzonej przez spółkę oferty publicznej, do nie więcej niż 100.000 obligacji o łącznej wartości nie wyższej niż 100 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-28T14:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-zatwierdzila-strategie-restrukturyzacyjna-na-lata-2025-2031-9124211.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rada-nadzorcza-PKP-Cargo-zatwierdzila-strategie-restrukturyzacyjna-na-lata-2025-2031-9124211.html",
+      "title": "Wielkie cięcia i nowy plan. PKP Cargo chce wyjść na prostą w 2026 r. Rada nadzorcza PKP Cargo zatwierdziła \"Strategię Restrukturyzacyjną Grupy Kapitałowej PKP Cargo na lata 2025-2031\" - podała spółka w komunikacie. Strategia zakłada, że Grupa od 2026 roku odzyskuje rentowność na poziomie wyniku netto oraz że w 2031 roku możliwe będzie osiągnięcie ok. 1 507 mln zł EBITDA.",
+      "content_html": "",
+      "date_published": "2026-04-28T14:21:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stalprofil-szacuje-ze-mial-w-I-kw-4-14-mln-zl-zysku-netto-6-9-mln-zl-EBITDA-9124233.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stalprofil-szacuje-ze-mial-w-I-kw-4-14-mln-zl-zysku-netto-6-9-mln-zl-EBITDA-9124233.html",
+      "title": "Stalprofil szacuje, że miał w I kw. 4,14 mln zł zysku netto, 6,9 mln zł EBITDA Stalprofil szacuje, że w pierwszym kwartale 2026 roku jednostkowy zysk netto wyniósł 4,14 mln zł wobec 0,74 mln zł straty rok wcześniej - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-28T14:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-szacuje-ze-mialo-6-25-mld-zl-straty-netto-i-4-99-mld-zl-straty-EBITDA-w-2025-r-9124191.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-szacuje-ze-mialo-6-25-mld-zl-straty-netto-i-4-99-mld-zl-straty-EBITDA-w-2025-r-9124191.html",
+      "title": "JSW liczy straty za 2025 rok. Ponad 6 miliardów złotych na minusie Grupa JSW szacuje, że w 2025 roku miała 6.254,9 mln zł skonsolidowanej straty netto i 4.988,7 mln zł straty EBITDA - podała spółka w komunikacie. Szacunki wskazują, ze spółka w 2025 roku miała 9.408,1 mln zł przychodów oraz 2.212,9 mln zł starty brutto ze sprzedaży.",
+      "content_html": "",
+      "date_published": "2026-04-28T13:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Makarony-Polskie-sa-gotowe-na-kolejne-przejecia-celem-1-mld-zl-przychodow-za-kilka-lat-9124180.html",
+      "url": "https://www.bankier.pl/wiadomosc/Makarony-Polskie-sa-gotowe-na-kolejne-przejecia-celem-1-mld-zl-przychodow-za-kilka-lat-9124180.html",
+      "title": "Makarony Polskie celują w 1 mld zł przychodów. Spółka szykuje się do kolejnych przejęć Po ogłoszeniu przejęcia spółki Joyfood, Makarony Polskie deklarują gotowość do kolejnych przejęć celem zwiększenia w perspektywie kilku lat przychodów do 1 mld zł z ok. 300 mln zł w 2025 r. - poinformowali przedstawiciele spółki. Dodali, że spółka posiada istotne zabezpieczenie finansowe dla akwizycji.",
+      "content_html": "",
+      "date_published": "2026-04-28T13:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BOS-sfinansuje-projekt-Capital-Park-w-Szczecinie-kwota-61-mln-zl-9124147.html",
+      "url": "https://www.bankier.pl/wiadomosc/BOS-sfinansuje-projekt-Capital-Park-w-Szczecinie-kwota-61-mln-zl-9124147.html",
+      "title": "BOŚ sfinansuje projekt Capital Park w Szczecinie kwotą 61 mln zł Bank Ochrony Środowiska (BOŚ) podpisał umowę finansowania projektu Rezydencja Aleja Fontann, realizowanego przez Grupę Capital Park w centrum Szczecina. Wartość transakcji wynosi 61 mln zł - podał bank w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-04-28T12:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-bliski-detronizacji-Gielda-moze-miec-nowego-krola-dywidend-9124111.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-bliski-detronizacji-Gielda-moze-miec-nowego-krola-dywidend-9124111.html",
+      "title": "Orlen bliski detronizacji. Giełda może mieć nowego króla dywidend Rok 2026 może przynieść zmianę na pierwszym miejscu w rankingu giełdowych spółek, które wypłaciły największe nominalnie dywidendy w historii. Dzierżący koronę od kilku lat Orlen może ustąpić miejsca PKO, którego zarząd zarekomendował wypłatę akcjonariuszom blisko 7,7 mld zł dywidendy. Zgodę muszą jeszcze wyrazić akcjonariusze, w tym kontrolujący bank Skarb Państwa, a i Orlen nie powiedział jeszcze ostatniego słowa. Nie mniej zgodnie z naszymi prognozami, zapowiada się na najlepszy od lat sezon dywidend wypłacanych przez państwowe czempiony.",
+      "content_html": "",
+      "date_published": "2026-04-28T12:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gieldowy-renesans-nafciarzy-Wojna-w-Iranie-winduje-wyniki-BP-9124102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldowy-renesans-nafciarzy-Wojna-w-Iranie-winduje-wyniki-BP-9124102.html",
+      "title": "Giełdowy renesans nafciarzy. Wojna w Iranie winduje wyniki BP Podczas gdy wojenny chaos na Bliskim Wschodzie uderza w amerykańskich gigantów naftowych, brytyjskie BP wyrasta na największego wygranego obecnej sytuacji rynkowej. Spółka zaraportowała skokowy wzrost zysków, napędzany rekordowymi marżami z handlu surowcami, a jej akcje deklasują konkurencję.",
+      "content_html": "",
+      "date_published": "2026-04-28T12:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bunkrowanie-gazu-LNG-w-Swinoujsciu-i-Zatoce-Gdanskiej-niewkluczone-po-2029-r-Orlen-9124125.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bunkrowanie-gazu-LNG-w-Swinoujsciu-i-Zatoce-Gdanskiej-niewkluczone-po-2029-r-Orlen-9124125.html",
+      "title": "Orlen inwestuje w „morskie stacje gazowe”. Świnoujście i Zatoka Gdańska z nową infrastrukturą do 2030 r. Projekt udostępnienia w gazoporcie LNG w Świnoujściu tzw. bunkierki, zaopatrującej statki w gaz LNG, może ruszyć ok. 2029 r. - poinformował przedstawiciel Orlenu na podkomisji sejmowej dot. rynku Small-Scale LNG w Polsce. Dodał, że możliwość taka w Zatoce Gdańskiej to ewentualnie perspektywa lat 2029-2030.",
+      "content_html": "",
+      "date_published": "2026-04-28T12:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Marvipol-rozpoczal-przedsprzedaz-w-warszawskim-projekcie-apartamentowym-Aleje-138-9124115.html",
+      "url": "https://www.bankier.pl/wiadomosc/Marvipol-rozpoczal-przedsprzedaz-w-warszawskim-projekcie-apartamentowym-Aleje-138-9124115.html",
+      "title": "Marvipol rozpoczął przedsprzedaż w warszawskim projekcie apartamentowym Aleje 138 Marvipol Development rozpoczął przedsprzedaż w warszawskim projekcie apartamentowym Aleje 138 - podał deweloper w komunikacie prasowym. W projekcie powstanie łącznie 399 apartamentów oraz lokali o funkcji hotelowej na wynajem.",
+      "content_html": "",
+      "date_published": "2026-04-28T11:58:00+02:00"
+    }
+  ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
 }
