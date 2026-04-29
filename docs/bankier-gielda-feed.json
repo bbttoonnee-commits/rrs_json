@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-OZE-9125472.html",
+      "url": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-prace-budowlane-za-110-mln-zl-z-inwestorem-z-branzy-OZE-9125472.html",
+      "title": "Onde ma umowę na prace budowlane za 110 mln zł z inwestorem z branży OZE Onde zawarł z polską spółką celową należącą do grupy kapitałowej inwestora z branży OZE umowę na wykonanie prac budowlanych o wartości 110 mln zł - poinformowała giełdowa spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-29T23:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-CoolCryo-9125426.html",
       "url": "https://www.bankier.pl/wiadomosc/Medinice-zakonczylo-badanie-kliniczne-wyrobu-medycznego-CoolCryo-9125426.html",
       "title": "Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo Medinice zakończyło badanie kliniczne wyrobu medycznego CoolCryo, co oznacza potwierdzenie kompletności danych oraz pozwala na formalne przejście do etapu analizy wyników i dalszych prac regulacyjnych - podało Medinice w komunikacie.",
@@ -660,13 +667,6 @@
       "title": "Stalprofil szacuje, że miał w I kw. 4,14 mln zł zysku netto, 6,9 mln zł EBITDA Stalprofil szacuje, że w pierwszym kwartale 2026 roku jednostkowy zysk netto wyniósł 4,14 mln zł wobec 0,74 mln zł straty rok wcześniej - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-28T14:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JSW-szacuje-ze-mialo-6-25-mld-zl-straty-netto-i-4-99-mld-zl-straty-EBITDA-w-2025-r-9124191.html",
-      "url": "https://www.bankier.pl/wiadomosc/JSW-szacuje-ze-mialo-6-25-mld-zl-straty-netto-i-4-99-mld-zl-straty-EBITDA-w-2025-r-9124191.html",
-      "title": "JSW liczy straty za 2025 rok. Ponad 6 miliardów złotych na minusie Grupa JSW szacuje, że w 2025 roku miała 6.254,9 mln zł skonsolidowanej straty netto i 4.988,7 mln zł straty EBITDA - podała spółka w komunikacie. Szacunki wskazują, ze spółka w 2025 roku miała 9.408,1 mln zł przychodów oraz 2.212,9 mln zł starty brutto ze sprzedaży.",
-      "content_html": "",
-      "date_published": "2026-04-28T13:40:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
