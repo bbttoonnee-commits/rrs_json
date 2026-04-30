@@ -277,6 +277,13 @@
       "date_published": "2026-04-30T17:10:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurocash-nie-przewiduje-dodatkowych-kosztow-transformacji-zaklada-stopniowa-poprawe-wynikow-wywiad-9126121.html",
+      "title": "Eurocash nie przewiduje dodatkowych kosztów transformacji. Zakłada stopniową poprawę wyników",
+      "content_html": "Grupa Eurocash, która w wynikach za 2025 rok ujęła blisko 300 mln zł rezerw restrukturyzacyjnych, nie przewiduje dodatkowych kosztów transformacji – poinformowali PAP Biznes przedstawiciele grupy. Program optymalizacji kosztowej przebiega zgodnie...",
+      "date_published": "2026-04-30T17:02:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rysuje-sie-restrukturyzacja-JSW-Spolka-rozwaza-m-in-zbycie-kolejnych-aktywow-9126109.html",
       "url": "https://www.bankier.pl/wiadomosc/Rysuje-sie-restrukturyzacja-JSW-Spolka-rozwaza-m-in-zbycie-kolejnych-aktywow-9126109.html",
       "title": "Rysuje się restrukturyzacja JSW. Spółka rozważa m.in. zbycie kolejnych aktywów",
@@ -688,13 +695,6 @@
       "title": "Syrski podpisał rozkaz o obowiązkowej rotacji żołnierzy na froncie po dwóch miesiącach",
       "content_html": "Naczelny dowódca Sił Zbrojnych Ukrainy generał Ołeksandr Syrski podpisał w czwartek rozkaz dotyczący obowiązkowej rotacji, który przewiduje służbę na pierwszej linii frontu w okresie nie dłuższym niż dwa miesiące, a następnie wymianę...",
       "date_published": "2026-04-30T11:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadl-udzial-firm-planujacych-podwyzki-plac-w-horyzoncie-roku-9125777.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadl-udzial-firm-planujacych-podwyzki-plac-w-horyzoncie-roku-9125777.html",
-      "title": "Spadł udział firm planujących podwyżki płac w horyzoncie roku",
-      "content_html": "Spadł udział przedsiębiorstw przewidujących podniesienie płac w horyzoncie roku, przy nieznacznym wzroście średniej wysokości planowanej podwyżki - wynika z najnowszego raportu NBP \"Szybki Monitoring\" (SM). W horyzoncie kwartału wzrósł odsetek...",
-      "date_published": "2026-04-30T11:34:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
