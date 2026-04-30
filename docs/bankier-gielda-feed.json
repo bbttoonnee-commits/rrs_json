@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
+      "url": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
+      "title": "PTWP chce wypłacić 5,89 zł dywidendy na akcję za '25 Zarząd Polskiego Towarzystwa Wspierania Przedsiębiorczości chce wypłacić na dywidendę łącznie 9, 46 mln zł, co daje 5,89 zł brutto na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-04-30T20:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
+      "title": "Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował ze stanowiska Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował ze stanowiska oraz z członkostwa w zarządzie spółki - poinformowała spółka w czwartkowym komunikacie giełdowym. Ptasiński zrezygnował również z członkostwa w radzie nadzorczej Grupy Azoty Zakłady Chemiczne „Police”.",
+      "content_html": "",
+      "date_published": "2026-04-30T20:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Obligacje-skarbowe-nokautuja-rynek-Korporacyjne-maja-coraz-mniej-do-zaoferowania-9126288.html",
       "url": "https://www.bankier.pl/wiadomosc/Obligacje-skarbowe-nokautuja-rynek-Korporacyjne-maja-coraz-mniej-do-zaoferowania-9126288.html",
       "title": "Obligacje skarbowe nokautują rynek. \"Korporacyjne mają coraz mniej do zaoferowania\" 3,2 proc. inflacji w kwietniu oznacza, że czerwcowe serie obligacji oszczędnościowych indeksowanych CPI wejdą w nowe okresy odsetkowe z oprocentowaniem 4,7 proc. i 5,2 proc. (odpowiednio cztero- i dziesięciolatki). Na ich tle obligacje korporacyjne mają coraz mniej do zaoferowania - pisze Emil Szweda z portalu Obligacje.pl.",
@@ -23,13 +37,6 @@
       "title": "Dalsze grillowanie polskiej giełdy. Banki raportują, LPP płaci zaliczkę, indeksy spadają Ostatnia sesja kwietnia przyniosła warszawskiej giełdzie kontynuację złej passy, która zawitała na GPW po rekordach z połowy miesiąca. Czwartkowa sesja zakończyła się spadkami głównych indeksów. Tego dnia sprawozdania finansowe składały 3 banki z WIG20, LPP wypłacił zaliczkę na poczet przyszłej dywidendy, a wśród dużych spółek najmocniej zyskiwały akcje Dino.",
       "content_html": "",
       "date_published": "2026-04-30T17:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiceprezes-Grupy-Azoty-Miroslaw-Ptasinski-zrezygnowal-ze-stanowiska-9126209.html",
-      "title": "Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował ze stanowiska Wiceprezes Grupy Azoty Mirosław Ptasiński zrezygnował z stanowiska oraz z członkostwa w zarządzie spółki - poinformowała spółka w czwartkowym komunikacie giełdowym.",
-      "content_html": "",
-      "date_published": "2026-04-30T17:22:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Cztery-oferty-Tauron-Cieplo-wygraly-aukcje-URE-na-premie-kogeneracyjna-9126176.html",
@@ -135,6 +142,13 @@
       "title": "Rainbow Tours szacuje skons. przychody za I kw. na 888,4 mln zł Skonsolidowane przychody grupy Rainbow Tours w I kw. 2026 roku wyniosły 888,4 mln zł, o 1,1 proc. więcej rdr - podała spółka w komunikacie z szacunkami.",
       "content_html": "",
       "date_published": "2026-04-30T13:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kruk-chce-w-2026-zwiekszyc-wynik-brutto-o-12-proc-wroci-do-ekspansji-w-Hiszpanii-9125923.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kruk-chce-w-2026-zwiekszyc-wynik-brutto-o-12-proc-wroci-do-ekspansji-w-Hiszpanii-9125923.html",
+      "title": "Kruk chce w 2026 zwiększyć wynik brutto o 12 proc. Wróci do ekspansji w Hiszpanii Kruk chce w 2026 roku zwiększyć wynik brutto o co najmniej 12 proc., żeby spełniony został cel zapisany w programie menedżerskim - poinformował prezes windykacyjnej spółki Piotr Krupa. Zapowiada, że w najbliższych kwartałach Kruk powróci do planów ekspansji w Hiszpanii.",
+      "content_html": "",
+      "date_published": "2026-04-30T13:06:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/XTPL-liczy-na-wzrost-sprzedazy-w-zwiazku-z-nowa-linia-biznesowa-systemow-ODRA-9125917.html",
@@ -653,13 +667,6 @@
       "title": "Cyfrowy Polsat spodziewa się w 2026 roku FCF na poziomie dużych kilkuset mln zł Cyfrowy Polsat spodziewa się, że w 2026 roku Free Cash Flow (wolne przepływy pieniężne) będą na poziomie dużych kilkuset milionów zł - poinformowała podczas konferencji wynikowej dyrektorka finansowa spółki, Katarzyna Ostap-Tomann.",
       "content_html": "",
       "date_published": "2026-04-29T14:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-Niemczech-w-kwietniu-2026-roku-Juz-prawie-3-na-liczniku-9125002.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-CPI-w-Niemczech-w-kwietniu-2026-roku-Juz-prawie-3-na-liczniku-9125002.html",
-      "title": "Niemiecka inflacja prze na północ. Już prawie 3% na liczniku Inflacja konsumencka w Niemczech zgodnie z oczekiwaniami ekonomistów w kwietniu przyspieszyła do niemal 3% i osiągnęła najwyższy poziom od stycznia 2024 roku.",
-      "content_html": "",
-      "date_published": "2026-04-29T14:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
