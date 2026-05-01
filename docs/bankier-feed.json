@@ -11,6 +11,20 @@
       "date_published": "2026-05-02T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-celna-USA-UE-powraca-Cla-na-samochody-wzrosna-do-25-proc-9126642.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-celna-USA-UE-powraca-Cla-na-samochody-wzrosna-do-25-proc-9126642.html",
+      "title": "Trump ogłasza 25 proc. cła na auta z UE. Bruksela grozi odwetem i obroną interesów",
+      "content_html": "Prezydent USA Donald Trump zapowiedział drastyczne podwyższenie ceł na samochody z Unii Europejskiej do poziomu 25 proc., oskarżając Brukselę o łamanie umów handlowych. Komisja Europejska natychmiast zapowiedziała ochronę własnych interesów...",
+      "date_published": "2026-05-01T22:29:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-o-Iranie-Moge-ich-wykonczyc-raz-na-zawsze-albo-zawrzec-pokoj-9126669.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-o-Iranie-Moge-ich-wykonczyc-raz-na-zawsze-albo-zawrzec-pokoj-9126669.html",
+      "title": "Trump o Iranie: Mogę ich wykończyć raz na zawsze albo zawrzeć pokój",
+      "content_html": "Władze Iranu chcą zawrzeć porozumienie i poczyniły wielkie kroki, ale nie jestem usatysfakcjonowany ich propozycjami - powiedział w piątek prezydent USA Donald Trump. Przyznał, że może nigdy nie zawrzeć układu z Iranem i zamiast tego może...",
+      "date_published": "2026-05-01T22:09:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gminy-w-walce-z-drapieznikami-Brak-pieniedzy-to-tylko-wymowka-9124723.html",
       "url": "https://www.bankier.pl/wiadomosc/Gminy-w-walce-z-drapieznikami-Brak-pieniedzy-to-tylko-wymowka-9124723.html",
       "title": "Gminy w walce z drapieżnikami. „Brak pieniędzy to tylko wymówka”",
@@ -37,13 +51,6 @@
       "title": "„Prezydent abdykował”. Gawkowski ostro o inicjatywie konstytucyjnej Nawrockiego",
       "content_html": "Wicepremier, minister cyfryzacji Krzysztof Gawkowski wykluczył udział Lewicy w przyszłej Radzie ds. nowej Konstytucji, która ma zostać powołana przy prezydencie. - Praca z PiS, Konfederacją czy Karolem Nawrockim nad zmianą konstytucji nie mieści...",
       "date_published": "2026-05-01T20:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-celna-USA-UE-powraca-Cla-na-samochody-wzrosna-do-25-proc-9126642.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-celna-USA-UE-powraca-Cla-na-samochody-wzrosna-do-25-proc-9126642.html",
-      "title": "Wojna celna USA - UE powraca. Cła na samochody wzrosną do 25 proc. Bruksela reaguje: Widzieliśmy już takie arbitralne posunięcia",
-      "content_html": "Prezydent USA Donald Trump zapowiedział w piątek, że w przyszłym tygodniu podwyższy cła na samochody z UE do 25 proc. Zarzucił Unii Europejskiej, że nie przestrzega umowy handlowej ze Stanami Zjednoczonymi.",
-      "date_published": "2026-05-01T20:55:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Koniec-prezentow-dla-najbogatszych-Adrian-Zandberg-uderza-w-liberalow-9126613.html",
@@ -695,13 +702,6 @@
       "title": "Merz: NATO jest bliskie naszym sercom, a zwłaszcza mojemu. Trump odpowiada",
       "content_html": "Kanclerz Friedrich Merz powiedział w czwartek, że wysiłki Niemiec koncentrują się na silnym Sojuszu Północnoatlantyckim. NATO jest bliskie naszym sercom, a zwłaszcza mojemu - zapewnił. Agencja Reutera przypomniała, że kilka godzin wcześniej...",
       "date_published": "2026-04-30T19:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sukces-polskiej-dyplomacji-Poczobut-wolny-po-latach-wiezienia-Sikorski-podziekowal-Rubio-9126251.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sukces-polskiej-dyplomacji-Poczobut-wolny-po-latach-wiezienia-Sikorski-podziekowal-Rubio-9126251.html",
-      "title": "Poczobut wolny po latach więzienia. Sikorski podziękował Rubio",
-      "content_html": "Wicepremier, szef MSZ Radosław Sikorski poinformował w czwartek, że rozmawiał z sekretarzem stanu USA Marco Rubio, któremu podziękował za skuteczną współpracę przy uwalnianiu więźniów politycznych na Białorusi, w tym Andrzeja Poczobuta...",
-      "date_published": "2026-04-30T18:59:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
