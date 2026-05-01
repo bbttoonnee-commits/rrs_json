@@ -4,13 +4,6 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Na-L4-nie-jest-wazne-czy-jedziemy-do-Egiptu-czy-do-kina-Nowe-zasady-zwolnien-lekarskich-9121413.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-L4-nie-jest-wazne-czy-jedziemy-do-Egiptu-czy-do-kina-Nowe-zasady-zwolnien-lekarskich-9121413.html",
-      "title": "Na L4 nie jest ważne czy jedziemy do Egiptu czy do kina? Nowe zasady zwolnień lekarskich",
-      "content_html": "Nowe przepisy o utracie prawa do L4 to w dużej mierze powtórzenie interpretacji przepisów wynikających z dotychczasowego orzecznictwa – ocenił dr Tomasz Lasocki. Podkreślił, że przepisy te nie są rewolucyjne, ale będą teraz po prostu bardziej...",
-      "date_published": "2026-05-01T13:00:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Najem-przez-Airbnb-i-Booking-rosnie-w-Polsce-blyskawicznie-Gonimy-Europe-9123119.html",
       "url": "https://www.bankier.pl/wiadomosc/Najem-przez-Airbnb-i-Booking-rosnie-w-Polsce-blyskawicznie-Gonimy-Europe-9123119.html",
       "title": "Najem przez Airbnb i Booking rośnie w Polsce błyskawicznie. Gonimy Europę",
@@ -281,6 +274,13 @@
       "url": "https://www.bankier.pl/wiadomosc/Pierwsza-od-czterech-lat-zmiana-stawki-na-koncie-w-tym-banku-2-50-to-nowe-oprocentowanie-9126048.html",
       "title": "Pierwsza od czterech lat zmiana stawki na koncie w tym banku. 2,50% to nowe oprocentowanie",
       "content_html": "Bank BPS wprowadza nową, obniżoną stawkę na Koncie Zasobnym. Bank uprzedził o planowanej zmianie z dużym wyprzedzeniem zatem nowe warunki rachunku obejmą zarówno nowych, jak i obecnych posiadaczy rachunku. Dla wkładu w wysokości 100 000 zł...",
+      "date_published": "2026-05-01T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojenna-inflacja-kontra-sztuczna-inteligencja-A-w-tle-narastajace-obawy-o-kryzys-kredytowy-9126236.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojenna-inflacja-kontra-sztuczna-inteligencja-A-w-tle-narastajace-obawy-o-kryzys-kredytowy-9126236.html",
+      "title": "Wojenna inflacja kontra sztuczna inteligencja. A w tle narastające obawy o kryzys kredytowy",
+      "content_html": "Wielkie nazwiska świata finansów oswajają się z myślą, że fala inflacji wywołana kryzysem w Cieśninie Ormuz przyniesie negatywne skutki – zarówno dla gospodarki, jak i rynków finansowych oraz aktywów cyfrowych. Istnieją jednak czynniki...",
       "date_published": "2026-05-01T07:00:00+02:00"
     },
     {
@@ -681,20 +681,6 @@
       "title": "PGZ kupi dawną fabrykę Rafako i zmontuje tam pierwszych kilkadziesiąt Jelczy",
       "content_html": "Polska Grupa Zbrojeniowa zamierza do końca 2026 r. kupić od syndyka Rafako w upadłości infrastrukturę tej fabryki i zmontować tam pierwszych kilkadziesiąt Jelczy - poinformował w czwartek prezes PGZ Adam Leszkiewicz. Obecnie w jednej z hal dawnego...",
       "date_published": "2026-04-30T15:17:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-ma-list-intencyjny-z-m-in-PGZ-i-ARP-w-celu-polaczenia-Jelcza-z-RFK-9125927.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-ma-list-intencyjny-z-m-in-PGZ-i-ARP-w-celu-polaczenia-Jelcza-z-RFK-9125927.html",
-      "title": "PGZ chce kupić dawną fabrykę Rafako. Wiemy, co będą tam produkować",
-      "content_html": "Polimex Mostostal zawarł list intencyjny z Polską Grupą Zbrojeniową, Hutą Stalowa Wola, Jelczem, Agencją Rozwoju Przemysłu, Towarzystwem Finansowym \"Silesia\" oraz RFK, którego celem jest przygotowanie i przeprowadzenie działań zmierzających...",
-      "date_published": "2026-04-30T15:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Arlen-ma-dwie-umowy-za-lacznie-ok-89-6-mln-zl-brutto-9125998.html",
-      "url": "https://www.bankier.pl/wiadomosc/Arlen-ma-dwie-umowy-za-lacznie-ok-89-6-mln-zl-brutto-9125998.html",
-      "title": "Arlen ma dwie umowy za łącznie ok. 89,6 mln zł brutto",
-      "content_html": "Arlen ma dwie umowy ze Skarbem Państwa - 3 Regionalną Bazę Logistyczną w Krakowie na dostarczenie kurtek zimowych za łącznie ok. 89,6 mln zł brutto w wersji podstawowej - podała spółka w komunikacie. Łączna maksymalna wartość zamówień...",
-      "date_published": "2026-04-30T15:08:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
