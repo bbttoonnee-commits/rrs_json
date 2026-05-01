@@ -18,6 +18,13 @@
       "date_published": "2026-05-01T18:30:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-S-P-500-Apple-napedza-Wall-Street-podczas-gdy-Europa-swietuje-9126643.html",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-S-P-500-Apple-napedza-Wall-Street-podczas-gdy-Europa-swietuje-9126643.html",
+      "title": "Historyczny szczyt S&P 500. Apple napędza Wall Street, podczas gdy Europa świętuje Pierwsze godziny piątkowej sesji na Wall Street przebiegają pod znakiem niewielkich wzrostów. Giełdy europejskie są w większości nieczynne z powodu Święta Pracy. S&P 500 osiągnął nowy, dzienny szczyt wszech czasów, wspierany przez akcje Apple, podczas gdy ceny ropy naftowej spadły.",
+      "content_html": "",
+      "date_published": "2026-05-01T18:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Brytyjski-przemysl-rosnie-w-sile-Indeks-PMI-mocno-powyzej-bariery-50-punktow-9126561.html",
       "url": "https://www.bankier.pl/wiadomosc/Brytyjski-przemysl-rosnie-w-sile-Indeks-PMI-mocno-powyzej-bariery-50-punktow-9126561.html",
       "title": "Brytyjski przemysł rośnie w siłę. Indeks PMI mocno powyżej bariery 50 punktów Indeks PMI, określający koniunkturę w sektorze przemysłowym Wielkiej Brytanii, przygotowywany przez S&P Global, wyniósł w kwietniu 53,7 pkt. wobec 51,0 pkt. miesiąc wcześniej - podano w komunikacie w II wyliczeniu. Wstępnie szacowano 53,6 pkt.",
@@ -548,20 +555,6 @@
       "title": "Selena FM chce wypłacić 2,5 zł dywidendy na akcję za '25 Zarząd Selena FM rekomenduje walnemu zgromadzeniu przeznaczenie 54,1 mln zł z zysku za 2025 r. na dywidendę, co daje 2,5 zł na akcję - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-29T19:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-pod-presja-podatkow-Miliardowe-zyski-mimo-lekkiego-spadku-rok-do-roku-9125377.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-pod-presja-podatkow-Miliardowe-zyski-mimo-lekkiego-spadku-rok-do-roku-9125377.html",
-      "title": "Orlen pod presją podatków. Miliardowe zyski mimo lekkiego spadku rok do roku Zysk netto Grupy Orlen za 2025 r. wyniósł 2 mld 648 mln zł i był niższy o 99 mln zł liczony rok do roku - poinformował koncern w opublikowanym w środę skonsolidowanym raporcie rocznym. Wynika z niego, że w 2025 r. nakłady inwestycyjne w Grupie Orlen wyniosły ponad 33 mld zł.",
-      "content_html": "",
-      "date_published": "2026-04-29T19:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pekao-z-nowym-starym-prezesem-Cezary-Stypulkowski-zostaje-na-stanowisku-9125361.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pekao-z-nowym-starym-prezesem-Cezary-Stypulkowski-zostaje-na-stanowisku-9125361.html",
-      "title": "Pekao z nowym-starym prezesem. Cezary Stypułkowski zostaje na stanowisku Rada nadzorcza Banku Pekao powołała ponownie Cezarego Stypułkowskiego na prezesa zarządu banku - poinformowało w środę Pekao. Stypułkowski jest prezesem banku od października 2024 roku.",
-      "content_html": "",
-      "date_published": "2026-04-29T19:07:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
