@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Apple-powyzej-oczekiwan-analitykow-Zyski-w-gore-mimo-nieco-slabszej-sprzedazy-iPhone-ow-9126418.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Apple-powyzej-oczekiwan-analitykow-Zyski-w-gore-mimo-nieco-slabszej-sprzedazy-iPhone-ow-9126418.html",
+      "title": "Wyniki Apple powyżej oczekiwań analityków. Zyski w górę mimo nieco słabszej sprzedaży iPhone'ów Apple ogłosił zyski i przychody za drugi kwartał roku obrotowego, które przewyższyły szacunki analityków, dzięki wzrostom w sektorze usług. Sprzedaż iPhone’ów po raz drugi w ciągu trzech kwartałów okazała się niższa od szacunków, ale to jedyna znacząca liczba niższa od oczekiwań w czwartkowym raporcie.",
+      "content_html": "",
+      "date_published": "2026-05-01T08:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojenna-inflacja-kontra-sztuczna-inteligencja-A-w-tle-narastajace-obawy-o-kryzys-kredytowy-9126236.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojenna-inflacja-kontra-sztuczna-inteligencja-A-w-tle-narastajace-obawy-o-kryzys-kredytowy-9126236.html",
+      "title": "O TYM MÓWI WALL STREET Wojenna inflacja kontra sztuczna inteligencja. A w tle narastające obawy o kryzys kredytowy Wielkie nazwiska świata finansów oswajają się z myślą, że fala inflacji wywołana kryzysem w Cieśninie Ormuz przyniesie negatywne skutki – zarówno dla gospodarki, jak i rynków finansowych oraz aktywów cyfrowych. Istnieją jednak czynniki łagodzące ten cios, które pozwalają rynkom odważnie stawić czoła geopolitycznym wstrząsom.",
+      "content_html": "",
+      "date_published": "2026-05-01T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
       "url": "https://www.bankier.pl/wiadomosc/PTWP-chce-wyplacic-5-89-zl-dywidendy-na-akcje-za-25-9126349.html",
       "title": "PTWP chce wypłacić 5,89 zł dywidendy na akcję za '25 Zarząd Polskiego Towarzystwa Wspierania Przedsiębiorczości chce wypłacić na dywidendę łącznie 9, 46 mln zł, co daje 5,89 zł brutto na akcję - podała spółka w komunikacie.",
@@ -653,20 +667,6 @@
       "title": "Spółka zależna Mirbudu ma umowę o wartości 327,98 mln zł brutto Spółka zależna Mirbudu, MRB2, podpisała umowę z Gminą Miasto Marki na wykonanie zamówienia publicznego w formule partnerstwa publiczno-prywatnego pn. \"Budowa i utrzymanie dróg gminnych na terenie Gminy Miasto Marki\" - podał Mirbud w komunikacie. Wartość umowy to 327,98 mln zł brutto.",
       "content_html": "",
       "date_published": "2026-04-29T14:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sonel-liczy-na-poprawe-wynikow-w-26-zwieksza-zatrudnienie-i-produkcje-9125077.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sonel-liczy-na-poprawe-wynikow-w-26-zwieksza-zatrudnienie-i-produkcje-9125077.html",
-      "title": "Sonel liczy na poprawę wyników w '26; zwiększa zatrudnienie i produkcję Sonel obserwuje wzrost zainteresowania klientów i liczy na poprawę wyników w 2026 r. Planuje zwiększyć zatrudnienie, by realizować wyższą produkcję, ale na razie odkłada inwestycję w nowy zakład - poinformowali przedstawiciele spółki podczas wideokonferencji.",
-      "content_html": "",
-      "date_published": "2026-04-29T14:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-spodziewa-sie-w-2026-roku-FCF-na-poziomie-duzych-kilkuset-mln-zl-9125069.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyfrowy-Polsat-spodziewa-sie-w-2026-roku-FCF-na-poziomie-duzych-kilkuset-mln-zl-9125069.html",
-      "title": "Cyfrowy Polsat spodziewa się w 2026 roku FCF na poziomie dużych kilkuset mln zł Cyfrowy Polsat spodziewa się, że w 2026 roku Free Cash Flow (wolne przepływy pieniężne) będą na poziomie dużych kilkuset milionów zł - poinformowała podczas konferencji wynikowej dyrektorka finansowa spółki, Katarzyna Ostap-Tomann.",
-      "content_html": "",
-      "date_published": "2026-04-29T14:08:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
