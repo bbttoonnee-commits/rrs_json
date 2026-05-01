@@ -4,11 +4,102 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-Fundacji-Batorego-Ukraina-przestaje-byc-pacjentem-ktoremu-trzeba-pomoc-9123814.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-Fundacji-Batorego-Ukraina-przestaje-byc-pacjentem-ktoremu-trzeba-pomoc-9123814.html",
+      "title": "Prezes Fundacji Batorego: Ukraina przestaje być pacjentem, któremu trzeba pomóc",
+      "content_html": "Ukraina przestaje być pacjentem, któremu trzeba pomóc - mówił podczas konferencji „Road to URC – Security and Defence Dimension” prezes Fundacji im. Stefana Batorego Edwin Bendyk. W jego ocenie wspieranie Ukrainy to budowanie relacji partnerskiej...",
+      "date_published": "2026-05-02T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gminy-w-walce-z-drapieznikami-Brak-pieniedzy-to-tylko-wymowka-9124723.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gminy-w-walce-z-drapieznikami-Brak-pieniedzy-to-tylko-wymowka-9124723.html",
+      "title": "Gminy w walce z drapieżnikami. „Brak pieniędzy to tylko wymówka”",
+      "content_html": "Gminy mają kluczową rolę w zapobieganiu konfliktom ludzi z niedźwiedziami – podkreślił Robert Gatzka w rozmowie z PAP. Jego zdaniem brak dopasowania systemowej gospodarki odpadami i edukacji sprawia, że zwierzęta są przyciągane do ludzkich...",
+      "date_published": "2026-05-01T21:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/7-tys-zl-i-waloryzacja-Rzad-zapowiada-wielkie-zmiany-dla-rodzin-zastepczych-9124904.html",
       "url": "https://www.bankier.pl/wiadomosc/7-tys-zl-i-waloryzacja-Rzad-zapowiada-wielkie-zmiany-dla-rodzin-zastepczych-9124904.html",
       "title": "7 tys. zł i waloryzacja. Rząd zapowiada wielkie zmiany dla rodzin zastępczych",
       "content_html": "W pieczy zastępczej przebywa około 80 tys. dzieci, co oznacza, że co setne dziecko w Polsce trafia do rodziny zastępczej lub placówki opiekuńczo-wychowawczej – powiedziała wiceministra rodziny Aleksandra Gajewska. Przypomniała, że trwają prace...",
       "date_published": "2026-05-01T21:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szach-mat-Mercosurze-Polska-uderza-w-import-z-umowe-rozporzadzeniem-9126615.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szach-mat-Mercosurze-Polska-uderza-w-import-z-umowe-rozporzadzeniem-9126615.html",
+      "title": "Szach mat Mercosurze? Polska uderza w umowę rozporządzeniem o pestycydach",
+      "content_html": "Podpisane zostało rozporządzenie wprowadzające zakaz sprowadzania do Polski, m.in. z państw Mercosur, produktów, które mogą zawierać ślady pestycydów niedozwolonych w Unii Europejskiej - poinformował w piątek minister rolnictwa Stefan Krajewski...",
+      "date_published": "2026-05-01T21:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-abdykowal-Gawkowski-ostro-o-inicjatywie-konstytucyjnej-Nawrockiego-9126627.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-abdykowal-Gawkowski-ostro-o-inicjatywie-konstytucyjnej-Nawrockiego-9126627.html",
+      "title": "„Prezydent abdykował”. Gawkowski ostro o inicjatywie konstytucyjnej Nawrockiego",
+      "content_html": "Wicepremier, minister cyfryzacji Krzysztof Gawkowski wykluczył udział Lewicy w przyszłej Radzie ds. nowej Konstytucji, która ma zostać powołana przy prezydencie. - Praca z PiS, Konfederacją czy Karolem Nawrockim nad zmianą konstytucji nie mieści...",
+      "date_published": "2026-05-01T20:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-celna-USA-UE-powraca-Cla-na-samochody-wzrosna-do-25-proc-9126642.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-celna-USA-UE-powraca-Cla-na-samochody-wzrosna-do-25-proc-9126642.html",
+      "title": "Wojna celna USA - UE powraca. Cła na samochody wzrosną do 25 proc. Bruksela reaguje: Widzieliśmy już takie arbitralne posunięcia",
+      "content_html": "Prezydent USA Donald Trump zapowiedział w piątek, że w przyszłym tygodniu podwyższy cła na samochody z UE do 25 proc. Zarzucił Unii Europejskiej, że nie przestrzega umowy handlowej ze Stanami Zjednoczonymi.",
+      "date_published": "2026-05-01T20:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-prezentow-dla-najbogatszych-Adrian-Zandberg-uderza-w-liberalow-9126613.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-prezentow-dla-najbogatszych-Adrian-Zandberg-uderza-w-liberalow-9126613.html",
+      "title": "Koniec „prezentów dla najbogatszych”. Adrian Zandberg uderza w liberałów",
+      "content_html": "Na gruzach robotniczej Solidarności zbudowano system skrajnie nieprzyjazny dla pracowników – powiedział w piątek w Gdańsku lider partii Razem Adrian Zandberg, wskazując na rosnące nierówności i problemy rynku pracy. Polityk apelował też o...",
+      "date_published": "2026-05-01T20:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Norwegia-Rekrutacja-na-najbardziej-odizolowana-wyspe-Europy-pracy-nie-mozna-przerwac-nawet-1-maja-9126611.html",
+      "url": "https://www.bankier.pl/wiadomosc/Norwegia-Rekrutacja-na-najbardziej-odizolowana-wyspe-Europy-pracy-nie-mozna-przerwac-nawet-1-maja-9126611.html",
+      "title": "Baza na środku oceanu szuka załogi. Praca na najbardziej odludnej wyspie Europy",
+      "content_html": "Na kawałek wulkanicznego lądu między Norwegią a Grenlandią można trafić nie tylko w mundurze. Norweskie siły zbrojne szukają cywilów do pracy na Jan Mayen – miejscu, z którego przez miesiące nie da się wyjechać, a codzienność zależy...",
+      "date_published": "2026-05-01T20:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-zapowiada-reforme-armii-33-tysiace-zl-dla-piechoty-i-powroty-do-domow-9126616.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-zapowiada-reforme-armii-33-tysiace-zl-dla-piechoty-i-powroty-do-domow-9126616.html",
+      "title": "Zełenski zapowiada reformę armii. 33 tysiące zł dla piechoty i powroty do domów",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski zapowiedział w piątek reformę w siłach zbrojnych, a najważniejszymi zmianami mają być wyższe zarobki żołnierzy, głównie na pierwszej linii frontu oraz jasne kryteria odchodzenia ze służby wojskowej...",
+      "date_published": "2026-05-01T20:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prog-3410-zl-i-pomoc-w-codziennych-potrzebach-Bon-senioralny-2026-2028-9126620.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prog-3410-zl-i-pomoc-w-codziennych-potrzebach-Bon-senioralny-2026-2028-9126620.html",
+      "title": "Próg 3410 zł i pomoc w codziennych potrzebach. Bon senioralny 2026-2028",
+      "content_html": "Bon senioralny jest tak zaprojektowany, żeby przede wszystkim trafiać najpierw tam, gdzie w ogóle nie ma usług - powiedziała minister ds. polityki senioralnej Marzena Okła-Drewnowicz w rozmowie opublikowanej w piątek w portalu Wyborcza.biz. Jak...",
+      "date_published": "2026-05-01T20:21:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ML-System-zamknal-2025-rok-strata-netto-ma-rekordowy-portfel-zamowien-270-mln-zl-9126647.html",
+      "url": "https://www.bankier.pl/wiadomosc/ML-System-zamknal-2025-rok-strata-netto-ma-rekordowy-portfel-zamowien-270-mln-zl-9126647.html",
+      "title": "ML System zamknął 2025 rok stratą netto, ma rekordowy portfel zamówień 270 mln zł",
+      "content_html": "Grupa ML System zamknęła 2025 rok przychodami na poziomie 122,8 mln zł, o 24,3 proc. mniej w porównaniu z 2024 rokiem, przy stracie netto 42,4 mln zł (wobec 40,8 mln zł straty w roku 2024) - poinformowała spółka w komunikacie. Spółka weszła...",
+      "date_published": "2026-05-01T19:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Flotylla-Sumud-zatrzymana-sila-Dziesiatki-rannych-aktywistow-w-tym-Polka-9126631.html",
+      "url": "https://www.bankier.pl/wiadomosc/Flotylla-Sumud-zatrzymana-sila-Dziesiatki-rannych-aktywistow-w-tym-Polka-9126631.html",
+      "title": "Flotylla Sumud zatrzymana siłą. Dziesiątki rannych aktywistów, w tym Polka",
+      "content_html": "34 aktywistów z Globalnej Flotylli Sumud transportującej pomoc humanitarną dla Strefy Gazy, zatrzymanych w czwartek przez siły izraelskie u wybrzeży Krety, znalazło się w szpitalu. Wśród nich jest jedna osoba narodowości polskiej - poinformowali...",
+      "date_published": "2026-05-01T19:45:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-Pekabeksu-ma-rekordowa-wartosc-2-3-mld-zl-spolka-wdraza-plan-naprawczy-9126645.html",
+      "url": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-Pekabeksu-ma-rekordowa-wartosc-2-3-mld-zl-spolka-wdraza-plan-naprawczy-9126645.html",
+      "title": "Portfel zamówień Pekabeksu ma rekordową wartość 2,3 mld zł, spółka wdraża plan naprawczy",
+      "content_html": "Portfel zamówień Pekabeksu ma rekordową wartość 2,3 mld zł - poinformowała spółka z branży budowlanej w komunikacie prasowym. Spółka wdraża plan naprawczy, którego celem jest odzyskanie rentowności w bieżącym roku, a następnie jej stopniowa...",
+      "date_published": "2026-05-01T19:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-S-P-500-Apple-napedza-Wall-Street-podczas-gdy-Europa-swietuje-9126643.html",
+      "url": "https://www.bankier.pl/wiadomosc/Historyczny-szczyt-S-P-500-Apple-napedza-Wall-Street-podczas-gdy-Europa-swietuje-9126643.html",
+      "title": "Historyczny szczyt S&P 500. Apple napędza Wall Street, podczas gdy Europa świętuje",
+      "content_html": "Pierwsze godziny piątkowej sesji na Wall Street przebiegają pod znakiem niewielkich wzrostów. Giełdy europejskie są w większości nieczynne z powodu Święta Pracy. S&P 500 osiągnął nowy, dzienny szczyt wszech czasów, wspierany przez akcje...",
+      "date_published": "2026-05-01T19:12:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Spoofing-drogie-auta-i-falszywe-czeki-Lupy-wywozili-do-Polski-9122424.html",
@@ -23,6 +114,13 @@
       "title": "Loty tańsze o 18 proc., ale wyjazdy krótsze. Raport z majówkowych rezerwacji",
       "content_html": "Włochy i Hiszpania są najpopularniejszymi kierunkami zagranicznych wyjazdów na majówkę - wynika z informacji przekazanych PAP przez przedstawicieli branży turystycznej. W kraju największą popularnością cieszy się Bałtyk.",
       "date_published": "2026-05-01T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/AI-na-sluzbie-Pentagonu-Siedmiu-gigantow-otwiera-swoje-systemy-dla-wojska-9126628.html",
+      "url": "https://www.bankier.pl/wiadomosc/AI-na-sluzbie-Pentagonu-Siedmiu-gigantow-otwiera-swoje-systemy-dla-wojska-9126628.html",
+      "title": "AI na służbie Pentagonu. Siedmiu gigantów otwiera swoje systemy dla wojska",
+      "content_html": "Pentagon poinformował w piątek o zawarciu umów z siedmioma firmami z sektora sztucznej inteligencji (AI) w sprawie wykorzystania ich narzędzi w tajnych pracach ministerstwa obrony USA.",
+      "date_published": "2026-05-01T17:47:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pan-Nikt-stracil-Oscara-Statuetka-za-film-o-Putinie-przepadla-bez-wiesci-9126581.html",
@@ -604,83 +702,6 @@
       "title": "Poczobut wolny po latach więzienia. Sikorski podziękował Rubio",
       "content_html": "Wicepremier, szef MSZ Radosław Sikorski poinformował w czwartek, że rozmawiał z sekretarzem stanu USA Marco Rubio, któremu podziękował za skuteczną współpracę przy uwalnianiu więźniów politycznych na Białorusi, w tym Andrzeja Poczobuta...",
       "date_published": "2026-04-30T18:59:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dwa-weta-prezydenta-przed-majowka-Rozwody-i-Kodeks-wyborczy-bez-podpisu-9125906.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dwa-weta-prezydenta-przed-majowka-Rozwody-i-Kodeks-wyborczy-bez-podpisu-9125906.html",
-      "title": "Dwa weta prezydenta przed majówką. Rozwody i Kodeks wyborczy bez podpisu",
-      "content_html": "Prezydent Karol Nawrocki zawetował dwie ustawy. Pierwsza to nowelizacja Kodeksu wyborczego wprowadzającą m.in. instytucję sekretarzy obwodowych komisji wyborczych. Druga to nowelizacja Kodeksu rodzinnego i opiekuńczego, której celem było wprowadzenie...",
-      "date_published": "2026-04-30T18:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Medalisci-olimpijscy-bez-kasy-od-Zondacrypto-PKOl-dzis-nie-stac-nas-na-wyplate-9126238.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medalisci-olimpijscy-bez-kasy-od-Zondacrypto-PKOl-dzis-nie-stac-nas-na-wyplate-9126238.html",
-      "title": "Medaliści olimpijscy bez kasy od Zondacrypto. PKOl: dziś nie stać nas na wypłatę",
-      "content_html": "Według informacji PAP wciąż nierozliczone zostały nagrody PKOl w tokenach w wysokości 950 tys. zł dla trójki medalistów zimowych igrzysk w Mediolanie. Dotyczy to skoczków narciarskich Kacpra Tomasiaka i Pawła Wąska oraz panczenisty Władimira...",
-      "date_published": "2026-04-30T18:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-iranskiego-parlamentu-kontrolowanie-ciesniny-Ormuz-zapewni-wolnosc-od-USA-9126233.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-iranskiego-parlamentu-kontrolowanie-ciesniny-Ormuz-zapewni-wolnosc-od-USA-9126233.html",
-      "title": "Szef irańskiego parlamentu: kontrolowanie cieśniny Ormuz zapewni wolność od USA",
-      "content_html": "Przewodniczący parlamentu Iranu Mohammad Bagher Ghalibaf oświadczył w czwartek, że kontrola sprawowana przez jego kraj nad cieśniną Ormuz gwarantuje również innym państwom regionu przyszłość wolną od ingerencji Stanów Zjednoczonych.",
-      "date_published": "2026-04-30T18:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dalsze-grillowanie-polskiej-gieldy-Banki-raportuja-LPP-placi-zaliczke-indeksy-spadaja-9126100.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dalsze-grillowanie-polskiej-gieldy-Banki-raportuja-LPP-placi-zaliczke-indeksy-spadaja-9126100.html",
-      "title": "Dalsze grillowanie polskiej giełdy. Banki raportują, LPP płaci zaliczkę, indeksy spadają",
-      "content_html": "Ostatnia sesja kwietnia przyniosła warszawskiej giełdzie kontynuację złej passy, która zawitała na GPW po rekordach z połowy miesiąca. Czwartkowa sesja zakończyła się spadkami głównych indeksów. Tego dnia sprawozdania finansowe składały...",
-      "date_published": "2026-04-30T18:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Klub-parlamentarny-PiS-sie-sypie-Janusz-Kowalski-zlozyl-rezygnacje-9126205.html",
-      "url": "https://www.bankier.pl/wiadomosc/Klub-parlamentarny-PiS-sie-sypie-Janusz-Kowalski-zlozyl-rezygnacje-9126205.html",
-      "title": "Klub parlamentarny PiS się sypie. Janusz Kowalski złożył rezygnację",
-      "content_html": "Poseł Janusz Kowalski poinformował w czwartek, że zrezygnował z członkostwa w klubie parlamentarnym Prawa i Sprawiedliwości. Zapowiedział, że pozostanie posłem niezrzeszonym.",
-      "date_published": "2026-04-30T18:19:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pokojowa-Nagroda-Nobla-2026-Donald-Trump-znow-na-liscie-kandydatow-9126206.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pokojowa-Nagroda-Nobla-2026-Donald-Trump-znow-na-liscie-kandydatow-9126206.html",
-      "title": "Pokojowa Nagroda Nobla 2026. Donald Trump znów na liście kandydatów",
-      "content_html": "Do tegorocznej nagrody zgłoszono 287 kandydatów, w tym 208 osób i 79 organizacji - poinformował w czwartek Norweski Komitet Noblowski, który ocenił, że w „w świecie coraz bardziej naznaczonym przez konflikty” praca oraz działalność tych...",
-      "date_published": "2026-04-30T18:19:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fenomen-zbiorki-Latwoganga-Wiemy-kto-wizerunkowo-rozbil-bank-9126172.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fenomen-zbiorki-Latwoganga-Wiemy-kto-wizerunkowo-rozbil-bank-9126172.html",
-      "title": "Fenomen zbiórki Łatwoganga. Wiemy, kto wizerunkowo rozbił bank",
-      "content_html": "Z danych Monitoringu Mediów PAP wynika, że największe darowizny firm podczas zbiórki Łatwoganga zadziałały jak natychmiastowa reklama. - Ten stream posłużył firmom do budowania wizerunku - powiedziała PAP dr Weronika Dopierała-Kalińska z...",
-      "date_published": "2026-04-30T18:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prestizowy-laur-dla-NBP-Wdrozona-przez-bank-strategia-najlepsza-na-swiecie-9126181.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prestizowy-laur-dla-NBP-Wdrozona-przez-bank-strategia-najlepsza-na-swiecie-9126181.html",
-      "title": "Prestiżowy laur dla NBP. Wdrożona przez bank strategia najlepsza na świecie",
-      "content_html": "Międzynarodowe Stowarzyszenie ds. Pieniądza (IACA) wyróżniło Narodową Strategię Bezpieczeństwa Obrotu Gotówkowego jako najlepszą inicjatywę na świecie.",
-      "date_published": "2026-04-30T18:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budzet-na-dlugi-weekend-Co-piaty-Polak-ma-tylko-300-zl-9122908.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budzet-na-dlugi-weekend-Co-piaty-Polak-ma-tylko-300-zl-9122908.html",
-      "title": "Budżet na długi weekend. Co piąty Polak ma tylko 300 zł",
-      "content_html": "Żadnych wydatków na tegoroczną majówkę nie planuje 24 proc. ankietowanych; co piąty chce zmieścić się w budżecie nieprzekraczającym 300 zł - wynika z przekazanego PAP badania. Jednocześnie 5,1 proc. osób zakłada, że wyda w długi weekend...",
-      "date_published": "2026-04-30T18:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydentura-YOLO-Trump-porownuje-sie-do-wielkich-wodzow-9125518.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydentura-YOLO-Trump-porownuje-sie-do-wielkich-wodzow-9125518.html",
-      "title": "Prezydentura YOLO. Trump porównuje się do wielkich wodzów",
-      "content_html": "Prezydent USA Donald Trump zaczął w prywatnych rozmowach porównywać się do Aleksandra Wielkiego, Juliusza Cezara i Napoleona Bonaparte – powiedzieli pismu „The Atlantic\" doradcy prezydenta. Według pisma, chęć zapisania się w historii stanowi...",
-      "date_published": "2026-04-30T18:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cztery-oferty-Tauron-Cieplo-wygraly-aukcje-URE-na-premie-kogeneracyjna-9126176.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cztery-oferty-Tauron-Cieplo-wygraly-aukcje-URE-na-premie-kogeneracyjna-9126176.html",
-      "title": "Cztery oferty Tauron Ciepło wygrały aukcję URE na premię kogeneracyjną",
-      "content_html": "Cztery oferty złożone przez Tauron Ciepło w odniesieniu do czterech jednostek wytwórczych o łącznej zainstalowanej elektrycznej mocy przekraczającej 100 MW wygrały aukcję na premię kogeneracyjną przeprowadzoną przez Prezesa Urzędu Regulacji...",
-      "date_published": "2026-04-30T18:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
