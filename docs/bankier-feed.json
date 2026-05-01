@@ -11,6 +11,13 @@
       "date_published": "2026-05-01T21:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spoofing-drogie-auta-i-falszywe-czeki-Lupy-wywozili-do-Polski-9122424.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spoofing-drogie-auta-i-falszywe-czeki-Lupy-wywozili-do-Polski-9122424.html",
+      "title": "Spoofing, drogie auta i fałszywe czeki. Łupy wywozili do Polski",
+      "content_html": "Włoska Gwardia Finansowa przy wsparciu polskich służb rozbiła grupę przestępczą wyspecjalizowaną w oszustwach przy handlu luksusowymi autami - podała w piątek agencja ANSA. Samochody wywożono do Polski. Zarzuty postawiono dziewięciu osobom...",
+      "date_published": "2026-05-01T19:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Loty-tansze-o-18-proc-ale-wyjazdy-krotsze-Raport-z-majowkowych-rezerwacji-9123914.html",
       "url": "https://www.bankier.pl/wiadomosc/Loty-tansze-o-18-proc-ale-wyjazdy-krotsze-Raport-z-majowkowych-rezerwacji-9123914.html",
       "title": "Loty tańsze o 18 proc., ale wyjazdy krótsze. Raport z majówkowych rezerwacji",
@@ -674,34 +681,6 @@
       "title": "Cztery oferty Tauron Ciepło wygrały aukcję URE na premię kogeneracyjną",
       "content_html": "Cztery oferty złożone przez Tauron Ciepło w odniesieniu do czterech jednostek wytwórczych o łącznej zainstalowanej elektrycznej mocy przekraczającej 100 MW wygrały aukcję na premię kogeneracyjną przeprowadzoną przez Prezesa Urzędu Regulacji...",
       "date_published": "2026-04-30T18:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oplata-reprograficzna-podpisana-Koniec-ery-faksow-i-kaset-VHS-9126171.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oplata-reprograficzna-podpisana-Koniec-ery-faksow-i-kaset-VHS-9126171.html",
-      "title": "Nowe opłaty za smartfony i laptopy? Resort kultury zmienia prawo",
-      "content_html": "Podpisałam nowelizację rozporządzenia o opłatach reprograficznych - ogłosiła w czwartek szefowa MKiDN Marta Cienkowska. Nowelizacja m.in. aktualizuje katalog urządzeń objętych systemem opłat tak, aby pozostawał adekwatny do rzeczywistych sposobów...",
-      "date_published": "2026-04-30T17:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarzad-Polskiej-Agencji-Inwestycji-i-Handlu-zostal-odwolany-9126169.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarzad-Polskiej-Agencji-Inwestycji-i-Handlu-zostal-odwolany-9126169.html",
-      "title": "Zarząd Polskiej Agencji Inwestycji i Handlu został odwołany",
-      "content_html": "W czwartek rada nadzorcza odwołała zarząd Polskiej Agencji Inwestycji i Handlu – podała PAIH w komunikacie. Do wykonywania funkcji członka zarządu agencji rada delegowała Artura Osuchowskiego.",
-      "date_published": "2026-04-30T17:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-zdecydowal-o-rozpoczeciu-realizacji-budowy-kogeneracyjnego-zrodla-ciepla-w-Lagiszy-9126168.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-zdecydowal-o-rozpoczeciu-realizacji-budowy-kogeneracyjnego-zrodla-ciepla-w-Lagiszy-9126168.html",
-      "title": "Tauron zdecydował o rozpoczęciu realizacji budowy kogeneracyjnego źródła ciepła w Łagiszy",
-      "content_html": "Zarząd Tauronu zatwierdził decyzję Komitetu Inwestycyjnego o rozpoczęciu realizacji projektu budowy kogeneracyjnego źródła ciepła w lokalizacji Łagisza w Będzinie - poinformował Tauron w komunikacie. Koszt inwestycji może sięgnąć 1,1-1...",
-      "date_published": "2026-04-30T17:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliony-butelek-i-puszek-w-systemie-Resort-ujawnia-dane-o-kaucjach-9126166.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliony-butelek-i-puszek-w-systemie-Resort-ujawnia-dane-o-kaucjach-9126166.html",
-      "title": "Miliony butelek i puszek w systemie. Resort ujawnia dane o kaucjach",
-      "content_html": "Od początku działania systemu kaucyjnego, czyli od 1 X 2025 r., wprowadzono do obrotu ok. 2,8 mld sztuk opakowań, natomiast zebrano łącznie ok. 800 mln sztuk odpadów opakowaniowych - napisał MKiŚ w odpowiedzi na interpelację poselską.",
-      "date_published": "2026-04-30T17:48:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
