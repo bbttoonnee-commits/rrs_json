@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Odsetek-bykow-na-GPW-spadl-do-48-4-proc-spadkow-oczekuje-25-0-proc-9126823.html",
+      "url": "https://www.bankier.pl/wiadomosc/Odsetek-bykow-na-GPW-spadl-do-48-4-proc-spadkow-oczekuje-25-0-proc-9126823.html",
+      "title": "Odsetek \"byków\" na GPW spadł do 48,4 proc., spadków oczekuje 25,0 proc. Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 4,7 pkt. proc. i wyniósł 48,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 1,6 pkt. proc. do 25,0 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.",
+      "content_html": "",
+      "date_published": "2026-05-02T17:36:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Historyczny-rozlam-w-Fed-inflacyjne-zaskoczenie-w-Polsce-i-tapniecie-wydobycia-ropy-9125783.html",
       "url": "https://www.bankier.pl/wiadomosc/Historyczny-rozlam-w-Fed-inflacyjne-zaskoczenie-w-Polsce-i-tapniecie-wydobycia-ropy-9125783.html",
       "title": "WYKRESY TYGODNIA Historyczny rozłam w Fed, inflacyjne zaskoczenie w Polsce i tąpnięcie wydobycia ropy Mijający tydzień zdominowały fatalne doniesienia z Bliskiego Wschodu oraz zaskakujące odczyty z polskiej i niemieckiej gospodarki. Nadzieje na szybki spadek dynamiki cen prysły, a na globalnych rynkach surowcowych trwa potężny kryzys podażowy. Uwagę inwestorów przykuło również ostatnie posiedzenie Fed pod wodzą Powella, które obnażyło wyraźne podziały w amerykańskim banku centralnym.",
@@ -86,13 +93,6 @@
       "title": "WP Holding chce wypłacić 1,3 zł dywidendy na akcję i zwiększyć kwotę na skup akcji własnych Zarząd WP Holding rekomenduje, by wypłacić akcjonariuszom 1,30 zł dywidendy na akcję, czyli łącznie 38,7 mln zł - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-04-30T18:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dalsze-grillowanie-polskiej-gieldy-Banki-raportuja-LPP-placi-zaliczke-indeksy-spadaja-9126100.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dalsze-grillowanie-polskiej-gieldy-Banki-raportuja-LPP-placi-zaliczke-indeksy-spadaja-9126100.html",
-      "title": "Dalsze grillowanie polskiej giełdy. Banki raportują, LPP płaci zaliczkę, indeksy spadają Ostatnia sesja kwietnia przyniosła warszawskiej giełdzie kontynuację złej passy, która zawitała na GPW po rekordach z połowy miesiąca. Czwartkowa sesja zakończyła się spadkami głównych indeksów. Tego dnia sprawozdania finansowe składały 3 banki z WIG20, LPP wypłacił zaliczkę na poczet przyszłej dywidendy, a wśród dużych spółek najmocniej zyskiwały akcje Dino.",
-      "content_html": "",
-      "date_published": "2026-04-30T17:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
