@@ -144,6 +144,20 @@
       "date_published": "2026-05-05T18:14:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Milion-zlotych-kary-za-nielegalny-pomost-Wody-Polskie-walcza-z-samowola-na-jeziorach-9127942.html",
+      "url": "https://www.bankier.pl/wiadomosc/Milion-zlotych-kary-za-nielegalny-pomost-Wody-Polskie-walcza-z-samowola-na-jeziorach-9127942.html",
+      "title": "Milion złotych kary za nielegalny pomost. Wody Polskie walczą z samowolą na jeziorach",
+      "content_html": "Pracownicy Wód Polskich w Białymstoku prowadzili w ub. roku 551 spraw dot. nielegalnych pomostów, w wyniku których m.in. 70 inwestycji zlikwidowano. Naliczono kary administracyjne na kwotę blisko 128 tys. zł - poinformowała PAP rzeczniczka Wód...",
+      "date_published": "2026-05-05T18:09:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Baron-medialny-Orbana-oddaje-swoje-firmy-panstwu-Pierwsze-efekty-zmiany-wladzy-na-Wegrzech-9127934.html",
+      "url": "https://www.bankier.pl/wiadomosc/Baron-medialny-Orbana-oddaje-swoje-firmy-panstwu-Pierwsze-efekty-zmiany-wladzy-na-Wegrzech-9127934.html",
+      "title": "Baron medialny Orbana oddaje swoje firmy państwu. Pierwsze efekty zmiany władzy na Węgrzech",
+      "content_html": "Powiązany z ustępującym premierem Węgier Viktorem Orbanem baron medialny Gyula Balasy zaoferował państwu przekazanie swoich firm po objęciu władzy przez nowy rząd Petera Magyara - przekazał we wtorek portal Daily News Hungary.",
+      "date_published": "2026-05-05T18:07:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/System-EES-uszczelnia-polskie-granice-MSWiA-podsumowuje-miesiac-dzialania-9127902.html",
       "url": "https://www.bankier.pl/wiadomosc/System-EES-uszczelnia-polskie-granice-MSWiA-podsumowuje-miesiac-dzialania-9127902.html",
       "title": "System EES uszczelnia polskie granice. MSWiA podsumowuje miesiąc działania",
@@ -674,20 +688,6 @@
       "title": "Powrót Mavi Marmara? Tureccy aktywiści chcą przełamać blokadę Strefy Gazy",
       "content_html": "Turcja przygotowuje się do zwodowania nowej flotylli, mającej podjąć próbę przełamania izraelskiej blokady Strefy Gazy. Do wypłynięcia z Turcji przygotowuje się 20 łodzi - poinformował w poniedziałek portal Jerusalem Post.",
       "date_published": "2026-05-05T08:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Putin-oglasza-rozejm-na-8-i-9-maja-Pulapka-czy-gest-pod-presja-Trumpa-9127560.html",
-      "url": "https://www.bankier.pl/wiadomosc/Putin-oglasza-rozejm-na-8-i-9-maja-Pulapka-czy-gest-pod-presja-Trumpa-9127560.html",
-      "title": "Putin ogłasza rozejm na 8 i 9 maja. Pułapka czy gest pod presją Trumpa?",
-      "content_html": "Rosyjski przywódca Władimir Putin zdecydował o wprowadzeniu dwudniowego zawieszenia broni w wojnie z Ukrainą, obowiązującego 8 i 9 maja – poinformowała w poniedziałek agencja Reutera, powołując się na rosyjską państwową agencję RIA Nowosti...",
-      "date_published": "2026-05-05T08:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/J-D-Vance-o-krok-od-strzelaniny-Kolumna-wiceprezydenta-mijala-miejsce-ataku-9127615.html",
-      "url": "https://www.bankier.pl/wiadomosc/J-D-Vance-o-krok-od-strzelaniny-Kolumna-wiceprezydenta-mijala-miejsce-ataku-9127615.html",
-      "title": "J.D. Vance o krok od strzelaniny? Kolumna wiceprezydenta mijała miejsce ataku",
-      "content_html": "Mężczyzna oraz nastolatek zostali ranni w wyniku strzelaniny z udziałem funkcjonariuszy Secret Service nieopodal Białego Domu - poinformowała waszyngtońska policja. Nie jest jasne jakie zamiary miał postrzelony.",
-      "date_published": "2026-05-05T08:22:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
