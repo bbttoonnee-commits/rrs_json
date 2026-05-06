@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-bija-historyczne-rekordy-Kurs-AMD-odlecial-po-wynikach-9128894.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-bija-historyczne-rekordy-Kurs-AMD-odlecial-po-wynikach-9128894.html",
+      "title": "S&P500 i Nasdaq biją historyczne rekordy. Kurs AMD odleciał po wynikach",
+      "content_html": "Boom w branży półprzewodników wyniósł nowojorskie giełdy na nowe rekordy wszech czasów. Gwiazdą dnia były akcje AMD, które zdrożały o prawie 20%.",
+      "date_published": "2026-05-06T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Znow-goraco-w-ciesninie-Ormuz-USA-ostrzelaly-iranski-tankowiec-9128869.html",
       "url": "https://www.bankier.pl/wiadomosc/Znow-goraco-w-ciesninie-Ormuz-USA-ostrzelaly-iranski-tankowiec-9128869.html",
       "title": "Znów gorąco w cieśninie Ormuz. USA ostrzelały irański tankowiec",
@@ -557,6 +564,13 @@
       "date_published": "2026-05-06T11:15:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-oddzielnym-kontem-i-ksiegowoscia-inFakt-z-UniCredit-uruchamiaja-nowa-usluge-dla-JDG-9128315.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-oddzielnym-kontem-i-ksiegowoscia-inFakt-z-UniCredit-uruchamiaja-nowa-usluge-dla-JDG-9128315.html",
+      "title": "Konto firmowe i księgowość w jednej aplikacji. inFakt z UniCredit uruchamiają nową usługę dla JDG",
+      "content_html": "inFakt rozszerzył ofertę dla jednoosobowych działalności gospodarczych o usługi bankowe świadczone we współpracy z UniCredit. Nowe rozwiązanie pozwala połączyć w jednej aplikacji założenie firmy, prowadzenie księgowości oraz obsługę...",
+      "date_published": "2026-05-06T11:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Hossa-stulecia-w-Seulu-Samsung-rosnie-o-100-a-KOSPI-nie-patrzy-na-ceny-ropy-9128304.html",
       "url": "https://www.bankier.pl/wiadomosc/Hossa-stulecia-w-Seulu-Samsung-rosnie-o-100-a-KOSPI-nie-patrzy-na-ceny-ropy-9128304.html",
       "title": "Hossa stulecia w Seulu. Samsung rośnie o 100%, a KOSPI przymyka oko na ceny ropy",
@@ -688,13 +702,6 @@
       "title": "Wielki pożar na Lubelszczyźnie. Zginął pilot samolotu gaśniczego",
       "content_html": "We wtorek po godz. 15 strażacy otrzymali zgłoszenie o rozległym pożarze lasu w miejscowości Kozaki w gminie Łukowa w powiecie biłgorajskim. Do nocy ogień opanował ok. 100 ha, a w jego gaszenie zaangażowanych zostało ponad 300 strażaków z...",
       "date_published": "2026-05-06T09:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pocisk-o-najdluzszym-zasiegu-Turcja-zaskakuje-swiat-na-targach-SAHA-9128188.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pocisk-o-najdluzszym-zasiegu-Turcja-zaskakuje-swiat-na-targach-SAHA-9128188.html",
-      "title": "Pocisk o najdłuższym zasięgu. Turcja zaskakuje świat na targach SAHA",
-      "content_html": "Turcja we wtorek podczas targów wojskowych SAHA 2026 w Stambule po raz pierwszy zaprezentowała nowy międzykontynentalny pocisk balistyczny rodzimej produkcji Yildirimhan - przekazała telewizja TRT.",
-      "date_published": "2026-05-06T09:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
