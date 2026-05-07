@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Banku-Handlowego-w-I-kw-26-wyniosl-385-6-mln-zl-powyzej-oczekiwan-9129011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Banku-Handlowego-w-I-kw-26-wyniosl-385-6-mln-zl-powyzej-oczekiwan-9129011.html",
+      "title": "Bank Handlowy bije czarne prognozy. Mimo spadku zysku, wynik zaskoczył rynek Zysk netto grupy Banku Handlowego w I kwartale 2026 r. spadł do 385,6 mln zł z 435 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 20,3 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 320,6 mln zł.",
+      "content_html": "",
+      "date_published": "2026-05-07T07:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BNP-Paribas-BP-w-I-kw-26-wyniosl-375-3-mln-zl-powyzej-oczekiwan-9129001.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BNP-Paribas-BP-w-I-kw-26-wyniosl-375-3-mln-zl-powyzej-oczekiwan-9129001.html",
+      "title": "BNP Paribas z wielkim spadkiem zysku, ale rynek odetchnął z ulgą. Wyniki lepsze od wizji Zysk netto grupy BNP Paribas BP w I kwartale 2026 r. spadł do 375,3 mln zł z 741,4 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 25,8 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 298,4 mln zł.",
+      "content_html": "",
+      "date_published": "2026-05-07T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strata-netto-j-d-Ambry-w-III-kw-2025-2026-r-wyniosla-6-mln-zl-9128983.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strata-netto-j-d-Ambry-w-III-kw-2025-2026-r-wyniosla-6-mln-zl-9128983.html",
+      "title": "Sezonowa zadyszka Ambry. Strata w III kwartale, ale inwestycje i sprzedaż idą w górę Strata netto j.d. Ambry w III kw. 2025/2026 r. wyniosła 6 mln zł w porównaniu do 5,1 mln zł straty netto j.d. rok wcześniej - poinformowała spółka w raporcie. Przychody ze sprzedaży netto wyniosły w tym okresie 157,5 mln zł wobec 150,6 mln zł przed rokiem.",
+      "content_html": "",
+      "date_published": "2026-05-07T06:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-I-kwartale-2026-roku-vs-konsensus-PAP-tabela-9128969.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asbisu-w-I-kwartale-2026-roku-vs-konsensus-PAP-tabela-9128969.html",
+      "title": "Wyniki Asbisu w I kwartale 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Asbisu w pierwszym kwartale 2026 r. i ich odniesienie do konsensusu PAP oraz do poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-05-07T06:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dokad-zmierza-WIG20-Czerwony-maj-po-spadkowej-serii-9128473.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dokad-zmierza-WIG20-Czerwony-maj-po-spadkowej-serii-9128473.html",
+      "title": "Dokąd zmierza WIG20? Czerwony maj po spadkowej serii? Po długiej spadkowej serii z końcówki kwietnia WIG20 wyraźnie zazielenił się na początku maja. Jednakże statystyka jest tu bezlitosna i zgodnie z nią wiosenna korekta na GPW byłaby równie zaskakująca jak majowe burze.",
+      "content_html": "",
+      "date_published": "2026-05-07T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-bija-historyczne-rekordy-Kurs-AMD-odlecial-po-wynikach-9128894.html",
       "url": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-bija-historyczne-rekordy-Kurs-AMD-odlecial-po-wynikach-9128894.html",
       "title": "S&P500 i Nasdaq biją historyczne rekordy. Kurs AMD odleciał po wynikach Boom w branży półprzewodników wyniósł nowojorskie giełdy na nowe rekordy wszech czasów. Gwiazdą dnia były akcje AMD, które zdrożały o prawie 20%.",
@@ -431,13 +466,6 @@
       "date_published": "2026-05-05T11:02:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Oszukiwal-bo-tak-go-szkolili-Oskarza-Deutsche-Bank-o-nauke-nielegalnych-technik-9127707.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oszukiwal-bo-tak-go-szkolili-Oskarza-Deutsche-Bank-o-nauke-nielegalnych-technik-9127707.html",
-      "title": "Oszukiwał \"bo tak go szkolili\"? Oskarża Deutsche Bank o naukę nielegalnych technik Niemiecki gigant finansowy kategorycznie odrzucił oskarżenia, jakoby uczył swoich pracowników technik manipulowania rynkiem. Sprawa nabrała rozgłosu po tym, jak były trader James Vorley, skazany wcześniej za oszustwa giełdowe, publicznie zarzucił bankowi, że nielegalne strategie handlowe były częścią oficjalnego szkolenia prowadzonego przez starszych stażem kolegów.",
-      "content_html": "",
-      "date_published": "2026-05-05T10:50:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Australia-podnosi-stopy-procentowe-w-maju-2026-Bank-centralny-ostrzega-przed-inflacja-9127758.html",
       "url": "https://www.bankier.pl/wiadomosc/Australia-podnosi-stopy-procentowe-w-maju-2026-Bank-centralny-ostrzega-przed-inflacja-9127758.html",
       "title": "Australia ponownie podnosi stopy procentowe. Bank centralny ostrzega przed inflacją Bank Rezerw Australii zdecydował się na trzecią z kolei podwyżkę stóp procentowych. Na antypodach obawiają się, że presja inflacyjna będzie dłuższa i silniejsza, niż się spodziewano jeszcze niedawno.",
@@ -448,6 +476,13 @@
       "id": "https://www.bankier.pl/wiadomosc/Rosja-blokuje-rope-z-Kazachstanu-Polska-wyciaga-pomocna-dlon-do-sasiada-9127757.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosja-blokuje-rope-z-Kazachstanu-Polska-wyciaga-pomocna-dlon-do-sasiada-9127757.html",
       "title": "Rosja blokuje ropę z Kazachstanu. Polska wyciąga pomocną dłoń do sąsiada Wstrzymanie dostaw ropy z Kazachstanu do Niemiec pośrednio dotyczy Polski, bo Polska importuje gotowe paliwa z niemieckich rafinerii tuż przy zachodniej granicy - wynika z wypowiedzi ministra energii Miłosza Motyki w TVP Info. Szef ME dodał, że Polska może weprzeć Niemcy np. udostępniając naftoport.",
+      "content_html": "",
+      "date_published": "2026-05-05T10:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oszukiwal-bo-tak-go-szkolili-Oskarza-Deutsche-Bank-o-nauke-nielegalnych-technik-9127707.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oszukiwal-bo-tak-go-szkolili-Oskarza-Deutsche-Bank-o-nauke-nielegalnych-technik-9127707.html",
+      "title": "Oszukiwał \"bo tak go szkolili\"? Oskarża Deutsche Bank o naukę nielegalnych technik Niemiecki gigant finansowy kategorycznie odrzucił oskarżenia, jakoby uczył swoich pracowników technik manipulowania rynkiem. Sprawa nabrała rozgłosu po tym, jak były trader James Vorley, skazany wcześniej za oszustwa giełdowe, publicznie zarzucił bankowi, że nielegalne strategie handlowe były częścią oficjalnego szkolenia prowadzonego przez starszych stażem kolegów.",
       "content_html": "",
       "date_published": "2026-05-05T10:50:00+02:00"
     },
@@ -513,20 +548,6 @@
       "title": "Enter Air patrzy na '26 z ostrożnym optymizmem, backlog w USD zwiększył się o 18 proc. rdr Enter Air, mimo obecnych turbulencji geopolitycznych, patrzy na 2026 rok z ostrożnym optymizmem, w ujęciu dolarowym szacunkowy backlog zwiększył się o ponad 18 proc. rdr, co zabezpiecza i wzmacnia bazę przychodową grupy na kolejne okresy - poinformowała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-05-05T08:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-stop-raczej-nie-zmieni-Ale-rynek-obstawia-ze-nadchodza-podwyzki-9127256.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-stop-raczej-nie-zmieni-Ale-rynek-obstawia-ze-nadchodza-podwyzki-9127256.html",
-      "title": "Rada stóp raczej nie zmieni. Ale rynek obstawia, że nadchodzą podwyżki Rada Polityki Pieniężnej na majowym posiedzeniu zapewne pozostanie w trybie „poczekamy, zobaczymy”. Ale rynek wie swoje i jest przekonany, że kolejna zmiana stóp procentowych w NBP będzie oznaczała ich podwyżkę.",
-      "content_html": "",
-      "date_published": "2026-05-05T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Optymizm-dominuje-choc-jest-jedno-ale-9127346.html",
-      "url": "https://www.bankier.pl/wiadomosc/Optymizm-dominuje-choc-jest-jedno-ale-9127346.html",
-      "title": "PORTFEL GWIAZD BANKIER.PL NA MAJ Optymizm dominuje, choć jest jedno \"ale\" Czy globalny rynek właśnie stoi przed kolejnym przełomem, czy raczej spokojnym „dowożeniem” dotychczasowych trendów? Oto najnowsza lista prognoz na maj Gwiazd Bankiera.",
-      "content_html": "",
-      "date_published": "2026-05-05T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
