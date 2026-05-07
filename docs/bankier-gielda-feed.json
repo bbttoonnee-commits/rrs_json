@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-I-kw-2026-roku-na-5-3-mln-zl-o-38-proc-mniej-rdr-9129667.html",
+      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-I-kw-2026-roku-na-5-3-mln-zl-o-38-proc-mniej-rdr-9129667.html",
+      "title": "Artifex Mundi szacuje zysk netto w I kw. 2026 roku na 5,3 mln zł, o 38 proc. mniej rdr Artifex Mundi szacuje, że miał w pierwszym kwartale 2026 roku 5,3 mln zł zysku netto, o 38 proc. mniej rdr - podała spółka w komunikacie. Wstępne przychody wyniosły w tym okresie 24,7 mln zł, co stanowi spadek o 7 proc. rdr. Na koniec pierwszego kwartału spółka posiadała 30 mln zł środków pieniężnych wraz z obligacjami.",
+      "content_html": "",
+      "date_published": "2026-05-07T19:38:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Enea-miala-wstepnie-1-548-mln-zl-EBITDA-oraz-929-mln-zl-zysku-netto-j-d-w-I-kw-26-9129640.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Enea-miala-wstepnie-1-548-mln-zl-EBITDA-oraz-929-mln-zl-zysku-netto-j-d-w-I-kw-26-9129640.html",
       "title": "Grupa Enea miała wstępnie 1.548 mln zł EBITDA oraz 929 mln zł zysku netto j.d. w I kw. '26 Grupa Enea szacuje, że miała w pierwszym kwartale 2026 roku 1.548 mln zł zysku EBITDA oraz 929 mln zł zysku netto j.d. - podała spółka w komunikacie.",
@@ -520,20 +527,6 @@
       "title": "Energa planuje zysk za '25 przeznaczyć na kapitał zapasowy Zarząd Energi zarekomenduje przeznaczenie zysku netto spółki za 2025 rok w wysokości 289,3 mln zł na podwyższenie kapitału zapasowego, co będzie wiązało się z brakiem wypłaty dywidendy - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-05T21:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/4-projekty-Celon-Pharmy-zostaly-zarekomendowane-do-dofinansowania-od-ABM-9128112.html",
-      "url": "https://www.bankier.pl/wiadomosc/4-projekty-Celon-Pharmy-zostaly-zarekomendowane-do-dofinansowania-od-ABM-9128112.html",
-      "title": "4 projekty Celon Pharmy zostały zarekomendowane do dofinansowania od ABM Cztery wnioski Celon Pharmy o dofinansowanie projektów, przedstawione do ogłoszonego przez Agencję Badań Medycznych konkursu na rozwój projektów badawczo-rozwojowych z obszaru medycyny translacyjnej - TRANSMED I, zostały zarekomendowane do dofinansowania - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-05T19:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Votum-do-58-1-zl-a-rekomendacje-do-kupuj-9128108.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Votum-do-58-1-zl-a-rekomendacje-do-kupuj-9128108.html",
-      "title": "DM BOŚ podwyższył wycenę akcji Votum do 58,1 zł, a rekomendację do \"kupuj\" Analitycy DM BOŚ, w raporcie z 5 maja, podwyższyli 12-miesięczną wycenę akcji grupy Votum do 58,1 zł z 50,2 zł wcześniej, a rekomendację do \"kupuj\" z \"trzymaj\".",
-      "content_html": "",
-      "date_published": "2026-05-05T19:20:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
