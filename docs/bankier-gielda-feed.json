@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/S-P500-zszedl-ze-szczytu-Tym-razem-polprzewodniki-zawiodly-9129709.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-zszedl-ze-szczytu-Tym-razem-polprzewodniki-zawiodly-9129709.html",
+      "title": "S&P500 zszedł ze szczytu. Tym razem półprzewodniki zawiodły Po jednoznacznym wybiciu historycznych szczytów nowojorskie giełdy straciły nico pary i wycofały się z rekordowo wysokich poziomów.",
+      "content_html": "",
+      "date_published": "2026-05-07T22:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-I-kw-2026-roku-na-5-3-mln-zl-o-38-proc-mniej-rdr-9129667.html",
       "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-I-kw-2026-roku-na-5-3-mln-zl-o-38-proc-mniej-rdr-9129667.html",
       "title": "Artifex Mundi szacuje zysk netto w I kw. 2026 roku na 5,3 mln zł, o 38 proc. mniej rdr Artifex Mundi szacuje, że miał w pierwszym kwartale 2026 roku 5,3 mln zł zysku netto, o 38 proc. mniej rdr - podała spółka w komunikacie. Wstępne przychody wyniosły w tym okresie 24,7 mln zł, co stanowi spadek o 7 proc. rdr. Na koniec pierwszego kwartału spółka posiadała 30 mln zł środków pieniężnych wraz z obligacjami.",
@@ -520,13 +527,6 @@
       "title": "Na Wall Street wzrosty. S&P 500 i Nasdaq z nowymi rekordami Wtorkowa sesja na amerykańskiej giełdzie zakończyła się wzrostami indeksów, a S&P 500 i Nasdaq zanotowały nowe rekordy intraday. Inwestorzy pozytywnie przyjęli serię lepszych od oczekiwań wyników spółek. Po zapewnieniach USA, że zawieszenie broni w wojnie z Iranem jest w mocy, osłabły obawy o ponowną eskalację konfliktu na Bliskim Wschodzie.",
       "content_html": "",
       "date_published": "2026-05-05T23:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Energa-planuje-zysk-za-25-przeznaczyc-na-kapital-zapasowy-9128155.html",
-      "url": "https://www.bankier.pl/wiadomosc/Energa-planuje-zysk-za-25-przeznaczyc-na-kapital-zapasowy-9128155.html",
-      "title": "Energa planuje zysk za '25 przeznaczyć na kapitał zapasowy Zarząd Energi zarekomenduje przeznaczenie zysku netto spółki za 2025 rok w wysokości 289,3 mln zł na podwyższenie kapitału zapasowego, co będzie wiązało się z brakiem wypłaty dywidendy - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-05T21:38:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
