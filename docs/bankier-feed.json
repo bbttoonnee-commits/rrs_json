@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/S-P500-zszedl-ze-szczytu-Tym-razem-polprzewodniki-zawiodly-9129709.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-zszedl-ze-szczytu-Tym-razem-polprzewodniki-zawiodly-9129709.html",
+      "title": "S&P500 zszedł ze szczytu. Tym razem półprzewodniki zawiodły",
+      "content_html": "Po jednoznacznym wybiciu historycznych szczytów nowojorskie giełdy straciły nico pary i wycofały się z rekordowo wysokich poziomów.",
+      "date_published": "2026-05-07T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Projekt-Wolnosc-wraca-na-kluczowy-szlak-Trump-dogadal-sie-z-szejkami-9129676.html",
       "url": "https://www.bankier.pl/wiadomosc/Projekt-Wolnosc-wraca-na-kluczowy-szlak-Trump-dogadal-sie-z-szejkami-9129676.html",
       "title": "\"Projekt Wolność\" wraca na kluczowy szlak. Trump dogadał się z szejkami",
@@ -557,6 +564,13 @@
       "date_published": "2026-05-07T12:59:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Seco-Warwick-chce-zgody-akcjonariuszy-na-skup-do-500-tys-akcji-wlasnych-9129203.html",
+      "url": "https://www.bankier.pl/wiadomosc/Seco-Warwick-chce-zgody-akcjonariuszy-na-skup-do-500-tys-akcji-wlasnych-9129203.html",
+      "title": "Seco/Warwick chce zgody akcjonariuszy na skup do 500 tys. akcji własnych",
+      "content_html": "Akcjonariusze Seco/Warwick mają zdecydować o upoważnieniu zarządu do przeprowadzenia skupu łącznie do 500.000 akcji własnych - podano w projektach uchwał na zwyczajne walne zgromadzenie zwołane na 2 czerwca. Wysokość zapłaty za nabywane akcje...",
+      "date_published": "2026-05-07T12:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gorsza-oferta-wygrywa-Kulisy-zmowy-przetargowej-w-szpitalu-wojskowym-9129118.html",
       "url": "https://www.bankier.pl/wiadomosc/Gorsza-oferta-wygrywa-Kulisy-zmowy-przetargowej-w-szpitalu-wojskowym-9129118.html",
       "title": "Gorsza oferta wygrywa. Kulisy zmowy przetargowej w szpitalu wojskowym",
@@ -688,13 +702,6 @@
       "title": "Burgery nie skusiły kupujących. Debiut Rex Concepts na GPW lekko pod kreską",
       "content_html": "Kurs praw do akcji (PDA) Rex Concepts, operatora restauracji szybkiej obsługi, spadł na otwarciu w pierwszym dniu notowań na warszawskiej Giełdzie Papierów Wartościowych o 2,86 proc. do 13,6 zł.",
       "date_published": "2026-05-07T10:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Elektrocieplowni-Radlin-JSW-Koks-oglasza-wielki-sukces-testow-9129109.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Elektrocieplowni-Radlin-JSW-Koks-oglasza-wielki-sukces-testow-9129109.html",
-      "title": "Przełom w Elektrociepłowni Radlin. JSW Koks ogłasza wielki sukces testów",
-      "content_html": "Próba układu ciepłowniczego Elektrociepłowni Radlin zakończyła się sukcesem – poinformowała JSW Koks w czwartek. Spółka wskazała, że oznacza to gotowość do jego stabilnej i bezpiecznej eksploatacji.",
-      "date_published": "2026-05-07T10:36:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
