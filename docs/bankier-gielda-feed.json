@@ -4,16 +4,23 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Inter-Cars-miala-w-kwietniu-1-943-2-mln-zl-przychodow-wzrost-rdr-o-8-9-proc-9130162.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Inter-Cars-miala-w-kwietniu-1-943-2-mln-zl-przychodow-wzrost-rdr-o-8-9-proc-9130162.html",
+      "title": "Inter Cars na pełnym gazie. Zagraniczna sprzedaż pcha przychody pod 2 miliardy złotych Grupa Inter Cars miała w kwietniu 2026 roku 1.943,2 mln zł przychodów, co oznacza wzrost rdr o 8,9 proc. - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-08T15:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Noctiluca-ma-umowe-MTA-z-chinskim-partnerem-9130117.html",
       "url": "https://www.bankier.pl/wiadomosc/Noctiluca-ma-umowe-MTA-z-chinskim-partnerem-9130117.html",
-      "title": "Noctiluca ma umowę MTA z chińskim partnerem Noctiluca zawarła z chińskim producentem zaawansowanych wyświetlaczy półprzewodnikowych umowę typu MTA (Material Transfer Agreement) - podała spółka w komunikacie.",
+      "title": "Polska \"warstwa\" w chińskich ekranach. Gigant sprawdzi technologię Noctiluki Noctiluca zawarła z chińskim producentem zaawansowanych wyświetlaczy półprzewodnikowych umowę typu MTA (Material Transfer Agreement) - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-08T14:58:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/XTB-wyplaci-4-07-zl-dywidendy-na-akcje-z-zysku-za-25-9130104.html",
       "url": "https://www.bankier.pl/wiadomosc/XTB-wyplaci-4-07-zl-dywidendy-na-akcje-z-zysku-za-25-9130104.html",
-      "title": "XTB wypłaci 4,07 zł dywidendy na akcję z zysku za '25 Walne zgromadzenie XTB zdecydowało o wypłacie 478,5 mln zł dywidendy z zysku netto za 2025 rok, co daje 4,07 zł na akcję - podała spółka w komunikacie.",
+      "title": "Czerwiec pod znakiem zysków w XTB. Akcjonariusze dostaną 4,07 zł na akcję Walne zgromadzenie XTB zdecydowało o wypłacie 478,5 mln zł dywidendy z zysku netto za 2025 rok, co daje 4,07 zł na akcję - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-08T14:46:00+02:00"
     },
@@ -513,13 +520,6 @@
       "title": "Fitch podtrzymał rating IDR Banku Handlowego na poziomie „A-” Agencja Fitch zrewidowała perspektywę ratingu Banku Handlowego ze stabilnej na pozytywną oraz podtrzymała długoterminowy rating IDR na poziomie „A-” - poinformował Fitch w komunikacie. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-05-06T17:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Emisje-listow-zastawnych-PKO-BH-przyciagnely-na-rynek-kapitalowy-ponad-6-tys-nowych-inwestorow-detal-Papierak-9128696.html",
-      "url": "https://www.bankier.pl/wiadomosc/Emisje-listow-zastawnych-PKO-BH-przyciagnely-na-rynek-kapitalowy-ponad-6-tys-nowych-inwestorow-detal-Papierak-9128696.html",
-      "title": "Papierak: Emisje listów zastawnych PKO BH przyciągnęły na rynek kapitałowy ponad 6 tys. nowych inwestorów W dwóch emisjach detalicznych listów zastawnych PKO Banku Hipotecznego papiery te objęło łącznie ponad 10,5 tys. inwestorów, z czego ponad 6,1 tys. założyło nowe rachunki maklerskie lub rejestrowe w BM PKO BP - poinformował PAP Biznes prezes banku Wojciech Papierak.",
-      "content_html": "",
-      "date_published": "2026-05-06T16:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
