@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-I-kw-wzrost-przychodow-o-10-proc-sprzedaz-LFL-spadla-o-2-8-proc-9129840.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-I-kw-wzrost-przychodow-o-10-proc-sprzedaz-LFL-spadla-o-2-8-proc-9129840.html",
+      "title": "LPP zanotowało w I kw. wzrost przychodów o 10 proc.; sprzedaż LFL spadła o 2,8 proc. Grupa LPP zanotowała w I kwartale, czyli w okresie luty-kwiecień 2026 r., 10 proc. wzrost dynamiki przychodów w walutach stałych. Sprzedaż LFL spadła o 2,8 proc. - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-08T09:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Allegro-w-IV-mialo-22-635-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-22-35-mln-w-III-Mediapanel-9129806.html",
+      "url": "https://www.bankier.pl/wiadomosc/Allegro-w-IV-mialo-22-635-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-22-35-mln-w-III-Mediapanel-9129806.html",
+      "title": "Rośnie popularność aplikacji Allegro. Zasięgi w górę, czas sesji w dół Allegro miało w kwietniu 22,635 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 22,35 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.",
+      "content_html": "",
+      "date_published": "2026-05-08T07:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
+      "title": "Słabszy Downstream ciąży na bilansie. Węgierski gigant paliwowy z 626 mln USD oczyszczonej EBITDA Oczyszczony wynik EBITDA grupy MOL w I kw. 2026 r. wyniósł 626 mln USD, w porównaniu do 833 mln USD rok wcześniej - podał MOL w prezentacji. Prognoza na 2026 r. nadal zakłada ok. 3 mld USD oczyszczonej EBITDA.",
+      "content_html": "",
+      "date_published": "2026-05-08T07:38:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
       "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
       "title": "East Value Research obniżył cenę docelową akcji Warimpex do 0,93 euro Analitycy East Value Research, w raporcie z 8 maja, obniżyli cenę docelową akcji austriackiej spółki Warimpex, notowanej m.in. na warszawskiej giełdzie, do 0,93 euro (3,92 zł) z 1 euro wcześniej.",
@@ -16,13 +37,6 @@
       "title": "Od „potwora z Tarnowa” po Borsuki. PGZ liczy na 100 miliardów złotych z SAFE Program SAFE może uruchomić największy od lat strumień finansowania dla polskiego przemysłu zbrojeniowego. Polska Grupa Zbrojeniowa szacuje, że do spółek grupy może trafić nawet ok. 100 mld zł z projektów...",
       "content_html": "",
       "date_published": "2026-05-08T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
-      "url": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
-      "title": "Słabszy Downstream ciąży na bilansie. Węgierski gigant paliwowy z 626 mln USD oczyszczonej EBITDA Oczyszczony wynik EBITDA grupy MOL w I kw. 2026 r. wyniósł 626 mln USD, w porównaniu do 833 mln USD rok wcześniej - podał MOL w prezentacji. Prognoza na 2026 r. nadal zakłada ok. 3 mld USD oczyszczonej EBITDA.",
-      "content_html": "",
-      "date_published": "2026-05-08T06:54:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mabion-ma-list-intencyjny-dot-wspolpracy-w-zakresie-zastosowania-MabionCD20-w-obszarze-chorob-sierocych-9129775.html",
@@ -520,27 +534,6 @@
       "title": "BM Pekao podniósł cenę docelową akcji Unimotu do 194,5 zł; podtrzymał rekomendację \"kupuj\" Analitycy Biura Maklerskiego Pekao w raporcie z 6 maja podwyższyli 12-miesięczną cenę docelową akcji Unimotu do 194,5 zł z 158,14 zł wcześniej, podtrzymując rekomendację \"kupuj\".",
       "content_html": "",
       "date_published": "2026-05-06T09:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-IV-dodatnia-stope-zwrotu-wypracowalo-ponad-90-proc-funduszy-inwestycyjnych-9128271.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-IV-dodatnia-stope-zwrotu-wypracowalo-ponad-90-proc-funduszy-inwestycyjnych-9128271.html",
-      "title": "ANALIZY.PL W IV dodatnią stopę zwrotu wypracowało ponad 90 proc. funduszy inwestycyjnych W kwietniu 2026 roku dodatnią stopę zwrotu wypracowało ponad 90 proc. analizowanych funduszy inwestycyjnych - podał w raporcie portal Analizy.pl. Wskazano, że po marcowej korekcie poprawa była szeroka, choć najmocniej skorzystały strategie akcyjne, zwłaszcza z segmentów, które są powiązane z technologią, AI i półprzewodnikami.",
-      "content_html": "",
-      "date_published": "2026-05-06T08:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-Orlen-na-GPW-Czas-pokonac-rosyjskich-gigantow-9127762.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-Orlen-na-GPW-Czas-pokonac-rosyjskich-gigantow-9127762.html",
-      "title": "Rekordowy Orlen na GPW. Czas pokonać rosyjskich gigantów Orlen nie zwalnia tempa na warszawskim parkiecie. Kurs zanotował waśnie nowy, historyczny rekord i spółka - globalny awans, jeśli chodzi o wartość rynkową. Teraz na horyzoncie kolejni rywale, rosyjski Novatek czy Łukoil.",
-      "content_html": "",
-      "date_published": "2026-05-06T07:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Warszawa-odmowila-Dekpolowi-wydania-zaswiadczen-o-samodzielnosci-lokali-uzytkowych-z-inwestycji-OVAL-SKY-9128251.html",
-      "url": "https://www.bankier.pl/wiadomosc/Warszawa-odmowila-Dekpolowi-wydania-zaswiadczen-o-samodzielnosci-lokali-uzytkowych-z-inwestycji-OVAL-SKY-9128251.html",
-      "title": "Warszawa odmówiła Dekpolowi wydania zaświadczeń o samodzielności lokali użytkowych z inwestycji OVAL SKY Prezydenta m.st. Warszawy wydał postanowienie o odmowie wydania zaświadczeń o samodzielności lokali użytkowych w ramach inwestycji OVAL SKY - podała spółka w komunikacie. Dekpol Spółka celowa - Dekpol Deweloper sp. z o.o. - jest zobowiązana wydać to zaświadczenie klientom do 15 października 2026 roku.",
-      "content_html": "",
-      "date_published": "2026-05-06T07:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
