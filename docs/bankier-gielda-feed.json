@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
+      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
+      "title": "East Value Research obniżył cenę docelową akcji Warimpex do 0,93 euro Analitycy East Value Research, w raporcie z 8 maja, obniżyli cenę docelową akcji austriackiej spółki Warimpex, notowanej m.in. na warszawskiej giełdzie, do 0,93 euro (3,92 zł) z 1 euro wcześniej.",
+      "content_html": "",
+      "date_published": "2026-05-08T07:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Od-potwora-z-Tarnowa-po-Borsuki-PGZ-liczy-na-100-miliardow-zlotych-z-SAFE-9129779.html",
+      "url": "https://www.bankier.pl/wiadomosc/Od-potwora-z-Tarnowa-po-Borsuki-PGZ-liczy-na-100-miliardow-zlotych-z-SAFE-9129779.html",
+      "title": "Od „potwora z Tarnowa” po Borsuki. PGZ liczy na 100 miliardów złotych z SAFE Program SAFE może uruchomić największy od lat strumień finansowania dla polskiego przemysłu zbrojeniowego. Polska Grupa Zbrojeniowa szacuje, że do spółek grupy może trafić nawet ok. 100 mld zł z projektów...",
+      "content_html": "",
+      "date_published": "2026-05-08T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
+      "title": "Słabszy Downstream ciąży na bilansie. Węgierski gigant paliwowy z 626 mln USD oczyszczonej EBITDA Oczyszczony wynik EBITDA grupy MOL w I kw. 2026 r. wyniósł 626 mln USD, w porównaniu do 833 mln USD rok wcześniej - podał MOL w prezentacji. Prognoza na 2026 r. nadal zakłada ok. 3 mld USD oczyszczonej EBITDA.",
+      "content_html": "",
+      "date_published": "2026-05-08T06:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mabion-ma-list-intencyjny-dot-wspolpracy-w-zakresie-zastosowania-MabionCD20-w-obszarze-chorob-sierocych-9129775.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mabion-ma-list-intencyjny-dot-wspolpracy-w-zakresie-zastosowania-MabionCD20-w-obszarze-chorob-sierocych-9129775.html",
+      "title": "Mabion ma list intencyjny dot. współpracy w zakresie zastosowania MabionCD20 w obszarze chorób sierocych Mabion z francuską spółką Oddifact list intencyjny dotyczący nawiązania współpracy w zakresie zbadania i oceny możliwości zastosowania leku MabionCD20 w nowych wskazaniach klinicznych w obszarze chorób sierocych - podał Mabion w komunikacie. Zawarcie umowy planowane jest do końca 2026 r.",
+      "content_html": "",
+      "date_published": "2026-05-08T06:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-Torpolu-w-pierwszym-kwartale-2026-vs-konsensus-PAP-tabela-9129773.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-Torpolu-w-pierwszym-kwartale-2026-vs-konsensus-PAP-tabela-9129773.html",
+      "title": "Wstępne wyniki Torpolu w pierwszym kwartale 2026 vs. konsensus PAP Poniżej przedstawiamy wstępne wyniki Torpolu w pierwszym kwartale 2026 roku, ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-05-08T06:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/S-P500-zszedl-ze-szczytu-Tym-razem-polprzewodniki-zawiodly-9129709.html",
       "url": "https://www.bankier.pl/wiadomosc/S-P500-zszedl-ze-szczytu-Tym-razem-polprzewodniki-zawiodly-9129709.html",
       "title": "S&P500 zszedł ze szczytu. Tym razem półprzewodniki zawiodły Po jednoznacznym wybiciu historycznych szczytów nowojorskie giełdy straciły nico pary i wycofały się z rekordowo wysokich poziomów.",
@@ -214,16 +249,16 @@
       "date_published": "2026-05-07T09:36:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/KGHM-i-Grupa-Freeport-rozpoczynaja-wspolprace-przy-projekcie-poszukiwawczym-miedzi-w-Chile-9129106.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGHM-i-Grupa-Freeport-rozpoczynaja-wspolprace-przy-projekcie-poszukiwawczym-miedzi-w-Chile-9129106.html",
-      "title": "KGHM rusza na łowy w Chile. Miedziowy gigant łączy siły z Amerykanami KGHM Chile SpA, spółka zależna KGHM Polska Miedź, zawarła umowę typu Farm-Out z Minera Freeport-McMoRan South America Limitada, należącą do Freeport-McMoRan Inc. - podał KGHM w komunikacie prasowym. Porozumienie otwiera nowy etap współpracy, ukierunkowanej na rozwój projektu poszukiwawczego miedzi w północnym Chile, dodano.",
+      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-znow-drozeje-Rynki-czekaja-na-atomowy-deal-Trumpa-9129107.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-znow-drozeje-Rynki-czekaja-na-atomowy-deal-Trumpa-9129107.html",
+      "title": "Gaz w Europie znów drożeje. Rynki czekają na \"atomowy deal\" Trumpa Ceny gazu w Europie rosną w czwartek po spadku w czasie dwóch poprzednich sesji o niemal 9 proc. - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-05-07T09:32:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-znow-drozeje-Rynki-czekaja-na-atomowy-deal-Trumpa-9129107.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-znow-drozeje-Rynki-czekaja-na-atomowy-deal-Trumpa-9129107.html",
-      "title": "Gaz w Europie znów drożeje. Rynki czekają na \"atomowy deal\" Trumpa Ceny gazu w Europie rosną w czwartek po spadku w czasie dwóch poprzednich sesji o niemal 9 proc. - informują maklerzy.",
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-i-Grupa-Freeport-rozpoczynaja-wspolprace-przy-projekcie-poszukiwawczym-miedzi-w-Chile-9129106.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-i-Grupa-Freeport-rozpoczynaja-wspolprace-przy-projekcie-poszukiwawczym-miedzi-w-Chile-9129106.html",
+      "title": "KGHM rusza na łowy w Chile. Miedziowy gigant łączy siły z Amerykanami KGHM Chile SpA, spółka zależna KGHM Polska Miedź, zawarła umowę typu Farm-Out z Minera Freeport-McMoRan South America Limitada, należącą do Freeport-McMoRan Inc. - podał KGHM w komunikacie prasowym. Porozumienie otwiera nowy etap współpracy, ukierunkowanej na rozwój projektu poszukiwawczego miedzi w północnym Chile, dodano.",
       "content_html": "",
       "date_published": "2026-05-07T09:32:00+02:00"
     },
@@ -506,20 +541,6 @@
       "title": "Warszawa odmówiła Dekpolowi wydania zaświadczeń o samodzielności lokali użytkowych z inwestycji OVAL SKY Prezydenta m.st. Warszawy wydał postanowienie o odmowie wydania zaświadczeń o samodzielności lokali użytkowych w ramach inwestycji OVAL SKY - podała spółka w komunikacie. Dekpol Spółka celowa - Dekpol Deweloper sp. z o.o. - jest zobowiązana wydać to zaświadczenie klientom do 15 października 2026 roku.",
       "content_html": "",
       "date_published": "2026-05-06T07:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kogeneracja-szacuje-skonsolidowany-zysk-EBITDA-w-I-kw-ok-na-323-mln-zl-9128245.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kogeneracja-szacuje-skonsolidowany-zysk-EBITDA-w-I-kw-ok-na-323-mln-zl-9128245.html",
-      "title": "Kogeneracja szacuje skonsolidowany zysk EBITDA w I kw. ok. na 323 mln zł Kogeneracja szacuje skonsolidowany zysk EBITDA w I kw. 2026 roku na ok. 323 mln zł, a zysk netto na ok. 213 mln zł - podała spółka w komunikacie. Skonsolidowane przychody ze sprzedaży są szacowane na ok. 1,07 mld zł, a nakłady inwestycyjne na 33 mln zł.",
-      "content_html": "",
-      "date_published": "2026-05-06T07:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pensje-w-spolkach-Skarbu-Panstwa-pod-lupa-Oto-najlepiej-oplacany-prezes-panstwowego-giganta-9127978.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pensje-w-spolkach-Skarbu-Panstwa-pod-lupa-Oto-najlepiej-oplacany-prezes-panstwowego-giganta-9127978.html",
-      "title": "Jeden fotel, trzy pensje. Milionowe zarobki prezesów państwowych spółek Publikacja raportów rocznych spółek Skarbu Państwa notowanych na GPW pokazała, jak kształtowały się zarobki prezesów narodowych czempionów. Rok 2025 w wielu z nich upłynął pod znakiem bezprecedensowej rotacji na najwyższych szczeblach, czego świetnym przykładem jest sytuacja w PZU, gdzie na koszt utrzymania prezesa złożyły się wypłaty dla trzech różnych menedżerów.",
-      "content_html": "",
-      "date_published": "2026-05-06T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
