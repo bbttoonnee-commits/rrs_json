@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nasdaq-wspial-sie-na-nowy-szczyt-Polprzewodnikowa-hossa-trwa-w-najlepsze-9130357.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nasdaq-wspial-sie-na-nowy-szczyt-Polprzewodnikowa-hossa-trwa-w-najlepsze-9130357.html",
+      "title": "Nasdaq wspiął się na nowy szczyt. Półprzewodnikowa hossa trwa w najlepsze Inwestorów z Wall Street ogarnął szał na punkcie akcji producentów półprzewodników. Zwyżki w tym sektorze napędziły nowe rekordy w wykonaniu Nasdaqa i S&P500.",
+      "content_html": "",
+      "date_published": "2026-05-08T22:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-rozpoczyna-ABB-w-zwiazku-z-emisja-do-350-tys-akcji-serii-D-9130261.html",
       "url": "https://www.bankier.pl/wiadomosc/Creotech-Quantum-rozpoczyna-ABB-w-zwiazku-z-emisja-do-350-tys-akcji-serii-D-9130261.html",
       "title": "Polska technologia idzie po miliony. Creotech Quantum przyspiesza emisję akcji Creotech Quantum rozpoczyna proces przyspieszonej budowy księgi popytu (ABB) w związku z emisją do 350 tys. akcji serii D - poinformowała spółka w komunikacie. Z emisji spółka chce pozyskać do 75 mln zł.",
@@ -457,13 +464,6 @@
       "title": "Dokąd zmierza WIG20? Czerwony maj po spadkowej serii? Po długiej spadkowej serii z końcówki kwietnia WIG20 wyraźnie zazielenił się na początku maja. Jednakże statystyka jest tu bezlitosna i zgodnie z nią wiosenna korekta na GPW byłaby równie zaskakująca jak majowe burze.",
       "content_html": "",
       "date_published": "2026-05-07T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-bija-historyczne-rekordy-Kurs-AMD-odlecial-po-wynikach-9128894.html",
-      "url": "https://www.bankier.pl/wiadomosc/S-P500-i-Nasdaq-bija-historyczne-rekordy-Kurs-AMD-odlecial-po-wynikach-9128894.html",
-      "title": "S&P500 i Nasdaq biją historyczne rekordy. Kurs AMD odleciał po wynikach Boom w branży półprzewodników wyniósł nowojorskie giełdy na nowe rekordy wszech czasów. Gwiazdą dnia były akcje AMD, które zdrożały o prawie 20%.",
-      "content_html": "",
-      "date_published": "2026-05-06T22:05:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
