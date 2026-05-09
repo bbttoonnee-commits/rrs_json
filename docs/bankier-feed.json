@@ -4,60 +4,144 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Prawne-boksowanie-o-10-procent-Administracja-Trumpa-skarzy-wyrok-uznajacy-cla-za-nielegalne-9130361.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prawne-boksowanie-o-10-procent-Administracja-Trumpa-skarzy-wyrok-uznajacy-cla-za-nielegalne-9130361.html",
+      "title": "Prawne boksowanie o 10 procent. Administracja Trumpa skarży wyrok uznający cła za nielegalne",
+      "content_html": "Administracja Donalda Trumpa złożyła w piątek odwołanie od czwartkowego wyroku sądu, który uznał obowiązujące od lutego 10-procentowe globalne cła za nielegalne. Cła zostały wstrzymane tylko dla importerów, którzy wnieśli pozew.",
+      "date_published": "2026-05-09T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Z-Niemiec-do-Polski-Trump-kusi-przeniesieniem-sil-i-stawia-na-relacje-z-Nawrockim-9130381.html",
+      "url": "https://www.bankier.pl/wiadomosc/Z-Niemiec-do-Polski-Trump-kusi-przeniesieniem-sil-i-stawia-na-relacje-z-Nawrockim-9130381.html",
+      "title": "Z Niemiec do Polski? Trump kusi przeniesieniem sił i stawia na relację z Nawrockim",
+      "content_html": "Prezydent USA Donald Trump powiedział w piątek, że może przesunąć siły USA wycofywane z Niemiec do Polski. Trump po raz kolejny chwalił przy tym polskiego prezydenta.",
+      "date_published": "2026-05-09T10:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Agencja-S-P-potwierdzila-rating-Polski-na-poziomie-A-ze-stabilna-perspektywa-9130360.html",
       "url": "https://www.bankier.pl/wiadomosc/Agencja-S-P-potwierdzila-rating-Polski-na-poziomie-A-ze-stabilna-perspektywa-9130360.html",
       "title": "Agencja S&P potwierdziła rating Polski na poziomie \"A-\" ze stabilną perspektywą",
       "content_html": "Agencja S&P Global Ratings potwierdziła długoterminowy rating Polski w walucie obcej na poziomie \"A-\" ze stabilną perspektywą - poinformowała agencja w komunikacie.",
-      "date_published": "2026-05-08T23:14:00+02:00"
+      "date_published": "2026-05-09T09:56:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nasdaq-wspial-sie-na-nowy-szczyt-Polprzewodnikowa-hossa-trwa-w-najlepsze-9130357.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nasdaq-wspial-sie-na-nowy-szczyt-Polprzewodnikowa-hossa-trwa-w-najlepsze-9130357.html",
-      "title": "Nasdaq wspiął się na nowy szczyt. Półprzewodnikowa hossa trwa w najlepsze",
-      "content_html": "Inwestorów z Wall Street ogarnął szał na punkcie akcji producentów półprzewodników. Zwyżki w tym sektorze napędziły nowe rekordy w wykonaniu Nasdaqa i S&P500.",
-      "date_published": "2026-05-08T23:06:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-biletowego-eldorado-pod-Koloseum-Posypia-sie-surowe-kary-9127066.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-biletowego-eldorado-pod-Koloseum-Posypia-sie-surowe-kary-9127066.html",
+      "title": "Koniec biletowego eldorado pod Koloseum. Posypią się surowe kary",
+      "content_html": "Od poniedziałku w Rzymie obowiązują nowe zasady sprzedaży biletów do Koloseum w ramach zaostrzenia walki ze zjawiskiem wtórnego obrotu nimi. Kroki te wymierzone są między innymi w agencje turystyczne, które masowo wykupują bilety, w wyniku czego...",
+      "date_published": "2026-05-09T09:30:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Czarzasty-o-SAFE-Polskie-wojsko-dostalo-184-mld-zl-a-nieskuteczny-prezydent-lekcje-pokory-9130306.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-o-SAFE-Polskie-wojsko-dostalo-184-mld-zl-a-nieskuteczny-prezydent-lekcje-pokory-9130306.html",
-      "title": "Czarzasty o SAFE: Polskie wojsko dostało 184 mld zł, a nieskuteczny prezydent - lekcję pokory",
-      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty ocenił, że dzięki podpisanej w piątek umowie pożyczkowej SAFE polskie wojsko dostało 184 mld zł, a „nieskuteczny prezydent” - lekcję pokory. - Niech pan skorzysta z tej lekcji - zwrócił się do Karola...",
-      "date_published": "2026-05-08T21:39:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-reklamami-burgerow-i-lotow-Radykalny-krok-Amsterdamu-9127205.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-reklamami-burgerow-i-lotow-Radykalny-krok-Amsterdamu-9127205.html",
+      "title": "Koniec z reklamami burgerów i lotów. Radykalny krok Amsterdamu",
+      "content_html": "Amsterdam jako pierwsza stolica na świecie zakazał publicznych reklam mięsa i produktów związanych z paliwami kopalnymi. Od 1 maja z billboardów, przystanków komunikacji miejskiej i stacji metra zniknęły reklamy burgerów, samochodów na benzynę...",
+      "date_published": "2026-05-09T09:30:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/12-polski-F-35-gotowy-reszta-eskadry-juz-w-drodze-z-Teksasu-9130334.html",
-      "url": "https://www.bankier.pl/wiadomosc/12-polski-F-35-gotowy-reszta-eskadry-juz-w-drodze-z-Teksasu-9130334.html",
-      "title": "12. polski F-35 gotowy, reszta eskadry już w drodze z Teksasu",
-      "content_html": "Dwunasty myśliwiec F-35 przeznaczony dla Polski zakończył już testy, a produkcja pozostałych czterech jest w fazie końcowej - poinformował wicepremier, szef MON Władysław Kosiniak-Kamysz. Jak dodał, po przejściu procedur testowych maszyny będą...",
-      "date_published": "2026-05-08T21:30:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/12-bilionow-wonow-dla-fiskusa-Rodzina-zmarlego-szefa-Samsunga-uregulowala-rekordowy-podatek-9127211.html",
+      "url": "https://www.bankier.pl/wiadomosc/12-bilionow-wonow-dla-fiskusa-Rodzina-zmarlego-szefa-Samsunga-uregulowala-rekordowy-podatek-9127211.html",
+      "title": "12 bilionów wonów dla fiskusa. Rodzina zmarłego szefa Samsunga uregulowała rekordowy podatek",
+      "content_html": "Rodzina zmarłego prezesa Samsunga Li Kun Hi spłacilła rekordowy podatek od spadku: 12 bln wonów (8 mld USD) – podała BBC. Płatność zamyka trwający pięć lat proces regulowania zobowiązań wobec państwa.",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-parytetow-w-USA-Administracja-Trumpa-pozywa-legendarna-redakcje-9128194.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-parytetow-w-USA-Administracja-Trumpa-pozywa-legendarna-redakcje-9128194.html",
+      "title": "Koniec parytetów w USA? Administracja Trumpa pozywa legendarną redakcję",
+      "content_html": "Administracja Donalda Trumpa skierowała we wtorek do sądu na Manhattanie pozew przeciwko redakcji „New York Timesa”, zarzucając dziennikowi dyskryminację rasową i płciową białego pracownika.",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-marzen-o-zjednoczeniu-Korei-Kim-Dzong-Un-zmienia-konstytucje-9128263.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-marzen-o-zjednoczeniu-Korei-Kim-Dzong-Un-zmienia-konstytucje-9128263.html",
+      "title": "Koniec marzeń o zjednoczeniu Korei. Kim Dzong Un zmienia konstytucję",
+      "content_html": "W nowej wersji konstytucji Korei Północnej zdefiniowano Koreę Południową jako odrębne państwo, usuwając odniesienia do pokojowego zjednoczenia obu krajów – podała południowokoreańska agencja Yonhap. Ustawa zasadnicza daje również przywódcy...",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Papieros-w-ustach-Matki-Boskiej-Izrael-Zolnierz-zostal-ukarany-9128936.html",
+      "url": "https://www.bankier.pl/wiadomosc/Papieros-w-ustach-Matki-Boskiej-Izrael-Zolnierz-zostal-ukarany-9128936.html",
+      "title": "Papieros w ustach Matki Boskiej. Izrael: Żołnierz został ukarany",
+      "content_html": "Izraelska armia poinformowała, że żołnierz widoczny na zdjęciu, na którym wkłada papierosa do ust figury Matki Boskiej w chrześcijańskiej wiosce na południu Libanu, zostanie ukarany dyscyplinarnie – przekazał portal Times of Israel.",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-dyktatury-BMI-Sztuczna-inteligencja-analizuje-skany-ciala-9128948.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-dyktatury-BMI-Sztuczna-inteligencja-analizuje-skany-ciala-9128948.html",
+      "title": "Koniec dyktatury BMI? Sztuczna inteligencja analizuje skany ciała",
+      "content_html": "Analiza MRI całego ciała pozwoliła sztucznej inteligencji przewidywać stan zdrowia na podstawie rozkładu tłuszczu i stanu mięśni w ciele. AI ocenia m.in. ryzyko cukrzycy, poważnych zdarzeń sercowo-naczyniowych i śmierci.",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tortury-gwalty-i-nagrania-w-sieci-Gigantyczny-skandal-w-portugalskiej-policji-9128968.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tortury-gwalty-i-nagrania-w-sieci-Gigantyczny-skandal-w-portugalskiej-policji-9128968.html",
+      "title": "Tortury, gwałty i nagrania w sieci. Gigantyczny skandal w portugalskiej policji",
+      "content_html": "W Portugalii aresztowano 24 policjantów, którzy mieli dopuszczać się poważnych nadużyć wobec osób zatrzymanych przez nich podczas służby, w tym tortur i gwałtów - poinformowały media w tym kraju.",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nauczyciel-94-latek-i-ukryte-kamery-w-domach-Potezne-uderzenie-w-siatke-pedofilow-9129018.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nauczyciel-94-latek-i-ukryte-kamery-w-domach-Potezne-uderzenie-w-siatke-pedofilow-9129018.html",
+      "title": "Nauczyciel, 94-latek i ukryte kamery w domach. Potężne uderzenie w siatkę pedofilów",
+      "content_html": "123 zatrzymane osoby i 330 tys. zabezpieczonych plików z nielegalnymi treściami to efekt przeprowadzonej przez policjantów Centralnego Biura Zwalczania Cyberprzestępczości akcji wymierzonej w przestępczość pedofilską.",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Malarstwo-wciaz-dominuje-ale-sprzedaz-spada-Pol-miliarda-zlotych-na-rynku-sztuki-9129111.html",
+      "url": "https://www.bankier.pl/wiadomosc/Malarstwo-wciaz-dominuje-ale-sprzedaz-spada-Pol-miliarda-zlotych-na-rynku-sztuki-9129111.html",
+      "title": "Malarstwo wciąż dominuje, ale sprzedaż spada. Pół miliarda złotych na rynku sztuki",
+      "content_html": "Polski rynek dzieł sztuki i antyków odnotował w 2025 roku wyraźne spowolnienie. Według najnowszych danych Głównego Urzędu Statystycznego wartość sprzedaży spadła o ponad 17 procent, zatrzymując się na kwocie 544,6 mln zł. Największe spadki...",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bunt-samorzadow-w-Brukseli-Chca-prawa-do-blokowania-decyzji-rzadu-i-UE-9129165.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bunt-samorzadow-w-Brukseli-Chca-prawa-do-blokowania-decyzji-rzadu-i-UE-9129165.html",
+      "title": "Bunt samorządów w Brukseli. Chcą prawa do blokowania decyzji rządu i UE",
+      "content_html": "Europejski Komitet Regionów (KR) domaga się obowiązkowej klauzuli pomocniczości, która pozwoliłaby regionom krajów Unii Europejskiej blokować nadmiernie scentralizowane Krajowe i Regionalne Plany Partnerstwa w przyszłym wieloletnim budżecie...",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-naukowa-czarna-dziura-Rektor-UG-ujawnia-dlaczego-tracimy-miliardy-z-UE-9129768.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-naukowa-czarna-dziura-Rektor-UG-ujawnia-dlaczego-tracimy-miliardy-z-UE-9129768.html",
+      "title": "Polska naukowa \"czarna dziura\"? Rektor UG ujawnia, dlaczego tracimy miliardy z UE",
+      "content_html": "Bez zwiększenia nakładów na naukę do ok. 3 proc. PKB Polska nie poprawi swojej pozycji w europejskich programach badawczych – ocenił w wywiadzie dla PAP rektor Uniwersytetu Gdańskiego, przewodniczący Konferencji Rektorów Uniwersytetów Polskich...",
+      "date_published": "2026-05-09T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fico-w-Moskwie-Jestem-czarna-owca-UE-Czy-premier-Slowacji-wiezie-oferte-pokojowa-9130354.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fico-w-Moskwie-Jestem-czarna-owca-UE-Czy-premier-Slowacji-wiezie-oferte-pokojowa-9130354.html",
+      "title": "Fico w Moskwie: Jestem czarną owcą UE. Czy premier Słowacji wiezie ofertę pokojową?",
+      "content_html": "Premier Słowacji Robert Fico w piątek, krótko po przylocie do Moskwy na obchody Dnia Zwycięstwa, złożył kwiaty na grobie Nieznanego Żołnierza, poinformowały słowackie media. – Jestem czarną owcą w Unii Europejskiej - powiedział dziennikarzom...",
+      "date_published": "2026-05-09T09:30:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-oglosil-trzydniowy-rozejm-miedzy-Rosja-i-Ukraina-9130330.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-oglosil-trzydniowy-rozejm-miedzy-Rosja-i-Ukraina-9130330.html",
       "title": "Trump ogłosił trzydniowy rozejm między Rosją i Ukrainą i wymianę 2 tys. więźniów",
       "content_html": "Prezydent USA Donald Trump ogłosił w piątek trzydniowe zawieszenie broni między Rosją i Ukrainą w dniach 9-11 maja w związku z rocznicą zakończenia II wojny światowej. Zapowiedział, że rozejm obejmie też wymianę łącznie 2 tys. więźniów...",
-      "date_published": "2026-05-08T21:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Biznesmeni-z-Miami-winni-zamachu-na-prezydenta-Liczyli-na-miliardy-z-kontraktow-9130331.html",
-      "url": "https://www.bankier.pl/wiadomosc/Biznesmeni-z-Miami-winni-zamachu-na-prezydenta-Liczyli-na-miliardy-z-kontraktow-9130331.html",
-      "title": "Biznesmeni z Miami winni zamachu na prezydenta. Liczyli na miliardy z kontraktów",
-      "content_html": "Czterech amerykańskich obywateli zostało uznanych w piątek przez ławę przysięgłych w sądzie federalnym na Florydzie za winnych organizacji zamachu na prezydenta Haiti Jovenela Moise'a w 2021 r. Prokuratorzy zarzucali grupie biznesmenów, że liczyli...",
-      "date_published": "2026-05-08T21:20:00+02:00"
+      "date_published": "2026-05-09T09:24:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mentzen-zatrzymany-w-Londynie-Wielka-Brytania-to-panstwo-totalitarne-9130320.html",
       "url": "https://www.bankier.pl/wiadomosc/Mentzen-zatrzymany-w-Londynie-Wielka-Brytania-to-panstwo-totalitarne-9130320.html",
       "title": "Mentzen zatrzymany w Londynie. \"Wielka Brytania to państwo totalitarne\"",
       "content_html": "Szef prezydenckiego Biura Polityki Międzynarodowej Marcin Przydacz poinformował, że zwróci uwagę „stronie brytyjskiej” na nieadekwatność środków podjętych w piątek wobec Sławomira Mentzena. Lider Konfederacji informował wcześniej, że...",
-      "date_published": "2026-05-08T20:56:00+02:00"
+      "date_published": "2026-05-09T09:16:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Paliwowy-protest-w-Szczecinie-Mieszkancy-Podjuch-zadaja-rozbiorki-gigantycznej-samowoli-9130296.html",
-      "url": "https://www.bankier.pl/wiadomosc/Paliwowy-protest-w-Szczecinie-Mieszkancy-Podjuch-zadaja-rozbiorki-gigantycznej-samowoli-9130296.html",
-      "title": "Paliwowy protest w Szczecinie. Mieszkańcy Podjuch żądają rozbiórki gigantycznej samowoli",
-      "content_html": "Mieszkańcy Podjuch protestowali w piątek po południu przeciwko budowie w ich sąsiedztwie zbiorników na paliwa. Inwestycję rozpoczęto bez wydanych pozwoleń. Postepowanie ws. wydania warunków zabudowy jest aktualnie zawieszone.",
-      "date_published": "2026-05-08T19:25:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Weekendowy-odwrot-Polska-w-unijnej-czolowce-narodow-ktore-nie-pracuja-w-niedziele-9130414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Weekendowy-odwrot-Polska-w-unijnej-czolowce-narodow-ktore-nie-pracuja-w-niedziele-9130414.html",
+      "title": "Weekendowy odwrót. Polska w unijnej czołówce narodów, które nie pracują w niedziele",
+      "content_html": "Coraz mniej osób pracuje w weekendy, od 2015 r. w Polsce udział takich osób zmniejszył się prawie o połowę i wynosi obecnie 8 proc. - wynika z danych Polskiego Instytutu Ekonomicznego (PIE). To trzeci najniższy wynik w Unii Europejskiej.",
+      "date_published": "2026-05-09T09:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zywnosc-drozeje-a-my-wciaz-ja-wyrzucamy-Resort-rolnictwa-ratuje-zywnosc-9127305.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zywnosc-drozeje-a-my-wciaz-ja-wyrzucamy-Resort-rolnictwa-ratuje-zywnosc-9127305.html",
+      "title": "Żywność drożeje, a my wciąż ją wyrzucamy. Resort rolnictwa przychodzi z ratunkiem?",
+      "content_html": "Resort rolnictwa rozpoczyna realizację projektu POMOST, który ma ograniczyć marnowanie żywności - poinformowało MRiRW. Do 2029 roku mają zostać wdrożone rozwiązania, które pomogą lepiej wykorzystywać żywność i zmniejszyć straty w całym...",
+      "date_published": "2026-05-09T07:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dziura-w-amerykanskiej-blokadzie-Iranskie-tankowce-przechytrzyly-CENTCOM-9130292.html",
@@ -506,118 +590,6 @@
       "title": "Koniec złotej ery Toyoty? Japoński gigant tnie prognozy, a akcjonariusze są w szoku",
       "content_html": "To koniec serii rekordów w Toyocie? Japoński gigant, który przez ostatnie lata zdawał się niewrażliwy na globalne zawirowania, w końcu uderzył w ścianę. Najnowsze prognozy finansowe na rok 2026/2027 to zimny prysznic dla akcjonariuszy – spółka...",
       "date_published": "2026-05-08T09:19:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-w-IV-mialo-22-635-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-22-35-mln-w-III-Mediapanel-9129806.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-w-IV-mialo-22-635-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-22-35-mln-w-III-Mediapanel-9129806.html",
-      "title": "Rośnie popularność aplikacji Allegro. Zasięgi w górę, czas sesji w dół",
-      "content_html": "Allegro miało w kwietniu 22,635 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 22,35 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.",
-      "date_published": "2026-05-08T08:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozejm-tylko-na-papierze-Iran-znow-wymienia-ciosy-z-USA-9129804.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozejm-tylko-na-papierze-Iran-znow-wymienia-ciosy-z-USA-9129804.html",
-      "title": "Rozejm tylko na papierze. Iran znów wymienia ciosy z USA",
-      "content_html": "Obrona powietrzna Zjednoczonych Emiratów Arabskich reaguje na kolejny irański ostrzał rakietowy i dronowy - poinformowało w piątek nad ranem tamtejsze ministerstwo obrony. Wcześniej w nocy doszło do wzajemnych ataków USA i Iranu w rejonie cieśniny...",
-      "date_published": "2026-05-08T08:43:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
-      "url": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
-      "title": "Słabszy Downstream ciąży na bilansie. Węgierski gigant paliwowy z 626 mln USD oczyszczonej EBITDA",
-      "content_html": "Oczyszczony wynik EBITDA grupy MOL w I kw. 2026 r. wyniósł 626 mln USD, w porównaniu do 833 mln USD rok wcześniej - podał MOL w prezentacji. Prognoza na 2026 r. nadal zakłada ok. 3 mld USD oczyszczonej EBITDA.",
-      "date_published": "2026-05-08T08:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-Getin-Noble-Banku-NSA-opublikowal-uzasadnienie-wyroku-9129708.html",
-      "url": "https://www.bankier.pl/wiadomosc/Restrukturyzacja-Getin-Noble-Banku-NSA-opublikowal-uzasadnienie-wyroku-9129708.html",
-      "title": "Restrukturyzacja Getin Noble Banku. NSA opublikował uzasadnienie wyroku",
-      "content_html": "Naczelny Sąd Administracyjny opublikował obszerne pisemne uzasadnienie marcowego wyroku w sprawie przymusowej restrukturyzacji Getin Noble Banku. Pod koniec marca br. NSA uchylił wyrok warszawskiego WSA tej restrukturyzacji uznający, że decyzja została...",
-      "date_published": "2026-05-08T08:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oplata-reprograficzna-uderzy-w-ceny-sprzetu-Szefowa-MKiDN-To-nie-jest-nowy-podatek-9129794.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oplata-reprograficzna-uderzy-w-ceny-sprzetu-Szefowa-MKiDN-To-nie-jest-nowy-podatek-9129794.html",
-      "title": "Opłata reprograficzna uderzy w ceny sprzętu? Szefowa MKiDN: To nie jest „nowy podatek”",
-      "content_html": "Z doświadczeń państw europejskich wynika, że opłata reprograficzna nie wpływa na ceny sprzętu - wskazała w wywiadzie dla piątkowej „Rzeczpospolitej” szefowa MKiDN Marta Cienkowska. Poinformowała, że projekt ustawy o socjalnym zabezpieczeniu...",
-      "date_published": "2026-05-08T08:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Historyczna-sobota-w-Budapeszcie-Koniec-ery-Orbana-stanie-sie-faktem-9129792.html",
-      "url": "https://www.bankier.pl/wiadomosc/Historyczna-sobota-w-Budapeszcie-Koniec-ery-Orbana-stanie-sie-faktem-9129792.html",
-      "title": "Historyczna sobota w Budapeszcie. Koniec ery Orbana stanie się faktem",
-      "content_html": "W sobotę o godz. 10 prezydent Węgier Tamas Sulyok otworzy inauguracyjną sesję nowego Zgromadzenia Narodowego, które wybierze następnie przewodniczącego Tiszy Petera Magyara na nowego premiera. Po sesji w centrum Budapesztu odbędą się huczne...",
-      "date_published": "2026-05-08T08:21:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niespodziewany-sojusz-Trumpa-i-Luli-Brazylia-otwiera-swoje-zloza-dla-USA-9129721.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niespodziewany-sojusz-Trumpa-i-Luli-Brazylia-otwiera-swoje-zloza-dla-USA-9129721.html",
-      "title": "Niespodziewany sojusz Trumpa i Luli. Brazylia otwiera swoje złoża dla USA",
-      "content_html": "Prezydent Brazylii Luiz Inacio Lula da Silva powiedział po czwartkowym spotkaniu z Donaldem Trumpem, że zaoferował mu pomoc w kontaktach z Kubą, a sam prezydent USA zapewnił go, iż nie zamierza zaatakować kubańskiego reżimu - relacjonuje agencja...",
-      "date_published": "2026-05-08T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Seniorzy-nie-rezygnuja-z-pracy-Ale-kiedys-zostanie-tylko-emerytura-9129738.html",
-      "url": "https://www.bankier.pl/wiadomosc/Seniorzy-nie-rezygnuja-z-pracy-Ale-kiedys-zostanie-tylko-emerytura-9129738.html",
-      "title": "Seniorzy nie rezygnują z pracy. Ale kiedyś zostanie tylko emerytura",
-      "content_html": "Rosnąca liczba emerytów dorabiających do świadczeń obnaża słabości systemu - czytamy w piątkowym wydaniu „Rzeczpospolitej\".",
-      "date_published": "2026-05-08T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bitwa-w-ciesninie-Ormuz-Trump-mowi-o-milosnym-stuknieciu-w-Iran-9129730.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bitwa-w-ciesninie-Ormuz-Trump-mowi-o-milosnym-stuknieciu-w-Iran-9129730.html",
-      "title": "Bitwa w cieśninie Ormuz. Trump mówi o „miłosnym stuknięciu” w Iran",
-      "content_html": "Siły USA odparły irańskie ataki na amerykańskie okręty i odpowiedziały uderzeniami na irańskie siły w ramach samoobrony - oznajmiło w nocy z czwartku na piątek Dowództwo Centralne USA (CENTCOM). Według wojska, amerykańskie okręty nie doznały...",
-      "date_published": "2026-05-08T08:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-odwracaja-sie-od-zagranicznych-wyjazdow-U-nas-ceny-nawet-spadly-9129740.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-odwracaja-sie-od-zagranicznych-wyjazdow-U-nas-ceny-nawet-spadly-9129740.html",
-      "title": "Polacy odwracają się od zagranicznych wyjazdów. U nas ceny nawet spadły",
-      "content_html": "Niepewna sytuacja geopolityczna i rosnące koszty dalekich wojaży kierują ruch turystyczny do Polski. Liczba rezerwacji rośnie w tempie dwucyfrowym - informuje piątkowy „Puls Biznesu\".",
-      "date_published": "2026-05-08T08:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-w-Polsce-Dogonilismy-USA-ale-firmy-wpadly-w-pulapke-9129741.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-w-Polsce-Dogonilismy-USA-ale-firmy-wpadly-w-pulapke-9129741.html",
-      "title": "Sztuczna inteligencja w Polsce. Dogoniliśmy USA, ale firmy wpadły w pułapkę",
-      "content_html": "Ze sztucznej inteligencji (AI) korzysta w Polsce już 31 proc. osób w wieku produkcyjnym, a tempo wzrostu wprowadzania jest o 70 proc. szybsze od globalnej średniej. Pod tym względem zrównaliśmy się z Niemcami czy USA – wynika z danych Microsoft...",
-      "date_published": "2026-05-08T08:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
-      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
-      "title": "East Value Research obniżył cenę docelową akcji Warimpex do 0,93 euro",
-      "content_html": "Analitycy East Value Research, w raporcie z 8 maja, obniżyli cenę docelową akcji austriackiej spółki Warimpex, notowanej m.in. na warszawskiej giełdzie, do 0,93 euro (3,92 zł) z 1 euro wcześniej.",
-      "date_published": "2026-05-08T08:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowa-konstytucja-Wiekszosc-Polakow-nie-widzi-takiej-potrzeby-9129782.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowa-konstytucja-Wiekszosc-Polakow-nie-widzi-takiej-potrzeby-9129782.html",
-      "title": "Nowa konstytucja? Większość Polaków nie widzi takiej potrzeby",
-      "content_html": "60 proc. badanych w sondażu Instytutu Badań Pollster na zlecenie „Super Expressu” dobrze ocenia obowiązującą konstytucję, 22 proc. - źle, a 18 proc. nie ma zdania.",
-      "date_published": "2026-05-08T08:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Od-potwora-z-Tarnowa-po-Borsuki-PGZ-liczy-na-100-miliardow-zlotych-z-SAFE-9129779.html",
-      "url": "https://www.bankier.pl/wiadomosc/Od-potwora-z-Tarnowa-po-Borsuki-PGZ-liczy-na-100-miliardow-zlotych-z-SAFE-9129779.html",
-      "title": "Od „potwora z Tarnowa” po Borsuki. PGZ liczy na 100 miliardów złotych z SAFE",
-      "content_html": "Program SAFE może uruchomić największy od lat strumień finansowania dla polskiego przemysłu zbrojeniowego. Polska Grupa Zbrojeniowa szacuje, że do spółek grupy może trafić nawet ok. 100 mld zł z projektów...",
-      "date_published": "2026-05-08T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mabion-ma-list-intencyjny-dot-wspolpracy-w-zakresie-zastosowania-MabionCD20-w-obszarze-chorob-sierocych-9129775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mabion-ma-list-intencyjny-dot-wspolpracy-w-zakresie-zastosowania-MabionCD20-w-obszarze-chorob-sierocych-9129775.html",
-      "title": "Mabion ma list intencyjny dot. współpracy w zakresie zastosowania MabionCD20 w obszarze chorób sierocych",
-      "content_html": "Mabion z francuską spółką Oddifact list intencyjny dotyczący nawiązania współpracy w zakresie zbadania i oceny możliwości zastosowania leku MabionCD20 w nowych wskazaniach klinicznych w obszarze chorób sierocych - podał Mabion w komunikacie...",
-      "date_published": "2026-05-08T07:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-Torpolu-w-pierwszym-kwartale-2026-vs-konsensus-PAP-tabela-9129773.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-Torpolu-w-pierwszym-kwartale-2026-vs-konsensus-PAP-tabela-9129773.html",
-      "title": "Wstępne wyniki Torpolu w pierwszym kwartale 2026 vs. konsensus PAP",
-      "content_html": "Poniżej przedstawiamy wstępne wyniki Torpolu w pierwszym kwartale 2026 roku, ich odniesienie do konsensusu PAP i poprzednich wyników.",
-      "date_published": "2026-05-08T07:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
