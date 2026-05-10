@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestowanie-w-biotechnologie-Jak-sztuczna-inteligencja-i-przejecia-napedzaja-gigantyczne-zyski-na-gieldzie-9130053.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestowanie-w-biotechnologie-Jak-sztuczna-inteligencja-i-przejecia-napedzaja-gigantyczne-zyski-na-gieldzie-9130053.html",
+      "title": "Wielka nadzieja dla chorych. Dla inwestorów nawet 1500 procent zysku w ciągu roku Dzisiaj biotechnologia to nie tylko szansa na nowe skuteczne metody leczenia, ale także potencjał spektakularnych zysków – pod warunkiem, że wiemy, gdzie ich szukać. Rozmawiamy z Evanem McCullochem, zarządzającym funduszem Franklin Biotechnology Discovery Fund we Franklin Templeton, o tym, na jakim etapie cyklu znajduje się ten sektor, dlaczego Stany Zjednoczone nadal wyprzedzają Europę i Chiny oraz w jaki sposób sztuczna inteligencja skraca drogę z laboratorium do apteki.",
+      "content_html": "",
+      "date_published": "2026-05-10T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Amerykanskie-spolki-z-najwyzszym-tempem-wzrostu-zyskow-od-2021-9130422.html",
       "url": "https://www.bankier.pl/wiadomosc/Amerykanskie-spolki-z-najwyzszym-tempem-wzrostu-zyskow-od-2021-9130422.html",
       "title": "Amerykańskie spółki z najwyższym tempem wzrostu zysków od 2021 W końcowym etapie sezonu wyników kwartalnych w USA odsetek spółek z indeksu S&P 500, które odnotowały pozytywne niespodzianki w zyskach, jak i skala tych niespodzianek przewyższają średnie z poprzednich kwartałów - wynika z danych FactSet. Spółki notują najmocniejsze tempo wzrostu zysków od 2021 roku.",
@@ -170,48 +177,6 @@
       "title": "Ropa znów drożeje. „Miłosne stuknięcie” przerywa rynkowy optymizm Ceny ropy naftowej w USA rosną. Inwestorzy śledzą wydarzenia w Zatoce Perskiej, gdzie doszło do kolejnej wymiany ognia między USA i Iranem, mimo zapewnień Amerykanów, że zawieszenie broni nadal obowiązuje.",
       "content_html": "",
       "date_published": "2026-05-08T09:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-w-IV-mialo-22-635-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-22-35-mln-w-III-Mediapanel-9129806.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-w-IV-mialo-22-635-mln-uzytkownikow-na-wszystkich-urzadzeniach-vs-22-35-mln-w-III-Mediapanel-9129806.html",
-      "title": "Rośnie popularność aplikacji Allegro. Zasięgi w górę, czas sesji w dół Allegro miało w kwietniu 22,635 mln użytkowników (Real Users) na wszystkich urządzeniach wobec 22,35 mln miesiąc wcześniej - wynika z badania Mediapanel, Polskiego Badania Internetu.",
-      "content_html": "",
-      "date_published": "2026-05-08T07:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
-      "url": "https://www.bankier.pl/wiadomosc/MOL-mial-w-I-kw-2026-r-626-mln-USD-oczyszczonej-EBITDA-9129777.html",
-      "title": "Słabszy Downstream ciąży na bilansie. Węgierski gigant paliwowy z 626 mln USD oczyszczonej EBITDA Oczyszczony wynik EBITDA grupy MOL w I kw. 2026 r. wyniósł 626 mln USD, w porównaniu do 833 mln USD rok wcześniej - podał MOL w prezentacji. Prognoza na 2026 r. nadal zakłada ok. 3 mld USD oczyszczonej EBITDA.",
-      "content_html": "",
-      "date_published": "2026-05-08T07:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
-      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Warimpex-do-0-93-euro-9129787.html",
-      "title": "East Value Research obniżył cenę docelową akcji Warimpex do 0,93 euro Analitycy East Value Research, w raporcie z 8 maja, obniżyli cenę docelową akcji austriackiej spółki Warimpex, notowanej m.in. na warszawskiej giełdzie, do 0,93 euro (3,92 zł) z 1 euro wcześniej.",
-      "content_html": "",
-      "date_published": "2026-05-08T07:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Od-potwora-z-Tarnowa-po-Borsuki-PGZ-liczy-na-100-miliardow-zlotych-z-SAFE-9129779.html",
-      "url": "https://www.bankier.pl/wiadomosc/Od-potwora-z-Tarnowa-po-Borsuki-PGZ-liczy-na-100-miliardow-zlotych-z-SAFE-9129779.html",
-      "title": "Od „potwora z Tarnowa” po Borsuki. PGZ liczy na 100 miliardów złotych z SAFE Program SAFE może uruchomić największy od lat strumień finansowania dla polskiego przemysłu zbrojeniowego. Polska Grupa Zbrojeniowa szacuje, że do spółek grupy może trafić nawet ok. 100 mld zł z projektów...",
-      "content_html": "",
-      "date_published": "2026-05-08T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mabion-ma-list-intencyjny-dot-wspolpracy-w-zakresie-zastosowania-MabionCD20-w-obszarze-chorob-sierocych-9129775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mabion-ma-list-intencyjny-dot-wspolpracy-w-zakresie-zastosowania-MabionCD20-w-obszarze-chorob-sierocych-9129775.html",
-      "title": "Mabion ma list intencyjny dot. współpracy w zakresie zastosowania MabionCD20 w obszarze chorób sierocych Mabion z francuską spółką Oddifact list intencyjny dotyczący nawiązania współpracy w zakresie zbadania i oceny możliwości zastosowania leku MabionCD20 w nowych wskazaniach klinicznych w obszarze chorób sierocych - podał Mabion w komunikacie. Zawarcie umowy planowane jest do końca 2026 r.",
-      "content_html": "",
-      "date_published": "2026-05-08T06:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-Torpolu-w-pierwszym-kwartale-2026-vs-konsensus-PAP-tabela-9129773.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wstepne-wyniki-Torpolu-w-pierwszym-kwartale-2026-vs-konsensus-PAP-tabela-9129773.html",
-      "title": "Wstępne wyniki Torpolu w pierwszym kwartale 2026 vs. konsensus PAP Poniżej przedstawiamy wstępne wyniki Torpolu w pierwszym kwartale 2026 roku, ich odniesienie do konsensusu PAP i poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-05-08T06:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
