@@ -144,6 +144,20 @@
       "date_published": "2026-05-11T18:46:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Kernela-na-poziomie-CCC-9131161.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-Kernela-na-poziomie-CCC-9131161.html",
+      "title": "Fitch potwierdził rating Kernela na poziomie \"CCC-\"",
+      "content_html": "Fitch Ratings potwierdził długoterminowy rating IDR Kernela na poziomie \"CCC-\" - podał Fitch w komunikacie.",
+      "date_published": "2026-05-11T18:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czechy-powoluja-pelnomocnika-ds-zobowiazan-sojuszniczych-wobec-NATO-9131163.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czechy-powoluja-pelnomocnika-ds-zobowiazan-sojuszniczych-wobec-NATO-9131163.html",
+      "title": "Czechy powołują pełnomocnika ds zobowiązań sojuszniczych wobec NATO",
+      "content_html": "Czeski rząd w poniedziałek utworzył nowe stanowisko pełnomocnika do spraw wypełniania zobowiązań wobec NATO i powołał na nie Jakuba Landovskiego, byłego ambasadora przy NATO. Ma on doprowadzić do uznawania przez Sojusz czeskich wydatków na...",
+      "date_published": "2026-05-11T18:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-I-kw-wyniosla-18-9-mln-zl-wobec-konsensusu-18-1-mln-zl-9131158.html",
       "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Ten-Square-Games-w-I-kw-wyniosla-18-9-mln-zl-wobec-konsensusu-18-1-mln-zl-9131158.html",
       "title": "Gamingowy gigant z Wrocławia publikuje raport. 18,9 mln zł zysku i ważny sygnał dla graczy",
@@ -681,13 +695,6 @@
       "title": "Ceny miedzi w Londynie idą na rekord. \"Ograniczona podaż i malejące zapasy w Chinach\"",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie rosną i mogą zaliczyć najwyższy poziom na zamknięciu handlu w historii. Inwestorzy na rynkach metali zdają się ignorować impas w relacjach pomiędzy USA a Iranem - informują maklerzy.",
       "date_published": "2026-05-11T09:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-odzyskalo-pozycje-lidera-wsrod-platform-zakupowych-w-kwietniu-Mediapanel-9130725.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-odzyskalo-pozycje-lidera-wsrod-platform-zakupowych-w-kwietniu-Mediapanel-9130725.html",
-      "title": "Allegro odzyskało pozycję lidera wśród platform zakupowych w kwietniu",
-      "content_html": "Allegro odzyskało pozycję lidera wśród platform zakupowych w kwietniu - wynika z badania Mediapanel. Drugie w kolejności było Temu.",
-      "date_published": "2026-05-11T09:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
