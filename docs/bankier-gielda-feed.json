@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyzsza-inflacja-nie-zatrzymala-hossy-na-Wall-Street-Jeden-bank-widzi-S-P500-na-8000-pkt-9132682.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyzsza-inflacja-nie-zatrzymala-hossy-na-Wall-Street-Jeden-bank-widzi-S-P500-na-8000-pkt-9132682.html",
+      "title": "Wyższa inflacja nie zatrzymała hossy na Wall Street. Jeden bank widzi S&P500 na 8000 pkt. Bardzo wysoki odczyt inflacji producenckiej zabił resztki nadziei na tegoroczną obniżkę stóp procentowych. Mimo to nowojorskie giełdy ustanowiły nowe szczyty hossy.",
+      "content_html": "",
+      "date_published": "2026-05-13T22:09:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-ma-list-intencyjny-z-FRK-i-BioFund-ws-projektu-dot-leczenia-wad-serca-9132609.html",
       "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-ma-list-intencyjny-z-FRK-i-BioFund-ws-projektu-dot-leczenia-wad-serca-9132609.html",
       "title": "Medicalgorithmics ma list intencyjny z FRK i BioFund ws. projektu dot. leczenia wad serca Medicalgorithmics podpisał list intencyjny z Fundacją Rozwoju Kardiochirurgii im. Zbigniewa Religi (FRK) oraz akcjonariuszem - Biofund Capital Management - dotyczący współpracy w zakresie potencjalnej realizacji projektu minimalnie inwazyjnego systemu robotycznego, przeznaczonego do leczenia strukturalnych wad serca - podała spółka w komunikacie.",
@@ -618,13 +625,6 @@
       "title": "Wall Street z rekordem indeksu S&P 500, pomimo złych wieści z Iranu Poniedziałek na Wall Street przyniósł lekkie wzrosty, a S&P 500 pierwszy raz w historii zamknął dzień na poziomie powyżej 7.400 punktów. Stało się tak, pomimo kolejnego niepowodzenia rozmów USA z Iranem. Ceny ropy wzrosły po odrzuceniu przez prezydenta Trumpa propozycji Iranu mającej zakończyć wojnę.",
       "content_html": "",
       "date_published": "2026-05-11T22:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-dokona-odpisow-w-raporcie-za-I-kwartal-2026-roku-na-1-145-mld-zl-9131275.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-dokona-odpisow-w-raporcie-za-I-kwartal-2026-roku-na-1-145-mld-zl-9131275.html",
-      "title": "Orlen dokona odpisów w raporcie za I kwartał 2026 roku na 1,145 mld zł Orlen w skonsolidowanym sprawozdaniu finansowym za I kwartał 2026 roku dokona odpisów aktualizujących wartość aktywów o łącznej wysokości 1,145 mld zł, w szczególności nakładów w wysokości 0,880 mld zł związanych z realizacją projektu Nowa Chemia - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-11T22:08:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
