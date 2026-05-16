@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nastroje-w-budownictwie-najgorsze-od-ponad-trzech-lat-9131436.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nastroje-w-budownictwie-najgorsze-od-ponad-trzech-lat-9131436.html",
+      "title": "Nastroje w budownictwie najgorsze od ponad trzech lat",
+      "content_html": "Subindeks Barometru EFL dla budownictwa spadł w drugim kwartale 2026 r. do 47,1 pkt. z 51,4 pkt. kwartał wcześniej. To najniższy poziom od końca 2022 r. Firmy wyraźnie ograniczyły oczekiwania dotyczące sprzedaży i poprawy płynności finansowej...",
+      "date_published": "2026-05-16T13:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Powazny-blad-polskich-przedsiebiorcow-Boja-sie-skarbowki-i-traca-fortune-9130757.html",
       "url": "https://www.bankier.pl/wiadomosc/Powazny-blad-polskich-przedsiebiorcow-Boja-sie-skarbowki-i-traca-fortune-9130757.html",
       "title": "Poważny błąd polskich przedsiębiorców. Boją się skarbówki i tracą fortunę",
@@ -695,13 +702,6 @@
       "title": "Sejm uchwalił ustawę o utworzeniu Wojskowej Akademii Medycznej w Łodzi",
       "content_html": "Sejm uchwalił w piątek ustawę o utworzeniu Wojskowej Akademii Medycznej (WAM). Zakłada ona powołanie w Łodzi, od 1 lipca br., uczelni kształcącej wojskowych medyków, m.in. lekarzy i ratowników. To reaktywacja zlikwidowanej ponad 20 lat temu...",
       "date_published": "2026-05-15T12:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/A-pod-nakretka-pustka-Czy-kultowe-napisy-Tymbarku-znikna-na-stale-9133603.html",
-      "url": "https://www.bankier.pl/wiadomosc/A-pod-nakretka-pustka-Czy-kultowe-napisy-Tymbarku-znikna-na-stale-9133603.html",
-      "title": "Pustka pod nakrętką to nie błąd. Tymbark odda swój kapsel konsumentom",
-      "content_html": "Konsumenci marki Tymbark od kilkunastu dni sygnalizują w mediach społecznościowych nietypową zmianę w produktach flagowego producenta napojów. Chodzi o brak charakterystycznych krótkich haseł, które od lat umieszczane były po wewnętrznej stronie...",
-      "date_published": "2026-05-15T12:27:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
