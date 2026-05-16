@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kraksa-czy-rajd-po-nowe-rekordy-Legendy-spieraja-sie-o-przyszlosc-rynkow-9134177.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kraksa-czy-rajd-po-nowe-rekordy-Legendy-spieraja-sie-o-przyszlosc-rynkow-9134177.html",
+      "title": "Kraksa czy rajd po nowe rekordy? Legendy spierają się o przyszłość rynków Wszyscy na Wall Street patrzą na te same dane: indeksy giełdowe testują rekordowe poziomy, a wskaźniki inflacji są wyższe, niż by tego oczekiwano. Jednak giganci świata inwestycji wyciągają z tego skrajnie odmienne wnioski.",
+      "content_html": "",
+      "date_published": "2026-05-16T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/System-antydronowy-SAN-ma-byc-gotowy-za-18-miesiecy-Budowa-przyspieszy-dzieki-pieniadzom-z-SAFE-9132761.html",
+      "url": "https://www.bankier.pl/wiadomosc/System-antydronowy-SAN-ma-byc-gotowy-za-18-miesiecy-Budowa-przyspieszy-dzieki-pieniadzom-z-SAFE-9132761.html",
+      "title": "System antydronowy SAN ma być gotowy za 18 miesięcy. Budowa przyspieszy dzięki pieniądzom z SAFE Po podpisaniu umowy z Komisją Europejską dotyczącej programu SAFE trwają negocjacje konkretnych kontraktów dla przemysłu zbrojeniowego. Zakończenie tego procesu ma doprowadzić do przyspieszenia zapowiadanych inwestycji...",
+      "content_html": "",
+      "date_published": "2026-05-16T10:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Inflacja-wrzuca-wyzszy-bieg-PKB-hamuje-a-surowce-przyprawiaja-o-bol-glowy-Inwestor-Wojtek-analizuje-wykresy-tygodnia-9133723.html",
       "url": "https://www.bankier.pl/wiadomosc/Inflacja-wrzuca-wyzszy-bieg-PKB-hamuje-a-surowce-przyprawiaja-o-bol-glowy-Inwestor-Wojtek-analizuje-wykresy-tygodnia-9133723.html",
       "title": "WYKRESY TYGODNIA Inflacja wrzuca wyższy bieg, PKB hamuje, a surowce przyprawiają o ból głowy. Inwestor Wojtek analizuje wykresy tygodnia Cześć, tu Inwestor Wojtek. Kolejny piątek, kolejna kawa i kolejne wykresy, które udowadniają jedno – nuda na rynkach nam nie grozi. Jeśli myśleliście, że wiosna 2026 roku przyniesie nam upragnioną stabilizację, to rynek właśnie powiedział: „potrzymaj mi wykres”.",
@@ -450,34 +464,6 @@
       "title": "Zmiany przepisów nie zatrzymają PZU. Gigant utrzyma finanse na dywidendy PZU spodziewa się, że mimo zmian regulacyjnych w zakresie wymogów kapitałowych utrzyma w 2027 roku współczynnik wypłacalności grupy na poziomie ponad 200 proc., co umożliwi zarówno realizację polityki dywidendowej, jak i ewentualnych akwizycji - poinformował na konferencji Maciej Fedyna, członek zarządu PZU.",
       "content_html": "",
       "date_published": "2026-05-14T11:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-ocenia-sprzedaz-w-V-jako-satysfakcjonujaca-mimo-podwyzek-cen-i-mniejszych-rabatow-9132937.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-ocenia-sprzedaz-w-V-jako-satysfakcjonujaca-mimo-podwyzek-cen-i-mniejszych-rabatow-9132937.html",
-      "title": "Dom Development ocenia sprzedaż w maju jako satysfakcjonującą Dom Development podnosi ceny i zmniejsza rabatowanie w związku ze spodziewaną presją kosztową, ale mimo to sprzedaż w maju ocenia jako satysfakcjonującą - poinformował zarząd. Potencjał przekazań w 2026 r. grupa szacuje na ok. 5 tys. lokali i rozważa wejście z ofertą na rynek poznański.",
-      "content_html": "",
-      "date_published": "2026-05-14T11:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-nie-widzi-presji-na-jakosc-aktywow-i-liczy-ze-koszty-ryzyka-nie-wzrosna-9132914.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-nie-widzi-presji-na-jakosc-aktywow-i-liczy-ze-koszty-ryzyka-nie-wzrosna-9132914.html",
-      "title": "PKO BP nie widzi presji na jakość aktywów i liczy że koszty ryzyka nie wzrosną PKO BP pomimo zawirowań geopolitycznych nie widzi presji na jakość aktywów i liczy że koszty ryzyka nie wzrosną - poinformowali w czwartek przedstawiciele banku.",
-      "content_html": "",
-      "date_published": "2026-05-14T10:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-liczy-ze-dzieki-wspolpracy-z-Allegro-w-26-pozyska-250-300-tys-nowych-klientow-9132886.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-liczy-ze-dzieki-wspolpracy-z-Allegro-w-26-pozyska-250-300-tys-nowych-klientow-9132886.html",
-      "title": "Miliardowe zakupy i proste konta. PKO BP i Allegro szykują wielką ofensywę PKO BP liczy, że dzięki współpracy z Allegro jeszcze w 2026 roku pozyska 250-300 tys. nowych klientów - poinformował prezes banku Szymon Midera.",
-      "content_html": "",
-      "date_published": "2026-05-14T10:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-w-26-utrzymac-wynik-odsetkowy-na-poziomie-zblizonym-do-25-9132884.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-w-26-utrzymac-wynik-odsetkowy-na-poziomie-zblizonym-do-25-9132884.html",
-      "title": "PKO BP walczy o miliardy z odsetek. Bank chce powtórzyć rekordowy wynik mimo spadku stóp PKO BP chce w 2026 roku utrzymać wynik odsetkowy na poziomie zbliżonym do 2025 roku - poinformował wiceprezes banku Krzysztof Dresler.",
-      "content_html": "",
-      "date_published": "2026-05-14T10:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
