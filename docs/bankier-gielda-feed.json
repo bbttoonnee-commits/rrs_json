@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zwrot-na-rynkach-58-miliardow-dolarow-wpompowane-w-jeden-miesiac-9131359.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwrot-na-rynkach-58-miliardow-dolarow-wpompowane-w-jeden-miesiac-9131359.html",
+      "title": "IIF Zwrot na rynkach. 58 miliardów dolarów wpompowane w jeden miesiąc Napływy portfelowe na rynki wschodzące (EM) wzrosły w kwietniu do 58,3 mld USD, odwracając marcowy odpływ na poziomie 66,2 mld USD – wynika z najnowszego raportu Institute of International Finance.",
+      "content_html": "",
+      "date_published": "2026-05-17T10:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kraksa-czy-rajd-po-nowe-rekordy-Legendy-spieraja-sie-o-przyszlosc-rynkow-9134177.html",
       "url": "https://www.bankier.pl/wiadomosc/Kraksa-czy-rajd-po-nowe-rekordy-Legendy-spieraja-sie-o-przyszlosc-rynkow-9134177.html",
       "title": "Kraksa czy rajd po nowe rekordy? Legendy spierają się o przyszłość rynków Wszyscy na Wall Street patrzą na te same dane: indeksy giełdowe testują rekordowe poziomy, a wskaźniki inflacji są wyższe, niż by tego oczekiwano. Jednak giganci świata inwestycji wyciągają z tego skrajnie odmienne wnioski.",
@@ -177,34 +184,6 @@
       "title": "DM BDM podwyższył cenę docelową akcji Budimeksu do 615,2 zł Analitycy DM BDM, w raporcie z 8 maja, podwyższyli cenę docelową akcji Budimeksu do 615,2 zł z 514,1 zł poprzednio oraz obniżyli rekomendację do \"redukuj\" z \"akumuluj\".",
       "content_html": "",
       "date_published": "2026-05-15T12:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zlozylo-wniosek-o-zmiane-terminu-przekazania-projektu-propozycji-ukladowych-radzie-wierzycieli-9133753.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zlozylo-wniosek-o-zmiane-terminu-przekazania-projektu-propozycji-ukladowych-radzie-wierzycieli-9133753.html",
-      "title": "PKP Cargo złożyło wniosek o zmianę terminu przekazania projektu propozycji układowych radzie wierzycieli PKP Cargo w restrukturyzacji złożyło wniosek do Sędziego-Komisarza o zmianę terminu przekazania projektu ostatecznych propozycji układowych radzie wierzycieli, z 22 maja na 29 maja 2026 roku - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-15T11:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RockGame-zadebiutowal-na-NewConnect-9133748.html",
-      "url": "https://www.bankier.pl/wiadomosc/RockGame-zadebiutowal-na-NewConnect-9133748.html",
-      "title": "RockGame zadebiutował na NewConnect RockGame, producent i wydawca gier wideo na komputery osobiste oraz konsole, zadebiutował w piątek na rynku NewConnect. Na otwarciu kurs akcji spółki wzrósł o 15,05 proc. do 24 zł.",
-      "content_html": "",
-      "date_published": "2026-05-15T11:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-podatek-dla-sektora-gazowego-Rzad-chce-sfinansowac-tansze-paliwa-kosztem-gigantow-9133745.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-podatek-dla-sektora-gazowego-Rzad-chce-sfinansowac-tansze-paliwa-kosztem-gigantow-9133745.html",
-      "title": "Nowy podatek dla sektora gazowego. Rząd chce sfinansować tańsze paliwa kosztem gigantów Podatek od nadmiarowych zysków może dotyczyć m.in. sektora gazowego - wynika z wypowiedzi ministra energii Miłosza Motyki w PR24. Poinformował, że to, kto będzie potencjalnym płatnikiem i jaki będzie mechanizm podatku, jest dzisiaj na etapie wypracowywania, a ustawa powinna \"ujrzeć światło dzienne\" w najbliższych tygodniach.",
-      "content_html": "",
-      "date_published": "2026-05-15T11:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-podtrzymuje-zalozenia-na-ten-rok-9133728.html",
-      "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-podtrzymuje-zalozenia-na-ten-rok-9133728.html",
-      "title": "Benefit Systems podtrzymuje założenia na ten rok Benefit Systems podtrzymuje po pierwszym kwartale założenia na ten rok - poinformował Marcin Fojudzki, członek zarządu Benefit Systems.",
-      "content_html": "",
-      "date_published": "2026-05-15T10:48:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
