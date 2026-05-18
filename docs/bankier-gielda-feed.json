@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Shoper-wyplaci-0-6-zl-dywidendy-na-akcje-9135013.html",
+      "url": "https://www.bankier.pl/wiadomosc/Shoper-wyplaci-0-6-zl-dywidendy-na-akcje-9135013.html",
+      "title": "Shoper wypłaci 0,6 zł dywidendy na akcję Akcjonariusze Shopera zdecydowali, że spółka przeznaczy na dywidendę za 2025 rok kwotę 16,88 mln zł, co daje 0,6 zł na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-18T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-kwietniu-2026-oddalila-sie-od-celu-NBP-9134910.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-kwietniu-2026-oddalila-sie-od-celu-NBP-9134910.html",
+      "title": "Inflacja bazowa najwyższa od pół roku. Ale jeszcze mieści się w dopuszczalnych granicach Dane NBP sugerują, że presja cenowa z rynków paliw zaczyna „rozlewać się” na resztę gospodarki, wystawiając na szwank wizję realizacji 2,5-procentowego celu inflacyjnego.",
+      "content_html": "",
+      "date_published": "2026-05-18T14:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oplaty-do-KNF-po-nowemu-Rzad-chce-zmienic-zasady-9134936.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oplaty-do-KNF-po-nowemu-Rzad-chce-zmienic-zasady-9134936.html",
+      "title": "Opłaty do KNF po nowemu. Rząd chce zmienić zasady Rząd we wtorek zajmie się projektem ustawy, która narzuca na podmioty nadzorowane przez KNF obowiązek uiszczania z góry opłat pobieranych przy składaniu wniosków w zakresie zezwoleń, zgód oraz wpisu do rejestru – wynika z porządku obrad Rady Ministrów.",
+      "content_html": "",
+      "date_published": "2026-05-18T13:53:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Commerzbank-kontra-Unicredit-Fuzja-bankowych-gigantow-pod-znakiem-zapytania-9134878.html",
+      "url": "https://www.bankier.pl/wiadomosc/Commerzbank-kontra-Unicredit-Fuzja-bankowych-gigantow-pod-znakiem-zapytania-9134878.html",
+      "title": "Commerzbank kontra Unicredit. Fuzja bankowych gigantów pod znakiem zapytania Zarząd i rada nadzorcza Commerzbanku zarekomendowały akcjonariuszom odrzucenie dobrowolnej publicznej oferty przejęcia złożonej przez UniCredit, stwierdzając, że oferta nie przewidywała odpowiedniej premii i nie odzwierciedlała fundamentalnej wartości banku – podał bank w poniedziałek w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-18T13:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ponad-161-mln-zl-najkorzystniejsza-w-przetargu-GDDKiA-9134872.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ponad-161-mln-zl-najkorzystniejsza-w-przetargu-GDDKiA-9134872.html",
+      "title": "Oferta Budimeksu za ponad 161 mln zł najkorzystniejsza w przetargu GDDKiA na obwodnicę Pisza Oferta Budimeksu na projekt i budowę obwodnicy Pisza za ponad 161 mln zł została wybrana najkorzystniejszą w przetargu GDDKiA - podał Generalna Dyrekcja Dróg Krajowych i Autostrad we wpisie na platformie X.",
+      "content_html": "",
+      "date_published": "2026-05-18T12:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-wycene-akcji-MCI-Capital-do-39-9-zl-rekomenduje-kupuj-9134836.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-wycene-akcji-MCI-Capital-do-39-9-zl-rekomenduje-kupuj-9134836.html",
+      "title": "Noble Securities obniżył wycenę akcji MCI Capital. Rekomenduje \"kupuj\" Analitycy Noble Securities, w raporcie z 6 maja, obniżyli wycenę akcji spółki MCI Capital w horyzoncie 12-miesięcznym do 39,9 zł z 43,2 zł poprzednio i podtrzymali rekomendację \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-05-18T11:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-ma-umowy-z-Enea-Operator-na-uslugi-Interwencyjnej-Regulacji-Mocy-Biernej-9134824.html",
       "url": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-ma-umowy-z-Enea-Operator-na-uslugi-Interwencyjnej-Regulacji-Mocy-Biernej-9134824.html",
       "title": "PGE Energia Odnawialna ma umowy z Eneą Operator na usługi Interwencyjnej Regulacji Mocy Biernej PGE Energia Odnawialna podpisała dwie umowy z Eneą Operator na świadczenie usługi Interwencyjnej Regulacji Mocy Biernej - poinformowało PGE w komunikacie. Umowy obejmują farmy wiatrowe Rybice oraz Resko II.",
