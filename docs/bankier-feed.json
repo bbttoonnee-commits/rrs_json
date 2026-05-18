@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-spolki-Genomtec-rozpoczyna-sprzedaz-w-ABB-do-2-mln-akcji-9135285.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-spolki-Genomtec-rozpoczyna-sprzedaz-w-ABB-do-2-mln-akcji-9135285.html",
+      "title": "Akcjonariusz spółki Genomtec rozpoczyna sprzedaż w ABB do 2 mln akcji",
+      "content_html": "5HT Fundacja Rodzinna, akcjonariusz firmy Genomtec, rozpoczyna w trybie ABB ofertę publiczną, której przedmiotem jest do 2 mln posiadanych akcji spółki - podał Genomtec w komunikacie.",
+      "date_published": "2026-05-18T23:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Molecure-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9135280.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Molecure-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9135280.html",
+      "title": "Wyniki Molecure w I kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Molecure w pierwszym kwartale 2026 roku i ich odniesienie do konsensusu.",
+      "date_published": "2026-05-18T23:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nasdaq-spada-drugi-dzien-z-rzedu-Rentownosci-obligacji-atakuja-multidekadowe-szczyty-9135277.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nasdaq-spada-drugi-dzien-z-rzedu-Rentownosci-obligacji-atakuja-multidekadowe-szczyty-9135277.html",
+      "title": "Nasdaq spada drugi dzień z rzędu. Rentowności obligacji atakują multidekadowe szczyty",
+      "content_html": "Droga ropa naftowa, nasilająca się presja inflacyjna oraz celujące w 20-letnei szczyty rentowości amerykańskich obligacji skarbowych w poniedziałek zaniepokoiły inwestorów na Wall Street.",
+      "date_published": "2026-05-18T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcja-sluzb-w-domu-Sakiewicza-BBN-wyslalo-oficjalne-pismo-znamy-tresc-zadania-9135251.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcja-sluzb-w-domu-Sakiewicza-BBN-wyslalo-oficjalne-pismo-znamy-tresc-zadania-9135251.html",
       "title": "Akcja służb w domu Sakiewicza. BBN wysłało oficjalne pismo, znamy treść żądania",
@@ -681,20 +702,6 @@
       "title": "Ropa najdroższa od 2 tygodni po ataku drona na elektrownię atomową w ZEA",
       "content_html": "Dalszy wzrost napięć na Bliskim Wschodzie spowodował, że ropa drożała w poniedziałek do najwyższego poziomu od początku maja. Brent przekroczył cenę 111 dol. za baryłkę, po tym, gdy Iran zaatakował dronami elektrownię atomową w Zjednoczonych...",
       "date_published": "2026-05-18T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Europejski-Order-Zaslugi-Laureatami-m-in-Walesa-Buzek-i-Merkel-9134716.html",
-      "url": "https://www.bankier.pl/wiadomosc/Europejski-Order-Zaslugi-Laureatami-m-in-Walesa-Buzek-i-Merkel-9134716.html",
-      "title": "Europejski Order Zasługi. Laureatami m.in. Wałęsa, Buzek i Merkel",
-      "content_html": "W Parlamencie Europejskim w Strasburgu odbędzie się we wtorek pierwsza w historii ceremonia wręczenia Europejskiego Orderu Zasługi za działania na rzecz integracji europejskiej. Odznaczenie odbiorą m.in. były prezydent RP Lech Wałęsa, były premier...",
-      "date_published": "2026-05-18T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-chce-zmniejszyc-zaleznosc-od-Chin-Nowe-przepisy-uderza-w-firmy-9134717.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-chce-zmniejszyc-zaleznosc-od-Chin-Nowe-przepisy-uderza-w-firmy-9134717.html",
-      "title": "UE chce zmniejszyć zależność od Chin. Nowe przepisy uderzą w firmy?",
-      "content_html": "Unia Europejska opracowuje plany, które mają zmusić unijne przedsiębiorstwa do kupowania kluczowych komponentów od co najmniej trzech różnych dostawców, co ma na celu zmniejszenie ich zależności od Chin - poinformował w poniedziałek brytyjski...",
-      "date_published": "2026-05-18T08:46:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
