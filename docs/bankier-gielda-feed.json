@@ -4,11 +4,123 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dektra-chce-wyplacic-0-3-zl-dywidendy-na-akcje-9136270.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dektra-chce-wyplacic-0-3-zl-dywidendy-na-akcje-9136270.html",
+      "title": "Dektra chce wypłacić 0,3 zł dywidendy na akcję Dektra planuje, że łączna kwota dywidendy za rok 2025 r. wyniesie 331,2 tys. zł, co stanowić będzie 0,3 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T12:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-z-zysku-za-25-wyplaci-0-20-zl-dywidendy-na-akcje-9136258.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-z-zysku-za-25-wyplaci-0-20-zl-dywidendy-na-akcje-9136258.html",
+      "title": "Tauron z zysku za '25 wypłaci 0,20 zł dywidendy na akcję Zwyczajne walne zgromadzenie Tauronu zdecydowało o przeznaczeniu na dywidendę 350,5 mln zł na wypłatę dywidendy dla akcjonariuszy spółki, co daje 0,20 zł na jedną akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T12:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-redukuj-9136242.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-redukuj-9136242.html",
+      "title": "DM BDM obniżył rekomendację Synthaverse do \"redukuj\" Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację Synthaverse do \"redukuj\" z \"kupuj\", a cenę docelową akcji spółki do 2,6 zł z 5 zł poprzednio.",
+      "content_html": "",
+      "date_published": "2026-05-20T12:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Instal-Krakow-chce-wyplacic-1-5-zl-dywidendy-na-akcje-za-2025-r-9136230.html",
+      "url": "https://www.bankier.pl/wiadomosc/Instal-Krakow-chce-wyplacic-1-5-zl-dywidendy-na-akcje-za-2025-r-9136230.html",
+      "title": "Instal Kraków chce wypłacić 1,5 zł dywidendy na akcję za 2025 r. Instal Kraków rekomenduje walnemu zgromadzeniu wypłatę 10,9 mln zł z zysku za 2025 na dywidendę, co daje 1,5 zł na akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T12:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ARP-i-Grupa-TFK-podpisaly-listy-intencyjne-ws-wykorzystania-polskiego-kablowca-przy-polskim-offshorze-9136226.html",
+      "url": "https://www.bankier.pl/wiadomosc/ARP-i-Grupa-TFK-podpisaly-listy-intencyjne-ws-wykorzystania-polskiego-kablowca-przy-polskim-offshorze-9136226.html",
+      "title": "ARP i Grupa TFK podpisały listy intencyjne ws. wykorzystania polskiego kablowca przy polskim offshorze ARP i Grupa TFK podpisały listy intencyjne dotyczące wykorzystania polskiego statku kablowca do instalacji i serwisowania polskich farm wiatrowych powstających na Morzu Bałtyckim - poinformowała ARP. Kablowiec ma być gotowy w 2029 r., gdy rozpocznie się II faza budowy polskich farm wiatrowych na Bałtyku.",
+      "content_html": "",
+      "date_published": "2026-05-20T12:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dom-Development-zdecydowal-o-wejsciu-na-rynek-poznanski-9136216.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dom-Development-zdecydowal-o-wejsciu-na-rynek-poznanski-9136216.html",
+      "title": "Dom Development zdecydował o wejściu na rynek poznański Dom Development zdecydował w sprawie utworzenia w Poznaniu nowej spółki, która będzie prowadziła działalność deweloperską na tamtym rynku w segmencie mieszkaniowym - poinformowała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-05-20T11:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Apator-oczekuje-utrzymania-trendu-wzrostu-sprzedazy-w-26-to-moze-byc-rekordowy-rok-dla-segmentu-gazu-9136213.html",
+      "url": "https://www.bankier.pl/wiadomosc/Apator-oczekuje-utrzymania-trendu-wzrostu-sprzedazy-w-26-to-moze-byc-rekordowy-rok-dla-segmentu-gazu-9136213.html",
+      "title": "Apator oczekuje utrzymania trendu wzrostu sprzedaży w '26. To może być rekordowy rok dla segmentu gazu Apator oczekuje utrzymania trendu wzrostu sprzedaży w 2026 r. i widzi szanse na rekordowy rok dla segmentu gazu. Celuje także w poprawę marży EBITDA - poinformowali przedstawiciele zarządu Apatora podczas wideokonferencji. Zarząd nie widzi obecnie przestrzeni do podwyższenia poziomu wypłat w polityce dywidendowej.",
+      "content_html": "",
+      "date_published": "2026-05-20T11:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-Unii-Europejskiej-w-kwietniu-2026-Juz-w-zadnym-kraju-eurolandu-nie-ma-2-9136184.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-Unii-Europejskiej-w-kwietniu-2026-Juz-w-zadnym-kraju-eurolandu-nie-ma-2-9136184.html",
+      "title": "Inflacja w Unii Europejskiej przekroczyła 3 proc. Już w żadnym kraju eurolandu nie ma 2 proc. Bezapelacyjnym inflacyjnym liderem Europy pozostaje Rumunia, ale dzielnie goni ją Bułgaria. Ale dobrze nie jest już w zdecydowanej większości krajów Unii.",
+      "content_html": "",
+      "date_published": "2026-05-20T11:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podatek-winfall-tax-moze-kosztowac-Orlen-6-mld-zl-a-Unimot-60-200-mln-zl-Trigon-opinia-9136180.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podatek-winfall-tax-moze-kosztowac-Orlen-6-mld-zl-a-Unimot-60-200-mln-zl-Trigon-opinia-9136180.html",
+      "title": "OPINIA Rząd szykuje potężny windfall tax. Orlen zapłaci nawet 6 miliardów złotych Przedstawiony projekt ustawy o podatku od nadzwyczajnych zysków może oznaczać dla Orlenu 6 mld zł dodatkowego podatku, a dla Unimotu może on sięgnąć 60-200 mln zł - wynika z szacunków Michała Kozaka, analityka Trigon DM.",
+      "content_html": "",
+      "date_published": "2026-05-20T10:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych-9136183.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pekao-wprowadzil-program-lojalnosciowy-dla-swoich-akcjonariuszy-indywidualnych-9136183.html",
+      "title": "Pekao wprowadził program lojalnościowy dla swoich akcjonariuszy indywidualnych Bank Pekao wprowadził program o charakterze lojalnościowym dla swoich akcjonariuszy indywidualnych - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T10:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-nie-ufaja-wladzy-Rynek-dlugu-zada-coraz-wyzszej-rentownosci-obligacji-9135641.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-nie-ufaja-wladzy-Rynek-dlugu-zada-coraz-wyzszej-rentownosci-obligacji-9135641.html",
+      "title": "Inwestorzy nie ufają władzy. Rynek długu żąda coraz wyższej rentowności obligacji Rentowności długoterminowych obligacji Stanów Zjednoczonych, Niemiec czy Japonii osiągnęły najwyższe poziomu od kilkudziesięciu lat.",
+      "content_html": "",
+      "date_published": "2026-05-20T10:49:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/RN-Polimeksu-Mostostal-odwolala-z-zarzadu-Miroslawa-Soltysiaka-9136167.html",
+      "url": "https://www.bankier.pl/wiadomosc/RN-Polimeksu-Mostostal-odwolala-z-zarzadu-Miroslawa-Soltysiaka-9136167.html",
+      "title": "RN Polimeksu Mostostal odwołała z zarządu Mirosława Sołtysiaka Rada nadzorcza Polimeksu Mostostal odwołała ze składu zarządu Mirosława Sołtysiaka - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T10:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EFL-przeprowadzil-emisje-obligacji-o-wartosci-250-mln-zl-9136154.html",
+      "url": "https://www.bankier.pl/wiadomosc/EFL-przeprowadzil-emisje-obligacji-o-wartosci-250-mln-zl-9136154.html",
+      "title": "EFL przeprowadził emisję obligacji o wartości 250 mln zł Europejski Fundusz Leasingowy przeprowadził emisję obligacji o wartości 250 mln zł skierowaną do polskich inwestorów instytucjonalnych - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T10:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pasywnie-czy-aktywnie-Rozne-mozliwosci-inwestycyjne-9136091.html",
+      "title": "Pasywna rewolucja ma drugie dno. Jak nieświadomie stać się spekulantem? Współczesny inwestor indywidualny stając przed dylematem w co zainwestować swoje środki ma do wyboru wachlarz możliwości. To cel determinuje strategię (nie na odwrót), a w ramach wybranej strategii można skorzystać z wielu narzędzi, które oferuje rynek finansowy. Cel, jak np. zebranie kapitału na emeryturę albo sfinansowanie studiów dorastających dzieci, może zostać wypracowany za pomocą diametralnie różnych instrumentów, a ich wybór jest procesem, w którym uwzględnić należy horyzont inwestycyjny, proporcje potencjalnego zysku do podejmowanego ryzyka oraz koszty.",
+      "content_html": "",
+      "date_published": "2026-05-20T09:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-umowe-o-wartosci-ok-250-mln-zl-na-przewoz-produktow-niebezpiecznych-9136135.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-umowe-o-wartosci-ok-250-mln-zl-na-przewoz-produktow-niebezpiecznych-9136135.html",
+      "title": "Trans Polonia ma umowę o wartości ok. 250 mln zł na przewóz produktów niebezpiecznych Trans Polonia podpisała z Orlen Paliwa umowę o wartości ok. 250 mln zł na przewóz produktów niebezpiecznych - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-20T09:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-pozytywnie-ocenia-europejski-plan-dla-branzy-nawozowej-prezes-9136119.html",
-      "title": "Grupa Azoty pozytywnie ocenia europejski plan dla branży nawozowej - prezes Przyjęty przez Komisję Europejską plan działań dla branży nawozowej spełnia wiele jej postulatów, szczególnie istotne jest dostrzeżenie problemu rosnącej luki konkurencyjnej pomiędzy Europą a innymi regionami świata - ocenił prezes Grupy Azoty Marcin Celejewski. Jak dodał, o skuteczności Fertiliser Action Plan zdecydują konkretne rozwiązania legislacyjne i finansowe.",
+      "title": "Grupa Azoty chwali unijny plan dla branży nawozowej. \"Ważny i długo oczekiwany sygnał\" Przyjęty przez Komisję Europejską plan działań dla branży nawozowej spełnia wiele jej postulatów, szczególnie istotne jest dostrzeżenie problemu rosnącej luki konkurencyjnej pomiędzy Europą a innymi regionami świata - ocenił prezes Grupy Azoty Marcin Celejewski. Jak dodał, o skuteczności Fertiliser Action Plan zdecydują konkretne rozwiązania legislacyjne i finansowe.",
       "content_html": "",
-      "date_published": "2026-05-20T09:28:00+02:00"
+      "date_published": "2026-05-20T09:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-9136099.html",
+      "url": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-9136099.html",
+      "title": "ML System szacuje skons. zysk EBITDA w I kw. na 0,4 mln zł ML System szacuje skonsolidowany zysk EBITDA w pierwszym kwartale 2026 roku na 0,4 mln zł, a skonsolidowaną stratę netto na 6 mln zł - podała spółka w komunikacie. W analogicznym okresie poprzedniego roku spółka odnotowała skonsolidowaną stratę EBITDA na poziomie 8 mln zł i stratę netto w wysokości 17,4 mln zł.",
+      "content_html": "",
+      "date_published": "2026-05-20T09:41:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Mirbudu-o-wartosci-683-5-mln-zl-na-rozbudowe-obwodnicy-Kalisza-najkorzystniejsza-9136118.html",
@@ -16,20 +128,6 @@
       "title": "Oferta Mirbudu o wartości 683,5 mln zł na rozbudowę obwodnicy Kalisza najkorzystniejsza Oferta Mirbudu o wartości 683,5 mln zł brutto na zaprojektowanie i rozbudowę obwodnicy Kalisza została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-20T09:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-opis-9136115.html",
-      "url": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-opis-9136115.html",
-      "title": "ML System szacuje skons. zysk EBITDA w I kw. na 0,4 mln zł (opis) ML System szacuje skonsolidowany zysk EBITDA w pierwszym kwartale 2026 roku na 0,4 mln zł, a skonsolidowaną stratę netto na 6 mln zł - podała spółka w komunikacie. W analogicznym okresie poprzedniego roku spółka odnotowała skonsolidowaną stratę EBITDA na poziomie 8 mln zł i stratę netto w wysokości 17,4 mln zł.",
-      "content_html": "",
-      "date_published": "2026-05-20T09:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-9136099.html",
-      "url": "https://www.bankier.pl/wiadomosc/ML-System-szacuje-skons-zysk-EBITDA-w-I-kw-na-0-4-mln-zl-9136099.html",
-      "title": "ML System szacuje skons. zysk EBITDA w I kw. na 0,4 mln zł ML System szacuje skonsolidowany zysk EBITDA w pierwszym kwartale 2026 roku na 0,4 mln zł, a skonsolidowaną stratę netto na 6 mln zł - podała spółka w komunikacie. W analogicznym okresie poprzedniego roku spółka odnotowała skonsolidowaną stratę EBITDA na poziomie 8 mln zł i stratę netto w wysokości 17,4 mln zł.",
-      "content_html": "",
-      "date_published": "2026-05-20T09:10:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Bogdanka-miala-w-I-kw-2026-roku-22-1-mln-zl-skons-straty-netto-zgodnie-z-szacunkami-9136043.html",
@@ -135,6 +233,20 @@
       "title": "Ranking „ostatniej szansy”. Które spółki z GPW rozdzielą zysk przed urlopem? Od 20 maja do 25 czerwca, kiedy rozpoczynają się wakacje, jest realna szansa załapać się na 54. dywidendy od spółek notowanych na warszawskim parkiecie głównym i NewConnect. Harmonogram podziału zysków z krajowej giełdy w tegorocznym sezonie przedurlopowym jest wyjątkowo napięty i ciągle się zmienia, ale na liście płatników już znajdziemy zarówno solidne banki, dużych deweloperów, jak i reprezentantów sektora przemysłowego wracających do wypłaty.",
       "content_html": "",
       "date_published": "2026-05-20T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/S-P500-trzeci-dzien-w-dol-Rentownosci-obligacji-niepokoja-inwestorow-9135938.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-trzeci-dzien-w-dol-Rentownosci-obligacji-niepokoja-inwestorow-9135938.html",
+      "title": "S&P500 trzeci dzień w dół. Rentowności obligacji niepokoją inwestorów Najwyższe od 2007 roku rentowności 30-letnich obligacji rządu USA podkopały wiarę w bardziej niż obfite wyceny akcji na Wall Street.",
+      "content_html": "",
+      "date_published": "2026-05-19T22:13:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-cene-docelowa-dla-akcji-Action-do-46-6-zl-9135898.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-cene-docelowa-dla-akcji-Action-do-46-6-zl-9135898.html",
+      "title": "DM BOŚ podwyższył cenę docelową dla akcji Action do 46,6 zł Analitycy DM BOŚ, w raporcie z 19 maja, podwyższyli cenę docelową akcji spółki Action w horyzoncie 12-miesięcznym do 46,6 zł, nadal rekomendują \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-05-19T19:40:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-USA-wstrzymal-atak-na-Iran-Bylismy-o-godzine-od-decyzji-9135772.html",
@@ -555,90 +667,6 @@
       "title": "MEDIA USA zaoferowały tymczasowe zwolnienie Republiki Islamskiej z sankcji naftowych USA zaproponowały tymczasowe zniesienie sankcji na ropę z Republiki Islamskiej, co jest kluczowym żądaniem Teheranu, aby osiągnąć porozumienie pokojowe i ponownie otworzyć cieśninę Ormuz – podała półoficjalna irańska agencja informacyjna Tasnim.",
       "content_html": "",
       "date_published": "2026-05-18T16:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Vercom-wyplaci-2-73-zl-dywidendy-na-akcje-9135093.html",
-      "url": "https://www.bankier.pl/wiadomosc/Vercom-wyplaci-2-73-zl-dywidendy-na-akcje-9135093.html",
-      "title": "Vercom wypłaci 2,73 zł dywidendy na akcję Akcjonariusze Vercomu zdecydowali, że spółka wypłaci 60,09 mln zł dywidendy, czyli 2,73 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-18T16:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/cyber-folks-wyplaci-2-5-zl-dywidendy-na-akcje-z-zysku-za-2025-rok-9135086.html",
-      "url": "https://www.bankier.pl/wiadomosc/cyber-folks-wyplaci-2-5-zl-dywidendy-na-akcje-z-zysku-za-2025-rok-9135086.html",
-      "title": "cyber_folks wypłaci 2,5 zł dywidendy na akcję z zysku za 2025 rok Akcjonariusze cyber_folks zdecydowali, że spółka przeznaczy 38,16 mln zł z zysku netto za 2025 r. na wypłatę dywidendy, co daje 2,5 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-18T16:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dr-Miele-Cosmed-Group-chce-wyplacic-0-08-zl-dywidendy-na-akcje-za-25-9135064.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dr-Miele-Cosmed-Group-chce-wyplacic-0-08-zl-dywidendy-na-akcje-za-25-9135064.html",
-      "title": "Dr. Miele Cosmed Group chce wypłacić 0,08 zł dywidendy na akcję za '25 Zarząd spółki Dr. Miele Cosmed Group rekomenduje przeznaczenie z zysku netto wypracowanego w 2025 r. na wypłatę dywidendy blisko 7 mln zł, co daje 0,08 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-18T15:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Shoper-wyplaci-0-6-zl-dywidendy-na-akcje-9135013.html",
-      "url": "https://www.bankier.pl/wiadomosc/Shoper-wyplaci-0-6-zl-dywidendy-na-akcje-9135013.html",
-      "title": "Shoper wypłaci 0,6 zł dywidendy na akcję Akcjonariusze Shopera zdecydowali, że spółka przeznaczy na dywidendę za 2025 rok kwotę 16,88 mln zł, co daje 0,6 zł na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-18T15:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-kwietniu-2026-oddalila-sie-od-celu-NBP-9134910.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-kwietniu-2026-oddalila-sie-od-celu-NBP-9134910.html",
-      "title": "Inflacja bazowa najwyższa od pół roku. Ale jeszcze mieści się w dopuszczalnych granicach Dane NBP sugerują, że presja cenowa z rynków paliw zaczyna „rozlewać się” na resztę gospodarki, wystawiając na szwank wizję realizacji 2,5-procentowego celu inflacyjnego.",
-      "content_html": "",
-      "date_published": "2026-05-18T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oplaty-do-KNF-po-nowemu-Rzad-chce-zmienic-zasady-9134936.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oplaty-do-KNF-po-nowemu-Rzad-chce-zmienic-zasady-9134936.html",
-      "title": "Opłaty do KNF po nowemu. Rząd chce zmienić zasady Rząd we wtorek zajmie się projektem ustawy, która narzuca na podmioty nadzorowane przez KNF obowiązek uiszczania z góry opłat pobieranych przy składaniu wniosków w zakresie zezwoleń, zgód oraz wpisu do rejestru – wynika z porządku obrad Rady Ministrów.",
-      "content_html": "",
-      "date_published": "2026-05-18T13:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Commerzbank-kontra-Unicredit-Fuzja-bankowych-gigantow-pod-znakiem-zapytania-9134878.html",
-      "url": "https://www.bankier.pl/wiadomosc/Commerzbank-kontra-Unicredit-Fuzja-bankowych-gigantow-pod-znakiem-zapytania-9134878.html",
-      "title": "Commerzbank kontra Unicredit. Fuzja bankowych gigantów pod znakiem zapytania Zarząd i rada nadzorcza Commerzbanku zarekomendowały akcjonariuszom odrzucenie dobrowolnej publicznej oferty przejęcia złożonej przez UniCredit, stwierdzając, że oferta nie przewidywała odpowiedniej premii i nie odzwierciedlała fundamentalnej wartości banku – podał bank w poniedziałek w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-18T13:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ponad-161-mln-zl-najkorzystniejsza-w-przetargu-GDDKiA-9134872.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-za-ponad-161-mln-zl-najkorzystniejsza-w-przetargu-GDDKiA-9134872.html",
-      "title": "Oferta Budimeksu za ponad 161 mln zł najkorzystniejsza w przetargu GDDKiA na obwodnicę Pisza Oferta Budimeksu na projekt i budowę obwodnicy Pisza za ponad 161 mln zł została wybrana najkorzystniejszą w przetargu GDDKiA - podał Generalna Dyrekcja Dróg Krajowych i Autostrad we wpisie na platformie X.",
-      "content_html": "",
-      "date_published": "2026-05-18T12:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-wycene-akcji-MCI-Capital-do-39-9-zl-rekomenduje-kupuj-9134836.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-wycene-akcji-MCI-Capital-do-39-9-zl-rekomenduje-kupuj-9134836.html",
-      "title": "Noble Securities obniżył wycenę akcji MCI Capital. Rekomenduje \"kupuj\" Analitycy Noble Securities, w raporcie z 6 maja, obniżyli wycenę akcji spółki MCI Capital w horyzoncie 12-miesięcznym do 39,9 zł z 43,2 zł poprzednio i podtrzymali rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-05-18T11:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-ma-umowy-z-Enea-Operator-na-uslugi-Interwencyjnej-Regulacji-Mocy-Biernej-9134824.html",
-      "url": "https://www.bankier.pl/wiadomosc/PGE-Energia-Odnawialna-ma-umowy-z-Enea-Operator-na-uslugi-Interwencyjnej-Regulacji-Mocy-Biernej-9134824.html",
-      "title": "PGE Energia Odnawialna ma umowy z Eneą Operator na usługi Interwencyjnej Regulacji Mocy Biernej PGE Energia Odnawialna podpisała dwie umowy z Eneą Operator na świadczenie usługi Interwencyjnej Regulacji Mocy Biernej - poinformowało PGE w komunikacie. Umowy obejmują farmy wiatrowe Rybice oraz Resko II.",
-      "content_html": "",
-      "date_published": "2026-05-18T11:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Newag-chce-wyplacic-3-zl-dywidendy-na-akcje-za-25-9134803.html",
-      "url": "https://www.bankier.pl/wiadomosc/Newag-chce-wyplacic-3-zl-dywidendy-na-akcje-za-25-9134803.html",
-      "title": "Newag chce wypłacić 3 zł dywidendy na akcję za '25 Zarząd Newagu rekomenduje walnemu zgromadzeniu wypłatę 135 mln zł dywidendy z zysku netto za 2025 rok, co da 3 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-18T10:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gamivo-zaprasza-do-skladania-ofert-sprzedazy-do-127-629-akcji-spolki-w-proponowanej-cenie-35-zl-szt-9134799.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gamivo-zaprasza-do-skladania-ofert-sprzedazy-do-127-629-akcji-spolki-w-proponowanej-cenie-35-zl-szt-9134799.html",
-      "title": "Gamivo zaprasza do składania ofert sprzedaży do 127.629 akcji spółki w proponowanej cenie 35 zł/szt. Gamivo podjęło decyzję o rozpoczęciu skupu akcji własnych poprzez zaproszenie do składania ofert sprzedaży do 127.629 akcji serii A, B i C w proponowanej cenie 35 zł za papier - podała spółka w komunikacie. Akcje stanowią ok. 7,3 proc. ogólnej liczby głosów na walnym.",
-      "content_html": "",
-      "date_published": "2026-05-18T10:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
