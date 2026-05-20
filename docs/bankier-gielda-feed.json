@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-imponujace-pytanie-czy-pozwola-wciaz-mowic-o-wieloletnim-supercyklu-AI-opinia-9136736.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Nvidii-imponujace-pytanie-czy-pozwola-wciaz-mowic-o-wieloletnim-supercyklu-AI-opinia-9136736.html",
+      "title": "Wyniki Nvidii imponujące, pytanie czy pozwolą wciąż mówić o wieloletnim supercyklu AI (opinia) Wyniki Nvidii w pierwszym kwartale roku fiskalnego 2027 okazały się \"imponujące\" i lepsze od oczekiwań rynku - ocenia Mikołaj Sobierajski, analityk rynku akcji XTB. Jego zdaniem, pytanie tylko, czy będą one wystarczająco dobre, by dalej podtrzymywać narrację o wieloletnim supercyklu AI.",
+      "content_html": "",
+      "date_published": "2026-05-20T23:38:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-11-bit-studios-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136729.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-11-bit-studios-w-I-kw-2026-roku-vs-konsensus-PAP-tabela-9136729.html",
       "title": "Wyniki 11 bit studios w I kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki 11 bit studios w pierwszym kwartale 2026 roku oraz ich odniesienie do konsensusu PAP i wyników poprzednich okresów.",
@@ -660,13 +667,6 @@
       "title": "Caspar Asset Management chce wypłacić 0,13 zł brutto dywidendy na akcję Zarząd Caspar Asset Management rekomenduje wypłatę dywidendy w łącznej wysokości 1,28 mln zł, czyli 0,13 zł brutto na akcję - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-19T14:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Plot-Twist-w-26-roku-skupia-sie-na-wewnetrznych-parametrach-mierzacych-postep-produkcyjny-wywiad-9135579.html",
-      "url": "https://www.bankier.pl/wiadomosc/Plot-Twist-w-26-roku-skupia-sie-na-wewnetrznych-parametrach-mierzacych-postep-produkcyjny-wywiad-9135579.html",
-      "title": "Plot Twist w '26 roku skupia się na wewnętrznych parametrach mierzących postęp produkcyjny Celem Plot Twist na 2026 rok jest koncentracja na parametrach, które oddają realny obraz postępów produkcyjnych i komercyjnych - poinformował PAP Biznes prezes dewelopera gier, Tomasz Gawlikowski. Spółka kontynuuje prace na grą \"Erosion\" i bada zainteresowanie graczy tytułem przy pomocy materiałów marketingowych.",
-      "content_html": "",
-      "date_published": "2026-05-19T13:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
