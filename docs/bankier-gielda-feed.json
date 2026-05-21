@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Niewiadow-PGM-sprzedal-w-ABB-12-06-mln-akcji-po-13-zl-za-sztuke-9137557.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Niewiadow-PGM-sprzedal-w-ABB-12-06-mln-akcji-po-13-zl-za-sztuke-9137557.html",
+      "title": "Akcjonariusz Niewiadów PGM sprzedał w ABB 12,06 mln akcji, po 13 zł za sztukę Soma25 Fundacja Rodzinna, akcjonariusz spółki Niewiadów Polska Grupa Militarna, w wyniku zakończonego procesu przyspieszonej budowy księgi popytu sprzedała 12.064.349 akcji, po cenie 13 zł za sztukę - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-21T22:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-dodal-Orlen-i-CD-Projekt-do-listy-dlugich-pozycji-9137502.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-dodal-Orlen-i-CD-Projekt-do-listy-dlugich-pozycji-9137502.html",
       "title": "DM BOŚ dodał Orlen i CD Projekt do listy długich pozycji Analitycy DM BOŚ, w raporcie miesięcznym z 13 maja, dodali na listę długich pozycji na nadchodzący miesiąc Orlen i CD Projekt, a wycofali z niej akcje PGE, Enei i Creepy Jar.",
@@ -660,13 +667,6 @@
       "title": "Tauron z zysku za '25 wypłaci 0,20 zł dywidendy na akcję Zwyczajne walne zgromadzenie Tauronu zdecydowało o przeznaczeniu na dywidendę 350,5 mln zł na wypłatę dywidendy dla akcjonariuszy spółki, co daje 0,20 zł na jedną akcję - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-20T12:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-redukuj-9136242.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BDM-obnizyl-rekomendacje-Synthaverse-do-redukuj-9136242.html",
-      "title": "DM BDM obniżył rekomendację Synthaverse do \"redukuj\" Analitycy DM BDM, w raporcie z 20 maja, obniżyli rekomendację Synthaverse do \"redukuj\" z \"kupuj\", a cenę docelową akcji spółki do 2,6 zł z 5 zł poprzednio.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:16:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

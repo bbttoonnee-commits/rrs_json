@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Niewiadow-PGM-sprzedal-w-ABB-12-06-mln-akcji-po-13-zl-za-sztuke-9137557.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Niewiadow-PGM-sprzedal-w-ABB-12-06-mln-akcji-po-13-zl-za-sztuke-9137557.html",
+      "title": "Akcjonariusz Niewiadów PGM sprzedał w ABB 12,06 mln akcji, po 13 zł za sztukę",
+      "content_html": "Soma25 Fundacja Rodzinna, akcjonariusz spółki Niewiadów Polska Grupa Militarna, w wyniku zakończonego procesu przyspieszonej budowy księgi popytu sprzedała 12.064.349 akcji, po cenie 13 zł za sztukę - poinformowała spółka w komunikacie.",
+      "date_published": "2026-05-21T23:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zalewski-Sily-USA-w-Polsce-nie-zostana-zmniejszone-Rozmawiamy-o-stalej-obecnosci-9137505.html",
       "url": "https://www.bankier.pl/wiadomosc/Zalewski-Sily-USA-w-Polsce-nie-zostana-zmniejszone-Rozmawiamy-o-stalej-obecnosci-9137505.html",
       "title": "Zalewski: Siły USA w Polsce nie zostaną zmniejszone. Rozmawiamy o stałej obecności",
@@ -695,13 +702,6 @@
       "title": "Polski przemysł schodzi na ziemię. Efekt bazy uderzył w kwietniową produkcję",
       "content_html": "Po spektakularnym marcowym wystrzale polski sektor wytwórczy zaliczył wyraźne hamowanie. Najnowsze dane Głównego Urzędu Statystycznego pokazują, że produkcja przemysłowa utrzymała się na plusie w ujęciu rocznym, ale w porównaniu do poprzedniego...",
       "date_published": "2026-05-21T10:33:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-JP-Morgan-Gigant-z-Wall-Street-stawia-na-AI-Bedziemy-zatrudniac-mniej-bankierow-9136845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-JP-Morgan-Gigant-z-Wall-Street-stawia-na-AI-Bedziemy-zatrudniac-mniej-bankierow-9136845.html",
-      "title": "AI do finansów, bankierzy na bruk. Przełomowe słowa szefa JP Morgan",
-      "content_html": "\"Będziemy zatrudniać więcej specjalistów od sztucznej inteligencji niż bankierów\" takie rewolucyjne dla branży słowa wypowiedział dyrektor generalny JP Morgan Jamie Dimon w wywiadzie dla \"Bloomberga\". Co za tym idzie, zmniejszy się znacznie...",
-      "date_published": "2026-05-21T10:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
