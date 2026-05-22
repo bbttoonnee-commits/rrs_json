@@ -4,9 +4,51 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-uzyskal-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-z-Panelem-UNI-FAST-9137666.html",
+      "url": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-uzyskal-certyfikat-CE-IVDR-dla-systemu-BACTEROMIC-z-Panelem-UNI-FAST-9137666.html",
+      "title": "Scope Fluidics uzyskał certyfikat CE-IVDR dla systemu BACTEROMIC z Panelem UNI FAST Scope Fluidics uzyskał certyfikat CE-IVDR dla systemu BACTEROMIC z Panelem UNI FAST - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-22T08:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wplyw-windfall-tax-na-Orlen-moze-wyniesc-ok-6-mld-zl-Balczun-MAP-9137665.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wplyw-windfall-tax-na-Orlen-moze-wyniesc-ok-6-mld-zl-Balczun-MAP-9137665.html",
+      "title": "Windfall tax uderzy w Orlen. Balczun: Wpływ może wynieść ok. 6 mld zł Wpływ podatku windfall tax na Orlen może wynosić ok. 6 mld zł - ocenił minister aktywów państwowych Wojciech Balczun w Radiu Zet.",
+      "content_html": "",
+      "date_published": "2026-05-22T08:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Advent-FedEx-A-R-PPF-oglosili-oferte-przejecia-wszystkich-akcji-InPostu-po-cenie-15-60-euro-szt-9137628.html",
+      "url": "https://www.bankier.pl/wiadomosc/Advent-FedEx-A-R-PPF-oglosili-oferte-przejecia-wszystkich-akcji-InPostu-po-cenie-15-60-euro-szt-9137628.html",
+      "title": "15,60 euro za każdą akcję InPostu. Potężne konsorcjum odkrywa karty Advent, FedEx, A&R, PPF ogłosili ofertę przejęcia wszystkich akcji InPostu po cenie 15,60 euro za sztukę - poinformował InPost w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-05-22T07:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Agora-spodziewa-sie-dynamiki-wydatkow-na-reklame-w-Polsce-w-26-na-poziomie-ok-5-5-7-proc-9137621.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agora-spodziewa-sie-dynamiki-wydatkow-na-reklame-w-Polsce-w-26-na-poziomie-ok-5-5-7-proc-9137621.html",
+      "title": "Agora spodziewa się dynamiki wydatków na reklamę w Polsce w '26 na poziomie ok. 5,5-7 proc. Agora podtrzymała prognozę dynamiki wydatków na reklamę w Polsce w całym 2026 r. i spodziewa się, że będzie ona na poziomie około 5,5-7 proc. - poinformowała Agora w raporcie.",
+      "content_html": "",
+      "date_published": "2026-05-22T06:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Agora-miala-w-I-kw-9-5-mln-zl-straty-netto-j-d-i-53-7-mln-zl-zysku-EBITDA-9137617.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agora-miala-w-I-kw-9-5-mln-zl-straty-netto-j-d-i-53-7-mln-zl-zysku-EBITDA-9137617.html",
+      "title": "Agora znów pod kreską. 9,5 mln zł straty netto w I kw. Grupa Agora miała w I kw. 2026 roku 9,5 mln zł straty netto j.d., w porównaniu do 9,2 mln zl straty rok wcześniej - podała spółka w raporcie kwartalnym. Ztysk EBITDA wyniósł 53,7 mln zł, wobec 53 mln zł w pierwszym kwartale 2025 r.",
+      "content_html": "",
+      "date_published": "2026-05-22T06:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Indeks-Dow-Jones-najwyzej-w-historii-9137562.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Indeks-Dow-Jones-najwyzej-w-historii-9137562.html",
+      "title": "Wall Street w górę. Indeks Dow Jones najwyżej w historii Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, a Dow Jones jest najwyżej w historii. Inwestorzy oceniają, że rosną szanse na porozumienie między USA a Iranem. W centrum uwagi były wyniki kwartalne koncernu Nvidia.",
+      "content_html": "",
+      "date_published": "2026-05-21T23:09:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Niewiadow-PGM-sprzedal-w-ABB-12-06-mln-akcji-po-13-zl-za-sztuke-9137557.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Niewiadow-PGM-sprzedal-w-ABB-12-06-mln-akcji-po-13-zl-za-sztuke-9137557.html",
-      "title": "Akcjonariusz Niewiadów PGM sprzedał w ABB 12,06 mln akcji, po 13 zł za sztukę Soma25 Fundacja Rodzinna, akcjonariusz spółki Niewiadów Polska Grupa Militarna, w wyniku zakończonego procesu przyspieszonej budowy księgi popytu sprzedała 12.064.349 akcji, po cenie 13 zł za sztukę - poinformowała spółka w komunikacie.",
+      "title": "Akcjonariusz Niewiadów PGM sprzedał w ABB 12,06 mln akcji. Po 13 zł za sztukę Soma25 Fundacja Rodzinna, akcjonariusz spółki Niewiadów Polska Grupa Militarna, w wyniku zakończonego procesu przyspieszonej budowy księgi popytu sprzedała 12.064.349 akcji, po cenie 13 zł za sztukę - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-05-21T22:44:00+02:00"
     },
@@ -625,48 +667,6 @@
       "title": "Szef MAP: Poprawiają się warunki dla Grupy Azoty. Koniec widma upadku chemicznego giganta? Szereg ostatnich działań, m.in. przyjęty przez Komisję Europejską plan dla branży nawozowej sprawia, że poprawiają się warunki dla Grupy Azoty - ocenił w rozmowie z dziennikarzami minister aktywów państwowych Wojciech Balczun. Jego zdaniem poprawił się też klimat rozmów z bankami o restrukturyzacji zadłużenia, choć są one bardzo trudne.",
       "content_html": "",
       "date_published": "2026-05-20T13:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MI-chce-wpisania-PKP-Cargo-i-PKP-Intercity-na-liste-spolek-o-istotnym-znaczeniu-dla-gospodarki-panstwa-9136298.html",
-      "url": "https://www.bankier.pl/wiadomosc/MI-chce-wpisania-PKP-Cargo-i-PKP-Intercity-na-liste-spolek-o-istotnym-znaczeniu-dla-gospodarki-panstwa-9136298.html",
-      "title": "MI chce wpisania PKP Cargo i PKP Intercity na listę spółek o istotnym znaczeniu dla gospodarki państwa Resort infrastruktury chce wpisania PKP Cargo i PKP Intercity na listę spółek o istotnym znaczeniu dla gospodarki państwa - podał resort w uwagach do rozporządzenia rozszerzającego tę listę.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Vercom-rozpoczal-prace-nad-aktualizacja-cennika-MailerLite-9136294.html",
-      "url": "https://www.bankier.pl/wiadomosc/Vercom-rozpoczal-prace-nad-aktualizacja-cennika-MailerLite-9136294.html",
-      "title": "Vercom rozpoczął prace nad aktualizacją cennika MailerLite Vercom aktualnie pracuje nad aktualizacją cennika MailerLite - poinformował podczas wideokonferencji dyrektor finansowy spółki, Łukasz Szałaśnik. Z kolei prezes spółki, Krzysztof Szyszka wskazał, że spółka nie wyklucza powrotu do oferowania rozwiązań cyfrowej komunikacji głosowej.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ETF-na-WIG30-w-euro-Na-gieldzie-w-Zagrzebiu-zadebiutowal-fundusz-na-spolki-z-Polski-9136080.html",
-      "url": "https://www.bankier.pl/wiadomosc/ETF-na-WIG30-w-euro-Na-gieldzie-w-Zagrzebiu-zadebiutowal-fundusz-na-spolki-z-Polski-9136080.html",
-      "title": "Polskie akcje hitem na Bałkanach. Ruszył pierwszy taki ETF Polskie największe spółki stają się łakomym kąskiem dla inwestorów z Chorwacji. Na giełdach w Zagrzebiu, ale także słoweńskiej Lublanie oficjalnie zadebiutował InterCapital Poland WIG30TR UCITS ETF – pierwszy chorwacki fundusz dający bezpośrednią ekspozycję na 30 najpłynniejszych spółek z warszawskiego parkietu. Polscy inwestorzy muszą jednak obejść się smakiem.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ARP-i-grupa-TFK-maja-listy-intencyjne-ws-wspolpracy-z-PGE-Baltica-i-Orlen-Neptun-9136283.html",
-      "url": "https://www.bankier.pl/wiadomosc/ARP-i-grupa-TFK-maja-listy-intencyjne-ws-wspolpracy-z-PGE-Baltica-i-Orlen-Neptun-9136283.html",
-      "title": "ARP i grupa TFK mają listy intencyjne ws. współpracy z PGE Baltica i Orlen Neptun Agencja Rozwoju Przemysłu i grupa TFK podpisały listy intencyjne z PGE Baltica i Orlen Neptun ws. współpracy przy instalacji i serwisowaniu podmorskich kabli dla farm wiatrowych na Bałtyku z wykorzystaniem specjalnego statku - kablowca - poinformowała ARP w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dektra-chce-wyplacic-0-3-zl-dywidendy-na-akcje-9136270.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dektra-chce-wyplacic-0-3-zl-dywidendy-na-akcje-9136270.html",
-      "title": "Dektra chce wypłacić 0,3 zł dywidendy na akcję Dektra planuje, że łączna kwota dywidendy za rok 2025 r. wyniesie 331,2 tys. zł, co stanowić będzie 0,3 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-z-zysku-za-25-wyplaci-0-20-zl-dywidendy-na-akcje-9136258.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-z-zysku-za-25-wyplaci-0-20-zl-dywidendy-na-akcje-9136258.html",
-      "title": "Tauron z zysku za '25 wypłaci 0,20 zł dywidendy na akcję Zwyczajne walne zgromadzenie Tauronu zdecydowało o przeznaczeniu na dywidendę 350,5 mln zł na wypłatę dywidendy dla akcjonariuszy spółki, co daje 0,20 zł na jedną akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-20T12:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
