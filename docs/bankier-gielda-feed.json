@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-I-kw-26-EBITDA-w-wys-317-mln-zl-9138292.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-I-kw-26-EBITDA-w-wys-317-mln-zl-9138292.html",
+      "title": "SZACUNKI Grupa Azoty zaskoczyła rynek. Wyniki EBITDA dużo wyższe od prognoz Grupa Azoty szacuje, że w I kwartale 2026 roku wypracowała skonsolidowane przychody ze sprzedaży na poziomie 3.700 mln zł oraz wynik EBITDA w wysokości 317 mln zł, co przełożyło się na marżę EBITDA wynoszącą plus 8,6 proc. - podała grupa w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-05-22T21:36:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Genomtec-sprzedal-w-ABB-2-mln-akcji-w-cenie-5-5-zl-szt-9138257.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Genomtec-sprzedal-w-ABB-2-mln-akcji-w-cenie-5-5-zl-szt-9138257.html",
       "title": "Akcjonariusz Genomtec sprzedał w ABB 2 mln akcji w cenie 5,5 zł/szt. Akcjonariusz Genomtec - 5HT Fundacja Rodzinna sprzedał w procesie przyspieszonego budowania księgi popytu 2 mln akcji spółki w cenie 5,5 zł za papier - podała Genomtec w komunikacie.",
@@ -653,20 +660,6 @@
       "title": "SpaceX idzie na giełdę. To może być największe IPO świata Firma SpaceX Elona Muska oficjalnie zmierza na giełdę i może zadebiutować na Nasdaq w przyszłym miesiącu. Jak pisze CNBC, prawdopodobnie będzie to rekordowa oferta publiczna, po której najbogatszy człowiek na świecie stanie na czele dwóch odrębnych spółek publicznych wartych biliony dolarów.",
       "content_html": "",
       "date_published": "2026-05-21T07:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-w-I-kw-mialo-5-9-mln-zl-zysku-EBITDA-wobec-5-5-mln-zl-konsensusu-9136814.html",
-      "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-w-I-kw-mialo-5-9-mln-zl-zysku-EBITDA-wobec-5-5-mln-zl-konsensusu-9136814.html",
-      "title": "Rynek bał się głębszej straty. 11 bit studios zaskakuje 11 bit studios w pierwszym kwartale 2026 roku miało 5,9 mln zł zysku EBITDA oraz 2,8 mln zł straty netto - podała spółka w raporcie. Konsensus PAP Biznes zakładał 5,5 mln zł EBITDA oraz 5,3 mln zł straty netto.",
-      "content_html": "",
-      "date_published": "2026-05-21T06:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Slabna-obawy-o-stopy-procentowe-i-ceny-ropy-9136714.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Slabna-obawy-o-stopy-procentowe-i-ceny-ropy-9136714.html",
-      "title": "Historyczny rekord w cieniu dyplomacji. Giełdy rosną, a obligacje spadają po deklaracji Trumpa Akcje na amerykańskich giełdach wzrosły w środę, ponieważ ceny ropy i rentowność amerykańskich obligacji skarbowych spadły w obliczu rosnącego optymizmu, że konflikt na Bliskim Wschodzie może wkrótce zostać rozwiązany. Inwestorzy wyczekiwali również na wyniki kwartalne Nvidii.",
-      "content_html": "",
-      "date_published": "2026-05-21T06:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
