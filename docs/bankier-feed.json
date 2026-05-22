@@ -11,18 +11,25 @@
       "date_published": "2026-05-23T09:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rusza-kolejny-stream-Latwoganga-Tworca-zbiera-srodki-na-najdrozszy-lek-swiata-dla-Maksa-9137146.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rusza-kolejny-stream-Latwoganga-Tworca-zbiera-srodki-na-najdrozszy-lek-swiata-dla-Maksa-9137146.html",
+      "title": "Łatwogang znów zbiera pieniądze. Właśnie jedzie rowerem przez Polskę dla chorego Maksa",
+      "content_html": "Twórca internetowy Łatwogang ruszył z kolejną zbiórką. W piątek po 16:30 wystartował stream i sam Youtuber - z Zakopanego jedzie rowerem do Gdańska. Podczas jazdy pokazywanej na żywo zbiera środki dla chorego Maksa. Na liczniku są już trzy...",
+      "date_published": "2026-05-22T23:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trzecia-z-rzedu-wzrostowa-sesja-na-Wall-Street-Dow-Jones-z-nowym-rekordem-9138308.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trzecia-z-rzedu-wzrostowa-sesja-na-Wall-Street-Dow-Jones-z-nowym-rekordem-9138308.html",
+      "title": "Trzecia z rzędu wzrostowa sesja na Wall Street. Dow Jones z nowym rekordem",
+      "content_html": "Nasdaq oraz S&P500 zakończyły na plusie trzecią sesję z rzędu, a Dow Jones wyznaczył nowy rekord wszech czasów.",
+      "date_published": "2026-05-22T23:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-I-kw-26-EBITDA-w-wys-317-mln-zl-9138292.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-I-kw-26-EBITDA-w-wys-317-mln-zl-9138292.html",
       "title": "Grupa Azoty zaskoczyła rynek. Wyniki EBITDA dużo wyższe od prognoz",
       "content_html": "Grupa Azoty szacuje, że w I kwartale 2026 roku wypracowała skonsolidowane przychody ze sprzedaży na poziomie 3.700 mln zł oraz wynik EBITDA w wysokości 317 mln zł, co przełożyło się na marżę EBITDA wynoszącą plus 8,6 proc. - podała grupa...",
       "date_published": "2026-05-22T22:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rusza-kolejny-stream-Latwoganga-Tworca-zbiera-srodki-na-najdrozszy-lek-swiata-dla-Maksa-9137146.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rusza-kolejny-stream-Latwoganga-Tworca-zbiera-srodki-na-najdrozszy-lek-swiata-dla-Maksa-9137146.html",
-      "title": "Łatwogang znów zbiera pieniądze. Właśnie jedzie rowerem przez Polskę dla chorego Maksa",
-      "content_html": "Twórca internetowy Łatwogang ruszył z kolejną zbiórką. W piątek po 16:30 wystartował stream i sam Youtuber - z Zakopanego jedzie rowerem do Gdańska. Podczas jazdy pokazywanej na żywo zbiera środki dla chorego Maksa. Na liczniku są już dwa...",
-      "date_published": "2026-05-22T21:56:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Donald-Trump-nie-pojedzie-na-slub-syna-Podal-zaskakujacy-powod-9138270.html",
@@ -695,13 +702,6 @@
       "title": "Windfall tax uderzy w Orlen. Balczun: Wpływ może wynieść ok. 6 mld zł",
       "content_html": "Wpływ podatku windfall tax na Orlen może wynosić ok. 6 mld zł - ocenił minister aktywów państwowych Wojciech Balczun w Radiu Zet.",
       "date_published": "2026-05-22T09:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-znowu-tnie-ceny-paliw-Kolejna-obnizka-w-hurcie-9137663.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-znowu-tnie-ceny-paliw-Kolejna-obnizka-w-hurcie-9137663.html",
-      "title": "Orlen znowu tnie ceny paliw. Kolejna obniżka w hurcie",
-      "content_html": "Orlen obniżył w piątek hurtowe ceny benzyny bezołowiowej Eurosuper 95 o 17 zł, benzyny bezołowiowej Super Plus 98 o 56 zł, a oleju napędowego Ekodiesel o 55 zł za metr sześc. - wynika z danych opublikowanych przez koncern. Poprzednio, w czwartek...",
-      "date_published": "2026-05-22T09:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
