@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wegierski-MOL-ma-dwa-tygodnie-na-dokonczenie-transakcji-zakupu-koncernu-NIS-9138387.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wegierski-MOL-ma-dwa-tygodnie-na-dokonczenie-transakcji-zakupu-koncernu-NIS-9138387.html",
+      "title": "Węgierski MOL ma dwa tygodnie na dokończenie transakcji zakupu koncernu NIS Węgierski koncern naftowy MOL otrzymał od USA dwa tygodnie na zakończenie negocjacji z Gazprom Nieftem w sprawie zakupu rosyjskich udziałów w Serbskim Przemyśle Naftowym (NIS) - poinformowała minister energetyki i górnictwa Serbii, Dubravka Djedović Handanović.",
+      "content_html": "",
+      "date_published": "2026-05-23T12:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/73-proc-obywateli-UE-jest-miejscem-stabilnosci-w-niespokojnym-swiecie-9136806.html",
       "url": "https://www.bankier.pl/wiadomosc/73-proc-obywateli-UE-jest-miejscem-stabilnosci-w-niespokojnym-swiecie-9136806.html",
       "title": "WIOSENNY EUROBAROMETR 2026 73 proc. obywateli: UE jest miejscem stabilności w niespokojnym świecie Obywatele Unii Europejskiej cenią sobie wartości europejskie. Jak wskazuje nowa edycja Eurobarometru, 57 proc. jest zadowolonych ze sposobu działania demokracji we Wspólnocie. 73 proc. zgadza się z tym, że UE jest miejscem...",
@@ -534,41 +541,6 @@
       "title": "LPP chce wykorzystywać AI do skalowania biznesu Grupa LPP liczy, że narzędzia oparte o AI pomogą w skalowaniu biznesu – poinformowali przedstawiciele spółki.",
       "content_html": "",
       "date_published": "2026-05-21T12:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Echo-Investment-rozwaza-emisje-obligacji-9137086.html",
-      "url": "https://www.bankier.pl/wiadomosc/Echo-Investment-rozwaza-emisje-obligacji-9137086.html",
-      "title": "Echo Investment rozważa emisję obligacji Echo Investment rozważa przeprowadzenie emisji niezabezpieczonych obligacji w ramach programu emisji obligacji - poinformował deweloper w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-21T12:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konsensus-EBITDA-Tauronu-w-26-wymaga-spelnienia-wielu-czynnikow-wiceprezes-9137064.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konsensus-EBITDA-Tauronu-w-26-wymaga-spelnienia-wielu-czynnikow-wiceprezes-9137064.html",
-      "title": "Rynek oczekuje od Tauronu 6,5 mld zł EBITDA w 2026 roku. Spółka: To ambitny cel Konsensus rynkowy na wynik EBITDA grupy Tauronu w 2026 roku jest ambitny, ale możliwy do realizacji pod warunkiem spełnienia szeregu istotnych warunków, w tym niezależnych od samej spółki - poinformował wiceprezes Tauronu Krzysztof Surma.",
-      "content_html": "",
-      "date_published": "2026-05-21T12:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/LPP-notuje-w-maju-dodatnie-LFL-we-wszystkich-markach-poza-Mohito-9137055.html",
-      "url": "https://www.bankier.pl/wiadomosc/LPP-notuje-w-maju-dodatnie-LFL-we-wszystkich-markach-poza-Mohito-9137055.html",
-      "title": "LPP notuje w maju dodatnie LFL we wszystkich markach poza Mohito LPP notuje w maju dodatnie dynamiki sprzedaży porównywalnej LFL we wszystkich markach poza Mohito – poinformował wiceprezes Marcin Bójko.",
-      "content_html": "",
-      "date_published": "2026-05-21T12:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EuroPMI-za-maj-2026-recesja-wrocila-do-strefy-euro-9136996.html",
-      "url": "https://www.bankier.pl/wiadomosc/EuroPMI-za-maj-2026-recesja-wrocila-do-strefy-euro-9136996.html",
-      "title": "EuroPMI: recesja wróciła do strefy euro. Usługi spadają jak kamienie Kryzys paliwowy zdołował koniunkturę w europejskim sektorze usługowym, generującym większość PKB strefy euro – wynika ze wstępnych majowych odczytów PMI",
-      "content_html": "",
-      "date_published": "2026-05-21T11:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/LPP-podtrzymuje-cele-finansowe-na-2026-rok-9137003.html",
-      "url": "https://www.bankier.pl/wiadomosc/LPP-podtrzymuje-cele-finansowe-na-2026-rok-9137003.html",
-      "title": "LPP podtrzymuje cele finansowe na 2026 rok Grupa LPP podtrzymuje cele finansowe na 2026 rok – poinformował wiceprezes Marcin Bójko.",
-      "content_html": "",
-      "date_published": "2026-05-21T11:20:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
