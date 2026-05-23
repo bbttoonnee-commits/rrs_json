@@ -18,6 +18,20 @@
       "date_published": "2026-05-23T16:30:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kiedy-Polak-zmienia-samochod-Prawie-polowa-wskazala-ten-sam-moment-9134697.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kiedy-Polak-zmienia-samochod-Prawie-polowa-wskazala-ten-sam-moment-9134697.html",
+      "title": "Kiedy Polak zmienia samochód? Prawie połowa wskazała ten sam moment",
+      "content_html": "Przy założeniu, że ograniczenia finansowe nie odgrywają roli, 30 proc. kierowców zmieniałoby auto co 3-4 lata - wynika z badania przeprowadzonego na zlecenie Santander Consumer Multirent. Jednocześnie dla 47 proc. wysoki koszt zakupu pozostaje...",
+      "date_published": "2026-05-23T14:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wegierski-MOL-ma-dwa-tygodnie-na-dokonczenie-transakcji-zakupu-koncernu-NIS-9138387.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wegierski-MOL-ma-dwa-tygodnie-na-dokonczenie-transakcji-zakupu-koncernu-NIS-9138387.html",
+      "title": "Węgierski MOL ma dwa tygodnie na dokończenie transakcji zakupu koncernu NIS",
+      "content_html": "Węgierski koncern naftowy MOL otrzymał od USA dwa tygodnie na zakończenie negocjacji z Gazprom Nieftem w sprawie zakupu rosyjskich udziałów w Serbskim Przemyśle Naftowym (NIS) - poinformowała minister energetyki i górnictwa Serbii, Dubravka Djedović...",
+      "date_published": "2026-05-23T13:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gospodarka-na-krawedzi-Wojna-na-Bliskim-Wschodzie-pochlonela-juz-25-mld-dolarow-9134782.html",
       "url": "https://www.bankier.pl/wiadomosc/Gospodarka-na-krawedzi-Wojna-na-Bliskim-Wschodzie-pochlonela-juz-25-mld-dolarow-9134782.html",
       "title": "Gospodarka na krawędzi. Wojna na Bliskim Wschodzie pochłonęła już 25 mld dolarów",
@@ -688,13 +702,6 @@
       "title": "Rząd obniża ceny na weekend. Sprawdź nowe limity na benzynę i diesel",
       "content_html": "Od soboty do poniedziałku litr benzyny 95 ma kosztować nie więcej niż 6,46 zł, benzyny 98 - 7,00 zł, a oleju napędowego - 6,85 zł - wynika z piątkowego obwieszczenia Ministra Energii. Oznacza to, że ceny maksymalne wszystkich trzech paliw będą...",
       "date_published": "2026-05-22T13:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ponownie-w-gore-Potanial-LPG-ale-benzyna-jest-najdrozsza-od-wprowadzenia-CPN-9137830.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ponownie-w-gore-Potanial-LPG-ale-benzyna-jest-najdrozsza-od-wprowadzenia-CPN-9137830.html",
-      "title": "Ceny paliw ponownie w górę. Potaniał LPG, ale benzyna jest najdroższa od wprowadzenia CPN",
-      "content_html": "Mijający tydzień stał pod znakiem umiarkowanych podwyżek cen benzyn i oleju napędowego, którym towarzyszyły nieco niższe ceny autogazu.",
-      "date_published": "2026-05-22T12:57:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
