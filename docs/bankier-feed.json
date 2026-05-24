@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Friendly-fire-i-ukrywane-straty-Raport-Kongresu-obnaza-kosztowne-bledy-armii-USA-9137271.html",
+      "url": "https://www.bankier.pl/wiadomosc/Friendly-fire-i-ukrywane-straty-Raport-Kongresu-obnaza-kosztowne-bledy-armii-USA-9137271.html",
+      "title": "„Friendly fire” i ukrywane straty. Raport Kongresu obnaża kosztowne błędy armii USA",
+      "content_html": "42 amerykańskie maszyny za około 300 mln dolarów zostały strącone lub uszkodzone na Bliskim Wschodzie z powodu omyłkowego ostrzału prowadzonego przez wojska sojusznicze, potocznie nazywane friendly fire. To dane przedstawione w raporcie Kongresu...",
+      "date_published": "2026-05-24T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Losy-wojny-z-Iranem-rozstrzygna-sie-w-ciagu-godzin-Albo-uderze-albo-podpiszemy-umowe-9138426.html",
       "url": "https://www.bankier.pl/wiadomosc/Losy-wojny-z-Iranem-rozstrzygna-sie-w-ciagu-godzin-Albo-uderze-albo-podpiszemy-umowe-9138426.html",
       "title": "Losy wojny z Iranem rozstrzygną się w ciągu godzin. „Albo uderzę, albo podpiszemy umowę”",
@@ -695,13 +702,6 @@
       "title": "Unia Europejska zawiesza cła na wybrane nawozy. Ważna decyzja dla rolników",
       "content_html": "Unia Europejska zdecydowała o czasowym zawieszeniu ceł na wybrane nawozy azotowe, w tym mocznik i amoniak, aby ograniczyć skutki kryzysu wokół cieśniny Ormuz dla sektora rolnego – poinformowała w piątek Rada UE.",
       "date_published": "2026-05-22T16:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Potezna-eksplozja-w-zakladach-giganta-MOL-Sa-ofiary-smiertelne-i-ciezko-poparzeni-9137849.html",
-      "url": "https://www.bankier.pl/wiadomosc/Potezna-eksplozja-w-zakladach-giganta-MOL-Sa-ofiary-smiertelne-i-ciezko-poparzeni-9137849.html",
-      "title": "Potężna eksplozja w zakładach giganta MOL. Jest ofiara śmiertelna",
-      "content_html": "Prezes węgierskiego koncernu MOL Zsolt Hernadi zapewnił podczas piątkowej konferencji prasowej, że w należącym do firmy zakładzie w Tiszaujvaros na wschodzie Węgier doszło do wypadku i nie stwierdzono tam żadnej ingerencji z zewnątrz. W wypadku...",
-      "date_published": "2026-05-22T16:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
