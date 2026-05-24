@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pulapka-na-inwestorow-w-sieci-Falszywa-platforma-Braun-Invest-obiecuje-zyski-9135131.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pulapka-na-inwestorow-w-sieci-Falszywa-platforma-Braun-Invest-obiecuje-zyski-9135131.html",
+      "title": "Pułapka na inwestorów w sieci. Fałszywa platforma Braun Invest obiecuje zyski Prokuratura Okręgowa w Przemyślu prowadzi śledztwo ws. usiłowań oszustwa za pomocą fałszywej platformy inwestycyjnej Webtrader Braun Invest Holding. W sprawie aresztowanych zostało dwóch mężczyzn. Jak informuje prokuratura, śledztwo jest na wstępnym etapie, ale obejmie wielu poszkodowanych.",
+      "content_html": "",
+      "date_published": "2026-05-24T17:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-makroczwartek-europejska-inflacja-i-gieldowe-wyniki-9137866.html",
       "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-makroczwartek-europejska-inflacja-i-gieldowe-wyniki-9137866.html",
       "title": "Tym będą żyły rynki: makroczwartek, europejska inflacja i giełdowe wyniki Kumulacja raportów makroekonomicznych przewidziana jest na czwartek i piątek. Dla inwestorów z GPW będzie to gorący okres publikacji sprawozdań finansowych za I kwartał.",
@@ -79,27 +86,6 @@
       "title": "Milionowe wypłaty w PZU. Wiemy, kto zarobił najwięcej Wynagrodzenie członków zarządu PZU w ub.r. wyniosło blisko 16,2 mln zł; najwięcej zarobił Tomasz Kulik - ponad 2,5 mln zł - wynika ze sprawozdania, które spółka opublikowała w piątek. Obecny prezes PZU Bogdan Benczak, który od września ub.r. był p.o. prezesa otrzymał prawie 449 tys. zł.",
       "content_html": "",
       "date_published": "2026-05-22T18:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-IDR-Cyfrowego-Polsatu-na-poziomie-BB-perspektywa-stabilna-9138173.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fitch-potwierdzil-rating-IDR-Cyfrowego-Polsatu-na-poziomie-BB-perspektywa-stabilna-9138173.html",
-      "title": "Fitch potwierdził rating IDR Cyfrowego Polsatu na poziomie \"BB\"; perspektywa stabilna Fitch Ratings potwierdziła długoterminowy rating IDR Cyfrowego Polsatu na poziomie \"BB\" - podała agencja w komunikacie. Perspektywa ratingu jest stabilna.",
-      "content_html": "",
-      "date_published": "2026-05-22T17:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Swiezutkie-rekordy-na-GPW-Odprezenie-na-rynku-i-dlugu-9138152.html",
-      "url": "https://www.bankier.pl/wiadomosc/Swiezutkie-rekordy-na-GPW-Odprezenie-na-rynku-i-dlugu-9138152.html",
-      "title": "Świeżutkie rekordy na GPW. Odprężenie na rynku długu Piątkowa sesja upłynęła na wzrostach głównych indeksów. Najwyżej w historii był WIG oraz mWIG40, ale najlepiej radził sobie WIG20. Dobra atmosfera na GPW współgrała z poprawą nastrojów na rynkach globalnych, gdzie emocje po fali wyprzedaży obligacji zaczęły powoli opadać, a inwestorzy starali się wyceniać nowe szanse na trwały rozejm między USA i Iranem.",
-      "content_html": "",
-      "date_published": "2026-05-22T17:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Murapol-wyplaci-dodatkowo-1-97-zl-dywidendy-na-akcje-z-zysku-netto-za-2025-rok-9138133.html",
-      "url": "https://www.bankier.pl/wiadomosc/Murapol-wyplaci-dodatkowo-1-97-zl-dywidendy-na-akcje-z-zysku-netto-za-2025-rok-9138133.html",
-      "title": "Murapol wypłaci dodatkowo 1,97 zł dywidendy na akcję z zysku netto za 2025 rok Walne zgromadzenie Murapolu zdecydowało o dodatkowej wypłacie 80,4 mln zł z zysku netto za 2025 rok na dywidendę, co daje 1,97 zł na akcję - podała spółka w komunikacie. W grudniu Murapol wypłacił zaliczkę na poczet dywidendy za 2025 r. w wysokości 2,94 zł na akcję.",
-      "content_html": "",
-      "date_published": "2026-05-22T16:56:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
