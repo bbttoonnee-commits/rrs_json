@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ruszyl-protest-przed-siedziba-Dino-Potrwa-trzy-dni-9139213.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ruszyl-protest-przed-siedziba-Dino-Potrwa-trzy-dni-9139213.html",
+      "title": "„Dino wyciska pracowników jak cytryny”. Ruszył trzydniowy protest pod siedzibą spółki",
+      "content_html": "Pod siedzibą Dino Polska S.A. w Krotoszynie rozpoczęła się manifestacja związków zawodowych, która ma potrwać trzy dni. Na trawniku przed biurowcem spółki reprezentanci kilku organizacji rozbili namioty, rozwinęli transparenty i czekają na...",
+      "date_published": "2026-05-25T23:29:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Modivo-w-wyniku-za-2025-wykaze-odpis-na-155-7-mln-zl-z-tytulu-utraty-wartosci-firmy-9139252.html",
+      "url": "https://www.bankier.pl/wiadomosc/Modivo-w-wyniku-za-2025-wykaze-odpis-na-155-7-mln-zl-z-tytulu-utraty-wartosci-firmy-9139252.html",
+      "title": "Modivo w wyniku za 2025 wykaże odpis na 155,7 mln zł z tytułu utraty wartości firmy",
+      "content_html": "Modivo w wyniku za 2025 roku wykaże odpis w wysokości 155,7 mln zł z tytułu utraty wartości firmy w związku z przeprowadzoną alokacją ceny nabycia udziałów w Worldbox (dawniej MKRI) - poinformowało Modivo w komunikacie.",
+      "date_published": "2026-05-25T23:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/TSG-przesuwa-termin-globalnej-premiery-Medal-Huntera-o-kilka-miesiecy-chce-zwiekszyc-zawartosc-i-glebie-gry-wywiad-9139238.html",
       "url": "https://www.bankier.pl/wiadomosc/TSG-przesuwa-termin-globalnej-premiery-Medal-Huntera-o-kilka-miesiecy-chce-zwiekszyc-zawartosc-i-glebie-gry-wywiad-9139238.html",
       "title": "TSG przesuwa termin globalnej premiery Medal Huntera o kilka miesięcy, chce zwiększyć zawartość i głębię gry (wywiad)",
@@ -16,13 +30,6 @@
       "title": "Bramki na A4 przechodzą do historii. Wiadomo, ile pochłonie ich rozbiórka",
       "content_html": "Likwidacja bramek poboru opłat na zachodnim odcinku A4 w woj. śląskim może kosztować ponad 7 mln zł - wynika z informacji Generalnej Dyrekcji Dróg Krajowych i Autostrad. Opłaty na nich były pobierane w latach 2012-2023.",
       "date_published": "2026-05-25T21:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ruszyl-protest-przed-siedziba-Dino-Potrwa-trzy-dni-9139213.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ruszyl-protest-przed-siedziba-Dino-Potrwa-trzy-dni-9139213.html",
-      "title": "„Dino wyciska pracowników jak cytryny”. Ruszył trzydniowy protest pod siedzibą spółki",
-      "content_html": "Pod siedzibą Dino Polska S.A. w Krotoszynie rozpoczęła się manifestacja związków zawodowych, która ma potrwać trzy dni. Na trawniku przed biurowcem spółki reprezentanci kilku organizacji rozbili namioty, rozwinęli transparenty i czekają na...",
-      "date_published": "2026-05-25T21:30:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Diagnostyka-wyplaci-4-4-zl-dywidendy-na-akcje-9139218.html",
@@ -695,13 +702,6 @@
       "title": "Makarony Polskie chcą wypłacić 0,75 zł dywidendy na akcję",
       "content_html": "Zarząd spółki Makarony Polskie chce, by z zysku osiągniętego w 2025 roku dywidenda na akcję wynosiła 0,75 zł - poinformowała spółka w komunikacie.",
       "date_published": "2026-05-25T07:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/mBank-ostrzeze-klienta-To-nie-my-do-ciebie-dzwonimy-9136077.html",
-      "url": "https://www.bankier.pl/wiadomosc/mBank-ostrzeze-klienta-To-nie-my-do-ciebie-dzwonimy-9136077.html",
-      "title": "mBank ostrzeże klienta: „To nie my do ciebie dzwonimy”",
-      "content_html": "mBank wprowadza nową funkcję bezpieczeństwa, która ma przerwać jeden z najgroźniejszych scenariuszy oszustwa telefonicznego. Gdy klient zaloguje się do aplikacji w trakcie rozmowy głosowej, bank może wyświetlić mu komunikat, że w tym momencie...",
-      "date_published": "2026-05-25T07:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
