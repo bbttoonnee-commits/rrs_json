@@ -4,11 +4,46 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-GPW-w-I-kwartale-2026-roku-vs-konsensus-PAP-tabela-9139185.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-GPW-w-I-kwartale-2026-roku-vs-konsensus-PAP-tabela-9139185.html",
-      "title": "Wyniki GPW w I kwartale 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki GPW w pierwszym kwartale 2026 roku, ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
-      "date_published": "2026-05-25T19:44:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Bramki-na-A4-przechodza-do-historii-Wiadomo-ile-pochlonie-ich-rozbiorka-9139219.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bramki-na-A4-przechodza-do-historii-Wiadomo-ile-pochlonie-ich-rozbiorka-9139219.html",
+      "title": "Bramki na A4 przechodzą do historii. Wiadomo, ile pochłonie ich rozbiórka",
+      "content_html": "Likwidacja bramek poboru opłat na zachodnim odcinku A4 w woj. śląskim może kosztować ponad 7 mln zł - wynika z informacji Generalnej Dyrekcji Dróg Krajowych i Autostrad. Opłaty na nich były pobierane w latach 2012-2023.",
+      "date_published": "2026-05-25T21:31:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ruszyl-protest-przed-siedziba-Dino-Potrwa-trzy-dni-9139213.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ruszyl-protest-przed-siedziba-Dino-Potrwa-trzy-dni-9139213.html",
+      "title": "„Dino wyciska pracowników jak cytryny”. Ruszył trzydniowy protest pod siedzibą spółki",
+      "content_html": "Pod siedzibą Dino Polska S.A. w Krotoszynie rozpoczęła się manifestacja związków zawodowych, która ma potrwać trzy dni. Na trawniku przed biurowcem spółki reprezentanci kilku organizacji rozbili namioty, rozwinęli transparenty i czekają na...",
+      "date_published": "2026-05-25T21:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Diagnostyka-wyplaci-4-4-zl-dywidendy-na-akcje-9139218.html",
+      "url": "https://www.bankier.pl/wiadomosc/Diagnostyka-wyplaci-4-4-zl-dywidendy-na-akcje-9139218.html",
+      "title": "Diagnostyka wypłaci 4,4 zł dywidendy na akcję",
+      "content_html": "Walne zgromadzenie Diagnostyki zdecydowało o przeznaczeniu 148,53 mln zł z zysku za 2025 r. na wypłatę dywidendy, co daje 4,40 zł na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-05-25T21:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-przeszukal-biura-sieci-Lidl-i-czterech-przewoznikow-Chodzi-o-zmowe-na-rynku-pracy-9138699.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-przeszukal-biura-sieci-Lidl-i-czterech-przewoznikow-Chodzi-o-zmowe-na-rynku-pracy-9138699.html",
+      "title": "UOKiK przeszukał biura sieci Lidl i czterech przewoźników. Chodzi o zmowę na rynku pracy",
+      "content_html": "Urząd Ochrony Konkurencji i Konsumentów przeszukał biura Lidla i czterech firm przewozowych współpracujących z tą siecią handlową - poinformował w poniedziałek urząd antymonopolowy. Jednocześnie UOKiK wszczął postępowanie wyjaśniające...",
+      "date_published": "2026-05-25T20:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-GPW-wyniosl-w-I-kw-69-6-mln-zl-wobec-67-5-mln-zl-konsensusu-9139192.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-GPW-wyniosl-w-I-kw-69-6-mln-zl-wobec-67-5-mln-zl-konsensusu-9139192.html",
+      "title": "Inwestorzy rzucili się do handlu. Warszawska giełda zarabia miliony mimo globalnej",
+      "content_html": "Zysk netto j.d. Grupy Kapitałowej GPW wyniósł w I kw. 2026 roku 69,6 mln zł, a EBITDA wyniosła 77,9 mln zł - podała Giełda Papierów Wartościowych w raporcie. Konsensus PAP Biznes zakładał 67,5 mln zł zysku netto oraz 75,9 mln zł skorygowanej...",
+      "date_published": "2026-05-25T20:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ile-naprawde-doplacasz-do-pradu-przez-EU-ETS-Resort-klimatu-ujawnil-dane-9139182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ile-naprawde-doplacasz-do-pradu-przez-EU-ETS-Resort-klimatu-ujawnil-dane-9139182.html",
+      "title": "Ile naprawdę dopłacasz do prądu przez EU ETS? Resort klimatu ujawnił dane",
+      "content_html": "Dostępne szacunki orientacyjnie wskazują, że koszty pośrednio wynikające z unijnego systemu handlu emisjami EU ETS stanowiły w ostatnich latach około 15–16 proc. końcowej ceny energii elektrycznej dla przeciętnego polskiego gospodarstwa domowego...",
+      "date_published": "2026-05-25T19:36:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/TSG-przesuwa-termin-globalnej-premiery-Medal-Huntera-o-kilka-miesiecy-chce-zwiekszyc-zawartosc-i-glebie-gry-wywiad-9139175.html",
@@ -65,13 +100,6 @@
       "title": "Kara finansowa dla szefa TV Republika. Śledczy badają wątek zatrudnienia Zbigniewa Ziobry",
       "content_html": "Prokurator nałożył na prezesa i redaktora naczelnego TV Republika Tomasza Sakiewicza karę pieniężną w wysokości 3 tys. zł w związku z bezpodstawnym uchyleniem się od złożenia zeznań podczas przesłuchania jako świadek w śledztwie dot...",
       "date_published": "2026-05-25T18:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-I-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9139102.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-I-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9139102.html",
-      "title": "Wyniki Compu w I kw. 2026 roku vs. konsensus PAP Biznes (tabela)",
-      "content_html": "Poniżej przedstawiono wyniki Compu w pierwszym kwartale 2026 roku według wyliczeń PAP Biznes na podstawie raportu rocznego oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "date_published": "2026-05-25T18:34:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-zmniejszyl-sobie-pensje-o-polowe-Tak-chce-uspokoic-protestujacy-kraj-9139099.html",
@@ -508,13 +536,6 @@
       "date_published": "2026-05-25T09:42:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/UOKiK-przeszukal-biura-sieci-Lidl-i-czterech-przewoznikow-Chodzi-o-zmowe-na-rynku-pracy-9138699.html",
-      "url": "https://www.bankier.pl/wiadomosc/UOKiK-przeszukal-biura-sieci-Lidl-i-czterech-przewoznikow-Chodzi-o-zmowe-na-rynku-pracy-9138699.html",
-      "title": "UOKiK przeszukał biura sieci Lidl i czterech przewoźników. Chodzi o zmowę na rynku pracy",
-      "content_html": "Urząd Ochrony Konkurencji i Konsumentów przeszukał biura Lidla i czterech firm przewozowych współpracujących z tą siecią handlową - poinformował w poniedziałek urząd antymonopolowy. Jednocześnie UOKiK wszczął postępowanie wyjaśniające...",
-      "date_published": "2026-05-25T09:26:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Miedz-mocno-w-gore-Inwestorzy-graja-pod-rychly-koniec-wojny-9138694.html",
       "url": "https://www.bankier.pl/wiadomosc/Miedz-mocno-w-gore-Inwestorzy-graja-pod-rychly-koniec-wojny-9138694.html",
       "title": "Miedź mocno w górę. Inwestorzy grają pod rychły koniec wojny",
@@ -680,27 +701,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Zmiany-w-uldze-termomodernizacyjnej-Nie-kazdy-wydatek-na-dach-obnizy-podatek-9137676.html",
       "title": "Zmiany w uldze termomodernizacyjnej. Nie każdy wydatek na dach obniży podatek",
       "content_html": "Minister finansów doprecyzował, jakie wydatki związane z dachem można rozliczyć w ramach ulgi termomodernizacyjnej. Z interpretacji wynika, że znaczenie ma charakter prac. Odliczeniu podlega docieplenie dachu, ale nie sama wymiana pokrycia dachowego...",
-      "date_published": "2026-05-25T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/System-kaucyjny-do-pilnej-poprawy-Problem-na-problemie-Co-irytuje-konsumentow-9138033.html",
-      "url": "https://www.bankier.pl/wiadomosc/System-kaucyjny-do-pilnej-poprawy-Problem-na-problemie-Co-irytuje-konsumentow-9138033.html",
-      "title": "System kaucyjny do poprawy. Luka na luce. Co irytuje konsumentów?",
-      "content_html": "Brak jednolitego systemu obejmującego wszystkie opakowania, często zapchane automaty, szklane butelki zaśmiecające przestrzeń publiczną – to tylko niektóre wskazywane przez Polaków problemy związane z systemem kaucyjnym. Co jeszcze wymaga dopracowania?...",
-      "date_published": "2026-05-25T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-aktach-spadaja-odwazniej-niz-w-ogloszeniach-Luka-znowu-wzrosla-9138244.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-aktach-spadaja-odwazniej-niz-w-ogloszeniach-Luka-znowu-wzrosla-9138244.html",
-      "title": "Ceny mieszkań w aktach spadają odważniej niż w ogłoszeniach. Luka znowu wzrosła",
-      "content_html": "Jeśli sugerować się średnimi cenami ofertowymi, można by odnieść wrażenie, że wzrost cen mieszkań przyspieszył. Co innego przeciętne kwoty wpisywane w aktach notarialnych, które coraz częściej spadają, także w ujęciu rocznym – wynika...",
-      "date_published": "2026-05-25T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Odliczanie-do-kryzysu-Zapasy-ropy-kurcza-sie-w-rekordowym-tempie-9138550.html",
-      "url": "https://www.bankier.pl/wiadomosc/Odliczanie-do-kryzysu-Zapasy-ropy-kurcza-sie-w-rekordowym-tempie-9138550.html",
-      "title": "Miesiąc, w którym światu może zabraknąć ropy. Powtórka z 2008 roku i prognoza, która mrozi krew",
-      "content_html": "Dzisiejsza sytuacja na rynkach surowcowych może być impulsem prowokującym kryzys na miarę tego rozpoczętego w 2008 r. Takich głosów pojawia się coraz więcej, bo blokada Cieśniny Ormuz trwa, a zapasy ropy szybko kurczą. Sierpień ma być momentem...",
       "date_published": "2026-05-25T07:00:00+02:00"
     }
   ],
