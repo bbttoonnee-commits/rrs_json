@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wszystko-wyszlo-IDEALNIE-Trump-ucina-plotki-o-stanie-zdrowia-9139916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wszystko-wyszlo-IDEALNIE-Trump-ucina-plotki-o-stanie-zdrowia-9139916.html",
+      "title": "„Wszystko wyszło IDEALNIE”. Trump ucina plotki o stanie zdrowia",
+      "content_html": "Niemal 80-letni prezydent USA Donald Trump zapewnił we wtorek po badaniach okresowych, które przeszedł w szpitalu pod Waszyngtonem, że „wszystko wyszło idealnie”. Nie ujawnił szczegółów dotyczących wyników badań.",
+      "date_published": "2026-05-26T20:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Islandia-nagle-chce-do-Unii-Europejskiej-Referendum-dzieki-grozbom-Trumpa-9139914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Islandia-nagle-chce-do-Unii-Europejskiej-Referendum-dzieki-grozbom-Trumpa-9139914.html",
+      "title": "Islandia nagle chce do Unii Europejskiej. Referendum dzięki groźbom Trumpa",
+      "content_html": "„New York Times” zauważył we wtorek, że Islandia nie spieszyła się dawnej do Unii Europejskiej, ale groźby prezydenta Donalda Trumpa pod adresem Grenlandii zmieniły jej nastawienie. Wyspa nie ma armii i liczyła na gwarancje USA w kwestii bezpieczeństwa...",
+      "date_published": "2026-05-26T20:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przemyslaw-Baszak-zrezygnowal-z-zasiadania-w-radzie-nadzorczej-Orlenu-9139918.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przemyslaw-Baszak-zrezygnowal-z-zasiadania-w-radzie-nadzorczej-Orlenu-9139918.html",
+      "title": "Przemysław Baszak zrezygnował z zasiadania w radzie nadzorczej Orlenu",
+      "content_html": "Przemysław Baszak zrezygnował we wtorek z pełnienia funkcji członka rady nadzorczej Orlenu z upływem dnia 28 maja - poinformowała spółka. Nie podano powodów rezygnacji. Baszak został powołany do rady nadzorczej Orlenu w listopadzie 2025 r...",
+      "date_published": "2026-05-26T20:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gala-MMA-u-prezydenta-USA-Ruszyly-przygotowania-na-80-urodziny-Donalda-Trumpa-9139855.html",
       "url": "https://www.bankier.pl/wiadomosc/Gala-MMA-u-prezydenta-USA-Ruszyly-przygotowania-na-80-urodziny-Donalda-Trumpa-9139855.html",
       "title": "Gala MMA na trawniku Białego Domu. Zbliżają się obchody 80. urodzin Trumpa",
@@ -681,20 +702,6 @@
       "title": "Sztuczna inteligencja zamiast \"muzycznego śmietnika\". Giełda zachwycona nową wizją Spotify",
       "content_html": "Współdyrektor Spotify, Alex Norström, opowiedział się za kontrolowanym wdrażaniem sztucznej inteligencji w przemyśle muzycznym, uznając to za skuteczną metodę walki z zalewem niskiej jakości i nielegalnych utworów generowanych przez algorytmy...",
       "date_published": "2026-05-26T09:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Apatora-do-akumuluj-9139343.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Apatora-do-akumuluj-9139343.html",
-      "title": "Noble Securities obniża rekomendację dla Apatora do \"akumuluj\"",
-      "content_html": "Analitycy Noble Securities, w raporcie z 21 maja, obniżyli rekomendację dla Apatora do \"akumuluj\" z \"kupuj\", z ceną docelową na poziomie 30,3 zł.",
-      "date_published": "2026-05-26T09:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Psycholozka-Wspolczesne-matki-zyja-pod-gigantyczna-presja-9139331.html",
-      "url": "https://www.bankier.pl/wiadomosc/Psycholozka-Wspolczesne-matki-zyja-pod-gigantyczna-presja-9139331.html",
-      "title": "Psycholożka: Współczesne matki żyją pod gigantyczną presją",
-      "content_html": "Lęk, chłód emocjonalny i brak granic często przechodzą z pokolenia na pokolenie — powiedziała PAP prof. Katarzyna Schier. Jej zdaniem współczesne matki żyją pod gigantyczną presją, a dzieci dziedziczą nie tylko geny, ale także sposób...",
-      "date_published": "2026-05-26T09:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
