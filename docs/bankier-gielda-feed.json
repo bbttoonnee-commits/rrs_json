@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-PKP-Cargo-chce-zakonczyc-postepowanie-sanacyjne-do-konca-2027-r-9142780.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-PKP-Cargo-chce-zakonczyc-postepowanie-sanacyjne-do-konca-2027-r-9142780.html",
+      "title": "Prezes PKP Cargo chce zakończyć postępowanie sanacyjne do końca 2027 r. Celem PKP Cargo w restrukturyzacji jest zakończenie postępowania sanacyjnego do końca przyszłego roku - powiedział PAP prezes spółki Zbigniew Prus. Ocenił, że złożone w piątek przez zarząd propozycje układowe są dobre dla wierzycieli, akcjonariuszy i dla całej spółki.",
+      "content_html": "",
+      "date_published": "2026-05-29T22:26:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-III-kw-2025-26-wyniosl-89-mln-USD-9142696.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-III-kw-2025-26-wyniosl-89-mln-USD-9142696.html",
       "title": "Zysk netto Kernel Holding w III kw. 2025/26 wyniósł 89 mln USD Zysk netto Kernel Holding, przypisany akcjonariuszom jednostki dominującej, w trzecim kwartale 2025/26, kończącym się 31 marca 2026 roku, wyniósł 89 mln USD wobec 41 mln USD rok wcześniej - poinformowała spółka w raporcie.",
@@ -660,13 +667,6 @@
       "title": "Scope Fluidics ocenia, że opóźnienie dot. linii produkcyjnej BACTEROMIC nie wpłynie na plany sprzedażowe Scope Fluidics ocenia, że opóźnienie gotowości linii produkcyjnej dla BACTEROMIC nie wpłynie na plany sprzedażowe i pierwszych przychodów ze sprzedaży systemu spodziewa się w 2026 r. - poinformowali PAP Biznes przedstawiciele spółki. Zdaniem zarządu, uzyskana certyfikacja IVDR dla systemu z panelem UNI FAST pomoże w komercjalizacji.",
       "content_html": "",
       "date_published": "2026-05-28T10:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-tygodnia-Orlen-Najwieksza-firma-WIG20-pokazala-wyniki-9141015.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-tygodnia-Orlen-Najwieksza-firma-WIG20-pokazala-wyniki-9141015.html",
-      "title": "SPÓŁKA TYGODNIA Inwestor Wojtek bierze pod lupę wyniki Orlenu W dzisiejszym odcinku mojego cyklu „Spółka tygodnia” wracamy do absolutnej wagi ciężkiej warszawskiego parkietu – Grupy Orlen. Po ubiegłotygodniowym unikaniu spadających noży w Modivo, tym razem przyglądamy się gigantowi, który w czwartek dosłownie zmiażdżył rynkowe oczekiwania. Jak wiecie, w tym cyklu nie interesują mnie tylko suche wykresy, ale przede wszystkim perspektywy. Orlen pokazał zestaw wyników za pierwszy kwartał 2026 roku, obok których żaden szanujący się inwestor nie może przejść obojętnie, ale analitycy wypatrzyli pewne negatywne detale.",
-      "content_html": "",
-      "date_published": "2026-05-28T10:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
