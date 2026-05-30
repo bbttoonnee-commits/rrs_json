@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-bije-rekordy-swiat-boi-sie-o-rope-a-inflacja-zaszokowala-wszystkich-Mocne-zamkniecie-maja-9141856.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-bije-rekordy-swiat-boi-sie-o-rope-a-inflacja-zaszokowala-wszystkich-Mocne-zamkniecie-maja-9141856.html",
+      "title": "WYKRESY TYGODNIA Orlen bije rekordy, świat boi się o ropę, a inflacja zaszokowała wszystkich. Mocne zamknięcie maja Cześć, tu Inwestor Wojtek. Mam nadzieję, że macie już swoją kawę, bo ruszamy z kolejnymi wykresami tygodnia. Jeśli myśleliście, że poprzedni tydzień zaoferował nam dawkę emocji to owszem, ale w tym wcale nie było jej mniej. Maj ponieważ zamyka się naprawdę mocnymi danymi.",
+      "content_html": "",
+      "date_published": "2026-05-30T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prezes-PKP-Cargo-chce-zakonczyc-postepowanie-sanacyjne-do-konca-2027-r-9142780.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezes-PKP-Cargo-chce-zakonczyc-postepowanie-sanacyjne-do-konca-2027-r-9142780.html",
       "title": "Prezes PKP Cargo chce zakończyć postępowanie sanacyjne do końca 2027 r. Celem PKP Cargo w restrukturyzacji jest zakończenie postępowania sanacyjnego do końca przyszłego roku - powiedział PAP prezes spółki Zbigniew Prus. Ocenił, że złożone w piątek przez zarząd propozycje układowe są dobre dla wierzycieli, akcjonariuszy i dla całej spółki.",
@@ -660,13 +667,6 @@
       "title": "Orlen chce zwiększać obecność w Ukrainie, rozmawia o zaangażowaniu w Ukrnaftę Grupa Orlen jest zainteresowana zwiększaniem swojej obecności w Ukrainie, rozmawia o zaangażowaniu w Ukrnaftę - poinformował na czwartkowej konferencji prasowej prezes Orlenu Ireneusz Fąfara.",
       "content_html": "",
       "date_published": "2026-05-28T10:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-ocenia-ze-opoznienie-dot-linii-produkcyjnej-BACTEROMIC-nie-wplynie-na-plany-sprzedazowe-wywiad-9141059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Scope-Fluidics-ocenia-ze-opoznienie-dot-linii-produkcyjnej-BACTEROMIC-nie-wplynie-na-plany-sprzedazowe-wywiad-9141059.html",
-      "title": "Scope Fluidics ocenia, że opóźnienie dot. linii produkcyjnej BACTEROMIC nie wpłynie na plany sprzedażowe Scope Fluidics ocenia, że opóźnienie gotowości linii produkcyjnej dla BACTEROMIC nie wpłynie na plany sprzedażowe i pierwszych przychodów ze sprzedaży systemu spodziewa się w 2026 r. - poinformowali PAP Biznes przedstawiciele spółki. Zdaniem zarządu, uzyskana certyfikacja IVDR dla systemu z panelem UNI FAST pomoże w komercjalizacji.",
-      "content_html": "",
-      "date_published": "2026-05-28T10:36:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
