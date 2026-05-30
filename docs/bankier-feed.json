@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mieszkanie-za-1200-zl-miesiecznie-To-moglby-byc-ratunek-dla-demografii-9140052.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mieszkanie-za-1200-zl-miesiecznie-To-moglby-byc-ratunek-dla-demografii-9140052.html",
+      "title": "Mieszkanie za 1200 zł miesięcznie? To mógłby być ratunek dla demografii",
+      "content_html": "Połowa młodych Polaków wskazuje brak mieszkania jako jedną z najważniejszych przeszkód przed założeniem rodziny - wynika z raportu „Mieszkalnictwo a dzietność”. Z drugiej strony zmniejszająca...",
+      "date_published": "2026-05-30T15:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nad-gieldowym-eldorado-krazy-widmo-problemow-z-ropa-Nadchodzi-historyczny-czas-dla-inwestorow-9142660.html",
       "url": "https://www.bankier.pl/wiadomosc/Nad-gieldowym-eldorado-krazy-widmo-problemow-z-ropa-Nadchodzi-historyczny-czas-dla-inwestorow-9142660.html",
       "title": "Nad giełdowym eldorado krąży widmo problemów z ropą. Nadchodzi historyczny czas dla inwestorów",
@@ -695,13 +702,6 @@
       "title": "Fala alarmów bombowych. Prezydent żąda dymisji ministrów",
       "content_html": "Prezydent Karol Nawrocki, odnosząc się do ostatnich fałszywych alarmów, po których służby interweniowały m.in. w domach polityków, powiedział w piątek, że w normalnym państwie po tym, co się wydarzyło, minister sprawiedliwości czy minister...",
       "date_published": "2026-05-29T13:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-pod-koniec-maja-poszly-mocnow-dol-Diesel-jest-najtanszy-od-lutego-9142090.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-pod-koniec-maja-poszly-mocnow-dol-Diesel-jest-najtanszy-od-lutego-9142090.html",
-      "title": "Ulga przy dystrybutorach. Ceny paliw mocno w dół. „Diesel” najtańszy od lutego",
-      "content_html": "Ostatni tydzień maja przyniósł wyraźne spadki detalicznych cen paliw w Polsce. Szczególnie mocno potaniał olej napędowy.",
-      "date_published": "2026-05-29T13:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
