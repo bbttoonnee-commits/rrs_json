@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/FreeMind-wyplaci-0-50-zl-dywidendy-za-2025-rok-9143121.html",
+      "url": "https://www.bankier.pl/wiadomosc/FreeMind-wyplaci-0-50-zl-dywidendy-za-2025-rok-9143121.html",
+      "title": "FreeMind wypłaci 0,50 zł dywidendy za 2025 rok Walne zgromadzenie FreeMind zdecydowało o wypłacie 694 tys. zł dywidendy z zysku netto za 2025 rok, co daje 0,50 zł dywidendy na jedną akcję - poinformował producent i wydawca gier wideo notowany na NewConnect.",
+      "content_html": "",
+      "date_published": "2026-05-31T19:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Branza-paliwowa-grzmi-nowy-podatek-to-powazny-cios-w-gospodarke-9140341.html",
       "url": "https://www.bankier.pl/wiadomosc/Branza-paliwowa-grzmi-nowy-podatek-to-powazny-cios-w-gospodarke-9140341.html",
       "title": "Branża paliwowa grzmi: nowy podatek to poważny cios w gospodarkę Planowany podatek od nadzwyczajnych zysków dla sektora paliwowego grozi ograniczeniem inwestycji, osłabieniem bezpieczeństwa paliwowego państwa i utrudni realizację celów transformacji energetycznej - ocenia Polska Organizacja Przemysłu i Handlu Naftowego (POPiHN).",
@@ -58,20 +65,6 @@
       "title": "Zysk netto Kernel Holding w III kw. 2025/26 wyniósł 89 mln USD Zysk netto Kernel Holding, przypisany akcjonariuszom jednostki dominującej, w trzecim kwartale 2025/26, kończącym się 31 marca 2026 roku, wyniósł 89 mln USD wobec 41 mln USD rok wcześniej - poinformowała spółka w raporcie.",
       "content_html": "",
       "date_published": "2026-05-29T19:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Projekt-Vigo-Photonics-wpisany-na-liste-rekomendowanych-do-dofinansowania-9142671.html",
-      "url": "https://www.bankier.pl/wiadomosc/Projekt-Vigo-Photonics-wpisany-na-liste-rekomendowanych-do-dofinansowania-9142671.html",
-      "title": "Projekt Vigo Photonics wpisany na listę rekomendowanych do dofinansowania Projekt Vigo Photonics pt. Detektory i zintegrowane moduły detekcyjne do zastosowań przemysłowych i medycznych przystosowane do montażu powierzchniowego został wpisany na listę projektów wybranych do dofinansowania w ramach V Priorytetu Programu Fundusze Europejskie dla Nowoczesnej Gospodarki 2021-2027 - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-05-29T19:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Modivo-planuje-przeznaczyc-zysk-na-kapital-zapasowy-9142635.html",
-      "url": "https://www.bankier.pl/wiadomosc/Modivo-planuje-przeznaczyc-zysk-na-kapital-zapasowy-9142635.html",
-      "title": "Modivo planuje przeznaczyć zysk na kapitał zapasowy Modivo planuje zysk za rok obrotowy rozpoczynający się 1 lutego 2025 r. i zakończony 31 stycznia 2026 r. przeznaczyć w całości na kapitał zapasowy - poinformowała spółka w projektach uchwał na ZWZ zwołane na 25 czerwca 2026 r.",
-      "content_html": "",
-      "date_published": "2026-05-29T18:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
