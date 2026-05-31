@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kto-zuzywa-najwiecej-wody-Opublikowano-nowy-ranking-Polska-w-samym-srodku-stawki-9137233.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-zuzywa-najwiecej-wody-Opublikowano-nowy-ranking-Polska-w-samym-srodku-stawki-9137233.html",
+      "title": "Kto zużywa najwięcej wody? Opublikowano nowy ranking. Polska w samym środku stawki",
+      "content_html": "Turkmenistan zajmuje pierwsze miejsce na świecie pod względem zużycia wody na mieszkańca – wynika z danych serwisu Worldometer. Statystyczny mieszkaniec tego kraju wykorzystuje ponad 15 tys. litrów wody dziennie, podczas gdy w Polsce jest to 758...",
+      "date_published": "2026-05-31T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Naukowcy-z-Wroclawia-stworzyli-helmy-i-kamizelki-dla-psow-bojowych-9139447.html",
+      "url": "https://www.bankier.pl/wiadomosc/Naukowcy-z-Wroclawia-stworzyli-helmy-i-kamizelki-dla-psow-bojowych-9139447.html",
+      "title": "Naukowcy z Wrocławia stworzyli hełmy i kamizelki dla psów bojowych",
+      "content_html": "Naukowcy z Politechniki Wrocławskiej opracowują rozwiązania zwiększające bezpieczeństwo psów służbowych. Obok kamizelek ochronnych, które projektują dla czworonogów, rozpoczęli opracowanie specjalistycznych hełmów dla zwierząt wykorzystywanych...",
+      "date_published": "2026-05-31T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelom-na-polskich-drogach-Liczba-ofiar-smiertelnych-gwaltownie-spada-9139500.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-na-polskich-drogach-Liczba-ofiar-smiertelnych-gwaltownie-spada-9139500.html",
+      "title": "Przełom na polskich drogach. Liczba ofiar śmiertelnych gwałtownie spada",
+      "content_html": "Komenda Główna Policji podała dane za pierwsze cztery miesiące roku. W porównaniu z tym samym okresem 2025 r. zanotowano mniej wypadków drogowych, zginęło w nich mniej osób i mniej było rannych. Wzrosła liczba kierujących przebadanych alkomatem...",
+      "date_published": "2026-05-31T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tak-uszczelniono-granice-w-Bieszczadach-Specjalne-systemy-odciazaja-funkcjonariuszy-9139650.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tak-uszczelniono-granice-w-Bieszczadach-Specjalne-systemy-odciazaja-funkcjonariuszy-9139650.html",
+      "title": "Tak uszczelniono granice w Bieszczadach. Specjalne systemy odciążają funkcjonariuszy",
+      "content_html": "Polskie granice są skutecznie chronione dzięki wykorzystaniu sztucznej inteligencji, kamer oraz detektorów ruchu - powiedział PAP komendant Bieszczadzkiego Oddziału Straży Granicznej gen. Tomasz Zybiński. Dodał, że technologia odciąża funkcjonariuszy...",
+      "date_published": "2026-05-31T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byli-namierzani-Zwykle-smartfony-wystawily-armie-USA-na-celownik-9141230.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byli-namierzani-Zwykle-smartfony-wystawily-armie-USA-na-celownik-9141230.html",
+      "title": "Byli namierzani. Zwykłe smartfony wystawiły armię USA na celownik",
+      "content_html": "Żołnierze amerykańskiej armii przebywający w strefach działań wojennych byli namierzani przy wykorzystaniu danych lokalizujących urządzenia elektroniczne – poinformowała agencja Reutera.",
+      "date_published": "2026-05-31T14:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kosztowna-lekcja-dla-inwestora-Znana-siec-sklepow-Duka-jednak-nie-znika-z-rynku-9143086.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kosztowna-lekcja-dla-inwestora-Znana-siec-sklepow-Duka-jednak-nie-znika-z-rynku-9143086.html",
+      "title": "Kosztowna lekcja dla inwestora. Znana sieć sklepów jednak nie znika z rynku",
+      "content_html": "Reaktywacja Duki? Na to wygląda. Po fiasku planu restrukturyzacyjnego sieć podjęła decyzję o zamknięciu sklepów. Teraz jak się okazuje, znaki towarowe marki zostały kupione przez grupę Biesiada Invest, firmę, która wcześniej była żywo zainteresowania...",
+      "date_published": "2026-05-31T14:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Uderzenie-drona-w-Zaporoska-Elektrownie-Atomowa-MAEA-To-igranie-z-ogniem-9143012.html",
       "url": "https://www.bankier.pl/wiadomosc/Uderzenie-drona-w-Zaporoska-Elektrownie-Atomowa-MAEA-To-igranie-z-ogniem-9143012.html",
       "title": "Uderzenie drona w Zaporoską Elektrownię Atomową. MAEA: To igranie z ogniem",
@@ -660,34 +702,6 @@
       "title": "Zgrzyt w Sejmie o płacę minimalną. „Płaca minimalna to nie jałmużna”",
       "content_html": "Wyłączenie z wysokości minimalnego wynagrodzenia za pracę dodatku funkcyjnego, dodatku specjalnego oraz premii i nagród - przewiduje projekt Lewicy, nad którym w piątek debatował Sejm. Wniosek o odrzucenie regulacji w pierwszym czytaniu złożył...",
       "date_published": "2026-05-29T21:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-III-kw-2025-26-wyniosl-89-mln-USD-9142696.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-III-kw-2025-26-wyniosl-89-mln-USD-9142696.html",
-      "title": "Zysk netto Kernel Holding w III kw. 2025/26 wyniósł 89 mln USD",
-      "content_html": "Zysk netto Kernel Holding, przypisany akcjonariuszom jednostki dominującej, w trzecim kwartale 2025/26, kończącym się 31 marca 2026 roku, wyniósł 89 mln USD wobec 41 mln USD rok wcześniej - poinformowała spółka w raporcie.",
-      "date_published": "2026-05-29T20:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Projekt-Vigo-Photonics-wpisany-na-liste-rekomendowanych-do-dofinansowania-9142671.html",
-      "url": "https://www.bankier.pl/wiadomosc/Projekt-Vigo-Photonics-wpisany-na-liste-rekomendowanych-do-dofinansowania-9142671.html",
-      "title": "Projekt Vigo Photonics wpisany na listę rekomendowanych do dofinansowania",
-      "content_html": "Projekt Vigo Photonics pt. Detektory i zintegrowane moduły detekcyjne do zastosowań przemysłowych i medycznych przystosowane do montażu powierzchniowego został wpisany na listę projektów wybranych do dofinansowania w ramach V Priorytetu Programu...",
-      "date_published": "2026-05-29T20:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kazachstan-przejmie-sporny-uran-z-Iranu-Szef-MAEA-ujawnia-plan-B-9142669.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kazachstan-przejmie-sporny-uran-z-Iranu-Szef-MAEA-ujawnia-plan-B-9142669.html",
-      "title": "Kazachstan przejmie sporny uran z Iranu? Szef MAEA ujawnia plan B",
-      "content_html": "Szef Międzynarodowej Agencji Energii Atomowej (MAEA) Rafael Grossi poinformował w wywiadzie dla „Financial Times”, opublikowanym w piątek, że Kazachstan jest gotów przyjąć irańskie zasoby wysoko wzbogaconego uranu, jeśli Iran i USA zawrą...",
-      "date_published": "2026-05-29T20:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konwojenci-zgubili-worek-z-milionem-zlotych-Gdzie-podziala-sie-gotowka-9142060.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konwojenci-zgubili-worek-z-milionem-zlotych-Gdzie-podziala-sie-gotowka-9142060.html",
-      "title": "Konwojenci zgubili worek z milionem złotych. Gdzie podziała się gotówka?",
-      "content_html": "Prokuratura postawiła zarzut przywłaszczenia miliona złotych 51-letniemu mieszkańcowi powiatu zgorzeleckiego. Według śledczych miał on znaleźć pieniądze, które zgubili podczas transportu konwojenci. Mężczyzna nie przyznał się. Do tej pory...",
-      "date_published": "2026-05-29T19:53:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
