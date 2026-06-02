@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Rainbow-Tours-do-194-5-zl-9144339.html",
+      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-cene-docelowa-akcji-Rainbow-Tours-do-194-5-zl-9144339.html",
+      "title": "East Value Research obniżył cenę docelową akcji Rainbow Tours do 194,5 zł Analitycy East Value Research obniżyli cenę docelową akcji Rainbow Tours do 194,5 zł z 210 zł wcześniej i podtrzymali rekomendację \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-06-02T06:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Anthropic-idzie-na-gielde-Debiut-mozliwy-juz-jesienia-9144197.html",
+      "url": "https://www.bankier.pl/wiadomosc/Anthropic-idzie-na-gielde-Debiut-mozliwy-juz-jesienia-9144197.html",
+      "title": "MEDIA Anthropic idzie na giełdę. Debiut możliwy już jesienią Anthropic, gigant sektora AI, poinformował w poniedziałek, że złożył w komisji papierów wartościowych USA (SEC) wniosek o wejście na giełdę. Znaczące środki, jakie pozyska firma, zostaną prawdopodobnie przeznaczone na opłacenie rosnących kosztów mocy obliczeniowych - prognozuje „New York Times”.",
+      "content_html": "",
+      "date_published": "2026-06-02T06:47:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Majowy-triumf-polskiej-technologii-Creotechy-rozbijaja-bank-9144128.html",
+      "url": "https://www.bankier.pl/wiadomosc/Majowy-triumf-polskiej-technologii-Creotechy-rozbijaja-bank-9144128.html",
+      "title": "PORTFEL GWIAZD BANKIER.PL Majowy triumf polskiej technologii. Creotechy rozbijają bank Maj 2026 roku w Portfelu Gwiazd minął pod znakiem dominacji polskiego sektora technologicznego. Choć statystycznie miesiąc ten bywa wykorzystywany do realizacji zysków tym razem szeroki rynek przyniósł szerokie wzrosty, a kilka propozycji zaliczyło spektakularne stopy zwrotu. To dzięki nim zwycięzcą miesiąca został Albert Rokicki, który dzięki wyczuciu trendu w polskim sektorze technologicznym zdeklasował konkurencję.",
+      "content_html": "",
+      "date_published": "2026-06-02T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trwa-festiwal-rekordow-na-Wall-Street-To-juz-powoli-staje-sie-nudne-9144210.html",
       "url": "https://www.bankier.pl/wiadomosc/Trwa-festiwal-rekordow-na-Wall-Street-To-juz-powoli-staje-sie-nudne-9144210.html",
       "title": "Trwa festiwal rekordów na Wall Street. To już powoli staje się nudne Poniedziałkowa sesja na nowojorskich giełdach przyniosła kolejne nowe rekordy Dow Jonesa, S&P500 i Nasdaqa. Motorem napędowym hossy pozostają spółki korzystające na boomie na generatywną AI.",
@@ -289,13 +310,6 @@
       "title": "FreeMind wypłaci 0,50 zł dywidendy za 2025 rok Walne zgromadzenie FreeMind zdecydowało o wypłacie 694 tys. zł dywidendy z zysku netto za 2025 rok, co daje 0,50 zł dywidendy na jedną akcję - poinformował producent i wydawca gier wideo notowany na NewConnect.",
       "content_html": "",
       "date_published": "2026-05-31T19:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Branza-paliwowa-grzmi-nowy-podatek-to-powazny-cios-w-gospodarke-9140341.html",
-      "url": "https://www.bankier.pl/wiadomosc/Branza-paliwowa-grzmi-nowy-podatek-to-powazny-cios-w-gospodarke-9140341.html",
-      "title": "Branża paliwowa grzmi: nowy podatek to poważny cios w gospodarkę Planowany podatek od nadzwyczajnych zysków dla sektora paliwowego grozi ograniczeniem inwestycji, osłabieniem bezpieczeństwa paliwowego państwa i utrudni realizację celów transformacji energetycznej - ocenia Polska Organizacja Przemysłu i Handlu Naftowego (POPiHN).",
-      "content_html": "",
-      "date_published": "2026-05-31T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
