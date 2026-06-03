@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-zgodzil-sie-aby-Atal-kupil-udzialy-w-spolkach-Budner-i-nieruchomosci-za-133-5-mln-zl-9146079.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-zgodzil-sie-aby-Atal-kupil-udzialy-w-spolkach-Budner-i-nieruchomosci-za-133-5-mln-zl-9146079.html",
+      "title": "UOKiK zgodził się, aby Atal kupił udziały w spółkach Budner i nieruchomości za 133,5 mln zł Prezes UOKiK wydał zgodę na dokonanie koncentracji polegającej na przejęciu przez Atal kontroli nad spółkami z Grupy Budner oraz nabycie przez Atal jej nieruchomości - podał Atal w komunikacie. Wartość transakcji wynosi 133,5 mln zł.",
+      "content_html": "",
+      "date_published": "2026-06-03T20:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kolejkowo-rozpoczyna-proces-pozyskania-dodatkowego-finansowania-poprzez-emisje-nowych-akcji-9146002.html",
       "url": "https://www.bankier.pl/wiadomosc/Kolejkowo-rozpoczyna-proces-pozyskania-dodatkowego-finansowania-poprzez-emisje-nowych-akcji-9146002.html",
       "title": "Kolejkowo rozpoczyna proces pozyskania dodatkowego finansowania poprzez emisję nowych akcji Zarząd Kolejkowo podjął uchwałę o rozpoczęciu procesu pozyskania dodatkowego finansowania poprzez emisję nowych akcji na okaziciela serii D spółki, o wartości nominalnej 0,10 zł - podała spółka w komunikacie. Transakcja zostanie przeprowadzona we współpracy z akcjonariuszem spółki - JFP Fundacja Rodzinna.",
@@ -604,20 +611,6 @@
       "title": "PORTFEL GWIAZD BANKIER.PL Majowy triumf polskiej technologii. Creotechy rozbijają bank Maj 2026 roku w Portfelu Gwiazd minął pod znakiem dominacji polskiego sektora technologicznego. Choć statystycznie miesiąc ten bywa wykorzystywany do realizacji zysków tym razem szeroki rynek przyniósł szerokie wzrosty, a kilka propozycji zaliczyło spektakularne stopy zwrotu. To dzięki nim zwycięzcą miesiąca został Albert Rokicki, który dzięki wyczuciu trendu w polskim sektorze technologicznym zdeklasował konkurencję.",
       "content_html": "",
       "date_published": "2026-06-02T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trwa-festiwal-rekordow-na-Wall-Street-To-juz-powoli-staje-sie-nudne-9144210.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trwa-festiwal-rekordow-na-Wall-Street-To-juz-powoli-staje-sie-nudne-9144210.html",
-      "title": "Trwa festiwal rekordów na Wall Street. To już powoli staje się nudne Poniedziałkowa sesja na nowojorskich giełdach przyniosła kolejne nowe rekordy Dow Jonesa, S&P500 i Nasdaqa. Motorem napędowym hossy pozostają spółki korzystające na boomie na generatywną AI.",
-      "content_html": "",
-      "date_published": "2026-06-01T22:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/InPost-zwieksza-inwestycje-we-Francji-do-1-4-mld-euro-9144132.html",
-      "url": "https://www.bankier.pl/wiadomosc/InPost-zwieksza-inwestycje-we-Francji-do-1-4-mld-euro-9144132.html",
-      "title": "InPost zwiększa inwestycje we Francji do 1,4 mld euro Grupa InPost poinformowała w poniedziałek, że zwiększy inwestycje we Francji do 1,4 mld euro, czyli o 500 mln euro do 2030 roku. Decyzję tę ogłoszono podczas 9. edycji szczytu Choose France w Wersalu pod Paryżem - konferencji inwestorów, w której brał udział prezes Grupy InPost Rafał Brzoska.",
-      "content_html": "",
-      "date_published": "2026-06-01T19:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
