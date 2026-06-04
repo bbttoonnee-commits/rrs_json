@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zaskoczenie-za-oceanem-Liczba-nowych-bezrobotnych-w-USA-wyzsza-od-prognoz-9146362.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaskoczenie-za-oceanem-Liczba-nowych-bezrobotnych-w-USA-wyzsza-od-prognoz-9146362.html",
+      "title": "Zaskoczenie za oceanem. Liczba nowych bezrobotnych w USA wyższa od prognoz Liczba osób ubiegających się po raz pierwszy o zasiłek dla bezrobotnych w ubiegłym tygodniu w USA wyniosła 225 tys. - poinformował Departament Pracy USA w komunikacie. Ekonomiści spodziewali się, że liczba nowych bezrobotnych wyniesie 214 tys. wobec 212 tys. poprzednio, po korekcie.",
+      "content_html": "",
+      "date_published": "2026-06-04T16:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spolka-z-grupy-R-Power-ma-46-5-mln-euro-kredytu-na-budowe-magazynu-energii-w-Rumunii-9146284.html",
       "url": "https://www.bankier.pl/wiadomosc/Spolka-z-grupy-R-Power-ma-46-5-mln-euro-kredytu-na-budowe-magazynu-energii-w-Rumunii-9146284.html",
       "title": "Spółka z grupy R.Power ma 46,5 mln euro kredytu na budowę magazynu energii w Rumunii Spółka współzależna z grupy R.Power zawarła umowę kredytu w formule project finance z Europejskim Bankiem Odbudowy i Rozwoju oraz Bankiem Gospodarstwa Krajowego na łączną kwotę ok. 46,5 mln euro na budowę magazynu energii w Rumunii - poinformował R.Power w komunikacie.",
@@ -331,34 +338,6 @@
       "title": "WP Holding wypłaci 1,3 zł dywidendy na akcję Walne zgromadzenie WP Holding zdecydowało o wypłacie akcjonariuszom 1,30 zł dywidendy na akcję, czyli łącznie 38,7 mln zł - poinformowała spółka w komunikacie po walnym.",
       "content_html": "",
       "date_published": "2026-06-02T19:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Erste-Group-obnizyl-wycene-dla-akcji-Sanok-Rubber-Company-do-24-1-zl-9145043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Erste-Group-obnizyl-wycene-dla-akcji-Sanok-Rubber-Company-do-24-1-zl-9145043.html",
-      "title": "Erste Group obniżył wycenę dla akcji Sanok Rubber Company do 24,1 zł Analitycy Erste Group w raporcie z 2 czerwca podtrzymali rekomendację \"neutralnie\" dla spółki Sanok Rubber Company, obniżając cenę docelową akcji do 24,1 zł z 24,6 zł wcześniej.",
-      "content_html": "",
-      "date_published": "2026-06-02T18:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-mocno-w-gore-Kilka-ABB-namieszalo-na-rynku-9144980.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-mocno-w-gore-Kilka-ABB-namieszalo-na-rynku-9144980.html",
-      "title": "SESJA NA GPW Kurs KGHM mocno w górę. Kilka ABB namieszało na rynku Choć dzień rozpoczął się od szerokich zwyżek kursów akcji, popołudniowy wzrost napięcia geopolitycznego na Bliskim Wschodzie schłodził nieco nastroje. Końcówka sesji potwierdziła przewagę byków zwłaszcza w portfelu blue chipów. Mocna sesja WIG20 to przede wszystkim efekt potężnym zwyżkom KGHM, dobrej postawy sektora bankowego w dniu decyzji RPP oraz niezłym wynikom detalistów z Allegro na czele.",
-      "content_html": "",
-      "date_published": "2026-06-02T17:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DEBATA-Rozwoj-innowacyjnosci-wymaga-silnego-rynku-kapitalowego-i-sektora-bankowego-9144969.html",
-      "url": "https://www.bankier.pl/wiadomosc/DEBATA-Rozwoj-innowacyjnosci-wymaga-silnego-rynku-kapitalowego-i-sektora-bankowego-9144969.html",
-      "title": "DEBATA: Rozwój innowacyjności wymaga silnego rynku kapitałowego i sektora bankowego Dotychczasowe przewagi polskiej gospodarki się wyczerpują, a rozwój innowacyjności wymaga silnego rynku kapitałowego, który będzie partnerem dla sektora bankowego - ocenili uczestnicy debaty PAP Biznes podczas Europejskiego Kongresu Finansowego w Sopocie.",
-      "content_html": "",
-      "date_published": "2026-06-02T17:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-maju-drugi-BoFA-9144956.html",
-      "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-maju-drugi-BoFA-9144956.html",
-      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w maju, drugi BoFA Goldman Sachs w maju 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
-      "content_html": "",
-      "date_published": "2026-06-02T17:18:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
