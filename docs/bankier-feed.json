@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Oszalales-Gdyby-nie-ja-siedzialbys-w-wiezieniu-Potezna-awantura-Trumpa-z-Netanjahu-9146398.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oszalales-Gdyby-nie-ja-siedzialbys-w-wiezieniu-Potezna-awantura-Trumpa-z-Netanjahu-9146398.html",
+      "title": "\"Oszalałeś? Gdyby nie ja, siedziałbyś w więzieniu\". Potężna awantura Trumpa z Netanjahu",
+      "content_html": "Wygląda na to, że przed wyborami w Izraelu Benjamin Netanjahu walczy o przetrwanie, a jego interesy stają się częściowo rozbieżne z tym, na czym zależy Donaldowi Trumpowi. Ale premier Izraela jest bardzo zależny od prezydenta USA, co zresztą...",
+      "date_published": "2026-06-04T21:11:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zwrot-akcji-na-froncie-Instytut-potwierdza-Ukraina-odbija-terytoria-i-dusi-budzet-Putina-9144827.html",
       "url": "https://www.bankier.pl/wiadomosc/Zwrot-akcji-na-froncie-Instytut-potwierdza-Ukraina-odbija-terytoria-i-dusi-budzet-Putina-9144827.html",
       "title": "Zwrot akcji na froncie. Instytut potwierdza: Ukraina odbija terytoria i dusi budżet Putina",
@@ -695,13 +702,6 @@
       "title": "Glapiński: Z takimi cenami prądu daleko nie zajdziemy",
       "content_html": "Rada Polityki Pieniężnej podjęła w czerwcu decyzją o utrzymaniu stóp procentowych na dotychczasowym poziomie, zgodnie z przewidywaniami analityków. Podczas konferencji prasowej prezes NBP prof. Adam Glapiński podał uzasadnienie decyzji Rady,...",
       "date_published": "2026-06-03T17:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanskie-wojska-w-Polsce-Time-ujawnia-kulisy-zaskakujacego-ruchu-Waszyngtonu-9145845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanskie-wojska-w-Polsce-Time-ujawnia-kulisy-zaskakujacego-ruchu-Waszyngtonu-9145845.html",
-      "title": "Amerykańskie wojska w Polsce. \"Time\" ujawnia kulisy zaskakującego ruchu Waszyngtonu",
-      "content_html": "Działania administracji prezydenta USA Donalda Trumpa w ostatnich tygodniach zdezorientowały Polskę - napisał w środę serwis internetowy magazynu „Time”. Polska to „sojusznik, który nie powinien martwić się, że zostanie nagle pozbawiony...",
-      "date_published": "2026-06-03T17:39:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
