@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-i-Ukraina-blisko-pokoju-Trump-przypisuje-sobie-zaslugi-a-Putin-odrzuca-list-Zelenskiego-9146877.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-i-Ukraina-blisko-pokoju-Trump-przypisuje-sobie-zaslugi-a-Putin-odrzuca-list-Zelenskiego-9146877.html",
+      "title": "Rosja i Ukraina blisko pokoju? Trump przypisuje sobie zasługi, a Putin odrzuca list Zełenskiego",
+      "content_html": "Prezydent USA Donald Trump ocenił w piątek, że Rosja i Ukraina są bliskie porozumienia o zakończeniu wojny i przypisał sobie zasługę „doprowadzenia do tego momentu”. Skomentował w ten sposób propozycję prezydenta Wołodymyra Zełenskiego...",
+      "date_published": "2026-06-06T10:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MAEA-alarmuje-Powazny-incydent-w-Zaporoskiej-Elektrowni-Atomowej-9146848.html",
       "url": "https://www.bankier.pl/wiadomosc/MAEA-alarmuje-Powazny-incydent-w-Zaporoskiej-Elektrowni-Atomowej-9146848.html",
       "title": "MAEA alarmuje. Poważny incydent w Zaporoskiej Elektrowni Atomowej",
       "content_html": "Międzynarodowa Agencja Energii Atomowej (MAEA) poinformowała w piątek wieczorem, że doszło do poważnego incydentu podczas rozminowywania terenu w pobliżu Zaporoskiej Elektrowni Atomowej; ranni zostali rosyjscy żołnierze.",
       "date_published": "2026-06-06T10:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Impas-na-linii-Teheran-Waszyngton-Iran-zada-od-Trumpa-24-miliardow-dolarow-jako-testu-zaufania-9146859.html",
+      "url": "https://www.bankier.pl/wiadomosc/Impas-na-linii-Teheran-Waszyngton-Iran-zada-od-Trumpa-24-miliardow-dolarow-jako-testu-zaufania-9146859.html",
+      "title": "Impas na linii Teheran–Waszyngton. Iran żąda od Trumpa 24 miliardów dolarów jako „testu zaufania”",
+      "content_html": "Doradca najwyższego przywódcy Iranu Mohsen Rezaei powiedział w piątek telewizji CNN, że negocjacje z USA utknęły w impasie z powodu żądań Iranu, by USA odblokowały zamrożone irańskie aktywa. Teheran domaga się uwolnienia 24 mld dol.",
+      "date_published": "2026-06-06T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Transakcja-stulecia-w-Hollywood-zagrozona-Prokuratorzy-chca-zablokowac-fuzje-Paramount-i-Warner-Bros-9146861.html",
+      "url": "https://www.bankier.pl/wiadomosc/Transakcja-stulecia-w-Hollywood-zagrozona-Prokuratorzy-chca-zablokowac-fuzje-Paramount-i-Warner-Bros-9146861.html",
+      "title": "Transakcja stulecia w Hollywood zagrożona? Prokuratorzy chcą zablokować fuzję Paramount i Warner Bros.",
+      "content_html": "Grupa stanowych prokuratorów generalnych przygotowuje sądowy pozew zmierzający do zablokowania przejęcia Warner Bros. Discovery przez Paramount Skydance — podała w piątek agencja Reutera, powołując się na źródła zaznajomione ze sprawą...",
+      "date_published": "2026-06-06T10:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Swiat-wstrzymal-oddech-Sukces-prof-Trzonkowskiego-i-PolTREG-w-walce-z-chorobami-9140917.html",
@@ -44,6 +65,13 @@
       "title": "Bloober Team zapowiada premierę gry \"Saw: Genesis\" na platformę PC w IV kwartale 2026",
       "content_html": "Bloober Team zapowiada światową premierę gry \"Saw: Genesis\" w wersji cyfrowej na platformę PC w formule early access w czwartym kwartale 2026 roku - poinformował krakowski wydawca gier w komunikacie.",
       "date_published": "2026-06-06T08:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kto-jest-krolem-na-prawicy-Nawrocki-i-Braun-na-podium-ale-liderem-pozostaje-Kaczynski-9146932.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-jest-krolem-na-prawicy-Nawrocki-i-Braun-na-podium-ale-liderem-pozostaje-Kaczynski-9146932.html",
+      "title": "Kto jest \"królem\" na prawicy? Nawrocki i Braun na podium, ale liderem pozostaje Kaczyński",
+      "content_html": "38 proc. Polaków za lidera polskiej prawicy uznaje prezesa PiS Jarosława Kaczyńskiego, 19 proc. wskazuje na prezydenta Karola Nawrockiego, a 5 proc. na lidera KKP Grzegorza Brauna - wynika z opublikowanego w sobotę sondażu przeprowadzonego dla „Super...",
+      "date_published": "2026-06-06T07:31:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zmiany-w-urzedach-Rusza-budowa-nowej-platformy-dla-Polakow-9143171.html",
@@ -667,20 +695,6 @@
       "title": "Giełda leci w dół, ale w sklepach tanio nie będzie. Brutalny raport o cenach kawy",
       "content_html": "Notowania arabiki na giełdach są obecnie o 11 proc. niższe niż rok temu, jednak w ocenie ekspertów regularne ceny kawy w sklepach w najbliższym czasie nie spadną. Z przekazanych PAP danych UCE Research wynika, że w styczniu br. kawa mielona zdrożała...",
       "date_published": "2026-06-05T07:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Xi-zlozy-w-przyszlym-tygodniu-wizyte-w-Pjongjangu-9146472.html",
-      "url": "https://www.bankier.pl/wiadomosc/Xi-zlozy-w-przyszlym-tygodniu-wizyte-w-Pjongjangu-9146472.html",
-      "title": "Xi złoży w przyszłym tygodniu wizytę w Pjongjangu",
-      "content_html": "Przywódca Chin Xi Jinping złoży w dniach 8-9 czerwca wizytę w Korei Północnej na zaproszenie Kim Dzong Una – poinformowały w piątek media państwowe obu krajów. To pierwsza podróż chińskiego prezydenta do Pjongjangu od prawie siedmiu lat...",
-      "date_published": "2026-06-05T07:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sojusznicy-ludobojcow-i-mafii-Prezydent-Kolumbii-ostro-uderza-w-rzady-Trumpa-9146466.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sojusznicy-ludobojcow-i-mafii-Prezydent-Kolumbii-ostro-uderza-w-rzady-Trumpa-9146466.html",
-      "title": "\"Sojusznicy ludobójców i mafii\". Prezydent Kolumbii ostro uderza w rządy Trumpa",
-      "content_html": "Lewicowy prezydent Kolumbii Gustavo Petro oskarżył w czwartek władze USA, że wchodzą w sojusze z „ludobójcami i handlarzami narkotyków”. Wcześniej prezydent USA Donald Trump publicznie poparł prawicowego kandydata i politycznego przeciwnika...",
-      "date_published": "2026-06-05T07:07:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
