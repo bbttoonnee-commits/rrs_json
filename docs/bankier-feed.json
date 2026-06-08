@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-II-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9147908.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-II-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9147908.html",
+      "title": "Wyniki AB w II kwartale 2025/26 vs konsensus PAP Biznes (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki AB w drugim kwartale 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "date_published": "2026-06-09T00:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wynagrodzenia-w-Polsce-Place-w-euro-wystrzelily-w-kosmos-9147833.html",
       "url": "https://www.bankier.pl/wiadomosc/Wynagrodzenia-w-Polsce-Place-w-euro-wystrzelily-w-kosmos-9147833.html",
       "title": "Wynagrodzenia w Polsce. Płace w euro wystrzeliły w kosmos",
@@ -695,13 +702,6 @@
       "title": "Wielkie zmiany w budżecie UE. Bruksela chce opodatkować kryptowaluty i hazard",
       "content_html": "Unia Europejska szuka pomysłów na nowe źródła finansowania wieloletniego budżetu UE na lata 2028-2034. Wśród propozycji jest m.in. wdrożenie podatku od gier hazardowych online czy od zysków z kryptowalut....",
       "date_published": "2026-06-08T07:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skandal-przy-budowie-konsulatu-USA-Menedzer-aresztowany-na-lotnisku-9144134.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skandal-przy-budowie-konsulatu-USA-Menedzer-aresztowany-na-lotnisku-9144134.html",
-      "title": "Skandal przy budowie konsulatu USA. Menedżer aresztowany na lotnisku",
-      "content_html": "Koło Mediolanu podczas próby wyjazdu z Włoch aresztowany został menedżer amerykańskiej firmy, która buduje nową siedzibę konsulatu USA w tym mieście - podały włoskie media. Prokuratura zarzuca menedżerowi włoskiego oddziału firmy, obywatelowi...",
-      "date_published": "2026-06-08T07:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
