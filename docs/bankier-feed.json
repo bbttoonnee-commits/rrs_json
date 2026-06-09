@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Potezny-cios-w-Rosje-UE-zamknie-granice-dla-kazdego-kto-sluzyl-w-armii-Putina-9148198.html",
+      "url": "https://www.bankier.pl/wiadomosc/Potezny-cios-w-Rosje-UE-zamknie-granice-dla-kazdego-kto-sluzyl-w-armii-Putina-9148198.html",
+      "title": "Potężny cios w Rosję. UE zamknie granice dla każdego, kto służył w armii Putina",
+      "content_html": "Komisja Europejska w ramach 21. pakietu sankcji na Rosję zaproponowała ustanowienie zakazu wjazdu do UE dla każdego, kto służył w armii rosyjskiej od początku wojny w Ukrainie. Europa będzie niedostępna dla każdego, kto brał udział w inwazji...",
+      "date_published": "2026-06-09T21:51:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-Hucie-Pieniackiej-pierwsze-wykopy-w-poszukiwaniu-miejsc-pochowkow-Polakow-9148154.html",
       "url": "https://www.bankier.pl/wiadomosc/W-Hucie-Pieniackiej-pierwsze-wykopy-w-poszukiwaniu-miejsc-pochowkow-Polakow-9148154.html",
       "title": "W Hucie Pieniackiej pierwsze wykopy w poszukiwaniu miejsc pochówków Polaków",
       "content_html": "W Hucie Pieniackiej w obwodzie lwowskim rozpoczęły się we wtorek pierwsze wykopy w miejscach, gdzie mogą znajdować się masowe mogiły Polaków, zabitych w lutym 1944 roku. Prace prowadzi Instytut Pamięci Narodowej we współpracy z ukraińskimi...",
       "date_published": "2026-06-09T21:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NASA-odkrywa-karty-Europejczyk-leci-w-kosmos-w-historycznej-misji-Artemis-III-9148590.html",
+      "url": "https://www.bankier.pl/wiadomosc/NASA-odkrywa-karty-Europejczyk-leci-w-kosmos-w-historycznej-misji-Artemis-III-9148590.html",
+      "title": "NASA odkrywa karty. Europejczyk leci w kosmos w historycznej misji Artemis III",
+      "content_html": "Amerykańska agencja kosmiczna NASA ogłosiła we wtorek, że w składzie załogi misji Artemis III, która przetestuje dokowanie kapsuły Orion z księżycowym lądownikiem, znajdzie się trzech Amerykanów i jeden Włoch.",
+      "date_published": "2026-06-09T21:23:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zwieranie-szeregow-czy-walka-frakcji-Sasin-tworzy-potezna-grupe-wewnatrz-PiS-Po-Pierwsze-Polska-9148584.html",
@@ -380,13 +394,6 @@
       "title": "Afera rozsadza Budapeszt. Szef urzędu ds. funduszy UE sam usłyszał zarzuty",
       "content_html": "Węgierska prokuratura postawiła we wtorek zarzuty Ferencowi Palowi Biro, szefowi Urzędu ds. Integralności, którego zadaniem jest monitorowanie wydatkowania funduszy Unii Europejskich. Zarzucono mu nadużycie stanowiska, fałszerstwa dokumentów i...",
       "date_published": "2026-06-09T15:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Potezny-cios-w-Rosje-UE-zamknie-granice-dla-kazdego-kto-sluzyl-w-armii-Putina-9148198.html",
-      "url": "https://www.bankier.pl/wiadomosc/Potezny-cios-w-Rosje-UE-zamknie-granice-dla-kazdego-kto-sluzyl-w-armii-Putina-9148198.html",
-      "title": "Potężny cios w Rosję. UE zamknie granice dla każdego, kto służył w armii Putina",
-      "content_html": "Komisja Europejska w ramach 21. pakietu sankcji na Rosję zaproponowała ustanowienie zakazu wjazdu do UE dla każdego, kto służył w armii rosyjskiej od początku wojny w Ukrainie. Europa będzie niedostępna dla każdego, kto brał udział w inwazji...",
-      "date_published": "2026-06-09T15:26:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Action-szacuje-obroty-w-maju-na-240-mln-zl-o-5-26-proc-wiecej-rdr-9148251.html",
