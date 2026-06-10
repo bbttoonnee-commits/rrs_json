@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 10 Jun 2026 20:20:00 +0200</lastBuildDate>
-    <item>
-      <title>Kryzys emerytalny w USA. Nadchodzi gigantyczne cięcie świadczeń?</title>
-      <link>https://www.bankier.pl/wiadomosc/Kryzys-emerytalny-w-USA-Nadchodzi-gigantyczne-ciecie-swiadczen-9148666.html</link>
-      <description>Z raportu Ubezpieczeń Społecznych (Social Security), o którym poinformowało we wtorek radio publiczne NPR, wynika, że w 2032 roku wyczerpią się środki w głównym funduszu powierniczym (OASI), który pomaga wypłacać świadczenia dla ponad 60...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kryzys-emerytalny-w-USA-Nadchodzi-gigantyczne-ciecie-swiadczen-9148666.html</guid>
-      <pubDate>Wed, 10 Jun 2026 08:10:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Więcej pocisków dla regionu. Polski lider zbrojeniówki podpisuje strategiczne porozumienie</title>
-      <link>https://www.bankier.pl/wiadomosc/Wiecej-pociskow-dla-regionu-Polski-lider-zbrojeniowki-podpisuje-strategiczne-porozumienie-9148641.html</link>
-      <description>Łotewska firma Ammunity, jako jedyna w kraju zajmująca się produkcją pocisków małego kalibru, podpisała memorandum o współpracy z Mesko, jedną z najważniejszych polskich firm przemysłu obronnego - podała we wtorek agencja LETA.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wiecej-pociskow-dla-regionu-Polski-lider-zbrojeniowki-podpisuje-strategiczne-porozumienie-9148641.html</guid>
-      <pubDate>Wed, 10 Jun 2026 08:10:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Wed, 10 Jun 2026 21:23:00 +0200</lastBuildDate>
     <item>
       <title>Polacy rzucili się po kredyty. Średnia kwota wniosku przekroczyła magiczną barierę</title>
       <link>https://www.bankier.pl/wiadomosc/Polacy-rzucili-sie-po-kredyty-Srednia-kwota-wniosku-przekroczyla-magiczna-bariere-9148688.html</link>
@@ -281,6 +267,13 @@
       <description>Ukraina zaatakowała w środę za pomocą dronów muzeum wojny krymskiej z 1853–56 na anektowanym przez Rosję Krymie – poinformowały lokalne władze z nadania Kremla. Bezzałogowce spadły także na obiekty energetyczne w głębi kraju. W wielu...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ukrainskie-drony-uderzyly-w-muzeum-na-Krymie-i-obiekty-naftowe-w-Rosji-9148791.html</guid>
       <pubDate>Wed, 10 Jun 2026 12:01:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Nowy bat na toksycznych szefów. Zmiany w Kodeksie pracy zrewolucjonizują polskie firmy</title>
+      <link>https://www.bankier.pl/wiadomosc/Nowy-bat-na-toksycznych-szefow-Zmiany-w-Kodeksie-pracy-zrewolucjonizuja-polskie-firmy-9148819.html</link>
+      <description>Projekt ustawy antymobbingowej został w Sejmie skierowany do drugiego czytania i jeśli wszystko dobrze pójdzie, to do końca wakacji będziemy mieć uchwalone nowe przepisy - powiedziała w środę w Studiu PAP radca prawny dr Monika Wieczorek. Jak...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Nowy-bat-na-toksycznych-szefow-Zmiany-w-Kodeksie-pracy-zrewolucjonizuja-polskie-firmy-9148819.html</guid>
+      <pubDate>Wed, 10 Jun 2026 12:25:00 +0200</pubDate>
     </item>
     <item>
       <title>Zmasowany atak ze Wschodu na SAFE: Próba zohydzenia pieniędzy na armię</title>
@@ -556,6 +549,13 @@
       <pubDate>Wed, 10 Jun 2026 16:27:00 +0200</pubDate>
     </item>
     <item>
+      <title>Local content to proces na lata, rząd i firmy wskazują kierunki wdrażania</title>
+      <link>https://www.bankier.pl/wiadomosc/DEBATA-PAP-BIZNES-Local-content-to-proces-na-lata-rzad-i-firmy-wskazuja-kierunki-wdrazania-9149117.html</link>
+      <description>Local content wymaga zmian w podejściu zakupowym i współpracy z rynkiem - wskazują uczestnicy debaty PAP Biznes. Rząd kończy prace nad kodeksem dobrych praktyk, firmy chcą doprecyzowania zasad budowy krajowego łańcucha dostaw oraz bezpieczeństwa...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/DEBATA-PAP-BIZNES-Local-content-to-proces-na-lata-rzad-i-firmy-wskazuja-kierunki-wdrazania-9149117.html</guid>
+      <pubDate>Wed, 10 Jun 2026 16:32:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Budżet UE na finiszu. Komisja chce wydać niemal 200 mld euro</title>
       <link>https://www.bankier.pl/wiadomosc/Budzet-UE-na-finiszu-Komisja-chce-wydac-niemal-200-mld-euro-9149139.html</link>
       <description>Komisja Europejska zaproponowała w środę, aby budżet Unii Europejskiej na 2027 r. wyniósł blisko 200 mld euro. Projekt, będący ostatnim w obecnej perspektywie finansowej UE na lata 202 - 2027, przewiduje zwiększone wsparcie m.in. dla Ukrainy...</description>
@@ -596,13 +596,6 @@
       <description>Doszło do awarii aplikacji Banku Pekao. Nasi czytelnicy alarmują, że mają problemy z PeoPay, płatnościami Blikiem i płatnościami online.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Awaria-aplikacji-Banku-Pekao-Tak-mozna-obejsc-zablokowane-logowanie-9148810.html</guid>
       <pubDate>Wed, 10 Jun 2026 17:35:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Prezydent Nawrocki poleci na urodziny Trumpa. Obejrzą razem... galę sztuk walki UFC</title>
-      <link>https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-poleci-na-urodziny-Trumpa-Obejrza-razem-gale-sztuk-walki-UFC-9149184.html</link>
-      <description>Prezydent Karol Nawrocki otrzymał zaproszenie na urodziny amerykańskiego przywódcy Donalda Trumpa i w niedzielę wybiera się do USA; wizyta nie będzie miała charakteru oficjalnego - dowiedziała się PAP w źródłach w Pałacu Prezydenckim.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-poleci-na-urodziny-Trumpa-Obejrza-razem-gale-sztuk-walki-UFC-9149184.html</guid>
-      <pubDate>Wed, 10 Jun 2026 17:37:00 +0200</pubDate>
     </item>
     <item>
       <title>RN PKO BP powołała do zarządu banku Wojciecha Papieraka i Piotra Stolarczyka</title>
@@ -668,13 +661,6 @@
       <pubDate>Wed, 10 Jun 2026 19:36:00 +0200</pubDate>
     </item>
     <item>
-      <title>Kaczyński od godzin w prokuraturze. Trwa przesłuchanie ws. „dwóch wież”</title>
-      <link>https://www.bankier.pl/wiadomosc/Kaczynski-od-godzin-w-prokuraturze-Trwa-przesluchanie-ws-dwoch-wiez-9149220.html</link>
-      <description>W Prokuraturze Okręgowej w Warszawie od godz. 10 trwa z przerwami przesłuchanie w charakterze świadka prezesa PiS Jarosława Kaczyńskiego w związku z toczącym się postępowaniem w sprawie tzw. dwóch wież - przekazał w środę rzecznik tej prokuratury...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kaczynski-od-godzin-w-prokuraturze-Trwa-przesluchanie-ws-dwoch-wiez-9149220.html</guid>
-      <pubDate>Wed, 10 Jun 2026 19:37:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Echo Investment wyemitował obligacje o łącznej wartości nominalnej 47 mln euro</title>
       <link>https://www.bankier.pl/wiadomosc/Echo-Investment-wyemitowal-obligacje-o-lacznej-wartosci-nominalnej-47-mln-euro-9149262.html</link>
       <description>Echo Investment w ramach programu emisji obligacji wyemitował obligacje serii 7I/2026 o łącznej wartości nominalnej 47 mln euro - poinformowała spółka w komunikacie.</description>
@@ -694,6 +680,27 @@
       <description>Zebrano wystarczającą liczbę podpisów do rejestracji komitetu inicjatywy ustawodawczej, której przedmiotem jest zakaz propagowania „banderyzmu” – poinformował w środę prezydent Chełma i doradca społeczny prezydenta RP Jakub Banaszek, który...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Stop-banderyzmowi-Zebrano-podpisy-pod-obywatelskim-projektem-ustawy-9149282.html</guid>
       <pubDate>Wed, 10 Jun 2026 20:20:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>USA wysyłają sygnał do Hawany. Hegseth mówi o możliwej konfrontacji</title>
+      <link>https://www.bankier.pl/wiadomosc/USA-wysylaja-sygnal-do-Hawany-Hegseth-mowi-o-mozliwej-konfrontacji-9149298.html</link>
+      <description>Szef Pentagonu Pete Hegseth przestrzegł w środę władze Kuby przed próbami pozyskania broni, w której zasięgu znalazłoby się terytorium USA lub amerykańska baza nad Zatoką Guantanamo. Powiedział, że taki krok doprowadziłby do konfrontacji...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/USA-wysylaja-sygnal-do-Hawany-Hegseth-mowi-o-mozliwej-konfrontacji-9149298.html</guid>
+      <pubDate>Wed, 10 Jun 2026 20:43:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Kaczyński w prokuraturze. Przesłuchanie ws. „dwóch wież” trwało godziny</title>
+      <link>https://www.bankier.pl/wiadomosc/Kaczynski-od-godzin-w-prokuraturze-Trwa-przesluchanie-ws-dwoch-wiez-9149220.html</link>
+      <description>W Prokuraturze Okręgowej w Warszawie od godz. 10 trwa z przerwami przesłuchanie w charakterze świadka prezesa PiS Jarosława Kaczyńskiego w związku z toczącym się postępowaniem w sprawie tzw. dwóch wież - przekazał w środę rzecznik tej prokuratury...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Kaczynski-od-godzin-w-prokuraturze-Trwa-przesluchanie-ws-dwoch-wiez-9149220.html</guid>
+      <pubDate>Wed, 10 Jun 2026 21:22:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Prezydent Nawrocki poleci na urodziny Trumpa. Obejrzą razem... galę sztuk walki UFC</title>
+      <link>https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-poleci-na-urodziny-Trumpa-Obejrza-razem-gale-sztuk-walki-UFC-9149184.html</link>
+      <description>Prezydent Karol Nawrocki otrzymał zaproszenie na urodziny amerykańskiego przywódcy Donalda Trumpa i w niedzielę wybiera się do USA; wizyta nie będzie miała charakteru oficjalnego - dowiedziała się PAP w źródłach w Pałacu Prezydenckim.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-poleci-na-urodziny-Trumpa-Obejrza-razem-gale-sztuk-walki-UFC-9149184.html</guid>
+      <pubDate>Wed, 10 Jun 2026 21:23:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
