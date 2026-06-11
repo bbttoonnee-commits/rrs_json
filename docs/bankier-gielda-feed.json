@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-redukuje-liczbe-otwarc-Sinsay-w-tym-roku-do-750-chce-wzmocnic-sprzedaz-istniejacych-salonow-9150068.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-redukuje-liczbe-otwarc-Sinsay-w-tym-roku-do-750-chce-wzmocnic-sprzedaz-istniejacych-salonow-9150068.html",
+      "title": "LPP redukuje liczbę otwarć Sinsay w tym roku do 750, chce wzmocnić sprzedaż istniejących salonów LPP redukuje liczbę otwarć salonów Sinsay w tym roku do 750 wobec 950 planowanych pierwotnie, a w 2027 roku też chce otworzyć 750 sklepów tej marki - poinformował wiceprezes Marcin Bójko. Jak dodał, podejmowane są działania celem wzmocnienia sprzedaży w istniejących salonach Sinsay.",
+      "content_html": "",
+      "date_published": "2026-06-11T20:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kogeneracja-wyplaci-2-58-zl-dywidendy-na-akcje-za-25-9150009.html",
       "url": "https://www.bankier.pl/wiadomosc/Kogeneracja-wyplaci-2-58-zl-dywidendy-na-akcje-za-25-9150009.html",
-      "title": "Kogeneracja wypłaci 2,58 zł dywidendy na akcję za '25 Akcjonariusze Zespołu Elektrociepłowni Wrocławskich Kogeneracja zdecydowali, że z zysku netto za 2025 r. spółka przeznaczy na wypłatę dywidendy 38,44 mln zł, co daje 2,58 zł dywidendy na akcję - podała spółka w komunikacie.",
+      "title": "Kogeneracja nie wypłaci dywidendy z zysku za '25 Akcjonariusze Zespołu Elektrociepłowni Wrocławskich Kogeneracja zdecydowali, że z zysku netto za 2025 r. spółka przeznaczy na wypłatę dywidendy 38,44 mln zł, co daje 2,58 zł dywidendy na akcję - podała spółka w komunikacie.",
       "content_html": "",
-      "date_published": "2026-06-11T18:14:00+02:00"
+      "date_published": "2026-06-11T19:31:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LPP-chce-w-sierpniu-uruchomic-marketplace-w-Sinsay-9150046.html",
+      "url": "https://www.bankier.pl/wiadomosc/LPP-chce-w-sierpniu-uruchomic-marketplace-w-Sinsay-9150046.html",
+      "title": "LPP chce w sierpniu uruchomić marketplace w Sinsay LPP chce w drugiej połowie sierpnia uruchomić marketplace w Sinsay - poinformował wiceprezes Marcin Bójko.",
+      "content_html": "",
+      "date_published": "2026-06-11T19:28:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Modivo-Platform-szacuje-ze-w-okresie-1-V-10-VI-sprzedaz-wzrosla-o-18-proc-9149988.html",
@@ -520,13 +534,6 @@
       "title": "S&P 500 powrócił z dalekiej podróży. Ale i tak skończył pod kreską Wtorkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a inwestorzy ponownie przenoszą swoje aktywa z akcji spółek technologicznych i związanych ze sztuczną inteligencją na akcje firm surowcowych i dóbr konsumenckich.",
       "content_html": "",
       "date_published": "2026-06-09T22:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-koncesji-na-A4-ale-Stalexport-nie-znika-Spolka-ma-zaskakujacy-plan-9148598.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-koncesji-na-A4-ale-Stalexport-nie-znika-Spolka-ma-zaskakujacy-plan-9148598.html",
-      "title": "Koniec koncesji na A4, ale Stalexport nie znika. Spółka ma zaskakujący plan Spółka Stalexport Autostrady, czyli właściciel koncesjonariusza autostrady A4 Katowice - Kraków, zamierza dalej działać po wygaśnięciu koncesji w przyszłym roku. Chce bazować na dotychczasowym doświadczeniu w zarządzaniu infrastrukturą - wynika z wtorkowej informacji.",
-      "content_html": "",
-      "date_published": "2026-06-09T20:35:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
