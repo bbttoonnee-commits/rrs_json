@@ -4,13 +4,6 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Kto-naprawde-pisal-ustawe-o-krypto-Ministerstwo-zabiera-glos-ws-wrzutki-od-Zondacrypto-9150653.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kto-naprawde-pisal-ustawe-o-krypto-Ministerstwo-zabiera-glos-ws-wrzutki-od-Zondacrypto-9150653.html",
-      "title": "Kto naprawdę pisał ustawę o krypto? Ministerstwo zabiera głos ws. \"wrzutki\" od Zondacrypto",
-      "content_html": "Żadna z poprawek do ustawy o rynku kryptoaktywów, która miała być zgłaszana przez Związek Banków Polskich, a która według mediów miała być konsultowana z Zondacrypto, nie znalazła się w ostatecznej wersji projektu ustawy o rynku kryptoaktywów...",
-      "date_published": "2026-06-13T09:00:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/250-600-euro-za-opozniony-lot-UE-uzgadnia-nowe-przepisy-9150646.html",
       "url": "https://www.bankier.pl/wiadomosc/250-600-euro-za-opozniony-lot-UE-uzgadnia-nowe-przepisy-9150646.html",
       "title": "250–600 euro za opóźniony lot. UE uzgadnia nowe przepisy",
@@ -18,10 +11,52 @@
       "date_published": "2026-06-13T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sygnity-ma-aneks-do-umowy-z-NBP-podwyzszajacy-wynagrodzenie-o-25-mln-zl-brutto-9150714.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sygnity-ma-aneks-do-umowy-z-NBP-podwyzszajacy-wynagrodzenie-o-25-mln-zl-brutto-9150714.html",
+      "title": "Sygnity ma aneks do umowy z NBP podwyższający wynagrodzenie o 25 mln zł brutto",
+      "content_html": "Sygnity podpisało aneks do umowy z Narodowym Bankiem Polskim, na podstawie którego łączne maksymalne wynagrodzenie zostało zwiększone o 25 mln zł brutto, a tym samym łącznie maksymalne wynagrodzenie nie przekroczy kwoty ok. 135 mln zł brutto...",
+      "date_published": "2026-06-12T21:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-iranskiej-dyplomacji-Umowa-z-USA-nigdy-nie-byla-blizsza-9150679.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-iranskiej-dyplomacji-Umowa-z-USA-nigdy-nie-byla-blizsza-9150679.html",
+      "title": "Szef irańskiej dyplomacji: Umowa z USA nigdy nie była bliższa",
+      "content_html": "Szef irańskiej dyplomacji Abbas Aragczi ogłosił w piątek, że wstępne porozumienie między Iranem a USA jeszcze nigdy nie było tak bliskie. Zaapelował też do mediów, by nie spekulowały na temat jego treści. Prezydent USA Donald Trump udostępnił...",
+      "date_published": "2026-06-12T21:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rada-Europy-uderza-w-Polske-Wezwala-do-zmian-w-sadownictwie-9150707.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rada-Europy-uderza-w-Polske-Wezwala-do-zmian-w-sadownictwie-9150707.html",
+      "title": "Rada Europy uderza w Polskę. Wezwała do zmian w sądownictwie",
+      "content_html": "Komitet Ministrów Rady Europy, który nadzoruje wykonywanie wyroków Europejskiego Trybunału Praw Człowieka w Strasburgu, wezwał Polskę do podjęcia działań związanych z wykonywaniem kilku orzeczeń ETPCz dotyczących problemów sądownictwa w...",
+      "date_published": "2026-06-12T21:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/GE-Hydro-France-zglosil-wobec-Mostostalu-Warszawa-roszczenia-wzajemne-9150695.html",
+      "url": "https://www.bankier.pl/wiadomosc/GE-Hydro-France-zglosil-wobec-Mostostalu-Warszawa-roszczenia-wzajemne-9150695.html",
+      "title": "GE Hydro France zgłosił wobec Mostostalu Warszawa roszczenia wzajemne",
+      "content_html": "GE Hydro France zgłosił wobec Mostostalu Warszawa roszczenia wzajemne w związku z umową dotyczącą elektrowni wodnej Porąbka-Żar i wniósł m.in. o zobowiązanie do zapłaty kwoty zapłaconych przez niego do tej pory kar umownych w kwocie 31 mln...",
+      "date_published": "2026-06-12T20:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-wycofuje-sie-z-czesci-obowiazkow-SENT-Ulga-dla-branzy-odziezowej-9150684.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-wycofuje-sie-z-czesci-obowiazkow-SENT-Ulga-dla-branzy-odziezowej-9150684.html",
+      "title": "Rząd wycofuje się z części obowiązków SENT. Ulga dla branży odzieżowej",
+      "content_html": "Obowiązek zgłaszania przewozów do systemu SENT dla odzieży i obuwia będzie obowiązywał tylko w procedurach przywozu na terytorium Polski oraz tranzytu - poinformował w piątek minister finansów i gospodarki Andrzej Domański. Dodał, że rozporządzenie...",
+      "date_published": "2026-06-12T20:23:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowe-zarzuty-w-aferze-Pegasusa-W-tle-inwigilacja-adwokata-9150589.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowe-zarzuty-w-aferze-Pegasusa-W-tle-inwigilacja-adwokata-9150589.html",
       "title": "Nowe zarzuty w aferze Pegasusa. W tle inwigilacja adwokata",
       "content_html": "Prokurator przedstawił zarzuty obecnej funkcjonariuszce Centralnego Biura Antykorupcyjnego w śledztwie dotyczącym oprogramowania „Pegasus” – podał rzecznik PK prok. Przemysław Nowak. Uzupełnione zostały także zarzuty dla dwóch byłych funkcjonariuszy...",
+      "date_published": "2026-06-12T20:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kto-naprawde-pisal-ustawe-o-krypto-Ministerstwo-zabiera-glos-ws-wrzutki-od-Zondacrypto-9150653.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-naprawde-pisal-ustawe-o-krypto-Ministerstwo-zabiera-glos-ws-wrzutki-od-Zondacrypto-9150653.html",
+      "title": "Kto naprawdę pisał ustawę o krypto? Ministerstwo zabiera głos ws. \"wrzutki\" od Zondacrypto",
+      "content_html": "Żadna z poprawek do ustawy o rynku kryptoaktywów, która miała być zgłaszana przez Związek Banków Polskich, a która według mediów miała być konsultowana z Zondacrypto, nie znalazła się w ostatecznej wersji projektu ustawy o rynku kryptoaktywów...",
       "date_published": "2026-06-12T20:00:00+02:00"
     },
     {
@@ -667,41 +702,6 @@
       "title": "Relacje ZEA-Iran. Pierwsze spotkanie dyplomatów od wybuchu wojny",
       "content_html": "Przedstawiciele Zjednoczonych Emiratów Arabskich i Iranu spotkali się po raz pierwszy od wybuchu wojny USA i Izraela z Teheranem pod koniec lutego - poinformowała w czwartek agencja Bloomberga. W czasie konfliktu Iran atakował ZEA. To wyraźny zwrot...",
       "date_published": "2026-06-11T20:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grecy-uznani-za-10-mniejszosc-narodowa-w-Polsce-Prezydent-podpisal-ustawe-9150053.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grecy-uznani-za-10-mniejszosc-narodowa-w-Polsce-Prezydent-podpisal-ustawe-9150053.html",
-      "title": "Grecy uznani za 10 mniejszość narodową w Polsce. Prezydent podpisał ustawę",
-      "content_html": "Grecy zostali 10 mniejszością narodową w Polsce. Prezydent Karol Nawrocki podpisał nowelizację ustawy w tej sprawie. Ekaterini Ewangelu, przewodnicząca stowarzyszenia Ellas Parea przekazała PAP, że grecka diaspora zabiegała o to od wielu lat...",
-      "date_published": "2026-06-11T20:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kogeneracja-wyplaci-2-58-zl-dywidendy-na-akcje-za-25-9150009.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kogeneracja-wyplaci-2-58-zl-dywidendy-na-akcje-za-25-9150009.html",
-      "title": "Kogeneracja nie wypłaci dywidendy z zysku za '25",
-      "content_html": "Akcjonariusze Zespołu Elektrociepłowni Wrocławskich Kogeneracja zdecydowali, że z zysku netto za 2025 r. spółka przeznaczy na wypłatę dywidendy 38,44 mln zł, co daje 2,58 zł dywidendy na akcję - podała spółka w komunikacie.",
-      "date_published": "2026-06-11T20:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Epidemia-eboli-w-Kongu-Setki-zakazonych-i-wzrost-liczby-ofiar-9150048.html",
-      "url": "https://www.bankier.pl/wiadomosc/Epidemia-eboli-w-Kongu-Setki-zakazonych-i-wzrost-liczby-ofiar-9150048.html",
-      "title": "Epidemia eboli w Kongu. Setki zakażonych i wzrost liczby ofiar",
-      "content_html": "Liczba potwierdzonych przypadków wirusa ebola w Demokratycznej Republice Konga wzrosła do 676, a liczba zgonów do 136 - pokazują opublikowane w czwartek dane ministerstwa zdrowia tego kraju.",
-      "date_published": "2026-06-11T20:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/LPP-chce-w-sierpniu-uruchomic-marketplace-w-Sinsay-9150046.html",
-      "url": "https://www.bankier.pl/wiadomosc/LPP-chce-w-sierpniu-uruchomic-marketplace-w-Sinsay-9150046.html",
-      "title": "LPP chce w sierpniu uruchomić marketplace w Sinsay",
-      "content_html": "LPP chce w drugiej połowie sierpnia uruchomić marketplace w Sinsay - poinformował wiceprezes Marcin Bójko.",
-      "date_published": "2026-06-11T20:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-sklad-KRS-wybral-przewodniczacego-Zawistowski-Doloze-wszelkich-staran-9149674.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-sklad-KRS-wybral-przewodniczacego-Zawistowski-Doloze-wszelkich-staran-9149674.html",
-      "title": "Nowy skład KRS wybrał przewodniczącego. Zawistowski: Dołożę wszelkich starań",
-      "content_html": "Sędzia Dariusz Zawistowski został w czwartek wybrany na przewodniczącego Krajowej Rady Sądownictwa. Sędziowie: Wojciech Buchajczuk i Aleksandra Wrzesińska-Nowacka zostali w czwartek po południu wybrani na nowych wiceprzewodniczących Krajowej Rady...",
-      "date_published": "2026-06-11T20:16:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
