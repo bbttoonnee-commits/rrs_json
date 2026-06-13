@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Resort-sprawiedliwosci-zgodzil-sie-na-przejecie-Warner-Bros-przez-Paramount-9150749.html",
+      "url": "https://www.bankier.pl/wiadomosc/Resort-sprawiedliwosci-zgodzil-sie-na-przejecie-Warner-Bros-przez-Paramount-9150749.html",
+      "title": "POLITICO Resort sprawiedliwości zgodził się na przejęcie Warner Bros. przez Paramount Wydział antymonopolowy ministerstwa sprawiedliwości USA zatwierdził przejęcie Warner Bros Discovery (WBD) przez Paramount Skydance - poinformował portal Politico, powołując się na dwa źródła. Według serwisu decyzja zostanie ogłoszona jeszcze w piątek.",
+      "content_html": "",
+      "date_published": "2026-06-13T08:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SpaceX-juz-na-gieldzie-Elon-Musk-pierwszym-na-swiecie-bilionerem-9150648.html",
+      "url": "https://www.bankier.pl/wiadomosc/SpaceX-juz-na-gieldzie-Elon-Musk-pierwszym-na-swiecie-bilionerem-9150648.html",
+      "title": "SpaceX już na giełdzie. Elon Musk pierwszym na świecie bilionerem Akcje SpaceX zadebiutowały w piątek na Nasdaq z ceną 150 USD za sztukę na otwarciu, podczas gdy w ofercie publicznej spółka zajmująca się sztuczną inteligencją i kosmosem wyceniła swoje akcje na 135 USD.",
+      "content_html": "",
+      "date_published": "2026-06-13T08:07:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielkie-ambicje-zwiazane-z-AI-karmione-coraz-gorszej-jakosci-dlugiem-9150634.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielkie-ambicje-zwiazane-z-AI-karmione-coraz-gorszej-jakosci-dlugiem-9150634.html",
       "title": "O TYM MÓWI WALL STREET Wielkie ambicje związane z AI karmione coraz gorszej jakości długiem Na Wall Street nie słabną zachwyty nad SpaceX oraz gigantycznym potencjałem sztucznej inteligencji. Jednak dyrektor inwestycyjny giganta rynku długu, firmy Pimco, ostrzega, że aby sfinansować te ogromne ambicje, emituje się coraz bardziej skomplikowane i gorzej zabezpieczone instrumenty dłużne.",
@@ -18,6 +32,13 @@
       "date_published": "2026-06-13T06:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gieldy-koncza-na-plusie-w-centrum-uwagi-debiut-SpaceX-9150743.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldy-koncza-na-plusie-w-centrum-uwagi-debiut-SpaceX-9150743.html",
+      "title": "WALL STREET Giełdy kończą na plusie, w centrum uwagi debiut SpaceX Piątkowa sesja na Wall Street zakończyła się mocnymi wzrostami głównych indeksów. Wydarzeniem dnia był debiut na giełdzie Nasdaq firmy SpaceX, należącej do Elona Muska.",
+      "content_html": "",
+      "date_published": "2026-06-12T23:15:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sygnity-ma-aneks-do-umowy-z-NBP-podwyzszajacy-wynagrodzenie-o-25-mln-zl-brutto-9150714.html",
       "url": "https://www.bankier.pl/wiadomosc/Sygnity-ma-aneks-do-umowy-z-NBP-podwyzszajacy-wynagrodzenie-o-25-mln-zl-brutto-9150714.html",
       "title": "Sygnity ma aneks do umowy z NBP podwyższający wynagrodzenie o 25 mln zł brutto Sygnity podpisało aneks do umowy z Narodowym Bankiem Polskim, na podstawie którego łączne maksymalne wynagrodzenie zostało zwiększone o 25 mln zł brutto, a tym samym łącznie maksymalne wynagrodzenie nie przekroczy kwoty ok. 135 mln zł brutto - podała spółka w komunikacie.",
@@ -30,13 +51,6 @@
       "title": "GE Hydro France zgłosił wobec Mostostalu Warszawa roszczenia wzajemne GE Hydro France zgłosił wobec Mostostalu Warszawa roszczenia wzajemne w związku z umową dotyczącą elektrowni wodnej Porąbka-Żar i wniósł m.in. o zobowiązanie do zapłaty kwoty zapłaconych przez niego do tej pory kar umownych w kwocie 31 mln zł - podał Mostostal Warszawa w komunikacie.",
       "content_html": "",
       "date_published": "2026-06-12T19:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/SpaceX-juz-na-gieldzie-Elon-Musk-pierwszym-na-swiecie-bilionerem-9150648.html",
-      "url": "https://www.bankier.pl/wiadomosc/SpaceX-juz-na-gieldzie-Elon-Musk-pierwszym-na-swiecie-bilionerem-9150648.html",
-      "title": "SpaceX już na giełdzie. Elon Musk pierwszym na świecie bilionerem Akcje SpaceX zadebiutowały w piątek na Nasdaq z ceną 150 USD za sztukę na otwarciu, podczas gdy w ofercie publicznej spółka zajmująca się sztuczną inteligencją i kosmosem wyceniła swoje akcje na 135 USD.",
-      "content_html": "",
-      "date_published": "2026-06-12T18:34:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Notowania-na-polskiej-gieldzie-coraz-wyzej-Hossa-nie-odpuszcza-mimo-kosmicznej-korekty-9150618.html",
@@ -422,62 +436,6 @@
       "title": "Citi Handlowy chce rosnąc szybciej w bankowości instytucjonalnej Citi Handlowy liczy, że po sprzedaży detalu będzie mógł rosnąć szybciej w bankowości instytucjonalnej, a utrzymującą się na rynku dużą zmienność traktuje jako dodatkową szansę na rozwój - poinformowała PAP Biznes prezes banku Elżbieta Czetwertyńska. Bank planuje w grudniu przedstawić zaktualizowaną strategię, w której dostosuje swoje plany do obecnej sytuacji na rynku.",
       "content_html": "",
       "date_published": "2026-06-11T10:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AI-zwalnia-i-optymalizuje-koszty-Potezny-short-squeeze-na-akcjach-amerykanskiej-sieci-restauracji-9149476.html",
-      "url": "https://www.bankier.pl/wiadomosc/AI-zwalnia-i-optymalizuje-koszty-Potezny-short-squeeze-na-akcjach-amerykanskiej-sieci-restauracji-9149476.html",
-      "title": "AI zwalnia i optymalizuje koszty. Potężny short squeeze na akcjach amerykańskiej sieci restauracji Amerykańska ikona domowej kuchni, sieć restauracji Cracker Barrel, robi ostry zwrot w stronę technologii. Spółka ogłosiła, że zaprzęgła do pracy sztuczną inteligencję i to z konkretnymi sukcesami. Oddanie części menedżerskich sterów „AI-kierownikowi” pozwoliło okiełznać koszty i zoptymalizować grafiki. Gdy dołożono do tego rewelacyjne wyniki finansowe; inwestorzy znów znaleźli powody do radości, a spekulanci grający na krótko właśnie zostali brutalnie wyciśnięci z rynku.",
-      "content_html": "",
-      "date_published": "2026-06-11T09:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BM-Pekao-podtrzymuje-rekomendacje-sprzedaj-dla-Bogdanki-cena-docelowa-akcji-18-92-zl-9149489.html",
-      "url": "https://www.bankier.pl/wiadomosc/BM-Pekao-podtrzymuje-rekomendacje-sprzedaj-dla-Bogdanki-cena-docelowa-akcji-18-92-zl-9149489.html",
-      "title": "BM Pekao podtrzymuje rekomendację \"sprzedaj\" dla Bogdanki, cena docelowa akcji 18,92 zł Analitycy BM Pekao w raporcie z 11 czerwca podtrzymali rekomendację \"sprzedaj\" dla Bogdanki i wyznaczyli cenę docelową na poziomie 18,92 zł, co daje potencjał spadku kursu o ok. 14 proc.",
-      "content_html": "",
-      "date_published": "2026-06-11T09:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stawka-podatku-windfall-tax-od-firm-paliwowych-obnizona-do-60-z-75-proc-wplywy-w-26-do-3-8-mld-zl-9149478.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stawka-podatku-windfall-tax-od-firm-paliwowych-obnizona-do-60-z-75-proc-wplywy-w-26-do-3-8-mld-zl-9149478.html",
-      "title": "WINDFALL TAX Podatek od zysków firm paliwowych niższy, niż zakładano Stawka podatku windfall tax od firm paliwowych ma zostać obniżona do 60 proc. z 75 proc., a wpływy w 2026 r. do 3,8 mld zł z 4,75 mld zł - podano w najnowszej wersji projektu ustawy o nadmiarowych zyskach koncernów paliwowych.",
-      "content_html": "",
-      "date_published": "2026-06-11T09:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-zwyzkuja-w-reakcji-na-napieta-sytuacje-na-Bliskim-Wschodzie-9149471.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-zwyzkuja-w-reakcji-na-napieta-sytuacje-na-Bliskim-Wschodzie-9149471.html",
-      "title": "Ceny gazu w Europie zwyżkują w reakcji na napiętą sytuację na Bliskim Wschodzie Ceny gazu w Europie rosną w reakcji na napiętą sytuację na Bliskim Wschodzie, gdzie doszło do kolejnej fali wzajemnych ataków USA i Iranu. Do tego problemy widać na norweskim polu gazowym Troll, ważnym dla dostaw gazu do krajów Europy - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-06-11T08:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/JFPFundacja-Rodzinna-sprzeda-w-ABB-160-tys-akcji-Kolejkowo-po-55-zl-za-sztuke-9149466.html",
-      "url": "https://www.bankier.pl/wiadomosc/JFPFundacja-Rodzinna-sprzeda-w-ABB-160-tys-akcji-Kolejkowo-po-55-zl-za-sztuke-9149466.html",
-      "title": "JFPFundacja Rodzinna sprzeda w ABB 160 tys. akcji Kolejkowo, po 55 zł za sztukę JFPFundacja Rodzinna, akcjonariusz spółki Kolejkowo, w wyniku zakończonego procesu przyspieszonej budowy księgi popytu (ABB) sprzeda 160 tys. akcji tej spółki, po 55 zł za sztukę - poinformowało Kolejkowo w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-11T08:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Feerum-wybrane-do-realizacji-projektu-Dandara-w-Egipcie-za-15-4-mln-USD-9149454.html",
-      "url": "https://www.bankier.pl/wiadomosc/Feerum-wybrane-do-realizacji-projektu-Dandara-w-Egipcie-za-15-4-mln-USD-9149454.html",
-      "title": "Feerum wybrane do realizacji projektu Dandara w Egipcie za 15,4 mln USD Grupa Feerum została po raz drugi wybrana przez egipską państwową spółkę The Egyptian Holding Company for Silos and Storage do realizacji inwestycji zbożowej, w ramach której wynagrodzenie przypadające na Feerum ma wartość 15,4 mln USD (57 mln zł) - poinformował w komunikacie polski producent elewatorów zbożowych.",
-      "content_html": "",
-      "date_published": "2026-06-11T08:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Synektik-mial-58-5-mln-zl-wyniku-EBITDA-w-II-kw-powyzej-oczekiwan-9149441.html",
-      "url": "https://www.bankier.pl/wiadomosc/Synektik-mial-58-5-mln-zl-wyniku-EBITDA-w-II-kw-powyzej-oczekiwan-9149441.html",
-      "title": "Synektik miał 58,5 mln zł wyniku EBITDA w II kw., powyżej oczekiwań EBITDA grupy Synektik w drugim kwartale roku obrotowego 2025/26 wyniosła 58,5 mln zł - poinformował giełdowy dostawca technologii medycznych oraz producent radiofarmaceutyków w komunikacie. Ankietowani przez PAP Biznes analitycy spodziewali się wyniku EBITDA na poziomie 56,2 mln zł.",
-      "content_html": "",
-      "date_published": "2026-06-11T07:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fundusze-dluzne-wracaja-na-prowadzenie-Najwiekszy-naplyw-kapitalu-w-maju-9149437.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fundusze-dluzne-wracaja-na-prowadzenie-Najwiekszy-naplyw-kapitalu-w-maju-9149437.html",
-      "title": "Fundusze dłużne wracają na prowadzenie. Największy napływ kapitału w maju W maju 2026 roku klienci wpłacili do funduszy inwestycyjnych 2,7 mld zł, o 50 proc. więcej niż w kwietniu. Wpłaty netto do funduszy detalicznych sięgnęły 2,1 mld zł - wynika z danych portalu Analizy.pl",
-      "content_html": "",
-      "date_published": "2026-06-11T07:44:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
