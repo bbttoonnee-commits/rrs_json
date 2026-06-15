@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Deal-z-Iranem-podpisany-Dow-Jones-z-nowym-rekordem-wszech-czasow-9151738.html",
+      "url": "https://www.bankier.pl/wiadomosc/Deal-z-Iranem-podpisany-Dow-Jones-z-nowym-rekordem-wszech-czasow-9151738.html",
+      "title": "Deal z Iranem podpisany. Dow Jones z nowym rekordem wszech czasów",
+      "content_html": "Inwestorzy znów kupowali przede wszystkim akcje producentów półprzewodników, ale to stara dobra średnia przemysłowa Dow Jonesa ustanowiła nowy rekord wszech czasów.",
+      "date_published": "2026-06-15T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ultimate-Games-wyplaci-1-zl-dywidendy-na-akcje-z-zysku-z-2025-r-9151710.html",
       "url": "https://www.bankier.pl/wiadomosc/Ultimate-Games-wyplaci-1-zl-dywidendy-na-akcje-z-zysku-z-2025-r-9151710.html",
       "title": "Ultimate Games wypłaci 1 zł dywidendy na akcję z zysku z 2025 r.",
@@ -695,13 +702,6 @@
       "title": "Koniec łańcuchów, ale co z psem pod sklepem? Kontrowersyjna furtka w nowej ustawie",
       "content_html": "Psa można uwiązać przed sklepem na czas zakupów - wynika z noweli ustawy o ochronie zwierząt przyjętej pod koniec maja przez Sejm, która wprowadza zakaz trzymania psów i kotów na uwięzi. Posłowie zapewniają, że chodzi o krótką chwilę;...",
       "date_published": "2026-06-15T08:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-wycenia-akcje-Digital-Network-na-251-9-zl-9151068.html",
-      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-wycenia-akcje-Digital-Network-na-251-9-zl-9151068.html",
-      "title": "Nowa rekomendacja dla Digital Network. \"Jest rzeczywiście beneficjentem AI\"",
-      "content_html": "Analitycy East Value Research, w raporcie z 15 czerwca, rozpoczęli wydawanie rekomendacji dla Digital Network od zalecenia \"dodaj\", z ceną docelową na poziomie 251,9 zł.",
-      "date_published": "2026-06-15T08:16:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
