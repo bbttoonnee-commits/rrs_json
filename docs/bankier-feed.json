@@ -4,18 +4,137 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Harmonogram-oferty-publicznej-spolki-Robyg-9152338.html",
-      "url": "https://www.bankier.pl/wiadomosc/Harmonogram-oferty-publicznej-spolki-Robyg-9152338.html",
-      "title": "Harmonogram oferty publicznej spółki Robyg",
-      "content_html": "Poniżej przedstawiamy planowany harmonogram oferty publicznej dewelopera Robyg.",
-      "date_published": "2026-06-16T18:44:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-Mostostalu-Warszawa-i-Acciony-ma-aneks-do-umowy-na-budowe-odcinka-S-19-9152436.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-Mostostalu-Warszawa-i-Acciony-ma-aneks-do-umowy-na-budowe-odcinka-S-19-9152436.html",
+      "title": "Konsorcjum Mostostalu Warszawa i Acciony ma aneks do umowy na budowę odcinka S-19",
+      "content_html": "Mostostal Warszawa i Acciona Construcción zawarły z GDDKiA aneks do umowy na budowę drogi ekspresowej S19 na odcinku od węzła Rzeszów Południe (bez węzła) do węzła Babica (z węzłem) dł. ok. 10,3 km - poinformował Mostostal w komunikacie...",
+      "date_published": "2026-06-16T22:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bitwa-o-Konstantynowke-Rosjanie-nacieraja-na-wazna-brame-i-odcinaja-strategiczny-rejon-9152419.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bitwa-o-Konstantynowke-Rosjanie-nacieraja-na-wazna-brame-i-odcinaja-strategiczny-rejon-9152419.html",
+      "title": "Bitwa o Konstantynówkę. Rosjanie nacierają na ważną bramę i odcinają strategiczny rejon",
+      "content_html": "Wojska rosyjskie nacierają ze wszystkich stron na Konstantynówkę w obwodzie donieckim na wschodzie Ukrainy, przenikając w głąb miasta i zrównując je z ziemią; zdobycie tego punktu otworzy Rosjanom drogę do aglomeracji słowiańsko-kramatorskiej...",
+      "date_published": "2026-06-16T21:29:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UE-odrzuca-apel-Stop-niszczeniu-gier-Nie-bedzie-zmian-w-prawie-9152415.html",
+      "url": "https://www.bankier.pl/wiadomosc/UE-odrzuca-apel-Stop-niszczeniu-gier-Nie-bedzie-zmian-w-prawie-9152415.html",
+      "title": "UE odrzuca apel „Stop niszczeniu gier”. Nie będzie zmian w prawie",
+      "content_html": "Komisja Europejska ogłosiła we wtorek, że w odpowiedzi na wniosek obywateli nie zaproponuje zmiany unijnego prawa, by zapobiec blokowaniu gier wideo. KE będzie jednak dążyć do opracowania branżowego kodeksu postępowania w zakresie zarządzania...",
+      "date_published": "2026-06-16T21:23:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-amerykanska-blokada-iranskich-portow-zostala-zniesiona-9152362.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-amerykanska-blokada-iranskich-portow-zostala-zniesiona-9152362.html",
+      "title": "Iran: amerykańska blokada irańskich portów została zniesiona",
+      "content_html": "Wiceminister spraw zagranicznych Iranu Madżid Tacht-Rawanczi oświadczył we wtorek, że amerykańska blokada irańskich portów została zniesiona jeszcze przed podpisaniem porozumienia z USA zaplanowanego na piątek. Przypomniał, że był to jeden...",
+      "date_published": "2026-06-16T20:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szczyt-G7-w-kuluarach-Trump-dostal-prezent-od-Merza-a-premierka-Wloch-rzuca-palenie-9152383.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szczyt-G7-w-kuluarach-Trump-dostal-prezent-od-Merza-a-premierka-Wloch-rzuca-palenie-9152383.html",
+      "title": "Szczyt G7 w kuluarach. Trump dostał prezent od Merza, a premierka Włoch rzuca palenie",
+      "content_html": "Podczas szczytu G7 prezydent Francji Emmanuel Macron podarował liderom rowery ozdobione barwami ich krajów, kanclerz Friedrich Merz wręczył prezydentowi USA Donaldowi Trumpowi koszulkę piłkarskiej reprezentacji Niemiec, a premierka Włoch Giorgia...",
+      "date_published": "2026-06-16T20:29:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/23-mld-zl-na-bezpieczenstwo-Polski-Rusza-wielki-fundusz-na-schrony-drogi-i-zbrojenia-9152371.html",
+      "url": "https://www.bankier.pl/wiadomosc/23-mld-zl-na-bezpieczenstwo-Polski-Rusza-wielki-fundusz-na-schrony-drogi-i-zbrojenia-9152371.html",
+      "title": "23 mld zł na bezpieczeństwo Polski. Rusza wielki fundusz na schrony, drogi i zbrojenia",
+      "content_html": "We wtorek Komitet Sterujący przyjął plan inwestycyjny Funduszu Bezpieczeństwa i Obrony; na tej podstawie będą ogłaszane nabory na przedsięwzięcia finansowane z funduszu - poinformowała szefowa MFiPR Katarzyna Pełczyńska-Nałęcz.",
+      "date_published": "2026-06-16T20:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Piotr-Zak-pozostanie-prezesem-Cyfrowego-Polsatu-9152321.html",
+      "url": "https://www.bankier.pl/wiadomosc/Piotr-Zak-pozostanie-prezesem-Cyfrowego-Polsatu-9152321.html",
+      "title": "Piotr Żak pozostanie prezesem Cyfrowego Polsatu",
+      "content_html": "TiVi Foundation, akcjonariusz Cyfrowego Polsatu, powołał Piotra Żaka na stanowisko prezesa tej spółki nowej kadencji ze skutkiem od 23 czerwca 2026 roku - poinformował Cyfrowy Polsat w komunikacie.",
+      "date_published": "2026-06-16T20:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zmiany-dla-podroznych-Trzecie-lotnisko-w-Polsce-znosi-limit-100-ml-plynow-9152363.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zmiany-dla-podroznych-Trzecie-lotnisko-w-Polsce-znosi-limit-100-ml-plynow-9152363.html",
+      "title": "Zmiany dla podróżnych. Trzecie lotnisko w Polsce znosi limit 100 ml płynów",
+      "content_html": "W Porcie Lotniczym Rzeszów-Jasionka oficjalnie uruchomiono zmodernizowany Punkt Kontroli Bezpieczeństwa. Dzięki skanerom C3 zniesiono limit 100 ml płynów, a pasażerowie mogą pozostawić elektronikę w bagażu, co skraca odprawę i podnosi komfort...",
+      "date_published": "2026-06-16T19:33:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-obronnosci-W-USA-rozmawia-sie-o-poteznym-wzmocnieniu-sil-wobec-Polski-9152341.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-obronnosci-W-USA-rozmawia-sie-o-poteznym-wzmocnieniu-sil-wobec-Polski-9152341.html",
+      "title": "Przełom w obronności? W USA rozmawia się o potężnym wzmocnieniu sił wobec Polski",
+      "content_html": "Wśród poprawek naniesionych przez komisję sił zbrojnych Izby Reprezentantów do projektu corocznej ustawy o wydatkach obronnych (NDAA) znalazły się m.in. zapisy o możliwości stałego stacjonowania eskadry amerykańskich F-35, a także współprodukcji...",
+      "date_published": "2026-06-16T19:30:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Cena-maksymalna-w-ofercie-publicznej-Robygu-ustalona-na-36-zl-za-akcje-9152333.html",
       "url": "https://www.bankier.pl/wiadomosc/Cena-maksymalna-w-ofercie-publicznej-Robygu-ustalona-na-36-zl-za-akcje-9152333.html",
       "title": "Cena maksymalna w ofercie publicznej Robygu ustalona na 36 zł za akcję",
       "content_html": "Cena maksymalna w ofercie publicznej Robygu została ustalona na 36 zł za akcję. Zapisy dla inwestorów indywidualnych oraz proces budowy księgi popytu wśród inwestorów instytucjonalnych rozpoczną się w środę i będą prowadzone do 23 czerwca...",
-      "date_published": "2026-06-16T18:36:00+02:00"
+      "date_published": "2026-06-16T19:23:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Eurotel-zaprasza-do-sprzedazy-do-123-810-akcji-po-31-5-zl-szt-9152370.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurotel-zaprasza-do-sprzedazy-do-123-810-akcji-po-31-5-zl-szt-9152370.html",
+      "title": "Eurotel zaprasza do sprzedaży do 123.810 akcji, po 31,5 zł/szt.",
+      "content_html": "Eurotel zaprasza do składania przez akcjonariuszy ofert sprzedaży do 123.810 akcji spółki, stanowiących ok. 3,3 proc. ogólnej liczby głosów, po cenie 31,5 zł za papier - podał Eurotel w komunikacie.",
+      "date_published": "2026-06-16T19:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atal-podwyzszyl-wartosc-programu-emisji-obligacji-do-260-mln-zl-9152366.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atal-podwyzszyl-wartosc-programu-emisji-obligacji-do-260-mln-zl-9152366.html",
+      "title": "Atal podwyższył wartość programu emisji obligacji do 260 mln zł",
+      "content_html": "Atal zdecydował o podwyższeniu wartości programu emisji obligacji do 260 mln zł z 200 mln zł zakładanych wcześniej - poinformował deweloper w komunikacie.",
+      "date_published": "2026-06-16T19:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niemiecki-polityk-proponuje-wspolny-parlament-Polski-i-Niemiec-9152112.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niemiecki-polityk-proponuje-wspolny-parlament-Polski-i-Niemiec-9152112.html",
+      "title": "Niemiecki polityk proponuje wspólny parlament Polski i Niemiec",
+      "content_html": "Dobrym pomysłem jest utworzenie wspólnego polsko-niemieckiego zgromadzenia parlamentarnego; co mogłoby być pomocne np. przy projektach infrastrukturalnych - powiedział PAP szef komisji Bundestagu ds. UE Anton Hofreiter. Taki organ Niemcy utworzyły...",
+      "date_published": "2026-06-16T19:07:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-niemieckiej-dyplomacji-latem-mozliwe-rozmowy-pokojowe-z-Rosja-9152182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-niemieckiej-dyplomacji-latem-mozliwe-rozmowy-pokojowe-z-Rosja-9152182.html",
+      "title": "Szef niemieckiej dyplomacji: latem możliwe rozmowy pokojowe z Rosją",
+      "content_html": "Szef niemieckiej dyplomacji Johann Wadephul powiedział we wtorek, że możliwe, iż latem rozpoczną się rozmowy pokojowe z Rosją. Dodał, że przywódca tego kraju Władimir Putin „może być na etapie, w którym poważnie to rozważa”.",
+      "date_published": "2026-06-16T19:03:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-pomagaly-statkom-w-operacji-tajnego-wywozenia-ropy-z-Zatoki-Perskiej-9152048.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-pomagaly-statkom-w-operacji-tajnego-wywozenia-ropy-z-Zatoki-Perskiej-9152048.html",
+      "title": "USA pomagały statkom w operacji tajnego wywożenia ropy z Zatoki Perskiej",
+      "content_html": "Od maja siły USA pomagały statkom w operacji tajnego wywożenia ropy z zablokowanej przez Iran Zatoki Perskiej. Używały do tego tych samych trików, co floty cieni Iranu czy Rosji - przekazała we wtorek agencja Reutera powołując się na informacje...",
+      "date_published": "2026-06-16T19:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wakacyjne-premie-od-bankow-Ktora-oferta-pozwoli-zyskac-najwiecej-9151809.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wakacyjne-premie-od-bankow-Ktora-oferta-pozwoli-zyskac-najwiecej-9151809.html",
+      "title": "Wakacyjne premie od banków. Która oferta pozwoli zyskać najwięcej?",
+      "content_html": "Promocje w bankach – czerwiec 2026: Bank Pekao daje do 2700 zł na podróże, a Alior kusi premią 1000 zł i obrączką płatniczą.",
+      "date_published": "2026-06-16T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PCC-planuje-integracje-dzialalnosci-PCC-MCAA-w-ramach-grupy-PCC-Rokita-9152343.html",
+      "url": "https://www.bankier.pl/wiadomosc/PCC-planuje-integracje-dzialalnosci-PCC-MCAA-w-ramach-grupy-PCC-Rokita-9152343.html",
+      "title": "PCC planuje integrację działalności PCC MCAA w ramach grupy PCC Rokita",
+      "content_html": "PCC Rokita podpisała list intencyjny dotyczący planowanego przez PCC SE aportu PCC MCAA i MCAA SE do spółki PCC Rokita. Szacowana wartość podmiotów wyniesie ok. 289 mln zł. PCC SE w zamian za wniesiony aport ma objąć akcje nowej emisji PCC Rokita...",
+      "date_published": "2026-06-16T18:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Decyzja-administracji-Trumpa-rozwscieczyla-naukowcow-i-Doline-Krzemowa-9152309.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-administracji-Trumpa-rozwscieczyla-naukowcow-i-Doline-Krzemowa-9152309.html",
+      "title": "Decyzja administracji Trumpa rozwścieczyła naukowców i Dolinę Krzemową",
+      "content_html": "Ograniczenia administracji prezydenta USA Donalda Trumpa dotyczące eksportu nowych modeli AI firmy Anthropic budzą wątpliwości wśród przedstawicieli branży; są oni zaniepokojeni wykorzystywaniem regulacji związanych ze sztuczną inteligencją...",
+      "date_published": "2026-06-16T18:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Harmonogram-oferty-publicznej-spolki-Robyg-9152338.html",
+      "url": "https://www.bankier.pl/wiadomosc/Harmonogram-oferty-publicznej-spolki-Robyg-9152338.html",
+      "title": "Harmonogram oferty publicznej spółki Robyg",
+      "content_html": "Poniżej przedstawiamy planowany harmonogram oferty publicznej dewelopera Robyg.",
+      "date_published": "2026-06-16T18:44:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/To-oni-przekuli-oferte-biznesowa-USA-w-kruche-porozumienie-z-Iranem-9152308.html",
@@ -37,13 +156,6 @@
       "title": "Opłata cukrowa do korekty. Rząd szykuje nowe stawki",
       "content_html": "Rząd chce w III kw. przyjąć projekt dotyczący uszczelnienia systemu opłaty cukrowej i aktualizacji jej wysokości - wynika z wykazu prac legislacyjnych Rady Ministrów. Projektowane zmiany zakładają, że 96,5 proc. wpływów z opłaty ma trafić...",
       "date_published": "2026-06-16T18:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Piotr-Zak-pozostanie-prezesem-Cyfrowego-Polsatu-9152321.html",
-      "url": "https://www.bankier.pl/wiadomosc/Piotr-Zak-pozostanie-prezesem-Cyfrowego-Polsatu-9152321.html",
-      "title": "Piotr Żak pozostanie prezesem Cyfrowego Polsatu",
-      "content_html": "TiVi Foundation, akcjonariusz Cyfrowego Polsatu, powołał Piotra Żaka na stanowisko prezesa tej spółki nowej kadencji ze skutkiem od 23 czerwca 2026 roku - poinformował Cyfrowy Polsat w komunikacie.",
-      "date_published": "2026-06-16T18:20:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/GPW-blisko-szczytow-hossy-Wyjatkowy-debiut-kanadyjskiej-spolki-9152258.html",
@@ -403,6 +515,27 @@
       "date_published": "2026-06-16T13:13:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Brytyjski-odwet-na-rosyjskiej-flocie-cieni-Londyn-naklada-kolejne-sankcje-9152000.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brytyjski-odwet-na-rosyjskiej-flocie-cieni-Londyn-naklada-kolejne-sankcje-9152000.html",
+      "title": "Brytyjski odwet na rosyjskiej flocie cieni. Londyn nakłada kolejne sankcje",
+      "content_html": "Brytyjski rząd ogłosił we wtorek kolejne sankcje wobec Rosji, biorąc tym razem na celownik m.in. jej flotę cieni, czyli statki używane do omijania restrykcji w eksportowaniu ropy naftowej i skroplonego gazu ziemnego (LNG).",
+      "date_published": "2026-06-16T13:05:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Tauron-ma-list-intencyjny-z-SUEZ-rozpoczynajacy-wspolprace-w-zakresie-kogeneracji-9151988.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Tauron-ma-list-intencyjny-z-SUEZ-rozpoczynajacy-wspolprace-w-zakresie-kogeneracji-9151988.html",
+      "title": "Grupa Tauron ma list intencyjny z SUEZ rozpoczynający współpracę",
+      "content_html": "Grupa Tauron podpisała list intencyjny z firmą SUEZ, rozpoczynając współpracę w zakresie analizy możliwości rozwoju nowoczesnych źródeł wytwórczych opartych na wysokosprawnej kogeneracji z wykorzystaniem paliw alternatywnych - podała spółka...",
+      "date_published": "2026-06-16T12:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-oglasza-Tajwanski-Foxconn-zbuduje-w-Polsce-fabryke-aut-elektrycznych-i-polprzewodnikow-9151917.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-oglasza-Tajwanski-Foxconn-zbuduje-w-Polsce-fabryke-aut-elektrycznych-i-polprzewodnikow-9151917.html",
+      "title": "Tusk ogłasza: Tajwański Foxconn zbuduje w Polsce i fabrykę aut elektrycznych, i półprzewodników",
+      "content_html": "Polska planuje sfinalizować rozmowy z tajwańską firmą Foxconn ws. budowy hubu elektromobilności w Jaworznie po wakacjach - poinformował premier Donald Tusk. Dodał, że z Foxconn trwają też prace nad fabryką półprzewodników.",
+      "date_published": "2026-06-16T12:53:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-chce-przyspieszyc-inwestycje-w-Polsce-Oto-piec-impulsow-inwestycyjnych-9151929.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-chce-przyspieszyc-inwestycje-w-Polsce-Oto-piec-impulsow-inwestycyjnych-9151929.html",
       "title": "Rząd chce przyspieszyć inwestycje w Polsce. Oto pięć impulsów, jeden dotyczy GPW",
@@ -569,118 +702,6 @@
       "title": "Przełom w strukturze Pharmeny. Spółka powołuje platformę Mnaxis do rozwoju cząsteczki 1-MNA",
       "content_html": "Pharmena ogłasza rozwój platformy Mnaxis – dedykowanej platformy bioscience integrującej działania badawczo-rozwojowe związane z cząsteczką 1-metylonikotynamidu (1-MNA) - podała spółka w komunikacie prasowym. Mnaxis będzie odpowiadać za...",
       "date_published": "2026-06-16T10:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Twarde-warunki-Xi-Chiny-wznowia-inwestycje-w-Mjanmie-ale-zadaja-bezpieczenstwa-9151864.html",
-      "url": "https://www.bankier.pl/wiadomosc/Twarde-warunki-Xi-Chiny-wznowia-inwestycje-w-Mjanmie-ale-zadaja-bezpieczenstwa-9151864.html",
-      "title": "Twarde warunki Xi. Chiny wznowią inwestycje w Mjanmie, ale żądają bezpieczeństwa",
-      "content_html": "Przywódca Chin Xi Jinping zadeklarował chęć współpracy gospodarczej swego kraju z Mjanmą (Birmą), ale kluczowe inwestycje ruszą „pod warunkiem zapewnienia bezpieczeństwa” Chińczykom i chińskim interesom – wynika z noty MSZ z wtorkowych...",
-      "date_published": "2026-06-16T10:19:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaklina-Pawlak-Iwinska-objela-stanowisko-Group-Chief-People-Officer-w-Comarch-9151857.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaklina-Pawlak-Iwinska-objela-stanowisko-Group-Chief-People-Officer-w-Comarch-9151857.html",
-      "title": "Żaklina Pawlak-Iwińska objęła stanowisko Group Chief People Officer w Comarch",
-      "content_html": "Żaklina Pawlak-Iwińska dołączyła do Comarch, obejmując stanowisko Group Chief People Officer (CPO) oraz wchodząc w skład zarządu firmy. Równocześnie objęła także funkcję CPO sektora ERP - podał Comarch w komunikacie prasowym.",
-      "date_published": "2026-06-16T10:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-akcji-Lumina-Metals-wzrosl-w-debiucie-na-GPW-o-19-proc-do-35-5-zl-9151855.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-akcji-Lumina-Metals-wzrosl-w-debiucie-na-GPW-o-19-proc-do-35-5-zl-9151855.html",
-      "title": "Kurs akcji Lumina Metals wzrósł w debiucie na GPW o 19 proc. do 35,5 zł",
-      "content_html": "Kurs akcji kanadyjskiej spółki Lumina Metals wzrósł na otwarciu w pierwszym dniu notowań na GPW o 19,05 proc. do 35,5 zł.",
-      "date_published": "2026-06-16T10:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiecej-ofert-pracy-w-sieci-ale-eksperci-ostrzegaja-Pracodawcy-wymieniaja-kadry-9151852.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiecej-ofert-pracy-w-sieci-ale-eksperci-ostrzegaja-Pracodawcy-wymieniaja-kadry-9151852.html",
-      "title": "Więcej ofert pracy w sieci, ale eksperci ostrzegają: Pracodawcy wymieniają kadry",
-      "content_html": "Barometr Ofert Pracy, wskazujący na zmiany liczby ogłoszeń o zatrudnieniu, w maju wzrósł o 4,7 pkt. – wynika z raportu przygotowanego przez Katedrę Ekonomii i Finansów WSIiZ w Rzeszowie oraz BIEC. Autorzy raportu zalecają jednak ostrożność...",
-      "date_published": "2026-06-16T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinski-konsument-zaciska-pasa-Pierwszy-taki-spadek-sprzedazy-od-ponad-trzech-lat-9151811.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinski-konsument-zaciska-pasa-Pierwszy-taki-spadek-sprzedazy-od-ponad-trzech-lat-9151811.html",
-      "title": "Chiński konsument zaciska pasa. Pierwszy taki spadek sprzedaży od ponad trzech lat",
-      "content_html": "Najnowszy pakiet danych makroekonomicznych z Państwa Środka potwierdza strukturalne problemy drugiej gospodarki świata. Jak poinformowało Narodowe Biuro Statystyczne (NBS), w maju 2026 roku sprzedaż detaliczna w Chinach odnotowała ujemną dynamikę...",
-      "date_published": "2026-06-16T09:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czas-na-Ceny-Paliwa-Wyzej-MF-Program-CPN-bedzie-stopniowo-ograniczany-9151717.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czas-na-Ceny-Paliwa-Wyzej-MF-Program-CPN-bedzie-stopniowo-ograniczany-9151717.html",
-      "title": "Czas na \"Ceny Paliwa Wyżej\"? MF: Program CPN będzie stopniowo ograniczany",
-      "content_html": "Ze względu na zmieniającą się sytuację na Bliskim Wschodzie zdecydowano o stopniowym ograniczaniu programu CPN – podało w poniedziałek Ministerstwo Finansów. Resort wskazał, że obniżka VAT będzie obowiązywać do 30 czerwca, a obniżka akcyzy...",
-      "date_published": "2026-06-16T09:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Slaby-maj-w-chinskim-handlu-uderza-w-rynki-metali-Ceny-miedzi-w-dol-w-Londynie-i-Szanghaju-9151827.html",
-      "url": "https://www.bankier.pl/wiadomosc/Slaby-maj-w-chinskim-handlu-uderza-w-rynki-metali-Ceny-miedzi-w-dol-w-Londynie-i-Szanghaju-9151827.html",
-      "title": "Słaby maj w chińskim handlu uderza w rynki metali. Ceny miedzi w dół w Londynie i Szanghaju",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie i na innych giełdach metali na świecie spadają w reakcji na słabe dane makro z Chin, które są największym odbiorcą metali bazowych na świecie - informują maklerzy.",
-      "date_published": "2026-06-16T09:19:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-zalicza-najdluzsza-serie-spadkow-w-tym-roku-Efekt-paktu-USA-Iran-i-otwarcia-ciesniny-Ormuz-9151820.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-zalicza-najdluzsza-serie-spadkow-w-tym-roku-Efekt-paktu-USA-Iran-i-otwarcia-ciesniny-Ormuz-9151820.html",
-      "title": "Ropa zalicza najdłuższą serię spadków w tym roku. Efekt paktu USA-Iran i otwarcia cieśniny Ormuz",
-      "content_html": "Ceny ropy naftowej na rynkach paliw zniżkują kolejny dzień i zaliczają najdłuższą serię spadkową w tym roku w reakcji na porozumienie USA i Iranu w sprawie otwarcia cieśniny Ormuz - informują maklerzy.",
-      "date_published": "2026-06-16T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ma-najwiekszy-majatek-w-Australii-Wylozyla-miliard-dolarow-na-SpaceX-ktore-za-chwile-moze-byc-wiecej-warte-niz-Nvidia-9151817.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ma-najwiekszy-majatek-w-Australii-Wylozyla-miliard-dolarow-na-SpaceX-ktore-za-chwile-moze-byc-wiecej-warte-niz-Nvidia-9151817.html",
-      "title": "Ma największy majątek w Australii. Wyłożyła miliard dolarów na SpaceX, które za chwilę może być więcej warte niż Nvidia",
-      "content_html": "Gina Rinehart, najbogatsza osoba w Australii, zainwestowała poprzez swoją górniczą firmę Hancock Prospecting miliard dolarów w debiutujący na giełdzie SpaceX Elona Muska. Póki co inwestycja rośnie jak na drożdżach. Wartość kupionych akcji...",
-      "date_published": "2026-06-16T08:59:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozbita-grupa-wyludzajaca-podatek-VAT-Szkoda-przekracza-10-mln-zl-9151813.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozbita-grupa-wyludzajaca-podatek-VAT-Szkoda-przekracza-10-mln-zl-9151813.html",
-      "title": "Rozbita grupa wyłudzająca podatek VAT. Szkoda przekracza 10 mln zł",
-      "content_html": "Wielkopolska Krajowa Administracja Skarbowa oraz Centralne Biuro Śledcze Policji rozbiły zorganizowaną grupę przestępczą wyłudzającą podatek VAT - poinformowała we wtorek KAS. Zarzuty usłyszało 12 podejrzanych; szkoda wyrządzona Skarbowi...",
-      "date_published": "2026-06-16T08:43:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Umowa-wojskowa-nizszej-rangi-z-Niemcami-Polska-podpisala-traktaty-z-Francja-i-Wielka-Brytania-9151802.html",
-      "url": "https://www.bankier.pl/wiadomosc/Umowa-wojskowa-nizszej-rangi-z-Niemcami-Polska-podpisala-traktaty-z-Francja-i-Wielka-Brytania-9151802.html",
-      "title": "Umowa wojskowa niższej rangi z Niemcami. Polska podpisała traktaty z Francją i Wielką Brytania",
-      "content_html": "Udzielenie wzajemnej pomocy w razie napaści to jeden z najważniejszych zapisów traktatów, które Polska w ciągu roku podpisała z Francją i Wielką Brytanią. Polsko-niemiecka umowa o współpracy wojskowej, którą podpiszą w środę szefowie...",
-      "date_published": "2026-06-16T08:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zawiadomienie-o-zamiarze-ogloszenia-wezwania-do-zapisywania-sie-na-sprzedaz-akcji-POLENERGIA-S-A-9151808.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zawiadomienie-o-zamiarze-ogloszenia-wezwania-do-zapisywania-sie-na-sprzedaz-akcji-POLENERGIA-S-A-9151808.html",
-      "title": "Wezwanie na akcje Polenergia S.A. Znani inwestorzy chcą skupić ponad 17 milionów akcji",
-      "content_html": "Akcjonariusze Polenergii - BIF IV Europe Holdings oraz Mansa Investments - zamierzają ogłosić wezwanie do zapisywania się na sprzedaż 17.077.229 akcji spółki - podało w komunikacie Erste Biuro Maklerskie. Cena, po jakiej wzywający zamierzają...",
-      "date_published": "2026-06-16T08:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/SAFE-wchodzi-do-Kanady-Polska-podpisala-pierwsza-taka-umowe-9151760.html",
-      "url": "https://www.bankier.pl/wiadomosc/SAFE-wchodzi-do-Kanady-Polska-podpisala-pierwsza-taka-umowe-9151760.html",
-      "title": "SAFE wchodzi do Kanady. Polska podpisała pierwszą taką umowę",
-      "content_html": "Pierwsza kanadyjska umowa w ramach unijnego SAFE została podpisana w poniedziałek, dotyczy sprzętu łączności, a jej stronami są Marconi Technologies z Montrealu i polska firma Enamor International – poinformował w poniedziałek premier Kanady...",
-      "date_published": "2026-06-16T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-krytykuje-porozumienie-Trumpa-z-Iranem-i-nazywa-je-katastrofa-9151774.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-krytykuje-porozumienie-Trumpa-z-Iranem-i-nazywa-je-katastrofa-9151774.html",
-      "title": "Izrael krytykuje porozumienie Trumpa z Iranem i nazywa je katastrofą",
-      "content_html": "Izraelscy politycy z koalicji i opozycji skrytykowali ogłoszone przez prezydenta USA Donalda Trumpa porozumienie z Iranem. Uznali to za katastrofę i zagrożenie dla bezpieczeństwa ich kraju – napisał we wtorek „Washington Post”.",
-      "date_published": "2026-06-16T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-w-Japonii-najwyzej-od-1995-roku-Szef-banku-centralnego-w-szpitalu-9151805.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stopy-procentowe-w-Japonii-najwyzej-od-1995-roku-Szef-banku-centralnego-w-szpitalu-9151805.html",
-      "title": "Stopy procentowe w Japonii najwyżej od 1995 roku. Szef banku centralnego w szpitalu",
-      "content_html": "Bank Japonii (BoJ) podniósł we wtorek krótkoterminową stopę procentową do najwyższego poziomu od ponad trzech dekad. Decyzja ta wpisuje się w realizowany przez tamtejsze władze monetarne proces normalizacji polityki pieniężnej, wymuszony przez...",
-      "date_published": "2026-06-16T08:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nieuczciwi-najemcy-w-Polsce-RPO-alarmuje-o-bezradnosci-wlascicieli-mieszkan-9151763.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nieuczciwi-najemcy-w-Polsce-RPO-alarmuje-o-bezradnosci-wlascicieli-mieszkan-9151763.html",
-      "title": "Nieuczciwi najemcy w Polsce. RPO alarmuje o bezradności właścicieli mieszkań",
-      "content_html": "Do biura RPO w sprawach dotyczących konfliktów na tle najmu i eksmisji trafiają skargi, w których właściciele mieszkań wskazują, że nieuczciwi najemcy wykorzystują przepisy o ochronie praw lokatorów - poinformował we wtorkowej rozmowie z „Rzeczpospolitą”...",
-      "date_published": "2026-06-16T08:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
