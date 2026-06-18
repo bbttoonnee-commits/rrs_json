@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-mBank-kary-pieniezne-w-lacznej-wysokosci-ok-15-mln-zl-9153822.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-mBank-kary-pieniezne-w-lacznej-wysokosci-ok-15-mln-zl-9153822.html",
+      "title": "Surowa decyzja KNF. mBank ukarany na 15 milionów złotych Komisja Nadzoru Finansowego nałożyła na mBank cztery kary pieniężne w łącznej wysokości ok. 15 mln zł - poinformowała Komisja w czwartkowym komunikacie. Według KNF bank naruszył istotne regulacje dotyczące obowiązków z zakresu zarządzania i bezpieczeństwa prowadzenia działalności.",
+      "content_html": "",
+      "date_published": "2026-06-18T18:37:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Kety-wyplaci-48-97-zl-dywidendy-na-akcje-za-25-9153876.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Kety-wyplaci-48-97-zl-dywidendy-na-akcje-za-25-9153876.html",
       "title": "Grupa Kęty wypłaci 48,97 zł dywidendy na akcję za '25 Zwyczajne walne zgromadzenie Grupy Kęty zdecydowało o przeznaczeniu na dywidendę kwoty 482,77 mln zł, co daje 48,97 zł dywidendy na akcję za 2025 r. - podała spółka w komunikacie.",
@@ -37,13 +44,6 @@
       "title": "Fed pogroził palcem, a WIG zawrócił ze szczytu hossy Główne indeksy warszawskiej giełdy zakończyły czwartek pod kreską po tym, jak WIG i WIG20 ustanowiły nowe szczyty hossy w pierwszej części tygodnia.",
       "content_html": "",
       "date_published": "2026-06-18T17:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-mBank-kary-pieniezne-w-lacznej-wysokosci-ok-15-mln-zl-9153822.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-mBank-kary-pieniezne-w-lacznej-wysokosci-ok-15-mln-zl-9153822.html",
-      "title": "Surowa decyzja KNF. mBank ukarany na 15 milionów złotych Komisja Nadzoru Finansowego nałożyła na mBank cztery kary pieniężne w łącznej wysokości ok. 15 mln zł - poinformowała Komisja w czwartkowym komunikacie. Według KNF bank naruszył istotne regulacje dotyczące obowiązków z zakresu zarządzania i bezpieczeństwa prowadzenia działalności.",
-      "content_html": "",
-      "date_published": "2026-06-18T17:04:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dom-Development-wyplaci-lacznie-14-zl-dywidendy-na-akcje-za-2025-rok-9153773.html",
@@ -471,13 +471,6 @@
       "title": "Konsorcjum Mostostalu Warszawa i Acciony ma aneks do umowy na budowę odcinka S-19 Mostostal Warszawa i Acciona Construcción zawarły z GDDKiA aneks do umowy na budowę drogi ekspresowej S19 na odcinku od węzła Rzeszów Południe (bez węzła) do węzła Babica (z węzłem) dł. ok. 10,3 km - poinformował Mostostal w komunikacie. Aneks zwiększa maksymalny limit waloryzacji dla robót kontraktowych z +/- 15% do +/- 27% zaakceptowanej kwoty kontraktowej netto.",
       "content_html": "",
       "date_published": "2026-06-16T21:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Piotr-Zak-pozostanie-prezesem-Cyfrowego-Polsatu-9152321.html",
-      "url": "https://www.bankier.pl/wiadomosc/Piotr-Zak-pozostanie-prezesem-Cyfrowego-Polsatu-9152321.html",
-      "title": "Piotr Żak pozostanie prezesem Cyfrowego Polsatu TiVi Foundation, akcjonariusz Cyfrowego Polsatu, powołał Piotra Żaka na stanowisko prezesa tej spółki nowej kadencji ze skutkiem od 23 czerwca 2026 roku - poinformował Cyfrowy Polsat w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-16T19:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
