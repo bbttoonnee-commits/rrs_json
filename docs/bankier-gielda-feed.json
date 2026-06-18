@@ -4,6 +4,83 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Echo-Investment-wyplaci-lacznie-1-2-zl-dywidendy-na-akcje-9153645.html",
+      "url": "https://www.bankier.pl/wiadomosc/Echo-Investment-wyplaci-lacznie-1-2-zl-dywidendy-na-akcje-9153645.html",
+      "title": "Echo Investment wypłaci łącznie 1,2 zł dywidendy na akcję Walne zgromadzenie Echo Investment zdecydowało, ze na dywidendę trafi łącznie 495,2 mln zł, co daje 1,2 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-18T14:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-umowe-o-strategicznej-wspolpracy-z-KNDS-9153641.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-ma-umowe-o-strategicznej-wspolpracy-z-KNDS-9153641.html",
+      "title": "Niewiadów - PGM ma umowę o strategicznej współpracy z KNDS Niewiadów Polska Grupa Militarna podpisał umowę o strategicznej współpracy z francuską spółką zbrojeniową KNDS Ammo France (KNDS) - poinformowała spółka w komunikacie. Przedmiotem umowy jest uregulowanie ogólnych zasad współpracy stron w zakresie produkcji i dostaw amunicji 155 mm na rzecz polskiego Ministerstwa Obrony Narodowej i klientów KNDS.",
+      "content_html": "",
+      "date_published": "2026-06-18T14:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Walne-PZU-przeglosowalo-wyplate-dywidendy-w-wysokosci-4-8-zl-na-akcje-9153557.html",
+      "url": "https://www.bankier.pl/wiadomosc/Walne-PZU-przeglosowalo-wyplate-dywidendy-w-wysokosci-4-8-zl-na-akcje-9153557.html",
+      "title": "Walne PZU przegłosowało wypłatę dywidendy w wysokości 4,8 zł na akcję Zwyczajne walne zgromadzenie akcjonariuszy PZU zdecydowało w czwartek o wypłacie 4,14 mld zł dywidendy, co daje 4,8 zł na akcję.",
+      "content_html": "",
+      "date_published": "2026-06-18T14:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Taryfy-przesylowe-i-dystrybucyjne-powinny-wzrosnac-mniej-dzieki-pozyczkom-z-KPO-PSE-9153617.html",
+      "url": "https://www.bankier.pl/wiadomosc/Taryfy-przesylowe-i-dystrybucyjne-powinny-wzrosnac-mniej-dzieki-pozyczkom-z-KPO-PSE-9153617.html",
+      "title": "Padła jasna deklaracja PSE. Taryfy \"powinny wzrosnąć mniej\" dzięki KPO Taryfy przesyłowe i dystrybucyjne powinny wzrosnąć mniej dzięki temu, że na rozwój sieci były zaciągane preferencyjne pożyczki KPO, a nie komercyjne - oceniła podczas konferencji w BGK wiceprezes PSE Agnieszka Okońska. Wiceprezes Tauronu Krzysztof Surma dodał, że koszt kapitału WACC spada rdr, ale stanowi tylko 17 proc. rachunku dystrybucyjnego odbiorcy indywidualnego.",
+      "content_html": "",
+      "date_published": "2026-06-18T13:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pepco-otworzylo-pierwsze-sklepy-w-Macedonii-Polnocnej-9153597.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pepco-otworzylo-pierwsze-sklepy-w-Macedonii-Polnocnej-9153597.html",
+      "title": "Pepco otworzyło pierwsze sklepy w Macedonii Północnej Pepco otworzyło swoje pierwsze dwa sklepy w Macedonii Północnej, w Skopje - podała sieć w komunikacie prasowym. W planach są kolejne otwarcia w innych lokalizacjach w kraju.",
+      "content_html": "",
+      "date_published": "2026-06-18T13:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-kupuje-udzialy-w-norweskim-zlozu-Goliat-9153345.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-kupuje-udzialy-w-norweskim-zlozu-Goliat-9153345.html",
+      "title": "Orlen kupuje udziały w norweskim złożu Goliat Orlen Upstream Norway i Var Energi podpisały umowę kupna-sprzedaży 20 proc. udziałów w pięciu koncesjach obejmujących m.in. produkujące złoże Goliat. Transakcja zwiększy zasoby gazu i ropy norweskiej spółki koncernu o prawie 60 mln baryłek ekwiwalentu ropy - poinformował Orlen w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-06-18T13:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polakom-wciaz-brakuje-wiedzy-o-ubezpieczeniach-i-swiadomosci-ryzyka-raport-PIU-9153582.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polakom-wciaz-brakuje-wiedzy-o-ubezpieczeniach-i-swiadomosci-ryzyka-raport-PIU-9153582.html",
+      "title": "RAPORT Ubezpieczenia Polaków 2026. Gigantyczny paradoks w raportach Polska Izba Ubezpieczeń przygotowała raport \"Świadomość ubezpieczeniowa Polaków 2026\", który pokazuje, co Polacy wiedzą i myślą o ubezpieczeniach, w jaki sposób podejmują decyzje dotyczące ochrony ubezpieczeniowej oraz dlaczego w Polsce nadal utrzymuje się znacząca luka ubezpieczeniowa.",
+      "content_html": "",
+      "date_published": "2026-06-18T13:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-na-budowe-instalacji-kogeneracji-uniewazniony-9153550.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wybor-oferty-konsorcjum-Budimeksu-w-przetargu-na-budowe-instalacji-kogeneracji-uniewazniony-9153550.html",
+      "title": "Wybór oferty konsorcjum Budimeksu w przetargu na budowę instalacji kogeneracji - unieważniony Zamawiający unieważnił wybór oferty konsorcjum Budimeksu i Engitec Technologies w przetargu na \"Budowę instalacji kogeneracji do produkcji energii z przetworzonych odpadów komunalnych z wykorzystaniem ciepła do miejskiej sieci ciepłowniczej w Tarnowie\" - podał Budimex w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-18T12:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/GDDKiA-apeluje-o-uwzglednianie-w-ofertach-na-drogi-ze-waloryzacja-kontraktow-dziala-tez-w-dol-9153533.html",
+      "url": "https://www.bankier.pl/wiadomosc/GDDKiA-apeluje-o-uwzglednianie-w-ofertach-na-drogi-ze-waloryzacja-kontraktow-dziala-tez-w-dol-9153533.html",
+      "title": "GDDKiA apeluje o uwzględnianie w ofertach na drogi, że waloryzacja kontraktów działa też w dół Generalna Dyrekcja Dróg Krajowych i Autostrad zwraca uwagę branży budowlanej, że obecne oferty w przetargach na budowę dróg składane są na „górce” kosztowej i apeluje o wzięcie tego pod uwagę przez wykonawców przy wycenie prac, ponieważ system waloryzacji kontraktów działa również w dół.",
+      "content_html": "",
+      "date_published": "2026-06-18T12:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Archicom-wprowadzil-do-sprzedazy-132-mieszkania-w-Poznaniu-9153513.html",
+      "url": "https://www.bankier.pl/wiadomosc/Archicom-wprowadzil-do-sprzedazy-132-mieszkania-w-Poznaniu-9153513.html",
+      "title": "Archicom wprowadził do sprzedaży 132 mieszkania w Poznaniu Archicom rozpoczął przedsprzedaż pierwszego etapu Osiedla Kolektyw w Poznaniu. W pierwszym budynku zaplanowano 132 mieszkania - podał deweloper w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-06-18T11:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-latach-2026-28-GDDKiA-planuje-wydac-na-remonty-drog-1-5-mld-zl-9153511.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-latach-2026-28-GDDKiA-planuje-wydac-na-remonty-drog-1-5-mld-zl-9153511.html",
+      "title": "W latach 2026-28 GDDKiA planuje wydać na remonty dróg 1,5 mld zł W latach 2026-28 Generalna Dyrekcja Dróg Krajowych i Autostrad planuje przeznaczyć na remonty dróg ponad 1,5 mld zł, więcej niż łącznie w latach 2020-2025 - podała GDDKiA na stronach internetowych.",
+      "content_html": "",
+      "date_published": "2026-06-18T11:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prof-Marek-Wierzbowski-Trzeba-naklaniac-spoleczenstwo-do-inwestycji-we-wlasnym-kraju-9153272.html",
       "url": "https://www.bankier.pl/wiadomosc/Prof-Marek-Wierzbowski-Trzeba-naklaniac-spoleczenstwo-do-inwestycji-we-wlasnym-kraju-9153272.html",
       "title": "Prof. Marek Wierzbowski: Trzeba nakłaniać społeczeństwo do inwestycji we własnym kraju – Niechęć do akcji to nie tylko problem polski, ale europejski. Na tle Stanów Zjednoczonych Europa wypada zdecydowanie marnie. Bez konkretnych działań możemy nie odnosić sukcesów – mówi prof. Marek Wierzbowski z kancelarii Prof. Marek Wierzbowski i Partnerzy.",
@@ -23,13 +100,6 @@
       "title": "Mabion przedłużył umowę produkcyjną z Novavax do końca '29 Mabion zawarł z Novavax aneks do umowy produkcyjnej przedłużający ją do końca 2029 r. - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-06-18T09:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-kupuje-udzialy-w-norweskim-zlozu-Goliat-9153345.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-kupuje-udzialy-w-norweskim-zlozu-Goliat-9153345.html",
-      "title": "Orlen kupuje udziały w norweskim złożu Goliat Orlen Upstream Norway i Var Energi podpisały umowę kupna-sprzedaży 20 proc. udziałów w pięciu koncesjach obejmujących m.in. produkujące złoże Goliat. Transakcja zwiększy zasoby gazu i ropy norweskiej spółki koncernu o prawie 60 mln baryłek ekwiwalentu ropy - poinformował Orlen w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-06-18T08:20:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wielki-transfer-z-Google-do-OpenAI-Absolutna-gwiazda-idzie-do-najwiekszego-konkurenta-9153336.html",
@@ -443,97 +513,6 @@
       "title": "Fasing wypłaci 0,5 zł dywidendy na akcję Zwyczajne walne zgromadzenie Fabryki Sprzętu i Narzędzi Górniczych Fasing zdecydowało o wypłacie za 2025 rok dywidendy w kwocie 1,55 mln zł, czyli 0,5 zł na akcję - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-06-16T14:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-ruszyl-z-pilotazem-nowego-formatu-sklepu-convenience-9152151.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-ruszyl-z-pilotazem-nowego-formatu-sklepu-convenience-9152151.html",
-      "title": "ZDJĘCIA Orlen jak Żabka? Ruszył pilotaż nowego formatu sklepu Orlen uruchomił na stacji w Warszawie nowy miejski format sklepu convenience, który łączy szybkie zakupy z rozbudowaną ofertą gastronomiczną. Projekt ten będzie realizowany w formule pilotażu do końca 2026 roku - podał Orlen w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-06-16T14:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-sojusz-na-polskiej-kolei-PESA-laczy-sily-z-globalnym-gigantem-9152080.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-sojusz-na-polskiej-kolei-PESA-laczy-sily-z-globalnym-gigantem-9152080.html",
-      "title": "Wielki sojusz na polskiej kolei. PESA łączy siły z globalnym gigantem Polski producent pojazdów szynowych PESA Bydgoszcz oraz Hitachi Rail podpisały porozumienie o współpracy strategicznej - poinformował PFR. Dodał, że MoU przewiduje m.in. wspólny udział w przetargu PKP Intercity na zakup 20 elektrycznych zespołów trakcyjnych (EZT), osiągających prędkość eksploatacyjną co najmniej 320 km/h, z opcją na kolejne 35 składów.",
-      "content_html": "",
-      "date_published": "2026-06-16T14:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-bez-przychodow-hitem-na-polskiej-gieldzie-Lumina-Metals-klepna-w-plecy-nawet-premier-9152091.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-bez-przychodow-hitem-na-polskiej-gieldzie-Lumina-Metals-klepna-w-plecy-nawet-premier-9152091.html",
-      "title": "Spółka bez przychodów hitem na polskiej giełdzie. Juniora klepnął w plecy nawet premier Debiut Lumina Metals na GPW odbył się w sprzyjających okolicznościach. Rangę pierwszego dnia notowania akcji na polskiej giełdzie kanadyjskiej spółki poszukującej surowców i rozwijającej kopalnie podniosła obecność premiera Donalda Tuska, który wziął udział w zaplanowanym przy okazji wydarzeniu „Polska Inwestuje”. Kurs nowej spółki zyskiwał ponad 50 proc. i znacznie przewyższał cenę akcji jaką płacono na macierzystej giełdzie w Toronto, gdzie jeszcze nie generująca przychodów spółka została przyjęta raczej chłodno.",
-      "content_html": "",
-      "date_published": "2026-06-16T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-maju-2026-wzrosla-trzeci-miesiac-z-rzedu-9151959.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-bazowa-w-maju-2026-wzrosla-trzeci-miesiac-z-rzedu-9151959.html",
-      "title": "Inflacja bazowa wzrosła trzeci miesiąc z rzędu. Cel NBP znów przekroczony Maj przyniósł dalszy wzrost inflacji bazowej. Dobrą wiadomością póki co jest to, że ten wskaźnik inflacyjny nadal mieści się w ramach dopuszczalnego pasma odchyleń od celu Narodowego Banku Polskiego.",
-      "content_html": "",
-      "date_published": "2026-06-16T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-rynku-pojawi-sie-OKI-Eksperci-wieszcza-naplyw-200-mld-zl-9152058.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-rynku-pojawi-sie-OKI-Eksperci-wieszcza-naplyw-200-mld-zl-9152058.html",
-      "title": "OPINIA Na rynku pojawi się OKI. Eksperci wieszczą napływ 200 mld zł Program Osobistych Kont Inwestycyjnych, który ma ruszyć od stycznia 2027 roku, może przynieść 200 mld zł aktywów w ciągu dwóch pierwszych lat funkcjonowania - ocenia Samer Masri, dyrektor Biura Maklerskiego PKO BP.",
-      "content_html": "",
-      "date_published": "2026-06-16T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Archicom-wyplaci-1-80-zl-dywidendy-na-akcje-z-zysku-za-25-9152097.html",
-      "url": "https://www.bankier.pl/wiadomosc/Archicom-wyplaci-1-80-zl-dywidendy-na-akcje-z-zysku-za-25-9152097.html",
-      "title": "Archicom wypłaci 1,80 zł dywidendy na akcję z zysku za '25 Walne zgromadzenie Archicom zdecydowało o wypłacie 105,3 mln zł dywidendy z zysku netto za 2025 rok, co daje 1,80 zł na akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-16T13:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiecej-kryptowalut-na-GPW-Od-jutra-nowy-produkt-ETP-szwedzkiej-firmy-9152065.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiecej-kryptowalut-na-GPW-Od-jutra-nowy-produkt-ETP-szwedzkiej-firmy-9152065.html",
-      "title": "Więcej kryptowalut na GPW. Od jutra nowy produkt ETP szwedzkiej firmy Virtune, szwedzki dostawca produktów inwestycyjnych opartych na kryptowalutach, wprowadza w środę do obrotu na GPW nowy instrument: Virtune Crypto Altcoin Index ETP. Pozwoli on inwestować w koszyk dziesięciu tzw. altcoinów.",
-      "content_html": "",
-      "date_published": "2026-06-16T13:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-wyplaci-1-zl-dywidendy-na-akcje-9152056.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lokum-Deweloper-wyplaci-1-zl-dywidendy-na-akcje-9152056.html",
-      "title": "Lokum Deweloper wypłaci 1 zł dywidendy na akcję Walne zgromadzenie Lokum Deweloper zdecydowało o wypłacie z zysku netto za 2025 rok 18 mln zł dywidendy, co daje 1 zł na akcję - podała spółka w komunikacie po ZWZ.",
-      "content_html": "",
-      "date_published": "2026-06-16T13:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-MOL-ma-umowe-o-podziale-produkcji-dla-morskiego-projektu-poszukiwawczego-w-Libii-9152031.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-MOL-ma-umowe-o-podziale-produkcji-dla-morskiego-projektu-poszukiwawczego-w-Libii-9152031.html",
-      "title": "MOL rusza na głębokie wody. Podpisano umowę na poszukiwania ropy u wybrzeży Libii Grupa MOL podpisała z partnerami w konsorcjum – Repsol i Türkiye Petrolleri A.O. (TPAO) – umowę dotyczącą podziału produkcji na obszarze poszukiwawczym na Morzu Śródziemnym u wybrzeży Libii, gdzie uzyskała koncesję poszukiwawczą - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-06-16T12:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Image-Power-ma-umowy-przeniesienia-wlasnosci-gier-na-CreativeForge-Games-i-Console-Labs-9152027.html",
-      "url": "https://www.bankier.pl/wiadomosc/Image-Power-ma-umowy-przeniesienia-wlasnosci-gier-na-CreativeForge-Games-i-Console-Labs-9152027.html",
-      "title": "Image Power ma umowy przeniesienia własności gier na CreativeForge Games i Console Labs Image Power zawarł umowy z przeniesieniem autorskich praw majątkowych do trzech gier na CreativeForge Games i jednej gry na Console Labs - podało Image Power w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-16T12:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/APS-Energia-ma-umowe-dotyczaca-spolki-JV-w-Uzbekistanie-planuje-budowe-fabryki-9152017.html",
-      "url": "https://www.bankier.pl/wiadomosc/APS-Energia-ma-umowe-dotyczaca-spolki-JV-w-Uzbekistanie-planuje-budowe-fabryki-9152017.html",
-      "title": "APS Energia ma umowę dotyczącą spółki JV w Uzbekistanie. Są plany budowy fabryki APS Energia zawarła ze spółką Almalyk Mining and Metallurgical Complex JSC (AMMC) z siedzibą w Uzbekistanie umowę, której przedmiotem jest utworzenie spółki joint venture w Uzbekistanie - podała APS Energia w komunikacie. W ramach spółki JV planowana jest budowa kompleksu produkcyjno-biurowego w Uzbekistanie.",
-      "content_html": "",
-      "date_published": "2026-06-16T12:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-na-GPW-Polska-moze-stac-sie-kluczowym-graczem-na-globalnym-rynku-miedzi-9151910.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-na-GPW-Polska-moze-stac-sie-kluczowym-graczem-na-globalnym-rynku-miedzi-9151910.html",
-      "title": "Lumina Metals zadebiutowała na GPW. Tusk zapowiada: Polska stanie się kluczowym graczem na rynku miedzi Kanadyjska spółka górnicza Lumina Metals, rozwijająca program poszukiwań złóż miedzi w Polsce, zadebiutowała we wtorek na GPW. Premier Donald Tusk ocenił, że Polska może stać się jednym z kluczowych graczy na rynku miedzi.",
-      "content_html": "",
-      "date_published": "2026-06-16T12:13:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Tauron-ma-list-intencyjny-z-SUEZ-rozpoczynajacy-wspolprace-w-zakresie-kogeneracji-9151988.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Tauron-ma-list-intencyjny-z-SUEZ-rozpoczynajacy-wspolprace-w-zakresie-kogeneracji-9151988.html",
-      "title": "Grupa Tauron ma list intencyjny z SUEZ rozpoczynający współpracę Grupa Tauron podpisała list intencyjny z firmą SUEZ, rozpoczynając współpracę w zakresie analizy możliwości rozwoju nowoczesnych źródeł wytwórczych opartych na wysokosprawnej kogeneracji z wykorzystaniem paliw alternatywnych - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-06-16T11:58:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
