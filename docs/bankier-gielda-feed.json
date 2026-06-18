@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Klepsydra-planuje-wyplacic-0-04-zl-dywidendy-na-akcje-9154046.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klepsydra-planuje-wyplacic-0-04-zl-dywidendy-na-akcje-9154046.html",
+      "title": "Klepsydra planuje wypłacić 0,04 zł dywidendy na akcję Zarząd Klepsydry rekomenduje, by na dywidendę trafiło 954.269,40 zł, co da 0,04 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-18T20:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelomowy-ruch-Allegro-i-InPostu-Zakopali-topor-wojenny-i-oglaszaja-decyzje-9153840.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelomowy-ruch-Allegro-i-InPostu-Zakopali-topor-wojenny-i-oglaszaja-decyzje-9153840.html",
+      "title": "Przełomowy ruch Allegro i InPostu. Zakopali topór wojenny i ogłaszają decyzję Allegro oraz InPost podpisały niewiążący list intencyjny dotyczący wypracowania w nadchodzących miesiącach nowej umowy ramowej, która będzie regulować współpracę pomiędzy stronami w zakresie usług dostaw poza domem (out-of-home) - poinformowano Allegro w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-18T20:15:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-mBank-kary-pieniezne-w-lacznej-wysokosci-ok-15-mln-zl-9153822.html",
       "url": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-mBank-kary-pieniezne-w-lacznej-wysokosci-ok-15-mln-zl-9153822.html",
       "title": "Surowa decyzja KNF. mBank ukarany na 15 milionów złotych Komisja Nadzoru Finansowego nałożyła na mBank cztery kary pieniężne w łącznej wysokości ok. 15 mln zł - poinformowała Komisja w czwartkowym komunikacie. Według KNF bank naruszył istotne regulacje dotyczące obowiązków z zakresu zarządzania i bezpieczeństwa prowadzenia działalności.",
@@ -464,13 +478,6 @@
       "title": "Akcjonariusz Synektika zakończył proces ABB, cena sprzedaży akcji 300 zł Akcjonariusz Synektika, Książek Holding, zakończył proces przyspieszonej budowy księgi popytu, którego celem była sprzedaż około 1.376.143 akcji spółki - podał Murapol w komunikacie. Cena sprzedaży jednej akcji została ustalona na 300 zł.",
       "content_html": "",
       "date_published": "2026-06-17T06:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-Mostostalu-Warszawa-i-Acciony-ma-aneks-do-umowy-na-budowe-odcinka-S-19-9152436.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-Mostostalu-Warszawa-i-Acciony-ma-aneks-do-umowy-na-budowe-odcinka-S-19-9152436.html",
-      "title": "Konsorcjum Mostostalu Warszawa i Acciony ma aneks do umowy na budowę odcinka S-19 Mostostal Warszawa i Acciona Construcción zawarły z GDDKiA aneks do umowy na budowę drogi ekspresowej S19 na odcinku od węzła Rzeszów Południe (bez węzła) do węzła Babica (z węzłem) dł. ok. 10,3 km - poinformował Mostostal w komunikacie. Aneks zwiększa maksymalny limit waloryzacji dla robót kontraktowych z +/- 15% do +/- 27% zaakceptowanej kwoty kontraktowej netto.",
-      "content_html": "",
-      "date_published": "2026-06-16T21:26:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
