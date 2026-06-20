@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Swiat-podzielony-stopami-chinski-konsument-zaciska-pasa-a-banki-centralne-traca-cierpliwosc-9154155.html",
+      "url": "https://www.bankier.pl/wiadomosc/Swiat-podzielony-stopami-chinski-konsument-zaciska-pasa-a-banki-centralne-traca-cierpliwosc-9154155.html",
+      "title": "WYKRESY TYGODNIA Świat podzielony stopami, chiński konsument zaciska pasa, a banki centralne tracą cierpliwość Cześć, tu Inwestor Wojtek. Tydzień banków centralnych za nami. Jedni stopy podnoszą, inni jeszcze czekają. Majowy odczyt inflacji HICP w strefie euro potwierdził wstępny odczyt, osiągając najwyższą wartość od września 2023 roku, zaś Chiny mierzą się ujemną dynamiką sprzedaży detalicznej po raz pierwszy od ponad trzech lat.",
+      "content_html": "",
+      "date_published": "2026-06-20T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-analizuje-nowe-realia-Jastrzebi-Fed-zagadki-podazy-ropy-i-fenomen-SpaceX-9154734.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-analizuje-nowe-realia-Jastrzebi-Fed-zagadki-podazy-ropy-i-fenomen-SpaceX-9154734.html",
+      "title": "Wall Street analizuje nowe realia. Jastrzębi Fed, zagadki podaży ropy i fenomen SpaceX Rynki próbują przetrawić jastrzębi ton nowego szefa amerykańskiej Rezerwy Federalnej. Jednocześnie najwięksi gracze kwestionują realność kosmicznych planów Elona Muska, a na rynku naftowym dochodzi do starcia na prognozy pomiędzy kartelem OPEC a Międzynarodową Agencją Energetyczną.",
+      "content_html": "",
+      "date_published": "2026-06-20T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Podatek-od-nadzwyczajnych-zyskow-uchwalony-Orlen-i-importerzy-zaplaca-za-rynkowa-stabilizacje-cen-9154210.html",
       "url": "https://www.bankier.pl/wiadomosc/Podatek-od-nadzwyczajnych-zyskow-uchwalony-Orlen-i-importerzy-zaplaca-za-rynkowa-stabilizacje-cen-9154210.html",
       "title": "SEJM Podatek od nadzwyczajnych zysków uchwalony. Orlen i importerzy zapłacą za rynkową stabilizację cen Sejm uchwalił w piątek ustawę, która zakłada, że firmy paliwowe zapłacą podatek, tzw. windfall tax, od nadzwyczajnych zysków. Szacowane na 4 mld zł wpływy z tego podatku mają posłużyć sfinansowaniu pakietu CPN (Ceny Paliwa Niżej).",
@@ -310,41 +324,6 @@
       "title": "Mabion przedłużył umowę produkcyjną z Novavax do końca '29 Mabion zawarł z Novavax aneks do umowy produkcyjnej przedłużający ją do końca 2029 r. - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-06-18T09:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-transfer-z-Google-do-OpenAI-Absolutna-gwiazda-idzie-do-najwiekszego-konkurenta-9153336.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-transfer-z-Google-do-OpenAI-Absolutna-gwiazda-idzie-do-najwiekszego-konkurenta-9153336.html",
-      "title": "Wielki transfer z Google do OpenAI. Absolutna gwiazda idzie do największego konkurenta Noam Shazeer, współtwórca rewolucyjnej architektury Transformer i jeden z liderów projektu Gemini, ogłosił odejście z Google i przejście do OpenAI. To strategiczny cios dla giganta z Mountain View, który w sierpniu 2024 roku wydał 2,7 mld dolarów, by ściągnąć inżyniera z powrotem do siebie, oraz wyjątkowo mocny sygnał dla rynku w przededniu wyczekiwanego debiutu giełdowego twórców ChataGPT",
-      "content_html": "",
-      "date_published": "2026-06-18T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prof-Krzysztof-Jajuga-Chce-dalej-edukowac-i-reprezentowac-CFA-Society-Poland-9153271.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prof-Krzysztof-Jajuga-Chce-dalej-edukowac-i-reprezentowac-CFA-Society-Poland-9153271.html",
-      "title": "Prof. Krzysztof Jajuga: Chcę dalej edukować i reprezentować CFA Society Poland – Jestem współtwórcą CFA Society Poland, kierowałem tą organizacją przez 22 lata, ale przyszedł czas na sukcesję. Chcę jednak pozostać aktywny, zajmować się edukacją oraz reprezentowaniem stowarzyszenia podczas forów i konferencji – mówi prof. Krzysztof Jajuga, członek zarządu CFA Society Poland.",
-      "content_html": "",
-      "date_published": "2026-06-18T07:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Waldemar-Markiewicz-Obecna-sytuacja-pozytywnie-wplywa-na-inwestorow-i-na-firmy-inwestycyjne-9152473.html",
-      "url": "https://www.bankier.pl/wiadomosc/Waldemar-Markiewicz-Obecna-sytuacja-pozytywnie-wplywa-na-inwestorow-i-na-firmy-inwestycyjne-9152473.html",
-      "title": "Waldemar Markiewicz: Obecna sytuacja pozytywnie wpływa na inwestorów i na firmy inwestycyjne – Hossa, która trwa już od ponad dwóch lat, pozytywnie przekłada się na nastroje w branży, a także na nastroje naszych klientów. Zwiększa się zainteresowanie inwestowaniem, zwiększają się obroty i poprawia się też kondycja branży – mówi Waldemar Markiewicz, prezes Izby Domów Maklerskich.",
-      "content_html": "",
-      "date_published": "2026-06-18T07:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-prezes-stare-stopy-Decyzja-Fedu-w-czerwcu-2026-9152003.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-prezes-stare-stopy-Decyzja-Fedu-w-czerwcu-2026-9152003.html",
-      "title": "Nowy prezes, stare stopy. Ale jest rewolucja w komunikacie Zgodnie z oczekiwaniami rynku i ekonomistów Federalny Komitet Otwartego Rynku pod wodzą nowego przewodniczącego Kevina Warsha utrzymał stopy procentowe na niezmienionym poziomie.",
-      "content_html": "",
-      "date_published": "2026-06-18T07:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-podniosl-cene-docelowa-akcji-Synektika-do-381-zl-9153323.html",
-      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-podniosl-cene-docelowa-akcji-Synektika-do-381-zl-9153323.html",
-      "title": "East Value Research podniósł cenę docelową akcji Synektika do 381 zł Analitycy East Value Research w raporcie z 18 czerwca podwyższyli 12-miesięczną cenę docelową akcji Synektika z 295,2 zł do 381 zł, wyznaczając dla nich rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-06-18T07:12:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
