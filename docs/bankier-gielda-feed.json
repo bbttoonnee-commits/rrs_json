@@ -4,25 +4,60 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/GDDKiA-uniewaznila-wybor-oferty-konsorcjum-Mirbudu-na-odcinek-autostrady-A2-9155238.html",
+      "url": "https://www.bankier.pl/wiadomosc/GDDKiA-uniewaznila-wybor-oferty-konsorcjum-Mirbudu-na-odcinek-autostrady-A2-9155238.html",
+      "title": "GDDKiA unieważniła wybór oferty konsorcjum Mirbudu na odcinek autostrady A2 Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Warszawie unieważniła czynności wyboru oferty konsorcjum, którego liderem jest Mirbud, w postępowaniu na projekt i budowę autostrady A2 od węzła \"Biała Podlaska\" do granicy państwa, odcinek X od węzła Biała Podlaska (bez węzła) do km ok. 641+011 - podał Mirbud w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-22T09:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-maju-wzrosly-o-89-proc-rdr-do-ok-604-mln-USD-9155214.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-maju-wzrosly-o-89-proc-rdr-do-ok-604-mln-USD-9155214.html",
+      "title": "Asbis szacuje, że przychody w maju wzrosły o 89 proc. rdr, do ok. 604 mln USD Grupa Asbis szacuje, że jej skonsolidowane przychody za maj 2026 r. wyniosły ok. 604 mln USD i były o ok. 89 proc. wyższe od przychodów wypracowanych w maju 2025 r. - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-22T08:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-W-Chinach-rosnie-produkcja-metalu-9155202.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-W-Chinach-rosnie-produkcja-metalu-9155202.html",
+      "title": "Ceny miedzi w Londynie spadają. W Chinach rośnie produkcja metalu Notowania miedzi na giełdzie metali LME w Londynie spadają w reakcji na informacje o wzroście produkcji tego metalu w Chinach - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-06-22T07:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Feerum-rozpoczyna-przeglad-opcji-strategicznych-9155200.html",
+      "url": "https://www.bankier.pl/wiadomosc/Feerum-rozpoczyna-przeglad-opcji-strategicznych-9155200.html",
+      "title": "Feerum rozpoczyna przegląd opcji strategicznych Feerum rozpoczyna przegląd opcji strategicznych - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-22T07:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-tanieje-po-sygnalach-o-postepie-rozmow-pokojowych-USA-z-Iranem-9155196.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-tanieje-po-sygnalach-o-postepie-rozmow-pokojowych-USA-z-Iranem-9155196.html",
+      "title": "Ropa tanieje po sygnałach o postępie rozmów pokojowych USA z Iranem Ceny ropy naftowej na rynkach paliw idą w dół po sygnałach o postępie rozmów pokojowych pomiędzy USA a Iranem - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-06-22T07:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-liczy-na-kolejne-kontrakty-na-Slowacji-i-w-Czechach-z-realizacjami-w-Ukrainie-czeka-na-koniec-wojny-9155183.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-liczy-na-kolejne-kontrakty-na-Slowacji-i-w-Czechach-z-realizacjami-w-Ukrainie-czeka-na-koniec-wojny-9155183.html",
+      "title": "Budimex liczy na kolejne kontrakty na Słowacji i w Czechach; z realizacjami w Ukrainie czeka na koniec wojny Budimex startuje w przetargach kolejowych i drogowych na Słowacji oraz w Czechach i w ciągu roku liczy na pozyskanie kontraktu o wartości co najmniej 100-150 mln zł, co pozwoliłby na funkcjonowanie na tym rynku przez kilka lat – poinformował członek zarządu Cezary Łysenko. Grupa przygląda się rynkowi ukraińskiemu, ale z potencjalnymi realizacjami czeka na zakończenie wojny.",
+      "content_html": "",
+      "date_published": "2026-06-22T07:02:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Banka-na-AI-to-nie-jest-najwieksze-ryzyko-Znany-strateg-wskazuje-z-czym-moga-zderzyc-sie-rynki-9154045.html",
+      "url": "https://www.bankier.pl/wiadomosc/Banka-na-AI-to-nie-jest-najwieksze-ryzyko-Znany-strateg-wskazuje-z-czym-moga-zderzyc-sie-rynki-9154045.html",
+      "title": "TYLKO U NAS Bańka na AI to nie jest największe ryzyko. Znany strateg wskazuje, z czym mogą zderzyć się rynki Larry Hatheway, ekonomista i rynkowy strateg z Franklin Templeton Institute, przewiduje, że hossę związaną ze sztuczną inteligencją czeka odpoczynek. Nie oznacza to automatycznie korekty na akcjach, choć ta jest możliwa, ale jego zdaniem jej przyczyny byłyby inne niż zmiana podejścia do AI. Eksperta pytamy też o inne zagadnienia interesujące dziś inwestorów: inflację i stopy procentowe, amerykańską gospodarkę, rynek długu czy postrzeganie Polski przez międzynarodowy kapitał. Dlaczego nasz rynek cieszy się uznaniem?",
+      "content_html": "",
+      "date_published": "2026-06-22T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Budimex-przekazal-do-ruchu-kluczowy-wezel-autostradowy-D1-D4-na-Slowacji-9155050.html",
       "url": "https://www.bankier.pl/wiadomosc/Budimex-przekazal-do-ruchu-kluczowy-wezel-autostradowy-D1-D4-na-Slowacji-9155050.html",
       "title": "Budimex przekazał do ruchu kluczowy węzeł autostradowy na Słowacji Budimex przekazał do ruchu kluczowy węzeł autostradowy D1/D4 na Słowacji. Projekt D1/D4 Bratysława – Triblavina obejmował rozbudowę autostrady oraz przebudowę istniejącej infrastruktury drogowej.",
       "content_html": "",
       "date_published": "2026-06-21T10:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Swiat-podzielony-stopami-chinski-konsument-zaciska-pasa-a-banki-centralne-traca-cierpliwosc-9154155.html",
-      "url": "https://www.bankier.pl/wiadomosc/Swiat-podzielony-stopami-chinski-konsument-zaciska-pasa-a-banki-centralne-traca-cierpliwosc-9154155.html",
-      "title": "WYKRESY TYGODNIA Świat podzielony stopami, chiński konsument zaciska pasa, a banki centralne tracą cierpliwość Cześć, tu Inwestor Wojtek. Tydzień banków centralnych za nami. Jedni stopy podnoszą, inni jeszcze czekają. Majowy odczyt inflacji HICP w strefie euro potwierdził wstępny odczyt, osiągając najwyższą wartość od września 2023 roku, zaś Chiny mierzą się ujemną dynamiką sprzedaży detalicznej po raz pierwszy od ponad trzech lat.",
-      "content_html": "",
-      "date_published": "2026-06-20T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-analizuje-nowe-realia-Jastrzebi-Fed-zagadki-podazy-ropy-i-fenomen-SpaceX-9154734.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-analizuje-nowe-realia-Jastrzebi-Fed-zagadki-podazy-ropy-i-fenomen-SpaceX-9154734.html",
-      "title": "Wall Street analizuje nowe realia. Jastrzębi Fed, zagadki podaży ropy i fenomen SpaceX Rynki próbują przetrawić jastrzębi ton nowego szefa amerykańskiej Rezerwy Federalnej. Jednocześnie najwięksi gracze kwestionują realność kosmicznych planów Elona Muska, a na rynku naftowym dochodzi do starcia na prognozy pomiędzy kartelem OPEC a Międzynarodową Agencją Energetyczną.",
-      "content_html": "",
-      "date_published": "2026-06-20T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
