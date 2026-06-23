@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Unibep-wyplaci-0-4-zl-dywidendy-na-akcje-9156456.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unibep-wyplaci-0-4-zl-dywidendy-na-akcje-9156456.html",
+      "title": "Unibep wypłaci 0,4 zł dywidendy na akcję Unibep wypłaci z zysku netto za 2025 rok 13,2 mln zł dywidendy, co daje 0,4 zł dywidendy na akcję (po wyłączeniu akcji własnych posiadanych przez Unibep) - poinformowała budowlana spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-23T18:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-i-Orlen-pod-dwoch-stronach-WIG20-znow-traci-przy-coraz-drozszym-dolarze-9156394.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-i-Orlen-pod-dwoch-stronach-WIG20-znow-traci-przy-coraz-drozszym-dolarze-9156394.html",
+      "title": "KGHM i Orlen pod dwóch stronach. WIG20 znów traci przy coraz droższym dolarze Splot niekorzystnych czynników, jak jastrzębie deklaracje zza oceanu oraz fatalne nastroje w sektorze technologicznym uderzyły w rynki akcji na całym świecie. Tłem dla słabych krajowych indeksów była także słabość polskiego złotego, który wyraźnie tracił do głównych walut świata, w tym zwłaszcza do drożejącego dolara.",
+      "content_html": "",
+      "date_published": "2026-06-23T17:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-zaklada-ze-drugie-DLC-do-Frostpunka-2-bedzie-widoczne-w-wynikach-za-II-kw-wywiad-9156375.html",
+      "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-zaklada-ze-drugie-DLC-do-Frostpunka-2-bedzie-widoczne-w-wynikach-za-II-kw-wywiad-9156375.html",
+      "title": "11 bit studios zakłada, że drugie DLC do \"Frostpunka 2\" będzie widoczne w wynikach za II kw. 11 bit studios zakłada, że premiera dodatku \"Breach of Trust\" do \"Frostpunka 2\" będzie widoczna w wynikach za II kw. - poinformował PAP Biznes COO i CFO 11 bit studios, Piotr Bajraszewski. Podtrzymał termin premiery trzeciego dodatku do gry pod koniec 2026 roku.",
+      "content_html": "",
+      "date_published": "2026-06-23T17:04:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Zima-2026-2027-Rainbow-Tours-wzrosla-o-5-1-proc-rdr-9156352.html",
       "url": "https://www.bankier.pl/wiadomosc/Przedsprzedaz-oferty-Zima-2026-2027-Rainbow-Tours-wzrosla-o-5-1-proc-rdr-9156352.html",
       "title": "Przedsprzedaż oferty \"Zima 2026/2027\" Rainbow Tours wzrosła o 5,1 proc. rdr Rainbow Tours do 19 czerwca 2026 r. przedsprzedało ofertę \"Zima 2026/2027\" 34.901 osobom, wobec 33.192 osób rok wcześniej w tym samym okresie, co oznacza wzrost o ok. 5,1 proc. rdr - podała spółka w komunikacie.",
       "content_html": "",
-      "date_published": "2026-06-23T16:32:00+02:00"
+      "date_published": "2026-06-23T16:42:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Przychody-z-Cronos-The-New-Dawn-przekroczyly-koszty-produkcji-Bloober-Team-9156333.html",
@@ -135,6 +156,13 @@
       "title": "Noble Securities obniżył cenę docelową akcji CD Projektu do 250 zł Analitycy Noble Securities w raporcie z 18 czerwca, obniżyli cenę docelową akcji CD Projektu do 250 zł z 283 zł wcześniej oraz podtrzymali zalecenie \"akumuluj\".",
       "content_html": "",
       "date_published": "2026-06-23T09:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-nabyla-100-proc-udzialow-w-Romer-Media-za-5-3-mln-zl-9155951.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niewiadow-PGM-nabyla-100-proc-udzialow-w-Romer-Media-za-5-3-mln-zl-9155951.html",
+      "title": "Niewiadów PGM nabyła 100 proc. udziałów w Romer Media za 5,3 mln zł Spółka zależna Niewiadów Polskiej Grupy Militarnej - Zakłady Sprzętu Precyzyjnego Niewiadów - zawarła z dwoma dotychczasowymi wspólnikami umowy nabycia udziałów reprezentujących łącznie 100 proc. kapitału zakładowego Romer Media za 5,3 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-23T08:42:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Liczba-jednostek-intermodalnych-przewiezionych-w-I-kw-wyniosla-484-7-tys-12-proc-rdr-UTK-9155949.html",
