@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/ENTR-Investments-sprzedal-w-ABB-7-02-proc-akcji-Enter-Air-po-48-zl-za-sztuke-9157413.html",
+      "url": "https://www.bankier.pl/wiadomosc/ENTR-Investments-sprzedal-w-ABB-7-02-proc-akcji-Enter-Air-po-48-zl-za-sztuke-9157413.html",
+      "title": "ENTR Investments sprzedał w ABB 7,02 proc. akcji Enter Air, po 48 zł za sztukę ENTR Investments sprzedał w procesie przyspieszonej budowy księgi popytu łącznie 1.231.022 akcje Enter Air, stanowiące około 7,02 proc. kapitału tej spółki, po 48 zł za sztukę - poinformowała Ipopema Securities, która pełniła funkcję wyłącznego globalnego koordynatora i prowadzącego księgę popytu w ramach oferty.",
+      "content_html": "",
+      "date_published": "2026-06-24T23:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Maksymalny-pulap-ubezpieczen-w-ustawie-kosmicznej-to-dobry-krok-wyzwaniem-rola-POLSA-Creotech-9157386.html",
       "url": "https://www.bankier.pl/wiadomosc/Maksymalny-pulap-ubezpieczen-w-ustawie-kosmicznej-to-dobry-krok-wyzwaniem-rola-POLSA-Creotech-9157386.html",
       "title": "Maksymalny pułap ubezpieczeń w ustawie kosmicznej to dobry krok; wyzwaniem rola POLSA - Creotech Określenie w projekcie Ustawy o działalności kosmicznej sumy gwarancyjnej ubezpieczenia jako kwoty maksymalnej (do 60 mln euro) to korzystne rozwiązanie, ale wyzwaniem dla firm będzie fakt, że ostateczną wysokość sumy dla danej misji POLSA określi dopiero w trakcie procedury wydawania zezwolenia - poinformowała Agnieszka Jasińska-Kołodziej, Head of Legal Department w Creotech Instruments, podczas Forum Sektora Kosmicznego w Poznaniu.",
@@ -408,13 +415,6 @@
       "title": "Pure Biologics pozyskał z ABB 50 mln zł na rozwój platformy MultiQure RNAi Pure Biologics pozyskał z ABB 50 mln zł na rozwój platformy MultiQure RNAi. Spółka przeprowadziła proces przyspieszonej budowy księgi popytu, w ramach którego znalazła popyt na 50 mln akcji serii S po 1,00 zł za akcję - podała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-06-23T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-zmienna-sesja-na-poczatku-nowego-tygodnia-9155852.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-zmienna-sesja-na-poczatku-nowego-tygodnia-9155852.html",
-      "title": "Na Wall Street zmienna sesja na początku nowego tygodnia Poniedziałkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów. W centrum uwagi są rozmowy pokojowe między USA a Iranem.",
-      "content_html": "",
-      "date_published": "2026-06-22T23:35:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

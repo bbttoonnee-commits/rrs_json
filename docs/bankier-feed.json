@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/ENTR-Investments-sprzedal-w-ABB-7-02-proc-akcji-Enter-Air-po-48-zl-za-sztuke-9157413.html",
+      "url": "https://www.bankier.pl/wiadomosc/ENTR-Investments-sprzedal-w-ABB-7-02-proc-akcji-Enter-Air-po-48-zl-za-sztuke-9157413.html",
+      "title": "ENTR Investments sprzedał w ABB 7,02 proc. akcji Enter Air, po 48 zł za sztukę",
+      "content_html": "ENTR Investments sprzedał w procesie przyspieszonej budowy księgi popytu łącznie 1.231.022 akcje Enter Air, stanowiące około 7,02 proc. kapitału tej spółki, po 48 zł za sztukę - poinformowała Ipopema Securities, która pełniła funkcję wyłącznego...",
+      "date_published": "2026-06-25T00:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Maksymalny-pulap-ubezpieczen-w-ustawie-kosmicznej-to-dobry-krok-wyzwaniem-rola-POLSA-Creotech-9157386.html",
       "url": "https://www.bankier.pl/wiadomosc/Maksymalny-pulap-ubezpieczen-w-ustawie-kosmicznej-to-dobry-krok-wyzwaniem-rola-POLSA-Creotech-9157386.html",
       "title": "Maksymalny pułap ubezpieczeń w ustawie kosmicznej to dobry krok; wyzwaniem rola POLSA - Creotech",
@@ -695,13 +702,6 @@
       "title": "Zełenski \"strzela sobie w stopę\" nie przyjeżdżając do Gdańska. \"Ukraina potrzebuje pieniędzy\"",
       "content_html": "Prezydent Ukrainy Wołodymyr Zełenski popełnia ogromny błąd, nie przyjeżdżając do Gdańska – powiedziała w środę przewodnicząca Polski 2050 Katarzyna Pełczyńska-Nałęcz. Dodała, że Zełenski „strzela sobie w stopę”, bo to Ukraina...",
       "date_published": "2026-06-24T09:21:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miedz-probuje-odbijac-po-tapnieciu-Strach-przed-decyzjami-Fed-paralizuje-rynki-9156679.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miedz-probuje-odbijac-po-tapnieciu-Strach-przed-decyzjami-Fed-paralizuje-rynki-9156679.html",
-      "title": "Miedź próbuje odbicia po tąpnięciu. Strach przed decyzjami Fed paraliżuje rynki",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie lekko rosną po mocnym spadku we wtorek w reakcji na wysoki kurs USD, w którym wyceniane są metale bazowe, i \"jastrzębią\" postawę Fed dotyczącą polityki pieniężnej, co wpływa negatywnie na...",
-      "date_published": "2026-06-24T09:13:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
