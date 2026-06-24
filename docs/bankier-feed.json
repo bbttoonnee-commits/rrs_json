@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Maksymalny-pulap-ubezpieczen-w-ustawie-kosmicznej-to-dobry-krok-wyzwaniem-rola-POLSA-Creotech-9157386.html",
+      "url": "https://www.bankier.pl/wiadomosc/Maksymalny-pulap-ubezpieczen-w-ustawie-kosmicznej-to-dobry-krok-wyzwaniem-rola-POLSA-Creotech-9157386.html",
+      "title": "Maksymalny pułap ubezpieczeń w ustawie kosmicznej to dobry krok; wyzwaniem rola POLSA - Creotech",
+      "content_html": "Określenie w projekcie Ustawy o działalności kosmicznej sumy gwarancyjnej ubezpieczenia jako kwoty maksymalnej (do 60 mln euro) to korzystne rozwiązanie, ale wyzwaniem dla firm będzie fakt, że ostateczną wysokość sumy dla danej misji POLSA określi...",
+      "date_published": "2026-06-24T22:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wiceminister-gospodarki-Ukrainy-juz-dzis-Ukraina-jest-gotowa-na-europejskie-partnerstwo-i-inwestycje-9157359.html",
       "url": "https://www.bankier.pl/wiadomosc/Wiceminister-gospodarki-Ukrainy-juz-dzis-Ukraina-jest-gotowa-na-europejskie-partnerstwo-i-inwestycje-9157359.html",
       "title": "Wiceminister gospodarki Ukrainy: już dziś Ukraina jest gotowa na europejskie partnerstwo i inwestycje",
@@ -695,13 +702,6 @@
       "title": "Miedź próbuje odbicia po tąpnięciu. Strach przed decyzjami Fed paraliżuje rynki",
       "content_html": "Notowania miedzi na giełdzie metali LME w Londynie lekko rosną po mocnym spadku we wtorek w reakcji na wysoki kurs USD, w którym wyceniane są metale bazowe, i \"jastrzębią\" postawę Fed dotyczącą polityki pieniężnej, co wpływa negatywnie na...",
       "date_published": "2026-06-24T09:13:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-nadal-spadaja-W-ciesninie-Ormuz-coraz-wiecej-tankowcow-9156678.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-nadal-spadaja-W-ciesninie-Ormuz-coraz-wiecej-tankowcow-9156678.html",
-      "title": "Ceny ropy nadal spadają. Przez Ormuz przepływa coraz więcej tankowców",
-      "content_html": "Ceny ropy naftowej utrzymują się na fali spadkowej, gdyż coraz więcej tankowców z tym surowcem przepływa przez cieśninę Ormuz, a do tego USA i Iran wysyłają sygnały o dalszych postępach w dążeniu do zakończenia wojny na Bliskim Wschodzie...",
-      "date_published": "2026-06-24T09:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
