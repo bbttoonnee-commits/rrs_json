@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Energa-Obrot-nie-wiedziala-ze-przedstawiciele-handlowi-przeslali-przez-WhatsAppa-m-in-skany-umow-9157352.html",
+      "url": "https://www.bankier.pl/wiadomosc/Energa-Obrot-nie-wiedziala-ze-przedstawiciele-handlowi-przeslali-przez-WhatsAppa-m-in-skany-umow-9157352.html",
+      "title": "Afera z danymi klientów Energi. Handlowcy mieli używać WhatsAppa do przesyłania dokumentów. Spółka reaguje Przedstawiciele handlowi Energi-Obrót przesłali przez WhatsAppa m.in. skany umów bez zgody i wiedzy spółki; naruszenie dotyczyło samowolnych działań pracowników subagenta - poinformowała Energa-Obrót PAP, odnosząc się do upomnienia, które nałożył na nią Prezes UODO.",
+      "content_html": "",
+      "date_published": "2026-06-24T19:54:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Atrem-wyplaci-2-16-zl-dywidendy-na-akcje-za-25-9157267.html",
       "url": "https://www.bankier.pl/wiadomosc/Atrem-wyplaci-2-16-zl-dywidendy-na-akcje-za-25-9157267.html",
       "title": "Atrem wypłaci 2,16 zł dywidendy na akcję za '25 Walne zgromadzenie Atrem zdecydowało o wypłacie 19,9 mln zł dywidendy z zysku netto za 2025 rok, co daje 2,16 zł akcję - podała spółka w komunikacie.",
@@ -401,13 +408,6 @@
       "title": "Na Wall Street zmienna sesja na początku nowego tygodnia Poniedziałkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów. W centrum uwagi są rozmowy pokojowe między USA a Iranem.",
       "content_html": "",
       "date_published": "2026-06-22T23:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Solorz-i-Kulka-bez-absolutorium-w-Cyfrowym-Polsacie-9155802.html",
-      "url": "https://www.bankier.pl/wiadomosc/Solorz-i-Kulka-bez-absolutorium-w-Cyfrowym-Polsacie-9155802.html",
-      "title": "Solorz i Kulka bez absolutorium w Cyfrowym Polsacie Zygmunt Solorz i jego żona Justyna Kulka nie uzyskali absolutorium ze sprawowania funkcji w radzie nadzorczej Cyfrowego Polsatu - zdecydowało w poniedziałek Zwyczajne Walne Zgromadzenie spółki. Absolutorium nie uzyskał też były prezes - Mirosław Błaszczyk.",
-      "content_html": "",
-      "date_published": "2026-06-22T20:31:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
