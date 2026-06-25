@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Raport-z-Badania-Klinicznego-urzadzenia-PregnaOne-firmy-Nestmedic-mozliwy-w-lipcu-26-9158310.html",
+      "url": "https://www.bankier.pl/wiadomosc/Raport-z-Badania-Klinicznego-urzadzenia-PregnaOne-firmy-Nestmedic-mozliwy-w-lipcu-26-9158310.html",
+      "title": "Raport z Badania Klinicznego urządzenia PregnaOne firmy Nestmedic możliwy w lipcu '26 Plan analizy statystycznej danych z badania klinicznego PregnaOne został przygotowany oraz zaakceptowany przez podmioty uczestniczące w procesie opracowania dokumentacji badania - podał Nestmedic w komunikacie. Dodano, że ponadto zgodnie z tym planem zostały opracowane dane medyczne, co oznacza przejście projektu do końcowej fazy przygotowania CSR, którego dostarczenie spodziewane jest w lipcu 2026 roku.",
+      "content_html": "",
+      "date_published": "2026-06-25T20:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/RN-Modivo-powolala-do-zarzadu-Malwine-Winter-i-Karola-Poltoraka-9158269.html",
       "url": "https://www.bankier.pl/wiadomosc/RN-Modivo-powolala-do-zarzadu-Malwine-Winter-i-Karola-Poltoraka-9158269.html",
       "title": "RN Modivo powołała do zarządu Malwinę Winter i Karola Półtoraka Rada nadzorcza Modivo powołała od 1 lipca 2026 r. do zarządu spółki na stanowiska wiceprezesów Malwinę Winter i Karola Półtoraka - poinformowała spółka w komunikacie.",
@@ -499,20 +506,6 @@
       "title": "Wielki plan ratunkowy PKP Cargo. Chcą wyemitować miliony akcji na spłatę długów Zarząd PKP Cargo chce wyemitować w ofercie publicznej od 75 mln do 89,57 mln akcji o nominalnej wartości 1 zł każda, co ma zapewnić środki na spłatę zobowiązań firmy - poinformowała we wtorek wieczorem spółka. O tym, czy plany zostaną przyjęte, ma zdecydować piątkowe nadzwyczajne walne zgromadzenie.",
       "content_html": "",
       "date_published": "2026-06-23T23:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-odwrot-od-polprzewodnikow-Nasdaq-i-S-P500-mocno-w-dol-9156575.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-odwrot-od-polprzewodnikow-Nasdaq-i-S-P500-mocno-w-dol-9156575.html",
-      "title": "Wielki odwrót od półprzewodników. Nasdaq i S&P500 mocno w dół Przecena akcji producentów półprzewodników przełożyła się na dość dotkliwe spadki na Wall Street. Na globalnym rynku akcji od kilku dni obserwujemy ponadprzeciętną zmienność.",
-      "content_html": "",
-      "date_published": "2026-06-23T22:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/CI-Games-zmienilo-date-premiery-gry-Lords-of-the-Fallen-2-na-I-kwartal-2027-roku-9156537.html",
-      "url": "https://www.bankier.pl/wiadomosc/CI-Games-zmienilo-date-premiery-gry-Lords-of-the-Fallen-2-na-I-kwartal-2027-roku-9156537.html",
-      "title": "CI Games zmieniło datę premiery gry Lords of the Fallen 2 na I kwartał 2027 roku Premiera gry Lords of the Fallen 2 jest planowana na pierwszy kwartał 2027 roku - podał CI Games w komunikacie. Pierwotnie premiera miała się odbyć na jesieni 2026 r.",
-      "content_html": "",
-      "date_published": "2026-06-23T20:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

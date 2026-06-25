@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Raport-z-Badania-Klinicznego-urzadzenia-PregnaOne-firmy-Nestmedic-mozliwy-w-lipcu-26-9158310.html",
+      "url": "https://www.bankier.pl/wiadomosc/Raport-z-Badania-Klinicznego-urzadzenia-PregnaOne-firmy-Nestmedic-mozliwy-w-lipcu-26-9158310.html",
+      "title": "Raport z Badania Klinicznego urządzenia PregnaOne firmy Nestmedic możliwy w lipcu '26",
+      "content_html": "Plan analizy statystycznej danych z badania klinicznego PregnaOne został przygotowany oraz zaakceptowany przez podmioty uczestniczące w procesie opracowania dokumentacji badania - podał Nestmedic w komunikacie. Dodano, że ponadto zgodnie z tym planem...",
+      "date_published": "2026-06-25T21:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Droga-Kijowa-do-UE-Zurek-Ukraina-skutecznie-walczy-z-korupcja-9158266.html",
       "url": "https://www.bankier.pl/wiadomosc/Droga-Kijowa-do-UE-Zurek-Ukraina-skutecznie-walczy-z-korupcja-9158266.html",
       "title": "Droga Kijowa do UE. Żurek: Ukraina skutecznie walczy z korupcją",
@@ -695,13 +702,6 @@
       "title": "Udany tydzień Movie Games. Drug Dealer Simulator 2 podbija konsole PS5 i Xbox",
       "content_html": "Gra Drug Dealer Simulator 2, która miała swoją premierę na platformach Sony PlayStation 5 oraz Xbox Series X/S 17 czerwca 2026 roku w ciągu 7 dni od dnia premiery została sprzedana w liczbie 17.889 sztuk - podało Movie Games w komunikacie.",
       "date_published": "2026-06-25T09:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-Ameryka-wrocila-i-to-dopiero-poczatek-jej-zlotej-ery-9157428.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-Ameryka-wrocila-i-to-dopiero-poczatek-jej-zlotej-ery-9157428.html",
-      "title": "Trump: Ameryka wróciła i to dopiero początek jej złotej ery",
-      "content_html": "Zaczynamy najbardziej niesamowite urodziny w historii – ogłosił w środę w Waszyngtonie prezydent USA Donald Trump na ceremonii inaugurującej obchody 250. rocznicy niepodległości USA. Oświadczył, że „Ameryka wróciła” i to „początek”...",
-      "date_published": "2026-06-25T09:15:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
