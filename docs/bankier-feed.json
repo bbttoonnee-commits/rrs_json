@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/URC-Gdansk-Local-content-jako-szansa-dla-polskich-firm-w-inwestycjach-i-odbudowie-Ukrainy-9158371.html",
+      "url": "https://www.bankier.pl/wiadomosc/URC-Gdansk-Local-content-jako-szansa-dla-polskich-firm-w-inwestycjach-i-odbudowie-Ukrainy-9158371.html",
+      "title": "URC Gdańsk/ Local content jako szansa dla polskich firm w inwestycjach i odbudowie Ukrainy",
+      "content_html": "Istotą local content jest promowanie polskich rozwiązań i budowanie potencjału krajowych firm — wskazywali przedstawiciele Enei, PGE, Tauronu i PGZ na Konferencji na rzecz Odbudowy Ukrainy w Gdańsku. Mówili też o roli polskich firm w odbudowie...",
+      "date_published": "2026-06-26T00:29:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Raport-z-Badania-Klinicznego-urzadzenia-PregnaOne-firmy-Nestmedic-mozliwy-w-lipcu-26-9158310.html",
       "url": "https://www.bankier.pl/wiadomosc/Raport-z-Badania-Klinicznego-urzadzenia-PregnaOne-firmy-Nestmedic-mozliwy-w-lipcu-26-9158310.html",
       "title": "Raport z Badania Klinicznego urządzenia PregnaOne firmy Nestmedic możliwy w lipcu '26",
@@ -695,13 +702,6 @@
       "title": "Wielki plan Trumpa wobec Polski. Tysiące żołnierzy, ale Waszyngton studzi emocje",
       "content_html": "Prezydent Donald Trump pozostaje zaangażowany w bezpieczeństwo Polski, ale szczegóły zapowiedzianego przez niego wysłania do Polski dodatkowych 5 tysięcy amerykańskich żołnierzy nie zostały jeszcze ustalone - powiedział w środę ambasador...",
       "date_published": "2026-06-25T09:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-ok-17-9-tys-egzemplarzy-gry-DDS-2-na-platformach-konsolowych-9157501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Movie-Games-sprzedalo-od-premiery-ok-17-9-tys-egzemplarzy-gry-DDS-2-na-platformach-konsolowych-9157501.html",
-      "title": "Udany tydzień Movie Games. Drug Dealer Simulator 2 podbija konsole PS5 i Xbox",
-      "content_html": "Gra Drug Dealer Simulator 2, która miała swoją premierę na platformach Sony PlayStation 5 oraz Xbox Series X/S 17 czerwca 2026 roku w ciągu 7 dni od dnia premiery została sprzedana w liczbie 17.889 sztuk - podało Movie Games w komunikacie.",
-      "date_published": "2026-06-25T09:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
