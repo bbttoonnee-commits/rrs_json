@@ -4,6 +4,62 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PA-Nova-zdecydowala-o-przedterminowym-calosciowym-wykupie-obligacji-serii-C-9159032.html",
+      "url": "https://www.bankier.pl/wiadomosc/PA-Nova-zdecydowala-o-przedterminowym-calosciowym-wykupie-obligacji-serii-C-9159032.html",
+      "title": "PA Nova zdecydowała o przedterminowym, całościowym wykupie obligacji serii C Zarząd PA Nova podjął uchwałę o przedterminowym, całościowym wykupie obligacji serii C - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-26T19:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Text-mial-w-IV-kw-2025-26-r-28-6-mln-zl-zysku-netto-zgodnie-z-konsensusem-9159029.html",
+      "url": "https://www.bankier.pl/wiadomosc/Text-mial-w-IV-kw-2025-26-r-28-6-mln-zl-zysku-netto-zgodnie-z-konsensusem-9159029.html",
+      "title": "Text miał w IV kw. 2025/26 r. 28,6 mln zł zysku netto, zgodnie z konsensusem Text w czwartym kwartale roku obrotowego 2025/26 miał 28,6 mln zł zysku netto - podała spółka w raporcie. Konsensus PAP Biznes zakładał zysk na poziomie 28,9 mln zł.",
+      "content_html": "",
+      "date_published": "2026-06-26T18:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Text-chce-wyplacic-lacznie-4-26-zl-dywidendy-na-akcje-po-zaliczkach-do-wyplaty-zostanie-2-13-zl-na-akcje-9159011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Text-chce-wyplacic-lacznie-4-26-zl-dywidendy-na-akcje-po-zaliczkach-do-wyplaty-zostanie-2-13-zl-na-akcje-9159011.html",
+      "title": "Text chce wypłacić łącznie 4,26 zł dywidendy na akcję; po zaliczkach do wypłaty zostanie 2,13 zł na akcję Text chce przeznaczyć na dywidendę za rok obrotowy 2025/26 blisko 109,7 mln zł, co daje 4,26 zł dywidendy na akcję - podała spółka w komunikacie. Uwzględniając zaliczki, do wypłaty pozostanie 2,13 zł na akcję.",
+      "content_html": "",
+      "date_published": "2026-06-26T18:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unimot-wyplaci-6-5-zl-dywidendy-na-akcje-za-2025-rok-9159009.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unimot-wyplaci-6-5-zl-dywidendy-na-akcje-za-2025-rok-9159009.html",
+      "title": "Unimot wypłaci 6,5 zł dywidendy na akcję za 2025 rok Akcjonariusze Unimotu zdecydowali o wypłacie 6,5 zł dywidendy na akcję za 2025 rok - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-26T18:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Text-za-IV-kw-2025-26-vs-konsensus-PAP-Biznes-tabela-9158999.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Text-za-IV-kw-2025-26-vs-konsensus-PAP-Biznes-tabela-9158999.html",
+      "title": "Wyniki Text za IV kw. 2025/26 vs. konsensus PAP Biznes Poniżej przedstawiono wyniki Text w czwartym kwartale 2025/26 według wyliczeń PAP Biznes oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "content_html": "",
+      "date_published": "2026-06-26T18:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Po-sesji-30-VI-nadzwyczajna-korekta-pakietow-akcji-Allegro-w-indeksach-GPW-Benchmark-9158982.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-sesji-30-VI-nadzwyczajna-korekta-pakietow-akcji-Allegro-w-indeksach-GPW-Benchmark-9158982.html",
+      "title": "GPW Benchmark: Po sesji 30 VI nadzwyczajna korekta pakietów akcji Allegro w indeksach Po sesji 30 czerwca zostanie przeprowadzona nadzwyczajna korekta pakietów akcji Allegro w indeksach WIG20, WIG20TR, WIG30, WIG30TR, WIG140, WIG, WIG-Poland, GPWB-CENTR oraz CEEplus - poinformowała w komunikacie GPW Benchmark. W indeksie WIG.MS-ECM pakiet pozostanie bez zmian.",
+      "content_html": "",
+      "date_published": "2026-06-26T17:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zlozono-oferty-na-sprzedaz-275-000-akcji-Asseco-Business-Solutions-9158962.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zlozono-oferty-na-sprzedaz-275-000-akcji-Asseco-Business-Solutions-9158962.html",
+      "title": "Złożono oferty na sprzedaż 275.000 akcji Asseco Business Solutions W odpowiedzi na zaproszenie do składania ofert sprzedaży akcji Asseco Business Solutions złożono 3 oferty na łączną liczbę 275.000 akcji - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-26T17:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Blad-na-GPW-i-uniewazniona-sesja-spolki-z-NC-Na-glownym-rynku-czerwono-9158948.html",
+      "url": "https://www.bankier.pl/wiadomosc/Blad-na-GPW-i-uniewazniona-sesja-spolki-z-NC-Na-glownym-rynku-czerwono-9158948.html",
+      "title": "Błąd na GPW i unieważniona sesja spółki z NC. Na głównym rynku czerwono Piątkowa sesja na warszawskim parkiecie przyniosła ochłodzenie nastrojów, a dominującym kolorem kursach spółek z GPW była czerwień. Choć większość dużych spółek boleśnie odczuła kolejny odcinek rynkowej sagi pod tytułem „co dalej z hossą AI?” to znalazł się popyt na akcje Grupy Kęty i Żabki. Nie obyło się też bez rynkowych kontrowersji, których efektem było anulowanie transakcji na jednej ze spółek małej giełdy.",
+      "content_html": "",
+      "date_published": "2026-06-26T17:21:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gielda-nie-ma-wakacji-ale-sa-Wakacje-na-Gieldzie-Do-gry-zapraszamy-juz-od-1-lipca-9158907.html",
       "url": "https://www.bankier.pl/wiadomosc/Gielda-nie-ma-wakacji-ale-sa-Wakacje-na-Gieldzie-Do-gry-zapraszamy-juz-od-1-lipca-9158907.html",
       "title": "BANKIER WEEKLY Giełda nie ma wakacji, ale są Wakacje na Giełdzie. Do gry zapraszamy już od 1 lipca! Pieniądze inwestorów nie odpoczywają, handel na giełdzie odbywa się także latem. Po raz trzeci będzie to także handel na wirtualnym parkiecie w konkursie inwestycyjnym Wakacje na Giełdzie, organizowanym przez Bankier.pl i Giełdę Papierów Wartościowych w Warszawie. – Zapraszamy po wiedzę, po doświadczenie. I po nagrody – mówi Andrzej Stec, redaktor naczelny Bankier.pl.",
@@ -506,27 +562,6 @@
       "title": "Afera z danymi klientów Energi. Handlowcy mieli używać WhatsAppa do przesyłania dokumentów. Spółka reaguje Przedstawiciele handlowi Energi-Obrót przesłali przez WhatsAppa m.in. skany umów bez zgody i wiedzy spółki; naruszenie dotyczyło samowolnych działań pracowników subagenta - poinformowała Energa-Obrót PAP, odnosząc się do upomnienia, które nałożył na nią Prezes UODO.",
       "content_html": "",
       "date_published": "2026-06-24T19:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atrem-wyplaci-2-16-zl-dywidendy-na-akcje-za-25-9157267.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atrem-wyplaci-2-16-zl-dywidendy-na-akcje-za-25-9157267.html",
-      "title": "Atrem wypłaci 2,16 zł dywidendy na akcję za '25 Walne zgromadzenie Atrem zdecydowało o wypłacie 19,9 mln zł dywidendy z zysku netto za 2025 rok, co daje 2,16 zł akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-24T17:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przeceny-gigantow-na-GPW-KGHM-6-9-Orlen-4-9-Allegro-4-2-PGE-4-6-9157245.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przeceny-gigantow-na-GPW-KGHM-6-9-Orlen-4-9-Allegro-4-2-PGE-4-6-9157245.html",
-      "title": "Przeceny gigantów na GPW. KGHM -6,9%, Orlen -4,9%, Allegro -4,2%, PGE -4,6% To był wyjątkowo trudny dzień dla inwestorów na GPW. Środowa sesja przyniosła gwałtowne pogorszenie nastrojów, wywołane globalną awersją do ryzyka, umocnieniem dolara oraz fatalnym sentymentem na rynkach zagranicznych. Krajowe blue chipy od samego rana znajdowały się pod kreską, a spadki pogłębiały się z każdą kolejną godziną handlu. Wyprzedaż szczególnie mocno dotknęła krajowe blue chipy, a takie spółki jak Allegro, PGE, Orlen czy KGHM tracił od 4 do nawet 7 procent.",
-      "content_html": "",
-      "date_published": "2026-06-24T17:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ENTR-Investments-rozpoczyna-ABB-na-sprzedaz-do-1-231-022-akcji-Enter-Air-9157228.html",
-      "url": "https://www.bankier.pl/wiadomosc/ENTR-Investments-rozpoczyna-ABB-na-sprzedaz-do-1-231-022-akcji-Enter-Air-9157228.html",
-      "title": "ENTR Investments rozpoczyna ABB na sprzedaż do 1.231.022 akcji Enter Air ENTR Investments rozpoczyna proces przyspieszonego budowania księgi popytu. W ramach ABB zamierza sprzedać do 1.231.022 akcji Enter Air stanowiących ok. 7,02 proc. kapitału zakładowego spółki, czyli wszystkie posiadane przez akcjonariusza akcje - podała Ipopema Securities w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-24T17:20:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
