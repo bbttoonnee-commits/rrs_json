@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/AB-uplasowal-4-letnie-obligacje-o-wartosci-110-mln-zl-9158613.html",
+      "url": "https://www.bankier.pl/wiadomosc/AB-uplasowal-4-letnie-obligacje-o-wartosci-110-mln-zl-9158613.html",
+      "title": "AB uplasował 4-letnie obligacje o wartości 110 mln zł AB uplasował 4-letnie niezabezpieczone obligacje o wartości 110 mln zł - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-26T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-ma-umowe-z-ME-dotyczaca-finansowania-odejsc-pracownikow-na-urlopy-gornicze-9158573.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-ma-umowe-z-ME-dotyczaca-finansowania-odejsc-pracownikow-na-urlopy-gornicze-9158573.html",
+      "title": "JSW podpisuje umowę z ministrem energii. Ruszają masowe urlopy w kopalniach JSW podpisała umowę z ministrem energii dotyczącą finansowania odejść pracowników na urlopy górnicze oraz urlopy dla pracowników zakładów przeróbki mechanicznej węgla - poinformowała spółka w komunikacie. Łączna wartość dotacji przyznanej na finansowanie świadczeń objętych zawartą umową wynosi około 287 mln zł.",
+      "content_html": "",
+      "date_published": "2026-06-26T11:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NanoGroup-podpisalo-umowe-inwestycyjna-z-Auxilius-Pharma-9158542.html",
+      "url": "https://www.bankier.pl/wiadomosc/NanoGroup-podpisalo-umowe-inwestycyjna-z-Auxilius-Pharma-9158542.html",
+      "title": "NanoGroup podpisało umowę inwestycyjną z Auxilius Pharma NanoGroup podpisało umowę inwestycyjną z Auxilius Pharma, która zakłada m.in. wymianę akcji spółek, w efekcie której NanoGroup zwiększy swoje zaangażowanie kapitałowe w Auxilius Pharma do 100 proc. - podało NanoGroup w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-26T10:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unimot-ma-memorandum-o-wspolpracy-z-ukrainskim-JSC-Ivchenko-Progress-9158528.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unimot-ma-memorandum-o-wspolpracy-z-ukrainskim-JSC-Ivchenko-Progress-9158528.html",
+      "title": "Polsko-ukraiński pakt obronny. Unimot i PZL Defence wyprodukują silniki do dronów i rakiet Unimot oraz PZL Defence, spółka z grupy Unimot, podpisały z ukraińską spółką JSC Ivchenko-Progress memorandum o współpracy w zakresie rozwoju, produkcji i komercjalizacji małogabarytowych silników turboodrzutowych oraz innych technologii dla sektora lotniczego i obronnego - poinformowano w piątkowym komunikacie.",
+      "content_html": "",
+      "date_published": "2026-06-26T09:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-Aillerona-do-trzymaj-9158519.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-Aillerona-do-trzymaj-9158519.html",
+      "title": "Noble Securities obniżyło rekomendację Aillerona do \"trzymaj\" Noble Securities w raporcie z 23 czerwca obniżyło rekomendację dla Aillerona do \"trzymaj\" z \"akumuluj\", obniżając 9-miesięczną cenę docelową akcji spółki do 16,8 zł z 17,3 zł wcześniej.",
+      "content_html": "",
+      "date_published": "2026-06-26T09:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koszty-AI-zaczynaja-ciazyc-gigantom-Gleboka-wyprzedaz-na-gieldach-w-Azji-9158444.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koszty-AI-zaczynaja-ciazyc-gigantom-Gleboka-wyprzedaz-na-gieldach-w-Azji-9158444.html",
+      "title": "Koszty AI zaczynają ciążyć gigantom. Głęboka wyprzedaż na giełdach w Azji Piątkowy poranek przyniósł tąpnięcie na azjatyckich giełdach, napędzane wyprzedażą spółek z sektora technologicznego. W najgorszym momencie południowokoreański KOSPI spadał o blisko 9%, a japoński Nikkei tracił ponad 5%. Pogorszenie nastrojów inwestorów łączono z rosnącymi kosztami infrastruktury sztucznej inteligencji, po tym jak Apple i Microsoft ogłosiły podwyżki cen swoich flagowych produktów z powodu drożejących komponentów.",
+      "content_html": "",
+      "date_published": "2026-06-26T08:53:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Niedzwiedzie-budza-sie-na-GPW-Najnowszy-raport-z-nastrojow-polskich-inwestorow-9158468.html",
       "url": "https://www.bankier.pl/wiadomosc/Niedzwiedzie-budza-sie-na-GPW-Najnowszy-raport-z-nastrojow-polskich-inwestorow-9158468.html",
       "title": "Niedźwiedzie budzą się na GPW. Najnowszy raport z nastrojów polskich inwestorów Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 0,4 pkt. proc. i wyniósł 44 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 2,7 pkt. proc. do 30 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.",
@@ -39,16 +81,16 @@
       "date_published": "2026-06-26T06:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Syndrom-szybkiego-zysku-Kto-naprawde-rzadzi-dzis-portfelami-mlodych-9156843.html",
-      "url": "https://www.bankier.pl/wiadomosc/Syndrom-szybkiego-zysku-Kto-naprawde-rzadzi-dzis-portfelami-mlodych-9156843.html",
-      "title": "LOUD CONGRESS Syndrom szybkiego zysku. Kto naprawdę rządzi dziś portfelami młodych? Meme stocks, influencerzy-analitycy, TikTok jako źródło sygnałów inwestycyjnych — młode pokolenie wchodzi na rynki kapitałowe na własnych, bezkompromisowych zasadach. Czy to nowa, zdemokratyzowana era finansów, czy prosta droga do utraty kapitału? Podczas konferencji Loud Congress eksperci zderzyli rynkowe realia z internetowym hype'em.",
+      "id": "https://www.bankier.pl/wiadomosc/Dywidendowe-zniwa-2026-Wakacyjna-rozklad-dni-dywidendy-i-wyplaty-9157992.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dywidendowe-zniwa-2026-Wakacyjna-rozklad-dni-dywidendy-i-wyplaty-9157992.html",
+      "title": "Dywidendowe żniwa 2026. Wakacyjny rozkład dni dywidendy i wypłat Letni żar leje się z nieba, zaczynają się wakacje, a na GPW zaczynamy najgorętszy okres dywidendowych żniw. Co prawda kombajny już ruszyły pełną parą po miliardy złotych, które w czerwcu rozdzieliły już m.in. Orlen, Pekao czy XTB. Przed nami jednak lato i dywidendy od PKO BP, PZU, największych deweloperów, czy spółek przemysłowych.",
       "content_html": "",
       "date_published": "2026-06-26T06:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Dywidendowe-zniwa-2026-Wakacyjna-rozklad-dni-dywidendy-i-wyplaty-9157992.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dywidendowe-zniwa-2026-Wakacyjna-rozklad-dni-dywidendy-i-wyplaty-9157992.html",
-      "title": "Dywidendowe żniwa 2026. Wakacyjny rozkład dni dywidendy i wypłat Letni żar leje się z nieba, zaczynają się wakacje, a na GPW zaczynamy najgorętszy okres dywidendowych żniw. Co prawda kombajny już ruszyły pełną parą po miliardy złotych, które w czerwcu rozdzieliły już m.in. Orlen, Pekao czy XTB. Przed nami jednak lato i dywidendy od PKO BP, PZU, największych deweloperów, czy spółek przemysłowych.",
+      "id": "https://www.bankier.pl/wiadomosc/Syndrom-szybkiego-zysku-Kto-naprawde-rzadzi-dzis-portfelami-mlodych-9156843.html",
+      "url": "https://www.bankier.pl/wiadomosc/Syndrom-szybkiego-zysku-Kto-naprawde-rzadzi-dzis-portfelami-mlodych-9156843.html",
+      "title": "LOUD CONGRESS Syndrom szybkiego zysku. Kto naprawdę rządzi dziś portfelami młodych? Meme stocks, influencerzy-analitycy, TikTok jako źródło sygnałów inwestycyjnych — młode pokolenie wchodzi na rynki kapitałowe na własnych, bezkompromisowych zasadach. Czy to nowa, zdemokratyzowana era finansów, czy prosta droga do utraty kapitału? Podczas konferencji Loud Congress eksperci zderzyli rynkowe realia z internetowym hype'em.",
       "content_html": "",
       "date_published": "2026-06-26T06:00:00+02:00"
     },
@@ -464,48 +506,6 @@
       "title": "Koreański gigant idzie na Wall Street i chce zebrać więcej niż Alibaba, ale to Samsung podniósł KOSPI Rynek kapitałowy w Seulu zaliczył prawdziwy rollercoaster, przechodząc w ciągu kilkunastu godzin od skrajnej paniki do euforii. Po tym jak we wtorek 23 czerwca indeks KOSPI runął o 10%, a następnego dnia pogłębił spadki, na rynku pojawiła się informacja o gigantycznym skupie akcji Samsunga, co podniosło kurs giganta o blisko 10 proc. i wsparło cały rynek. Odbił także kurs SK Hynix, który poinformował o planie wejścia na Nasdaq i zebrania ogromnego kapitału na zwiększenie mocy produkcyjnych.",
       "content_html": "",
       "date_published": "2026-06-24T12:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-i-gaz-tanieja-ale-Europa-tak-szybko-nie-uwolni-sie-od-inflacji-9156869.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-i-gaz-tanieja-ale-Europa-tak-szybko-nie-uwolni-sie-od-inflacji-9156869.html",
-      "title": "Ropa i gaz tanieją, ale Europa tak szybko nie uwolni się od inflacji Tydzień po podpisaniu wstępnego porozumienia między Stanami Zjednoczonymi a Iranem rynki surowców łapią oddech. Ceny ropy spadły nieznacznie poniżej 80 USD za baryłkę, a europejski gaz oscyluje wokół 40 EUR/MWh. Ta ulga nie przełoży się jednak natychmiast na portfele europejskich konsumentów. Inflacja w strefie euro osiągnęła najwyższy poziom od blisko trzech lat, a skutki irańskiego szoku energetycznego będziemy odczuwać jeszcze przez kilka miesięcy – przewidują ekonomiści grupy UniCredit.",
-      "content_html": "",
-      "date_published": "2026-06-24T12:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Telestrada-w-ramach-skupu-akcji-wlasnych-zaoferowali-do-sprzedazy-41-889-akcji-9156805.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Telestrada-w-ramach-skupu-akcji-wlasnych-zaoferowali-do-sprzedazy-41-889-akcji-9156805.html",
-      "title": "Akcjonariusze Telestrada w ramach skupu akcji własnych zaoferowali do sprzedaży 41.889 akcji Akcjonariusze Telestrada w ramach skupu akcji własnych zaoferowali do sprzedaży 41.889 akcji. Nie dokonano redukcji liczby akcji. Wartość zapisów w skupie wyniosła 1,04 mln zł - poinformowała spółka w komunikacie. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-06-24T11:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dektra-wyplaci-0-3-zl-dywidendy-na-akcje-9156792.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dektra-wyplaci-0-3-zl-dywidendy-na-akcje-9156792.html",
-      "title": "Dektra wypłaci 0,3 zł dywidendy na akcję Akcjonariusze spółki Dektra zdecydowali, że łączna kwota dywidendy za rok 2025 r. wyniesie 331,2 tys. zł, co stanowić będzie 0,3 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-24T11:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krynica-Vitamin-wyplaci-0-62-zl-dywidendy-na-akcje-9156778.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krynica-Vitamin-wyplaci-0-62-zl-dywidendy-na-akcje-9156778.html",
-      "title": "Krynica Vitamin wypłaci 0,62 zł dywidendy na akcję Akcjonariusze Krynicy Vitamin zdecydowali, by z zysku netto za 2025 rok przeznaczyć na dywidendę łącznie 7,59 mln zł, co daje 0,62 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-24T10:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mniejsze-projekty-ktore-CD-Projekt-planuje-wydac-w-26-beda-miksem-gamingu-i-tematow-okologrowych-Nowakowski-9156763.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mniejsze-projekty-ktore-CD-Projekt-planuje-wydac-w-26-beda-miksem-gamingu-i-tematow-okologrowych-Nowakowski-9156763.html",
-      "title": "Ponad 500 osób tworzy Wiedźmina 4. CD Projekt odkrywa karty i zapowiada nowe anime Zapowiedziane przez CD Projekt podczas konferencji za I kw. mniejsze projekty, które spółka planuje wydać w 2026 rok będą stanowiły miks między rzeczami związanymi z gamingiem i tematami okołogrowymi - poinformował PAP Biznes Joint CEO CD Projektu Michał Nowakowski. Deweloper nie widzi siebie jako producenta mniejszych gier i dalej zamierza koncentrować się na dużych, wysokiej jakości tytułach RPG.",
-      "content_html": "",
-      "date_published": "2026-06-24T10:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-spadaja-Katar-szykuje-sie-do-restartu-9156705.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-spadaja-Katar-szykuje-sie-do-restartu-9156705.html",
-      "title": "Ceny gazu w Europie spadają, a Katar szykuje się do restartu Ceny gazu w Europie spadają wraz z poprawą ruchu statków w cieśninie Ormuz - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-06-24T09:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
