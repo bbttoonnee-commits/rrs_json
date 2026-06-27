@@ -4,11 +4,137 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-zbuduje-trzeci-terminal-LNG-Mozliwosci-importu-gazu-wzrosna-do-50-mld-m3-9156650.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-zbuduje-trzeci-terminal-LNG-Mozliwosci-importu-gazu-wzrosna-do-50-mld-m3-9156650.html",
+      "title": "Polska zbuduje trzeci terminal LNG. Możliwości importu gazu wzrosną do 50 mld m3",
+      "content_html": "Cztery podmioty zakontraktowały długoterminowy dostęp do drugiego pływającego terminala FSRU w Zatoce Gdańskiej. To właśnie duże zainteresowanie potencjalnych użytkowników i ich wiążące oferty przesądziły...",
+      "date_published": "2026-06-27T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Narkotyki-coraz-popularniejsze-Nie-zawsze-wiemy-co-zazywamy-9159161.html",
+      "url": "https://www.bankier.pl/wiadomosc/Narkotyki-coraz-popularniejsze-Nie-zawsze-wiemy-co-zazywamy-9159161.html",
+      "title": "Narkotyki coraz popularniejsze. \"Nie zawsze wiemy, co zażywamy\"",
+      "content_html": "Liczba osób zażywających narkotyki osiągnęła rekordowy poziom, a dynamiczny rozwój syntetycznych substancji psychoaktywnych zmienia światowy rynek i zwiększa zagrożenia zdrowotne – wynika z opublikowanego w piątek Światowego Raportu ONZ...",
+      "date_published": "2026-06-27T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-lagodza-restrykcje-wobec-Anthropic-Mythos-wraca-do-zaufanych-klientow-9159160.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-lagodza-restrykcje-wobec-Anthropic-Mythos-wraca-do-zaufanych-klientow-9159160.html",
+      "title": "USA łagodzą restrykcje wobec Anthropic. Mythos wraca do zaufanych klientów",
+      "content_html": "Rząd USA zezwolił w piątek firmie Anthropic na udostępnienie wybranym „zaufanym klientom” jej zaawansowanego modelu sztucznej inteligencji Claude Mythos 5. Dwa tygodnie wcześniej Waszyngton wymusił wstrzymanie dostępu do usługi, uzasadniając...",
+      "date_published": "2026-06-27T09:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mega-osrodki-mialy-pomiescic-tysiace-osob-Odwrot-rzadu-po-fali-protestow-9159121.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mega-osrodki-mialy-pomiescic-tysiace-osob-Odwrot-rzadu-po-fali-protestow-9159121.html",
+      "title": "Mega ośrodki miały pomieścić tysiące osób. Odwrót rządu po fali protestów",
+      "content_html": "Rząd USA kupił w tym roku za 1 mld dolarów 11 magazynów, by przekształcić je w ośrodki detencyjne dla imigrantów. Władze ograniczają jednak realizację tego planu w obliczu pozwów sądowych, protestów oraz sprzeciwu lokalnych władz w całym...",
+      "date_published": "2026-06-27T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-trzesienie-ziemi-w-Wenezueli-Brak-informacji-o-ofiarach-i-zniszczeniach-9159157.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-trzesienie-ziemi-w-Wenezueli-Brak-informacji-o-ofiarach-i-zniszczeniach-9159157.html",
+      "title": "Kolejne trzęsienie ziemi w Wenezueli. Brak informacji o ofiarach i zniszczeniach",
+      "content_html": "Kolejne w ostatnich dniach trzęsienie ziemi w piątek po południu nawiedziło Wenezuelę. Według Europejsko-Śródziemnomorskiego Centrum Sejsmologicznego (EMSC) jego magnituda wyniosła 4.9. We środę dwa podziemne wstrząsy spowodowały śmierć...",
+      "date_published": "2026-06-27T09:11:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rakiety-manewrujace-i-nowy-niszczyciel-Kima-A-to-nie-koniec-zbrojen-9156623.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rakiety-manewrujace-i-nowy-niszczyciel-Kima-A-to-nie-koniec-zbrojen-9156623.html",
+      "title": "Rakiety manewrujące i nowy niszczyciel Kima. A to nie koniec zbrojeń",
+      "content_html": "Przywódca Korei Płn. Kim Dzong Un wprowadził do służby niszczyciel o wyporności 5 tys. ton – przekazały w środę reżimowe media. Kim zapowiedział też, że Korea Płn. będzie rocznie budować dwa okręty nawodne klasy „Choe Hyon” lub...",
+      "date_published": "2026-06-27T09:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-Komunisci-najwiekszym-zagrozeniem-dla-kraju-od-jego-powstania-9159118.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-Komunisci-najwiekszym-zagrozeniem-dla-kraju-od-jego-powstania-9159118.html",
+      "title": "Trump: Komuniści największym zagrożeniem dla kraju od jego powstania",
+      "content_html": "Prezydent USA Donald Trump powiedział w piątek, że „komuniści” są największym zagrożeniem dla Stanów Zjednoczonych w historii, twierdząc, że „bezbożni” zamierzają zamykać kościoły i zabijać ludzi. Trump odniósł się w ten sposób...",
+      "date_published": "2026-06-27T09:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejny-etap-prac-w-Puznikach-Poszukiwania-zakonczone-bez-przelomu-9159149.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejny-etap-prac-w-Puznikach-Poszukiwania-zakonczone-bez-przelomu-9159149.html",
+      "title": "Kolejny etap prac w Puźnikach. Poszukiwania zakończone bez przełomu",
+      "content_html": "Zakończyły się kolejne prace poszukiwawcze w Puźnikach na Ukrainie. Nie odnaleziono drugiej zbiorowej mogiły ofiar. To trudna wiadomość, ale nie zmienia naszego celu - poinformowała w piątek minister kultury Marta Cienkowska. Dodała, że poszukiwania...",
+      "date_published": "2026-06-27T09:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Iran-Reakcja-na-przemoc-bedzie-przemoc-9159143.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-zaatakowaly-Iran-Reakcja-na-przemoc-bedzie-przemoc-9159143.html",
+      "title": "USA zaatakowały Iran. \"Reakcją na przemoc będzie przemoc\"",
+      "content_html": "Siły amerykańskie przeprowadziły w piątek uderzenia na Iran w odpowiedzi na czwartkowy irański atak na singapurski statek handlowy przepływający przez cieśninę Ormuz - poinformowało Dowództwo Centralne USA (CENTCOM).",
+      "date_published": "2026-06-27T08:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dramatyczny-bilans-wstrzasow-w-Wenezueli-Liczba-ofiar-gwaltownie-wzrosla-9158790.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dramatyczny-bilans-wstrzasow-w-Wenezueli-Liczba-ofiar-gwaltownie-wzrosla-9158790.html",
+      "title": "Dramatyczny bilans wstrząsów w Wenezueli. Liczba ofiar gwałtownie wzrosła",
+      "content_html": "Do 920 osób wzrosła liczba ofiar śmiertelnych środowych trzęsień ziemi w Wenezueli; jest też 3360 rannych - przekazał w piątek przewodniczący parlamentu Jorge Rodriguez. Wcześniej informowano o 589 zabitych i blisko 3 tys. rannych. Eksperci...",
+      "date_published": "2026-06-27T08:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Liban-Izrael-i-USA-podpisali-porozumienie-Rubio-oglasza-sukces-ale-ostrzega-9159063.html",
       "url": "https://www.bankier.pl/wiadomosc/Liban-Izrael-i-USA-podpisali-porozumienie-Rubio-oglasza-sukces-ale-ostrzega-9159063.html",
       "title": "Liban, Izrael i USA podpisali porozumienie. Rubio ogłasza sukces, ale ostrzega",
       "content_html": "Przedstawiciele Libanu, Izraela i USA podpisali w piątek w Waszyngtonie trójstronne porozumienie ramowe, które wyznacza drogę do przyszłego porozumienia pokojowego.",
-      "date_published": "2026-06-26T21:28:00+02:00"
+      "date_published": "2026-06-27T08:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielka-wojna-o-gigantow-technologicznych-Trump-znow-grozi-100-clami-9159018.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielka-wojna-o-gigantow-technologicznych-Trump-znow-grozi-100-clami-9159018.html",
+      "title": "Wielka wojna o gigantów technologicznych. Trump znów grozi 100% cłami",
+      "content_html": "Prezydent USA Donald Trump zagroził w piątek, że nałoży 100 proc. na towary z państw, które zdecydują się wprowadzić podatek od usług cyfrowych, które dotkną amerykańskie firmy technologiczne. Zaznaczył, że zrobi to niezależnie od zawartych...",
+      "date_published": "2026-06-27T08:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyberataki-elementem-oslabiania-gospodarki-i-bezpieczenstwa-panstw-9151787.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberataki-elementem-oslabiania-gospodarki-i-bezpieczenstwa-panstw-9151787.html",
+      "title": "Cyberataki elementem osłabiania gospodarki i bezpieczeństwa państw",
+      "content_html": "Cyberataki coraz częściej są wymierzone nie tylko w firmy, ale także w infrastrukturę krytyczną, administrację publiczną i sektory odpowiedzialne za funkcjonowanie państwa. Eksperci podkreślają, że ich skutki...",
+      "date_published": "2026-06-27T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-na-atom-i-CPK-a-w-tle-procedura-UE-Nadchodzi-kumulacja-wydatkow-budzetu-panstwa-9156643.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-na-atom-i-CPK-a-w-tle-procedura-UE-Nadchodzi-kumulacja-wydatkow-budzetu-panstwa-9156643.html",
+      "title": "Miliardy na atom i CPK, a w tle procedura UE. Nadchodzi kumulacja wydatków budżetu państwa",
+      "content_html": "Polskę czeka w najbliższych latach kumulacja dużych wydatków rozwojowych - od obronności, przez infrastrukturę transportową, po energetykę. Zdaniem ekonomistów kluczowe będzie to, czy państwo będzie...",
+      "date_published": "2026-06-27T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tradycyjne-prezenty-slubne-odchodza-w-zapomnienie-Polacy-wola-gotowke-9157444.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tradycyjne-prezenty-slubne-odchodza-w-zapomnienie-Polacy-wola-gotowke-9157444.html",
+      "title": "Tradycyjne prezenty ślubne odchodzą w zapomnienie. Polacy wolą gotówkę",
+      "content_html": "W ocenie ponad 74 proc. ankietowanych, najbardziej właściwym prezentem wręczanym nowożeńcom jest gotówka - wynika z badania „Ślubne prezenty Polaków. Trendy 2026”. Autorzy zwrócili uwagę, że tradycyjne prezenty rzeczowe, np. sprzęt domowy...",
+      "date_published": "2026-06-27T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-ochrony-dla-setek-tysiecy-migrantow-USA-zamykaja-granice-sedziowie-oburzeni-9158384.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-ochrony-dla-setek-tysiecy-migrantow-USA-zamykaja-granice-sedziowie-oburzeni-9158384.html",
+      "title": "Koniec ochrony dla setek tysięcy migrantów. USA zamykają granicę, sędziowie oburzeni",
+      "content_html": "Stany Zjednoczone są „całkowicie zamknięte” dla osób ubiegających się o azyl – oświadczył w czwartek doradca Białego Domu Stephen Miller, komentując orzeczenia Sądu Najwyższego w sprawach imigracyjnych. Miller zapowiedział też deportację...",
+      "date_published": "2026-06-27T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Drozsze-paliwo-tansze-zloto-a-beton-lapie-zadyszke-Inwestor-Wojtek-analizuje-tydzien-pelen-rynkowych-skrajnosci-9158732.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drozsze-paliwo-tansze-zloto-a-beton-lapie-zadyszke-Inwestor-Wojtek-analizuje-tydzien-pelen-rynkowych-skrajnosci-9158732.html",
+      "title": "Droższe paliwo, tańsze złoto, a \"beton\" łapie zadyszkę. Inwestor Wojtek analizuje tydzień pełen rynkowych skrajności",
+      "content_html": "Cześć, tu Inwestor Wojtek. Za nami kolejny tydzień pełen rynkowych i gospodarczych kontrastów. Wiele wskazuje na to, że gospodarka łapie lekką zadyszkę, a nasze portfele muszą przygotować się na nowe wyzwania. Zaparzcie mocną kawę, usiądźcie...",
+      "date_published": "2026-06-27T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nasdaq-spadl-piaty-dzien-z-rzedu-Mocna-przecena-producentow-chipow-9159145.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nasdaq-spadl-piaty-dzien-z-rzedu-Mocna-przecena-producentow-chipow-9159145.html",
+      "title": "Nasdaq spadł piąty dzień z rzędu. Mocna przecena producentów chipów",
+      "content_html": "Piątkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a Nasdaq zniżkował piąty dzień z rzędu. Kolejny dzień trwała przecena akcji producentów półprzewodników.",
+      "date_published": "2026-06-27T00:41:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sobolew-Ukraina-podpisala-w-Gdansku-ponad-160-umow-o-wartosci-ponad-10-mld-euro-9159113.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sobolew-Ukraina-podpisala-w-Gdansku-ponad-160-umow-o-wartosci-ponad-10-mld-euro-9159113.html",
+      "title": "Sobolew: Ukraina podpisała w Gdańsku ponad 160 umów o wartości ponad 10 mld euro",
+      "content_html": "Podczas dwudniowej konferencji w Gdańsku Ukraina podpisała ponad 160 umów o wartości ponad 10 mld euro; ok. 15 z nich to umowy między rządami Ukrainy i Polski - przekazał w piątek Minister Gospodarki, Środowiska i Rolnictwa Ukrainy Ołeksij Sobolew...",
+      "date_published": "2026-06-26T22:35:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kliczko-Kijow-buduje-system-wysp-energetycznych-by-przetrwac-kolejna-zime-9159058.html",
@@ -23,13 +149,6 @@
       "title": "Prezes ARP: Polska stanie się łącznikiem pomiędzy Europą Zachodnią a Ukrainą",
       "content_html": "Ukraiński biznes potrzebuje miejsc bezpiecznych oraz stwarzających warunki do rozwoju i uczestniczenia w jednolitym europejskim rynku - ocenił w piątek w rozmowie z PAP prezes ARP Daniel Ryczek. Jego zdaniem m.in. polskie parki przemysłowe mogą...",
       "date_published": "2026-06-26T20:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-wojna-o-gigantow-technologicznych-Trump-znow-grozi-100-clami-9159018.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-wojna-o-gigantow-technologicznych-Trump-znow-grozi-100-clami-9159018.html",
-      "title": "Wielka wojna o gigantów technologicznych. Trump znów grozi 100% cłami",
-      "content_html": "Prezydent USA Donald Trump zagroził w piątek, że nałoży 100 proc. na towary z państw, które zdecydują się wprowadzić podatek od usług cyfrowych, które dotkną amerykańskie firmy technologiczne. Zaznaczył, że zrobi to niezależnie od zawartych...",
-      "date_published": "2026-06-26T20:34:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Paraliz-Jaguara-i-miliardowe-straty-Sledczy-wpadli-na-trop-rosyjskich-sluzb-9159025.html",
@@ -191,13 +310,6 @@
       "title": "Tramwaje z Pesy jeżdżą po Kijowie. Firma zbuduje tam centrum serwisowe",
       "content_html": "Polska firma Pesa, której 57 tramwajów kursuje w Kijowie, jest zainteresowana dalszymi dostawami nowych wagonów do stolicy Ukrainy oraz świadczeniem usług w zakresie ich konserwacji – poinformował w piątek mer Kijowa Witalij Kliczko.",
       "date_published": "2026-06-26T17:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dramatyczny-bilans-wstrzasow-w-Wenezueli-Liczba-ofiar-gwaltownie-wzrosla-9158790.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dramatyczny-bilans-wstrzasow-w-Wenezueli-Liczba-ofiar-gwaltownie-wzrosla-9158790.html",
-      "title": "Dramatyczny bilans wstrząsów w Wenezueli. Liczba ofiar gwałtownie wzrosła",
-      "content_html": "W wyniku dwóch silnych trzęsień ziemi, do których doszło w środę w Wenezueli, zginęło już 589 osób, a 2980 zostało rannych – powiadomiła w piątek p.o. prezydenta Delcy Rodriguez, cytowana przez agencję Associated Press. Wcześniej, w...",
-      "date_published": "2026-06-26T16:51:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Inpro-wyplaci-0-25-zl-dywidendy-na-akcje-za-25-9158855.html",
@@ -583,90 +695,6 @@
       "title": "Miedź pod presją technologii. Zjazd na Nasdaq uderza w ceny surowców",
       "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) spada o 0,99 proc. do 13 171 USD za tonę. W tym tygodniu ceny metali notowały wahania, a analitycy wskazują, że w piątek miedź zniżkuje wobec wyprzedaży spółek technologicznych...",
       "date_published": "2026-06-26T10:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Parasol-nad-polskimi-lotniskami-Rzad-wpisuje-PPL-na-liste-spolek-strategicznych-9158508.html",
-      "url": "https://www.bankier.pl/wiadomosc/Parasol-nad-polskimi-lotniskami-Rzad-wpisuje-PPL-na-liste-spolek-strategicznych-9158508.html",
-      "title": "Parasol nad polskimi lotniskami. Rząd wpisuje PPL na listę spółek strategicznych",
-      "content_html": "Polskie Porty Lotnicze (PPL) zostały wpisane na listę spółek strategicznych - wynika ze znowelizowanego rozporządzenia Prezesa Rady Ministrów w sprawie wykazu spółek o istotnym znaczeniu dla gospodarki państwa.",
-      "date_published": "2026-06-26T10:23:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-podnosi-ceny-w-hurcie-Ostatnie-dni-taniego-paliwa-na-stacjach-9158498.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-podnosi-ceny-w-hurcie-Ostatnie-dni-taniego-paliwa-na-stacjach-9158498.html",
-      "title": "Orlen podnosi ceny w hurcie. Ostatnie dni taniego paliwa na stacjach",
-      "content_html": "Orlen podniósł w piątek hurtowe ceny benzyny Eurosuper 95 o 66 zł, benzyny Super Plus 98 o 42 zł, a oleju napędowego Ekodiesel o 44 zł na metr sześc. - wynika z danych opublikowanych przez koncern. Poprzednio, w czwartek, w hurcie Orlenu benzyna...",
-      "date_published": "2026-06-26T10:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-uciazliwymi-banerami-cookies-Polska-proponuje-rewolucje-9158496.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-uciazliwymi-banerami-cookies-Polska-proponuje-rewolucje-9158496.html",
-      "title": "Koniec z uciążliwymi banerami cookies? Polska proponuje rewolucję",
-      "content_html": "Polska zaproponowała zmiany w prawie UE umożliwiające wprowadzenie technologii dotyczącej plików cookies, by ograniczyć uciążliwe okienka z prośbami o zgodę i wzmocnić kontrolę użytkowników nad wykorzystaniem ich danych w internecie - poinformował...",
-      "date_published": "2026-06-26T10:13:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-USA-spadaja-Rynki-oceniaja-sytuacje-w-ciesninie-Ormuz-9158493.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-USA-spadaja-Rynki-oceniaja-sytuacje-w-ciesninie-Ormuz-9158493.html",
-      "title": "Ceny ropy w USA spadają. Rynki oceniają sytuację w cieśninie Ormuz",
-      "content_html": "Ceny ropy w USA idą w dół. Inwestorzy oceniają sytuację w cieśninie Ormuz wobec czwartkowego ataku na jeden z tankowców przepływających przez cieśninę.",
-      "date_published": "2026-06-26T10:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koszty-AI-zaczynaja-ciazyc-gigantom-Gleboka-wyprzedaz-na-gieldach-w-Azji-9158444.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koszty-AI-zaczynaja-ciazyc-gigantom-Gleboka-wyprzedaz-na-gieldach-w-Azji-9158444.html",
-      "title": "Koszty AI zaczynają ciążyć gigantom. Głęboka wyprzedaż na giełdach w Azji",
-      "content_html": "Piątkowy poranek przyniósł tąpnięcie na azjatyckich giełdach, napędzane wyprzedażą spółek z sektora technologicznego. W najgorszym momencie południowokoreański KOSPI spadał o blisko 9%, a japoński Nikkei tracił ponad 5%. Pogorszenie nastrojów...",
-      "date_published": "2026-06-26T09:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-nie-gwarantuje-bezpiecznej-zeglugi-przez-Ormuz-Tylko-na-wyznaczonych-trasach-9158383.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-nie-gwarantuje-bezpiecznej-zeglugi-przez-Ormuz-Tylko-na-wyznaczonych-trasach-9158383.html",
-      "title": "Iran nie gwarantuje bezpiecznej żeglugi przez Ormuz. \"Tylko na wyznaczonych trasach\"",
-      "content_html": "Statki przepływające poza trasami wyznaczonymi przez Urząd Cieśniny Zatoki Perskiej (PGSA), organ powołany przez Iran do zarządzania Cieśniną Ormuz, nie będą miały zagwarantowanego bezpiecznego tranzytu - poinformował urząd w czwartkowym...",
-      "date_published": "2026-06-26T09:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niedzwiedzie-budza-sie-na-GPW-Najnowszy-raport-z-nastrojow-polskich-inwestorow-9158468.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niedzwiedzie-budza-sie-na-GPW-Najnowszy-raport-z-nastrojow-polskich-inwestorow-9158468.html",
-      "title": "Niedźwiedzie budzą się na GPW. Najnowszy raport z nastrojów polskich inwestorów",
-      "content_html": "Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW wzrósł o 0,4 pkt. proc. i wyniósł 44 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 2,7 pkt. proc. do 30 proc. - wynika z cotygodniowego...",
-      "date_published": "2026-06-26T09:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Carney-Zadzwonil-do-mnie-Trump-Rozmowa-dotyczyla-NATO-i-Arktyki-9158387.html",
-      "url": "https://www.bankier.pl/wiadomosc/Carney-Zadzwonil-do-mnie-Trump-Rozmowa-dotyczyla-NATO-i-Arktyki-9158387.html",
-      "title": "Carney: Zadzwonił do mnie Trump. Rozmowa dotyczyła NATO i Arktyki",
-      "content_html": "Premier Kanady Mark Carney rozmawiał z prezydentem USA Donaldem Trumpem przed szczytem NATO w Ankarze, m. in. o obronie Arktyki. Carney poinformował o tym podczas konferencji prasowej w czwartek, dodając, że Trump zadzwonił do niego w środę, a...",
-      "date_published": "2026-06-26T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dekada-po-Brexicie-Niemcy-licza-straty-a-polski-biznes-podbija-brytyjski-rynek-9158432.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dekada-po-Brexicie-Niemcy-licza-straty-a-polski-biznes-podbija-brytyjski-rynek-9158432.html",
-      "title": "Dekada po Brexicie. Niemcy liczą straty, a polski biznes podbija brytyjski rynek",
-      "content_html": "Po dziesięciu latach od referendum brexitowego brytyjska gospodarka pozostaje o 2-4 proc. mniejsza, niż byłaby bez opuszczenia Unii Europejskiej – ocenia Allianz Trade. Jednocześnie Polska, obok Irlandii, zwiększyła udział w brytyjskim rynku...",
-      "date_published": "2026-06-26T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliardy-dlugu-i-bezwzgledni-oszusci-Czarny-raport-o-sytuacji-polskich-seniorow-9158452.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliardy-dlugu-i-bezwzgledni-oszusci-Czarny-raport-o-sytuacji-polskich-seniorow-9158452.html",
-      "title": "Miliardy długu i bezwzględni oszuści. Czarny raport o sytuacji polskich seniorów",
-      "content_html": "Ponad 345 tys. seniorów na koniec kwietnia 2026 r. zadłużonych było na niemal 11,8 mld zł - wynika z danych BIG InfoMonitor. Ponadto, w ostatnich 12 miesiącach w grupie osób powyżej 65 roku życia na skradzioną tożsamość próbowano wyłudzić...",
-      "date_published": "2026-06-26T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-bylo-zadnego-paktu-na-Alasce-USA-odrzucaja-rosyjskie-zadania-9158309.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-bylo-zadnego-paktu-na-Alasce-USA-odrzucaja-rosyjskie-zadania-9158309.html",
-      "title": "Nie było żadnego paktu na Alasce. USA odrzucają rosyjskie żądania",
-      "content_html": "Sekretarz stanu USA Marco Rubio zaprzeczył w czwartek, by Stany Zjednoczone zawarły jakiekolwiek porozumienie z Rosją podczas ubiegłorocznego szczytu na Alasce. Odpowiedział w ten sposób na zarzuty przedstawicieli Kremla o odchodzeniu USA od postanowień...",
-      "date_published": "2026-06-26T08:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niemcy-ostrzegaja-Kijow-Konflikt-historyczny-z-Polska-moze-zaszkodzic-akcesji-do-Unii-i-odbudowie-9158450.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemcy-ostrzegaja-Kijow-Konflikt-historyczny-z-Polska-moze-zaszkodzic-akcesji-do-Unii-i-odbudowie-9158450.html",
-      "title": "Niemcy ostrzegają Kijów. Konflikt z Polską może zaszkodzić akcesji do Unii i odbudowie",
-      "content_html": "Sytuacja polityczna i wojskowa Ukrainy w ostatnim czasie się poprawiła, ale korzystny moment nie będzie trwał bez końca. Dlatego konflikt o historię z Polską może obciążyć całokształt relacji Ukrainy z Unią Europejską – ostrzega w piątek...",
-      "date_published": "2026-06-26T08:27:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
