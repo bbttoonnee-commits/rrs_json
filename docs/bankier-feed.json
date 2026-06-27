@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/1-4-mld-zl-na-naukowa-rewolucje-Polska-chce-stworzyc-polski-Stanford-9155908.html",
+      "url": "https://www.bankier.pl/wiadomosc/1-4-mld-zl-na-naukowa-rewolucje-Polska-chce-stworzyc-polski-Stanford-9155908.html",
+      "title": "1,4 mld zł na naukową rewolucję. Polska chce stworzyć „polski Stanford”",
+      "content_html": "Około 1,4 mld zł w ciągu pięciu lat miałoby kosztować stworzenie w Polsce nowej instytucji naukowej działającej według zasad najlepszych ośrodków świata. O kulisach projektu i jego celach opowiedział PAP prof. Leszek Pacholski.",
+      "date_published": "2026-06-27T16:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ile-na-wakacje-wyda-statystyczny-Polak-9157611.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ile-na-wakacje-wyda-statystyczny-Polak-9157611.html",
+      "title": "Ile na wakacje wyda statystyczny Polak?",
+      "content_html": "Średnio 2042 zł wyda statystyczny Polak na tegoroczne wakacje; to o niemal 300 zł więcej niż rok wcześniej - wynika z badania „Wakacyjny Portfel Polaków 2026”. Przeciętne gospodarstwo domowe na letni wypoczynek przeznaczy ok. 5,1 tys. zł...",
+      "date_published": "2026-06-27T16:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Muminki-moga-trafic-na-czarna-liste-w-USA-Dziwie-sie-ze-jeszcze-ich-nie-zakazano-9155526.html",
+      "url": "https://www.bankier.pl/wiadomosc/Muminki-moga-trafic-na-czarna-liste-w-USA-Dziwie-sie-ze-jeszcze-ich-nie-zakazano-9155526.html",
+      "title": "Muminki mogą trafić na czarną listę w USA. „Dziwię się, że jeszcze ich nie zakazano”",
+      "content_html": "Książki o Muminkach mogą się stać ofiarą wojny kulturowej w Stanach Zjednoczonych. Dziwię się, że jeszcze ich tam nie zakazano – powiedziała w poniedziałkowym wywiadzie dla „Aftenposten” Sophia Jansson, spadkobierczyni Tove Jansson. Powodem...",
+      "date_published": "2026-06-27T15:21:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Smoczyce-na-Lotnisku-Chopina-Port-otrzyma-nowoczesne-skanery-C3-9151333.html",
       "url": "https://www.bankier.pl/wiadomosc/Smoczyce-na-Lotnisku-Chopina-Port-otrzyma-nowoczesne-skanery-C3-9151333.html",
       "title": "„Smoczyce” na Lotnisku Chopina. Port otrzyma nowoczesne skanery C3",
@@ -681,27 +702,6 @@
       "title": "Największy taki atak od początku wojny. Setki ukraińskich dronów podpaliły Rosję",
       "content_html": "Rosyjskie ministerstwo obrony poinformowało w piątek, że ostatniej nocy przechwycono 660 ukraińskich dronów nad 12 regionami, w tym m.in. nad okupowanym Krymem i Morzem Czarnym. W ocenie agencji Associated Press był to jeden z największych ataków...",
       "date_published": "2026-06-26T13:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/HSBC-tnie-etaty-w-Krakowie-Prace-straci-okolo-400-osob-9158625.html",
-      "url": "https://www.bankier.pl/wiadomosc/HSBC-tnie-etaty-w-Krakowie-Prace-straci-okolo-400-osob-9158625.html",
-      "title": "Gigant finansowy ogranicza zatrudnienie w Polsce. Pracę straci 400 osób",
-      "content_html": "HSBC rozpoczęło kolejną falę zwolnień grupowych w swoim krakowskim centrum usług. W ramach prowadzonej restrukturyzacji pracę ma stracić około 400 osób. Firma zmniejsza zatrudnienie, ponieważ planuje przeniesienie części zadań do Indii –...",
-      "date_published": "2026-06-26T13:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ida-w-gore-Znamy-rzadowe-limity-na-stacjach-do-poniedzialku-9158623.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-ida-w-gore-Znamy-rzadowe-limity-na-stacjach-do-poniedzialku-9158623.html",
-      "title": "Ceny paliw idą w górę. Znamy rządowe limity na stacjach do poniedziałku",
-      "content_html": "Od soboty do poniedziałku włącznie litr benzyny 95 ma kosztować nie więcej niż 6,02 zł, benzyny 98 - 6,70 zł, a diesla - 6,17 zł - wynika z piątkowego obwieszczenia Ministra Energii. Oznacza to, że w porównaniu z piątkiem ceny maksymalne...",
-      "date_published": "2026-06-26T13:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AB-uplasowal-4-letnie-obligacje-o-wartosci-110-mln-zl-9158613.html",
-      "url": "https://www.bankier.pl/wiadomosc/AB-uplasowal-4-letnie-obligacje-o-wartosci-110-mln-zl-9158613.html",
-      "title": "AB uplasował 4-letnie obligacje o wartości 110 mln zł",
-      "content_html": "AB uplasował 4-letnie niezabezpieczone obligacje o wartości 110 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-06-26T13:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
