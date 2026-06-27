@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zly-kierunek-w-polskiej-edukacji-58-proc-badanych-o-problemach-9158416.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zly-kierunek-w-polskiej-edukacji-58-proc-badanych-o-problemach-9158416.html",
+      "title": "Zły kierunek w polskiej edukacji. 58 proc. badanych o problemach",
+      "content_html": "Kierunek zmian w edukacji negatywnie ocenia 58,3 proc. respondentów; co czwarta osoba ma pozytywne zdanie w tej sprawie - wynika z badania IBRiS dla PAP. Ponad połowa badanych uznaje też, że zbyt dużą rolę odgrywają w polskiej szkole oceny.",
+      "date_published": "2026-06-27T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polski-biznes-podbija-Ukraine-Ponad-57-miliardow-zlotych-z-eksportu-i-historyczny-rekord-9157457.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polski-biznes-podbija-Ukraine-Ponad-57-miliardow-zlotych-z-eksportu-i-historyczny-rekord-9157457.html",
+      "title": "Polski biznes podbija Ukrainę. Ponad 57 miliardów złotych z eksportu i historyczny rekord",
+      "content_html": "W ubiegłym roku do Ukrainy wysłano polskie towary za kwotę niemal 57 mld zł, co oznacza, że ten kraj jest siódmym największym rynkiem zbytu dla naszego kraju. Jeśli chodzi o import, Ukraina jest poza pierwszą dziesiątką największych dostawców...",
+      "date_published": "2026-06-27T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-Teksas-Biblia-jako-lektura-obowiazkowa-w-szkolach-publicznych-9159159.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-Teksas-Biblia-jako-lektura-obowiazkowa-w-szkolach-publicznych-9159159.html",
+      "title": "Spór o Biblię w szkołach. Teksas przyjął nową listę obowiązkowych lektur",
+      "content_html": "Rada Edukacji stanu Teksas zatwierdziła w piątek listę lektur obowiązkowych dla uczniów szkół publicznych. Obejmuje ona, między innymi, fragmenty Biblii.",
+      "date_published": "2026-06-27T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mial-byc-bezpieczna-alternatywa-Naukowcy-alarmuja-ws-e-papierosow-9159202.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mial-byc-bezpieczna-alternatywa-Naukowcy-alarmuja-ws-e-papierosow-9159202.html",
+      "title": "Miał być bezpieczną alternatywą. Naukowcy alarmują ws. e-papierosów",
+      "content_html": "E-papierosy zawierające nikotynę prawdopodobnie mogą przyczyniać się do rozwoju raka płuc i jamy ustnej - ostrzegli naukowcy na łamach czasopisma „Carcinogenesis”.",
+      "date_published": "2026-06-27T10:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-zbuduje-trzeci-terminal-LNG-Mozliwosci-importu-gazu-wzrosna-do-50-mld-m3-9156650.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-zbuduje-trzeci-terminal-LNG-Mozliwosci-importu-gazu-wzrosna-do-50-mld-m3-9156650.html",
       "title": "Polska zbuduje trzeci terminal LNG. Możliwości importu gazu wzrosną do 50 mld m3",
@@ -37,6 +65,13 @@
       "title": "Kolejne trzęsienie ziemi w Wenezueli. Brak informacji o ofiarach i zniszczeniach",
       "content_html": "Kolejne w ostatnich dniach trzęsienie ziemi w piątek po południu nawiedziło Wenezuelę. Według Europejsko-Śródziemnomorskiego Centrum Sejsmologicznego (EMSC) jego magnituda wyniosła 4.9. We środę dwa podziemne wstrząsy spowodowały śmierć...",
       "date_published": "2026-06-27T09:11:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-i-Chiny-na-wspolnej-akcji-Niepokojace-doniesienia-z-Korei-Poludniowej-9159209.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-i-Chiny-na-wspolnej-akcji-Niepokojace-doniesienia-z-Korei-Poludniowej-9159209.html",
+      "title": "Rosja i Chiny na wspólnej akcji. Niepokojące doniesienia z Korei Południowej",
+      "content_html": "Około 10 chińskich i rosyjskich samolotów wojskowych weszło w sobotę w strefę identyfikacji obrony powietrznej Korei Płd. (KADIZ), ale wycofało się z niej bez naruszania przestrzeni powietrznej Korei Południowej – poinformowało Kolegium Połączonych...",
+      "date_published": "2026-06-27T09:10:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rakiety-manewrujace-i-nowy-niszczyciel-Kima-A-to-nie-koniec-zbrojen-9156623.html",
@@ -86,6 +121,13 @@
       "title": "Wielka wojna o gigantów technologicznych. Trump znów grozi 100% cłami",
       "content_html": "Prezydent USA Donald Trump zagroził w piątek, że nałoży 100 proc. na towary z państw, które zdecydują się wprowadzić podatek od usług cyfrowych, które dotkną amerykańskie firmy technologiczne. Zaznaczył, że zrobi to niezależnie od zawartych...",
       "date_published": "2026-06-27T08:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Harvey-Weinstein-pozostaje-skazany-Sad-apelacyjny-utrzymal-wyrok-9159176.html",
+      "url": "https://www.bankier.pl/wiadomosc/Harvey-Weinstein-pozostaje-skazany-Sad-apelacyjny-utrzymal-wyrok-9159176.html",
+      "title": "Harvey Weinstein pozostaje skazany. Sąd apelacyjny utrzymał wyrok",
+      "content_html": "Kalifornijski sąd apelacyjny podtrzymał w piątek wyrok skazujący producenta filmowego Harveya Weinsteina na 16 lat więzienia za gwałt i napaści seksualne. Nakazał zarazem ponowne wymierzenie kary z powodu błędnie uwzględnionych okoliczności...",
+      "date_published": "2026-06-27T07:05:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Cyberataki-elementem-oslabiania-gospodarki-i-bezpieczenstwa-panstw-9151787.html",
@@ -660,41 +702,6 @@
       "title": "NanoGroup podpisało umowę inwestycyjną z Auxilius Pharma",
       "content_html": "NanoGroup podpisało umowę inwestycyjną z Auxilius Pharma, która zakłada m.in. wymianę akcji spółek, w efekcie której NanoGroup zwiększy swoje zaangażowanie kapitałowe w Auxilius Pharma do 100 proc. - podało NanoGroup w komunikacie.",
       "date_published": "2026-06-26T11:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oddech-ulgi-na-eurodolarze-Kurs-euro-trzyma-sie-ponizej-4-30-zl-9158543.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oddech-ulgi-na-eurodolarze-Kurs-euro-trzyma-sie-ponizej-4-30-zl-9158543.html",
-      "title": "Oddech ulgi na eurodolarze. Kurs euro trzyma się poniżej 4,30 zł",
-      "content_html": "Obserwowana od kilkunastu dni aprecjacja dolara względem euro wytraciła impet, co pomogła ustabilizować notowania złotego. Dzięki temu kurs euro zatrzymał się poniżej linii 4,30 zł.",
-      "date_published": "2026-06-26T11:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unimot-ma-memorandum-o-wspolpracy-z-ukrainskim-JSC-Ivchenko-Progress-9158528.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unimot-ma-memorandum-o-wspolpracy-z-ukrainskim-JSC-Ivchenko-Progress-9158528.html",
-      "title": "Polsko-ukraiński pakt obronny. Unimot i PZL Defence wyprodukują silniki do dronów i rakiet",
-      "content_html": "Unimot oraz PZL Defence, spółka z grupy Unimot, podpisały z ukraińską spółką JSC Ivchenko-Progress memorandum o współpracy w zakresie rozwoju, produkcji i komercjalizacji małogabarytowych silników turboodrzutowych oraz innych technologii dla...",
-      "date_published": "2026-06-26T10:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-Aillerona-do-trzymaj-9158519.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizylo-rekomendacje-Aillerona-do-trzymaj-9158519.html",
-      "title": "Noble Securities obniżyło rekomendację Aillerona do \"trzymaj\"",
-      "content_html": "Noble Securities w raporcie z 23 czerwca obniżyło rekomendację dla Aillerona do \"trzymaj\" z \"akumuluj\", obniżając 9-miesięczną cenę docelową akcji spółki do 16,8 zł z 17,3 zł wcześniej.",
-      "date_published": "2026-06-26T10:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolej-Duzych-Predkosci-polaczy-CPK-z-Warszawa-Jest-decyzja-dla-wschodniego-wezla-9158515.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolej-Duzych-Predkosci-polaczy-CPK-z-Warszawa-Jest-decyzja-dla-wschodniego-wezla-9158515.html",
-      "title": "Kolej Dużych Prędkości połączy CPK z Warszawą. Jest decyzja dla wschodniego węzła",
-      "content_html": "Wojewoda mazowiecki wydał decyzję lokalizacyjną dla węzła kolejowego po wschodniej stronie lotniska - poinformował w piątek Centralny Port Komunikacyjny. Spółka dodała, że decyzja ma rygor natychmiastowej wykonywalności i pozwoli na uzyskanie...",
-      "date_published": "2026-06-26T10:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miedz-pod-presja-technologii-Zjazd-na-Nasdaq-uderza-w-ceny-surowcow-9158509.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miedz-pod-presja-technologii-Zjazd-na-Nasdaq-uderza-w-ceny-surowcow-9158509.html",
-      "title": "Miedź pod presją technologii. Zjazd na Nasdaq uderza w ceny surowców",
-      "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) spada o 0,99 proc. do 13 171 USD za tonę. W tym tygodniu ceny metali notowały wahania, a analitycy wskazują, że w piątek miedź zniżkuje wobec wyprzedaży spółek technologicznych...",
-      "date_published": "2026-06-26T10:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
