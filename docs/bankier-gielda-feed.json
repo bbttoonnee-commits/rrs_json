@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-mitu-o-brawurze-zetek-Tylko-28-proc-jest-sklonnych-do-ryzykownych-inwestycji-9155170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-mitu-o-brawurze-zetek-Tylko-28-proc-jest-sklonnych-do-ryzykownych-inwestycji-9155170.html",
+      "title": "Koniec mitu o brawurze zetek. Tylko 28 proc. jest skłonnych do ryzykownych inwestycji Ryzykowne podejście zetek do inwestycji to mit - wskazuje badanie Erste TFI. Połowa inwestujących młodych wybiera bezpieczne instrumenty, a mniej niż co trzeci gotowy jest na większe ryzyko. Z kolei osoby, które nie inwestują,...",
+      "content_html": "",
+      "date_published": "2026-06-28T18:35:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wiral-hype-i-gieldowe-wykresy-Jak-wycenic-kaprysy-najmniej-lojalnego-pokolenia-9156811.html",
       "url": "https://www.bankier.pl/wiadomosc/Wiral-hype-i-gieldowe-wykresy-Jak-wycenic-kaprysy-najmniej-lojalnego-pokolenia-9156811.html",
       "title": "LOUD CONGRESS Wiral, hype i giełdowe wykresy. Jak wycenić kaprysy najmniej lojalnego pokolenia? Od viralowych produktów po luksusowe domy mody — marki budowane wokół kultury młodego pokolenia przyciągają kapitał szybciej niż kiedykolwiek. Z drugiej strony, giełda bywa bezlitosna dla tych, którzy przespią swój moment. Podczas konferencji Loud Congress eksperci zderzyli ze sobą dwa światy: bezwzględne liczby rynków finansowych i nieprzewidywalne trendy napędzane przez tiktokerów.",
@@ -16,20 +23,6 @@
       "title": "O TYM MÓWI WALL STREET Chłodny prysznic dla Elona Muska, obawy o pęknięcie bańki AI i trudna do zduszenia inflacja Na Wall Street nie słabną dyskusje o perspektywach inflacji i kolejnych krokach banków centralnych. Inwestorzy z uwagą śledzą jednak również rynkowe zawirowania wokół SpaceX, a eksperci coraz częściej kreślą negatywne scenariusze dla giełdowego boomu napędzanego sztuczną inteligencją.",
       "content_html": "",
       "date_published": "2026-06-27T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PA-Nova-zdecydowala-o-przedterminowym-calosciowym-wykupie-obligacji-serii-C-9159032.html",
-      "url": "https://www.bankier.pl/wiadomosc/PA-Nova-zdecydowala-o-przedterminowym-calosciowym-wykupie-obligacji-serii-C-9159032.html",
-      "title": "PA Nova zdecydowała o przedterminowym, całościowym wykupie obligacji serii C Zarząd PA Nova podjął uchwałę o przedterminowym, całościowym wykupie obligacji serii C - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-26T19:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Text-mial-w-IV-kw-2025-26-r-28-6-mln-zl-zysku-netto-zgodnie-z-konsensusem-9159029.html",
-      "url": "https://www.bankier.pl/wiadomosc/Text-mial-w-IV-kw-2025-26-r-28-6-mln-zl-zysku-netto-zgodnie-z-konsensusem-9159029.html",
-      "title": "Text miał w IV kw. 2025/26 r. 28,6 mln zł zysku netto, zgodnie z konsensusem Text w czwartym kwartale roku obrotowego 2025/26 miał 28,6 mln zł zysku netto - podała spółka w raporcie. Konsensus PAP Biznes zakładał zysk na poziomie 28,9 mln zł.",
-      "content_html": "",
-      "date_published": "2026-06-26T18:56:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
