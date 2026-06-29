@@ -4,6 +4,76 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-cofnal-zezwolenie-mPay-na-uslugi-platnicze-w-charakterze-krajowej-instytucji-platniczej-9159653.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-cofnal-zezwolenie-mPay-na-uslugi-platnicze-w-charakterze-krajowej-instytucji-platniczej-9159653.html",
+      "title": "Krach na akcjach mPay. Spółka komentuje KNF cofnął zezwolenie mPay na świadczenie usług płatniczych w charakterze krajowej instytucji płatniczej - podała Komisja Nadzoru Finansowego w komunikacie. Decyzja jest natychmiast wykonalna.",
+      "content_html": "",
+      "date_published": "2026-06-29T13:33:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-cene-docelowa-akcji-LSI-Software-do-63-2-zl-9159725.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-cene-docelowa-akcji-LSI-Software-do-63-2-zl-9159725.html",
+      "title": "DM BOŚ podniósł cenę docelową akcji LSI Software Analitycy DM BOŚ w raporcie z 19 czerwca 2026 roku podnieśli cenę docelową LSI Software do 63,2 zł z 40 zł poprzednio, podtrzymując rekomendację \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-06-29T12:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-latach-2026-2031-srednioroczna-dynamika-wzrostu-dyskontow-moze-wyniesc-7-proc-PMR-Market-Experts-by-Hume-s-Institute-9159658.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-latach-2026-2031-srednioroczna-dynamika-wzrostu-dyskontow-moze-wyniesc-7-proc-PMR-Market-Experts-by-Hume-s-Institute-9159658.html",
+      "title": "Prawie połowa sklepów w Polsce to dyskonty. \"Rynek dojrzewa\" W latach 2026-2031 średnioroczna dynamika wzrostu dyskontów w Polsce może wynieść 7 proc. - ocenia firma badawcza PMR Market Experts by Hume's Institute.",
+      "content_html": "",
+      "date_published": "2026-06-29T10:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-wydala-nowe-rekomendacje-dla-ubezpieczycieli-dotyczace-dystrybucji-dokumentacja-9159655.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-wydala-nowe-rekomendacje-dla-ubezpieczycieli-dotyczace-dystrybucji-dokumentacja-9159655.html",
+      "title": "KNF wydała nowe rekomendacje dla ubezpieczycieli dotyczące dystrybucji Komisja Nadzoru Finansowego wydała nowe rekomendacje dla zakładów ubezpieczeń dotyczące dystrybucji ubezpieczeń, zastępujące wytyczne z 2014 r. Celem rekomendacji jest zapewnienie, aby nie były dystrybuowane produkty, które nie zapewniają odpowiedniej wartości dla klienta,",
+      "content_html": "",
+      "date_published": "2026-06-29T10:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-wyplaci-6-14-zl-dywidendy-na-akcje-z-zysku-za-2025-r-9159652.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-wyplaci-6-14-zl-dywidendy-na-akcje-z-zysku-za-2025-r-9159652.html",
+      "title": "PKO BP wypłaci 6,14 zł dywidendy na akcję z zysku za 2025 r. Poniedziałkowe zwyczajne walne zgromadzenie akcjonariuszy PKO BP zdecydowało o wypłacie 6,14 zł dywidendy na akcję z zysku netto za 2025 r. Na dywidendę trafi łącznie 7,67 mld zł, czyli 74,95 proc. ubiegłorocznego zysku.",
+      "content_html": "",
+      "date_published": "2026-06-29T10:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-kupno-LPP-i-Pepco-Group-sprzedaz-Modivo-9159650.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-kupno-LPP-i-Pepco-Group-sprzedaz-Modivo-9159650.html",
+      "title": "Trigon DM rekomenduje kupno LPP i Pepco Group, sprzedaż Modivo Analitycy Trigon DM w raporcie z 23 czerwca podtrzymali rekomendację \"kupuj\" dla akcji LPP, podnieśli dla Pepco Group do \"kupuj\" z \"trzymaj\" oraz wznowili wydawanie rekomendacji dla Modivo od zalecenia \"sprzedaj\".",
+      "content_html": "",
+      "date_published": "2026-06-29T10:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-rozpoczal-pilotazowa-sprzedaz-paliwa-HVO100-na-Slowacji-9159608.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-rozpoczal-pilotazowa-sprzedaz-paliwa-HVO100-na-Slowacji-9159608.html",
+      "title": "Orlen rozpoczął pilotażową sprzedaż paliwa HVO100 na Słowacji Orlen uruchomił pilotażową sprzedaż niskoemisyjnego paliwa HVO100 na Słowacji - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-06-29T09:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zasoby-rud-miedzi-w-Polsce-spadly-w-2025-r-o-1-6-proc-PIG-9159606.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zasoby-rud-miedzi-w-Polsce-spadly-w-2025-r-o-1-6-proc-PIG-9159606.html",
+      "title": "Zasoby rud miedzi w Polsce spadły w 2025 r. o 1,6 proc. Zasoby bilansowe rud miedzi i srebra w Polsce wyniosły na koniec 2025 r. 3,49 mld ton rudy, wobec ok. 3,55 mld ton rok wcześniej – podał najnowsze szacunki Państwowy Instytut Geologiczny w opracowaniu \"Bilans Zasobów złóż kopalin w Polsce wg stanu na 31.12.2025\".",
+      "content_html": "",
+      "date_published": "2026-06-29T09:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SatRev-i-ICEYE-maja-porozumienie-o-wspolpracy-9159599.html",
+      "url": "https://www.bankier.pl/wiadomosc/SatRev-i-ICEYE-maja-porozumienie-o-wspolpracy-9159599.html",
+      "title": "SatRev i ICEYE mają porozumienie o współpracy SatRev i ICEYE podpisały porozumienie o współpracy w celu identyfikowania i analizowania projektów komercyjnych, w których kompetencje obu firm mogą się uzupełniać - podały spółki w komunikacie prasowym. Punktem wyjścia do kolejnych wspólnych inicjatyw ma być współpraca pomiędzy spółkami, przy okazji kontraktu realizowanego przez SatRev w Sułtanacie Omanu i regionie Zatoki.",
+      "content_html": "",
+      "date_published": "2026-06-29T09:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-rosna-Rozejm-USA-Iran-wystawiony-na-powazna-probe-9159590.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-rosna-Rozejm-USA-Iran-wystawiony-na-powazna-probe-9159590.html",
+      "title": "Ceny gazu w Europie rosną. Rozejm USA-Iran wystawiony na poważną próbę Ceny gazu w Europie rosną w reakcji na niedawne ataki USA i Iranu na Bliskim Wschodzie i wystawienie na próbę kruchego rozejmu pomiędzy tymi krajami - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-06-29T09:04:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Czerwiec-zalicza-ze-strata-ponad-2-proc-9159563.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Czerwiec-zalicza-ze-strata-ponad-2-proc-9159563.html",
       "title": "Ceny miedzi w Londynie spadają. Czerwiec zaliczą ze stratą ponad 2 proc. Notowania miedzi na giełdzie metali LME w Londynie spadają, a kończący się wkrótce czerwiec mogą zaliczyć ze stratą ponad 2 proc. - informują maklerzy.",
@@ -30,13 +100,6 @@
       "title": "LOUD CONGRESS Wiral, hype i giełdowe wykresy. Jak wycenić kaprysy najmniej lojalnego pokolenia? Od viralowych produktów po luksusowe domy mody — marki budowane wokół kultury młodego pokolenia przyciągają kapitał szybciej niż kiedykolwiek. Z drugiej strony, giełda bywa bezlitosna dla tych, którzy przespią swój moment. Podczas konferencji Loud Congress eksperci zderzyli ze sobą dwa światy: bezwzględne liczby rynków finansowych i nieprzewidywalne trendy napędzane przez tiktokerów.",
       "content_html": "",
       "date_published": "2026-06-28T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chlodny-prysznic-dla-Elona-Muska-obawy-o-pekniecie-banki-AI-i-trudna-do-zduszenia-inflacja-9158881.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chlodny-prysznic-dla-Elona-Muska-obawy-o-pekniecie-banki-AI-i-trudna-do-zduszenia-inflacja-9158881.html",
-      "title": "O TYM MÓWI WALL STREET Chłodny prysznic dla Elona Muska, obawy o pęknięcie bańki AI i trudna do zduszenia inflacja Na Wall Street nie słabną dyskusje o perspektywach inflacji i kolejnych krokach banków centralnych. Inwestorzy z uwagą śledzą jednak również rynkowe zawirowania wokół SpaceX, a eksperci coraz częściej kreślą negatywne scenariusze dla giełdowego boomu napędzanego sztuczną inteligencją.",
-      "content_html": "",
-      "date_published": "2026-06-27T12:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
