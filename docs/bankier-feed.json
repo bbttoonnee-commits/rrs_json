@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-polrocze-poteznymi-wzrostami-Dow-Jones-na-historycznym-szczycie-9161503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-polrocze-poteznymi-wzrostami-Dow-Jones-na-historycznym-szczycie-9161503.html",
+      "title": "Wall Street kończy półrocze potężnymi wzrostami. Dow Jones na historycznym szczycie",
+      "content_html": "Wtorkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Dow Jones zanotował najlepsze pierwsze półrocze od pięciu lat, a Nasdaq miał najlepszy kwartał od 2020 roku. Rynki akcji miały bardzo udane pierwsze sześć miesięcy...",
+      "date_published": "2026-07-01T00:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tranzyt-przez-Ormuz-tylko-przez-60-dni-Iran-Jestesmy-gotowi-na-wojne-9161462.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tranzyt-przez-Ormuz-tylko-przez-60-dni-Iran-Jestesmy-gotowi-na-wojne-9161462.html",
+      "title": "Tranzyt przez Ormuz tylko przez 60 dni? Iran: Jesteśmy gotowi na wojnę",
+      "content_html": "Główny irański negocjator Mohammad Bagher Ghalibaf powiedział we wtorek w wywiadzie dla irańskiej telewizji państwowej, że bezpłatny tranzyt statków przez cieśninę Ormuz obowiązuje tylko przez 60 dni, zgodnie z ustaleniami zawartymi we wstępnym...",
+      "date_published": "2026-07-01T00:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nadchodzi-koniec-ery-Macrona-we-Francji-Podano-nieoficjalne-daty-wyborow-9161516.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nadchodzi-koniec-ery-Macrona-we-Francji-Podano-nieoficjalne-daty-wyborow-9161516.html",
+      "title": "Nadchodzi koniec ery Macrona we Francji. Podano nieoficjalne daty wyborów",
+      "content_html": "Dziennik \"Ouest-France\" podał we wtorek, że przyszłoroczne wybory prezydenckie we Francji odbędą się 18 kwietnia (pierwsza tura) i 2 maja (druga tura). Według dziennika daty zostaną potwierdzone w środę na posiedzeniu rady ministrów.",
+      "date_published": "2026-07-01T00:33:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Genomed-wyplaci-1-50-zl-dywidendy-z-zysku-za-2025-rok-9161484.html",
       "url": "https://www.bankier.pl/wiadomosc/Genomed-wyplaci-1-50-zl-dywidendy-z-zysku-za-2025-rok-9161484.html",
       "title": "Genomed wypłaci 1,50 zł dywidendy z zysku za 2025 rok",
@@ -16,13 +37,6 @@
       "title": "Esotiq & Henderson wypłaci 3 zł dywidendy na akcję",
       "content_html": "Walne zgromadzenie Esotiq & Henderson zdecydowało o przeznaczeniu z zysku netto za 2025 rok kwoty 5,87 mln zł na dywidendę dla akcjonariuszy, co oznacza wypłatę w wysokości 3 zł na akcję - poinformował producent i dystrybutor bielizny.",
       "date_published": "2026-06-30T23:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tranzyt-przez-Ormuz-tylko-przez-60-dni-Iran-Jestesmy-gotowi-na-wojne-9161462.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tranzyt-przez-Ormuz-tylko-przez-60-dni-Iran-Jestesmy-gotowi-na-wojne-9161462.html",
-      "title": "Tranzyt przez Ormuz tylko przez 60 dni? Iran: Jesteśmy gotowi na wojnę",
-      "content_html": "Główny irański negocjator Mohammad Bagher Ghalibaf powiedział we wtorek w wywiadzie dla irańskiej telewizji państwowej, że bezpłatny tranzyt statków przez cieśninę Ormuz obowiązuje tylko przez 60 dni, zgodnie z ustaleniami zawartymi we wstępnym...",
-      "date_published": "2026-06-30T23:31:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/PlayWay-wyplaci-17-39-zl-dywidendy-na-akcje-za-25-9161473.html",
@@ -688,20 +702,6 @@
       "title": "Miliardy z KPO na ostatniej prostej. Ostatnia transza trafi do Polski w grudniu",
       "content_html": "Pomimo 2-letniego opóźnienia w wydatkowaniu środków z Krajowego Planu Odbudowy, Polska będzie w stanie zainwestować ponad 90 proc. środków z tego planu - poinformowała we wtorek ministra funduszy i polityki regionalnej Katarzyna Pełczyńska-Nałęcz...",
       "date_published": "2026-06-30T12:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Medinice-zdecydowali-o-emisji-akcji-serii-O-bez-prawa-poboru-9160568.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusze-Medinice-zdecydowali-o-emisji-akcji-serii-O-bez-prawa-poboru-9160568.html",
-      "title": "Akcjonariusze Medinice zdecydowali o emisji akcji serii O bez prawa poboru",
-      "content_html": "Zwyczajne walne zgromadzenie Medinice wyraziło zgodę na emisję akcji serii O w łącznej liczbie 1.165.000 walorów w trybie subskrypcji prywatnej skierowanej do głównego akcjonariusza - Parmanand Fundacja Rodzinna, z wyłączeniem w całości prawa...",
-      "date_published": "2026-06-30T12:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Turcja-przed-szczytem-NATO-Sojusz-nie-jest-w-kryzysie-9160563.html",
-      "url": "https://www.bankier.pl/wiadomosc/Turcja-przed-szczytem-NATO-Sojusz-nie-jest-w-kryzysie-9160563.html",
-      "title": "Turcja przed szczytem NATO: Sojusz nie jest w kryzysie",
-      "content_html": "Sojusz Północnoatlantycki nie jest w kryzysie, lecz dostosowuje się do zmieniającej się sytuacji w zakresie bezpieczeństwa, a USA nie zamierzają opuścić sojuszu – przekazał we wtorek agencji Reutera minister obrony Turcji Yasar Guler przed...",
-      "date_published": "2026-06-30T12:05:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
