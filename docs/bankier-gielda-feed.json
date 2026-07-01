@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-PCC-Rokita-chce-sprzedac-w-ABB-2-mln-akcji-9162182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-PCC-Rokita-chce-sprzedac-w-ABB-2-mln-akcji-9162182.html",
+      "title": "Akcjonariusz PCC Rokita chce sprzedać w ABB 2 mln akcji Akcjonariusz PCC Rokita - PCC SE - rozpoczął w ramach przyspieszonej budowy księgi popytu, sprzedaż ok. 2 mln akcji spółki, stanowiących 9,87 proc. udziału w kapitale zakładowym - podało PCC Rokita w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-01T18:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-chce-wyemitowac-od-375-mln-do-520-mln-akcji-serii-VI-9162171.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-chce-wyemitowac-od-375-mln-do-520-mln-akcji-serii-VI-9162171.html",
+      "title": "Mostostal Warszawa chce wyemitować od 375 mln do 520 mln akcji serii VI Mostostal Warszawa ponownie proponuje walnemu zgromadzeniu emisję od 375 mln do 520 mln akcji na okaziciela serii VI w trybie subskrypcji prywatnej z pozbawieniem prawa poboru dotychczasowych akcjonariuszy - wynika z projektów na NWZ spółki, zwołanego na 29 lipca.",
+      "content_html": "",
+      "date_published": "2026-07-01T18:24:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Liczba-aktywnych-kart-Benefit-Systems-na-koniec-II-kw-wyniosla-ok-2-69-mln-szt-9162126.html",
       "url": "https://www.bankier.pl/wiadomosc/Liczba-aktywnych-kart-Benefit-Systems-na-koniec-II-kw-wyniosla-ok-2-69-mln-szt-9162126.html",
       "title": "Stabilny wzrost bazy klientów. Benefit Systems ma niemal 2,7 mln aktywnych kart sportowych Liczba aktywnych kart sportowych Benefit Systems na koniec drugiego kwartału 2026 r. wyniosła 2.695,7 tys. szt. - podała spółka w komunikacie.",
@@ -534,20 +548,6 @@
       "title": "Sanok wypłaci 1,2 zł dywidendy na akcję ZWZ Sanok Rubber Company zdecydowało się przeznaczyć na dywidendę z zysku za 2025 rok kwotę 27,4 mln zł, co daje 1,2 zł na akcję - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-06-29T20:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Robyg-przydzielil-inwestorom-lacznie-34-6-mln-akcji-9160244.html",
-      "url": "https://www.bankier.pl/wiadomosc/Robyg-przydzielil-inwestorom-lacznie-34-6-mln-akcji-9160244.html",
-      "title": "Robyg przydzielił inwestorom łącznie 34,6 mln akcji Robyg przydzielił łącznie 34.646.706 akcji oferowanych, z czego 25 mln akcji sprzedawanych oraz 9.646.706 nowych akcji. Stopa redukcji zapisów złożonych przez inwestorów indywidualnych na akcje sprzedawane wyniosła około 74,87 proc. - podała spółka w podsumowaniu oferty publicznej.",
-      "content_html": "",
-      "date_published": "2026-06-29T20:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bio-Planet-pozyskal-714-5-tys-zl-z-emisji-akcji-serii-E-9160188.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bio-Planet-pozyskal-714-5-tys-zl-z-emisji-akcji-serii-E-9160188.html",
-      "title": "Bio Planet pozyskał 714,5 tys. zł z emisji akcji serii E Łączna wartość środków pozyskanych przez Bio Planet z emisji akcji serii E wyniosła 714,5 tys. zł - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-06-29T18:28:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
