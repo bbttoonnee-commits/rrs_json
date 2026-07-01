@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PCC-SE-sprzedal-w-ABB-2-2-mln-akcji-PCC-Rokita-po-57-zl-za-sztuke-aktl-9162311.html",
+      "url": "https://www.bankier.pl/wiadomosc/PCC-SE-sprzedal-w-ABB-2-2-mln-akcji-PCC-Rokita-po-57-zl-za-sztuke-aktl-9162311.html",
+      "title": "PCC SE sprzedał w ABB 2,2 mln akcji PCC Rokita, po 57 zł za sztukę (aktl.)",
+      "content_html": "Akcjonariusz PCC Rokita - PCC SE - sprzedał w ramach przyspieszonej budowy księgi popytu 2,2 mln akcji spółki, stanowiących 10,86 proc. kapitału zakładowego, po 57 zł za szt. - podała chemiczna spółka. Waldemar Preussner, właściciel PCC SE...",
+      "date_published": "2026-07-02T00:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PCC-SE-sprzedal-w-ABB-2-2-mln-akcji-PCC-Rokita-po-57-zl-za-sztuke-9162309.html",
+      "url": "https://www.bankier.pl/wiadomosc/PCC-SE-sprzedal-w-ABB-2-2-mln-akcji-PCC-Rokita-po-57-zl-za-sztuke-9162309.html",
+      "title": "PCC SE sprzedał w ABB 2,2 mln akcji PCC Rokita, po 57 zł za sztukę",
+      "content_html": "Akcjonariusz PCC Rokita - PCC SE - sprzedał w ramach przyspieszonej budowy księgi popytu 2,2 mln akcji spółki, stanowiących 10,86 proc. udziału w kapitale zakładowym, po 57 zł za sztukę - podała chemiczna spółka w komunikacie.",
+      "date_published": "2026-07-02T00:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Atal-w-II-kw-zawarla-908-umow-deweloperskich-i-przedwstepnych-9162286.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Atal-w-II-kw-zawarla-908-umow-deweloperskich-i-przedwstepnych-9162286.html",
       "title": "Grupa Atal w II kw. zawarła 908 umów deweloperskich i przedwstępnych",
@@ -688,20 +702,6 @@
       "title": "Nie staż, a odpowiedzialność? Oto zawody, w których zarobisz najwięcej",
       "content_html": "Aż o 86 proc. rośnie całkowite wynagrodzenie eksperta, który awansował na starszego eksperta – wynika z raportu płacowego firmy Sedlak & Sedlak. Najlepiej płaci branża nowych technologii, ale bardzo dobrze można zarobić także poza IT...",
       "date_published": "2026-07-01T08:17:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wszystkie-miliardy-Trumpa-1-4-mld-dolarow-dochodu-z-kryptowalut-9161546.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wszystkie-miliardy-Trumpa-1-4-mld-dolarow-dochodu-z-kryptowalut-9161546.html",
-      "title": "Wszystkie miliardy Trumpa. Aż 1,4 mld dolarów dochodu z kryptowalut",
-      "content_html": "Rodzina prezydenta USA Donalda Trump osiągnęła w 2025 roku ponad 1,4 mld dolarów dochodu z przedsięwzięć kryptowalutowych – podała agencja Reutera, powołując się na deklarację Trumpa. Oznacza to, że większość dochodu prezydenta pochodziła...",
-      "date_published": "2026-07-01T08:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-przywiazaniem-do-jednej-apteki-Od-1-lipca-wchodzi-rewolucyjna-zmiana-w-receptach-9161566.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-przywiazaniem-do-jednej-apteki-Od-1-lipca-wchodzi-rewolucyjna-zmiana-w-receptach-9161566.html",
-      "title": "Koniec z przywiązaniem do jednej apteki. Od 1 lipca wchodzi rewolucyjna zmiana w receptach",
-      "content_html": "Od 1 lipca pacjenci nie muszą w jednej aptece zrealizować całej recepty. Centrum e-zdrowia uruchomiło możliwość dzielenia e-recept, przystąpienie do programu jest dla aptek dobrowolne.",
-      "date_published": "2026-07-01T08:05:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
