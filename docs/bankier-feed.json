@@ -4,11 +4,67 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-przeciw-ustawie-morskiej-To-realizacja-Zielonego-Ladu-9162917.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-przeciw-ustawie-morskiej-To-realizacja-Zielonego-Ladu-9162917.html",
+      "title": "Prezydent przeciw ustawie morskiej. \"To realizacja Zielonego Ładu\"",
+      "content_html": "Prezydent Karol Nawrocki w czwartek zawetował ustawę o zapobieganiu zanieczyszczania morza przez statki; wdrożenie zmian — jego zdaniem — oznaczałoby w praktyce realizację założeń Zielonego Ładu, czemu Nawrocki się sprzeciwia. Według wiceministra...",
+      "date_published": "2026-07-02T21:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-chce-ulzyc-przedsiebiorcom-Ceny-pradu-moga-spac-o-kilkanascie-procent-9162916.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-chce-ulzyc-przedsiebiorcom-Ceny-pradu-moga-spac-o-kilkanascie-procent-9162916.html",
+      "title": "Rząd chce ulżyć przedsiębiorcom. Ceny prądu mogą spać o kilkanaście procent",
+      "content_html": "Do września Ministerstwo Energii ma przygotować rozporządzenie w sprawie taryf za energię elektryczną, dzięki któremu ceny dla przedsiębiorstw energochłonnych mają spaść o kilkanaście procent - poinformował w czwartek szef resortu Miłosz...",
+      "date_published": "2026-07-02T21:23:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-wzrosly-po-wygasnieciu-CPN-Eksperci-wskazuja-na-VAT-zlotego-i-rynek-ropy-9162849.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-wzrosly-po-wygasnieciu-CPN-Eksperci-wskazuja-na-VAT-zlotego-i-rynek-ropy-9162849.html",
+      "title": "Ceny paliw wzrosły po wygaśnięciu CPN. Eksperci wskazują na VAT, złotego i rynek ropy",
+      "content_html": "Ceny paliw na stacjach wzrosły o 78-91 gr/l od momentu wygaśnięcia pakietu CPN, co wynika także z czynników makroekonomicznych - powiedziała PAP Urszula Cieślak, analityczka biura Reflex.",
+      "date_published": "2026-07-02T21:17:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjskie-drony-w-Europie-Rozpoznanie-bojem-nad-infrastruktura-krytyczna-9162914.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjskie-drony-w-Europie-Rozpoznanie-bojem-nad-infrastruktura-krytyczna-9162914.html",
+      "title": "Rosyjskie drony w Europie. \"Rozpoznanie bojem\" nad infrastrukturą krytyczną",
+      "content_html": "Rosyjskie operacje z użyciem dronów są testem systemu obrony powietrznej NATO w Europie; bezzałogowce monitorują też instalacje nuklearne i wojskowe systemy logistyczne, mapują szlaki zaopatrzenia - głosi raport Międzynarodowego Instytutu Studiów...",
+      "date_published": "2026-07-02T21:17:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fale-Dunaju-znikna-z-A1-GDDKiA-oglasza-wieloletni-program-naprawczy-9162909.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fale-Dunaju-znikna-z-A1-GDDKiA-oglasza-wieloletni-program-naprawczy-9162909.html",
+      "title": "„Fale Dunaju” znikną z A1? GDDKiA ogłasza wieloletni program naprawczy",
+      "content_html": "GDDKiA zamówiła naprawę ponadtrzykilometrowego fragmentu autostrady A1 na wysokości miejscowości Dobieszowice (Śląskie), jednego z najbardziej uszkodzonych miejsc na 16-kilometrowym odcinku Pyrzowice-Piekary Śląskie. Dyrekcja ogłosiła też...",
+      "date_published": "2026-07-02T20:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KE-Nowy-termin-prezentacji-reformy-ETS-i-planu-transformacji-energetycznej-9162862.html",
+      "url": "https://www.bankier.pl/wiadomosc/KE-Nowy-termin-prezentacji-reformy-ETS-i-planu-transformacji-energetycznej-9162862.html",
+      "title": "KE: Nowy termin prezentacji reformy ETS i planu transformacji energetycznej",
+      "content_html": "Komisja Europejska poinformowała w czwartek, że prezentacja reformy systemu handlu emisjami ETS zostanie przesunięta o dwa dni — z 15 na 17 lipca. Tego dnia KE przedstawi również plan transformacji energetycznej, który ma przyspieszyć w Europie...",
+      "date_published": "2026-07-02T20:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sikorski-Wegry-cofnely-status-uchodzcy-Romanowskiemu-Ziobrze-i-jego-zonie-9162828.html",
       "url": "https://www.bankier.pl/wiadomosc/Sikorski-Wegry-cofnely-status-uchodzcy-Romanowskiemu-Ziobrze-i-jego-zonie-9162828.html",
       "title": "Sikorski: Węgry cofnęły status uchodźcy Romanowskiemu, Ziobrze i jego żonie",
       "content_html": "Otrzymałem pisemne potwierdzenie, że Węgry cofnęły status uchodźcy Marcinowi Romanowskiemu, Zbigniewowi Ziobrze i Patrycji Koteckiej-Ziobro; unieważniły także ich dokumenty podróży - poinformował w czwartek na X wicepremier, szef MSZ Radosław...",
-      "date_published": "2026-07-02T20:26:00+02:00"
+      "date_published": "2026-07-02T20:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-wzywa-sojusznikow-Pilnie-potrzebujemy-dodatkowych-pociskow-do-systemow-Patriot-9162902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-wzywa-sojusznikow-Pilnie-potrzebujemy-dodatkowych-pociskow-do-systemow-Patriot-9162902.html",
+      "title": "Ukraina wzywa sojuszników. \"Pilnie potrzebujemy dodatkowych pocisków do systemów Patriot\"",
+      "content_html": "Ukraiński minister obrony Mychajło Fedorow zwrócił się do ok. 40 państw partnerskich o niezwłoczne przekazanie Ukrainie pocisków do systemów obrony powietrznej Patriot z istniejących zapasów, które miałyby zostać uzupełnione w ramach przyszłych...",
+      "date_published": "2026-07-02T20:23:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ogien-pustoszy-poludnie-Francji-900-hektarow-w-plomieniach-premier-zwolal-spotkanie-kryzysowe-9162897.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ogien-pustoszy-poludnie-Francji-900-hektarow-w-plomieniach-premier-zwolal-spotkanie-kryzysowe-9162897.html",
+      "title": "Ogień pustoszy południe Francji, 900 hektarów w płomieniach. premier zwołał spotkanie kryzysowe",
+      "content_html": "Pożar, który wybuchł w środę wieczorem na południu Francji w departamentach Aude i Herault, strawił 900 hektarów pól i lasów - poinformowała w czwartek agencja AFP. Premier Sebastien Lecornu zwołał tego samego dnia spotkanie kryzysowe rządu...",
+      "date_published": "2026-07-02T20:14:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Podwyzki-w-ochronie-zdrowia-Minister-zatwierdzila-nowe-wyceny-swiadczen-9162892.html",
@@ -646,62 +702,6 @@
       "title": "TSUE bezlitosny dla Google. Gigant zapłaci 4,1 mld euro kary",
       "content_html": "Trybunał Sprawiedliwości UE (TSUE) utrzymał w mocy nałożoną na Google grzywnę w wysokości prawie 4,1 mld euro - poinformował TSUE o wydanym w czwartek wyroku. W 2018 r. KE stwierdziła nadużycie pozycji dominującej zajmowanej przez wyszukiwarkę...",
       "date_published": "2026-07-02T11:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wazny-wyrok-TSUE-dla-frankowcow-Bieg-przedawnienia-zalezy-od-pierwszego-oswiadczenia-konsumenta-9162434.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wazny-wyrok-TSUE-dla-frankowcow-Bieg-przedawnienia-zalezy-od-pierwszego-oswiadczenia-konsumenta-9162434.html",
-      "title": "Ważny wyrok TSUE dla frankowców. Bieg przedawnienia zależy od pierwszego oświadczenia konsumenta",
-      "content_html": "Prawo UE pozwala, by bieg przedawnienia roszczenia banku o zwrot pożyczonego kapitału rozpoczynał się w dniu, w którym konsument pierwszy raz zakwestionował wiążący charakter warunków umowy - orzekł w czwartek TSUE w wyroku w polskich sprawach...",
-      "date_published": "2026-07-02T11:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/VeloBank-zwalnia-po-przejeciu-Citi-Chroniona-pensja-to-nie-gwarancja-etatu-9162432.html",
-      "url": "https://www.bankier.pl/wiadomosc/VeloBank-zwalnia-po-przejeciu-Citi-Chroniona-pensja-to-nie-gwarancja-etatu-9162432.html",
-      "title": "VeloBank zwalnia po przejęciu bankowości detalicznej Citi Handlowego. Chroniona pensja to nie gwarancja etatu",
-      "content_html": "Pracownicy przeniesieni z Citi Handlowego do VeloBanku mieli zagwarantowany poziom wynagrodzenia przez 12 miesięcy - ale, jak podkreślają oba banki, nie był to ekwiwalent gwarancji samego etatu. Zwolnienia grupowe ruszyły kilka dni po fuzji. Do redakcji...",
-      "date_published": "2026-07-02T10:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-ida-w-gore-Katar-wciaz-walczy-ze-skutkami-wojny-9162430.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-ida-w-gore-Katar-wciaz-walczy-ze-skutkami-wojny-9162430.html",
-      "title": "Ceny gazu w Europie idą w górę. Katar wciąż walczy ze skutkami wojny",
-      "content_html": "Ceny gazu w Europie zwyżkują, gdyż dostawy LNG przez cieśninę Ormuz pozostają ograniczone, pomimo ogólnej poprawy przepływów przez ten kluczowy szlak wodny - informują maklerzy.",
-      "date_published": "2026-07-02T10:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinskie-marki-aut-znikaja-z-rynku-Osiem-z-nich-wlasnie-konczy-dzialalnosc-9162427.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinskie-marki-aut-znikaja-z-rynku-Osiem-z-nich-wlasnie-konczy-dzialalnosc-9162427.html",
-      "title": "Chińskie marki aut znikają z rynku. Osiem z nich właśnie kończy działalność",
-      "content_html": "Osiem chińskich marek musi zamknąć swoje linie produkcyjne – informuje „Auto Świat”. To pokłosie odebrania im licencji na wytwarzanie aut przez chiński rząd, do czego skłonił go m.in. spadający o 20 proc. popyt na rodzimym rynku. W Europie...",
-      "date_published": "2026-07-02T10:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-rakietowy-na-Kijow-Sa-ofiary-smiertelne-polskie-mysliwce-poderwane-9162334.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-atak-rakietowy-na-Kijow-Sa-ofiary-smiertelne-polskie-mysliwce-poderwane-9162334.html",
-      "title": "Zmasowany atak na Kijów. Są ofiary śmiertelne, polskie myśliwce poderwane",
-      "content_html": "Do 17 wzrosła liczba ofiar śmiertelnych rosyjskiego ataku na Kijów w nocy ze środy na czwartek. Mer miasta Witalij Kliczko ocenił, że było to najbardziej zmasowane uderzenie na stolicę Ukrainy od początku wojny i ogłosił piątek dniem żałoby...",
-      "date_published": "2026-07-02T10:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sejmowa-komisja-poparla-sprawozdanie-z-ustawy-o-obronie-cywilnej-9162414.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sejmowa-komisja-poparla-sprawozdanie-z-ustawy-o-obronie-cywilnej-9162414.html",
-      "title": "Sejmowa komisja poparła sprawozdanie z ustawy o obronie cywilnej",
-      "content_html": "Program OLiOC, sprawdzenie budowli ochronnych i utworzenie aplikacji, w której znalazło się ponad 80 tys. punktów schronienia w całym kraju - to niektóre z zadań wymienionych w sprawozdaniu z wykonania ustawy o ochronie ludności i obronie cywilnej...",
-      "date_published": "2026-07-02T10:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lobbing-kontrowersyjny-fintech-i-procedury-MON-reaguje-na-wizyte-bylego-prezydenta-9162409.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lobbing-kontrowersyjny-fintech-i-procedury-MON-reaguje-na-wizyte-bylego-prezydenta-9162409.html",
-      "title": "Lobbing, kontrowersyjny fintech i procedury. MON reaguje na wizytę byłego prezydenta",
-      "content_html": "Wiceszefowa MON Magdalena Sobkowiak-Czarnecka potwierdziła, że szef Agencji Uzbrojenia gen. dyw. Artur Kuptel spotkał się z b. prezydentem Andrzejem Dudą, który wg mediów przybył w towarzystwie założyciela fintechu ZEN.com. Wszystkie procedury...",
-      "date_published": "2026-07-02T10:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Dosze-Pozytywny-postep-w-rozmowach-pokojowych-USA-z-Iranem-9162405.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Dosze-Pozytywny-postep-w-rozmowach-pokojowych-USA-z-Iranem-9162405.html",
-      "title": "Przełom w Dosze? \"Pozytywny postęp\" w rozmowach pokojowych USA z Iranem",
-      "content_html": "Zakończone w Dosze pośrednie rozmowy między USA i Iranem przyniosły „pozytywny postęp” - poinformował rzecznik ministerstwa spraw zagranicznych Kataru Madżed al-Ansari, cytowany w czwartek przez agencję AFP.",
-      "date_published": "2026-07-02T10:15:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
