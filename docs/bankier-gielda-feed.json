@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-zamierza-zbudowac-pierwsza-w-Polsce-kopalnie-polihalitu-w-okolicach-Pucka-9163507.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-zamierza-zbudowac-pierwsza-w-Polsce-kopalnie-polihalitu-w-okolicach-Pucka-9163507.html",
+      "title": "Szyby głębokie na 800 metrów nad polskim morzem. Wielka inwestycja KGHM KGHM Polska Miedź planuje budowę pierwszej w Polsce kopalni polihalitu w rejonie Zatoki Puckiej.",
+      "content_html": "",
+      "date_published": "2026-07-03T19:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-wyemituje-obligacje-o-lacznej-wartosci-750-mln-euro-9163447.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-wyemituje-obligacje-o-lacznej-wartosci-750-mln-euro-9163447.html",
       "title": "Orlen wyemituje obligacje o łącznej wartości 750 mln euro Orlen wyemituje obligacje serii E o łącznej wartości nominalnej 750 mln euro - podała spółka w komunikacie.",
@@ -408,20 +415,6 @@
       "title": "Grupa Atal w II kw. zawarła 908 umów deweloperskich i przedwstępnych Grupa Atal drugim kwartale 2026 roku łącznie zawarła 908 umów deweloperskich i przedwstępnych - poinformował giełdowy deweloper w komunikacie. W całym pierwszym półroczu liczba takich umów sięgnęła 1547.",
       "content_html": "",
       "date_published": "2026-07-01T21:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-PCC-Rokita-chce-sprzedac-w-ABB-2-mln-akcji-9162182.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-PCC-Rokita-chce-sprzedac-w-ABB-2-mln-akcji-9162182.html",
-      "title": "Akcjonariusz PCC Rokita chce sprzedać w ABB 2 mln akcji Akcjonariusz PCC Rokita - PCC SE - rozpoczął w ramach przyspieszonej budowy księgi popytu, sprzedaż ok. 2 mln akcji spółki, stanowiących 9,87 proc. udziału w kapitale zakładowym - podało PCC Rokita w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-01T18:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-chce-wyemitowac-od-375-mln-do-520-mln-akcji-serii-VI-9162171.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-chce-wyemitowac-od-375-mln-do-520-mln-akcji-serii-VI-9162171.html",
-      "title": "Mostostal Warszawa chce wyemitować od 375 mln do 520 mln akcji serii VI Mostostal Warszawa ponownie proponuje walnemu zgromadzeniu emisję od 375 mln do 520 mln akcji na okaziciela serii VI w trybie subskrypcji prywatnej z pozbawieniem prawa poboru dotychczasowych akcjonariuszy - wynika z projektów na NWZ spółki, zwołanego na 29 lipca.",
-      "content_html": "",
-      "date_published": "2026-07-01T18:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
