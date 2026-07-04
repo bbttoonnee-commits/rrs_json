@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zamrozony-fundusz-socjalny-na-uczelniach-Rektorzy-zaoszczedza-setki-milionow-zlotych-9161330.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zamrozony-fundusz-socjalny-na-uczelniach-Rektorzy-zaoszczedza-setki-milionow-zlotych-9161330.html",
+      "title": "Zamrożony fundusz socjalny na uczelniach. Rektorzy zaoszczędzą setki milionów złotych",
+      "content_html": "Do 31 grudnia 2036 r. ma obowiązywać rozwiązanie przejściowe dla pracowników uczelni, zgodnie z którym odpis na zakładowy fundusz świadczeń socjalnych będzie dokonywany w wysokości kwoty odpisu w 2018 r. - zakłada projekt zmian w przepisach...",
+      "date_published": "2026-07-04T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pedzil-hulajnoga-prawie-70-km-h-bo-stracil-prawo-jazdy-Policja-zatrzymala-rekordziste-9161802.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pedzil-hulajnoga-prawie-70-km-h-bo-stracil-prawo-jazdy-Policja-zatrzymala-rekordziste-9161802.html",
+      "title": "Pędził hulajnogą prawie 70 km/h, bo stracił prawo jazdy. Policja zatrzymała rekordzistę",
+      "content_html": "46-latek jechał z prędkością blisko 70 km/h hulajnogą elektryczną po drodze wojewódzkiej 212 między Kozinem a Czarną Dąbrówką na Pomorzu. Został ukarany mandatem w kwocie 1100 zł – poinformował oficer prasowy bytowskiej policji sierż...",
+      "date_published": "2026-07-04T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-sparalizowane-przez-absurdy-Trump-chce-zalepic-kraj-swoimi-podobiznami-9161805.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-sparalizowane-przez-absurdy-Trump-chce-zalepic-kraj-swoimi-podobiznami-9161805.html",
+      "title": "USA sparaliżowane przez absurdy? „Trump chce zalepić kraj swoimi podobiznami”",
+      "content_html": "Amerykańska historyczka Jill Lepore oceniła w rozmowie z „Sueddeutsche Zeitung”, że w USA doszło do „porażki systemu konstytucyjnego”. Jej zdaniem Donald Trump wykorzystuje 250. rocznicę ogłoszenia przez kraj niepodległości do celebrowania...",
+      "date_published": "2026-07-04T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bron-atomowa-na-Litwie-Prezydent-Nauseda-Nie-chcemy-byc-slabym-ogniwem-NATO-9162512.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bron-atomowa-na-Litwie-Prezydent-Nauseda-Nie-chcemy-byc-slabym-ogniwem-NATO-9162512.html",
+      "title": "Broń atomowa na Litwie? Prezydent Nauseda: Nie chcemy być słabym ogniwem NATO",
+      "content_html": "Litewski prezydent Gitanas Nauseda oświadczył w czwartek, że najważniejsi politycy kraju uzgodnili, iż z konstytucji należy usunąć zapis zakazujący rozmieszczania na terytorium Litwy broni jądrowej.",
+      "date_published": "2026-07-04T15:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kradla-dane-z-firmy-meza-i-czyscila-konta-Ponad-300-tys-zl-strat-i-164-przestepstwa-9159683.html",
       "url": "https://www.bankier.pl/wiadomosc/Kradla-dane-z-firmy-meza-i-czyscila-konta-Ponad-300-tys-zl-strat-i-164-przestepstwa-9159683.html",
       "title": "Kradła dane z firmy męża i czyściła konta. Ponad 300 tys. zł strat i 164 przestępstwa",
@@ -387,13 +415,6 @@
       "title": "\"Mają słabość do Ziobry\". Tusk komentuje podejście ekipy Donalda Trumpa",
       "content_html": "Premier Donald Tusk ocenił, że „nasi amerykańscy sojusznicy mają słabość do dzisiejszej opozycji, polityczną słabość – w tym do pana Zbigniewa Ziobry”. Pytany o sprawę ewentualnej ekstradycji b. szefa MS, Tusk odparł, że jego wpływ...",
       "date_published": "2026-07-03T18:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zastrzyk-mocy-dla-slaskiej-metropolii-GZM-zajmie-sie-wspolna-gospodarka-odpadami-i-kultura-9163324.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zastrzyk-mocy-dla-slaskiej-metropolii-GZM-zajmie-sie-wspolna-gospodarka-odpadami-i-kultura-9163324.html",
-      "title": "Zastrzyk mocy dla śląskiej metropolii. GZM zajmie się wspólną gospodarką odpadami i kulturą",
-      "content_html": "Przewodniczący zarządu Górnośląsko-Zagłębiowskiej Metropolii Leszek Pietraszek ocenił, że znowelizowana ustawa metropolitalna dla woj. śląskiego, którą podpisał prezydent Karol Nawrocki, daje GZM m.in. nowe narzędzia do prowadzenia działań...",
-      "date_published": "2026-07-03T18:40:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-wyemituje-obligacje-o-lacznej-wartosci-750-mln-euro-9163447.html",
