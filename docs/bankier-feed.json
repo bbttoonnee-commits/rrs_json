@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-oglasza-patriotyczne-obnizki-w-Walmarcie-Siec-handlowa-milczy-9164400.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-oglasza-patriotyczne-obnizki-w-Walmarcie-Siec-handlowa-milczy-9164400.html",
+      "title": "Trump ogłasza „patriotyczne obniżki” w Walmarcie. Sieć handlowa milczy",
+      "content_html": "Prezydent USA Donald Trump ogłosił w poniedziałek, że największa sieć supermarketów, Walmart, obniży ceny niektórych produktów na jego prośbę z okazji 250. rocznicy niepodległości kraju. Wezwał przy tym inne firmy do podążenia za przykładem...",
+      "date_published": "2026-07-07T08:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podatek-od-prezentow-weselnych-Fiskus-wyjasnia-kiedy-koperta-jest-bez-podatku-9164024.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podatek-od-prezentow-weselnych-Fiskus-wyjasnia-kiedy-koperta-jest-bez-podatku-9164024.html",
+      "title": "Podatek od prezentów weselnych? Fiskus wyjaśnia, kiedy koperta jest bez podatku",
+      "content_html": "Ruszył sezon ślubny, a wraz z nim wraca pytanie o weselne koperty. W najnowszej interpretacji fiskus potwierdza, że gotówkowe prezenty od gości nie muszą oznaczać ani podatku, ani zgłoszenia do urzędu skarbowego. Pod warunkiem że kwota od jednej...",
+      "date_published": "2026-07-07T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Klasyka-oszustw-wraca-w-nowych-szatach-paczki-podatki-i-mandaty-9164026.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klasyka-oszustw-wraca-w-nowych-szatach-paczki-podatki-i-mandaty-9164026.html",
+      "title": "Klasyka oszustw wraca w nowych szatach - paczki, podatki i mandaty",
+      "content_html": "Jeśli coś działa, to lepiej nie psuć – z takiego założenia wychodzą oszuści eksplorujący klasyczne formy wyłudzeń. Phishing „od kuriera”, „zwrot podatku”, wyłudzenie na niezapłacony mandat mają regularnie swoje nowe, ulepszone...",
+      "date_published": "2026-07-07T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rada-stop-juz-nie-ruszy-A-co-nam-pokaze-lipcowa-projekcja-inflacyjna-NBP-9164071.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rada-stop-juz-nie-ruszy-A-co-nam-pokaze-lipcowa-projekcja-inflacyjna-NBP-9164071.html",
+      "title": "Rada stóp już nie ruszy? A co nam pokaże lipcowa projekcja inflacyjna NBP?",
+      "content_html": "Jeszcze miesiąc temu mogliśmy się zastanawiać, kiedy dojdzie do pierwszej od kilka lat podwyżki stóp procentowych w Polsce. Teraz możemy wrócić do spekulacji o następnych obniżkach kosztów kredytu.",
+      "date_published": "2026-07-07T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-na-miesiac-lipiec-2026-r-Zmiany-na-podium-zestawienia-9164124.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-lokaty-na-miesiac-lipiec-2026-r-Zmiany-na-podium-zestawienia-9164124.html",
+      "title": "Ranking lokat miesięcznych. Dwie podwyżki i najwyższa stawka na rynku",
+      "content_html": "Oferta na 7,00 proc. rocznie otwiera lipcowe zestawienie najlepszych lokat miesięcznych. W porównaniu do poprzedniego rankingu w tabeli pojawiły się dwie zmiany na plus – BOŚ Bank podniósł stawkę do 4,00 proc. w skali roku, dzięki czemu wskoczył...",
+      "date_published": "2026-07-07T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rotacja-sektorow-ratuje-nowojorska-gielde-Dow-Jones-pobil-rekord-wszech-czasow-9164392.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rotacja-sektorow-ratuje-nowojorska-gielde-Dow-Jones-pobil-rekord-wszech-czasow-9164392.html",
+      "title": "Rotacja sektorów ratuje nowojorską giełdę. Dow Jones pobił rekord wszech czasów",
+      "content_html": "Poniedziałkowa sesja na Wall Street zakończyła się wyraźnymi wzrostami głównych indeksów, a Dow Jones pierwszy raz w historii zamknął dzień powyżej poziomu 53 tys. punktów. Tym samym amerykańskie giełdy kontynuują solidne zwyżki z poprzedniego...",
+      "date_published": "2026-07-07T00:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Norwegia-naciska-na-Chiny-Zmuszenie-Rosji-do-rozmow-pokojowych-9164356.html",
       "url": "https://www.bankier.pl/wiadomosc/Norwegia-naciska-na-Chiny-Zmuszenie-Rosji-do-rozmow-pokojowych-9164356.html",
       "title": "Norwegia naciska na Chiny. Zmuszenie Rosji do rozmów pokojowych?",
@@ -590,118 +632,6 @@
       "title": "Więcej pieniędzy z MSWiA, ale nie dla wszystkich? Błąd w algorytmie resortu",
       "content_html": "Chociaż łączna pula środków dla samorządów z programu ochrony ludności i obrony cywilnej na 2027 r. wzrasta, większość województw otrzyma mniej pieniędzy. MSWiA zapowiada korektę – czytamy w poniedziałkowym wydaniu „DGP”.",
       "date_published": "2026-07-06T08:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawet-26-000-zl-za-godzine-pracy-neurochirurgow-W-tle-przekret-i-akcja-CBA-9163894.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawet-26-000-zl-za-godzine-pracy-neurochirurgow-W-tle-przekret-i-akcja-CBA-9163894.html",
-      "title": "Nawet 26 000 zł za godzinę pracy neurochirurgów. W tle przekręt i akcja CBA",
-      "content_html": "Nawet 26 tys. zł na godzinę i ponad 300 tys. zł dniówki - na tyle spółka neurochirurgów działająca na terenie kilku województw mogła wystawiać rachunki szpitalom. Wykonywali kilkuminutowe zabiegi, ale zdaniem NFZ sprawozdawali droższe procedury...",
-      "date_published": "2026-07-06T08:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kawek-asteroidy-w-rekach-Chin-Sonda-Tianwen-2-o-krok-od-historycznego-przelomu-9163870.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kawek-asteroidy-w-rekach-Chin-Sonda-Tianwen-2-o-krok-od-historycznego-przelomu-9163870.html",
-      "title": "Kawek asteroidy w rękach Chin? Sonda Tianwen-2 o krok od historycznego przełomu",
-      "content_html": "Chińska sonda kosmiczna Tianwen-2 dotarła do asteroidy 469219 Kamo'oalewa (2016 HO3) – podały w poniedziałek państwowe media. Po podróży trwającej 400 dni i przebyciu miliarda kilometrów statek rozpoczął badania obiektu z odległości 20...",
-      "date_published": "2026-07-06T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AI-usmiercila-Trumpa-Modele-ucza-sie-z-forow-internetowych-9163874.html",
-      "url": "https://www.bankier.pl/wiadomosc/AI-usmiercila-Trumpa-Modele-ucza-sie-z-forow-internetowych-9163874.html",
-      "title": "AI uśmierciła Trumpa. \"Modele uczą się z forów internetowych\"",
-      "content_html": "Sztuczna inteligencja miała błędnie informować o rzekomej śmierci Donalda Trumpa. Źródłem fałszywej informacji była dyskusja na forum Reddit. Dr Mateusz Łabuz z Uniwersytetu w Hamburgu powiedział PAP, że modele językowe cytują wypowiedzi...",
-      "date_published": "2026-07-06T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zarobili-miliardy-na-pandemii-teraz-chca-inwestowac-w-Polsce-W-tle-szczepionka-na-raka-9163860.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zarobili-miliardy-na-pandemii-teraz-chca-inwestowac-w-Polsce-W-tle-szczepionka-na-raka-9163860.html",
-      "title": "Zarobili miliardy na pandemii, teraz chcą inwestować w Polsce. W tle szczepionka na raka",
-      "content_html": "Amerykański pionier szczepionek mRNA, który w czasie pandemii zdobył globalną rozpoznawalność i zarobił miliardy, teraz intensywnie poszukuje nowych terapii. Jego prezes niedawno rozmawiał z polskim ministrem finansów - czytamy w poniedziałkowym...",
-      "date_published": "2026-07-06T07:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-3300-ofiar-trzesienia-ziemi-i-tysiace-zaginionych-Poszukiwania-wygasaja-9163853.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-3300-ofiar-trzesienia-ziemi-i-tysiace-zaginionych-Poszukiwania-wygasaja-9163853.html",
-      "title": "Ponad 3300 ofiar trzęsienia ziemi i tysiące zaginionych. Poszukiwania wygasają",
-      "content_html": "Liczba ofiar śmiertelnych dwóch trzęsień ziemi w Wenezueli wzrosła do 3342 – podało wenezuelskie ministerstwo informacji w niedzielnym komunikacie.",
-      "date_published": "2026-07-06T07:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Francja-5-tys-osob-ewakuowanych-z-powodu-pozaru-w-departamencie-Pireneje-Wschodnie-9163828.html",
-      "url": "https://www.bankier.pl/wiadomosc/Francja-5-tys-osob-ewakuowanych-z-powodu-pozaru-w-departamencie-Pireneje-Wschodnie-9163828.html",
-      "title": "Ogień trawi południową Francję. Tysiące ewakuowanych, zamknięta autostrada",
-      "content_html": "Z powodu pożaru, który ogarnął ponad 1,6 tys. hektarów, prefekt położonego na południu Francji departamentu Pireneje Wschodnie Pierre Regnault de la Mothe zarządził w niedzielę ewakuację około 5 tys. osób z 15 gmin w masywie Aspres. Pożary...",
-      "date_published": "2026-07-06T07:43:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-Warszawie-Rynek-wtorny-znowu-drozeje-9161464.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-mieszkan-w-Warszawie-Rynek-wtorny-znowu-drozeje-9161464.html",
-      "title": "Koniec z tanimi mieszkaniami w Warszawie? Ceny znowu wrzuciły wyższy bieg w ogłoszeniach",
-      "content_html": "Choć w większości warszawskich dzielnic średnia wycena mieszkań z drugiej ręki wciąż jest niższa niż przed dwoma laty, a w ujęciu rocznym notowane są wzrosty nieprzekraczające 5 proc., to dane z ostatnich miesięcy dowodzą, że wzrost oczekiwań...",
-      "date_published": "2026-07-06T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hipoteka-na-400-tys-zl-Na-jaka-rate-sie-przygotowac-9163123.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hipoteka-na-400-tys-zl-Na-jaka-rate-sie-przygotowac-9163123.html",
-      "title": "Hipoteka na 400 tys. zł. Na jaką ratę się przygotować?",
-      "content_html": "Kredyty hipoteczne nieco staniały w ostatnich tygodniach, a wizja podwyżek stóp procentowych zniknęła z horyzontu. Potencjalni kredytobiorcy w końcu mają powód do zadowolenia. Podpowiadamy, na co trzeba się przyszykować, jeśli myślimy o 400-tysięcznym...",
-      "date_published": "2026-07-06T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najlepsze-konta-oszczednosciowe-lipiec-2026-r-W-czolowce-oferta-bez-dodatkowych-warunkow-9163317.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najlepsze-konta-oszczednosciowe-lipiec-2026-r-W-czolowce-oferta-bez-dodatkowych-warunkow-9163317.html",
-      "title": "Ranking kont oszczędnościowych. Ponad 6% dla kwoty 20 tys. zł",
-      "content_html": "W lipcowym rankingu kont oszczędnościowych Bankier.pl sprawdzamy oferty dla wkładu 20 000 zł. Podium zdominowały rachunki dla nowych klientów, na czele z propozycją na 6,10 proc. w skali roku. Jeden z banków w czołówce całkowicie zrezygnował...",
-      "date_published": "2026-07-06T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trzech-byly-prezesow-banku-centralnego-Bangladeszu-pod-lupa-W-tle-kradziez-rezerw-z-Nowego-Jorku-korupcja-dodruk-pieniadza-i-pranie-brudnych-pieniedzy-9163327.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trzech-byly-prezesow-banku-centralnego-Bangladeszu-pod-lupa-W-tle-kradziez-rezerw-z-Nowego-Jorku-korupcja-dodruk-pieniadza-i-pranie-brudnych-pieniedzy-9163327.html",
-      "title": "Kradzież rezerw z Nowego Jorku, korupcja, dodruk i pranie brudnych pieniędzy. Byli prezesi banku centralnego Bangladeszu pod lupą",
-      "content_html": "Bangladeska Komisja Antykorupcyjna (ACC) zaciska pętlę wokół trzech byłych prezesów banku centralnego. Śledczy analizują dokumenty dotyczące m.in. dodruku pieniądza, manipulowania limitami zaangażowania oraz słynnego cybernapadu na rezerwy...",
-      "date_published": "2026-07-06T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/To-rok-urodzenia-decyduje-czy-inwestor-woli-akcje-obligacje-czy-zloto-9163382.html",
-      "url": "https://www.bankier.pl/wiadomosc/To-rok-urodzenia-decyduje-czy-inwestor-woli-akcje-obligacje-czy-zloto-9163382.html",
-      "title": "To rok urodzenia decyduje, czy inwestor woli akcje, obligacje, czy złoto?",
-      "content_html": "Jeden rocznik pamięta inflację, która zjadała pensję, inny - pierwszą hossę polskiej giełdy. Jeszcze kolejny - fundusze akcji kupowane tuż przed 2008 r. Najmłodsi zaczęli od kryptowalut, pandemicznego krachu i późniejszego rajdu spółek...",
-      "date_published": "2026-07-06T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niewiarygodna-decyzja-FIFA-Taka-sytuacja-miala-miejsce-ostatnio-w-1962-roku-9163852.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niewiarygodna-decyzja-FIFA-Taka-sytuacja-miala-miejsce-ostatnio-w-1962-roku-9163852.html",
-      "title": "Niewiarygodna decyzja FIFA. Taka sytuacja miała miejsce ostatnio w 1962 roku",
-      "content_html": "Prezydent USA Donald Trump osobiście zadzwonił do sekretarza generalnego FIFA Gianniego Infantino, by federacja zrewidowała decyzję o zawieszeniu napastnika reprezentacji USA Folarina Baloguna - podały media. FIFA ogłosiła decyzję o zawieszeniu...",
-      "date_published": "2026-07-06T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanie-zredukuja-sily-w-Hiszpanii-Resort-obrony-w-Madrycie-nie-wiemy-9163848.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanie-zredukuja-sily-w-Hiszpanii-Resort-obrony-w-Madrycie-nie-wiemy-9163848.html",
-      "title": "Amerykanie zredukują siły w Hiszpanii? Resort obrony w Madrycie: nie wiemy",
-      "content_html": "Rząd w Madrycie nie ma żadnych informacji, aby USA chciały ograniczyć obecność w użytkowanych przez nie hiszpańskich bazach wojskowych Rota i Moron – oświadczyła ministra obrony Hiszpanii Margarita Robles w opublikowanym w niedzielę wywiadzie...",
-      "date_published": "2026-07-05T23:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Netanjahu-Chrzescijanskie-wioski-w-Libanie-prosza-nas-o-aneksje-9163846.html",
-      "url": "https://www.bankier.pl/wiadomosc/Netanjahu-Chrzescijanskie-wioski-w-Libanie-prosza-nas-o-aneksje-9163846.html",
-      "title": "Netanjahu: Chrześcijańskie wioski w Libanie proszą nas o aneksję",
-      "content_html": "Premier Benjamin Netanjahu powiedział w wywiadzie dla telewizji Fox News, że chrześcijańskie wioski w Libanie proszą Izrael o aneksję, ponieważ chcą być chronione przed Hezbollahem. Dodał, że o ochronę proszą też Izrael Druzowie i niektórzy...",
-      "date_published": "2026-07-05T23:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-spotka-sie-z-Zelenskim-W-tle-zamrozony-front-i-miliardy-na-uzbrojenie-9163830.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-spotka-sie-z-Zelenskim-W-tle-zamrozony-front-i-miliardy-na-uzbrojenie-9163830.html",
-      "title": "Trump spotka się z Zełenskim. W tle zamrożony front i miliardy na uzbrojenie",
-      "content_html": "Prezydent USA Donald Trump spotka się z prezydentem Ukrainy Wołodymyrem Zełenskim przy okazji szczytu NATO w Ankarze - poinformował ambasador USA przy Sojuszu Matthew Whitaker. Podczas szczytu Trump zamierza sprawdzić postępy sojuszników w sprawie...",
-      "date_published": "2026-07-05T21:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-powrot-Turcji-na-salony-NATO-znow-potrzebuje-Erdogana-9163826.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-powrot-Turcji-na-salony-NATO-znow-potrzebuje-Erdogana-9163826.html",
-      "title": "Wielki powrót Turcji na salony. NATO znów potrzebuje Erdogana",
-      "content_html": "Sojusz Północnoatlantycki znów potrzebuje prezydenta Turcji Recepa Tayyipa Erdogana – zauważył hiszpański dziennik „El Mundo” w niedzielę przed zbliżającym się szczytem NATO w Ankarze. Odbędzie się on 7-8 lipca.",
-      "date_published": "2026-07-05T21:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
