@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraincy-nekaja-rosyjskie-rafinerie-Kreml-zakazuje-eksportu-i-zaczyna-import-paliw-9165557.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraincy-nekaja-rosyjskie-rafinerie-Kreml-zakazuje-eksportu-i-zaczyna-import-paliw-9165557.html",
+      "title": "Ukraińcy nękają rosyjskie rafinerie. Kreml zakazuje eksportu i zaczyna import paliw",
+      "content_html": "Wicepremier Rosji Aleksandr Nowak ogłosił w środę, że rząd wprowadził zakaz eksportu oleju napędowego i zacznie kupować produkty naftowe na rynkach zagranicznych. Decyzja ta zapadła w obliczu niedoboru paliw i gwałtownego wzrostu cen na stacjach...",
+      "date_published": "2026-07-08T20:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-spotkal-sie-z-Zelenskim-Nie-udalo-nam-sie-rozwiazac-kwestii-historycznych-9165539.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Nawrocki-spotkal-sie-z-Zelenskim-Nie-udalo-nam-sie-rozwiazac-kwestii-historycznych-9165539.html",
+      "title": "Prezydent Nawrocki spotkał się z Zełenskim. \"Nie udało nam się rozwiązać kwestii historycznych\"",
+      "content_html": "Prezydent Karol Nawrocki poinformował w środę po rozmowie z prezydentem Ukrainy Wołodymyrem Zełenskim, że zarówno Polska, jak i Ukraina, patrzą w tym samym kierunku, jeśli chodzi o zagrożenia dla niepodległości. Jak dodał dla obu państw...",
+      "date_published": "2026-07-08T19:47:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Upadek-legendy-KSW-Mamed-Ch-winny-paserstwa-i-podpalen-9165531.html",
+      "url": "https://www.bankier.pl/wiadomosc/Upadek-legendy-KSW-Mamed-Ch-winny-paserstwa-i-podpalen-9165531.html",
+      "title": "Upadek legendy KSW. Mamed Ch. winny paserstwa i podpaleń",
+      "content_html": "Sąd Rejonowy w Tarnowskich Górach nieprawomocnie skazał zawodnika MMA Mameda Ch. na łączną karę 1,5 roku więzienia oraz 280 tys. zł grzywny. Sprawa dotyczyła m.in. nabywania samochodów pochodzących z przestępstw, zlecenia zniszczenia mienia...",
+      "date_published": "2026-07-08T19:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Na-obnizki-stop-przyjdzie-nam-poczekac-Przelom-dopiero-w-2027-roku-9165525.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-obnizki-stop-przyjdzie-nam-poczekac-Przelom-dopiero-w-2027-roku-9165525.html",
+      "title": "Na obniżki stóp przyjdzie nam poczekać. Przełom dopiero w 2027 roku",
+      "content_html": "Najnowsza projekcja NBP sygnalizuje szanse na obniżki stóp w 2027 r. - oceniają ekonomiści PKO BP i BOŚ. Negatywny scenariusz w zw. z cenami energii może opóźniać obniżki stóp, ale nie powinien przynieść konieczności zacieśnienia polityki...",
+      "date_published": "2026-07-08T19:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NATO-gotowe-na-obrone-wschodniej-flanki-Nawrocki-Cele-Polski-zostaly-w-pelni-zrealizowane-9165516.html",
       "url": "https://www.bankier.pl/wiadomosc/NATO-gotowe-na-obrone-wschodniej-flanki-Nawrocki-Cele-Polski-zostaly-w-pelni-zrealizowane-9165516.html",
       "title": "NATO gotowe na obronę wschodniej flanki. Nawrocki: Cele Polski zostały w pełni zrealizowane",
@@ -424,6 +452,20 @@
       "date_published": "2026-07-08T09:10:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-ida-w-dol-Na-Bliskim-Wschodzie-znow-niespokojnie-9165058.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-ida-w-dol-Na-Bliskim-Wschodzie-znow-niespokojnie-9165058.html",
+      "title": "Ceny miedzi w Londynie idą w dół. Na Bliskim Wschodzie znów niespokojnie",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie spadają. Inwestorzy oceniają wpływ wznowionych działań zbrojnych na Bliskim Wschodzie na dostawy energii i aktywa ryzykowne - informują maklerzy.",
+      "date_published": "2026-07-08T09:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-gwaltownie-drozeje-Reakcja-rynkow-na-wymiane-ciosow-miedzy-USA-a-Iranem-9165055.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-gwaltownie-drozeje-Reakcja-rynkow-na-wymiane-ciosow-miedzy-USA-a-Iranem-9165055.html",
+      "title": "Ropa gwałtownie drożeje. Reakcja rynków na wymianę ciosów między USA a Iranem",
+      "content_html": "Ropa na świecie mocno drożeje w trakcie sesji w środę w reakcji na nasilenie działań odwetowych na linii USA-Iran - podają maklerzy.",
+      "date_published": "2026-07-08T08:51:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Protesty-NATO-precz-Tysiace-policjantow-na-ulicach-Ankary-i-masowe-zatrzymania-9164993.html",
       "url": "https://www.bankier.pl/wiadomosc/Protesty-NATO-precz-Tysiace-policjantow-na-ulicach-Ankary-i-masowe-zatrzymania-9164993.html",
       "title": "Protesty \"NATO precz\". Tysiące policjantów na ulicach Ankary i masowe zatrzymania",
@@ -660,34 +702,6 @@
       "title": "Z SOR-u w Warszawie do szpitala w Częstochowie. Tu także zarabiał Dawid Kacprzyk",
       "content_html": "Dawid Kacprzyk w 2025 r., w którym miał zarobić 1,6 mln zł, pracował także w Wojewódzkim Szpitalu Specjalistycznym im. Najświętszej Maryi Panny w Częstochowie. Jak poinformował PAP szpital, lekarz otrzymał wynagrodzenie według obowiązującej...",
       "date_published": "2026-07-07T21:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-w-elitarnym-gronie-NATO-Przekroczymy-nowy-wysrubowany-prog-wydatkow-9164926.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-w-elitarnym-gronie-NATO-Przekroczymy-nowy-wysrubowany-prog-wydatkow-9164926.html",
-      "title": "Polska w elitarnym gronie NATO. Przekroczymy nowy, wyśrubowany próg wydatków",
-      "content_html": "Pięć państw członkowskich NATO, w tym Polska, już w tym roku osiągnie wyznaczony przez Sojusz Północnoatlantycki cel w postaci przeznaczenia 3,5 proc. PKB na podstawowe wydatki obronne - wynika z opublikowanych we wtorek, w pierwszym dniu szczytu...",
-      "date_published": "2026-07-07T20:47:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szokujacy-pozew-w-USA-Sluzby-wydaly-iranskiemu-rezimowi-dane-uchodzcow-9164927.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szokujacy-pozew-w-USA-Sluzby-wydaly-iranskiemu-rezimowi-dane-uchodzcow-9164927.html",
-      "title": "Szokujący pozew w USA. Służby wydały irańskiemu reżimowi dane uchodźców",
-      "content_html": "Służby imigracyjne Donalda Trumpa miały dzielić się z rządem Iranu poufnymi informacjami na temat Irańczyków ubiegających się o azyl w USA, narażając ich na niebezpieczeństwo i łamiąc amerykańskie przepisy – wynika z pozwu wniesionego...",
-      "date_published": "2026-07-07T20:47:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PO-i-PiS-mowia-jednym-glosem-w-PE-Zadne-euro-na-oddzialy-imienia-zbrodniarzy-9164886.html",
-      "url": "https://www.bankier.pl/wiadomosc/PO-i-PiS-mowia-jednym-glosem-w-PE-Zadne-euro-na-oddzialy-imienia-zbrodniarzy-9164886.html",
-      "title": "PO i PiS mówią jednym głosem w PE: Żadne euro na oddziały imienia zbrodniarzy",
-      "content_html": "Europosłowie: PO - Andrzej Halicki i PiS - Michał Dworczyk, we wtorek w PE podkreślali, że Ukraina musi przestrzegać europejskich wartości, by była w UE. Według Halickiego to oznacza, że nie może gloryfikować tych, którzy dokonywali działań...",
-      "date_published": "2026-07-07T20:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AmRest-zawarl-umowe-nowacji-zwiekszyl-transze-rewolwingowa-o-kwote-do-100-mln-euro-9164919.html",
-      "url": "https://www.bankier.pl/wiadomosc/AmRest-zawarl-umowe-nowacji-zwiekszyl-transze-rewolwingowa-o-kwote-do-100-mln-euro-9164919.html",
-      "title": "AmRest zawarł umowę nowacji. Zwiększył transzę rewolwingową o kwotę do 100 mln euro",
-      "content_html": "AmRest zawarł umowę nowacji, zmiany oraz przedłużenia okresu obowiązywania umowy finansowania - podała spółka w komunikacie. Warunki umowy nowacyjnej obejmują m.in. zwiększenie transzy odnawialnej (rewolwingowej) o dodatkową kwotę do 100 mln...",
-      "date_published": "2026-07-07T20:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
