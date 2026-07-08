@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-VI-439-5-mln-zl-przychodow-o-15-1-proc-wiecej-rdr-szacunki-9165287.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-VI-439-5-mln-zl-przychodow-o-15-1-proc-wiecej-rdr-szacunki-9165287.html",
+      "title": "Grupa Auto Partner miała w VI 439,5 mln zł przychodów, o 15,1 proc. więcej rdr - szacunki Grupa Auto Partner szacuje, że w czerwcu 2026 roku wypracowała 439,5 mln zł przychodów, co stanowi wzrost o 15,1 proc. rdr - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-08T13:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rentownosc-polskich-obligacji-byla-najnizsza-od-4-miesiecy-9164559.html",
       "url": "https://www.bankier.pl/wiadomosc/Rentownosc-polskich-obligacji-byla-najnizsza-od-4-miesiecy-9164559.html",
       "title": "Rentowność polskich obligacji była najniższa od 4 miesięcy. Ale już nie jest Spadek notowań ropy naftowej zdjął z rynku oczekiwania na podwyżki stóp procentowych w Polsce. A to sprawiło, że rentowności polskiego długu skarbowego powróciły do poziomów z początku marca. A następnie poszły w górę za sprawą eskalacji napięcia na Bliskim Wschodzie.",
@@ -387,20 +394,6 @@
       "title": "Bio Planet tnie koszty i stawia na maszyny. Nowy zakład ma przynieść potężny wzrost Bio Planet, dostawca żywności ekologicznej, wypracował w I półroczu 2026 roku 167,9 mln zł przychodów, więcej o 9 proc. rdr. Spółka spodziewa się zbliżonych wyników w całym roku oraz spodziewa się zwiększenia tempa wzrostu w III kwartale 2027 roku po uruchomieniu zakładów konfekcjonowania w Lesznie - powiedział prezes Bio Planet.",
       "content_html": "",
       "date_published": "2026-07-06T14:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Inpro-sprzedala-w-II-kw-158-lokali-9164062.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Inpro-sprzedala-w-II-kw-158-lokali-9164062.html",
-      "title": "Grupa Inpro sprzedała w II kw. 158 lokali Grupa Inpro sprzedała w drugim kwartale 2026 roku 158 lokali - podał deweloper w komunikacie. W tym czasie spółka przekazała łącznie 89 lokali.",
-      "content_html": "",
-      "date_published": "2026-07-06T12:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KGHM-chce-byc-spolka-dywidendowa-prezes-9164019.html",
-      "url": "https://www.bankier.pl/wiadomosc/KGHM-chce-byc-spolka-dywidendowa-prezes-9164019.html",
-      "title": "KGHM chce być spółką dywidendową. Zakładane w strategii nakłady na inwestycje mogą się zwiększyć KGHM chce być spółką dywidendową - poinformował prezes podczas konferencji dotyczącej strategii 2055+.",
-      "content_html": "",
-      "date_published": "2026-07-06T12:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
