@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-przewaga-spadkow-Trump-grozi-nowymi-atakami-na-Iran-9165618.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-przewaga-spadkow-Trump-grozi-nowymi-atakami-na-Iran-9165618.html",
+      "title": "Na Wall Street przewaga spadków. Trump grozi nowymi atakami na Iran Środowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów z powodu nowych napięć w stosunkach USA z Iranem. W związku z groźbą prezydenta Donalda Trumpa kolejnych ataków na ten kraj w środę mocno drożała ropa naftowa.",
+      "content_html": "",
+      "date_published": "2026-07-09T06:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gieldowe-kasyno-w-Korei-Pld-Sztuczna-inteligencja-i-rzesza-mrowek-wykreowaly-hosse-stulecia-ktora-wkroczyla-wlasnie-w-besse-9165230.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldowe-kasyno-w-Korei-Pld-Sztuczna-inteligencja-i-rzesza-mrowek-wykreowaly-hosse-stulecia-ktora-wkroczyla-wlasnie-w-besse-9165230.html",
+      "title": "Giełdowe kasyno w Korei Płd. Sztuczna inteligencja i rzesza „mrówek” wykreowały hossę stulecia, która wkroczyła właśnie w bessę Giełda w Korei Południowej stała się w ostatnich miesiącach najbardziej rozgrzanym parkietem finansowym świata. Główny indeks koreańskiej giełdy, KOSPI, zanotował spektakularny rajd, a jego stopa zwrotu za ostatnie dwanaście miesięcy zbliżyła się do niemal dwustu procent. Hossę stulecia napędza globalna rewolucja związana ze sztuczną inteligencją, ale też fala milionów inwestorów, którzy na koreańskiej giełdzie stawiają wszystko na jedną kartę, by odmienić swoje życie. Czy najbardziej gorąca giełda świata stała się kasynem, a koreański piękny sen może przeobrazić się w koszmar?",
+      "content_html": "",
+      "date_published": "2026-07-09T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prezydent-USA-znow-zamieszal-w-rynkowym-kotle-GPW-jednak-wyjatkowo-odporna-9165499.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezydent-USA-znow-zamieszal-w-rynkowym-kotle-GPW-jednak-wyjatkowo-odporna-9165499.html",
       "title": "SESJA NA GPW Prezydent USA znów zamieszał w rynkowym kotle. GPW jednak wyjątkowo odporna Po wypowiedziach Donalda Trumpa dotyczących zerwania porozumienia z Iranem, na rynkach akcji doszło do wyraźnej przeceny, a ceny ropy znów wystrzeliły. Warszawski parkiet ucierpiał jednak znacznie mniej niż główne giełdy w Europie. Choć początkowo indeks WIG20 gwałtownie pikował, popołudniowe odrabianie strat sprawiło że WIG20 wyglądał na jeden z relatywnie silniejszych indeksów na Starym Kontynencie.",
@@ -121,13 +135,6 @@
       "title": "VIGO Photonics miało w II kw. 34,7 mln zł skons. przychodów, o 70,8 proc. więcej rdr VIGO Photonics w drugim kwartale 2026 roku miało 34,7 mln zł skonsolidowanych przychodów, co oznacza wzrost o 70,8 proc. rdr - podała spółka w komunikacie. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-07-08T08:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-znow-pod-ochrona-Rzad-gotowy-wrocic-do-programu-oslonowego-9165069.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-znow-pod-ochrona-Rzad-gotowy-wrocic-do-programu-oslonowego-9165069.html",
-      "title": "Ceny paliw znów pod ochroną? Rząd gotowy wrócić do programu osłonowego Rząd jest gotowy powrócić do działań osłonowych na rynku paliw w przypadku eskalacji sytuacji na Bliskim Wschodzie - poinformował w RMF FM minister energii Miłosz Motyka.",
-      "content_html": "",
-      "date_published": "2026-07-08T08:30:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Creotech-Instruments-uzyskal-lacznosci-z-satelita-Mikroglob-1-9165064.html",
@@ -373,13 +380,6 @@
       "title": "BM PKO BP podniósł cenę docelową Text do 57 zł Analitycy BM PKO BP, w raporcie z 6 lipca, podnieśli cenę docelową akcji Text do 57 zł z 45 zł, podtrzymując rekomendację \"kupuj\".",
       "content_html": "",
       "date_published": "2026-07-07T08:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-stop-juz-nie-ruszy-A-co-nam-pokaze-lipcowa-projekcja-inflacyjna-NBP-9164071.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-stop-juz-nie-ruszy-A-co-nam-pokaze-lipcowa-projekcja-inflacyjna-NBP-9164071.html",
-      "title": "Rada stóp już nie ruszy? A co nam pokaże lipcowa projekcja inflacyjna NBP? Jeszcze miesiąc temu mogliśmy się zastanawiać, kiedy dojdzie do pierwszej od kilka lat podwyżki stóp procentowych w Polsce. Teraz możemy wrócić do spekulacji o następnych obniżkach kosztów kredytu.",
-      "content_html": "",
-      "date_published": "2026-07-07T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
