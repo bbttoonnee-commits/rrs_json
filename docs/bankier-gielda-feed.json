@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iron-Wolf-Studio-rozpoczal-przeglad-opcji-strategicznych-9166157.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iron-Wolf-Studio-rozpoczal-przeglad-opcji-strategicznych-9166157.html",
+      "title": "Iron Wolf Studio rozpoczął przegląd opcji strategicznych Iron Wolf Studio rozpoczął przegląd opcji strategicznych - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-09T20:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Archicom-sprzedal-w-II-kw-719-lokali-wobec-632-przed-rokiem-9166132.html",
       "url": "https://www.bankier.pl/wiadomosc/Archicom-sprzedal-w-II-kw-719-lokali-wobec-632-przed-rokiem-9166132.html",
       "title": "Archicom sprzedał w II kw. 719 lokali wobec 632 przed rokiem Grupa Archicom, w ramach działalności grupy oraz w ramach zarządzania projektami mieszkaniowymi dla grupy Echo Investment, zawarła w drugim kwartale 2026 roku 719 przedwstępnych umów sprzedaży lokali i umów deweloperskich w porównaniu do 632 umów zawartych w drugim kwartale 2025 r. - podał Archicom w komunikacie.",
@@ -352,13 +359,6 @@
       "title": "Znów zamieszanie w półprzewodnikach. Nasdaq mocno w dół Nasdaq zaliczył solidna przecenę, ale Dow Jones wyznaczył nowy rekord wszech czasów.",
       "content_html": "",
       "date_published": "2026-07-07T22:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AmRest-zawarl-umowe-nowacji-zwiekszyl-transze-rewolwingowa-o-kwote-do-100-mln-euro-9164919.html",
-      "url": "https://www.bankier.pl/wiadomosc/AmRest-zawarl-umowe-nowacji-zwiekszyl-transze-rewolwingowa-o-kwote-do-100-mln-euro-9164919.html",
-      "title": "AmRest zawarł umowę nowacji. Zwiększył transzę rewolwingową o kwotę do 100 mln euro AmRest zawarł umowę nowacji, zmiany oraz przedłużenia okresu obowiązywania umowy finansowania - podała spółka w komunikacie. Warunki umowy nowacyjnej obejmują m.in. zwiększenie transzy odnawialnej (rewolwingowej) o dodatkową kwotę do 100 mln euro w celu finansowania potrzeb kapitału obrotowego grupy.",
-      "content_html": "",
-      "date_published": "2026-07-07T19:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
