@@ -11,6 +11,13 @@
       "date_published": "2026-07-11T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dekpol-w-I-polroczu-sprzedal-262-lokale-9166756.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dekpol-w-I-polroczu-sprzedal-262-lokale-9166756.html",
+      "title": "Dekpol w I półroczu sprzedał 262 lokale",
+      "content_html": "Dekpol w pierwszym półroczu 2026 roku sprzedał 262 lokale - podał deweloper w komunikacie.",
+      "date_published": "2026-07-10T22:04:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Centralna-e-kolejka-i-zakaz-spolek-lekarskich-Tusk-zapowiada-rewolucje-od-wrzesnia-9166500.html",
       "url": "https://www.bankier.pl/wiadomosc/Centralna-e-kolejka-i-zakaz-spolek-lekarskich-Tusk-zapowiada-rewolucje-od-wrzesnia-9166500.html",
       "title": "Centralna e-kolejka i zakaz \"spółek lekarskich\". Tusk zapowiada rewolucję od września",
@@ -695,13 +702,6 @@
       "title": "Udana misja SpaceX. Falcon 9 dostarczył 29 satelitów Starlink",
       "content_html": "Firma SpaceX z powodzeniem wyniosła w czwartek na niską orbitę okołoziemską 29 kolejnych satelitów systemu Starlink. Była to 36. misja tego typu przeprowadzona przy użyciu rakiety Falcon 9, a całe przedsięwzięcie zakończyło się pełnym sukcesem...",
       "date_published": "2026-07-10T06:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Planowali-atak-na-gale-MMA-przy-Bialym-Domu-Oskarzono-8-osob-9166208.html",
-      "url": "https://www.bankier.pl/wiadomosc/Planowali-atak-na-gale-MMA-przy-Bialym-Domu-Oskarzono-8-osob-9166208.html",
-      "title": "Planowali atak na galę MMA przy Białym Domu. Oskarżono 8 osób",
-      "content_html": "Ośmiu mężczyzn zostało w czwartek formalnie oskarżonych o udział w spisku dotyczącym udaremnionego ataku na galę mieszanych sztuk walki, która odbyła się w czerwcu przy Białym Domu.",
-      "date_published": "2026-07-10T05:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
