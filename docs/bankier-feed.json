@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/ME-i-Tauron-beda-wspolpracowac-na-rzecz-rozwoju-wielkoskalowych-magazynow-energii-w-Polsce-9166897.html",
+      "url": "https://www.bankier.pl/wiadomosc/ME-i-Tauron-beda-wspolpracowac-na-rzecz-rozwoju-wielkoskalowych-magazynow-energii-w-Polsce-9166897.html",
+      "title": "ME i Tauron będą współpracować na rzecz rozwoju wielkoskalowych magazynów energii w Polsce",
+      "content_html": "Ministerstwo Energii i Grupa Tauron będą współpracować na rzecz rozwoju wielkoskalowych magazynów energii w Polsce - wynika z zaproszenia na konferencję prasową. 13 lipca zostanie podpisany list intencyjny wyznaczający kierunki współpracy.",
+      "date_published": "2026-07-11T18:38:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zamordowani-nie-moga-pozostac-bezimienni-Tusk-o-nowym-Murze-Pamieci-9166833.html",
       "url": "https://www.bankier.pl/wiadomosc/Zamordowani-nie-moga-pozostac-bezimienni-Tusk-o-nowym-Murze-Pamieci-9166833.html",
       "title": "\"Zamordowani nie mogą pozostać bezimienni\". Tusk o nowym Murze Pamięci",
@@ -275,13 +282,6 @@
       "title": "Koniec zawieszenia broni. Trump stawia sprawę jasno i ostrzega Iran",
       "content_html": "Zgodziliśmy się kontynuować rozmowy z Iranem, ale Stany Zjednoczone jasno oświadczyły, że zawieszenie broni się skończyło - napisał w piątek prezydent USA Donald Trump. Według mediów katarscy mediatorzy odbywają rozmowy z przedstawicielami...",
       "date_published": "2026-07-10T20:23:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pepco-Group-sfinalizowalo-sprzedaz-Dealz-Poland-na-rzecz-Modella-Capital-9166734.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pepco-Group-sfinalizowalo-sprzedaz-Dealz-Poland-na-rzecz-Modella-Capital-9166734.html",
-      "title": "Pepco sfinalizowało sprzedaż Dealz Poland. Koniec z artykułami spożywczymi",
-      "content_html": "Pepco Group sfinalizowało wcześniej zapowiadaną sprzedaż Dealz Poland na rzecz Modella Acquisition Co 17 Limited, podmiotu powiązanego z Modella Capital - poinformowało Pepco Group w komunikacie. Finalizacja nastąpiła po uzyskaniu przez Modella...",
-      "date_published": "2026-07-10T20:12:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Turcja-chce-odsprzedac-rosyjski-system-rakietowy-by-kupic-F-35-od-USA-9166722.html",
@@ -695,13 +695,6 @@
       "title": "Ceny ropy w USA spadają. Rynki oceniają sytuację w cieśninie Ormuz",
       "content_html": "Ceny ropy w USA idą w dół. Inwestorzy obawiają się o ponowne zakłócenia w dostawach po wznowieniu walk między USA i Iranem w tym tygodniu, które ograniczyły żeglugę w cieśninie Ormuz.",
       "date_published": "2026-07-10T09:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drago-Entertainment-ustalil-termin-wydania-darmowego-dema-gry-Roadhouse-Simulator-na-Steam-na-13-VIII-9166290.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drago-Entertainment-ustalil-termin-wydania-darmowego-dema-gry-Roadhouse-Simulator-na-Steam-na-13-VIII-9166290.html",
-      "title": "Drago Entertainment ustalił termin wydania darmowego dema gry: \"Roadhouse Simulator\" na Steam",
-      "content_html": "Drago Entertainment ustalił termin wydania darmowego dema gry: \"Roadhouse Simulator\" na platformie Steam na 13 sierpnia 2026 roku - podała spółka w komunikacie.",
-      "date_published": "2026-07-10T09:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

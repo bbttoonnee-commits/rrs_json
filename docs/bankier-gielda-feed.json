@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/ME-i-Tauron-beda-wspolpracowac-na-rzecz-rozwoju-wielkoskalowych-magazynow-energii-w-Polsce-9166897.html",
+      "url": "https://www.bankier.pl/wiadomosc/ME-i-Tauron-beda-wspolpracowac-na-rzecz-rozwoju-wielkoskalowych-magazynow-energii-w-Polsce-9166897.html",
+      "title": "ME i Tauron będą współpracować na rzecz rozwoju wielkoskalowych magazynów energii w Polsce Ministerstwo Energii i Grupa Tauron będą współpracować na rzecz rozwoju wielkoskalowych magazynów energii w Polsce - wynika z zaproszenia na konferencję prasową. 13 lipca zostanie podpisany list intencyjny wyznaczający kierunki współpracy.",
+      "content_html": "",
+      "date_published": "2026-07-11T17:38:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielka-wojna-gigantow-Apple-pozywa-OpenAI-za-kradziez-tajemnic-handlowych-9166782.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielka-wojna-gigantow-Apple-pozywa-OpenAI-za-kradziez-tajemnic-handlowych-9166782.html",
       "title": "Wielka wojna gigantów. Apple pozywa OpenAI za kradzież tajemnic handlowych Apple wniosło pozew przeciwko OpenAI do sądu w Północnej Kalifornii zarzucając firmie kradzież tajemnic handlowych - poinformowało CNBC powołując się na dokument sądowy.",
@@ -219,20 +226,6 @@
       "title": "II kwartał dobry dla GPW. W grze niemal 16 miliardów złotych Łączna wartość transakcji kapitałowych na Głównym Rynku GPW w II kwartale wyniosła 15,8 mld zł - poinformowała GPW w raporcie.",
       "content_html": "",
       "date_published": "2026-07-09T18:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nikt-nie-patrzy-w-strone-Bliskiego-Wschodu-Rakiety-lataja-a-rynki-rosna-9166087.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nikt-nie-patrzy-w-strone-Bliskiego-Wschodu-Rakiety-lataja-a-rynki-rosna-9166087.html",
-      "title": "Nikt nie patrzy w stronę Bliskiego Wschodu? Rakiety latają, a rynki rosną Czwartkowa sesja na GPW przyniosła wreszcie przewagę kupujących, mimo niepokojących doniesień z Bliskiego Wschodu. Krajowe indeksy od rana poruszały się nad kreską, napędzane świetnymi nastrojami w Europie Zachodniej i na Wall Street.",
-      "content_html": "",
-      "date_published": "2026-07-09T17:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-plan-ratunkowy-dla-PKP-Cargo-Splata-dlugow-poprzez-emisje-akcji-najlepszym-rozwiazaniem-9166079.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-plan-ratunkowy-dla-PKP-Cargo-Splata-dlugow-poprzez-emisje-akcji-najlepszym-rozwiazaniem-9166079.html",
-      "title": "Wielki plan ratunkowy dla PKP Cargo. Spłata długów poprzez emisję akcji najlepszym rozwiązaniem Spłata długów PKP Cargo poprzez emisję akcji jest w tym momencie najlepszym rozwiązaniem zarówno dla wierzycieli i akcjonariuszy, jak i samej spółki - poinformowała w czwartek firma. Podtrzymała założenia, zgodnie z którymi zadłużenie spółki zostanie spłacone do końca 2027 r.",
-      "content_html": "",
-      "date_published": "2026-07-09T17:20:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
