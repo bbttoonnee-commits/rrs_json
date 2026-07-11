@@ -39,6 +39,20 @@
       "date_published": "2026-07-11T18:38:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sikorski-o-nowej-roli-USA-Beda-jak-kawaleria-za-wzgorzem-a-nie-piechota-na-miejscu-9166896.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sikorski-o-nowej-roli-USA-Beda-jak-kawaleria-za-wzgorzem-a-nie-piechota-na-miejscu-9166896.html",
+      "title": "Sikorski o nowej roli USA: Będą jak \"kawaleria za wzgórzem\", a nie piechota na miejscu",
+      "content_html": "Szef MSZ, wicepremier Radosław Sikorski powiedział w sobotę PAP w Rzymie, że siły Stanów Zjednoczonych w Europie, które mają zostać zmniejszone, będą jak „kawaleria za wzgórzem”, a nie piechota na miejscu. Zastrzegł zarazem, że amerykańskie...",
+      "date_published": "2026-07-11T18:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nauczyciele-na-stacjach-benzynowych-Nadzwyczajne-kroki-Kremla-w-walce-z-kryzysem-paliwowym-9166895.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nauczyciele-na-stacjach-benzynowych-Nadzwyczajne-kroki-Kremla-w-walce-z-kryzysem-paliwowym-9166895.html",
+      "title": "Nauczyciele na stacjach benzynowych. Nadzwyczajne kroki Kremla w walce z kryzysem paliwowym",
+      "content_html": "W niektórych regionach Rosji władze angażują nauczycieli i urzędników do dyżurowania na stacjach paliw, gdzie ich zadaniem jest uspokajanie kierowców i pilnowanie porządku w kolejkach. Działania te są odpowiedzią na pogłębiający się niedobór...",
+      "date_published": "2026-07-11T18:33:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/148-wezow-w-piwnicy-Mieszkaniec-Krakowa-pod-lupa-prokuratury-9164816.html",
       "url": "https://www.bankier.pl/wiadomosc/148-wezow-w-piwnicy-Mieszkaniec-Krakowa-pod-lupa-prokuratury-9164816.html",
       "title": "148 wężów w piwnicy. Mieszkaniec Krakowa pod lupą prokuratury",
@@ -51,6 +65,13 @@
       "title": "Najwyższy przywódca Iranu zapowiada zemstę za zabicie swojego ojca i poprzednika",
       "content_html": "Najwyższy przywódca duchowo-polityczny Iranu Modżtaba Chamenei zapowiedział zemstę za zabicie swojego ojca i poprzednika, Alego Chameneiego. Irański przywódca zginął w amerykańsko-izraelskim ataku cztery miesiące temu, ale w związku z wojną...",
       "date_published": "2026-07-11T14:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-zmodernizuje-ukrainskie-MiG-i-ale-nie-za-wlasne-pieniadze-Kosiniak-Kamysz-stawia-warunek-9166866.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-zmodernizuje-ukrainskie-MiG-i-ale-nie-za-wlasne-pieniadze-Kosiniak-Kamysz-stawia-warunek-9166866.html",
+      "title": "Polska zmodernizuje ukraińskie MiG-i, ale nie za własne pieniądze. Kosiniak-Kamysz stawia warunek",
+      "content_html": "Polska może pomóc Ukrainie w sprawie modernizacji samolotów MiG-29, ale koszty są po jej stronie lub krajów sojuszniczych, które będą chciały je ponieść – podkreślił w sobotę wicepremier, szef MON Władysław Kosiniak-Kamysz.",
+      "date_published": "2026-07-11T14:28:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zamordowani-nie-moga-pozostac-bezimienni-Tusk-o-nowym-Murze-Pamieci-9166833.html",
@@ -681,13 +702,6 @@
       "title": "Victoria Dom sprzedała w I półr. 2026 roku 803 mieszkania, czyli o 33 proc. więcej rdr",
       "content_html": "Victoria Dom sprzedała w pierwszym półroczu 2026 roku 803 mieszkania, w porównaniu do 603 mieszkań w analogicznym okresie 2025 r., co oznacza wzrost o 33 proc. rdr - podała spółka w komunikacie prasowym.",
       "date_published": "2026-07-10T11:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jak-uzywac-Revoluta-do-codziennych-finansow-9166292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-uzywac-Revoluta-do-codziennych-finansow-9166292.html",
-      "title": "Jak używać Revoluta do codziennych finansów?",
-      "content_html": "Revolut daje 100 zł za założenie konta, lecz właściwa wartość aplikacji ujawnia się dopiero w codziennym użyciu. Przedstawiamy ją przez pryzmat konkretnych sytuacji: płatności za granicą, wspólnego rachunku za prąd i odkładania na wakacje...",
-      "date_published": "2026-07-10T11:25:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
