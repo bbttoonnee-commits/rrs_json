@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kto-mistrzem-inwestowania-Rusza-rywalizacja-w-Wakacjach-na-Gieldzie-9167056.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-mistrzem-inwestowania-Rusza-rywalizacja-w-Wakacjach-na-Gieldzie-9167056.html",
+      "title": "Kto mistrzem inwestowania? Rusza rywalizacja w Wakacjach na Giełdzie!",
+      "content_html": "Właśnie wystartował główny etap naszej letniej gry inwestycyjnej Wakacje na Giełdzie! Do zabawy przystąpiło już ponad 2700 osób. Dołącz do nich, sprawdź swój rynkowy instynkt i walcz o cenne nagrody!",
+      "date_published": "2026-07-12T22:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Waszyngtonie-Nie-zyje-senator-Lindsey-Graham-9166987.html",
       "url": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Waszyngtonie-Nie-zyje-senator-Lindsey-Graham-9166987.html",
       "title": "Wstrząs w Waszyngtonie. Nie żyje senator Lindsey Graham",
@@ -23,6 +30,13 @@
       "title": "Katar traci cierpliwość do Iranu. Ostre potępienie rakietowych ataków na bazy USA",
       "content_html": "Katarski MSZ skrytykował w niedzielę ostatnie ataki Iranu na swoje terytorium i sąsiednie państwa, określając je jako niebezpieczną eskalację, która skomplikuje działania na rzecz stabilności w regionie. Katar jest jednym z państw pośredniczących...",
       "date_published": "2026-07-12T21:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gotowka-auta-na-wakacje-smartwatche-i-Sprawdz-nagrody-w-Wakacjach-na-Gieldzie-9167058.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gotowka-auta-na-wakacje-smartwatche-i-Sprawdz-nagrody-w-Wakacjach-na-Gieldzie-9167058.html",
+      "title": "Gotówka, auta na wakacje, smartwatche i... Sprawdź nagrody w Wakacjach na Giełdzie!",
+      "content_html": "W tegorocznej edycji Wakacji na Giełdzie nagradzamy najlepszych nie tylko na koniec rywalizacji, ale także regularnie przez cały czas trwania konkursu. Zobacz pulę nagród i przekonaj się, dlaczego warto dołączyć do rozgrywki!",
+      "date_published": "2026-07-12T21:17:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zrobcie-je-sami-Ekspert-studzi-optymizm-po-zaskakujacej-obietnicy-Trumpa-dla-Kijowa-9166125.html",
@@ -541,34 +555,6 @@
       "title": "Koniec wpływów Kremla albo delegalizacja. Estonia nie patyczkuje się z Cerkwią",
       "content_html": "Resort spraw wewnętrznych Estonii dał Estońskiemu Chrześcijańskiemu Kościołowi Prawosławnemu czas do końca roku na wyznaczenie nowego metropolity i zerwanie więzi z Moskwą oraz patriarchą Cyrylem - poinformował portal „Verkkouutiset”...",
       "date_published": "2026-07-11T06:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dekpol-w-I-polroczu-sprzedal-262-lokale-9166756.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dekpol-w-I-polroczu-sprzedal-262-lokale-9166756.html",
-      "title": "Dekpol w I półroczu sprzedał 262 lokale",
-      "content_html": "Dekpol w pierwszym półroczu 2026 roku sprzedał 262 lokale - podał deweloper w komunikacie.",
-      "date_published": "2026-07-10T22:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Centralna-e-kolejka-i-zakaz-spolek-lekarskich-Tusk-zapowiada-rewolucje-od-wrzesnia-9166500.html",
-      "url": "https://www.bankier.pl/wiadomosc/Centralna-e-kolejka-i-zakaz-spolek-lekarskich-Tusk-zapowiada-rewolucje-od-wrzesnia-9166500.html",
-      "title": "Centralna e-kolejka i zakaz \"spółek lekarskich\". Tusk zapowiada rewolucję od września",
-      "content_html": "Premier Donald Tusk poinformował w piątek, że efekty zapowiedzianych przez MZ zmian w ochronie zdrowia mają być widoczne we wrześniu. Takie zadanie wyznaczyłem resortowi - powiedział szef rządu. Dodał, że ustawy zawierające konkretne rozwiązania...",
-      "date_published": "2026-07-10T21:33:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-Waszyngtonie-Trump-i-Senat-w-sprawie-nowych-sankcji-na-Rosje-9166745.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-Waszyngtonie-Trump-i-Senat-w-sprawie-nowych-sankcji-na-Rosje-9166745.html",
-      "title": "Przełom w Waszyngtonie. Trump i Senat w sprawie nowych sankcji na Rosję",
-      "content_html": "Grupa amerykańskich senatorów z obydwu partii poinformowała w piątek we wspólnym oświadczeniu o zawarciu porozumienia z administracją prezydenta Donalda Trumpa w sprawie ustawy o nowych sankcjach wobec Rosji. Dotychczasowe wysiłki senatorów były...",
-      "date_published": "2026-07-10T21:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Flota-cieni-Putina-idzie-na-dno-Ukraincy-sparalizowali-transport-rosyjskiej-ropy-9166731.html",
-      "url": "https://www.bankier.pl/wiadomosc/Flota-cieni-Putina-idzie-na-dno-Ukraincy-sparalizowali-transport-rosyjskiej-ropy-9166731.html",
-      "title": "\"Flota cieni\" Putina idzie na dno. Ukraińcy sparaliżowali transport rosyjskiej ropy",
-      "content_html": "Jednostki Sił Obrony Ukrainy skutecznie zaatakowały w nocy z czwartku na piątek 18 rosyjskich statków, w tym 13 tankowców floty cieni - poinformował w piątek Sztab Generalny Sił Zbrojnych Ukrainy w komunikatorze Telegram. Oprócz tego przeprowadzono...",
-      "date_published": "2026-07-10T21:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

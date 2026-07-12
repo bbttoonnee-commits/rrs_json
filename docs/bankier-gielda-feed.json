@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kto-mistrzem-inwestowania-Rusza-rywalizacja-w-Wakacjach-na-Gieldzie-9167056.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kto-mistrzem-inwestowania-Rusza-rywalizacja-w-Wakacjach-na-Gieldzie-9167056.html",
+      "title": "Kto mistrzem inwestowania? Rusza rywalizacja w Wakacjach na Giełdzie! Właśnie wystartował główny etap naszej letniej gry inwestycyjnej Wakacje na Giełdzie! Do zabawy przystąpiło już ponad 2700 osób. Dołącz do nich, sprawdź swój rynkowy instynkt i walcz o cenne nagrody!",
+      "content_html": "",
+      "date_published": "2026-07-12T21:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gotowka-auta-na-wakacje-smartwatche-i-Sprawdz-nagrody-w-Wakacjach-na-Gieldzie-9167058.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gotowka-auta-na-wakacje-smartwatche-i-Sprawdz-nagrody-w-Wakacjach-na-Gieldzie-9167058.html",
+      "title": "Gotówka, auta na wakacje, smartwatche i... Sprawdź nagrody w Wakacjach na Giełdzie! W tegorocznej edycji Wakacji na Giełdzie nagradzamy najlepszych nie tylko na koniec rywalizacji, ale także regularnie przez cały czas trwania konkursu. Zobacz pulę nagród i przekonaj się, dlaczego warto dołączyć do rozgrywki!",
+      "content_html": "",
+      "date_published": "2026-07-12T20:17:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-masowo-pakuja-walizki-Wyprzedzaja-nas-juz-tylko-Niemcy-Francja-i-Hiszpania-9164654.html",
       "url": "https://www.bankier.pl/wiadomosc/Polacy-masowo-pakuja-walizki-Wyprzedzaja-nas-juz-tylko-Niemcy-Francja-i-Hiszpania-9164654.html",
       "title": "RAPORT Polacy masowo pakują walizki. Wyprzedzają nas już tylko Niemcy, Francja i Hiszpania Polacy szybko nadrabiają dystans do najbardziej aktywnych turystycznie społeczeństw Europy; popularność podróży rośnie w Polsce szybciej niż średnio w UE - wskazują ekonomiści Banku Pekao. Perspektywy dla sektora turystycznego pozostają bardzo dobre.",
@@ -37,13 +51,6 @@
       "title": "HALO, w tym sektorze mogą czaić się zyski. Wall Street na tropie nowych okazji Zawirowania wokół akcji producentów układów scalonych, ponowne napięcia na Bliskim Wschodzie oraz optymistyczne oceny analityków dotyczące spółki SpaceX, która zadebiutowała w składzie indeksu Nasdaq 100, zaprzątały w tym tygodniu głowy globalnych inwestorów. Eksperci wskazują, że na rynku wciąż można znaleźć branże z ogromnym potencjałem.",
       "content_html": "",
       "date_published": "2026-07-11T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dekpol-w-I-polroczu-sprzedal-262-lokale-9166756.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dekpol-w-I-polroczu-sprzedal-262-lokale-9166756.html",
-      "title": "Dekpol w I półroczu sprzedał 262 lokale Dekpol w pierwszym półroczu 2026 roku sprzedał 262 lokale - podał deweloper w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-10T21:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
