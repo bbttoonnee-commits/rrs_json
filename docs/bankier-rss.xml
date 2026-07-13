@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Mon, 13 Jul 2026 21:14:00 +0200</lastBuildDate>
-    <item>
-      <title>Elevion z grupy CEZ kupi 100 proc. włoskiej firmy BTS Biogas</title>
-      <link>https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html</link>
-      <description>Grupa Elevion podpisała umowę kupna 100 proc. udziałów we włoskiej firmie BTS Biogas, wzmacniając pozycję w sektorze biogazu i biometanu - poinformował w komunikacie czeski koncern energetyczny CEZ, właściciel Grupy Elevion.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html</guid>
-      <pubDate>Mon, 13 Jul 2026 07:32:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Mon, 13 Jul 2026 23:16:00 +0200</lastBuildDate>
     <item>
       <title>Nowe ustalenia ws. śmierci senatora Grahama. Ujawniono przyczynę zgonu</title>
       <link>https://www.bankier.pl/wiadomosc/Nowe-ustalenia-ws-smierci-senatora-Lindseya-Grahama-Ujawniono-przyczyne-zgonu-9167081.html</link>
@@ -708,6 +701,13 @@
       <description>Parlament Węgier przyjął podczas poniedziałkowego głosowania poprawkę do konstytucji, która ma na celu usunięcie prezydenta Tamasa Sulyoka, powołanego jeszcze przez poprzedni parlament pod kontrolą byłego premiera Viktora Orbana.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Parlament-przyjal-poprawke-do-konstytucji-w-celu-usuniecia-prezydenta-9167586.html</guid>
       <pubDate>Mon, 13 Jul 2026 21:14:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Eskalacja napięcia na Bliskim Wschodzie. Spadki na Wall Street</title>
+      <link>https://www.bankier.pl/wiadomosc/Eskalacja-napiecia-na-Bliskim-Wschodzie-Spadki-na-Wall-Street-9167624.html</link>
+      <description>Amerykańskie giełdy spadły w poniedziałek po tym, jak prezydent Donald Trump ogłosił, że ponownie wprowadza blokadę irańskiej żeglugi przez Cieśninę Ormuz, co spowodowało wzrost cen ropy naftowej.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Eskalacja-napiecia-na-Bliskim-Wschodzie-Spadki-na-Wall-Street-9167624.html</guid>
+      <pubDate>Mon, 13 Jul 2026 23:16:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

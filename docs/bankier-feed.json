@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Eskalacja-napiecia-na-Bliskim-Wschodzie-Spadki-na-Wall-Street-9167624.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eskalacja-napiecia-na-Bliskim-Wschodzie-Spadki-na-Wall-Street-9167624.html",
+      "title": "Eskalacja napięcia na Bliskim Wschodzie. Spadki na Wall Street",
+      "content_html": "Amerykańskie giełdy spadły w poniedziałek po tym, jak prezydent Donald Trump ogłosił, że ponownie wprowadza blokadę irańskiej żeglugi przez Cieśninę Ormuz, co spowodowało wzrost cen ropy naftowej.",
+      "date_published": "2026-07-13T23:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Parlament-przyjal-poprawke-do-konstytucji-w-celu-usuniecia-prezydenta-9167586.html",
       "url": "https://www.bankier.pl/wiadomosc/Parlament-przyjal-poprawke-do-konstytucji-w-celu-usuniecia-prezydenta-9167586.html",
       "title": "Parlament przyjął poprawkę do konstytucji w celu usunięcia prezydenta",
@@ -695,13 +702,6 @@
       "title": "Nowe ustalenia ws. śmierci senatora Grahama. Ujawniono przyczynę zgonu",
       "content_html": "Przyczyną śmierci senatora Lindseya Grahama było rozwarstwienie aorty na skutek miażdżycowej choroby sercowo-naczyniowej - podał urząd lekarza sądowego Dystryktu Kolumbii. Wciąż prowadzone są badania toksykologiczne.",
       "date_published": "2026-07-13T07:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Elevion-z-grupy-CEZ-kupi-100-proc-wloskiej-firmy-BTS-Biogas-9167108.html",
-      "title": "Elevion z grupy CEZ kupi 100 proc. włoskiej firmy BTS Biogas",
-      "content_html": "Grupa Elevion podpisała umowę kupna 100 proc. udziałów we włoskiej firmie BTS Biogas, wzmacniając pozycję w sektorze biogazu i biometanu - poinformował w komunikacie czeski koncern energetyczny CEZ, właściciel Grupy Elevion.",
-      "date_published": "2026-07-13T07:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
