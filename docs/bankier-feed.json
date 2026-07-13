@@ -4,18 +4,53 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-szacuje-skorygowana-EBITDA-w-II-kw-26-na-1-03-mld-zl-wzrost-o-11-5-proc-rdr-opis-9167560.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-szacuje-skorygowana-EBITDA-w-II-kw-26-na-1-03-mld-zl-wzrost-o-11-5-proc-rdr-opis-9167560.html",
-      "title": "Grupa Allegro szacuje skorygowaną EBITDA w II kw.'26 na 1,03 mld zł, wzrost o 11,5 proc. rdr (opis)",
-      "content_html": "Grupa Allegro szacuje, że w II kwartale 2026 roku miała 1.030,1 mln zł skorygowanej EBITDA, co oznacza wzrost o 11,5 proc. rdr. Kluczowe wskaźniki efektywności wyraźnie przewyższają opublikowane szacunki całoroczne - podało Allegro we wstępnych...",
-      "date_published": "2026-07-13T19:46:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Agencja-ONZ-sprzeciwiamy-sie-oplatom-za-tranzyt-przez-ciesniny-morskie-9167580.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agencja-ONZ-sprzeciwiamy-sie-oplatom-za-tranzyt-przez-ciesniny-morskie-9167580.html",
+      "title": "Agencja ONZ: sprzeciwiamy się opłatom za tranzyt przez cieśniny morskie",
+      "content_html": "Międzynarodowa Organizacja Morska (IMO) sprzeciwia się pobieraniu jakichkolwiek opłat za tranzyt przez cieśniny morskie - ogłosił w poniedziałek rzecznik tej oenzetowskiej agencji. Prezydent USA Donald Trump zapowiedział wcześniej, że USA będą...",
+      "date_published": "2026-07-13T20:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Referendum-w-ZUS-97-proc-glosujacych-poparlo-strajk-Zaklad-uwaza-ze-jest-bezprzedmiotowe-9167577.html",
+      "url": "https://www.bankier.pl/wiadomosc/Referendum-w-ZUS-97-proc-glosujacych-poparlo-strajk-Zaklad-uwaza-ze-jest-bezprzedmiotowe-9167577.html",
+      "title": "Referendum w ZUS: 97 proc. głosujących poparło strajk. Zakład uważa, że jest bezprzedmiotowe",
+      "content_html": "Ponad 21 tys. osób, czyli ok. 97 proc. głosujących w referendum pracowników ZUS opowiedziało się za strajkiem - poinformował przewodniczący Związkowej Alternatywy Piotr Szumlewicz. Chodzi o postulowany wzrost wynagrodzeń zasadniczych o 1200...",
+      "date_published": "2026-07-13T20:41:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Julia-Swyrydenko-zlozyla-rezygnacje-ze-stanowiska-premiera-9167572.html",
+      "url": "https://www.bankier.pl/wiadomosc/Julia-Swyrydenko-zlozyla-rezygnacje-ze-stanowiska-premiera-9167572.html",
+      "title": "Julia Swyrydenko złożyła rezygnację ze stanowiska premiera",
+      "content_html": "Rada Najwyższa (parlament) Ukrainy otrzymała oficjalną rezygnację Julii Swyrydenko ze stanowiska premiera – poinformowała w poniedziałek agencja Reutera, powołując się na wpis na Facebooku przewodniczącego ukraińskiego parlamentu Rusłana...",
+      "date_published": "2026-07-13T20:17:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sily-Systemow-Bezzalogowych-zaatakowaly-polaczenie-energetyczne-pomiedzy-Krymem-a-Rosja-9167563.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sily-Systemow-Bezzalogowych-zaatakowaly-polaczenie-energetyczne-pomiedzy-Krymem-a-Rosja-9167563.html",
+      "title": "Siły Systemów Bezzałogowych zaatakowały połączenie energetyczne pomiędzy Krymem a Rosją",
+      "content_html": "Ukraińskie bezzałogowce zaatakowały elementy tzw. mostu energetycznego pomiędzy okupowanym Krymem a będącym częścią Rosji Kubaniem, położonym po drugiej stronie cieśniny Kerczeńskiej – poinformował w poniedziałek na Telegramie dowódca...",
+      "date_published": "2026-07-13T20:13:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Smierc-w-lazience-i-tasmy-prawdy-Naczelna-Izba-Lekarska-wszczela-czynnosci-w-sprawie-patologa-ze-Szpitala-Poludniowego-9167565.html",
+      "url": "https://www.bankier.pl/wiadomosc/Smierc-w-lazience-i-tasmy-prawdy-Naczelna-Izba-Lekarska-wszczela-czynnosci-w-sprawie-patologa-ze-Szpitala-Poludniowego-9167565.html",
+      "title": "Śmierć w łazience i taśmy prawdy. Naczelna Izba Lekarska wszczęła czynności w sprawie patomorfologa ze Szpitala Południowego",
+      "content_html": "Naczelna Izba Lekarska wszczęła czynności w sprawie patomorfologa z Warszawskiego Szpitala Południowego. Złożyła też w jego sprawie zawiadomienie do Naczelnego Rzecznika Odpowiedzialności Zawodowej - poinformowała rzeczniczka NIL Iwona Kania...",
+      "date_published": "2026-07-13T19:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koalicja-stanow-zaskarzy-przejecie-WBD-przez-Paramount-do-sadu-9167497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koalicja-stanow-zaskarzy-przejecie-WBD-przez-Paramount-do-sadu-9167497.html",
+      "title": "Koalicja stanów zaskarży przejęcie WBD przez Paramount do sądu",
+      "content_html": "Koalicja stanowych prokuratorów generalnych wniesie wkrótce skargę sądową przeciwko planowanemu przejęciu Warner Bros. Discovery przez Paramount Skydance - podała telewizja CNBC powołując się na źródła zaznajomione ze sprawą.",
+      "date_published": "2026-07-13T19:54:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-szacuje-1-03-mld-zl-skorygowanej-EBITDA-w-II-kw-26-wzrost-o-11-5-proc-rdr-9167554.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Allegro-szacuje-1-03-mld-zl-skorygowanej-EBITDA-w-II-kw-26-wzrost-o-11-5-proc-rdr-9167554.html",
       "title": "Allegro z EBITDA powyżej 1 mld zł w II kw., wyniki przebiły całoroczne założenia",
       "content_html": "Grupa Allegro szacuje, że w II kwartale 2026 roku miała 1.030,1 mln zł skorygowanej EBITDA , co oznacza wzrost o 11,5 proc. rdr - podała spółka we wstępnych danych.",
-      "date_published": "2026-07-13T19:32:00+02:00"
+      "date_published": "2026-07-13T19:50:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Czesi-koncza-z-maksymalnymi-cenami-paliw-9167553.html",
@@ -93,13 +128,6 @@
       "title": "Unia wprowadzi całkowity zakaz handlu złotem pochodzącym z Sudanu",
       "content_html": "Ministrowie spraw zagranicznych państw UE ustanowili w poniedziałek całkowity zakaz handlu złotem pochodzącym z Sudanu. Ma to ograniczyć źródło finansowania wojny, która doprowadziła do najgorszego kryzysu humanitarnego na świecie. Sankcje...",
       "date_published": "2026-07-13T18:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koalicja-stanow-zaskarzy-przejecie-WBD-przez-Paramount-do-sadu-9167497.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koalicja-stanow-zaskarzy-przejecie-WBD-przez-Paramount-do-sadu-9167497.html",
-      "title": "Koalicja stanów zaskarży przejęcie WBD przez Paramount do sądu",
-      "content_html": "Koalicja stanowych prokuratorów generalnych wniesie wkrótce skargę sądową przeciwko planowanemu przejęciu Warner Bros. Discovery przez Paramount Skydance - podała telewizja CNBC powołując się na źródła zaznajomione ze sprawą.",
-      "date_published": "2026-07-13T18:12:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Producenci-rolni-wysokie-ceny-nawozow-groza-nizszymi-plonami-w-przyszlym-roku-9167488.html",
@@ -284,6 +312,13 @@
       "date_published": "2026-07-13T14:24:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-MSZ-podziekowal-za-zatrzymanie-sprawcy-ataku-na-ukrainskie-nastolatki-9167306.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-MSZ-podziekowal-za-zatrzymanie-sprawcy-ataku-na-ukrainskie-nastolatki-9167306.html",
+      "title": "Szef MSZ podziękował za zatrzymanie sprawcy ataku na ukraińskie nastolatki",
+      "content_html": "Minister spraw zagranicznych Ukrainy Andrij Sybiha w poniedziałek podziękował polskim służbom odpowiedzialnym za bezpieczeństwo za szybką reakcję i zatrzymanie sprawcy ataku na ukraińskie nastolatki w Bielsku-Białej.",
+      "date_published": "2026-07-13T14:21:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Synthaverse-ma-aneks-rozszerzajacy-dystrybucje-Onko-BCG-100-o-Australie-i-Nowa-Zelandie-9167295.html",
       "url": "https://www.bankier.pl/wiadomosc/Synthaverse-ma-aneks-rozszerzajacy-dystrybucje-Onko-BCG-100-o-Australie-i-Nowa-Zelandie-9167295.html",
       "title": "Synthaverse ma aneks rozszerzający dystrybucję Onko BCG 100 o Australię i Nową Zelandię",
@@ -366,27 +401,6 @@
       "title": "Drogie paliwo obciąży LOT. Spółka szacuje wzrost kosztów o 1,3 mld zł",
       "content_html": "Wyzwaniem dla krajowego i globalnego rynku paliwa lotniczego jest nie jego dostępność, ale poziom cen. Koszt paliwa lotniczego dla PLL LOT w 2026 r. wzrośnie do ok. 3,6 mld zł z pierwotnie planowanych 2,3 mld zł - podał resort infrastruktury w...",
       "date_published": "2026-07-13T13:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Warszawa-bedzie-siedziba-Centrum-ESA-Osrodek-ma-wspierac-przemysl-i-obronnosc-9167206.html",
-      "url": "https://www.bankier.pl/wiadomosc/Warszawa-bedzie-siedziba-Centrum-ESA-Osrodek-ma-wspierac-przemysl-i-obronnosc-9167206.html",
-      "title": "Warszawa będzie siedzibą Centrum ESA. Ośrodek ma wspierać przemysł i obronność",
-      "content_html": "Siedziba Centrum Europejskiej Agencji Kosmicznej powstanie w Warszawie - poinformował dyrektor generalny Europejskiej Agencji Kosmicznej Josef Aschbacher na konferencji w Warszawie.",
-      "date_published": "2026-07-13T12:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-leasingu-aut-Zdalne-umowy-to-juz-norma-ale-branza-chce-wiecej-9167217.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-leasingu-aut-Zdalne-umowy-to-juz-norma-ale-branza-chce-wiecej-9167217.html",
-      "title": "Rewolucja w leasingu aut. Zdalne umowy to już norma, ale branża chce więcej",
-      "content_html": "Udział umów leasingowych zawieranych elektronicznie wzrósł w 2025 r. do 39,4 proc. z 29,6 proc. rok wcześniej – wynika z badania Związku Polskiego Leasingu. Branża wskazuje, że deregulacja przyspieszyła cyfryzację rynku, ale potrzebne są...",
-      "date_published": "2026-07-13T12:23:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pozar-lasu-Fontainebleau-pod-Paryzem-MSW-nie-wyklucza-podpalenia-9167221.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozar-lasu-Fontainebleau-pod-Paryzem-MSW-nie-wyklucza-podpalenia-9167221.html",
-      "title": "Pożar lasu Fontainebleau pod Paryżem. MSW nie wyklucza podpalenia",
-      "content_html": "We Francji kilkuset strażaków walczy od niedzieli z pożarem leżącego na południe od Paryża lasu Fontainebleau, dawnego terenu polowań królewskich. Szef MSW Laurent Nunez powiedział w poniedziałek rano, że nie jest wykluczone, iż doszło do...",
-      "date_published": "2026-07-13T12:17:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nocny-atak-ukrainskich-dronow-na-Morzu-Azowskim-Celem-rosyjskie-tankowce-9167212.html",
@@ -646,62 +660,6 @@
       "title": "Elevion z grupy CEZ kupi 100 proc. włoskiej firmy BTS Biogas",
       "content_html": "Grupa Elevion podpisała umowę kupna 100 proc. udziałów we włoskiej firmie BTS Biogas, wzmacniając pozycję w sektorze biogazu i biometanu - poinformował w komunikacie czeski koncern energetyczny CEZ, właściciel Grupy Elevion.",
       "date_published": "2026-07-13T07:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trumpowa-analogia-trzyma-sie-mocno-Dolar-tanszy-juz-nie-bedzie-9165850.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trumpowa-analogia-trzyma-sie-mocno-Dolar-tanszy-juz-nie-bedzie-9165850.html",
-      "title": "\"Trumpowa\" analogia trzyma się mocno. Dolar tańszy już nie będzie?",
-      "content_html": "Na rynkach finansowych nie istnieją żelazne wzorce, ani stałe reguły gry. Są jednak pewne podobieństwa, obok których trudno jest przejść obojętnie.",
-      "date_published": "2026-07-13T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-gotowkowych-lipiec-2026-r-Ranking-Bankier-pl-9166323.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-gotowkowych-lipiec-2026-r-Ranking-Bankier-pl-9166323.html",
-      "title": "Znów ciasno w czołówce rankingu kredytów gotówkowych. Dwie oferty dzieli 30 groszy",
-      "content_html": "Po raz kolejny walka o miejsce w czołówce rankingu kredytów gotówkowych rozstrzyga się na poziomie niewielkich różnic. Sprawdziliśmy, ile kosztuje 60 tys. zł finansowania na pięć lat i które banki znalazły się na podium.",
-      "date_published": "2026-07-13T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-lipiec-2026-najlepsze-kredyty-hipoteczne-9166408.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-lipiec-2026-najlepsze-kredyty-hipoteczne-9166408.html",
-      "title": "\"Piątka\" wraca na rynek. Banki masowo tną oprocentowanie kredytów hipotecznych",
-      "content_html": "Żegnamy 6 proc. w hipotekach – to hasło słusznie może przywoływać uczucie deja vu. Takie obniżki przerabialiśmy już w tym roku, ale przez zawirowania w światowej polityce i gospodarce mamy okazję symboliczny moment ogłosić jeszcze raz.",
-      "date_published": "2026-07-13T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Reforma-PIP-pracodawcy-pelni-obaw-Zostaje-nam-apelowac-o-rozsadek-9166509.html",
-      "url": "https://www.bankier.pl/wiadomosc/Reforma-PIP-pracodawcy-pelni-obaw-Zostaje-nam-apelowac-o-rozsadek-9166509.html",
-      "title": "Reforma PIP: pracodawcy pełni obaw. \"Zostaje nam apelować o rozsądek\"",
-      "content_html": "Ustawa zmieniająca uprawnienia inspekcji pracy wciąż budzi kontrowersje. Nowe przepisy pozwalają inspektorom na zmianę umów z cywilnoprawnych na stosunek pracy, gdy będą spełnione odpowiednie przesłanki. U pracodawców nowe prawo wywołuje wiele...",
-      "date_published": "2026-07-13T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Auta-elektryczne-w-Polsce-Ekspert-o-Chinczykach-i-szansach-Izery-9167049.html",
-      "url": "https://www.bankier.pl/wiadomosc/Auta-elektryczne-w-Polsce-Ekspert-o-Chinczykach-i-szansach-Izery-9167049.html",
-      "title": "Chińczyki, Izera i zwykłe bujdy z Internetu. Cała prawda o polskim rynku aut elektrycznych",
-      "content_html": "W tych krajach zachodnich, gdzie nie było subsydiowania paliw, zainteresowanie samochodami elektrycznymi, szczególnie używanymi, znacząco wzrosło. W Polsce zainteresowanie oczywiście rośnie, ale dynamika byłaby zdecydowanie większa, gdyby nie...",
-      "date_published": "2026-07-13T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kto-mistrzem-inwestowania-Rusza-rywalizacja-w-Wakacjach-na-Gieldzie-9167056.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kto-mistrzem-inwestowania-Rusza-rywalizacja-w-Wakacjach-na-Gieldzie-9167056.html",
-      "title": "Kto mistrzem inwestowania? Rusza rywalizacja w Wakacjach na Giełdzie!",
-      "content_html": "Właśnie wystartował główny etap naszej letniej gry inwestycyjnej Wakacje na Giełdzie! Do zabawy przystąpiło już ponad 2700 osób. Dołącz do nich, sprawdź swój rynkowy instynkt i walcz o cenne nagrody!",
-      "date_published": "2026-07-13T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gotowka-auta-na-wakacje-smartwatche-i-Sprawdz-nagrody-w-Wakacjach-na-Gieldzie-9167058.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gotowka-auta-na-wakacje-smartwatche-i-Sprawdz-nagrody-w-Wakacjach-na-Gieldzie-9167058.html",
-      "title": "Gotówka, auta na wakacje, smartwatche i... Sprawdź nagrody w Wakacjach na Giełdzie!",
-      "content_html": "W tegorocznej edycji Wakacji na Giełdzie nagradzamy najlepszych nie tylko na koniec rywalizacji, ale także regularnie przez cały czas trwania konkursu. Zobacz pulę nagród i przekonaj się, dlaczego warto dołączyć do rozgrywki!",
-      "date_published": "2026-07-13T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-bardziej-przypomina-sad-Kiedy-najlepiej-zaczac-na-niej-inwestowac-9167074.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-bardziej-przypomina-sad-Kiedy-najlepiej-zaczac-na-niej-inwestowac-9167074.html",
-      "title": "„Giełda bardziej przypomina sad”. Kiedy najlepiej zacząć na niej inwestować?",
-      "content_html": "W dniu startu wirtualnej rywalizacji w konkursie Wakacje na Giełdzie bierze udział już ponad 2700 osób! Giełdowe zmagania to dla nas świetna okazja, by zachęcać Was do inwestowania – i to nie tylko w wydaniu wirtualnym, ale też tym w stu procentach...",
-      "date_published": "2026-07-13T07:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
