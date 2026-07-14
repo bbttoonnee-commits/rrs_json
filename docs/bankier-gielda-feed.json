@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
+      "title": "Pogotowie strajkowe w Grupie Azoty Puławy Dwie działające w Grupie Azoty Puławy organizacje związkowe ogłosiły pogotowie strajkowe i przedstawiły listę 13 żądań, które dotyczą warunków pracy, płacy, praw i wolności związkowych. Grupa Azoty poinformowała o trudnej sytuacji spółki i zapewniła, że analizuje otrzymane postulaty.",
+      "content_html": "",
+      "date_published": "2026-07-14T22:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
+      "title": "Amerykańska inflacja niczym koń na białym rycerzu. Jeden odczyt odwrócił losy sesji To mógł być dzień, który zapowiadał się jako jednoznacznie spadkowy. I wtedy nadszedł wręcz podejrzanie „miękki” odczyt inflacyjny, który odwrócił losy sesji.",
+      "content_html": "",
+      "date_published": "2026-07-14T22:11:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Vigo-Photonics-rozpoczyna-ABB-na-ok-256-019-akcji-9168204.html",
       "url": "https://www.bankier.pl/wiadomosc/Vigo-Photonics-rozpoczyna-ABB-na-ok-256-019-akcji-9168204.html",
       "title": "Vigo Photonics rozpoczyna ABB na ok. 256.019 akcji Vigo Photonics rozpoczyna ofertę publiczną w ramach procesu przyspieszonego budowania księgi popytu na nie więcej niż 131.219 mln nowych akcji serii G oraz na nie więcej niż 124.800 istniejących akcji zwykłych sprzedawanych przez Warsaw Equity Alternatywna Spółka Inwestycyjna - podało Vigo Photonics w komunikacie.",
@@ -60,16 +74,16 @@
       "date_published": "2026-07-14T17:08:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-otwiera-droge-dla-biometanu-Nowe-zasady-wsparcia-dla-instalacji-OZE-9167975.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-otwiera-droge-dla-biometanu-Nowe-zasady-wsparcia-dla-instalacji-OZE-9167975.html",
-      "title": "Rząd otwiera drogę dla biometanu. Nowe zasady wsparcia dla instalacji OZE Rada Ministrów przyjęła we wtorek projekt zmian przepisów o odnawialnych źródłach energii wprowadzający m. in. aukcyjny system wsparcia dla instalacji produkujących biometan o mocy powyżej 1 MW - podało Ministerstwo Klimatu i Środowiska w komunikacie.",
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-USA-w-czerwcu-2026-Zaskakujacy-spadek-inflacji-w-Ameryce-9167965.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-USA-w-czerwcu-2026-Zaskakujacy-spadek-inflacji-w-Ameryce-9167965.html",
+      "title": "Zaskakujący spadek inflacji w Ameryce. Potaniały nie tylko paliwa Za sprawą niższych cen paliw inflacja CPI w Stanach Zjednoczonych w czerwcu okazała się wyraźnie niższa niż w maju.",
       "content_html": "",
       "date_published": "2026-07-14T14:30:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-USA-w-czerwcu-2026-Zaskakujacy-spadek-inflacji-w-Ameryce-9167965.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-USA-w-czerwcu-2026-Zaskakujacy-spadek-inflacji-w-Ameryce-9167965.html",
-      "title": "Zaskakujący spadek inflacji w Ameryce. Potaniały nie tylko paliwa Za sprawą niższych cen paliw inflacja CPI w Stanach Zjednoczonych w czerwcu okazała się wyraźnie niższa niż w maju.",
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-otwiera-droge-dla-biometanu-Nowe-zasady-wsparcia-dla-instalacji-OZE-9167975.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-otwiera-droge-dla-biometanu-Nowe-zasady-wsparcia-dla-instalacji-OZE-9167975.html",
+      "title": "Rząd otwiera drogę dla biometanu. Nowe zasady wsparcia dla instalacji OZE Rada Ministrów przyjęła we wtorek projekt zmian przepisów o odnawialnych źródłach energii wprowadzający m. in. aukcyjny system wsparcia dla instalacji produkujących biometan o mocy powyżej 1 MW - podało Ministerstwo Klimatu i Środowiska w komunikacie.",
       "content_html": "",
       "date_published": "2026-07-14T14:30:00+02:00"
     },

@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 14 Jul 2026 21:57:00 +0200</lastBuildDate>
-    <item>
-      <title>W siedmiu województwach średni dług większy niż średnie zarobki</title>
-      <link>https://www.bankier.pl/wiadomosc/W-siedmiu-wojewodztwach-sredni-dlug-wiekszy-niz-srednie-zarobki-9167663.html</link>
-      <description>W siedmiu województwach średni dług na mieszkańca jest większy niż średnie zarobki - wynika z analizy przygotowanej przez Krajowy Rejestr Długów (KRD). W najgorszej sytuacji są osoby w wieku 55-64 lata, których zadłużenie odpowiada ok. 115...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/W-siedmiu-wojewodztwach-sredni-dlug-wiekszy-niz-srednie-zarobki-9167663.html</guid>
-      <pubDate>Tue, 14 Jul 2026 08:30:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Szansa dla przyszłych medyków. Nowe limity przyjęć na kierunki lekarskie i dentystyczne</title>
-      <link>https://www.bankier.pl/wiadomosc/Szansa-dla-przyszlych-medykow-Nowe-limity-przyjec-na-kierunki-lekarskie-i-dentystyczne-9167592.html</link>
-      <description>Limit przyjęć na studia na kierunku lekarskim wyniesie 10 tys. 705 miejsc, a na kierunku lekarsko-dentystycznym 1,5 tys. miejsc - wynika z projektu rozporządzenia opublikowanego w poniedziałek. Oznacza to wzrost liczby miejsc na obu kierunkach w stosunku...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Szansa-dla-przyszlych-medykow-Nowe-limity-przyjec-na-kierunki-lekarskie-i-dentystyczne-9167592.html</guid>
-      <pubDate>Tue, 14 Jul 2026 08:32:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 14 Jul 2026 23:14:00 +0200</lastBuildDate>
     <item>
       <title>Bliski Wschód znów w ogniu, a Trump chce opłat od statków. Ropa najdroższa od miesiąca</title>
       <link>https://www.bankier.pl/wiadomosc/Bliski-Wschod-znowu-w-ogniu-Ceny-ropy-najwyzej-od-miesiaca-9167679.html</link>
@@ -708,6 +694,20 @@
       <description>Brazylijski system płatności bezgotówkowych PIX, umożliwiający płacenie za pomocą smartfona, znalazł się na celowniku Waszyngtonu, który uznał go za konkurencję dla amerykańskich kart kredytowych. Przedstawiciel USA ds. handlu Jamieson Greer...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/USA-groza-Brazylii-clami-za-darmowy-system-platnosci-na-smartfony-9168229.html</guid>
       <pubDate>Tue, 14 Jul 2026 21:57:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Amerykańska inflacja niczym koń na białym rycerzu. Jeden odczyt odwrócił losy sesji</title>
+      <link>https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html</link>
+      <description>To mógł być dzień, który zapowiadał się jako jednoznacznie spadkowy. I wtedy nadszedł wręcz podejrzanie „miękki” odczyt inflacyjny, który odwrócił losy sesji.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html</guid>
+      <pubDate>Tue, 14 Jul 2026 23:11:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Pogotowie strajkowe w Grupie Azoty Puławy</title>
+      <link>https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html</link>
+      <description>Dwie działające w Grupie Azoty Puławy organizacje związkowe ogłosiły pogotowie strajkowe i przedstawiły listę 13 żądań, które dotyczą warunków pracy, płacy, praw i wolności związkowych. Grupa Azoty poinformowała o trudnej sytuacji spółki...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html</guid>
+      <pubDate>Tue, 14 Jul 2026 23:14:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

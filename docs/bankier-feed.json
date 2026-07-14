@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
+      "title": "Pogotowie strajkowe w Grupie Azoty Puławy",
+      "content_html": "Dwie działające w Grupie Azoty Puławy organizacje związkowe ogłosiły pogotowie strajkowe i przedstawiły listę 13 żądań, które dotyczą warunków pracy, płacy, praw i wolności związkowych. Grupa Azoty poinformowała o trudnej sytuacji spółki...",
+      "date_published": "2026-07-14T23:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
+      "title": "Amerykańska inflacja niczym koń na białym rycerzu. Jeden odczyt odwrócił losy sesji",
+      "content_html": "To mógł być dzień, który zapowiadał się jako jednoznacznie spadkowy. I wtedy nadszedł wręcz podejrzanie „miękki” odczyt inflacyjny, który odwrócił losy sesji.",
+      "date_published": "2026-07-14T23:11:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/USA-groza-Brazylii-clami-za-darmowy-system-platnosci-na-smartfony-9168229.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-groza-Brazylii-clami-za-darmowy-system-platnosci-na-smartfony-9168229.html",
       "title": "USA grożą Brazylii cłami za... darmowy system płatności na smartfony",
@@ -688,20 +702,6 @@
       "title": "Bliski Wschód znów w ogniu, a Trump chce opłat od statków. Ropa najdroższa od miesiąca",
       "content_html": "Iran i USA wznowiły działania wojenne. Wymiana ognia trwa trzeci dzień, a do konfliktu dołączyli jemeńscy Huti, którzy ostrzelali terytorium Arabii Saudyjskiej, naruszając 4-letnie zawieszenie broni. Ogień rozlewa się znów po Bliskim Wschodzie...",
       "date_published": "2026-07-14T08:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szansa-dla-przyszlych-medykow-Nowe-limity-przyjec-na-kierunki-lekarskie-i-dentystyczne-9167592.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szansa-dla-przyszlych-medykow-Nowe-limity-przyjec-na-kierunki-lekarskie-i-dentystyczne-9167592.html",
-      "title": "Szansa dla przyszłych medyków. Nowe limity przyjęć na kierunki lekarskie i dentystyczne",
-      "content_html": "Limit przyjęć na studia na kierunku lekarskim wyniesie 10 tys. 705 miejsc, a na kierunku lekarsko-dentystycznym 1,5 tys. miejsc - wynika z projektu rozporządzenia opublikowanego w poniedziałek. Oznacza to wzrost liczby miejsc na obu kierunkach w stosunku...",
-      "date_published": "2026-07-14T08:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-siedmiu-wojewodztwach-sredni-dlug-wiekszy-niz-srednie-zarobki-9167663.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-siedmiu-wojewodztwach-sredni-dlug-wiekszy-niz-srednie-zarobki-9167663.html",
-      "title": "W siedmiu województwach średni dług większy niż średnie zarobki",
-      "content_html": "W siedmiu województwach średni dług na mieszkańca jest większy niż średnie zarobki - wynika z analizy przygotowanej przez Krajowy Rejestr Długów (KRD). W najgorszej sytuacji są osoby w wieku 55-64 lata, których zadłużenie odpowiada ok. 115...",
-      "date_published": "2026-07-14T08:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
