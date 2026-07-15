@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
+      "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu",
+      "content_html": "Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek.",
+      "date_published": "2026-07-15T23:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nawrocka-uderza-w-rozlamowcow-PiS-stawia-ultimatum-i-grozi-wyrzuceniem-9168777.html",
       "url": "https://www.bankier.pl/wiadomosc/Nawrocka-uderza-w-rozlamowcow-PiS-stawia-ultimatum-i-grozi-wyrzuceniem-9168777.html",
       "title": "Nawrocka uderza w rozłamowców. PiS stawia ultimatum i grozi wyrzuceniem",
@@ -135,13 +142,6 @@
       "title": "Agresywna prowokacja Rosjan. Polskie myśliwce przechwyciły rosyjskie Su-30 z Królewca",
       "content_html": "Para dyżurna polskich samolotów z Malborka przechwyciła nad Bałtykiem parę rosyjskich Su-30SM2 z Królewca - poinformował wicepremier, szef MON Władysław Kosiniak-Kamysz. Zaznaczył, że rosyjskie samoloty, prowadzące „agresywną obserwację”...",
       "date_published": "2026-07-15T16:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/TGE-i-spolki-dystrybucyjne-PGE-Enei-i-Energi-maja-porozumienie-ws-platformy-uslug-elastycznosci-9168674.html",
-      "url": "https://www.bankier.pl/wiadomosc/TGE-i-spolki-dystrybucyjne-PGE-Enei-i-Energi-maja-porozumienie-ws-platformy-uslug-elastycznosci-9168674.html",
-      "title": "TGE i spółki dystrybucyjne PGE, Enei i Energi mają porozumienie ws. platformy usług elastyczności",
-      "content_html": "Towarowa Giełda Energii, PGE Dystrybucja, Enea Operator oraz Energa-Operator zawarły porozumienie o współpracy na rzecz rozwoju platformy usług elastyczności. Na początku roku podobne porozumienia podpisały PSE i Tauron Dystrybucja.",
-      "date_published": "2026-07-15T16:48:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-i-Iran-pompuja-ceny-na-polskich-dystrybutorach-Benzyna-i-diesel-w-gore-o-ponad-20-groszy-w-tydzien-9168671.html",
@@ -695,13 +695,6 @@
       "title": "Chaos na Morzu Czerwonym? Iran grozi zamknięciem cieśniny Bab al-Mandab",
       "content_html": "Iran sygnalizuje, że po ograniczeniu tranzytu przez cieśninę Ormuz, gotów jest - by zwiększyć presję na USA - zamknąć cieśninę Bab al-Mandab, blokując następny ważny szlak handlowy przy pomocy sojuszniczego, jemeńskiego ruchu Huti. Oznaczałoby...",
       "date_published": "2026-07-14T20:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Awantura-o-117-tysiecy-zl-miesiecznie-Joanna-Kurska-przegrywa-z-TVP-9168195.html",
-      "url": "https://www.bankier.pl/wiadomosc/Awantura-o-117-tysiecy-zl-miesiecznie-Joanna-Kurska-przegrywa-z-TVP-9168195.html",
-      "title": "Awantura o 117 tysięcy zł miesięcznie. Joanna Kurska przegrywa z TVP",
-      "content_html": "Sąd Okręgowy w Warszawie we wtorek oddalił w całości powództwo Joanny Kurskiej, w którym domagała się przeprosin w związku z podaniem w programie informacyjnym „19.30” informacji, że zarabiała ona w TVP kwotę ponad 117 tys. zł miesięcznie...",
-      "date_published": "2026-07-14T20:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

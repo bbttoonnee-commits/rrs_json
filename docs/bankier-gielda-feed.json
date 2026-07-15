@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
+      "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek.",
+      "content_html": "",
+      "date_published": "2026-07-15T22:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-Medicalgorithmics-zdecydowalo-o-emisji-500-620-akcji-serii-P-w-cenie-emisyjnej-33-zl-szt-9168792.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-Medicalgorithmics-zdecydowalo-o-emisji-500-620-akcji-serii-P-w-cenie-emisyjnej-33-zl-szt-9168792.html",
       "title": "NWZ Medicalgorithmics zdecydowało o emisji 500.620 akcji serii P w cenie emisyjnej 33 zł/szt. Nadzwyczajne walne zgromadzenie Medicalgorithmics zdecydowało emisji 500.620 akcji serii P do objęcia przez Biofund Capital Management po cenie emisyjnej 33 zł za papier - poinformowała spółka w komunikacie po walnym.",
@@ -81,16 +88,16 @@
       "date_published": "2026-07-15T07:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/To-ryzyko-w-S-P500-jest-coraz-wieksze-To-juz-dawno-nie-jest-szeroka-gospodarka-USA-9167184.html",
-      "url": "https://www.bankier.pl/wiadomosc/To-ryzyko-w-S-P500-jest-coraz-wieksze-To-juz-dawno-nie-jest-szeroka-gospodarka-USA-9167184.html",
-      "title": "To ryzyko w S&P500 jest coraz większe. To już dawno nie jest szeroka gospodarka USA Kupując ETF na indeks S&P 500, tak naprawdę stawiasz zakład o kontynuację hossy technologicznej. Od 1990 roku udział sektora IT w indeksie SPX gwałtownie wzrósł z prawie 7% do blisko 40%. Warto jednak wiedzieć, że wiele kluczowych przedsiębiorstw będących de facto liderami innowacyjnej branży jest przypisanych do innych sektorów, jak np. Tesla, Amazon, czy Meta i Google. Z nimi ten udział jest znacznie większy, a to sprawia, że indeks amerykańskich blue chipów tak naprawdę często zachowuje się jak indeks technologicznej giełdy Nasadq i są na to dowody.",
+      "id": "https://www.bankier.pl/wiadomosc/ETF-y-zdominowaly-strategie-inwestycyjne-Czy-oplaca-sie-jeszcze-walczyc-z-rynkiem-9168186.html",
+      "url": "https://www.bankier.pl/wiadomosc/ETF-y-zdominowaly-strategie-inwestycyjne-Czy-oplaca-sie-jeszcze-walczyc-z-rynkiem-9168186.html",
+      "title": "ETF-y zdominowały strategie inwestycyjne. Czy opłaca się jeszcze walczyć z rynkiem? Choć jeszcze w latach 70. pasywne inwestowanie brzmiało jak rezygnacja z ambicji, to dziś wygląda jak jedna z najbardziej udanych rewolucji w historii finansów. Dopiero po latach okazało się, że ta „przeciętność” ma ogromną siłę. Po odjęciu opłat, kosztów transakcyjnych i błędów inwestorów, wynik zbliżony do rynku bywa lepszy niż większość prób jego pobicia. Ale i przy pasywnym inwestowaniu, i ETF-ach jest pułapka.",
       "content_html": "",
       "date_published": "2026-07-15T06:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/ETF-y-zdominowaly-strategie-inwestycyjne-Czy-oplaca-sie-jeszcze-walczyc-z-rynkiem-9168186.html",
-      "url": "https://www.bankier.pl/wiadomosc/ETF-y-zdominowaly-strategie-inwestycyjne-Czy-oplaca-sie-jeszcze-walczyc-z-rynkiem-9168186.html",
-      "title": "ETF-y zdominowały strategie inwestycyjne. Czy opłaca się jeszcze walczyć z rynkiem? Choć jeszcze w latach 70. pasywne inwestowanie brzmiało jak rezygnacja z ambicji, to dziś wygląda jak jedna z najbardziej udanych rewolucji w historii finansów. Dopiero po latach okazało się, że ta „przeciętność” ma ogromną siłę. Po odjęciu opłat, kosztów transakcyjnych i błędów inwestorów, wynik zbliżony do rynku bywa lepszy niż większość prób jego pobicia. Ale i przy pasywnym inwestowaniu, i ETF-ach jest pułapka.",
+      "id": "https://www.bankier.pl/wiadomosc/To-ryzyko-w-S-P500-jest-coraz-wieksze-To-juz-dawno-nie-jest-szeroka-gospodarka-USA-9167184.html",
+      "url": "https://www.bankier.pl/wiadomosc/To-ryzyko-w-S-P500-jest-coraz-wieksze-To-juz-dawno-nie-jest-szeroka-gospodarka-USA-9167184.html",
+      "title": "To ryzyko w S&P500 jest coraz większe. To już dawno nie jest szeroka gospodarka USA Kupując ETF na indeks S&P 500, tak naprawdę stawiasz zakład o kontynuację hossy technologicznej. Od 1990 roku udział sektora IT w indeksie SPX gwałtownie wzrósł z prawie 7% do blisko 40%. Warto jednak wiedzieć, że wiele kluczowych przedsiębiorstw będących de facto liderami innowacyjnej branży jest przypisanych do innych sektorów, jak np. Tesla, Amazon, czy Meta i Google. Z nimi ten udział jest znacznie większy, a to sprawia, że indeks amerykańskich blue chipów tak naprawdę często zachowuje się jak indeks technologicznej giełdy Nasadq i są na to dowody.",
       "content_html": "",
       "date_published": "2026-07-15T06:00:00+02:00"
     },
