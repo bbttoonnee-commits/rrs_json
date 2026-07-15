@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cena-emisyjna-w-ofercie-Vigo-Photonics-na-131-219-akcji-serii-G-to-480-zl-szt-9168745.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cena-emisyjna-w-ofercie-Vigo-Photonics-na-131-219-akcji-serii-G-to-480-zl-szt-9168745.html",
+      "title": "Cena emisyjna w ofercie Vigo Photonics na 131.219 akcji serii G to 480 zł/szt. Cena emisyjna w ofercie publicznej do 131.219 akcji serii G spółki Vigo Photonics została ustalona na 480 zł za papier - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-15T17:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SESJA-NA-GPW-Znow-sypnelo-rekordami-na-polskiej-gieldzie-ale-dzien-zakonczyl-sie-przewaga-spadkow-9168738.html",
+      "url": "https://www.bankier.pl/wiadomosc/SESJA-NA-GPW-Znow-sypnelo-rekordami-na-polskiej-gieldzie-ale-dzien-zakonczyl-sie-przewaga-spadkow-9168738.html",
+      "title": "SESJA NA GPW Znów sypnęło rekordami na polskiej giełdzie, ale dzień zakończył się przewagą spadków Środowa sesja na warszawskim parkiecie upłynęła pod znakiem lekkiego schłodzenia nastrojów. Inwestorzy trawili nie tylko wiszącą nad sektorem finansowym groźbę kolejnej podwyżki podatku CIT, ale również niepojące doniesienia z Bliskiego Wschodu, gdzie USA nasiliły ataki na cele w Iranie. Choć Wall Street próbowała ratować nastroje, Warszawa zakończyła dzień pod kreską.",
+      "content_html": "",
+      "date_published": "2026-07-15T17:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Best-zainwestowal-w-II-kwartale-189-7-mln-zl-w-portfele-wierzytelnosci-9168615.html",
       "url": "https://www.bankier.pl/wiadomosc/Best-zainwestowal-w-II-kwartale-189-7-mln-zl-w-portfele-wierzytelnosci-9168615.html",
       "title": "Best zainwestował w II kwartale 189,7 mln zł w portfele wierzytelności Best zainwestował w drugim kwartale 2026 roku 189,7 mln zł w portfele wierzytelności, co oznacza wzrost o 15 proc. rdr - poinformowała spółka w komunikacie.",
@@ -254,27 +268,6 @@
       "title": "Allegro z EBITDA powyżej 1 mld zł w II kw., wyniki przebiły całoroczne założenia Grupa Allegro szacuje, że w II kwartale 2026 roku miała 1.030,1 mln zł skorygowanej EBITDA , co oznacza wzrost o 11,5 proc. rdr - podała spółka we wstępnych danych.",
       "content_html": "",
       "date_published": "2026-07-13T18:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowe-rekordy-na-GPW-w-trudnym-otoczeniu-Orlen-pociagnal-WIG20-9167514.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-rekordy-na-GPW-w-trudnym-otoczeniu-Orlen-pociagnal-WIG20-9167514.html",
-      "title": "Nowe rekordy na GPW w trudnym otoczeniu. Orlen pociągnął WIG20 Początek tygodnia przyniósł inwestorom na warszawskim parkiecie sporą dawkę nerwowości, wywołaną eskalacją konfliktu na Bliskim Wschodzie i dynamicznymi zmianami na rynku walutowym. Mimo niesprzyjającego otoczenia zewnętrznego, GPW pokazała się z niezłej strony. Krajowe indeksy nie tylko obroniły kluczowe poziomy, ale zdołały pobić kilka rekordów.",
-      "content_html": "",
-      "date_published": "2026-07-13T17:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wymog-MREL-dla-B-Handlowego-okreslony-na-poziomie-15-36-proc-TREA-9167500.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wymog-MREL-dla-B-Handlowego-okreslony-na-poziomie-15-36-proc-TREA-9167500.html",
-      "title": "Wymóg MREL dla B. Handlowego określony na poziomie 15,36 proc. TREA Wymóg MREL dla Banku Handlowego został określony na poziomie indywidualnym na 15,36 proc. wartości całkowitej ekspozycji na ryzyko (TREA) oraz 5,91 proc. miary ekspozycji całkowitej (TEM) - poinformował bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-13T17:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MREL-TREA-requirement-for-Bank-Handlowy-lender-set-at-15-36-pct-9167499.html",
-      "url": "https://www.bankier.pl/wiadomosc/MREL-TREA-requirement-for-Bank-Handlowy-lender-set-at-15-36-pct-9167499.html",
-      "title": "MREL-TREA requirement for Bank Handlowy lender set at 15.36 pct The MREL requirement for listed lender Bank Handlowy has been set at an individual level at 15.36 percent of the total risk exposure (TREA) and 5.91 percent of the total exposure measure (TEM), the bank said in a market filing.",
-      "content_html": "",
-      "date_published": "2026-07-13T17:16:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
