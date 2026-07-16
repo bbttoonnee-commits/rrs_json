@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Klepsydra-wyplaci-0-04-zl-dywidendy-na-akcje-9168890.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klepsydra-wyplaci-0-04-zl-dywidendy-na-akcje-9168890.html",
+      "title": "Klepsydra wypłaci 0,04 zł dywidendy na akcję Zwyczajne walne zgromadzenie Klepsydry zdecydowało, że na dywidendę za 2025 rok trafił 954.269,40 zł, co daje 0,04 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-16T06:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czym-jest-inwestowanie-i-kto-naprawde-moze-zostac-inwestorem-9168642.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czym-jest-inwestowanie-i-kto-naprawde-moze-zostac-inwestorem-9168642.html",
+      "title": "AKADEMIA INWESTOWANIA Czym jest inwestowanie i kto naprawdę może zostać inwestorem? W pierwszym odcinku Akademii Inwestowania Bankier.pl nasz główny analityk Krzysztof Kolany bierze pod lupę absolutne fundamenty rynków finansowych, odpowiadając na podstawowe pytania: czym jest inwestowanie, po co to robimy i kim tak naprawdę jest inwestor.",
+      "content_html": "",
+      "date_published": "2026-07-16T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
       "url": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
       "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek.",
@@ -247,20 +261,6 @@
       "title": "Bliski Wschód znów w ogniu, a Trump chce opłat od statków. Ropa najdroższa od miesiąca Iran i USA wznowiły działania wojenne. Wymiana ognia trwa trzeci dzień, a do konfliktu dołączyli jemeńscy Huti, którzy ostrzelali terytorium Arabii Saudyjskiej, naruszając 4-letnie zawieszenie broni. Ogień rozlewa się znów po Bliskim Wschodzie, na co reagują ceny surowców energetycznych. Baryłka ropy Brent kosztowała we wtorek najwięcej od miesiąca.",
       "content_html": "",
       "date_published": "2026-07-14T07:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pepco-Group-rozpoczyna-skup-do-49-083-414-akcji-wlasnych-w-cenie-41-76-zl-szt-9167669.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pepco-Group-rozpoczyna-skup-do-49-083-414-akcji-wlasnych-w-cenie-41-76-zl-szt-9167669.html",
-      "title": "Pepco Group rozpoczyna skup do 49.083.414 akcji własnych w cenie 41,76 zł/szt. Pepco Group rozpoczęło skup akcji własnych za maksymalnie 400 mln euro, w którym IBEX Retail Investments - większościowy udziałowiec spółki - zgłosił zamiar udziału - podało Pepco w komunikacie. Program skupu obejmie nabycie przez spółkę nie więcej niż 49.083.414 akcji w cenie nabycie 41,76 zł za papier. Skup odbywa się w formie zaproszenia do sprzedaży akcji.",
-      "content_html": "",
-      "date_published": "2026-07-14T06:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Burzliwe-losy-SK-Hynix-na-Wall-Street-Co-dalej-z-kursem-lidera-hossy-pamieci-9167401.html",
-      "url": "https://www.bankier.pl/wiadomosc/Burzliwe-losy-SK-Hynix-na-Wall-Street-Co-dalej-z-kursem-lidera-hossy-pamieci-9167401.html",
-      "title": "Burzliwe losy SK Hynix na Wall Street. Co dalej z kursem lidera hossy pamięci? Wejście południowokoreańskiego giganta technologicznego SK Hynix na giełdę Nasdaq za pośrednictwem amerykańskich kwitów depozytowych (ADR) to jeden z najważniejszych momentów hossy w sektorze półprzewodników. Sprawdzamy, co się zmienia dla inwestorów po głośnym debiucie, co dalej z ryzykiem kursowym i czy możliwy jest arbitraż pomiędzy giełdami w Nowym Jorku i Seulu.",
-      "content_html": "",
-      "date_published": "2026-07-14T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
