@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Amnestia-dla-katalonskich-separatystow-z-zielonym-swiatlem-od-TSUE-9169391.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amnestia-dla-katalonskich-separatystow-z-zielonym-swiatlem-od-TSUE-9169391.html",
+      "title": "Amnestia dla katalońskich separatystów z zielonym światłem od TSUE",
+      "content_html": "Uchwalona w 2024 r. hiszpańska ustawa o amnestii dla katalońskich separatystów nie narusza prawa unijnego – orzekł w czwartek Trybunał Sprawiedliwości UE (TSUE) w odpowiedzi na pytania prejudycjalne dwóch hiszpańskich sądów.",
+      "date_published": "2026-07-16T21:28:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Po-meczu-Argentyna-Anglia-napiecie-rosnie-Poszlo-o-Falklandy-9169389.html",
       "url": "https://www.bankier.pl/wiadomosc/Po-meczu-Argentyna-Anglia-napiecie-rosnie-Poszlo-o-Falklandy-9169389.html",
       "title": "Po meczu Argentyna–Anglia napięcie rośnie. Poszło o Falklandy",
@@ -142,6 +149,13 @@
       "title": "GPW Benchmark uruchomił System Monitoringu Rynku Obligacji Korporacyjnych",
       "content_html": "GPW Benchmark uruchomił System Monitoringu Rynku Obligacji Korporacyjnych, który ma zwiększyć transparentność informacji dotyczącej aktywności na rynku nieskarbowych papierów dłużnych - podało GPW Benchmark w komunikacie. Elementem nowej usługi...",
       "date_published": "2026-07-16T18:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
+      "title": "MOL spodziewa się w lipcu pierwszej raty 100 mln USD odszkodowania za pożar rafinerii w '25",
+      "content_html": "W ramach trwającej oceny strat wynikających z przestoju spowodowanego pożarem instalacji destylacji ropy naftowej AV3 w Rafinerii Dunaj w październiku 2025 roku, konsorcjum ubezpieczycieli wydało oficjalne potwierdzenie uznania odpowiedzialności...",
+      "date_published": "2026-07-16T18:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-ma-nowego-premiera-Parlament-powolal-Serhija-Koreckiego-na-stanowisko-szefa-rzadu-9169028.html",
@@ -688,13 +702,6 @@
       "title": "„Otwarta rana” zamknięta po trzech wiekach. Hiszpania burzy płot graniczny z Gibraltarem",
       "content_html": "Porozumienie w sprawie statusu Gibraltaru usuwa „trwającą od trzech stuleci otwartą ranę” – powiedział w środę premier Hiszpanii Pedro Sanchez podczas uroczystości rozbiórki ogrodzenia na granicy Hiszpanii z Gibraltarem.",
       "date_published": "2026-07-16T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pentagon-niszczy-iranski-potencjal-rakietowy-Dwie-serie-poteznych-uderzen-powietrznych-w-ciagu-jednej-doby-9168866.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pentagon-niszczy-iranski-potencjal-rakietowy-Dwie-serie-poteznych-uderzen-powietrznych-w-ciagu-jednej-doby-9168866.html",
-      "title": "Pentagon niszczy irański potencjał rakietowy. Dwie serie potężnych uderzeń powietrznych w ciągu jednej doby",
-      "content_html": "Amerykańskie siły przeprowadziły kolejną serię ataków na cele w Iranie - poinformowało w środę wieczorem czasu wschodnioamerykańskiego Centralne Dowództwo USA (CENTCOM). Zbombardowano m.in. centra dowodzenia. To druga fala amerykańskich uderzeń...",
-      "date_published": "2026-07-16T07:53:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
