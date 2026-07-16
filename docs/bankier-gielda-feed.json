@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-grozi-blokada-Morza-Czarnego-Nasdaq-mocno-w-dol-9169414.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-grozi-blokada-Morza-Czarnego-Nasdaq-mocno-w-dol-9169414.html",
+      "title": "Iran grozi blokadą Morza Czerwonego. Nasdaq mocno w dół Groźba eskalacji wojny na Bliskim Wschodzie przysłoniła niezłe dane napływające z gospodarki USA i doprowadziła do silnej przeceny akcji spółek technologicznych.",
+      "content_html": "",
+      "date_published": "2026-07-16T22:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Japonski-gigant-chce-akcje-Zabki-Franczyzowy-gigant-zamortyzowal-przecene-na-gieldzie-9169301.html",
       "url": "https://www.bankier.pl/wiadomosc/Japonski-gigant-chce-akcje-Zabki-Franczyzowy-gigant-zamortyzowal-przecene-na-gieldzie-9169301.html",
       "title": "Japoński gigant chce akcje Żabki. Franczyzowy gigant zamortyzował przecenę na giełdzie Rosnące napięcie geopolityczne na Bliskim Wschodzie podyktowało warunki na globalnych rynkach finansowych, spychając większość głównych indeksów pod kreskę. Na tym ponurym tle warszawski parkiet wyglądał przyzwoicie, a WIG20 w pewnym momencie zbliżył na 100 punktów do swojego historycznego szczytu z 2007 r. Gwiazdą sesji okazała się Grupa Żabka po sensacyjnych doniesieniach o możliwym sojuszu z japońskim potentatem handlowym.",
@@ -226,20 +233,6 @@
       "title": "ETF-y zdominowały strategie inwestycyjne. Czy opłaca się jeszcze walczyć z rynkiem? Choć jeszcze w latach 70. pasywne inwestowanie brzmiało jak rezygnacja z ambicji, to dziś wygląda jak jedna z najbardziej udanych rewolucji w historii finansów. Dopiero po latach okazało się, że ta „przeciętność” ma ogromną siłę. Po odjęciu opłat, kosztów transakcyjnych i błędów inwestorów, wynik zbliżony do rynku bywa lepszy niż większość prób jego pobicia. Ale i przy pasywnym inwestowaniu, i ETF-ach jest pułapka.",
       "content_html": "",
       "date_published": "2026-07-15T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pogotowie-strajkowe-w-Grupie-Azoty-Pulawy-9168256.html",
-      "title": "Pogotowie strajkowe w Grupie Azoty Puławy. 13 żądań związkowców Dwie działające w Grupie Azoty Puławy organizacje związkowe ogłosiły pogotowie strajkowe i przedstawiły listę 13 żądań, które dotyczą warunków pracy, płacy, praw i wolności związkowych. Grupa Azoty poinformowała o trudnej sytuacji spółki i zapewniła, że analizuje otrzymane postulaty.",
-      "content_html": "",
-      "date_published": "2026-07-14T22:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanska-inflacja-niczym-kon-na-bialym-rycerzu-Jeden-odczyt-odwrocil-losy-sesji-9168255.html",
-      "title": "Amerykańska inflacja niczym koń na białym rycerzu. Jeden odczyt odwrócił losy sesji To mógł być dzień, który zapowiadał się jako jednoznacznie spadkowy. I wtedy nadszedł wręcz podejrzanie „miękki” odczyt inflacyjny, który odwrócił losy sesji.",
-      "content_html": "",
-      "date_published": "2026-07-14T22:11:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
