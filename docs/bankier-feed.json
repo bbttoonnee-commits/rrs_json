@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
+      "title": "Ciąg dalszy spadków na Nasdaqu. Ale szeroki rynek nie wygląda tak źle",
+      "content_html": "W piątek na Wall Street widzieliśmy zasadniczo to samo co w czwartek: przecenie poddawane były spółki technologiczne, podczas gdy szeroki rynek trzymał się całkiem nieźle.",
+      "date_published": "2026-07-17T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Morawiecki-spotkal-sie-z-Kaczynskim-Rozmowa-nie-doprowadzila-do-rozstrzygniecia-sprawy-zasadniczej-9170024.html",
       "url": "https://www.bankier.pl/wiadomosc/Morawiecki-spotkal-sie-z-Kaczynskim-Rozmowa-nie-doprowadzila-do-rozstrzygniecia-sprawy-zasadniczej-9170024.html",
       "title": "Morawiecki spotkał się z Kaczyńskim. \"Rozmowa nie doprowadziła do rozstrzygnięcia sprawy zasadniczej\"",
@@ -695,13 +702,6 @@
       "title": "Tragiczna noc w Odessie. Rosyjskie rakiety uderzyły w blok mieszkalny i przedszkole",
       "content_html": "Dwie osoby zginęły, a osiem zostało rannych w wyniku rosyjskich ataków powietrznych na Odessę na południu Ukrainy, przeprowadzonych w nocy z czwartku na piątek - poinformował zastępca mera miasta Ołeksandr Fiłatow.",
       "date_published": "2026-07-17T08:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Netflix-rozczarowal-rynek-Akcje-traca-9-mimo-solidnych-wynikow-9169417.html",
-      "url": "https://www.bankier.pl/wiadomosc/Netflix-rozczarowal-rynek-Akcje-traca-9-mimo-solidnych-wynikow-9169417.html",
-      "title": "Netflix rozczarował rynek? Akcje tracą 9% mimo solidnych wyników",
-      "content_html": "Przychody i zyski Netfliksa za drugi kwartał są zgodne z szacunkami Wall Street. Wzrost przychodów wynikał ze wzrostu liczby członków, cen i wyższych przychodów z reklam. Akcje platformy streamingowej w handlu pozasesyjnym idą jednak ok 9 proc...",
-      "date_published": "2026-07-17T08:22:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
+      "title": "Ciąg dalszy spadków na Nasdaqu. Ale szeroki rynek nie wygląda tak źle W piątek na Wall Street widzieliśmy zasadniczo to samo co w czwartek: przecenie poddawane były spółki technologiczne, podczas gdy szeroki rynek trzymał się całkiem nieźle.",
+      "content_html": "",
+      "date_published": "2026-07-17T22:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Larq-i-Wise-Ventures-ASI-odstepuja-od-zamiaru-ogloszenia-wezwania-na-sprzedaz-akcji-Larq-9169989.html",
       "url": "https://www.bankier.pl/wiadomosc/Larq-i-Wise-Ventures-ASI-odstepuja-od-zamiaru-ogloszenia-wezwania-na-sprzedaz-akcji-Larq-9169989.html",
       "title": "Larq i Wise Ventures ASI odstępują od zamiaru ogłoszenia wezwania na sprzedaż akcji Larq Larq oraz Wise Ventures ASI odstępują od zamiaru ogłoszenia wezwania dobrowolnego na sprzedaż akcji Larq - poinformowało Q Securities, podmiot pośredniczący, w piątkowym komunikacie..",
@@ -303,13 +310,6 @@
       "title": "AKADEMIA INWESTOWANIA Czym jest inwestowanie i kto naprawdę może zostać inwestorem? W pierwszym odcinku Akademii Inwestowania Bankier.pl nasz główny analityk Krzysztof Kolany bierze pod lupę absolutne fundamenty rynków finansowych, odpowiadając na podstawowe pytania: czym jest inwestowanie, po co to robimy i kim tak naprawdę jest inwestor.",
       "content_html": "",
       "date_published": "2026-07-16T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
-      "url": "https://www.bankier.pl/wiadomosc/S-P-500-po-cichu-podchodzi-pod-szczyt-hossy-Skromne-wzrosty-pomimo-Iranu-9168845.html",
-      "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek.",
-      "content_html": "",
-      "date_published": "2026-07-15T22:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
