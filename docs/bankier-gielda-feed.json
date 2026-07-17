@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tapniecie-na-gieldach-w-Azji-Hossa-sztucznej-inteligencji-hamuje-9169487.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tapniecie-na-gieldach-w-Azji-Hossa-sztucznej-inteligencji-hamuje-9169487.html",
+      "title": "Tąpnięcie na giełdach w Azji. Hossa sztucznej inteligencji hamuje Piątkowy poranek przyniósł zdecydowany odwrót azjatyckich indeksów giełdowych. Spadki zdominowały parkiety od Tokio po Tajpej, gdy globalna hossa związana ze sztuczną inteligencją gwałtownie wyhamowała. Inwestorzy w popłochu wyprzedają akcje producentów półprzewodników i gigantów technologicznych, a oliwy do ognia dolewają rosnące napięcia geopolityczne na Bliskim Wschodzie oraz powracający strach przed wyższymi stopami procentowymi w USA.",
+      "content_html": "",
+      "date_published": "2026-07-17T07:57:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Obligacje-korporacyjne-z-nowymi-indeksami-Teraz-beda-szukac-plynnosci-9169431.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obligacje-korporacyjne-z-nowymi-indeksami-Teraz-beda-szukac-plynnosci-9169431.html",
+      "title": "Kogo przyciągną \"husarze\"? Ważny rynek bardziej przejrzysty, teraz powalczy o płynność Inwestorzy dostali do rąk dwa nowe wskaźniki, pozwalające mierzyć koniunkturę na rynku obligacji korporacyjnych, a na jesień warszawska giełda zapowiada ogłoszenie reform mających rozruszać rynek Catalyst. Dziś długiem emitowanym na polskim rynku przez banki i przedsiębiorstwa obracają głównie krajowi inwestorzy instytucjonalni, ale celem jest przyciągnięcie większej grupy detalistów i kapitału zagranicznego.",
+      "content_html": "",
+      "date_published": "2026-07-17T07:27:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Netflix-rozczarowal-rynek-Akcje-traca-9-mimo-solidnych-wynikow-9169417.html",
+      "url": "https://www.bankier.pl/wiadomosc/Netflix-rozczarowal-rynek-Akcje-traca-9-mimo-solidnych-wynikow-9169417.html",
+      "title": "Netflix rozczarował rynek? Akcje tracą 9% mimo solidnych wyników Przychody i zyski Netfliksa za drugi kwartał są zgodne z szacunkami Wall Street. Wzrost przychodów wynikał ze wzrostu liczby członków, cen i wyższych przychodów z reklam. Akcje platformy streamingowej w handlu pozasesyjnym idą jednak ok 9 proc. w dół.",
+      "content_html": "",
+      "date_published": "2026-07-17T07:22:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Krotka-gra-szybkie-zyski-Tuszkiewicz-Najlepszy-czas-na-start-jest-wlasnie-dzis-9169034.html",
       "url": "https://www.bankier.pl/wiadomosc/Krotka-gra-szybkie-zyski-Tuszkiewicz-Najlepszy-czas-na-start-jest-wlasnie-dzis-9169034.html",
       "title": "WAKACJE NA GIEŁDZIE Krótka gra, szybkie zyski? Tuszkiewicz: Najlepszy czas na start jest właśnie dziś Giełda to nie tylko liczby, wykresy i potężne zyski, ale przede wszystkim prawdziwa szkoła emocji, charakteru i radzenia sobie ze stresem. Każdy inwestor pamięta swoje pierwsze kroki – nierzadko stawiane w szkolnych ławkach podczas wirtualnych symulacji, które potrafią zaszczepić rynkową pasję na całe życie. Czy da się uniknąć bolesnego zderzenia z giełdową rzeczywistością, gdy przechodzimy na prawdziwe pieniądze? Jak skutecznie pomnożyć wirtualny kapitał, gdy mamy na to tylko kilka letnich tygodni? O blaskach i cieniach tradingu, pułapkach dla początkujących oraz strategiach na rynkowy sukces rozmawiają Aleksander Ogrodnik oraz Marcin Tuszkiewicz, CEO Investio i Squaber.com",
@@ -226,13 +247,6 @@
       "title": "Gaz w Europie najdroższy od końca marca Ceny gazu w Europie są na najwyższym poziomie od końca marca. Maleją nadzieje na rychłe wznowienie dostaw paliwa z Bliskiego Wschodu - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-07-15T08:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BGK-PFR-i-PZU-chca-stworzyc-fundusz-funduszy-Jest-wniosek-do-UOKiK-9168240.html",
-      "url": "https://www.bankier.pl/wiadomosc/BGK-PFR-i-PZU-chca-stworzyc-fundusz-funduszy-Jest-wniosek-do-UOKiK-9168240.html",
-      "title": "BGK, PFR i PZU chcą stworzyć fundusz funduszy. Jest wniosek do UOKiK Bank Gospodarstwa Krajowego, Polski Fundusz Rozwoju, PZU oraz Innovate PL mają stworzyć nowy fundusz funduszy, czyli fundusz inwestycyjny lokujący kapitał w jednostkach uczestnictwa lub certyfikatach innych funduszy inwestycyjnych - wynika z wniosku o koncentracje, który otrzymał UOKiK.",
-      "content_html": "",
-      "date_published": "2026-07-15T07:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
