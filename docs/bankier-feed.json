@@ -4,11 +4,53 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Morawiecki-spotkal-sie-z-Kaczynskim-Rozmowa-nie-doprowadzila-do-rozstrzygniecia-sprawy-zasadniczej-9170024.html",
+      "url": "https://www.bankier.pl/wiadomosc/Morawiecki-spotkal-sie-z-Kaczynskim-Rozmowa-nie-doprowadzila-do-rozstrzygniecia-sprawy-zasadniczej-9170024.html",
+      "title": "Morawiecki spotkał się z Kaczyńskim. \"Rozmowa nie doprowadziła do rozstrzygnięcia sprawy zasadniczej\"",
+      "content_html": "Piątkowe spotkanie prezesa PiS Jarosława Kaczyńskiego z b. premierem Mateuszem Morawieckim nie doprowadziło do rozstrzygnięcia sprawy; decyzja o nakazie wystąpienia ze stowarzyszeń „prowadzących działalność polityczną” wciąż aktualna...",
+      "date_published": "2026-07-17T21:05:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Magyar-domaga-sie-od-UE-zwrotu-kary-za-polityke-migracyjna-rzadu-Orbana-9170011.html",
+      "url": "https://www.bankier.pl/wiadomosc/Magyar-domaga-sie-od-UE-zwrotu-kary-za-polityke-migracyjna-rzadu-Orbana-9170011.html",
+      "title": "Magyar domaga się od UE zwrotu kary za politykę migracyjną rządu Orbana",
+      "content_html": "Premier Węgier Peter Magyar domaga się od Unii Europejskiej zwrotu kary nałożonej na Budapeszt za politykę migracyjną rządu Viktora Orbana - przekazał w piątek portal Euronews, powołując się na rozmowę z szefem węgierskiego rządu.",
+      "date_published": "2026-07-17T21:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-wysylaja-kolejne-powietrzne-tankowce-Axios-to-przygotowania-do-eskalacji-wojny-z-Iranem-9170015.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-wysylaja-kolejne-powietrzne-tankowce-Axios-to-przygotowania-do-eskalacji-wojny-z-Iranem-9170015.html",
+      "title": "USA wysyłają kolejne powietrzne tankowce. Axios: to przygotowania do eskalacji wojny z Iranem",
+      "content_html": "Administracja Donalda Trumpa powiadomiła Izrael o wysłaniu dziesiątków powietrznych tankowców w ramach przygotowań do eskalacji ataków na Iran - podał w piątek portal Axios. Według źródeł portalu wojsko przedstawiło prezydentowi kilka opcji...",
+      "date_published": "2026-07-17T20:47:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Korecki-formuje-swoj-rzad-Sybiha-pozostaje-szefem-dyplomacji-9169997.html",
+      "url": "https://www.bankier.pl/wiadomosc/Korecki-formuje-swoj-rzad-Sybiha-pozostaje-szefem-dyplomacji-9169997.html",
+      "title": "Korecki formuje swój rząd. Sybiha pozostaje szefem dyplomacji",
+      "content_html": "Ukraiński rząd powierzył pełnienie obowiązków ministra obrony Jewhenijowi Chmarze, a ministra spraw zagranicznych dotychczasowemu szefowi dyplomacji Andrijowi Sybisze - poinformował w piątek premier Ukrainy Serhij Korecki.",
+      "date_published": "2026-07-17T20:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bezzebna-ustawa-o-najmie-krotkoterminowym-Pelczynska-Nalecz-Ludzie-maja-prawo-decydowac-czy-chca-miec-burdel-za-sciana-9169921.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bezzebna-ustawa-o-najmie-krotkoterminowym-Pelczynska-Nalecz-Ludzie-maja-prawo-decydowac-czy-chca-miec-burdel-za-sciana-9169921.html",
+      "title": "Bezzębna ustawa o najmie krótkoterminowym? Pełczyńska-Nałęcz: Ludzie mają prawo decydować, czy chcą mieć burdel za ścianą",
+      "content_html": "Rząd w tym tygodniu uchwalił ustawę regulującą rynek najmu krótkoterminowego, jednak ostateczny kształt przepisów jest znacznie skromniejszy od pierwotnych zapowiedzi. Z projektu zniknęło wiele rozwiązań, których od miesięcy domagały się...",
+      "date_published": "2026-07-17T20:01:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kneset-rozwiazal-sie-przed-wyborami-Netanjahu-powalczy-o-kolejna-kadencje-9169981.html",
       "url": "https://www.bankier.pl/wiadomosc/Kneset-rozwiazal-sie-przed-wyborami-Netanjahu-powalczy-o-kolejna-kadencje-9169981.html",
       "title": "Kneset rozwiązał się przed wyborami. Netanjahu powalczy o kolejną kadencję",
       "content_html": "Izraelski parlament przegłosował w piątek samorozwiązanie przed wyznaczonymi na 27 października wyborami. W ostatnim tygodniu obrad izba przyjęła szereg ustaw, które wywołały krytykę opozycji. Według sondaży koalicja premiera Benjamina Netanjahu...",
       "date_published": "2026-07-17T19:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzez-Wolynska-Prezydent-Zelenski-zapowiada-otwarcie-archiwow-sluzb-9169994.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzez-Wolynska-Prezydent-Zelenski-zapowiada-otwarcie-archiwow-sluzb-9169994.html",
+      "title": "Rzeź Wołyńska. Prezydent Zełenski zapowiada otwarcie archiwów służb",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski zapowiedział w piątek otwarcie archiwów Służby Bezpieczeństwa Ukrainy (SBU) i Służby Wywiadu Zagranicznego Ukrainy dotyczących „tragicznych wydarzeń XX wieku na Wołyniu” oraz zwiększenie liczby zezwoleń...",
+      "date_published": "2026-07-17T19:49:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Larq-i-Wise-Ventures-ASI-odstepuja-od-zamiaru-ogloszenia-wezwania-na-sprzedaz-akcji-Larq-9169989.html",
@@ -23,6 +65,13 @@
       "title": "Dym z kanadyjskich pożarów paraliżuje część USA. AQI osiąga niebezpieczne poziomy",
       "content_html": "Lokalne władze w 18 amerykańskich stanach obejmujących obszary zamieszkanych przez ponad 100 mln ludzi wydały ostrzeżenia dotyczące jakości powietrza spowodowane dymem pochodzącym z leśnych pożarów w Kanadzie. W piątek gęsty smog dotarł...",
       "date_published": "2026-07-17T19:37:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mateusz-Szczurek-zostal-odwolany-z-zarzadu-BGK-9169977.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mateusz-Szczurek-zostal-odwolany-z-zarzadu-BGK-9169977.html",
+      "title": "Mateusz Szczurek został odwołany z zarządu BGK",
+      "content_html": "Premier Donald Tusk odwołał Mateusza Szczurka z funkcji członka zarządu Banku Gospodarstwa Krajowego z dniem 26 lipca 2026 r. - podał bank w komunikacie.",
+      "date_published": "2026-07-17T19:12:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rodzinom-zmarlych-mieli-proponowac-jeden-zaklad-pogrzebowy-Prokuratura-bada-sprawe-9169927.html",
@@ -142,6 +191,13 @@
       "title": "Historyczna ustawa zablokowana. Prezydent stawia weto, koalicja rządząca mówi o \"hańbie i pogardzie\"",
       "content_html": "Prezydent Karol Nawrocki zawetował w piątek rządową ustawę o statusie osoby najbliższej w związku i umowie o wspólnym pożyciu oraz ustawę ją wprowadzającą.",
       "date_published": "2026-07-17T16:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zakupy-moga-sfinansowac-wakacje-Pekao-przedluza-kuszaca-promocje-9169499.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zakupy-moga-sfinansowac-wakacje-Pekao-przedluza-kuszaca-promocje-9169499.html",
+      "title": "Zakupy mogą sfinansować wakacje. Pekao przedłuża kuszącą promocję",
+      "content_html": "Bank Pekao S.A. przedłużył swoją wielką promocję do 31 sierpnia 2026 roku. Oferta pozwala na zdobycie nawet 2700 złotych premii, a jej mechanizm opiera się na finansowaniu Twoich wyjazdów poprzez codzienne, zwykłe zakupy. Sprawdzamy, na co warto...",
+      "date_published": "2026-07-17T16:20:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Sily-SBU-zniszczyly-rosyjski-bombowiec-strategiczny-9169804.html",
@@ -646,55 +702,6 @@
       "title": "Netflix rozczarował rynek? Akcje tracą 9% mimo solidnych wyników",
       "content_html": "Przychody i zyski Netfliksa za drugi kwartał są zgodne z szacunkami Wall Street. Wzrost przychodów wynikał ze wzrostu liczby członków, cen i wyższych przychodów z reklam. Akcje platformy streamingowej w handlu pozasesyjnym idą jednak ok 9 proc...",
       "date_published": "2026-07-17T08:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-wrog-na-celowniku-Waszyngtonu-Rubio-oglasza-walke-z-lewicowym-terroryzmem-9169429.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-wrog-na-celowniku-Waszyngtonu-Rubio-oglasza-walke-z-lewicowym-terroryzmem-9169429.html",
-      "title": "Nowy wróg na celowniku Waszyngtonu. Rubio ogłasza walkę z \"lewicowym terroryzmem\"",
-      "content_html": "Biały Dom oświadczył w czwartek, że ekstremizm skrajnie lewicowy będzie traktowany tak samo jak terroryzm dżihadystyczny. Tego dnia w Waszyngtonie odbyła się konferencja poświęcona „politycznemu terroryzmowi”, zwołana przez sekretarza stanu...",
-      "date_published": "2026-07-17T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drastyczny-wzrost-agresji-wobec-Ukraincow-Dane-policji-obnazaja-zmiane-nastrojow-9169446.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drastyczny-wzrost-agresji-wobec-Ukraincow-Dane-policji-obnazaja-zmiane-nastrojow-9169446.html",
-      "title": "Drastyczny wzrost agresji wobec Ukraińców. Dane policji obnażają zmianę nastrojów",
-      "content_html": "Najnowsze dane policji pokazują drastyczną zmianę nastrojów społecznych. W I półroczu obywatele Ukrainy złożyli w Polsce aż 180 zawiadomień o przestępstwach z nienawiści - informuje „Rzeczpospolita” w piątkowym wydaniu.",
-      "date_published": "2026-07-17T08:17:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-zaplaci-za-sekundy-Firma-Trumpa-sprzedaje-szybszy-dostep-do-jego-wpisow-9169482.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-zaplaci-za-sekundy-Firma-Trumpa-sprzedaje-szybszy-dostep-do-jego-wpisow-9169482.html",
-      "title": "Wall Street zapłaci za sekundy. Firma Trumpa sprzedaje szybszy dostęp do jego wpisów",
-      "content_html": "Należąca do prezydenta USA Donalda Trumpa firma TMTG zapowiedziała w czwartek, że sprzeda firmom i inwestorom najszybszy dostęp do wpisów najpopularniejszych użytkowników, czyli przede wszystkim samego Trumpa. Zapowiedź wywołała oskarżenia...",
-      "date_published": "2026-07-17T08:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Te-gieldy-kryptowalut-przetrwaly-MiCA-i-legalnie-obsluza-Polakow-9167726.html",
-      "url": "https://www.bankier.pl/wiadomosc/Te-gieldy-kryptowalut-przetrwaly-MiCA-i-legalnie-obsluza-Polakow-9167726.html",
-      "title": "Trzęsienie ziemi na rynku kryptowalut w Europie. Te firmy przetrwały i legalnie obsłużą Polaków",
-      "content_html": "Licencję na prowadzenie platformy obrotu kryptowalutami z własnym arkuszem zleceń otrzymało zaledwie 18 podmiotów w całej Unii Europejskiej. Kto zdał regulacyjny test MiCA? Które giełdy pozostały do dyspozycji Polaków? Jak wyglądają alternatywy...",
-      "date_published": "2026-07-17T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mozesz-zgarnac-700-zl-od-ING-Aplikacja-sama-pokaze-co-masz-jeszcze-zrobic-9168404.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mozesz-zgarnac-700-zl-od-ING-Aplikacja-sama-pokaze-co-masz-jeszcze-zrobic-9168404.html",
-      "title": "Możesz zgarnąć 700 zł od ING. Aplikacja sama pokaże, co masz jeszcze zrobić",
-      "content_html": "Szukasz sposobu na dodatkowe środki i wyższe zyski ze swoich oszczędności? ING Bank Śląski przygotował pakiet korzyści dla nowych klientów, w którym do zdobycia jest łącznie nawet 700 zł premii oraz atrakcyjne, promocyjne oprocentowanie oszczędności...",
-      "date_published": "2026-07-17T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-aut-uzywanych-lipiec-2026-9169015.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-aut-uzywanych-lipiec-2026-9169015.html",
-      "title": "W Warszawie używane auta droższe nawet niż z salonu. Ceny po przerwie w górę a kupujących ubyło",
-      "content_html": "Inaczej niż w salonach samochodowych, pierwsza połowa 2026 r. przyniosła w komisach spadek importu używanych aut z zagranicy – wynika z danych Instytutu Badań Rynku Motoryzacyjnego Samar. W przeciwnym kierunku powędrowały ceny. Na Mazowszu w...",
-      "date_published": "2026-07-17T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krotka-gra-szybkie-zyski-Tuszkiewicz-Najlepszy-czas-na-start-jest-wlasnie-dzis-9169034.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krotka-gra-szybkie-zyski-Tuszkiewicz-Najlepszy-czas-na-start-jest-wlasnie-dzis-9169034.html",
-      "title": "Krótka gra, szybkie zyski? Tuszkiewicz: Najlepszy czas na start jest właśnie dziś",
-      "content_html": "Giełda to nie tylko liczby, wykresy i potężne zyski, ale przede wszystkim prawdziwa szkoła emocji, charakteru i radzenia sobie ze stresem. Każdy inwestor pamięta swoje pierwsze kroki – nierzadko stawiane w szkolnych ławkach podczas wirtualnych...",
-      "date_published": "2026-07-17T07:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
