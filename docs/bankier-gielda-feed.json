@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Larq-i-Wise-Ventures-ASI-odstepuja-od-zamiaru-ogloszenia-wezwania-na-sprzedaz-akcji-Larq-9169989.html",
+      "url": "https://www.bankier.pl/wiadomosc/Larq-i-Wise-Ventures-ASI-odstepuja-od-zamiaru-ogloszenia-wezwania-na-sprzedaz-akcji-Larq-9169989.html",
+      "title": "Larq i Wise Ventures ASI odstępują od zamiaru ogłoszenia wezwania na sprzedaż akcji Larq Larq oraz Wise Ventures ASI odstępują od zamiaru ogłoszenia wezwania dobrowolnego na sprzedaż akcji Larq - poinformowało Q Securities, podmiot pośredniczący, w piątkowym komunikacie..",
+      "content_html": "",
+      "date_published": "2026-07-17T18:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-ok-77-5-mln-zl-netto-m-in-na-prace-budowlane-dla-magazynu-energii-w-Polsce-9169946.html",
       "url": "https://www.bankier.pl/wiadomosc/Onde-ma-umowe-na-ok-77-5-mln-zl-netto-m-in-na-prace-budowlane-dla-magazynu-energii-w-Polsce-9169946.html",
       "title": "Onde ma umowę na ok. 77,5 mln zł netto m.in. na prace budowlane dla magazynu energii w Polsce Onde zawarło z polską spółką celową należącą do grupy kapitałowej inwestora z branży OZE umowę na wykonanie prac budowlanych oraz elektroenergetycznych, z wyłączeniem dostaw technologii magazynowej, dla magazynu energii zlokalizowanego w Polsce - podało Onde w komunikacie. Wartość umowy wynosi ok. 77,5 mln zł netto.",
@@ -303,13 +310,6 @@
       "title": "S&P 500 po cichu podchodzi pod szczyt hossy. Skromne wzrosty pomimo Iranu Amerykańskie giełdy zakończyły środową sesję umiarkowanymi wzrostami głównych indeksów, a inwestorzy analizują sytuację na Bliskim Wschodzie, najnowsze dane o inflacji i kwartalne wyniki spółek.",
       "content_html": "",
       "date_published": "2026-07-15T22:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-Medicalgorithmics-zdecydowalo-o-emisji-500-620-akcji-serii-P-w-cenie-emisyjnej-33-zl-szt-9168792.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-Medicalgorithmics-zdecydowalo-o-emisji-500-620-akcji-serii-P-w-cenie-emisyjnej-33-zl-szt-9168792.html",
-      "title": "NWZ Medicalgorithmics zdecydowało o emisji 500.620 akcji serii P w cenie emisyjnej 33 zł/szt. Nadzwyczajne walne zgromadzenie Medicalgorithmics zdecydowało emisji 500.620 akcji serii P do objęcia przez Biofund Capital Management po cenie emisyjnej 33 zł za papier - poinformowała spółka w komunikacie po walnym.",
-      "content_html": "",
-      "date_published": "2026-07-15T18:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
