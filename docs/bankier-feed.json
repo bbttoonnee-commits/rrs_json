@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ladny-to-wiarygodny-Tak-zetki-sprawdzaja-e-sklepy-9167102.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ladny-to-wiarygodny-Tak-zetki-sprawdzaja-e-sklepy-9167102.html",
+      "title": "Ładny to wiarygodny? Tak zetki sprawdzają e-sklepy",
+      "content_html": "W ocenie młodych klientów wiarygodność sklepów internetowych potwierdzają certyfikaty, aktywny profil w social mediach czy profesjonalnie wykonana strona, z kolei dla starszych ważniejsze są informacje dot. kontaktu i danych rejestrowych firmy...",
+      "date_published": "2026-07-18T12:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mlodzi-i-dobrze-wyksztalceni-najczestszym-celem-oszustow-podszywajacych-sie-pod-urzedy-9168287.html",
       "url": "https://www.bankier.pl/wiadomosc/Mlodzi-i-dobrze-wyksztalceni-najczestszym-celem-oszustow-podszywajacych-sie-pod-urzedy-9168287.html",
       "title": "Młodzi i dobrze wykształceni najczęstszym celem oszustów podszywających się pod urzędy",
@@ -16,6 +23,48 @@
       "title": "Wojna na Bliskim Wschodzie z istotnym wpływem na finanse ponad połowy Polaków",
       "content_html": "Ponad połowa, bo 53 proc. Polaków spodziewa się, że istotny wpływ na ich finanse będzie miał konflikt na Bliskim Wschodzie, a kolejne 46 proc. wskazuje na wojnę w Ukrainie - wynika z badania „Banking on Banks 2026. Usługi finansowe w czasach...",
       "date_published": "2026-07-18T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Baltyk-zaczyna-sie-w-szambie-Polska-walczy-z-niewidzialnym-zrodlem-zanieczyszczen-9169475.html",
+      "url": "https://www.bankier.pl/wiadomosc/Baltyk-zaczyna-sie-w-szambie-Polska-walczy-z-niewidzialnym-zrodlem-zanieczyszczen-9169475.html",
+      "title": "Bałtyk zaczyna się w szambie. Polska walczy z niewidzialnym źródłem zanieczyszczeń",
+      "content_html": "Polska ma niższy poziom podłączenia mieszkańców do sieci kanalizacyjnej w porównaniu z pozostałymi krajami basenu Morza Bałtyckiego. W kraju funkcjonuje ok. 2,5 mln szamb i przydomowych oczyszczalni...",
+      "date_published": "2026-07-18T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-KPRP-o-wecie-prezydenta-To-nie-pogarda-ale-obrona-malzenstwa-9170076.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-KPRP-o-wecie-prezydenta-To-nie-pogarda-ale-obrona-malzenstwa-9170076.html",
+      "title": "Szef KPRP o wecie prezydenta: To nie pogarda, ale obrona małżeństwa",
+      "content_html": "Prezydenckie weto to nie wyraz pogardy wobec ludzi i ich prawa do szczęścia i normalnego życia, ale obrona małżeństwa - napisał szef kancelarii prezydenta Polski Zbigniew Bogucki, odnosząc się do krytycznej reakcji premiera Tuska na odmowę podpisania...",
+      "date_published": "2026-07-18T11:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przyszlosc-Europy-zalezy-od-zapylaczy-Eksperci-przedstawili-plan-ich-ochrony-9167660.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przyszlosc-Europy-zalezy-od-zapylaczy-Eksperci-przedstawili-plan-ich-ochrony-9167660.html",
+      "title": "Przyszłość Europy zależy od zapylaczy. Eksperci przedstawili plan ich ochrony",
+      "content_html": "Ograniczenie stosowania pestycydów, odbudowa siedlisk, rozwój monitoringu dzikich zapylaczy oraz uwzględnienie ich ochrony we wszystkich politykach Unii Europejskiej – to najważniejsze rekomendacje raportu przygotowanego przez międzynarodowy zespół...",
+      "date_published": "2026-07-18T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejny-kraj-wprowadza-zakaz-korzystania-z-hulajnog-elektrycznych-przez-osoby-nieletnie-9168283.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejny-kraj-wprowadza-zakaz-korzystania-z-hulajnog-elektrycznych-przez-osoby-nieletnie-9168283.html",
+      "title": "Kolejny kraj wprowadza zakaz korzystania z hulajnóg elektrycznych przez osoby nieletnie",
+      "content_html": "W Macedonii Północnej z hulajnóg elektrycznych mogą korzystać wyłącznie osoby, które ukończyły 18. rok życia, przy czym prędkość jazdy nie może przekraczać 20 kilometrów na godzinę - podały lokalne media.",
+      "date_published": "2026-07-18T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Biedny-student-to-glodny-student-Rektorzy-uniwersytetow-z-apelem-do-rzadu-9169365.html",
+      "url": "https://www.bankier.pl/wiadomosc/Biedny-student-to-glodny-student-Rektorzy-uniwersytetow-z-apelem-do-rzadu-9169365.html",
+      "title": "Biedny student to głodny student? Rektorzy uniwersytetów z apelem do rządu",
+      "content_html": "Rektorzy polskich uniwersytetów zwrócili się do rządu z apelem o systemowe wsparcie dostępności posiłków dla studentów. Jak podkreślili, głos studentów i doświadczenia uczelni wskazują, że problem ma charakter ogólnopolski.",
+      "date_published": "2026-07-18T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaklady-na-przemowienia-Trumpa-Operator-promptera-wygral-100-tys-dol-9169418.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaklady-na-przemowienia-Trumpa-Operator-promptera-wygral-100-tys-dol-9169418.html",
+      "title": "Zakłady na przemówienia Trumpa. Operator promptera wygrał 100 tys. dol.",
+      "content_html": "Operator promptera Donalda Trumpa miał wygrać ponad 100 tys. dolarów, obstawiając zakłady na temat przemówień prezydenta - podała stacja ABC News. Biały Dom przekazał, że pracownik został skierowany na urlop administracyjny.",
+      "date_published": "2026-07-18T11:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tlumy-kandydatow-na-studia-Medycyna-i-psychologia-wsrod-najpopularniejszych-kierunkow-9170094.html",
@@ -653,55 +702,6 @@
       "title": "Ceny i metraże mieszkań w jednym formacie. Sejm zdecydował",
       "content_html": "Sejm poparł w piątek część senackich poprawek do nowelizacji, która nakłada na deweloperów obowiązek udostępniania informacji na portalu dane.gov.pl, m.in. o cenach i metrażu nieruchomości, według jednolitego formatu. Niezastosowanie się...",
       "date_published": "2026-07-17T11:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Marynarze-zyskaja-zerowy-PIT-Sejm-zakonczyl-prace-nad-ustawa-9169607.html",
-      "url": "https://www.bankier.pl/wiadomosc/Marynarze-zyskaja-zerowy-PIT-Sejm-zakonczyl-prace-nad-ustawa-9169607.html",
-      "title": "Marynarze zyskają zerowy PIT. Sejm zakończył prace nad ustawą",
-      "content_html": "Sejm w piątek zaakceptował poprawki Senatu do nowelizacji ustawy wprowadzającej zerowy PIT dla marynarzy, a także pracowników statków obsługujących sektor offshore. Nowe przepisy mają poprawić konkurencyjność przedsiębiorstw żeglugowych...",
-      "date_published": "2026-07-17T11:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rocznica-zbrodni-na-Wolyniu-Jest-uroczysta-uchwala-Sejmu-i-hold-dla-ofiar-ludobojstwa-9169600.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rocznica-zbrodni-na-Wolyniu-Jest-uroczysta-uchwala-Sejmu-i-hold-dla-ofiar-ludobojstwa-9169600.html",
-      "title": "Rocznica zbrodni na Wołyniu. Jest uroczysta uchwała Sejmu i hołd dla ofiar ludobójstwa",
-      "content_html": "Sejm jednogłośnie poparł w piątek uchwałę w sprawie uczczenia pamięci ofiar ludobójstwa dokonanego na ziemiach wschodnich II Rzeczypospolitej przez nacjonalistów ukraińskich. Złożono w niej hołd wszystkim ofiarom tych zbrodni, podkreślono...",
-      "date_published": "2026-07-17T11:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szokujace-oredzie-z-Bialego-Domu-Prezydent-USA-uderza-w-Pekin-i-amerykanskie-media-9169450.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szokujace-oredzie-z-Bialego-Domu-Prezydent-USA-uderza-w-Pekin-i-amerykanskie-media-9169450.html",
-      "title": "Szokujące orędzie z Białego Domu. Prezydent USA uderza w Pekin i amerykańskie media",
-      "content_html": "Prezydent USA Donald Trump w czwartkowym orędziu do narodu zarzucił Chinom, że ingerowały w amerykański proces wyborczy w 2020 r. Podkreślił, że chce, by jesienne wybory uzupełniające do Kongresu były uczciwe i ponownie wezwał do przyjęcia...",
-      "date_published": "2026-07-17T11:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bon-senioralny-wchodzi-w-zycie-Prezydent-podpisal-ustawe-wspierajaca-osoby-starsze-9169549.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bon-senioralny-wchodzi-w-zycie-Prezydent-podpisal-ustawe-wspierajaca-osoby-starsze-9169549.html",
-      "title": "Bon senioralny wchodzi w życie. Prezydent podpisał ustawę wspierającą osoby starsze",
-      "content_html": "Prezydent Karol Nawrocki podpisał ustawę o osobach starszych i koordynacji opieki długoterminowej. Jej celem jest m.in. wprowadzenie rządowego programu bonu senioralnego dla osób powyżej 65 lat. Świadczenie niepieniężne ma pomagać seniorom w...",
-      "date_published": "2026-07-17T11:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mabion-ma-umowe-ramowa-z-KriSan-Biotech-ws-partnerstwa-w-zakresie-ADC-nowej-generacji-9169587.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mabion-ma-umowe-ramowa-z-KriSan-Biotech-ws-partnerstwa-w-zakresie-ADC-nowej-generacji-9169587.html",
-      "title": "Mabion łączy siły z KriSan Biotech. Polsko-tajwańska współpraca przy produkcji leków nowej generacji",
-      "content_html": "Mabion podpisał umowę ramową o świadczeniu usług z tajwańską spółką KriSan Biotech, spółki będą wspólnie opracowywać, oferować i dostarczać zintegrowane usługi w segmencie koniugatów przeciwciało-lek (ADC) dla globalnego przemysłu...",
-      "date_published": "2026-07-17T11:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-anonimowoscia-zarobkow-medykow-Prezydent-podpisal-ustawe-9169528.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-anonimowoscia-zarobkow-medykow-Prezydent-podpisal-ustawe-9169528.html",
-      "title": "Koniec z anonimowością zarobków lekarzy. Prezydent podpisał ustawę",
-      "content_html": "Prezydent Karol Nawrocki podpisał ustawę umożliwiającą gromadzenie danych o wynagrodzeniach m.in. lekarzy w powiązaniu z numerem PESEL lub numerem prawa wykonywania zawodu. W uzasadnieniu swojej decyzji podkreślił przy tym, że przejrzystość...",
-      "date_published": "2026-07-17T11:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-ustawe-ws-patostreamingu-Kary-do-3-lat-wiezienia-9169541.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-ustawe-ws-patostreamingu-Kary-do-3-lat-wiezienia-9169541.html",
-      "title": "Prezydent podpisał ustawę ws. patostreamingu. Kary do 3 lat więzienia",
-      "content_html": "Prezydent Karol Nawrocki podpisał w piątek nowelizację Kodeksu karnego zakładającą wprowadzenie odpowiedzialności karnej za tzw. patostreaming. Regulacja powstała w wyniku połączenia dwóch projektów – jednego autorstwa PiS i drugiego KO...",
-      "date_published": "2026-07-17T11:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
