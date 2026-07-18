@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gwaltowny-skok-cen-kawy-Pogodowe-anomalie-w-Brazylii-strasza-swiatowe-gieldy-9167229.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gwaltowny-skok-cen-kawy-Pogodowe-anomalie-w-Brazylii-strasza-swiatowe-gieldy-9167229.html",
+      "title": "Gwałtowny skok cen kawy. Pogodowe anomalie w Brazylii straszą światowe giełdy El Nino napędza ceny kawy na rynkach światowych - podaje International Coffee Organization, organizacja producentów kawy.",
+      "content_html": "",
+      "date_published": "2026-07-18T16:55:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zarabiamy-swietnie-ale-nie-wiemy-jak-dlugo-to-jeszcze-potrwa-9169965.html",
       "url": "https://www.bankier.pl/wiadomosc/Zarabiamy-swietnie-ale-nie-wiemy-jak-dlugo-to-jeszcze-potrwa-9169965.html",
       "title": "O TYM MÓWI WALL STREET „Zarabiamy świetnie, ale nie wiemy, jak długo to jeszcze potrwa” Na Wall Street panuje radość z kolejnych doskonałych wyników finansowych spółek. Pojawia się jednak również niepokój o to, jak i kiedy ta impreza się skończy. Część ekspertów martwi się zachowaniem inwestorów, inni z kolei szukają okazji na rynkach, które zaliczyły silne spadki.",
@@ -198,27 +205,6 @@
       "title": "Iran grozi blokadą Morza Czerwonego. Nasdaq mocno w dół Groźba eskalacji wojny na Bliskim Wschodzie przysłoniła niezłe dane napływające z gospodarki USA i doprowadziła do silnej przeceny akcji spółek technologicznych.",
       "content_html": "",
       "date_published": "2026-07-16T22:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Japonski-gigant-chce-akcje-Zabki-Franczyzowy-gigant-zamortyzowal-przecene-na-gieldzie-9169301.html",
-      "url": "https://www.bankier.pl/wiadomosc/Japonski-gigant-chce-akcje-Zabki-Franczyzowy-gigant-zamortyzowal-przecene-na-gieldzie-9169301.html",
-      "title": "Japoński gigant chce akcje Żabki. Franczyzowy gigant zamortyzował przecenę na giełdzie Rosnące napięcie geopolityczne na Bliskim Wschodzie podyktowało warunki na globalnych rynkach finansowych, spychając większość głównych indeksów pod kreskę. Na tym ponurym tle warszawski parkiet wyglądał przyzwoicie, a WIG20 w pewnym momencie zbliżył na 100 punktów do swojego historycznego szczytu z 2007 r. Gwiazdą sesji okazała się Grupa Żabka po sensacyjnych doniesieniach o możliwym sojuszu z japońskim potentatem handlowym.",
-      "content_html": "",
-      "date_published": "2026-07-16T17:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GPW-Benchmark-uruchomil-System-Monitoringu-Rynku-Obligacji-Korporacyjnych-9169297.html",
-      "url": "https://www.bankier.pl/wiadomosc/GPW-Benchmark-uruchomil-System-Monitoringu-Rynku-Obligacji-Korporacyjnych-9169297.html",
-      "title": "GPW Benchmark uruchomił System Monitoringu Rynku Obligacji Korporacyjnych GPW Benchmark uruchomił System Monitoringu Rynku Obligacji Korporacyjnych, który ma zwiększyć transparentność informacji dotyczącej aktywności na rynku nieskarbowych papierów dłużnych - podało GPW Benchmark w komunikacie. Elementem nowej usługi jest publikacja dwóch indeksów: Warszawskiego Indeksu Publicznych Instrumentów Dłużnych oraz Poland Corporate Bond Financials Index.",
-      "content_html": "",
-      "date_published": "2026-07-16T17:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
-      "url": "https://www.bankier.pl/wiadomosc/MOL-spodziewa-sie-w-lipcu-pierwszej-raty-100-mln-USD-odszkodowania-za-pozar-rafinerii-w-25-9169292.html",
-      "title": "MOL spodziewa się w lipcu pierwszej raty 100 mln USD odszkodowania za pożar rafinerii w '25 W ramach trwającej oceny strat wynikających z przestoju spowodowanego pożarem instalacji destylacji ropy naftowej AV3 w Rafinerii Dunaj w październiku 2025 roku, konsorcjum ubezpieczycieli wydało oficjalne potwierdzenie uznania odpowiedzialności za zdarzenie - podał MOL w komunikacie. MOL spodziewa się w lipcu pierwszej raty płatności odszkodowania w wys. 100 mln USD.",
-      "content_html": "",
-      "date_published": "2026-07-16T17:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
