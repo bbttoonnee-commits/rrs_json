@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zarabiamy-swietnie-ale-nie-wiemy-jak-dlugo-to-jeszcze-potrwa-9169965.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zarabiamy-swietnie-ale-nie-wiemy-jak-dlugo-to-jeszcze-potrwa-9169965.html",
+      "title": "O TYM MÓWI WALL STREET „Zarabiamy świetnie, ale nie wiemy, jak długo to jeszcze potrwa” Na Wall Street panuje radość z kolejnych doskonałych wyników finansowych spółek. Pojawia się jednak również niepokój o to, jak i kiedy ta impreza się skończy. Część ekspertów martwi się zachowaniem inwestorów, inni z kolei szukają okazji na rynkach, które zaliczyły silne spadki.",
+      "content_html": "",
+      "date_published": "2026-07-18T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-trafia-w-cel-paliwowy-koszmar-nawiedzil-stacje-i-S-P-500-coraz-bardziej-zalezny-od-technologii-9169562.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-trafia-w-cel-paliwowy-koszmar-nawiedzil-stacje-i-S-P-500-coraz-bardziej-zalezny-od-technologii-9169562.html",
+      "title": "WYKRESY TYGODNIA Inflacja trafia w cel, paliwowy koszmar nawiedził stacje i S&P 500 coraz bardziej zależny od technologii Cześć, tu Inwestor Wojtek. Dzisiejszy przegląd zaczynamy od danych, na które czekali ekonomiści i inwestorzy. Inflacja w Polsce znalazła się dokładnie w celu Narodowego Banku Polskiego, a najnowsze odczyty sugerują, że presja cenowa pozostaje pod kontrolą. Jednocześnie nie wszystkie sygnały płynące z gospodarki są równie optymistyczne – za granicą pojawiają się oznaki spowolnienia, a rynki coraz uważniej przyglądają się temu, czy obecna hossa ma jeszcze wystarczająco mocne fundamenty.",
+      "content_html": "",
+      "date_published": "2026-07-18T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
       "url": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
       "title": "Ciąg dalszy spadków na Nasdaqu. Ale szeroki rynek nie wygląda tak źle W piątek na Wall Street widzieliśmy zasadniczo to samo co w czwartek: przecenie poddawane były spółki technologiczne, podczas gdy szeroki rynek trzymał się całkiem nieźle.",
@@ -289,27 +303,6 @@
       "title": "OKI bez podatku Belki, ale z podatkiem od aktywów. Senat oczekuje wyjaśnień Senat chce dokładniejszego uzasadnienia przyjętej w ustawie o osobistych kontach inwestycyjnych konstrukcji podatku od wartości aktywów - poinformowało biuro legislacyjne Senatu w opinii do ustawy wprowadzającej OKI.",
       "content_html": "",
       "date_published": "2026-07-16T08:21:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Globalny-popyt-na-mineraly-krytyczne-podwoi-sie-do-2040-roku-9168908.html",
-      "url": "https://www.bankier.pl/wiadomosc/Globalny-popyt-na-mineraly-krytyczne-podwoi-sie-do-2040-roku-9168908.html",
-      "title": "Wielki głód surowcowy zielonej rewolucji. Czy światu wystarczy litu i miedzi do 2040 roku? Globalny popyt na minerały krytyczne wykorzystywane w transformacji energetycznej niemal podwoi się do 2040 r. w scenariuszu bazowym - wynika z raportu „Global Critical Minerals Outlook 2026” Międzynarodowej Agencji Energetycznej (IEA)",
-      "content_html": "",
-      "date_published": "2026-07-16T07:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Klepsydra-wyplaci-0-04-zl-dywidendy-na-akcje-9168890.html",
-      "url": "https://www.bankier.pl/wiadomosc/Klepsydra-wyplaci-0-04-zl-dywidendy-na-akcje-9168890.html",
-      "title": "Klepsydra wypłaci 0,04 zł dywidendy na akcję Zwyczajne walne zgromadzenie Klepsydry zdecydowało, że na dywidendę za 2025 rok trafił 954.269,40 zł, co daje 0,04 zł dywidendy na akcję - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-16T06:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czym-jest-inwestowanie-i-kto-naprawde-moze-zostac-inwestorem-9168642.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czym-jest-inwestowanie-i-kto-naprawde-moze-zostac-inwestorem-9168642.html",
-      "title": "AKADEMIA INWESTOWANIA Czym jest inwestowanie i kto naprawdę może zostać inwestorem? W pierwszym odcinku Akademii Inwestowania Bankier.pl nasz główny analityk Krzysztof Kolany bierze pod lupę absolutne fundamenty rynków finansowych, odpowiadając na podstawowe pytania: czym jest inwestowanie, po co to robimy i kim tak naprawdę jest inwestor.",
-      "content_html": "",
-      "date_published": "2026-07-16T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
