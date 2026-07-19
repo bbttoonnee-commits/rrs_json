@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nie-dajmy-sie-podzielic-Pikiety-przed-ambasada-Ukrainy-w-Warszawie-i-na-rynku-we-Wroclawiu-9170332.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-dajmy-sie-podzielic-Pikiety-przed-ambasada-Ukrainy-w-Warszawie-i-na-rynku-we-Wroclawiu-9170332.html",
+      "title": "\"Nie dajmy się podzielić\". Pikiety przed ambasadą Ukrainy w Warszawie i na rynku we Wrocławiu",
+      "content_html": "Przed ambasadą Ukrainy w Warszawie oraz na rynku we Wrocławiu odbyły się w niedziele pikiety, podczas których apelowano o wzajemny szacunek oraz o nie uleganie próbom skłócenia narodów. „Nie dajmy się podzielić” - skandowali manifestanci...",
+      "date_published": "2026-07-19T19:53:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-unieszkodliwila-trzy-z-pieciu-promow-zaopatrujacych-Krym-9170317.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukraina-unieszkodliwila-trzy-z-pieciu-promow-zaopatrujacych-Krym-9170317.html",
       "title": "Ukraina unieszkodliwiła trzy z pięciu promów zaopatrujących Krym",
@@ -695,13 +702,6 @@
       "title": "Koniec corocznych sporów o podwyżki dla nauczycieli? MEN szykuje nowy system płac",
       "content_html": "Projekt ZNP w sprawie płac nauczycieli jest procedowany w Sejmie, ale rząd prowadzi też prace nad własnym rozwiązaniem – przekazała PAP rzeczniczka prasowa MEN Ewelina Gorczyca. Dodała, że rozwiązanie ma służyć nauczycielom przez lata, a...",
       "date_published": "2026-07-18T10:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Umowa-UE-Londyn-nie-otworzyla-Gibraltaru-dla-hiszpanskich-taksowek-9169433.html",
-      "url": "https://www.bankier.pl/wiadomosc/Umowa-UE-Londyn-nie-otworzyla-Gibraltaru-dla-hiszpanskich-taksowek-9169433.html",
-      "title": "Umowa UE–Londyn nie otworzyła Gibraltaru dla hiszpańskich taksówek",
-      "content_html": "Hiszpańskie taksówki nadal nie będą mogły świadczyć usług w Gibraltarze, pomimo wejścia w życie umowy między Wielką Brytanią a Unią Europejską o swobodnym przepływie osób i towarów – poinformował w komunikacie rząd Gibraltaru, cytowany...",
-      "date_published": "2026-07-18T10:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
