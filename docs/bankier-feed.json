@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dobrze-w-pracy-swietnie-w-domu-fatalnie-w-polityce-Jak-naprawde-zyje-sie-Polakom-9167468.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dobrze-w-pracy-swietnie-w-domu-fatalnie-w-polityce-Jak-naprawde-zyje-sie-Polakom-9167468.html",
+      "title": "Dobrze w pracy, świetnie w domu, fatalnie w polityce. Jak naprawdę żyje się Polakom?",
+      "content_html": "W drugim kwartale 2026 r. postrzeganie poziomu życia respondentów i ich rodzin było jednoznacznie pozytywne; w czerwcu wskaźnik zadowolenia z poziomu życia osiągnął najwyższą wartość w ostatnich latach – wynika z analizy CBOS.",
+      "date_published": "2026-07-19T21:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nie-dajmy-sie-podzielic-Pikiety-przed-ambasada-Ukrainy-w-Warszawie-i-na-rynku-we-Wroclawiu-9170332.html",
       "url": "https://www.bankier.pl/wiadomosc/Nie-dajmy-sie-podzielic-Pikiety-przed-ambasada-Ukrainy-w-Warszawie-i-na-rynku-we-Wroclawiu-9170332.html",
       "title": "\"Nie dajmy się podzielić\". Pikiety przed ambasadą Ukrainy w Warszawie i na rynku we Wrocławiu",
@@ -695,13 +702,6 @@
       "title": "Sprawy do 150 tys. zł trafią do sądów rejonowych? Jest projekt zmian",
       "content_html": "Odciążenie sądów okręgowych oraz rozszerzenie kompetencji referendarzy sądowych to główne założenia przygotowanego przez Ministerstwo Sprawiedliwości projektu nowelizacji Kodeksu postępowania cywilnego, który trafił w ostatnich dniach do...",
       "date_published": "2026-07-18T10:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-corocznych-sporow-o-podwyzki-dla-nauczycieli-MEN-szykuje-nowy-system-plac-9170112.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-corocznych-sporow-o-podwyzki-dla-nauczycieli-MEN-szykuje-nowy-system-plac-9170112.html",
-      "title": "Koniec corocznych sporów o podwyżki dla nauczycieli? MEN szykuje nowy system płac",
-      "content_html": "Projekt ZNP w sprawie płac nauczycieli jest procedowany w Sejmie, ale rząd prowadzi też prace nad własnym rozwiązaniem – przekazała PAP rzeczniczka prasowa MEN Ewelina Gorczyca. Dodała, że rozwiązanie ma służyć nauczycielom przez lata, a...",
-      "date_published": "2026-07-18T10:01:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
