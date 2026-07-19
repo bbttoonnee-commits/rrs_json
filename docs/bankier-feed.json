@@ -6,9 +6,23 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Awaria-Facebooka-Uzytkownicy-zglaszaja-problemy-z-dostepem-do-serwisu-9170282.html",
       "url": "https://www.bankier.pl/wiadomosc/Awaria-Facebooka-Uzytkownicy-zglaszaja-problemy-z-dostepem-do-serwisu-9170282.html",
-      "title": "Awaria Facebooka. Użytkownicy zgłaszają problemy z dostępem do serwisu",
-      "content_html": "W niedzielny poranek użytkownicy Facebooka zaczęli masowo zgłaszać problemy z dostępem do serwisu. Nie działa zarówno aplikacja mobilna, jak i strona internetowa. Wielu użytkowników widzi komunikat informujący, że konto jest „tymczasowo niedostępne...",
-      "date_published": "2026-07-19T11:12:00+02:00"
+      "title": "Awaria Facebooka. Użytkownicy zgłaszali problemy z dostępem do serwisów Mety",
+      "content_html": "W niedzielny poranek użytkownicy Facebooka zaczęli masowo zgłaszać problemy z dostępem do serwisu. Nie działała zarówno aplikacja mobilna, jak i strona internetowa. Wielu użytkowników widziało komunikat informujący, że konto jest „tymczasowo...",
+      "date_published": "2026-07-19T13:17:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/TikTok-zlamal-przepisy-w-sprawie-ochrony-dzieci-Wielka-Brytania-wszczyna-dochodzenie-9169055.html",
+      "url": "https://www.bankier.pl/wiadomosc/TikTok-zlamal-przepisy-w-sprawie-ochrony-dzieci-Wielka-Brytania-wszczyna-dochodzenie-9169055.html",
+      "title": "TikTok złamał przepisy w sprawie ochrony dzieci? Wielka Brytania wszczyna dochodzenie",
+      "content_html": "Brytyjski regulator rynku medialnego Ofcom wszczął w czwartek dochodzenie w sprawie serwisu społecznościowego TikTok. Regulator bada, czy platforma wystarczająco dobrze chroni dzieci przed szkodliwymi treściami.",
+      "date_published": "2026-07-19T13:07:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/245-tys-osob-przed-komisjami-wojskowymi-Nadchodzi-kwalifikacja-2027-9169020.html",
+      "url": "https://www.bankier.pl/wiadomosc/245-tys-osob-przed-komisjami-wojskowymi-Nadchodzi-kwalifikacja-2027-9169020.html",
+      "title": "245 tys. osób przed komisjami wojskowymi. Nadchodzi kwalifikacja 2027",
+      "content_html": "Kwalifikacja wojskowa w przyszłym roku potrwa od początku lutego do końca kwietnia i obejmie ok. 245 tys. osób, w tym przede wszystkim mężczyzn urodzonych w 2008 roku - przewiduje projekt rozporządzenia MON ws. przeprowadzenia kwalifikacji wojskowej...",
+      "date_published": "2026-07-19T13:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Diamenty-na-orbicie-Jak-krakowscy-naukowcy-pomoga-zbadac-pole-magnetyczne-Ziemi-9168401.html",
@@ -688,20 +702,6 @@
       "title": "Rodzinom zmarłych mieli proponować jeden zakład pogrzebowy. Prokuratura bada sprawę",
       "content_html": "Prokuratura Rejonowa Warszawa-Ochota wszczęła śledztwo w sprawie przyjęcia korzyści majątkowych przez osoby pełniące funkcje publiczne, zatrudnione w Uniwersyteckim Centrum Klinicznym Warszawskiego Uniwersytetu Medycznego, w związku z ich pełnieniem...",
       "date_published": "2026-07-17T19:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rynek-OTC-dominuje-nad-Catalyst-Obroty-sa-nawet-20-razy-wyzsze-9169971.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rynek-OTC-dominuje-nad-Catalyst-Obroty-sa-nawet-20-razy-wyzsze-9169971.html",
-      "title": "Rynek OTC dominuje nad Catalyst. Obroty są nawet 20 razy wyższe",
-      "content_html": "Niska płynność jest kluczowym czynnikiem ograniczającym rozwój rynku Catalyst. Wprowadzenie nowych indeksów może zwiększyć jego przejrzystość i w konsekwencji zachęcić inwestorów do zawierania transakcji - ocenił w komentarzu analityk portalu...",
-      "date_published": "2026-07-17T19:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-ingerowaly-w-wybory-w-USA-Sensacyjne-rewelacje-Trumpa-bez-dowodow-9169955.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-ingerowaly-w-wybory-w-USA-Sensacyjne-rewelacje-Trumpa-bez-dowodow-9169955.html",
-      "title": "Chiny ingerowały w wybory w USA? „Sensacyjne rewelacje” Trumpa bez dowodów",
-      "content_html": "Odtajnione przez Donalda Trumpa dokumenty wywiadu nie potwierdzają jego słów na temat prób ingerencji Chin w wybory, podatności systemu i fałszerstw wyborczych - pisze w piątek „New York Times” i inne media.",
-      "date_published": "2026-07-17T18:59:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
