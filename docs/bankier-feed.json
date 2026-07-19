@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-po-raz-kolejny-zaatakowal-elektrownie-i-stacje-odsalania-wody-9170343.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-po-raz-kolejny-zaatakowal-elektrownie-i-stacje-odsalania-wody-9170343.html",
+      "title": "Iran po raz kolejny zaatakował elektrownię i stację odsalania wody",
+      "content_html": "Ministerstwo spraw zagranicznych Kuwejtu w opublikowanym w niedzielę komunikacie powiadomiło o kolejnym w ciągu dwóch dni ataku Iranu na ten sam kompleks złożony z elektrowni i stacji odsalania wody – poinformowała agencja Reutera.",
+      "date_published": "2026-07-19T22:03:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dobrze-w-pracy-swietnie-w-domu-fatalnie-w-polityce-Jak-naprawde-zyje-sie-Polakom-9167468.html",
       "url": "https://www.bankier.pl/wiadomosc/Dobrze-w-pracy-swietnie-w-domu-fatalnie-w-polityce-Jak-naprawde-zyje-sie-Polakom-9167468.html",
       "title": "Dobrze w pracy, świetnie w domu, fatalnie w polityce. Jak naprawdę żyje się Polakom?",
@@ -695,13 +702,6 @@
       "title": "Wirus zabija w DRK. Rośnie bilans najnowszej epidemii eboli",
       "content_html": "Liczba zmarłych na ebolę w Demokratycznej Republice Konga (DRK) zwiększyła się do 864. Potwierdzono 2181 przypadków zachorowań - poinformowała agencja Reutera, powołując się na komunikat opublikowany w piątek przez rząd tego środkowoafrykańskiego...",
       "date_published": "2026-07-18T10:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sprawy-do-150-tys-zl-trafia-do-sadow-rejonowych-Jest-projekt-zmian-9170115.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprawy-do-150-tys-zl-trafia-do-sadow-rejonowych-Jest-projekt-zmian-9170115.html",
-      "title": "Sprawy do 150 tys. zł trafią do sądów rejonowych? Jest projekt zmian",
-      "content_html": "Odciążenie sądów okręgowych oraz rozszerzenie kompetencji referendarzy sądowych to główne założenia przygotowanego przez Ministerstwo Sprawiedliwości projektu nowelizacji Kodeksu postępowania cywilnego, który trafił w ostatnich dniach do...",
-      "date_published": "2026-07-18T10:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
