@@ -4,6 +4,83 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-stocznia-pracuje-dla-francuskiego-giganta-Ruszyla-budowa-blokow-kadlubowych-9167960.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-stocznia-pracuje-dla-francuskiego-giganta-Ruszyla-budowa-blokow-kadlubowych-9167960.html",
+      "title": "Polska stocznia pracuje dla francuskiego giganta. Ruszyła budowa bloków kadłubowych",
+      "content_html": "Około 60 proc. wartości kontraktu na budowę trzech bloków kadłubowych, którą Grupa Przemysłowa Baltic rozpoczęła w Stoczni Gdańskiej dla francuskiej Chantiers de l'Atlantique, trafi do polskich firm. Wartość samej umowy objęta jest tajemnicą...",
+      "date_published": "2026-07-19T15:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czarzasty-Marzy-mi-sie-konsolidacja-lewicy-przed-wyborami-takze-z-Partia-Razem-9170305.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-Marzy-mi-sie-konsolidacja-lewicy-przed-wyborami-takze-z-Partia-Razem-9170305.html",
+      "title": "Czarzasty: Marzy mi się konsolidacja lewicy przed wyborami, także z Partią Razem",
+      "content_html": "Największa siła lewicy będzie wtedy, kiedy pójdzie do wyborów skonsolidowana - powiedział w niedzielę marszałek Sejmu, lider Nowej Lewicy Włodzimierz Czarzasty. Dodał, że jego marzeniem jest, by dotyczyło to również Partii Razem.",
+      "date_published": "2026-07-19T15:13:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Social-media-to-nie-zabawka-Unia-szykuje-wiekowy-szlaban-na-TikToka-i-Instagrama-9167366.html",
+      "url": "https://www.bankier.pl/wiadomosc/Social-media-to-nie-zabawka-Unia-szykuje-wiekowy-szlaban-na-TikToka-i-Instagrama-9167366.html",
+      "title": "\"Social media to nie zabawka\". Unia szykuje wiekowy szlaban na TikToka i Instagrama",
+      "content_html": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen zapowiedziała przygotowanie propozycji unijnych regulacji mających lepiej chronić dzieci w internecie. Argumenty za wprowadzeniem minimalnego wieku dostępu do serwisów społecznościowych...",
+      "date_published": "2026-07-19T15:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-Niemcow-mysli-o-emigracji-9167944.html",
+      "url": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-Niemcow-mysli-o-emigracji-9167944.html",
+      "title": "Coraz więcej Niemców myśli o emigracji",
+      "content_html": "Niepewność gospodarcza, wysokie koszty życia, debata o służbie wojskowej i obawy o bezpieczeństwo sprawiają, że coraz więcej Niemców bierze pod uwagę wyjazd z kraju – ocenił we wtorek dziennik „Frankfurter Allgemeine Zeitung”.",
+      "date_published": "2026-07-19T15:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Korpus-Straznikow-dwa-statki-w-ciesninie-Ormuz-zostaly-unieruchomione-dwa-zawrocily-9170301.html",
+      "url": "https://www.bankier.pl/wiadomosc/Korpus-Straznikow-dwa-statki-w-ciesninie-Ormuz-zostaly-unieruchomione-dwa-zawrocily-9170301.html",
+      "title": "Korpus Strażników: dwa statki w cieśninie Ormuz zostały unieruchomione, dwa zawróciły",
+      "content_html": "Irański Korpus Strażników Rewolucji Islamskiej (IRGC) poinformował w niedzielę, że dwa statki zostały unieruchomione, a dwa inne zrezygnowały z próby przepłynięcia „niebezpieczną trasą” w cieśninie Ormuz - przekazała półoficjalna...",
+      "date_published": "2026-07-19T15:03:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SMR-y-z-pomoca-panstwa-Polska-przygotowuje-model-wsparcia-9169024.html",
+      "url": "https://www.bankier.pl/wiadomosc/SMR-y-z-pomoca-panstwa-Polska-przygotowuje-model-wsparcia-9169024.html",
+      "title": "SMR-y z pomocą państwa? Polska przygotowuje model wsparcia",
+      "content_html": "Mapa drogowa dla małych reaktorów modułowych SMR powinna zostać opublikowana do końca lipca - poinformował w czwartek w Sejmie dyrektor departamentu energii jądrowej w ME Paweł Gajda. Dodał, że co do zasady SMR-y mogą uzyskiwać wsparcie państwa...",
+      "date_published": "2026-07-19T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Drony-zamiast-smiglowcow-Bundeswehra-testuje-nowa-technologie-ratunkowa-9169135.html",
+      "url": "https://www.bankier.pl/wiadomosc/Drony-zamiast-smiglowcow-Bundeswehra-testuje-nowa-technologie-ratunkowa-9169135.html",
+      "title": "Drony zamiast śmigłowców? Bundeswehra testuje nową technologię ratunkową",
+      "content_html": "Bundeswehra testuje drony przeznaczone do ewakuacji rannych z obszarów działań bojowych - poinformowało niemieckie wojsko. Bezzałogowce mają zasięg ok. 50 kilometrów i mogą transportować osoby ważące do 135 kilogramów.",
+      "date_published": "2026-07-19T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mobilnosc-edukacja-i-rozwoj-zawodowy-Tak-mlodzi-postrzegaja-wartosc-UE-9169146.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mobilnosc-edukacja-i-rozwoj-zawodowy-Tak-mlodzi-postrzegaja-wartosc-UE-9169146.html",
+      "title": "Mobilność, edukacja i rozwój zawodowy. Tak młodzi postrzegają wartość UE",
+      "content_html": "64 proc. osób w wieku 16-29 lat ma pozytywny stosunek do Unii Europejskiej, a 63 proc. uważa, że UE tworzy realne możliwości dla osób, takich jak oni - wynika z badania przeprowadzonego dla Przedstawicielstwa Komisji Europejskiej w Polsce.",
+      "date_published": "2026-07-19T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/27-lodowcow-zniknelo-w-9-lat-Himalaje-wysylaja-sygnal-ostrzegawczy-9169186.html",
+      "url": "https://www.bankier.pl/wiadomosc/27-lodowcow-zniknelo-w-9-lat-Himalaje-wysylaja-sygnal-ostrzegawczy-9169186.html",
+      "title": "27 lodowców zniknęło w 9 lat. Himalaje wysyłają sygnał ostrzegawczy",
+      "content_html": "W ciągu dziewięciu lat w Bhutanie stopiło się wskutek ocieplenia klimatu 27 lodowców - poinformował portal Asia News Network. Powierzchnia lodowców skurczyła się od 2016 r. o 9,1 proc.",
+      "date_published": "2026-07-19T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gwaltowny-spadek-pustostanow-Srodmiescie-prawie-w-calosci-wynajete-9167868.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gwaltowny-spadek-pustostanow-Srodmiescie-prawie-w-calosci-wynajete-9167868.html",
+      "title": "Gwałtowny spadek pustostanów. Śródmieście prawie w całości wynajęte",
+      "content_html": "Na koniec czerwca 2026 roku zasoby nowoczesnej powierzchni biurowej w Warszawie wyniosły około 6,23 mln m kw. - podała Polska Izba Nieruchomości Komercyjnych w komunikacie prasowym.",
+      "date_published": "2026-07-19T14:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pol-miliona-nowych-wyborcow-w-Hiszpanii-Efekt-ustawy-o-wnukach-9167284.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pol-miliona-nowych-wyborcow-w-Hiszpanii-Efekt-ustawy-o-wnukach-9167284.html",
+      "title": "Pół miliona nowych wyborców w Hiszpanii. Efekt \"ustawy o wnukach\"",
+      "content_html": "W 2027 r., kiedy będą wybory parlamentarne w Hiszpanii, możemy mieć pół miliona nowych obywateli z prawem do głosowania – powiedział Angel Victor Torres, hiszpański minister polityki terytorialnej i pamięci demokratycznej, w wywiadzie dla...",
+      "date_published": "2026-07-19T14:34:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Awaria-Facebooka-Uzytkownicy-zglaszaja-problemy-z-dostepem-do-serwisu-9170282.html",
       "url": "https://www.bankier.pl/wiadomosc/Awaria-Facebooka-Uzytkownicy-zglaszaja-problemy-z-dostepem-do-serwisu-9170282.html",
       "title": "Awaria Facebooka. Użytkownicy zgłaszali problemy z dostępem do serwisów Mety",
@@ -625,83 +702,6 @@
       "title": "Dwa tankowce eksplodowały, próbując przepłynąć przez cieśninę Ormuz",
       "content_html": "Dwa tankowce eksplodowały, a następnie wybuchł na nich pożar, gdy próbowały przepłynąć przez zaminowaną trasę w cieśninie Ormuz - podały w piątek irańskie media, powołując się na Korpus Strażników Rewolucji Islamskiej.",
       "date_published": "2026-07-18T03:17:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ciag-dalszy-spadkow-na-Nasdaqu-Ale-szeroki-rynek-nie-wyglada-tak-zle-9170059.html",
-      "title": "Ciąg dalszy spadków na Nasdaqu. Ale szeroki rynek nie wygląda tak źle",
-      "content_html": "W piątek na Wall Street widzieliśmy zasadniczo to samo co w czwartek: przecenie poddawane były spółki technologiczne, podczas gdy szeroki rynek trzymał się całkiem nieźle.",
-      "date_published": "2026-07-17T23:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Morawiecki-spotkal-sie-z-Kaczynskim-Rozmowa-nie-doprowadzila-do-rozstrzygniecia-sprawy-zasadniczej-9170024.html",
-      "url": "https://www.bankier.pl/wiadomosc/Morawiecki-spotkal-sie-z-Kaczynskim-Rozmowa-nie-doprowadzila-do-rozstrzygniecia-sprawy-zasadniczej-9170024.html",
-      "title": "Morawiecki spotkał się z Kaczyńskim. \"Rozmowa nie doprowadziła do rozstrzygnięcia sprawy zasadniczej\"",
-      "content_html": "Piątkowe spotkanie prezesa PiS Jarosława Kaczyńskiego z b. premierem Mateuszem Morawieckim nie doprowadziło do rozstrzygnięcia sprawy; decyzja o nakazie wystąpienia ze stowarzyszeń „prowadzących działalność polityczną” wciąż aktualna...",
-      "date_published": "2026-07-17T21:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Magyar-domaga-sie-od-UE-zwrotu-kary-za-polityke-migracyjna-rzadu-Orbana-9170011.html",
-      "url": "https://www.bankier.pl/wiadomosc/Magyar-domaga-sie-od-UE-zwrotu-kary-za-polityke-migracyjna-rzadu-Orbana-9170011.html",
-      "title": "Magyar domaga się od UE zwrotu kary za politykę migracyjną rządu Orbana",
-      "content_html": "Premier Węgier Peter Magyar domaga się od Unii Europejskiej zwrotu kary nałożonej na Budapeszt za politykę migracyjną rządu Viktora Orbana - przekazał w piątek portal Euronews, powołując się na rozmowę z szefem węgierskiego rządu.",
-      "date_published": "2026-07-17T21:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-wysylaja-kolejne-powietrzne-tankowce-Axios-to-przygotowania-do-eskalacji-wojny-z-Iranem-9170015.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-wysylaja-kolejne-powietrzne-tankowce-Axios-to-przygotowania-do-eskalacji-wojny-z-Iranem-9170015.html",
-      "title": "USA wysyłają kolejne powietrzne tankowce. Axios: to przygotowania do eskalacji wojny z Iranem",
-      "content_html": "Administracja Donalda Trumpa powiadomiła Izrael o wysłaniu dziesiątków powietrznych tankowców w ramach przygotowań do eskalacji ataków na Iran - podał w piątek portal Axios. Według źródeł portalu wojsko przedstawiło prezydentowi kilka opcji...",
-      "date_published": "2026-07-17T20:47:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Korecki-formuje-swoj-rzad-Sybiha-pozostaje-szefem-dyplomacji-9169997.html",
-      "url": "https://www.bankier.pl/wiadomosc/Korecki-formuje-swoj-rzad-Sybiha-pozostaje-szefem-dyplomacji-9169997.html",
-      "title": "Korecki formuje swój rząd. Sybiha pozostaje szefem dyplomacji",
-      "content_html": "Ukraiński rząd powierzył pełnienie obowiązków ministra obrony Jewhenijowi Chmarze, a ministra spraw zagranicznych dotychczasowemu szefowi dyplomacji Andrijowi Sybisze - poinformował w piątek premier Ukrainy Serhij Korecki.",
-      "date_published": "2026-07-17T20:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bezzebna-ustawa-o-najmie-krotkoterminowym-Pelczynska-Nalecz-Ludzie-maja-prawo-decydowac-czy-chca-miec-burdel-za-sciana-9169921.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bezzebna-ustawa-o-najmie-krotkoterminowym-Pelczynska-Nalecz-Ludzie-maja-prawo-decydowac-czy-chca-miec-burdel-za-sciana-9169921.html",
-      "title": "Bezzębna ustawa o najmie krótkoterminowym? Pełczyńska-Nałęcz: Ludzie mają prawo decydować, czy chcą mieć burdel za ścianą",
-      "content_html": "Rząd w tym tygodniu uchwalił ustawę regulującą rynek najmu krótkoterminowego, jednak ostateczny kształt przepisów jest znacznie skromniejszy od pierwotnych zapowiedzi. Z projektu zniknęło wiele rozwiązań, których od miesięcy domagały się...",
-      "date_published": "2026-07-17T20:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kneset-rozwiazal-sie-przed-wyborami-Netanjahu-powalczy-o-kolejna-kadencje-9169981.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kneset-rozwiazal-sie-przed-wyborami-Netanjahu-powalczy-o-kolejna-kadencje-9169981.html",
-      "title": "Kneset rozwiązał się przed wyborami. Netanjahu powalczy o kolejną kadencję",
-      "content_html": "Izraelski parlament przegłosował w piątek samorozwiązanie przed wyznaczonymi na 27 października wyborami. W ostatnim tygodniu obrad izba przyjęła szereg ustaw, które wywołały krytykę opozycji. Według sondaży koalicja premiera Benjamina Netanjahu...",
-      "date_published": "2026-07-17T19:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Larq-i-Wise-Ventures-ASI-odstepuja-od-zamiaru-ogloszenia-wezwania-na-sprzedaz-akcji-Larq-9169989.html",
-      "url": "https://www.bankier.pl/wiadomosc/Larq-i-Wise-Ventures-ASI-odstepuja-od-zamiaru-ogloszenia-wezwania-na-sprzedaz-akcji-Larq-9169989.html",
-      "title": "Larq i Wise Ventures ASI odstępują od zamiaru ogłoszenia wezwania na sprzedaż akcji Larq",
-      "content_html": "Larq oraz Wise Ventures ASI odstępują od zamiaru ogłoszenia wezwania dobrowolnego na sprzedaż akcji Larq - poinformowało Q Securities, podmiot pośredniczący, w piątkowym komunikacie..",
-      "date_published": "2026-07-17T19:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dym-z-kanadyjskich-pozarow-paralizuje-czesc-USA-AQI-osiaga-niebezpieczne-poziomy-9169988.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dym-z-kanadyjskich-pozarow-paralizuje-czesc-USA-AQI-osiaga-niebezpieczne-poziomy-9169988.html",
-      "title": "Dym z kanadyjskich pożarów paraliżuje część USA. AQI osiąga niebezpieczne poziomy",
-      "content_html": "Lokalne władze w 18 amerykańskich stanach obejmujących obszary zamieszkanych przez ponad 100 mln ludzi wydały ostrzeżenia dotyczące jakości powietrza spowodowane dymem pochodzącym z leśnych pożarów w Kanadzie. W piątek gęsty smog dotarł...",
-      "date_published": "2026-07-17T19:37:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mateusz-Szczurek-zostal-odwolany-z-zarzadu-BGK-9169977.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mateusz-Szczurek-zostal-odwolany-z-zarzadu-BGK-9169977.html",
-      "title": "Mateusz Szczurek został odwołany z zarządu BGK",
-      "content_html": "Premier Donald Tusk odwołał Mateusza Szczurka z funkcji członka zarządu Banku Gospodarstwa Krajowego z dniem 26 lipca 2026 r. - podał bank w komunikacie.",
-      "date_published": "2026-07-17T19:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rodzinom-zmarlych-mieli-proponowac-jeden-zaklad-pogrzebowy-Prokuratura-bada-sprawe-9169927.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rodzinom-zmarlych-mieli-proponowac-jeden-zaklad-pogrzebowy-Prokuratura-bada-sprawe-9169927.html",
-      "title": "Rodzinom zmarłych mieli proponować jeden zakład pogrzebowy. Prokuratura bada sprawę",
-      "content_html": "Prokuratura Rejonowa Warszawa-Ochota wszczęła śledztwo w sprawie przyjęcia korzyści majątkowych przez osoby pełniące funkcje publiczne, zatrudnione w Uniwersyteckim Centrum Klinicznym Warszawskiego Uniwersytetu Medycznego, w związku z ich pełnieniem...",
-      "date_published": "2026-07-17T19:09:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
