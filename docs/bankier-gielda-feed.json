@@ -4,30 +4,65 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-czerwcu-2026-wreszcie-nabrala-rozpedu-Choc-troche-pomogl-kalendarz-9170455.html",
+      "url": "https://www.bankier.pl/wiadomosc/Produkcja-przemyslowa-w-czerwcu-2026-wreszcie-nabrala-rozpedu-Choc-troche-pomogl-kalendarz-9170455.html",
+      "title": "Polski przemysł wreszcie nabrał rozpędu. Choć trochę pomógł kalendarz Wyniki za czerwiec dają nadzieję, że polski sektor przemysłowy powrócił na właściwe tory i po raz pierwszy od blisko 4 lat odnotował przyzwoitą dynamikę wzrostu.",
+      "content_html": "",
+      "date_published": "2026-07-20T09:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ryanair-z-wynikami-za-I-kwartal-Wiecej-pasazerow-tansze-bilety-i-spadek-zyskow-9170441.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ryanair-z-wynikami-za-I-kwartal-Wiecej-pasazerow-tansze-bilety-i-spadek-zyskow-9170441.html",
+      "title": "Ryanair z wynikami za I kwartał. Więcej pasażerów, tańsze bilety i... spadek zysków Ryanair opublikował właśnie swoje wyniki finansowe za pierwszy kwartał roku finansowego 2027 (okres od kwietnia do czerwca 2026 r.) i wyłaniający się z nich obraz jest słodko-gorzki. Z jednej strony samoloty irlandzkiego przewoźnika pękają w szwach, z drugiej – zyski firmy zaliczyły zauważalny spadek. Przyjrzyjmy się bliżej, co wpłynęło na takie wyniki i co to oznacza dla pasażerów.",
+      "content_html": "",
+      "date_published": "2026-07-20T09:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-dodal-PGE-na-liste-dlugich-pozycji-wycofal-Modivo-Cloud-Technologies-Unimot-i-KGHM-9170428.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-dodal-PGE-na-liste-dlugich-pozycji-wycofal-Modivo-Cloud-Technologies-Unimot-i-KGHM-9170428.html",
+      "title": "Miesięczny raport DM BOŚ. Analitycy wskazali 17 hitów giełdowych na najbliższe tygodnie Analitycy DM BOŚ, w raporcie miesięcznym z 10 lipca, dodali na listę długich pozycji na nadchodzący miesiąc PGE, a wycofali z niej akcje Modivo, Cloud Technologies, Unimotu i KGHM.",
+      "content_html": "",
+      "date_published": "2026-07-20T08:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-WP-Holding-w-II-kw-rozpozna-ok-66-8-mln-zl-zysku-z-tytulu-korekty-nadplaconego-CIT-9170427.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-zalezna-WP-Holding-w-II-kw-rozpozna-ok-66-8-mln-zl-zysku-z-tytulu-korekty-nadplaconego-CIT-9170427.html",
+      "title": "Wielki zwrot podatku dla Wirtualnej Polski. Ponad 66 mln zł zysku dzięki uldze IP Box Wirtualna Polska Media, spółka zależna Wirtualna Polska Holding, w wynikach II kwartału rozpoznała dodatkowe zyski w łącznej szacunkowej wysokości 66,8 mln zł z tytułu korekty nadpłaconego podatku dochodowego od osób prawnych (CIT) za lata 2020-2024 - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-20T08:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-najdrozszy-od-miesiecy-Wojna-USA-z-Iranem-odciela-dostawy-9170422.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-najdrozszy-od-miesiecy-Wojna-USA-z-Iranem-odciela-dostawy-9170422.html",
+      "title": "Gaz w Europie najdroższy od miesięcy. Wojna USA z Iranem odcina dostawy Ceny gazu w Europie rosną i osiągnęły poziom 60 euro za MWh - tak drogo nie było od wielu miesięcy. To już 6. zwyżkowa sesja na rynku tego paliwa - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-07-20T08:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Marvipol-rozpoczal-przedsprzedaz-inwestycji-w-Kolobrzegu-9170415.html",
+      "url": "https://www.bankier.pl/wiadomosc/Marvipol-rozpoczal-przedsprzedaz-inwestycji-w-Kolobrzegu-9170415.html",
+      "title": "Marvipol rozpoczął przedsprzedaż inwestycji w Kołobrzegu Marvipol Development rozpoczyna przedsprzedaż apartamentów w Unique Hotel Kołobrzeg - podał deweloper w komunikacie prasowym. W kompleksie hotelowym powstanie 227 apartamentów.",
+      "content_html": "",
+      "date_published": "2026-07-20T08:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nastroje-pracodawcow-pozytywne-w-II-polr-nadal-powinni-byc-aktywni-na-rynku-rekrutacyjnym-Grupa-Pracuj-wywiad-9170400.html",
       "url": "https://www.bankier.pl/wiadomosc/Nastroje-pracodawcow-pozytywne-w-II-polr-nadal-powinni-byc-aktywni-na-rynku-rekrutacyjnym-Grupa-Pracuj-wywiad-9170400.html",
-      "title": "Nastroje pracodawców pozytywne, w II półr. nadal powinni być aktywni na rynku rekrutacyjnym - Grupa Pracuj (wywiad) Po II kw. 2026 r., w którym wzrosła liczba ogłoszeń o pracę, nastroje pracodawców nadal są pozytywne, a II półr. może być równie aktywne na polskim rynku rekrutacyjnym – ocenił członek zarządu i dyrektor operacyjny Grupy Pracuj Rafał Nachyna. Rośnie zainteresowanie sektorem IT, a na znaczeniu może mocniej zyskiwać sprzedaż i obsługa klienta.",
+      "title": "Pracodawcy z optymizmem patrzą na II półrocze. Rynek rekrutacji nabiera tempa Po II kw. 2026 r., w którym wzrosła liczba ogłoszeń o pracę, nastroje pracodawców nadal są pozytywne, a II półr. może być równie aktywne na polskim rynku rekrutacyjnym – ocenił członek zarządu i dyrektor operacyjny Grupy Pracuj Rafał Nachyna. Rośnie zainteresowanie sektorem IT, a na znaczeniu może mocniej zyskiwać sprzedaż i obsługa klienta.",
       "content_html": "",
       "date_published": "2026-07-20T06:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-I-polr-26-w-serwisie-Pracuj-pl-opublikowano-387-tys-ofert-pracy-liczba-aplikacji-wzrosla-o-4-3-proc-rdr-9170399.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-I-polr-26-w-serwisie-Pracuj-pl-opublikowano-387-tys-ofert-pracy-liczba-aplikacji-wzrosla-o-4-3-proc-rdr-9170399.html",
-      "title": "W I półr. '26 w serwisie Pracuj.pl opublikowano 387 tys. ofert pracy; liczba aplikacji wzrosła o 4,3 proc. rdr W pierwszym półroczu 2026 r. w serwisie Pracuj.pl opublikowano 387 tys. ofert pracy - wynika z raportu Rynek Pracy Specjalistów. Liczba aktywnych klientów wyniosła 62 tys., a liczba aplikacji w Pracuj.pl wzrosła rdr o 4,3 proc.",
-      "content_html": "",
-      "date_published": "2026-07-20T06:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jak-pobic-rynkowy-benchmark-Sztuka-selekcji-i-madrej-dywersyfikacji-portfela-9169918.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-pobic-rynkowy-benchmark-Sztuka-selekcji-i-madrej-dywersyfikacji-portfela-9169918.html",
-      "title": "Jak pobić rynkowy benchmark? Sztuka selekcji i mądrej dywersyfikacji portfela ETF-y (tj. fundusze giełdowe, które odwzorowują wyniki określonych indeksów lub sektorów, np. WIG20 lub S&P 500) zdobywają w Polsce coraz większą popularność, dla wielu osób stając się pierwszym kontaktem z rynkami. Przy wielu zaletach takie instrumenty mają jednak ukryty koszt. Kupując ekspozycję na szerokie indeksy, kupujemy jednocześnie lokomotywy hossy jak i giełdowych maruderów. Gdy warunki w gospodarce się pogarszają i dochodzi do rotacji sektorów, dobrą strategią może okazać się aktywna selekcja. Jak mądrze z niej korzystać i ile trzeba zapłacić za wsparcie profesjonalistów?",
-      "content_html": "",
-      "date_published": "2026-07-20T06:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzez-koreanskich-mrowek-300-000-wyzerowanych-kont-odwolane-sluby-i-samobojstwa-9168336.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzez-koreanskich-mrowek-300-000-wyzerowanych-kont-odwolane-sluby-i-samobojstwa-9168336.html",
       "title": "Rzeź koreańskich \"mrówek\". 300 000 wyzerowanych kont, odwołane śluby i samobójstwa Niespełna miesiąc temu główny indeks giełdy w Seulu KOSPI przebił po raz pierwszy w historii 9000 pkt, ale to co nastąpiło później można określić bez większej przesady rzezią inwestorów indywidualnych. Wezwania do uzupełniania depozytów otrzymało ponad milion Koreańczyków, przymusowe likwidacje dotknęły kilkaset tysięcy osób, a regulator finansowy pracuje nad \"ekonomicznym programem zapobiegania samobójstwom w rodzinach”.",
+      "content_html": "",
+      "date_published": "2026-07-20T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-pobic-rynkowy-benchmark-Sztuka-selekcji-i-madrej-dywersyfikacji-portfela-9169918.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-pobic-rynkowy-benchmark-Sztuka-selekcji-i-madrej-dywersyfikacji-portfela-9169918.html",
+      "title": "Jak pobić rynkowy benchmark? Sztuka selekcji i mądrej dywersyfikacji portfela ETF-y (tj. fundusze giełdowe, które odwzorowują wyniki określonych indeksów lub sektorów, np. WIG20 lub S&P 500) zdobywają w Polsce coraz większą popularność, dla wielu osób stając się pierwszym kontaktem z rynkami. Przy wielu zaletach takie instrumenty mają jednak ukryty koszt. Kupując ekspozycję na szerokie indeksy, kupujemy jednocześnie lokomotywy hossy jak i giełdowych maruderów. Gdy warunki w gospodarce się pogarszają i dochodzi do rotacji sektorów, dobrą strategią może okazać się aktywna selekcja. Jak mądrze z niej korzystać i ile trzeba zapłacić za wsparcie profesjonalistów?",
       "content_html": "",
       "date_published": "2026-07-20T06:00:00+02:00"
     },
