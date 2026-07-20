@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Niemrawe-otwarcie-tygodnia-na-nowojorskich-gieldach-9170894.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niemrawe-otwarcie-tygodnia-na-nowojorskich-gieldach-9170894.html",
+      "title": "Niemrawe otwarcie tygodnia na nowojorskich giełdach",
+      "content_html": "Poniedziałkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, chociaż w ciągu dnia w ślad za rosnącymi notowaniami producentów półprzewodników w górę szedł Nasdaq.",
+      "date_published": "2026-07-20T23:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Mostostalu-Warszawa-chce-by-NWZ-glosowalo-nad-emisja-z-prawem-poboru-i-bez-9170883.html",
       "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Mostostalu-Warszawa-chce-by-NWZ-glosowalo-nad-emisja-z-prawem-poboru-i-bez-9170883.html",
       "title": "Akcjonariusz Mostostalu Warszawa chce, by NWZ głosowało nad emisją z prawem poboru i bez",
@@ -695,13 +702,6 @@
       "title": "\"Nie dajmy się podzielić\". Pikiety przed ambasadą Ukrainy w Warszawie i na rynku we Wrocławiu",
       "content_html": "Przed ambasadą Ukrainy w Warszawie oraz na rynku we Wrocławiu odbyły się w niedziele pikiety, podczas których apelowano o wzajemny szacunek oraz o nie uleganie próbom skłócenia narodów. „Nie dajmy się podzielić” - skandowali manifestanci...",
       "date_published": "2026-07-19T19:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-unieszkodliwila-trzy-z-pieciu-promow-zaopatrujacych-Krym-9170317.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-unieszkodliwila-trzy-z-pieciu-promow-zaopatrujacych-Krym-9170317.html",
-      "title": "Ukraina unieszkodliwiła trzy z pięciu promów zaopatrujących Krym",
-      "content_html": "Ataki ukraińskich dronów zniszczyły lub poważnie uszkodziły trzy z pięciu promów używanych przez Rosję do zaopatrywania okupowanego Krymu – poinformował w niedzielę na Facebooku dowódca Sił Systemów Bezzałogowych (SBS) Ukrainy płk Robert...",
-      "date_published": "2026-07-19T19:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
