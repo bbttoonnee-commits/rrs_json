@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Mostostalu-Warszawa-chce-by-NWZ-glosowalo-nad-emisja-z-prawem-poboru-i-bez-9170883.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Mostostalu-Warszawa-chce-by-NWZ-glosowalo-nad-emisja-z-prawem-poboru-i-bez-9170883.html",
+      "title": "Akcjonariusz Mostostalu Warszawa chce, by NWZ głosowało nad emisją z prawem poboru i bez",
+      "content_html": "Akcjonariusz Mostostalu Warszawa - Otwarty Fundusz Emerytalny PZU \"Złota Jesień\" chce, by ZWZ spółki, zwołane na 29 lipca, zdecydowało w sprawie emisji nowych akcji serii VI bez prawa poboru i w sprawie emisji tych akcji z prawem poboru - poinformowała...",
+      "date_published": "2026-07-20T22:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-cyber-Folks-zdecydowalo-o-ustanowieniu-programu-motywacyjnego-9170866.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-cyber-Folks-zdecydowalo-o-ustanowieniu-programu-motywacyjnego-9170866.html",
       "title": "NWZ cyber_Folks zdecydowało o ustanowieniu programu motywacyjnego",
@@ -695,13 +702,6 @@
       "title": "Ukraina unieszkodliwiła trzy z pięciu promów zaopatrujących Krym",
       "content_html": "Ataki ukraińskich dronów zniszczyły lub poważnie uszkodziły trzy z pięciu promów używanych przez Rosję do zaopatrywania okupowanego Krymu – poinformował w niedzielę na Facebooku dowódca Sił Systemów Bezzałogowych (SBS) Ukrainy płk Robert...",
       "date_published": "2026-07-19T19:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-po-remontach-w-Plocku-przez-kilka-dni-na-pochodniach-bedzie-widoczny-wiekszy-plomien-9170319.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-po-remontach-w-Plocku-przez-kilka-dni-na-pochodniach-bedzie-widoczny-wiekszy-plomien-9170319.html",
-      "title": "Orlen: po remontach w Płocku przez kilka dni na pochodniach będzie widoczny większy płomień",
-      "content_html": "W związku z zakończonymi remontami instalacji Orlenu, na pochodniach zakładu produkcyjnego w Płocku od niedzieli przez kilka dni widoczny może być większy niż zazwyczaj płomień - poinformowała spółka. Zapewniła, że taki płomień to normalna...",
-      "date_published": "2026-07-19T19:12:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
