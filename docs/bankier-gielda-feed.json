@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/WIG20-puka-po-rekord-sprzed-lat-Setki-milionow-zlotych-za-akcje-Allegro-PKO-Orlenu-i-KGHM-9171319.html",
+      "url": "https://www.bankier.pl/wiadomosc/WIG20-puka-po-rekord-sprzed-lat-Setki-milionow-zlotych-za-akcje-Allegro-PKO-Orlenu-i-KGHM-9171319.html",
+      "title": "WIG20 puka po rekord sprzed lat. Setki milionów złotych za akcje Allegro, PKO, Orlenu i KGHM Zmiana nastrojów na globalnych rynkach pomogły polskim indeksom sięgnąć po nowe rekordy. Na nowy poziom hossy na WIG20 pomógł wspiąć się KGHM i Orlen, ale także banki i spółki handlowe. Z kolei szeroki rynek WIG znów pobił historyczny szczyt.",
+      "content_html": "",
+      "date_published": "2026-07-21T17:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/ZPC-Otmuchow-kupil-od-Tornellon-Investments-6-932-254-akcji-PWC-Odra-za-9-1-mln-zl-9171295.html",
+      "url": "https://www.bankier.pl/wiadomosc/ZPC-Otmuchow-kupil-od-Tornellon-Investments-6-932-254-akcji-PWC-Odra-za-9-1-mln-zl-9171295.html",
+      "title": "ZPC Otmuchów kupił od Tornellon Investments 6.932.254 akcji PWC Odra za 9,1 mln zł ZPC Otmuchów zawarł z Tornellon Investments, dominującym akcjonariuszem spółki, umowę nabycia 6.932.254 akcji spółki zależnej PWC Odra, stanowiących 27,05 proc. jej kapitału zakładowego, za 9,1 mln zł - podała spółka w komunikacie. ZPC rozpoczęło analizy dotyczące możliwości połączenia z PWC Odra.",
+      "content_html": "",
+      "date_published": "2026-07-21T16:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NBP-potwierdza-czerwcowe-zakupy-zlota-Polska-kupuje-a-Rosja-sprzedaje-9171188.html",
       "url": "https://www.bankier.pl/wiadomosc/NBP-potwierdza-czerwcowe-zakupy-zlota-Polska-kupuje-a-Rosja-sprzedaje-9171188.html",
       "title": "NBP potwierdza czerwcowe zakupy złota. Polska kupuje, a Rosja sprzedaje Narodowy Bank Polski w czerwcu kontynuował program zakupów złota - wynika ze statystyk płynnych aktywów i pasywów w walutach obcych. W tym samym czasie Rosja intensywnie wyprzedawała swoje złoto.",
@@ -296,13 +310,6 @@
       "title": "Jak pobić rynkowy benchmark? Sztuka selekcji i mądrej dywersyfikacji portfela ETF-y (tj. fundusze giełdowe, które odwzorowują wyniki określonych indeksów lub sektorów, np. WIG20 lub S&P 500) zdobywają w Polsce coraz większą popularność, dla wielu osób stając się pierwszym kontaktem z rynkami. Przy wielu zaletach takie instrumenty mają jednak ukryty koszt. Kupując ekspozycję na szerokie indeksy, kupujemy jednocześnie lokomotywy hossy jak i giełdowych maruderów. Gdy warunki w gospodarce się pogarszają i dochodzi do rotacji sektorów, dobrą strategią może okazać się aktywna selekcja. Jak mądrze z niej korzystać i ile trzeba zapłacić za wsparcie profesjonalistów?",
       "content_html": "",
       "date_published": "2026-07-20T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-po-remontach-w-Plocku-przez-kilka-dni-na-pochodniach-bedzie-widoczny-wiekszy-plomien-9170319.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-po-remontach-w-Plocku-przez-kilka-dni-na-pochodniach-bedzie-widoczny-wiekszy-plomien-9170319.html",
-      "title": "Orlen: po remontach w Płocku przez kilka dni na pochodniach będzie widoczny większy płomień W związku z zakończonymi remontami instalacji Orlenu, na pochodniach zakładu produkcyjnego w Płocku od niedzieli przez kilka dni widoczny może być większy niż zazwyczaj płomień - poinformowała spółka. Zapewniła, że taki płomień to normalna część procesu technologicznego, prowadzonego pod nadzorem.",
-      "content_html": "",
-      "date_published": "2026-07-19T18:12:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
