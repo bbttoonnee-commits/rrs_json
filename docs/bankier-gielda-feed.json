@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
+      "url": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
+      "title": "Examobile zakończył przegląd opcji strategicznych Examobile zakończył przegląd opcji strategicznych i zarząd w porozumieniu z Radą Nadzorczą planuje podjąć działania ukierunkowane na rozwój nowych obszarów wzrostu, obejmujące w szczególności stopniową optymalizację i ograniczanie zaangażowania w dotychczasowy portfel aplikacji mobilnych, a także dywersyfikację obszarów działalności oraz źródeł przychodów - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-22T21:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Acciona-Construccion-Polonia-gotowy-do-udzialu-w-emisji-Mostostalu-Warszawa-ale-czeka-na-decyzje-KNF-9171995.html",
+      "url": "https://www.bankier.pl/wiadomosc/Acciona-Construccion-Polonia-gotowy-do-udzialu-w-emisji-Mostostalu-Warszawa-ale-czeka-na-decyzje-KNF-9171995.html",
+      "title": "Acciona Construcción Polonia gotowy do udziału w emisji Mostostalu Warszawa, ale czeka na decyzję KNF Acciona Construcción Polonia, większościowy akcjonariusz Mostostalu Warszawa, jest zasadniczo gotowy do udziału w proponowanym podwyższeniu kapitału zakładowego spółki, oczekuje jednak na decyzję KNF przed podjęciem ostatecznej decyzji dotyczącej warunków swojego udziału w tej transakcji - podał Mostostal Warszawa w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-22T20:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-objeli-lacznie-131-219-akcji-Vigo-Photonics-9171980.html",
       "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-objeli-lacznie-131-219-akcji-Vigo-Photonics-9171980.html",
       "title": "Inwestorzy objęli łącznie 131.219 akcji Vigo Photonics W ramach subskrypcji prywatnej objęto łącznie 131.219 akcji serii G Vigo Photonics - poinformowała spółka w komunikacie.",
@@ -324,20 +338,6 @@
       "title": "Niemrawe otwarcie tygodnia na nowojorskich giełdach Poniedziałkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, chociaż w ciągu dnia w ślad za rosnącymi notowaniami producentów półprzewodników w górę szedł Nasdaq.",
       "content_html": "",
       "date_published": "2026-07-20T22:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Mostostalu-Warszawa-chce-by-NWZ-glosowalo-nad-emisja-z-prawem-poboru-i-bez-9170883.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Mostostalu-Warszawa-chce-by-NWZ-glosowalo-nad-emisja-z-prawem-poboru-i-bez-9170883.html",
-      "title": "Akcjonariusz Mostostalu Warszawa chce, by NWZ głosowało nad emisją z prawem poboru i bez Akcjonariusz Mostostalu Warszawa - Otwarty Fundusz Emerytalny PZU \"Złota Jesień\" chce, by ZWZ spółki, zwołane na 29 lipca, zdecydowało w sprawie emisji nowych akcji serii VI bez prawa poboru i w sprawie emisji tych akcji z prawem poboru - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-20T21:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-cyber-Folks-zdecydowalo-o-ustanowieniu-programu-motywacyjnego-9170866.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-cyber-Folks-zdecydowalo-o-ustanowieniu-programu-motywacyjnego-9170866.html",
-      "title": "NWZ cyber_Folks zdecydowało o ustanowieniu programu motywacyjnego NWZ cyber_Folks zdecydowało o ustanowieniu programu motywacyjnego - wynika z uchwał podjętych przez poniedziałkowe walne zgromadzenie. Nie została podjęta uchwała w sprawie emisji warrantów subskrypcyjnych.",
-      "content_html": "",
-      "date_published": "2026-07-20T20:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
