@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ryvu-ma-aneks-z-Berlin-Chemie-do-globalnej-umowy-licencyjnej-dot-dapolsertibu-9171909.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ryvu-ma-aneks-z-Berlin-Chemie-do-globalnej-umowy-licencyjnej-dot-dapolsertibu-9171909.html",
+      "title": "Ryvu ma aneks z Berlin-Chemie do globalnej umowy licencyjnej dot. dapolsertibu Ryvu Therapeutics podpisał z Berlin-Chemie AG aneks do globalnej umowy licencyjnej dotyczącej dapolsertibu, co ma istotne znaczenie dla dalszego rozwoju klinicznego programu dapolsertibu, ponieważ rozszerza go o nowe wskazanie oraz określa dalszy zakres operacyjnej współpracy z grupą Menarini - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-22T17:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-gry-JDM-Japanese-Drift-Master-przekroczyla-300-tys-egzemplarzy-Gaming-Factory-9171878.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-gry-JDM-Japanese-Drift-Master-przekroczyla-300-tys-egzemplarzy-Gaming-Factory-9171878.html",
+      "title": "Sprzedaż gry JDM: Japanese Drift Master przekroczyła 300 tys. egzemplarzy - Gaming Factory Sprzedaż gry \"JDM: Japanese Drift Master\" na wszystkich platformach przekroczyła 300 tys. egzemplarzy - podał Gaming Factory w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-22T16:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-Trakcji-ma-umowe-na-wykonanie-robot-na-kolejnym-odcinku-linii-kolejowej-C-E-20-9171845.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-Trakcji-ma-umowe-na-wykonanie-robot-na-kolejnym-odcinku-linii-kolejowej-C-E-20-9171845.html",
+      "title": "Konsorcjum Trakcji ma umowę na wykonanie robót na kolejnym odcinku linii kolejowej C-E 20 Konsorcjum firm, w którym liderem jest Trakcja, podpisało umowę z PKP Polskie Linie Kolejowe na zaprojektowanie i wykonanie robót na linii kolejowej C-E 20 na odcinku Skierniewice - Czachówek Wschodni - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-22T15:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-miedzi-przez-grupe-KGHM-wyniosla-w-VI-63-6-tys-ton-wzrost-o-1-proc-rdr-9171767.html",
       "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-miedzi-przez-grupe-KGHM-wyniosla-w-VI-63-6-tys-ton-wzrost-o-1-proc-rdr-9171767.html",
       "title": "Srebro i złoto na plusie, miedź lekko poniżej. Zagraniczne kopalnie ciągną KGHM w dół Sprzedaż miedzi przez grupę KGHM wyniosła w czerwcu 63,6 tys. ton i była wyższa o 1 proc. rdr, a produkcja miedzi płatnej wyniosła 59,3 tys. ton i była wyższa o 3 proc. rdr - podała grupa w komunikacie dotyczącym wstępnych wyników produkcyjnych i sprzedażowych.",
@@ -303,13 +324,6 @@
       "title": "My się Azji nie boimy. Wzrosty na GPW po tąpnięciu w Japonii i Korei Mimo potężnych tąpnięć na parkietach w Azji oraz eskalacji konfliktu na Bliskim Wschodzie, poniedziałkowa sesja na warszawskim parkiecie upłynęła na spokojnych wzrostach. Inwestorzy na GPW podjęli próbę odreagowania ostatnich spadków, choć optymizm z pierwszej części dnia nieco przygasł w miarę upływu godzin.",
       "content_html": "",
       "date_published": "2026-07-20T17:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lentex-nabyl-1-mln-akcji-wlasnych-po-cenie-12-5-zl-za-akcje-9170786.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lentex-nabyl-1-mln-akcji-wlasnych-po-cenie-12-5-zl-za-akcje-9170786.html",
-      "title": "Lentex nabył 1 mln akcji własnych po cenie 12,5 zł za akcję Lentex w ramach ogłoszonej oferty zakupu nabył 1 mln akcji własnych po cenie 12,5 zł za akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-20T17:28:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
