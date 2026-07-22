@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
+      "url": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
+      "title": "Senat bez poprawek do ustawy o Osobistych Kontach Inwestycyjnych",
+      "content_html": "Senat w środę nie zaproponował poprawek do ustawy o Osobistych Kontach Inwestycyjnych; teraz trafi ona na biurko prezydenta. Nowe przepisy zakładają, że aktywa inwestycyjne na koncie będą zwolnione z tzw. podatku Belki do kwoty 100 tys. zł, a...",
+      "date_published": "2026-07-22T22:54:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
       "url": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
       "title": "Examobile zakończył przegląd opcji strategicznych",
@@ -695,13 +702,6 @@
       "title": "Trump zatwierdził przełomowe porozumienie nuklearne z Arabią Saudyjską",
       "content_html": "Prezydent USA Donald Trump zatwierdził porozumienie z Arabią Saudyjską na temat stworzenia w tym kraju cywilnego programu nuklearnego i potencjalnie ośrodka wzbogacania uranu – podał we wtorek dziennik „Wall Street Journal”, powołując się...",
       "date_published": "2026-07-22T08:07:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RPO-tak-prezes-IPN-pozniej-Senat-odracza-glosowanie-nad-Szpytma-9171468.html",
-      "url": "https://www.bankier.pl/wiadomosc/RPO-tak-prezes-IPN-pozniej-Senat-odracza-glosowanie-nad-Szpytma-9171468.html",
-      "title": "RPO tak, prezes IPN później. Senat odracza głosowanie nad Szpytmą",
-      "content_html": "Na rozpoczynającym się w środę posiedzeniu Senat ma wyrazić zgodę na powołanie Rzecznika Praw Obywatelskich; nie ma jednak głosowania ws. prezesa IPN, choć Sejm w piątek dokonał wyboru kandydatów na obie te funkcje. Według senatorów koalicji...",
-      "date_published": "2026-07-22T08:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

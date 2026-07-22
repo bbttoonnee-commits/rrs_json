@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
+      "url": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
+      "title": "Senat bez poprawek do ustawy o Osobistych Kontach Inwestycyjnych Senat w środę nie zaproponował poprawek do ustawy o Osobistych Kontach Inwestycyjnych; teraz trafi ona na biurko prezydenta. Nowe przepisy zakładają, że aktywa inwestycyjne na koncie będą zwolnione z tzw. podatku Belki do kwoty 100 tys. zł, a oszczędnościowe - do 25 tys. zł.",
+      "content_html": "",
+      "date_published": "2026-07-22T21:54:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
       "url": "https://www.bankier.pl/wiadomosc/Examobile-zakonczyl-przeglad-opcji-strategicznych-9172012.html",
       "title": "Examobile zakończył przegląd opcji strategicznych Examobile zakończył przegląd opcji strategicznych i zarząd w porozumieniu z Radą Nadzorczą planuje podjąć działania ukierunkowane na rozwój nowych obszarów wzrostu, obejmujące w szczególności stopniową optymalizację i ograniczanie zaangażowania w dotychczasowy portfel aplikacji mobilnych, a także dywersyfikację obszarów działalności oraz źródeł przychodów - poinformowała spółka w komunikacie.",
@@ -331,13 +338,6 @@
       "title": "\"Tańszy nie jest z automatu lepszy\". Jak wejść na rynek ETF, żeby nie pogubić się po pierwszym tygodniu? Nie musisz być rekinem finansjery, by pomnażać oszczędności. ETF-y to proste i tanie narzędzia do inwestowania pod warunkiem, że nie zaczniesz od popełnienia klasycznych błędów nowicjusza. Podpowiadamy, jak postawić pierwsze kroki, wybrać fundusz i… spać spokojnie.",
       "content_html": "",
       "date_published": "2026-07-21T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niemrawe-otwarcie-tygodnia-na-nowojorskich-gieldach-9170894.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niemrawe-otwarcie-tygodnia-na-nowojorskich-gieldach-9170894.html",
-      "title": "Niemrawe otwarcie tygodnia na nowojorskich giełdach Poniedziałkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, chociaż w ciągu dnia w ślad za rosnącymi notowaniami producentów półprzewodników w górę szedł Nasdaq.",
-      "content_html": "",
-      "date_published": "2026-07-20T22:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
