@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tylko-lekkie-spadki-Inwestorzy-czekali-na-wyniki-Google-a-9172042.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tylko-lekkie-spadki-Inwestorzy-czekali-na-wyniki-Google-a-9172042.html",
+      "title": "Na Wall Street tylko lekkie spadki. Inwestorzy czekali na wyniki Google'a",
+      "content_html": "Środa na Wall Street zakończyła się lekkimi spadkami głównych indeksów, a w centrum uwagi są wyniki Tesli i Alphabetu, które pokażą swoje kwartalne dokonania po zakończeniu sesji. Mocno drożała ropa naftowa.",
+      "date_published": "2026-07-22T23:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
       "url": "https://www.bankier.pl/wiadomosc/Senat-bez-poprawek-do-ustawy-o-Osobistych-Kontach-Inwestycyjnych-9172037.html",
       "title": "Senat bez poprawek do ustawy o Osobistych Kontach Inwestycyjnych",
@@ -695,13 +702,6 @@
       "title": "Szef FIFA nowym sekretarzem generalnym ONZ? Trump ma swojego faworyta",
       "content_html": "Prezydent USA Donald Trump chce, by kolejnym sekretarzem generalnym ONZ został prezydent FIFA Gianni Infantino – poinformował we wtorek „New York Post”, powołując się na źródła z otoczenia Białego Domu. Gazeta zwraca uwagę, iż nie wiadomo...",
       "date_published": "2026-07-22T08:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-zatwierdzil-przelomowe-porozumienie-nuklearne-z-Arabia-Saudyjska-9171451.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-zatwierdzil-przelomowe-porozumienie-nuklearne-z-Arabia-Saudyjska-9171451.html",
-      "title": "Trump zatwierdził przełomowe porozumienie nuklearne z Arabią Saudyjską",
-      "content_html": "Prezydent USA Donald Trump zatwierdził porozumienie z Arabią Saudyjską na temat stworzenia w tym kraju cywilnego programu nuklearnego i potencjalnie ośrodka wzbogacania uranu – podał we wtorek dziennik „Wall Street Journal”, powołując się...",
-      "date_published": "2026-07-22T08:07:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
