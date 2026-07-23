@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mocna-przecena-na-Wall-Street-Ropa-Trump-Tesla-Google-i-cala-reszta-9172656.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mocna-przecena-na-Wall-Street-Ropa-Trump-Tesla-Google-i-cala-reszta-9172656.html",
+      "title": "Mocna przecena na Wall Street. Ropa, Trump, Tesla , Google i cała reszta",
+      "content_html": "Kombinacja eskalacji wojny z Iranem, zwyżkujących notowań ropy naftowej oraz rozczarowanie wynikami Google’a i Tesli sprawiły, że czwartkowa sesja na nowojorskich giełdach zakończyła się dotkliwymi spadkami głównych indeksów.",
+      "date_published": "2026-07-23T23:03:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Google-ukarane-na-890-mln-euro-za-faworyzowanie-wlasnych-uslug-i-blokowanie-konkurencji-9172277.html",
       "url": "https://www.bankier.pl/wiadomosc/Google-ukarane-na-890-mln-euro-za-faworyzowanie-wlasnych-uslug-i-blokowanie-konkurencji-9172277.html",
       "title": "Google ukarane na 890 mln euro za faworyzowanie własnych usług i blokowanie konkurencji",
@@ -695,13 +702,6 @@
       "title": "Koniec wypożyczalni PFRON. Nietrafione zakupy RARS zostaną rozdane na własność",
       "content_html": "Senat w środę nie wniósł poprawek do nowelizacji ustawy, która umożliwi przekazanie osobom z niepełnosprawnościami specjalistycznego sprzętu z wypożyczalni PFRON. Chodzi o asortyment zakupiony przez Rządową Agencję Rezerw Strategicznych...",
       "date_published": "2026-07-23T08:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nazywalem-go-oszustem-i-to-podtrzymuje-Wadim-Tyszkiewicz-zachowuje-immunitet-9172039.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nazywalem-go-oszustem-i-to-podtrzymuje-Wadim-Tyszkiewicz-zachowuje-immunitet-9172039.html",
-      "title": "„Nazywałem go oszustem i to podtrzymuję”. Wadim Tyszkiewicz zachowuje immunitet",
-      "content_html": "Senatorowie w środowym głosowaniu nie wyrazili zgody na uchylenie immunitetu senatorowi Wadimowi Tyszkiewiczowi. Chodzi o cywilną sprawę o naruszenie dóbr osobistych, którą Tyszkiewiczowi wytoczył poseł Łukasz Mejza za nazwanie go oszustem.",
-      "date_published": "2026-07-23T08:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
