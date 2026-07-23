@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nie-wszystkie-kruczki-i-haczyki-Osobistych-Kont-Emerytalnych-9171664.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-wszystkie-kruczki-i-haczyki-Osobistych-Kont-Emerytalnych-9171664.html",
+      "title": "(Nie)wszystkie kruczki i haczyki Osobistych Kont Emerytalnych Osobiste Konta Inwestycyjne kuszą uwolnieniem od podatku Belki, ale w zamian narzucają nowy haracz na zgromadzony tam kapitał. Procedowana właśnie w Senacie ustawa zawiera w sobie jednak więcej haczyków, o których każdy inwestor powinien wiedzieć.",
+      "content_html": "",
+      "date_published": "2026-07-23T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tylko-lekkie-spadki-Inwestorzy-czekali-na-wyniki-Google-a-9172042.html",
       "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tylko-lekkie-spadki-Inwestorzy-czekali-na-wyniki-Google-a-9172042.html",
       "title": "Na Wall Street tylko lekkie spadki. Inwestorzy czekali na wyniki Google'a Środa na Wall Street zakończyła się lekkimi spadkami głównych indeksów, a w centrum uwagi są wyniki Tesli i Alphabetu, które pokażą swoje kwartalne dokonania po zakończeniu sesji. Mocno drożała ropa naftowa.",
@@ -331,20 +338,6 @@
       "title": "Wycena SpaceX skurczyła się o bilion dolarów. Spółka Muska przed kluczową datą Akcje SpaceX zamknęły poniedziałkową sesję na nowym dołku, zaliczając siódmy spadkowy dzień z rzędu. Od czerwcowego szczytu wycena kosmicznego giganta skurczyła się o ponad bilion dolarów, spychając kurs coraz dalej od ceny z debiutu. W cieniu kiepskiej passy na notowaniach spółka Elona Muska oficjalnie ogłosiła datę publikacji pierwszego sprawozdania finansowego.",
       "content_html": "",
       "date_published": "2026-07-21T08:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-zaktualizowal-szacunki-oczekiwanych-przeplywow-pienieznych-negatywny-wplyw-na-wynik-netto-II-kw-96-5-mln-zl-9170949.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-zaktualizowal-szacunki-oczekiwanych-przeplywow-pienieznych-negatywny-wplyw-na-wynik-netto-II-kw-96-5-mln-zl-9170949.html",
-      "title": "Alior Bank zaktualizował szacunki oczekiwanych przepływów pieniężnych, negatywny wpływ na wynik netto II kw. 96,5 mln zł Alior Bank dokonał aktualizacji szacunków oczekiwanych przepływów pieniężnych w celu dostosowania do interpretacji TSUE, a negatywny wpływ na wynik netto II kw. wyniesie 96,5 mln zł - podał bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-21T06:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tanszy-nie-jest-z-automatu-lepszy-Jak-wejsc-na-rynek-ETF-zeby-nie-pogubic-sie-po-pierwszym-tygodniu-9170757.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tanszy-nie-jest-z-automatu-lepszy-Jak-wejsc-na-rynek-ETF-zeby-nie-pogubic-sie-po-pierwszym-tygodniu-9170757.html",
-      "title": "\"Tańszy nie jest z automatu lepszy\". Jak wejść na rynek ETF, żeby nie pogubić się po pierwszym tygodniu? Nie musisz być rekinem finansjery, by pomnażać oszczędności. ETF-y to proste i tanie narzędzia do inwestowania pod warunkiem, że nie zaczniesz od popełnienia klasycznych błędów nowicjusza. Podpowiadamy, jak postawić pierwsze kroki, wybrać fundusz i… spać spokojnie.",
-      "content_html": "",
-      "date_published": "2026-07-21T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
