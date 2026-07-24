@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Katarzyna-Ostap-Tomann-zrezygnowala-z-zarzadu-Cyfrowego-Polsatu-nowym-CFO-Anna-Miller-Pytlak-9173132.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katarzyna-Ostap-Tomann-zrezygnowala-z-zarzadu-Cyfrowego-Polsatu-nowym-CFO-Anna-Miller-Pytlak-9173132.html",
+      "title": "Katarzyna Ostap-Tomann zrezygnowała z zarządu Cyfrowego Polsatu, nowym CFO Anna Miller-Pytlak Katarzyna Ostap-Tomann złożyła rezygnację z pełnienia funkcji członkini zarządu Cyfrowego Polsatu z dniem 31 lipca 2026 r. Nową członkinią zarządu ds. finansowych od 1 sierpnia 2026 roku będzie Anna Miller-Pytlak, dotychczasowa zastępczyni CFO - podał Cyfrowy Polsat w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-07-24T18:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Negatywny-sentyment-zaczerwienil-WIG20-Wciaz-czekamy-na-rekord-9173073.html",
       "url": "https://www.bankier.pl/wiadomosc/Negatywny-sentyment-zaczerwienil-WIG20-Wciaz-czekamy-na-rekord-9173073.html",
       "title": "SESJA NA GPW Negatywny sentyment zaczerwienił WIG20. Wciąż czekamy na rekord Uwagę zwracała słabość szerokiego rynku, relatywnie niskie obroty i coraz liczniejsze grono walorów ustanawiających przynajmniej roczne minimum.",
@@ -331,20 +338,6 @@
       "title": "Inwestorzy objęli łącznie 131.219 akcji Vigo Photonics W ramach subskrypcji prywatnej objęto łącznie 131.219 akcji serii G Vigo Photonics - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-07-22T19:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GPW-zawiesila-obrot-akcjami-spolki-Shoper-9171971.html",
-      "url": "https://www.bankier.pl/wiadomosc/GPW-zawiesila-obrot-akcjami-spolki-Shoper-9171971.html",
-      "title": "GPW zawiesiła obrót akcjami spółki Shoper Giełda Papierów Wartościowych zdecydowała o zawieszeniu na Głównym Rynku GPW obrotu akcjami spółki Shoper od 23 lipca 2026 r. do dnia wykluczenia tych akcji z obrotu - poinformowała Giełda w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-22T19:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-zawarl-transakcje-sekurytyzacji-syntetycznej-na-portfelu-kredytow-korporacyjnych-9171951.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-zawarl-transakcje-sekurytyzacji-syntetycznej-na-portfelu-kredytow-korporacyjnych-9171951.html",
-      "title": "PKO BP zawarł transakcję sekurytyzacji syntetycznej na portfelu kredytów korporacyjnych PKO BP zawarł pakiet umów dotyczących sekurytyzacji syntetycznej realizowanej na portfelu kredytów korporacyjnych o łącznej wartości nominalnej wynoszącej 8.500 mln zł - poinformował bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-07-22T18:18:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
