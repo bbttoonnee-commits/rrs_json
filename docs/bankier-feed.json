@@ -11,6 +11,13 @@
       "date_published": "2026-07-25T14:22:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-Kaczynski-ograniczonym-komputerem-Horala-Kartel-dostepu-do-ucha-prezesa-znieksztalca-obraz-9173298.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-Kaczynski-ograniczonym-komputerem-Horala-Kartel-dostepu-do-ucha-prezesa-znieksztalca-obraz-9173298.html",
+      "title": "Prezes Kaczyński \"ograniczonym komputerem\"? Horała: Kartel dostępu do ucha prezesa zniekształca obraz",
+      "content_html": "Poseł PiS Marcin Horała, który należy do grupy parlamentarzystów zagrożonych wykluczeniem z partii, ocenił, że prezes Jarosław Kaczyński może otrzymywać od swego otoczenia niepełny obraz sytuacji. - Nawet najlepszy komputer nie da dobrego...",
+      "date_published": "2026-07-25T14:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-do-korespondentow-Kiedy-mnie-zabraknie-zbankrutujecie-9173214.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-do-korespondentow-Kiedy-mnie-zabraknie-zbankrutujecie-9173214.html",
       "title": "Trump do korespondentów: Kiedy mnie zabraknie, zbankrutujecie",
@@ -695,13 +702,6 @@
       "title": "Creotech zbuduje satelitę dla ESA. Wartość pierwszego etapu to 750 tys. euro",
       "content_html": "Creotech Instruments podpisał umowę z Europejską Agencją Kosmiczną na realizację projektu pt. \"IOD B - Dynamic Satellite Tasking\" - poinformował Creotech Instruments w komunikacie. Podpisana umowa obejmuje realizację pierwszej fazy projektu budowy...",
       "date_published": "2026-07-24T09:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Milion-na-lokacie-w-Toyota-Banku-Wyzszy-limit-dla-Lokaty-Standard-9172754.html",
-      "url": "https://www.bankier.pl/wiadomosc/Milion-na-lokacie-w-Toyota-Banku-Wyzszy-limit-dla-Lokaty-Standard-9172754.html",
-      "title": "Milion na lokacie w Toyota Banku. Wyższy limit dla Lokaty Standard",
-      "content_html": "Toyota Bank zwiększył maksymalną kwotę pojedynczej Lokaty Standard z 40 tys. do 100 tys. zł. Jeden klient może nadal otworzyć do dziesięciu lokat - łączny limit wzrósł z 400 tys. do 1 mln zł.",
-      "date_published": "2026-07-24T09:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
