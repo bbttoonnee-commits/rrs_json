@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Anatomia-scamu-Rozbieramy-rozmowe-oszusta-na-czynniki-pierwsze-9172834.html",
+      "url": "https://www.bankier.pl/wiadomosc/Anatomia-scamu-Rozbieramy-rozmowe-oszusta-na-czynniki-pierwsze-9172834.html",
+      "title": "Anatomia scamu. Rozbieramy rozmowę oszusta na czynniki pierwsze",
+      "content_html": "„Departament bezpieczeństwa banku” dzwoni z numerem identyfikacyjnym, powołuje się na kodeks karny i zakazuje kontaktu z policją. Mój znajomy przeszedł taką rozmowę niemal do końca. Prześledziliśmy ją minuta po minucie, bo w tym scenariuszu...",
+      "date_published": "2026-07-27T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mityczny-tron-Zeusa-pod-okiem-UNESCO-Gora-Olimp-kolejnym-obiektem-na-liscie-9173408.html",
       "url": "https://www.bankier.pl/wiadomosc/Mityczny-tron-Zeusa-pod-okiem-UNESCO-Gora-Olimp-kolejnym-obiektem-na-liscie-9173408.html",
       "title": "Mityczny tron Zeusa pod okiem UNESCO. Góra Olimp kolejnym obiektem na liście",
@@ -562,34 +569,6 @@
       "title": "Negatywny sentyment zaczerwienił WIG20. Wciąż czekamy na rekord",
       "content_html": "Uwagę zwracała słabość szerokiego rynku, relatywnie niskie obroty i coraz liczniejsze grono walorów ustanawiających przynajmniej roczne minimum.",
       "date_published": "2026-07-24T18:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-wraca-do-clenia-Niemcy-Oczekujemy-przestrzegania-porozumienia-z-UE-9173069.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-wraca-do-clenia-Niemcy-Oczekujemy-przestrzegania-porozumienia-z-UE-9173069.html",
-      "title": "Trump wraca do clenia. Niemcy: Oczekujemy przestrzegania porozumienia z UE",
-      "content_html": "Berlin zakłada, że postanowienia porozumienia celnego między Unią Europejską a USA będą przestrzegane – powiedział w piątek rzecznik niemieckiego rządu, komentując ogłoszenie przez władze USA nowych ceł.",
-      "date_published": "2026-07-24T17:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zelenski-leci-do-Waszyngtonu-Spotka-sie-z-Trumpem-we-wtorek-9173043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-leci-do-Waszyngtonu-Spotka-sie-z-Trumpem-we-wtorek-9173043.html",
-      "title": "Zełenski leci do Waszyngtonu. Spotka się z Trumpem we wtorek",
-      "content_html": "Prezydenci USA i Ukrainy, Donald Trump i Wołodymyr Zełenski, spotkają się we wtorek w Waszyngtonie - potwierdził w piątek agencji Reutera przedstawiciel Białego Domu.",
-      "date_published": "2026-07-24T17:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Molecure-ma-od-IDMC-pozytywna-rekomendacje-kontunuowania-badania-klinicznego-Fazy-II-dla-OATD-01-9173036.html",
-      "url": "https://www.bankier.pl/wiadomosc/Molecure-ma-od-IDMC-pozytywna-rekomendacje-kontunuowania-badania-klinicznego-Fazy-II-dla-OATD-01-9173036.html",
-      "title": "Molecure ma od IDMC pozytywną rekomendację kontunuowania badania klinicznego Fazy II dla OATD-01",
-      "content_html": "Molecure otrzymał od Niezależnego Komitetu Monitorowania Danych (IDMC) pozytywną rekomendację kontunuowania badania klinicznego Fazy II dla cząsteczki OATD-01 u pacjentów z aktywną sarkoidozą płucną bez wprowadzania żadnych zmian do protokołu...",
-      "date_published": "2026-07-24T16:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Druga-runda-wojny-z-Iranem-wykonczy-gospodarke-Realne-koszty-barylki-to-140-dolarow-9173033.html",
-      "url": "https://www.bankier.pl/wiadomosc/Druga-runda-wojny-z-Iranem-wykonczy-gospodarke-Realne-koszty-barylki-to-140-dolarow-9173033.html",
-      "title": "Druga runda wojny z Iranem wykończy gospodarkę? „Realne koszty baryłki to 140 dolarów”.",
-      "content_html": "Kolejna runda wojny z Iranem, którą wywołał prezydent Donald Trump, będzie droższa dla świata, bo kraje wyczerpały niemal rezerwy surowców. Realne koszty baryłki ropy to około 140 dol.; rokowania dla gospodarki nie są dobre - ocenia w piątek...",
-      "date_published": "2026-07-24T16:49:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
