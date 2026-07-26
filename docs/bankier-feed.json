@@ -11,6 +11,20 @@
       "date_published": "2026-07-27T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-oblawy-w-Berlinie-Zamachowiec-z-Parady-Rownosci-zastrzelony-przez-policje-9173469.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-oblawy-w-Berlinie-Zamachowiec-z-Parady-Rownosci-zastrzelony-przez-policje-9173469.html",
+      "title": "Koniec obławy w Berlinie. Zamachowiec z Parady Równości zastrzelony przez policję",
+      "content_html": "Podejrzany o przeprowadzenie ataku podczas berlińskiej Parady Równości został zastrzelony podczas policyjnej operacji na terenie ogródków działkowych w berlińskiej dzielnicy Spandau – poinformowały w niedzielę władze Berlina i niemiecka policja...",
+      "date_published": "2026-07-26T20:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dramat-w-prowincji-Avila-Zywiol-strawil-ponad-50-tys-hektarow-plonie-rejon-Madrytu-9173459.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dramat-w-prowincji-Avila-Zywiol-strawil-ponad-50-tys-hektarow-plonie-rejon-Madrytu-9173459.html",
+      "title": "Dramat w prowincji Avila. Żywioł strawił ponad 50 tys. hektarów, płonie rejon Madrytu",
+      "content_html": "Ponad 50 tys. hektarów spłonęło w prowincji Avila, to największy pożar w historii Hiszpanii od momentu, kiedy zaczęto rejestrować te zjawiska - podała w niedzielę ministra transformacji ekologicznej Sara Aagesen, cytowana przez agencję EFE...",
+      "date_published": "2026-07-26T19:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trump-zapowiada-100-procentowe-cla-na-leki-generyczne-od-2028-roku-9171450.html",
       "url": "https://www.bankier.pl/wiadomosc/Trump-zapowiada-100-procentowe-cla-na-leki-generyczne-od-2028-roku-9171450.html",
       "title": "Trump zapowiada 100-procentowe cła na leki generyczne od 2028 roku",
@@ -541,13 +555,6 @@
       "title": "Międzynarodowa koalicja w Zatoce Perskiej? USA szukają wyjścia z konfliktu z Iranem",
       "content_html": "USA i Wielka Brytania chcą w przyszłym tygodniu zorganizować konferencję w sprawie cieśniny Ormuz - poinformował w piątek serwis Axios. Plany potwierdził portalowi przedstawiciel Białego Domu.",
       "date_published": "2026-07-24T21:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-UE-clami-za-kare-dla-Google-Nie-jestesmy-wasza-skarbonka-9173168.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-UE-clami-za-kare-dla-Google-Nie-jestesmy-wasza-skarbonka-9173168.html",
-      "title": "Trump grozi UE cłami za karę dla Google. „Nie jesteśmy waszą skarbonką”",
-      "content_html": "Prezydent USA Donald Trump skrytykował w piątek Unię Europejską w związku z nałożeniem przez nią kary na Google. Zarzucił Brukseli, że jest to działanie nielegalne i dyskryminujące i zapowiedział, że UE zapłaci za to. Dodał, że USA nie...",
-      "date_published": "2026-07-24T21:18:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
