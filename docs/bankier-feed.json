@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orange-Polska-mialo-w-II-kw-929-mln-zl-EBITDA-z-kosztami-leasingu-wobec-923-1-mln-zl-konsensusu-9174039.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orange-Polska-mialo-w-II-kw-929-mln-zl-EBITDA-z-kosztami-leasingu-wobec-923-1-mln-zl-konsensusu-9174039.html",
+      "title": "Orange Polska miało w II kw. 929 mln zł EBITDA z kosztami leasingu wobec 923,1 mln zł konsensusu",
+      "content_html": "Orange Polska miało w drugim kwartale 2026 roku 929 mln zł EBITDA z kosztami leasingu (EBITDAaL) oraz 281 mln zł zysku netto - podał operator w raporcie kwartalnym. Analitycy spodziewali się wyniku EBITDAaL na poziomie 923,1 mln zł oraz zysku netto...",
+      "date_published": "2026-07-27T22:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orange-Polska-podwyzszylo-prognoze-przychodow-do-sredniego-jednocyfrowego-wzrostu-oraz-ponad-6-proc-EBITDAaL-w-26-9174028.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orange-Polska-podwyzszylo-prognoze-przychodow-do-sredniego-jednocyfrowego-wzrostu-oraz-ponad-6-proc-EBITDAaL-w-26-9174028.html",
+      "title": "Orange Polska podwyższyło prognozę przychodów do średniego jednocyfrowego wzrostu, oraz ponad 6 proc. EBITDAaL w '26",
+      "content_html": "Orange Polska podwyższyło prognozę wzrostu przychodów do średniego jednocyfrowego wzrostu z niskiego jednocyfrowego wzrostu oraz do ponad 6 proc. wzrostu EBITDAal z 3-5 proc. poprzednio. Operator podwyższył również prognozę organicznych przepływów...",
+      "date_published": "2026-07-27T22:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Orange-Polska-w-II-kwartale-2026-vs-konsensus-PAP-tabela-9174025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Orange-Polska-w-II-kwartale-2026-vs-konsensus-PAP-tabela-9174025.html",
+      "title": "Wyniki Orange Polska w II kwartale 2026 vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki Orange Polska w drugim kwartale 2026 roku, ich odniesienie do konsensusu PAP i poprzednich wyników.",
+      "date_published": "2026-07-27T22:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Monnari-szacuje-ze-jej-przychody-w-II-kw-wzrosly-o-7-3-proc-rdr-do-ok-85-5-mln-zl-9174019.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Monnari-szacuje-ze-jej-przychody-w-II-kw-wzrosly-o-7-3-proc-rdr-do-ok-85-5-mln-zl-9174019.html",
       "title": "Grupa Monnari szacuje, że jej przychody w II kw. wzrosły o 7,3 proc. rdr do ok. 85,5 mln zł",
@@ -681,20 +702,6 @@
       "title": "„Poglądy chowam głęboko do szuflady”. Nowa RPO o priorytetach na swoją kadencję",
       "content_html": "Silne instrumentarium Rzecznika Praw Obywatelskich nie może być ignorowane; będę robiła wszystko, aby nie było ono ignorowane przez władzę - ktokolwiek by jej nie sprawował - powiedziała PAP Rzecznik Praw Obywatelskich mec. Sylwia Gregorczyk-Abram...",
       "date_published": "2026-07-27T08:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ropa-mocno-tanieje-USA-i-Iran-zrobily-sobie-przerwe-w-atakach-9173549.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ropa-mocno-tanieje-USA-i-Iran-zrobily-sobie-przerwe-w-atakach-9173549.html",
-      "title": "Ropa mocno tanieje. USA i Iran zrobiły sobie przerwę w atakach",
-      "content_html": "Na giełdach paliw ropa rozpoczyna ostatni tydzień lipca od mocnych spadków cen, bo USA i Iran zrobiły sobie przerwę od wzajemnych ataków - informują maklerzy.",
-      "date_published": "2026-07-27T08:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-otwiera-droge-do-misji-stabilizacyjnej-w-Gazie-Sa-warunki-dla-zagranicznych-wojsk-9173548.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-otwiera-droge-do-misji-stabilizacyjnej-w-Gazie-Sa-warunki-dla-zagranicznych-wojsk-9173548.html",
-      "title": "Izrael otwiera drogę do misji stabilizacyjnej w Gazie. Są warunki dla zagranicznych wojsk",
-      "content_html": "Izraelski gabinet bezpieczeństwa zatwierdził kluczowe środki prawne związane z rozmieszczeniem w Strefie Gazy Międzynarodowych Sił Stabilizacyjnych w ramach 20-punktowego planu pokojowego prezydenta USA Donalda Trumpa dotyczącego tego terytorium...",
-      "date_published": "2026-07-27T08:48:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
