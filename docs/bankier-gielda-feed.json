@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-mBanku-w-II-kw-26-wyniosl-1-06-mld-zl-zgodny-z-oczekiwaniami-9174654.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-mBanku-w-II-kw-26-wyniosl-1-06-mld-zl-zgodny-z-oczekiwaniami-9174654.html",
+      "title": "mBank przebija oczekiwania rynku. Zarobił w kwartał więcej, niż obstawiali analitycy Zysk netto grupy mBanku w II kwartale 2026 r. wzrósł do 1.060 mln zł z 959 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał się 1,9 proc. powyżej oczekiwań analityków, którzy prognozowali, że wyniesie on 1.040,1 mln zł.",
+      "content_html": "",
+      "date_published": "2026-07-29T06:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gleboka-rotacja-na-Wall-Street-Nasdaq-znow-w-dol-a-zyskuja-tradycyjne-spolki-9174614.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gleboka-rotacja-na-Wall-Street-Nasdaq-znow-w-dol-a-zyskuja-tradycyjne-spolki-9174614.html",
+      "title": "Głęboka rotacja na Wall Street. Nasdaq znów w dół, a zyskują tradycyjne spółki Wtorkowa sesja na Wall Street zakończyła się przewagą wzrostów wśród głównych indeksów, ale kolejny dzień z rzędu zniżkował Nasdaq. Inwestorzy w dalszym ciągu odwracają się od akcji producentów półprzewodników. W centrum uwagi w tym tygodniu są wyniki spółek i posiedzenie Fed.",
+      "content_html": "",
+      "date_published": "2026-07-29T06:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strategia-core-satellite-zdobywa-serca-inwestorow-Zadaja-sobie-pytanie-jak-ulozyc-proporcje-w-portfelu-9174135.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strategia-core-satellite-zdobywa-serca-inwestorow-Zadaja-sobie-pytanie-jak-ulozyc-proporcje-w-portfelu-9174135.html",
+      "title": "INWESTYCJE BEZ GRANIC Strategia core-satellite zdobywa serca inwestorów. Zadają sobie pytanie, jak ułożyć proporcje w portfelu Core-satellite polega na podziale aktywów inwestycyjnych na te, które mają w długim horyzoncie pracować pasywnie i na te, którymi w zależności od otoczenia rynkowego inwestor będzie żonglował pomiędzy instrumentami finansowymi. Cała rzecz rozbija się o proporcje w projektowanym portfelu.",
+      "content_html": "",
+      "date_published": "2026-07-29T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Fitch-podtrzymal-ratingi-Enei-na-poziomie-BBB-z-perspektywa-stabilna-9174556.html",
       "url": "https://www.bankier.pl/wiadomosc/Fitch-podtrzymal-ratingi-Enei-na-poziomie-BBB-z-perspektywa-stabilna-9174556.html",
       "title": "Fitch podtrzymał ratingi Enei na poziomie \"BBB\", z perspektywą stabilną Fitch podtrzymał ratingi Enei na poziomie \"BBB\", z perspektywą stabilną - podał Fitch w komunikacie.",
@@ -44,6 +65,13 @@
       "title": "Dino i Orlen po dwóch stronach portfela. Duże obroty na PKO BP Choć przez przeważającą część dnia na warszawskim parkiecie dominowały zielone barwy, wejście do gry inwestorów z Wall Street ponownie zmieniło rynkowy układ sił. Spadki cen ropy wynikające z deeskalacji napięć na Bliskim Wschodzie nie wystarczyły, by obronić wzrosty na GPW. Inwestorzy na nie mogli narzekać na nudę – doszło do mocnych ruchów w samym portfelu WIG20, a poza tym popularne spółki z szerokiego rynku po publikacji wyników finansowych zaliczyły silne ruchy.",
       "content_html": "",
       "date_published": "2026-07-28T17:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-wyplacil-rekordowa-dywidende-Akcjonariusze-otrzymali-8-zl-za-akcje-9174375.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-wyplacil-rekordowa-dywidende-Akcjonariusze-otrzymali-8-zl-za-akcje-9174375.html",
+      "title": "Orlen wypłacił rekordową dywidendę. Akcjonariusze otrzymali 8 zł za akcję Łącznie spółka przeznaczyła na wypłatę 9,3 mld zł. Jak poinformował zarząd – to efekt realizacji strategii koncernu oraz bardzo dobrej i stabilnej kondycji finansowej firmy. Wypłata była możliwa dzięki decyzji Walnego Zgromadzenia Akcjonariuszy Orlenu z 25 czerwca, na bazie wcześniejszej rekomendacji zarządu dotyczącej wysokości wypłaty.",
+      "content_html": "",
+      "date_published": "2026-07-28T14:22:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orange-Polska-moze-zakonczyc-26-z-wyzszym-niz-6-proc-wzrostem-EBITDAal-9174281.html",
@@ -366,20 +394,6 @@
       "title": "Ropa mocno tanieje. USA i Iran zrobiły sobie przerwę w atakach Na giełdach paliw ropa rozpoczyna ostatni tydzień lipca od mocnych spadków cen, bo USA i Iran zrobiły sobie przerwę od wzajemnych ataków - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-07-27T07:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ile-akcji-w-portfelu-czyli-jak-okielznac-emocje-Dywersyfikacja-i-jej-iluzja-9173001.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ile-akcji-w-portfelu-czyli-jak-okielznac-emocje-Dywersyfikacja-i-jej-iluzja-9173001.html",
-      "title": "Ile akcji w portfelu, czyli jak okiełznać emocje. Dywersyfikacja i jej iluzja Wpływ psychologii inwestowania na procesy decyzyjne inwestorów jest jednym z najciekawszych zagadnień rynkowej praktyki. Emocje często prowadzą do sytuacji, w której w portfelu inwestora pojawiają się kolejne przypadkowe spółki i w pewnym momencie jest ich nawet kilkadziesiąt, a udział akcji w portfelu zbliża się do 100%. Ile zatem powinniśmy mieć akcji w optymalnym ujęciu i jak nimi zarządzać, aby minimalizować ryzyko? Postarajmy się to sprawdzić, korzystając również z wiedzy eksperta.",
-      "content_html": "",
-      "date_published": "2026-07-27T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Komu-sie-oplaci-OKI-A-komu-niekoniecznie-9172930.html",
-      "url": "https://www.bankier.pl/wiadomosc/Komu-sie-oplaci-OKI-A-komu-niekoniecznie-9172930.html",
-      "title": "Komu się opłaci OKI? A komu... niekoniecznie Abstrahując od skomplikowanych zasad, wyjątków i haczyków, OKI części inwestorów niemal z pewnością się opłaci. Ale dla niektórych okaże się pułapką lub kosztownym błędem.",
-      "content_html": "",
-      "date_published": "2026-07-27T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
