@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Hulaj-dusza-Fedu-nie-ma-Potezne-odbicie-w-polprzewodnikach-9175976.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hulaj-dusza-Fedu-nie-ma-Potezne-odbicie-w-polprzewodnikach-9175976.html",
+      "title": "Hulaj dusza, Fedu nie ma? Potężne odbicie w półprzewodnikach",
+      "content_html": "Czwartkowa sesja na Wall Street przyniosła silne odbicie na Nasdaqu napędzane mocnym odreagowaniem w sektorze producentów półprzewodników. Paliwa do wzrostów dały też mocarne wyniki Microsoftu.",
+      "date_published": "2026-07-30T23:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/MON-potwierdza-Na-Lubelszczyznie-spadla-rosyjska-rakieta-Ch-101-9175945.html",
       "url": "https://www.bankier.pl/wiadomosc/MON-potwierdza-Na-Lubelszczyznie-spadla-rosyjska-rakieta-Ch-101-9175945.html",
       "title": "MON potwierdza: Na Lubelszczyźnie spadła rosyjska rakieta CH-101",
@@ -695,13 +702,6 @@
       "title": "Chiny zapowiadają odwet za amerykańskie restrykcje na roboty",
       "content_html": "Chińskie ministerstwo handlu potępiło w czwartek decyzję USA o zakazie importu robotów i falowników. Ministerstwo wezwało do „porzucenia błędnych działań” i zapowiedziało podjęcie środków odwetowych w obronie interesów firm krajowych...",
       "date_published": "2026-07-30T10:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/1100-zl-za-4-godziny-snu-Pierwsze-samolotowe-lozka-trafily-do-klasy-ekonomicznej-9175351.html",
-      "url": "https://www.bankier.pl/wiadomosc/1100-zl-za-4-godziny-snu-Pierwsze-samolotowe-lozka-trafily-do-klasy-ekonomicznej-9175351.html",
-      "title": "1100 zł za 4 godziny snu? Pierwsze samolotowe łóżka trafiły do klasy ekonomicznej",
-      "content_html": "To, co jeszcze niedawno brzmiało jak ambitna wizja przyszłości, właśnie stało się rzeczywistością. Podróżujący klasą ekonomiczną wreszcie doczekali się przełomu - do oficjalnej sprzedaży trafiły łóżka w ramach usługi Skynest. Ten...",
-      "date_published": "2026-07-30T10:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
