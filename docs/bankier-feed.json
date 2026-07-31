@@ -11,6 +11,13 @@
       "date_published": "2026-08-01T11:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zmiana-w-zarzadzie-grupy-medialnej-Polska-Press-p-o-prezesa-spolki-zostanie-Elzbieta-Zuraw-9176651.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zmiana-w-zarzadzie-grupy-medialnej-Polska-Press-p-o-prezesa-spolki-zostanie-Elzbieta-Zuraw-9176651.html",
+      "title": "Zmiana w strukturach Polska Press Grupy. Elżbieta Żuraw p.o. prezesa",
+      "content_html": "Dotychczasowa członkini zarządu Polska Press Grupy Elżbieta Żuraw zostanie p.o. prezesa zarządu. Zastąpi Zenona Nowaka, który kierował spółką od marca 2024 r.",
+      "date_published": "2026-07-31T23:57:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nie-potrzebujemy-mitologii-Mocne-slowa-Trzaskowskiego-w-przeddzien-rocznicy-Powstania-9176630.html",
       "url": "https://www.bankier.pl/wiadomosc/Nie-potrzebujemy-mitologii-Mocne-slowa-Trzaskowskiego-w-przeddzien-rocznicy-Powstania-9176630.html",
       "title": "„Nie potrzebujemy mitologii”. Mocne słowa Trzaskowskiego w przeddzień rocznicy Powstania",
@@ -681,27 +688,6 @@
       "title": "RCB rozesłało alert z cyfrową wersją „poradnika bezpieczeństwa”. Serwery nie wytrzymały",
       "content_html": "W piątek Rządowe Centrum Bezpieczeństwa wysłało do odbiorców w całym kraju alert, w którym zachęca do pobrania „poradnik bezpieczeństwa” w wersji cyfrowej.",
       "date_published": "2026-07-31T10:47:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MSWiA-zapowiada-nowa-aplikacje-alarmowa-Ma-poprawic-system-ostrzegania-9176073.html",
-      "url": "https://www.bankier.pl/wiadomosc/MSWiA-zapowiada-nowa-aplikacje-alarmowa-Ma-poprawic-system-ostrzegania-9176073.html",
-      "title": "MSWiA zapowiada nową aplikację alarmową. Ma poprawić system ostrzegania",
-      "content_html": "Szef MSWiA Marcin Kierwiński poinformował, że w ciągu kilkunastu najbliższych tygodni będzie uruchomiona specjalna aplikacja regulująca kwestie ostrzegania ludności. Jak zaznaczył, priorytetem jest systematyczne uzupełnianie zaległości i budowa...",
-      "date_published": "2026-07-31T10:37:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OKI-Czas-oddzielic-fakty-od-mitow-9176114.html",
-      "url": "https://www.bankier.pl/wiadomosc/OKI-Czas-oddzielic-fakty-od-mitow-9176114.html",
-      "title": "OKI. Czas oddzielić fakty od mitów",
-      "content_html": "Debata o Osobistych Kontach Inwestycyjnych jest ważna. To jedno z najistotniejszych rozwiązań dla rozwoju polskiego rynku kapitałowego od wielu lat. Niestety, zamiast dyskusji o faktach, w ostatnich tygodniach dominowały nagłówki, które z rzeczywistą...",
-      "date_published": "2026-07-31T10:33:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Obrona-przeciwlotnicza-Ukrainy-zestrzelila-195-rosyjskich-bezzalogowcow-9176113.html",
-      "url": "https://www.bankier.pl/wiadomosc/Obrona-przeciwlotnicza-Ukrainy-zestrzelila-195-rosyjskich-bezzalogowcow-9176113.html",
-      "title": "Obrona przeciwlotnicza Ukrainy zestrzeliła 195 rosyjskich bezzałogowców",
-      "content_html": "Ukraińska obrona przeciwlotnicza zestrzeliła w nocy z czwartku na piątek 195 rosyjskich bezzałogowców – poinformowała służba prasowa Sił Powietrznych Ukrainy w komunikatorze Telegram.",
-      "date_published": "2026-07-31T10:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
