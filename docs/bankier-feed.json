@@ -18,6 +18,13 @@
       "date_published": "2026-08-02T09:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zbiorka-prywatna-nie-partyjna-Morawiecki-o-rozliczeniach-finansowych-Rozwoj-Wy-9176820.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zbiorka-prywatna-nie-partyjna-Morawiecki-o-rozliczeniach-finansowych-Rozwoj-Wy-9176820.html",
+      "title": "Zbiórka prywatna, nie partyjna. Morawiecki o rozliczeniach finansowych \"Rozwój + Wy\"",
+      "content_html": "B. premier Mateusz Morawiecki poinformował, że wydarzenie „Rozwój + Wy”, które odbyło się w piątek opłacono ze składek stowarzyszenia Rozwój Plus. Jak dodał, stowarzyszenie liczy sobie już setki członków, a tysiące zainteresowane są...",
+      "date_published": "2026-08-02T00:03:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Potezna-eksplozja-w-luksusowej-restauracji-w-Moskwie-kolo-ambasady-USA-9176809.html",
       "url": "https://www.bankier.pl/wiadomosc/Potezna-eksplozja-w-luksusowej-restauracji-w-Moskwie-kolo-ambasady-USA-9176809.html",
       "title": "Potężna eksplozja w luksusowej restauracji w Moskwie koło ambasady USA",
@@ -695,13 +702,6 @@
       "title": "Kapitalny miesiąc polskiej giełdy. WIG20 o krok od rekordu, Żabka przejęta",
       "content_html": "Lipiec na GPW zakończył się w znakomitym stylu. WIG20 zyskał w minionym miesiącu ponad 9%, a podczas piątkowych notowań niemal otarł się o historyczny szczyt z 2007 roku. Ostatnia sesja miesiąca przyniosła jednak spokojniejszy handel, a wydarzeniem...",
       "date_published": "2026-07-31T18:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sanwil-Holding-zaprasza-do-skladania-ofert-sprzedazy-do-3-mln-akcji-w-cenie-2-zl-szt-9176533.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sanwil-Holding-zaprasza-do-skladania-ofert-sprzedazy-do-3-mln-akcji-w-cenie-2-zl-szt-9176533.html",
-      "title": "Sanwil Holding zaprasza do składania ofert sprzedaży do 3 mln akcji, w cenie 2 zł/szt.",
-      "content_html": "Sanwil Holding zaprasza do składania ofert sprzedaży do 3.000.000 akcji spółki stanowiących 19 proc. kapitału zakładowego, w cenie 2 zł za sztukę - podała spółka w komunikacie. Spółka zamierza nabyć akcje w celu ich umorzenia.",
-      "date_published": "2026-07-31T18:36:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
