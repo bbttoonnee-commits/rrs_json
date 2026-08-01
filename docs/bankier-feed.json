@@ -11,6 +11,13 @@
       "date_published": "2026-08-02T15:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polski-hit-eksportowy-slabnie-Przegrywamy-z-Chinami-Ukraina-i-Wietnamem-9173748.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polski-hit-eksportowy-slabnie-Przegrywamy-z-Chinami-Ukraina-i-Wietnamem-9173748.html",
+      "title": "Polski hit eksportowy słabnie. Przegrywamy z Chinami, Ukrainą i Wietnamem",
+      "content_html": "Pogłębia się spadek produkcji sprzedanej sektora meblarskiego - ocenia w analizie sektorowej Polski Fundusz Rozwoju.",
+      "date_published": "2026-08-02T09:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Litwa-zada-odszkodowania-i-zapowiada-odwet-Ostra-reakcja-na-atak-w-Kijowie-9176772.html",
       "url": "https://www.bankier.pl/wiadomosc/Litwa-zada-odszkodowania-i-zapowiada-odwet-Ostra-reakcja-na-atak-w-Kijowie-9176772.html",
       "title": "Litwa żąda odszkodowania i zapowiada odwet. Ostra reakcja na atak w Kijowie",
@@ -695,13 +702,6 @@
       "title": "Tarcza Wschód rośnie w oczach. 100 km granicy już zabezpieczone",
       "content_html": "W ramach Tarczy Wschód zabezpieczono już ok. 100 km granicy z Rosją i Białorusią; do końca roku ma to być ponad 200 km – poinformował w piątek Sztab Generalny Wojska Polskiego. Ponadto na potrzeby programu przejęto dotychczas 77 działek ewidencyjnych...",
       "date_published": "2026-07-31T17:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-ucieka-przed-unijnymi-karami-Koniec-przywilejow-dla-lotniczych-gigantow-9176378.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-ucieka-przed-unijnymi-karami-Koniec-przywilejow-dla-lotniczych-gigantow-9176378.html",
-      "title": "Polska ucieka przed unijnymi karami. Koniec przywilejów dla lotniczych gigantów",
-      "content_html": "Sejm w piątek uchwalił nowelizację ustawy w celu wsparcia zrównoważonego lotnictwa. Przepisy dostosowują polskie prawo do unijnych ograniczeń emisji gazów cieplarnianych w lotnictwie, likwidując dotychczasowe preferencje dla największych linii...",
-      "date_published": "2026-07-31T17:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
