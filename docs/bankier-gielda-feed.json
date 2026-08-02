@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Bledy-przy-naliczaniu-rabatow-na-produkty-w-sklepach-Zabki-problem-jest-rozwiazywany-9176913.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bledy-przy-naliczaniu-rabatow-na-produkty-w-sklepach-Zabki-problem-jest-rozwiazywany-9176913.html",
+      "title": "Błędy przy naliczaniu rabatów na produkty w sklepach Żabki; problem jest rozwiązywany W niedzielę występują błędy przy naliczeniu rabatów na produkty w sklepach Żabka - poinformowała w niedzielę spółka. Jak podkreślono, problem został rozwiązany w blisko 90 proc. sklepów, a prace w pozostałych placówkach są kontynuowane.",
+      "content_html": "",
+      "date_published": "2026-08-02T16:34:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gra-o-biliony-i-gieldowy-wyscig-zbrojen-o-odchudzanie-Kolejne-leki-juz-na-horyzoncie-9176182.html",
       "url": "https://www.bankier.pl/wiadomosc/Gra-o-biliony-i-gieldowy-wyscig-zbrojen-o-odchudzanie-Kolejne-leki-juz-na-horyzoncie-9176182.html",
       "title": "Gra o biliony i giełdowy wyścig zbrojeń o odchudzanie. Kolejne leki już na horyzoncie Novo Nordisk, Eli Lilly i wiele innych firm farmaceutycznych przygotowuje leki na odchudzanie, którym warto się przyjrzeć. Oto preparaty, które będą w centrum uwagi w nadchodzących latach.",
@@ -65,13 +72,6 @@
       "title": "Kapitalny miesiąc polskiej giełdy. WIG20 o krok od rekordu, Żabka przejęta Lipiec na GPW zakończył się w znakomitym stylu. WIG20 zyskał w minionym miesiącu ponad 9%, a podczas piątkowych notowań niemal otarł się o historyczny szczyt z 2007 roku. Ostatnia sesja miesiąca przyniosła jednak spokojniejszy handel, a wydarzeniem dnia była informacja o przejęciu Żabki przez właściciela sieci Circle K.",
       "content_html": "",
       "date_published": "2026-07-31T17:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sanwil-Holding-zaprasza-do-skladania-ofert-sprzedazy-do-3-mln-akcji-w-cenie-2-zl-szt-9176533.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sanwil-Holding-zaprasza-do-skladania-ofert-sprzedazy-do-3-mln-akcji-w-cenie-2-zl-szt-9176533.html",
-      "title": "Sanwil Holding zaprasza do składania ofert sprzedaży do 3 mln akcji, w cenie 2 zł/szt. Sanwil Holding zaprasza do składania ofert sprzedaży do 3.000.000 akcji spółki stanowiących 19 proc. kapitału zakładowego, w cenie 2 zł za sztukę - podała spółka w komunikacie. Spółka zamierza nabyć akcje w celu ich umorzenia.",
-      "content_html": "",
-      "date_published": "2026-07-31T17:36:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
