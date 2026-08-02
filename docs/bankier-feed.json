@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pozary-i-upaly-zmieniaja-rynek-Szwedzi-przewiduja-turystyczny-boom-na-Polske-i-Skandynawie-9174316.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pozary-i-upaly-zmieniaja-rynek-Szwedzi-przewiduja-turystyczny-boom-na-Polske-i-Skandynawie-9174316.html",
+      "title": "Pożary i upały zmieniają rynek. Szwedzi przewidują turystyczny boom na Polskę i Skandynawię",
+      "content_html": "Na skutek upałów i pożarów szczyt sezonu urlopowego w krajach śródziemnomorskich przesunie się na wiosnę i jesień, a więcej turystów będzie spędzać urlop w Skandynawii oraz w Polsce – pisze szwedzki dziennik „Dagens Nyheter”.",
+      "date_published": "2026-08-02T17:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najgorzej-od-II-wojny-swiatowej-Katastrofalne-dane-demograficzne-z-Wloch-9174359.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najgorzej-od-II-wojny-swiatowej-Katastrofalne-dane-demograficzne-z-Wloch-9174359.html",
+      "title": "Najgorzej od II wojny światowej. Katastrofalne dane demograficzne z Włoch",
+      "content_html": "Najniższa od zakończenia drugiej wojny światowej liczba dzieci urodziła się w 2025 roku we Włoszech: 355 tysięcy - podano w ogłoszonym raporcie krajowej Fundacji na rzecz Dzietności. To, jak podkreślono, nowy historyczny rekord potwierdzający...",
+      "date_published": "2026-08-02T17:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-wielodniowa-Trasa-Kangura-Od-2027-roku-do-Australii-polecimy-bez-przesiadek-9174553.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-wielodniowa-Trasa-Kangura-Od-2027-roku-do-Australii-polecimy-bez-przesiadek-9174553.html",
+      "title": "Koniec z wielodniową \"Trasą Kangura\". Od 2027 roku do Australii polecimy bez przesiadek",
+      "content_html": "Ponad 3,6 mln ludzi śledziło na żywo w internecie testowy lot Airbusa A350-1000 ULR australijskich linii Qantas z Melbourne do Tuluzy, który trwał ponad dobę – poinformowały australijskie media. Od 2027 r. maszyna ma obsługiwać codzienne, bezpośrednie...",
+      "date_published": "2026-08-02T17:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-uderzaja-nowymi-clami-To-zaskakujaco-dobre-wiesci-dla-polskiej-gospodarki-9175492.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-uderzaja-nowymi-clami-To-zaskakujaco-dobre-wiesci-dla-polskiej-gospodarki-9175492.html",
+      "title": "USA uderzają nowymi cłami. To zaskakująco dobre wieści dla polskiej gospodarki",
+      "content_html": "Polska należy do krajów, które mogą relatywnie skorzystać na nowej rundzie amerykańskich ceł - oceniają analitycy Polskiego Instytutu Ekonomicznego.",
+      "date_published": "2026-08-02T17:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/LOT-odpala-egzotyczna-trase-Z-Warszawy-prosto-do-Wietnamu-9175606.html",
+      "url": "https://www.bankier.pl/wiadomosc/LOT-odpala-egzotyczna-trase-Z-Warszawy-prosto-do-Wietnamu-9175606.html",
+      "title": "LOT odpala egzotyczną trasę. Z Warszawy prosto do Wietnamu",
+      "content_html": "W marcu 2027 r. PLL LOT uruchomi bezpośrednie połączenie z Warszawy do Hanoi w Wietnamie - poinformowała spółka. Rejsy będą realizowane przez cały rok, trzy razy w tygodniu. Hanoi będzie piątym azjatyckim kierunkiem przewoźnika, obok Tokio...",
+      "date_published": "2026-08-02T17:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-dzieci-wracaja-do-domow-Misja-Melanii-Trump-w-Rosji-i-Ukrainie-9175742.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-dzieci-wracaja-do-domow-Misja-Melanii-Trump-w-Rosji-i-Ukrainie-9175742.html",
+      "title": "Kolejne dzieci wracają do domów. Misja Melanii Trump w Rosji i Ukrainie",
+      "content_html": "Pięcioro ukraińskich i rosyjskich dzieci zostało połączonych ze swoimi rodzinami w ramach inicjatywy pierwszej damy USA Melanii Trump - poinformowało jej biuro. To piąta grupa dzieci wracających do domów w rezultacie jej działań.",
+      "date_published": "2026-08-02T17:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tak-miasto-walczy-o-mlodych-mieszkancow-Do-kupienia-dzialki-z-50-procentowym-rabatem-9173873.html",
       "url": "https://www.bankier.pl/wiadomosc/Tak-miasto-walczy-o-mlodych-mieszkancow-Do-kupienia-dzialki-z-50-procentowym-rabatem-9173873.html",
       "title": "Tak miasto walczy o młodych mieszkańców. Do kupienia działki z 50-procentowym rabatem",
@@ -660,48 +702,6 @@
       "title": "Urlop z wałkiem w ręku i 11 tys. zł z kieszeni. Polacy uciekają przed drożyzną i sami wykańczają mieszkania",
       "content_html": "Blisko 60 proc. ankietowanych wskazało, że przynajmniej część urlopu przeznacza na naprawy, odświeżanie lub remont mieszkania - wynika z raportu UCE Research i platformy Fachurra.pl. W ocenie ekspertów wpływ na te decyzje mają rosnące w ostatnich...",
       "date_published": "2026-08-01T11:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinska-ofensywa-chipowa-Nowy-gracz-z-Panstwa-Srodka-rzuca-wyzwanie-gigantom-9176295.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinska-ofensywa-chipowa-Nowy-gracz-z-Panstwa-Srodka-rzuca-wyzwanie-gigantom-9176295.html",
-      "title": "Chińska ofensywa chipowa. Nowy gracz z Państwa Środka rzuca wyzwanie gigantom",
-      "content_html": "Kolejny chiński gracz na rynku sztucznej inteligencji wziął branżę szturmem. Inwestorzy obawiają się, że może on wywrzeć ogromną presję na cały sektor, choć w jednym kluczowym aspekcie wciąż pozostaje w tyle.",
-      "date_published": "2026-08-01T11:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Desperacja-na-Kubie-Matki-z-dziecmi-wychodza-na-ulice-by-protestowac-9176665.html",
-      "url": "https://www.bankier.pl/wiadomosc/Desperacja-na-Kubie-Matki-z-dziecmi-wychodza-na-ulice-by-protestowac-9176665.html",
-      "title": "Desperacja na Kubie. Matki z dziećmi wychodzą na ulice, by protestować",
-      "content_html": "W antyrządowych protestach na Kubie coraz częściej biorą udział dzieci, które zabierają ze sobą na demonstracje zdesperowane brakiem prądu i wody pitnej matki - twierdzą niezależne kubańskie media. Odnotowują, że większość tych protestów...",
-      "date_published": "2026-08-01T10:57:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyscig-z-czasem-przed-otwarciem-gield-USA-na-progu-wielkiej-operacji-Iran-ostrzega-przed-odwetem-w-sasiadow-9176662.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyscig-z-czasem-przed-otwarciem-gield-USA-na-progu-wielkiej-operacji-Iran-ostrzega-przed-odwetem-w-sasiadow-9176662.html",
-      "title": "Wyścig z czasem przed otwarciem giełd? USA na progu wielkiej operacji, Iran ostrzega przed odwetem w sąsiadów",
-      "content_html": "W związku z doniesieniami amerykańskich mediów o planowanym dużym ataku na cele w Iranie, Teheran zagroził odwetem i uderzeniami w obiekty infrastruktury krytycznej w Izraelu i państwach Zatoki Perskiej. Poinformowały o tym w sobotę irańskie...",
-      "date_published": "2026-08-01T10:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-o-magnitudzie-4-7-we-Wloszech-Ludzie-w-panice-wybiegli-na-ulice-9176646.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trzesienie-ziemi-o-magnitudzie-4-7-we-Wloszech-Ludzie-w-panice-wybiegli-na-ulice-9176646.html",
-      "title": "Trzęsienie ziemi o magnitudzie 4,7 we Włoszech. Ludzie w panice wybiegli na ulice",
-      "content_html": "21 osób zostało rannych, w tym dwie ciężko, w wyniku trzęsienia ziemi w rejonie Neapolu na południu Włoch w piątek - podała Obrona Cywilna. Wstrząs o magnitudzie 4,7 spowodował szkody: zawaliło się kilka niezamieszkanych budynków, odpadły...",
-      "date_published": "2026-08-01T10:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zmienil-nazwisko-ale-zdradzila-go-biometria-Moldawianin-myslal-ze-wjedzie-do-Polski-9173665.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmienil-nazwisko-ale-zdradzila-go-biometria-Moldawianin-myslal-ze-wjedzie-do-Polski-9173665.html",
-      "title": "Zmienił nazwisko, ale zdradziła go biometria. Mołdawianin myślał, że wjedzie do Polski",
-      "content_html": "48-letni Mołdawianin zmienił dane osobowe, by ominąć zakaz wjazdu do państw Schengen. Podstęp wykryli strażnicy graniczni w Medyce dzięki systemowi Entry/Exit. Cudzoziemiec odpowie za swój czyn przed sądem – poinformował rzecznik Bieszczadzkiego...",
-      "date_published": "2026-08-01T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Od-1960-roku-zyskalismy-ponad-dekade-Tak-wydluza-sie-srednia-dlugosc-zycia-9173675.html",
-      "url": "https://www.bankier.pl/wiadomosc/Od-1960-roku-zyskalismy-ponad-dekade-Tak-wydluza-sie-srednia-dlugosc-zycia-9173675.html",
-      "title": "Od 1960 roku zyskaliśmy ponad dekadę. Tak wydłuża się średnia długość życia",
-      "content_html": "Oczekiwana długość życia mężczyzny w Polsce urodzonego w 2025 r. wynosi 75,37 roku, natomiast kobiety 82,48 roku. W porównaniu do 2024 r., oznacza to wzrost o 0,4 roku dla mężczyzn oraz o 0,2 roku dla kobiet - podał GUS. Dodał, że tempo wzrostu...",
-      "date_published": "2026-08-01T09:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
