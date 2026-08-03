@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lipcu-drugi-BoFA-9177447.html",
+      "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-lipcu-drugi-BoFA-9177447.html",
+      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w lipcu, drugi BoFA",
+      "content_html": "Goldman Sachs w lipcu 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
+      "date_published": "2026-08-03T23:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-Wall-Street-Rekordowy-kurs-zamkniecia-Dow-Jonesa-9177444.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwyzka-ulgi-na-Wall-Street-Rekordowy-kurs-zamkniecia-Dow-Jonesa-9177444.html",
+      "title": "Zwyżka ulgi na Wall Street. Rekordowy kurs zamknięcia Dow Jonesa",
+      "content_html": "Nadzieja na odblokowanie dostaw ropy naftowej z Zatoki Perskiej w poniedziałek była głównym katalizatorem zwyżki ulgi na nowojorskich giełdach. Stara średnia przemysłowa Dow Jonesa wyznaczyła nowy historyczny rekord liczony po kursach zamknięcia...",
+      "date_published": "2026-08-03T23:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Lotwa-zamyka-ostatnie-przejscie-z-Bialorusia-Szef-MSZ-ostrzega-przed-prowokacjami-9177428.html",
       "url": "https://www.bankier.pl/wiadomosc/Lotwa-zamyka-ostatnie-przejscie-z-Bialorusia-Szef-MSZ-ostrzega-przed-prowokacjami-9177428.html",
       "title": "Łotwa zamyka ostatnie przejście z Białorusią? Szef MSZ ostrzega przed prowokacjami",
@@ -688,20 +702,6 @@
       "title": "Poważny wyciek danych w Portugalii. Poszkodowani prezydent i służby",
       "content_html": "Prywatne dane prezydenta Portugalii Antonia Jose Seguro oraz członków rządu i wysokich rangą urzędników podległych mu instytucji zostały wykradzione przez hakerów, wynika z ustaleń śledztwa prowadzonego przez portugalską policję.",
       "date_published": "2026-08-03T05:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nadzieja-na-polityczne-zmiany-w-Wenezueli-Maduro-poparl-negocjacje-9176956.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nadzieja-na-polityczne-zmiany-w-Wenezueli-Maduro-poparl-negocjacje-9176956.html",
-      "title": "Nadzieja na polityczne zmiany w Wenezueli. Maduro poparł negocjacje",
-      "content_html": "Przebywający w amerykańskim areszcie, obalony przywódca Wenezueli Nicolas Maduro wyraził w niedzielę poparcie dla „wszelkich dróg dialogu” w swoim kraju, gdzie rząd i opozycja szykują się do negocjacji, które budzą nadzieje na polityczne...",
-      "date_published": "2026-08-03T03:13:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Seria-pozarow-w-Turcji-Minister-sprawiedliwosci-informuje-o-aresztowaniach-9176953.html",
-      "url": "https://www.bankier.pl/wiadomosc/Seria-pozarow-w-Turcji-Minister-sprawiedliwosci-informuje-o-aresztowaniach-9176953.html",
-      "title": "Seria pożarów w Turcji. Minister sprawiedliwości informuje o aresztowaniach",
-      "content_html": "Minister sprawiedliwości Turcji Akin Gurlek ogłosił w niedzielę, że trwają postępowania sądowe w sprawie 44 pożarów lasów, do których doszło w 16 prowincjach Turcji od 1 czerwca. Władze zidentyfikowały 29 podejrzanych i aresztowały sześciu...",
-      "date_published": "2026-08-03T01:47:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
