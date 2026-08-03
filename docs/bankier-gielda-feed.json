@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ani-takie-zle-ani-takie-dobre-czyli-co-tam-slychac-w-portfelach-gwiazd-9176262.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ani-takie-zle-ani-takie-dobre-czyli-co-tam-slychac-w-portfelach-gwiazd-9176262.html",
+      "title": "PORTFEL GWIAZD Ani takie złe, ani takie dobre, czyli co tam słychać w portfelach gwiazd Połowa wakacji za nami, słońce pali, a na rynkach... cóż, tam też temperatura potrafi sparzyć niejednego inwestora. Jak wiecie, monitoruję Portfel Gwiazd Bankier.pl, bo to szeroki przekrój rynkowych oczekiwań od maklerów, doradców inwestycyjnych, profesorów, doktorów, ale też prezesów i zwykłych inwestorów i inwestorek takich jak ja. Sprawdzam więc, jak radziły sobie wybrane aktywa z lipcowo-sierpniowego Portfela.",
+      "content_html": "",
+      "date_published": "2026-08-03T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bledy-przy-naliczaniu-rabatow-na-produkty-w-sklepach-Zabki-problem-jest-rozwiazywany-9176913.html",
       "url": "https://www.bankier.pl/wiadomosc/Bledy-przy-naliczaniu-rabatow-na-produkty-w-sklepach-Zabki-problem-jest-rozwiazywany-9176913.html",
       "title": "Rabat się nie naliczył? Żabka tłumaczy niedzielny błąd w swoich sklepach W niedzielę występują błędy przy naliczeniu rabatów na produkty w sklepach Żabka - poinformowała w niedzielę spółka. Jak podkreślono, problem został rozwiązany w blisko 90 proc. sklepów, a prace w pozostałych placówkach są kontynuowane.",
@@ -37,13 +44,6 @@
       "title": "Chińska ofensywa chipowa. Nowy gracz z Państwa Środka rzuca wyzwanie gigantom Kolejny chiński gracz na rynku sztucznej inteligencji wziął branżę szturmem. Inwestorzy obawiają się, że może on wywrzeć ogromną presję na cały sektor, choć w jednym kluczowym aspekcie wciąż pozostaje w tyle.",
       "content_html": "",
       "date_published": "2026-08-01T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Benzyna-najdrozsza-od-4-lat-inflacja-odbija-a-big-techy-dziela-inwestorow-Co-napedza-i-hamuje-gospodarke-9176107.html",
-      "url": "https://www.bankier.pl/wiadomosc/Benzyna-najdrozsza-od-4-lat-inflacja-odbija-a-big-techy-dziela-inwestorow-Co-napedza-i-hamuje-gospodarke-9176107.html",
-      "title": "WYKRESY TYGODNIA Benzyna najdroższa od 4 lat, inflacja odbija, a big techy dzielą inwestorów. Co napędza i hamuje gospodarkę? Cześć, tu Inwestor Wojtek! Ten tydzień to z pewnością najdroższa benzyna od czterech lat, odbijająca inflacja w Polsce i Niemczech oraz skrajne emocje na giełdach - od rekordowych zysków gigantów technologii i paliw po rynkowe napięcia. Czas na przegląd tego, co dzieje się wokół nas. Łapcie za kawę i zobaczmy razem najnowsze wykresy tygodnia Bankier.pl",
-      "content_html": "",
-      "date_published": "2026-08-01T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
