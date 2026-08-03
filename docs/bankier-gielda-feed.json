@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/WIG20-pokonal-szczyt-sprzed-blisko-19-lat-Padl-rekord-z-2007-roku-9171753.html",
+      "url": "https://www.bankier.pl/wiadomosc/WIG20-pokonal-szczyt-sprzed-blisko-19-lat-Padl-rekord-z-2007-roku-9171753.html",
+      "title": "Nareszcie! WIG20 pokonał szczyt sprzed blisko 19 lat WIG20 właśnie zdobył nowy historyczny szczyt, zyskując w ciągu niepełna 4 lat blisko 200 proc. i przyćmiewając w tym czasie nawet indeksy z Wall Street. Całe pokolenie musiało dorosnąć, aby reprezentacyjny indeks warszawskiej giełdy znów znalazł się najwyżej w historii.",
+      "content_html": "",
+      "date_published": "2026-08-03T09:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PMI-dla-Polski-lipiec-2026-Wreszcie-lepsze-wiesci-z-polskiego-przemyslu-9177025.html",
+      "url": "https://www.bankier.pl/wiadomosc/PMI-dla-Polski-lipiec-2026-Wreszcie-lepsze-wiesci-z-polskiego-przemyslu-9177025.html",
+      "title": "Wreszcie lepsze wieści z polskiego przemysłu. PMI pozytywnie zaskoczył Choć lipcowa koniunktura w polskim sektorze wytwórczym pozostała raczej słaba, to i tak było znacznie lepiej niż w wyjątkowo marnym pod tym względem czerwcu.",
+      "content_html": "",
+      "date_published": "2026-08-03T09:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-i-przedluzaja-lipcowe-zwyzki-9177003.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-rosna-i-przedluzaja-lipcowe-zwyzki-9177003.html",
+      "title": "Ceny miedzi w Londynie rosną i przedłużają lipcowe zwyżki Notowania miedzi na giełdzie metali LME w Londynie rosną i przedłużają lipcowe zwyżki - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-08-03T07:55:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ani-takie-zle-ani-takie-dobre-czyli-co-tam-slychac-w-portfelach-gwiazd-9176262.html",
       "url": "https://www.bankier.pl/wiadomosc/Ani-takie-zle-ani-takie-dobre-czyli-co-tam-slychac-w-portfelach-gwiazd-9176262.html",
       "title": "PORTFEL GWIAZD Ani takie złe, ani takie dobre, czyli co tam słychać w portfelach gwiazd Połowa wakacji za nami, słońce pali, a na rynkach... cóż, tam też temperatura potrafi sparzyć niejednego inwestora. Jak wiecie, monitoruję Portfel Gwiazd Bankier.pl, bo to szeroki przekrój rynkowych oczekiwań od maklerów, doradców inwestycyjnych, profesorów, doktorów, ale też prezesów i zwykłych inwestorów i inwestorek takich jak ja. Sprawdzam więc, jak radziły sobie wybrane aktywa z lipcowo-sierpniowego Portfela.",
@@ -37,13 +58,6 @@
       "title": "Wielka zmiana na polskiej kolei. Polregio znów w PKP? Minister infrastruktury Dariusz Klimczak powiedział PAP, że rozmawia z ministrem aktywów państwowych Wojciechem Balczunem o koncepcji rozwoju Polregio. Wskazał, że nie chodzi o to, kto ma nadzorować tę spółkę, tylko o plan na jej przyszłość. Zdaniem szefa Polregio ewentualna zmiana nadzoru mogłaby ułatwić zakup taboru.",
       "content_html": "",
       "date_published": "2026-08-01T11:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinska-ofensywa-chipowa-Nowy-gracz-z-Panstwa-Srodka-rzuca-wyzwanie-gigantom-9176295.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinska-ofensywa-chipowa-Nowy-gracz-z-Panstwa-Srodka-rzuca-wyzwanie-gigantom-9176295.html",
-      "title": "Chińska ofensywa chipowa. Nowy gracz z Państwa Środka rzuca wyzwanie gigantom Kolejny chiński gracz na rynku sztucznej inteligencji wziął branżę szturmem. Inwestorzy obawiają się, że może on wywrzeć ogromną presję na cały sektor, choć w jednym kluczowym aspekcie wciąż pozostaje w tyle.",
-      "content_html": "",
-      "date_published": "2026-08-01T10:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
