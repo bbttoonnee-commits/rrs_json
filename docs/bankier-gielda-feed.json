@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/WIG20-poprawil-historyczny-rekord-WIG-pierwszy-raz-powyzej-150-000-punktow-9177863.html",
+      "url": "https://www.bankier.pl/wiadomosc/WIG20-poprawil-historyczny-rekord-WIG-pierwszy-raz-powyzej-150-000-punktow-9177863.html",
+      "title": "WIG20 poprawił historyczny rekord. WIG pierwszy raz powyżej 150 000 punktów! WIG20 poprawił ustanowiony dzień wcześniej rekord wszech czasów. Najwyżej w historii znalazły się także WIG i mWIG40.",
+      "content_html": "",
+      "date_published": "2026-08-04T19:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Genomtec-uzyskal-patent-na-wynalazek-w-USA-9177939.html",
+      "url": "https://www.bankier.pl/wiadomosc/Genomtec-uzyskal-patent-na-wynalazek-w-USA-9177939.html",
+      "title": "Genomtec uzyskał patent na wynalazek w USA Genomtec uzyskał patent na wynalazek \"Set of primers, composition of reagents and method of detecting atypical bacteria\" w USA - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-04T19:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Z-23-do-8-procent-VAT-na-wode-Ministerstwo-Finansow-przeprowadzilo-symulacje-9177860.html",
       "url": "https://www.bankier.pl/wiadomosc/Z-23-do-8-procent-VAT-na-wode-Ministerstwo-Finansow-przeprowadzilo-symulacje-9177860.html",
       "title": "Z 23 do 8 procent VAT na wodę? Ministerstwo Finansów przeprowadziło symulację Ministerstwo Finansów nie wprowadza obecnie zmian w zakresie stawek VAT na butelkowaną wodę mineralną i źródlaną, nie wyklucza jednak wprowadzenia obniżki VAT na te towary w przyszłości - poinformował w odpowiedzi na interpelację poselską wiceminister finansów Jarosław Neneman.",
@@ -23,13 +37,6 @@
       "title": "Rząd ukróci nadużycia w fundacjach rodzinnych. Wyższy podatek i twardsze zasady Rząd chce przyjąć w III kw. projekt uszczelniający opodatkowanie fundacji rodzinnej - wynika z wykazu prac legislacyjnych i programowych Rady Ministrów.",
       "content_html": "",
       "date_published": "2026-08-04T18:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/WIG20-poprawil-historyczny-rekord-WIG-pierwszy-raz-powyzej-150-000-punktow-9177863.html",
-      "url": "https://www.bankier.pl/wiadomosc/WIG20-poprawil-historyczny-rekord-WIG-pierwszy-raz-powyzej-150-000-punktow-9177863.html",
-      "title": "WIG20 poprawił historyczny rekord. WIG pierwszy raz powyżej 150 000 punktów! WIG20 poprawił ustanowiony dzień wcześniej rekord wszech czasów. Najwyżej w historii znalazły się także WIG i mWIG40.",
-      "content_html": "",
-      "date_published": "2026-08-04T17:49:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wyprzedaz-w-sektorze-AI-i-polprzewodnikow-Eksperci-ostrzegaja-przed-banka-9177796.html",
@@ -212,13 +219,6 @@
       "title": "PORTFEL GWIAZD Ani takie złe, ani takie dobre, czyli co tam słychać w portfelach gwiazd Połowa wakacji za nami, słońce pali, a na rynkach... cóż, tam też temperatura potrafi sparzyć niejednego inwestora. Jak wiecie, monitoruję Portfel Gwiazd Bankier.pl, bo to szeroki przekrój rynkowych oczekiwań od maklerów, doradców inwestycyjnych, profesorów, doktorów, ale też prezesów i zwykłych inwestorów i inwestorek takich jak ja. Sprawdzam więc, jak radziły sobie wybrane aktywa z lipcowo-sierpniowego Portfela.",
       "content_html": "",
       "date_published": "2026-08-03T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bledy-przy-naliczaniu-rabatow-na-produkty-w-sklepach-Zabki-problem-jest-rozwiazywany-9176913.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bledy-przy-naliczaniu-rabatow-na-produkty-w-sklepach-Zabki-problem-jest-rozwiazywany-9176913.html",
-      "title": "Rabat się nie naliczył? Żabka tłumaczy niedzielny błąd w swoich sklepach W niedzielę występują błędy przy naliczeniu rabatów na produkty w sklepach Żabka - poinformowała w niedzielę spółka. Jak podkreślono, problem został rozwiązany w blisko 90 proc. sklepów, a prace w pozostałych placówkach są kontynuowane.",
-      "content_html": "",
-      "date_published": "2026-08-02T20:19:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
