@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-zaliczenie-przez-B-Millennium-obligacji-o-wartosci-500-mln-euro-do-Tier-II-9178401.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-zaliczenie-przez-B-Millennium-obligacji-o-wartosci-500-mln-euro-do-Tier-II-9178401.html",
+      "title": "KNF zgodziła się na zaliczenie przez B. Millennium obligacji o wartości 500 mln euro do Tier II Bank Millennium otrzymał decyzję KNF o wyrażeniu zgody na zakwalifikowanie obligacji podporządkowanych o łącznej wartości nominalnej 500 milionów euro, wyemitowanych 27 maja 2026 r., do instrumentów w Tier II banku - podał bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-05T16:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-zarzad-Hawe-Telekom-bedzie-sie-koncentrowac-m-in-na-cyberbezpieczenstwie-infrastruktury-9178348.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-zarzad-Hawe-Telekom-bedzie-sie-koncentrowac-m-in-na-cyberbezpieczenstwie-infrastruktury-9178348.html",
+      "title": "Nowy zarząd Hawe Telekom będzie się koncentrować m.in. na cyberbezpieczeństwie infrastruktury NWZ Hawe Telekom dokonało zmian w organach spółki, a Agencja Rozwoju Przemysłu, posiadająca 99,87 proc. akcji spółki, uzyskała pełne władztwo korporacyjne - podała ARP w komunikacie prasowym. Nowy zarząd operatora ma się koncentrować m.in. na stabilności operacyjnej i cyberbezpieczeństwie infrastruktury.",
+      "content_html": "",
+      "date_published": "2026-08-05T15:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pierwsza-polska-atomowka-sie-rozpedza-Bechtel-przejmuje-plac-budowy-9178339.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pierwsza-polska-atomowka-sie-rozpedza-Bechtel-przejmuje-plac-budowy-9178339.html",
+      "title": "Pierwsza polska \"atomówka\" się rozpędza. Bechtel przejmuje plac budowy Polskie Elektrownie Jądrowe (PEJ) przekazały generalnemu wykonawcy, firmie Bechtel, teren pod budowę pierwszej polskiej elektrowni jądrowej - poinformowała w środę spółka.",
+      "content_html": "",
+      "date_published": "2026-08-05T15:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-wyznaczylo-premiere-pelnej-wersji-gry-Moonlighter-2-na-2-wrzesnia-9178338.html",
+      "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-wyznaczylo-premiere-pelnej-wersji-gry-Moonlighter-2-na-2-wrzesnia-9178338.html",
+      "title": "11 bit studios wyznaczyło premierę pełnej wersji gry \"Moonlighter 2\" na 2 września 11 bit studios wyznaczyło datę premiery pełnej wersji gry \"Moonlighter 2: The Endless Vault\", w wersji na PC i konsole, na 2 września 2026 roku - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-05T15:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-ma-umowe-z-Bechtel-Polska-na-roboty-przy-budowie-elektrowni-jadrowej-za-208-9-mln-zl-9178311.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-ma-umowe-z-Bechtel-Polska-na-roboty-przy-budowie-elektrowni-jadrowej-za-208-9-mln-zl-9178311.html",
+      "title": "Budimex z kontraktem na ponad 200 mln zł przy pierwszej polskiej „atomówce” Budimex zawarł z Bechtel Polska umowę, której przedmiotem jest wykonanie robót ziemnych i przygotowanie terenu budowy elektrowni jądrowej w Polsce - podał Budimex w komunikacie. Wartość umowy to 208,88 mln zł netto.",
+      "content_html": "",
+      "date_published": "2026-08-05T14:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zloto-wroci-do-5000-USD-BNP-Paribas-Rekordowe-dlugi-i-oslabienie-dolara-wywolaja-hosse-9178284.html",
       "url": "https://www.bankier.pl/wiadomosc/Zloto-wroci-do-5000-USD-BNP-Paribas-Rekordowe-dlugi-i-oslabienie-dolara-wywolaja-hosse-9178284.html",
       "title": "Złoto wróci do 5000 USD? BNP Paribas: Rekordowe długi i osłabienie dolara wywołają hossę Długoterminowe perspektywy dla złota pozostają korzystne i w dłuższym terminie widać istotny potencjał wzrostowy dla tego kruszcu - oceniają analitycy BNP Paribas. Prognozują, że w horyzoncie 12 miesięcy jego cena może przekroczyć 5 tys. USD za uncję (wobec ponad 4.240 USD/ oz obecnie).",
@@ -268,13 +303,6 @@
       "title": "Giełdowy rekord po 19 latach czekania. Polski rynek pisze historię, hossa na GPW nie zwalnia Poniedziałkowa sesja wyznaczyła historyczny kamień milowy na warszawskiej giełdzie. Po 6853 dniach wyczekiwania indeks WIG20 pobił wreszcie rekordu z 29 października 2007 roku. Poranna fala entuzjazmu wywindowała wskaźniki na nowe szczyty, choć w drugiej części dnia rynkowy entuzjazm nieco opadł.",
       "content_html": "",
       "date_published": "2026-08-03T17:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budimex-liczy-na-utrzymanie-w-26-ok-18-mld-zl-backlogu-kontrakt-w-Czechach-moze-go-znaczaco-zwiekszyc-wywiad-9177285.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budimex-liczy-na-utrzymanie-w-26-ok-18-mld-zl-backlogu-kontrakt-w-Czechach-moze-go-znaczaco-zwiekszyc-wywiad-9177285.html",
-      "title": "18 miliardów w portfelu i czeski gigakontrakt. Budimex szykuje się na szczyt Budimex liczy, że kontraktacja powyżej 8 mld zł pozwoli utrzymać w 2026 r. portfel zamówień na poziomie ok. 18 mld zł. Na tę wartość może wpłynąć pozytywnie m.in. potencjalny kontrakt na D35 w Czechach – poinformował prezes Artur Popko. W jego ocenie największa kumulacja inwestycji na polskim rynku przypadnie na lata 2028–2029.",
-      "content_html": "",
-      "date_published": "2026-08-03T16:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
