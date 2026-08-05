@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Paramount-wierzy-w-przejecie-WBD-Wyniki-i-prognozy-lepsze-od-oczekiwan-9177965.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paramount-wierzy-w-przejecie-WBD-Wyniki-i-prognozy-lepsze-od-oczekiwan-9177965.html",
+      "title": "Paramount wierzy w przejęcie WBD. Wyniki i prognozy lepsze od oczekiwań Paramount Skydance podniósł prognozę skorygowanego zysku EBITDA na cały rok 2026, publikując we wtorek raport o zyskach za drugi kwartał. Firma nadal przygotowuje się do fuzji z Warner Bros. Discovery, mimo że proces ten został wstrzymany z powodu sporu z organami antymonopolowymi.",
+      "content_html": "",
+      "date_published": "2026-08-05T07:13:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Euforia-na-Wall-Street-S-P500-wybil-przez-sufit-9177963.html",
       "url": "https://www.bankier.pl/wiadomosc/Euforia-na-Wall-Street-S-P500-wybil-przez-sufit-9177963.html",
       "title": "Euforia na Wall Street. S&P500 wybił przez sufit S&P500 z impetem wybił się na nowe szczyty wszech czasów. Dow Jones ustanowił nowy historyczny rekord. A Nasdaq zaliczył trzecią silnie wzrostową sesję z rzędu.",
@@ -219,13 +226,6 @@
       "title": "Ceny miedzi w Londynie rosną i przedłużają lipcowe zwyżki Notowania miedzi na giełdzie metali LME w Londynie rosną i przedłużają lipcowe zwyżki - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-08-03T07:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ani-takie-zle-ani-takie-dobre-czyli-co-tam-slychac-w-portfelach-gwiazd-9176262.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ani-takie-zle-ani-takie-dobre-czyli-co-tam-slychac-w-portfelach-gwiazd-9176262.html",
-      "title": "PORTFEL GWIAZD Ani takie złe, ani takie dobre, czyli co tam słychać w portfelach gwiazd Połowa wakacji za nami, słońce pali, a na rynkach... cóż, tam też temperatura potrafi sparzyć niejednego inwestora. Jak wiecie, monitoruję Portfel Gwiazd Bankier.pl, bo to szeroki przekrój rynkowych oczekiwań od maklerów, doradców inwestycyjnych, profesorów, doktorów, ale też prezesów i zwykłych inwestorów i inwestorek takich jak ja. Sprawdzam więc, jak radziły sobie wybrane aktywa z lipcowo-sierpniowego Portfela.",
-      "content_html": "",
-      "date_published": "2026-08-03T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
