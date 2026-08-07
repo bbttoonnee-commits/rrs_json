@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Poczatek-sierpnia-przyniosl-odbicie-na-rynku-obligacji-skarbowych-9179527.html",
+      "url": "https://www.bankier.pl/wiadomosc/Poczatek-sierpnia-przyniosl-odbicie-na-rynku-obligacji-skarbowych-9179527.html",
+      "title": "Początek sierpnia przyniósł odbicie na rynku obligacji skarbowych Pierwszy tydzień sierpnia przyniósł odbicie na rynku obligacji skarbowych na świecie w ślad za spadkiem notowań ropy naftowej. Nie było ono jednak na tyle mocne, by rozwiać obawy o konsekwencje zbyt szybko rosnącego zadłużenia - podał w komentarzu Emil Szweda, główny analityk Michael / Ström Domu Maklerskiego.",
+      "content_html": "",
+      "date_published": "2026-08-07T16:52:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/ZUE-szacuje-zysk-netto-w-I-polr-26-na-1-2-mln-zl-backlog-wynosi-ok-4-mld-zl-9179470.html",
       "url": "https://www.bankier.pl/wiadomosc/ZUE-szacuje-zysk-netto-w-I-polr-26-na-1-2-mln-zl-backlog-wynosi-ok-4-mld-zl-9179470.html",
       "title": "ZUE szacuje zysk netto w I półr. '26 na 1,2 mln zł; backlog wynosi ok. 4 mld zł Grupa ZUE szacuje, że w I półr. 2026 r. miała 6,6 mln zł zysku na działalności operacyjnej i 1,2 mln zł zysku netto - podała spółka w komunikacie. Z wyliczeń PAP Biznes wynika, że w samym II kw. EBIT wyniósł 10,3 mln zł, a zysk netto 5,4 mln zł. Analitycy oczekiwali 4,5-10,5 mln zł EBIT i 3-6,4 mln zł zysku netto. Backlog wynosi ok. 4 mld zł.",
@@ -429,27 +436,6 @@
       "title": "Rekordowy kwartał Synektika. Zysk netto i EBITDA rosną o kilkadziesiąt procent EBITDA z działalności kontynuowanej grupy Synektik w trzecim kwartale roku obrotowego 2025/26 wyniosła 71,5 mln zł, co oznacza wzrost o 72 proc. rdr - poinformowała spółka w raporcie. Ankietowani przez PAP Biznes analitycy spodziewali się wyniku EBITDA na poziomie 70,7 mln zł.",
       "content_html": "",
       "date_published": "2026-08-05T18:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sesja-na-GPW-Rekordowe-spadkow-poczatki-Banki-w-odwrocie-9178394.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sesja-na-GPW-Rekordowe-spadkow-poczatki-Banki-w-odwrocie-9178394.html",
-      "title": "Sesja na GPW: Rekordowe spadków początki. Banki w odwrocie Środowa sesja na warszawskiej giełdzie zaczęła się od nowych historycznych rekordów, ale skończyła się niewielkimi spadkami głównych indeksów.",
-      "content_html": "",
-      "date_published": "2026-08-05T17:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-zaliczenie-przez-B-Millennium-obligacji-o-wartosci-500-mln-euro-do-Tier-II-9178401.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-zaliczenie-przez-B-Millennium-obligacji-o-wartosci-500-mln-euro-do-Tier-II-9178401.html",
-      "title": "KNF zgodziła się na zaliczenie przez B. Millennium obligacji o wartości 500 mln euro do Tier II Bank Millennium otrzymał decyzję KNF o wyrażeniu zgody na zakwalifikowanie obligacji podporządkowanych o łącznej wartości nominalnej 500 milionów euro, wyemitowanych 27 maja 2026 r., do instrumentów w Tier II banku - podał bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-05T16:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hossa-na-GPW-jeszcze-sie-nie-skonczyla-OKI-i-wyniki-spolek-napedzaja-rynek-9178385.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hossa-na-GPW-jeszcze-sie-nie-skonczyla-OKI-i-wyniki-spolek-napedzaja-rynek-9178385.html",
-      "title": "Hossa na GPW jeszcze się nie skończyła? OKI i wyniki spółek napędzają rynek Polski rynek akcji jest w pozytywnym cyklu, o czym świadczą ostatnie wezwania na akcje spółek, a w najbliższym czasie na GPW możliwe są dalsze zwyżki – ocenia Sobiesław Kozłowski, dyrektor departamentu doradztwa inwestycyjnego w Ipopema Private Investments. Jego zdaniem, dla rynku kluczowe będą wyniki spółek i ustawa o OKI, a czynnikiem ryzyka jest wojna w Ukrainie.",
-      "content_html": "",
-      "date_published": "2026-08-05T16:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
