@@ -4,9 +4,30 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-Orlenu-podpalily-politykow-Tusk-uderza-w-Nawrockiego-Obajtek-mowi-o-lupieniu-kierowcow-9179269.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-Orlenu-podpalily-politykow-Tusk-uderza-w-Nawrockiego-Obajtek-mowi-o-lupieniu-kierowcow-9179269.html",
+      "title": "Miliardy Orlenu podpaliły polityków. Tusk uderza w Nawrockiego, Obajtek mówi o \"łupieniu kierowców\" Grupa Orlen opublikowała skonsolidowane wyniki finansowe za drugi kwartał 2026 roku, wyraźnie przebijając oczekiwania analityków giełdowych. Płocki koncern wypracował pokaźny zysk, korzystając ze sprzyjającego otoczenia makroekonomicznego i rozszerzenia marż rafineryjnych z uwagi na kryzys na Bliskim Wschodzie. Publikacja raportu stała się pretekstem do politycznej awantury.",
+      "content_html": "",
+      "date_published": "2026-08-07T10:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Namsen-oglasza-wykup-14-182-214-akcji-Kernela-po-19-93-zl-szt-9179235.html",
+      "url": "https://www.bankier.pl/wiadomosc/Namsen-oglasza-wykup-14-182-214-akcji-Kernela-po-19-93-zl-szt-9179235.html",
+      "title": "Namsen ogłasza wykup 14.182.214 akcji Kernela po 19,93 zł/szt. Namsen Limited ogłasza wykup 14.182.214 akcji Kernela, stanowiących ok. 4,83 proc. kapitału, po 19,93 zł za akcję - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-07T09:19:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Hustawka-nastrojow-na-rynku-ropy-Iran-chce-cla-od-statkow-w-kluczowym-przesmyku-9179255.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hustawka-nastrojow-na-rynku-ropy-Iran-chce-cla-od-statkow-w-kluczowym-przesmyku-9179255.html",
+      "title": "Huśtawka nastrojów na rynku ropy. Iran chce cła od statków w kluczowym przesmyku Cena ropy w USA zwyżkuje. Inwestorzy obawiają się o ponowne zakłócenia w dostawach wobec zamknięcia cieśniny Ormuz i planów poboru opłat za tranzyt.",
+      "content_html": "",
+      "date_published": "2026-08-07T09:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Oplaty-celne-UE-obnizyly-zainteresowanie-chinskimi-platformami-zakupowymi-w-Polsce-Mediapanel-9179247.html",
       "url": "https://www.bankier.pl/wiadomosc/Oplaty-celne-UE-obnizyly-zainteresowanie-chinskimi-platformami-zakupowymi-w-Polsce-Mediapanel-9179247.html",
-      "title": "Opłaty celne UE obniżyły zainteresowanie chińskimi platformami zakupowymi w Polsce - Mediapanel Opłaty celne UE obniżyły zainteresowanie chińskimi platformami zakupowymi w Polsce - wynika z badania Mediapanel.",
+      "title": "3 euro cła od sztuki robi różnicę. Temu i AliExpress tracą miliony użytkowników w Polsce Opłaty celne UE obniżyły zainteresowanie chińskimi platformami zakupowymi w Polsce - wynika z badania Mediapanel.",
       "content_html": "",
       "date_published": "2026-08-07T08:58:00+02:00"
     },
@@ -16,13 +37,6 @@
       "title": "Grodno ma umowę zakupu hurtowni elektrotechnicznych Grupa Grodno, dystrybutor elektrotechniki, zawarła warunkową umowę zakupu około 10 oddziałów przedsiębiorstwa prowadzącego sieć hurtowni elektrotechnicznych - podała spółka w komunikacie prasowym. Ich łączny roczny potencjał przychodowy szacowany jest na około 60 mln zł.",
       "content_html": "",
       "date_published": "2026-08-07T08:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Namsen-oglasza-wykup-14-182-214-akcji-Kernela-po-19-93-zl-szt-9179235.html",
-      "url": "https://www.bankier.pl/wiadomosc/Namsen-oglasza-wykup-14-182-214-akcji-Kernela-po-19-93-zl-szt-9179235.html",
-      "title": "Namsen ogłasza wykup 14.182.214 akcji Kernela po 19,93 zł/szt. Namsen Limited ogłasza wykup 14.182.214 akcji Kernela, stanowiących ok. 4,83 proc. kapitału, po 19,93 zł za akcję - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-07T08:40:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-cene-docelowa-akcji-Selvity-do-37-zl-9179219.html",
@@ -387,34 +401,6 @@
       "title": "Wielki kontrakt Unibepu. Obwodnica Starogardu Gdańskiego powstanie za ponad 400 mln zł Unibep podpisał z Generalną Dyrekcją Dróg Krajowych i Autostrad - Oddział Gdańsk umowę na zaprojektowanie i budowę blisko 16-kilometrowej obwodnicy Starogardu Gdańskiego w ciągu drogi krajowej nr 22 - podała Dyrekcja na swojej stronie internetowej. Kontrakt opiewa na blisko 408 mln zł.",
       "content_html": "",
       "date_published": "2026-08-05T11:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-uruchomil-Morski-Terminal-Przeladunkowy-w-Gdansku-wartosc-inwestycji-to-ok-500-mln-zl-9178101.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-uruchomil-Morski-Terminal-Przeladunkowy-w-Gdansku-wartosc-inwestycji-to-ok-500-mln-zl-9178101.html",
-      "title": "Przełom w gdańskiej rafinerii. Nowy terminal Orlenu obsłuży do 2 mln ton produktów rocznie Orlen uruchomił na terenie rafinerii w Gdańsku Morski Terminal Przeładunkowy na Martwej Wiśle - podała spółka w komunikacie prasowym. Docelowa zdolność przeładunkowa terminala może osiągnąć około 1,8–2 mln ton produktów rocznie. Wartość inwestycji to blisko 500 mln zł.",
-      "content_html": "",
-      "date_published": "2026-08-05T10:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-lipcu-454-3-mln-zl-przychodow-o-11-7-proc-wiecej-rdr-szacunki-9178095.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Auto-Partner-miala-w-lipcu-454-3-mln-zl-przychodow-o-11-7-proc-wiecej-rdr-szacunki-9178095.html",
-      "title": "Dwucyfrowe wzrosty Grupy Auto Partner. Przychody w lipcu przekroczyły 454 mln zł Grupa Auto Partner szacuje, że w lipcu 2026 roku wypracowała 454,3 mln zł przychodów, co stanowi wzrost o 11,7 proc. rdr - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-05T10:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/WIG20-siegnal-4-000-punktow-Stare-rekordy-odeszly-w-niepamiec-9178082.html",
-      "url": "https://www.bankier.pl/wiadomosc/WIG20-siegnal-4-000-punktow-Stare-rekordy-odeszly-w-niepamiec-9178082.html",
-      "title": "WIG20 sięgnął 4 000 punktów! Stare rekordy odeszły w niepamięć Na otwarciu środowej sesji WIG20 po raz pierwszy w historii osiągnął wartość 4 000 punktów. Dzień wcześniej świętowaliśmy okrągły poziom 150 000 punktów na WIG-u.",
-      "content_html": "",
-      "date_published": "2026-08-05T09:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-wyraznie-w-dol-Rynek-reaguje-na-deklaracje-Trumpa-9178068.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-wyraznie-w-dol-Rynek-reaguje-na-deklaracje-Trumpa-9178068.html",
-      "title": "Ceny gazu w Europie wyraźnie w dół. Rynek reaguje na deklaracje Trumpa Ceny gazu w Europie spadają w środę, a od początku tego tygodnia zniżka wynosi już ok. 7 proc. To reakcja na komentarze prezydenta USA Donalda Trumpa, że wkrótce zostanie otwarta cieśnina Ormuz - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-08-05T09:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
