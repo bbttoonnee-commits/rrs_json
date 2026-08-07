@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-wycene-akcji-Auto-Partner-do-34-9-zl-9179565.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-wycene-akcji-Auto-Partner-do-34-9-zl-9179565.html",
+      "title": "Noble Securities podwyższył wycenę akcji Auto Partner Analitycy Noble Securities, w raporcie z 6 sierpnia, podwyższyli wycenę akcji spółki Auto Partner w horyzoncie 12-miesięcznym do 34,9 zł z 24,6 zł wcześniej, utrzymując rekomendację \"akumuluj\".",
+      "content_html": "",
+      "date_published": "2026-08-07T18:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ostudzone-emocje-na-szczytach-Orlen-i-Modivo-ciagna-w-dol-ale-WIG20-broni-4000-pkt-9179500.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ostudzone-emocje-na-szczytach-Orlen-i-Modivo-ciagna-w-dol-ale-WIG20-broni-4000-pkt-9179500.html",
+      "title": "Ostudzone emocje na szczytach. Orlen i Modivo ciągną w dół, ale WIG20 broni 4000 pkt. Słabe dane z amerykańskiego rynku pracy przywróciły inwestorom nadzieję na obniżki stóp procentowych przez Fed. W Warszawie rządziła jednak realizacja zysków. Po opublikowaniu raportów finansowych pod kreską znalazły się m.in. Orlen oraz Modivo, a zyskiwały akcje LPP. Mimo lokalnej korekty, indeks WIG20 zdołał obronić kluczową barierę 4000 punktów.",
+      "content_html": "",
+      "date_published": "2026-08-07T17:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Poczatek-sierpnia-przyniosl-odbicie-na-rynku-obligacji-skarbowych-9179527.html",
       "url": "https://www.bankier.pl/wiadomosc/Poczatek-sierpnia-przyniosl-odbicie-na-rynku-obligacji-skarbowych-9179527.html",
       "title": "Początek sierpnia przyniósł odbicie na rynku obligacji skarbowych Pierwszy tydzień sierpnia przyniósł odbicie na rynku obligacji skarbowych na świecie w ślad za spadkiem notowań ropy naftowej. Nie było ono jednak na tyle mocne, by rozwiać obawy o konsekwencje zbyt szybko rosnącego zadłużenia - podał w komentarzu Emil Szweda, główny analityk Michael / Ström Domu Maklerskiego.",
@@ -429,13 +443,6 @@
       "title": "Mercator Estates chce kupić nieruchomość w Krakowie pod inwestycję mieszkaniową Mercator Estates VI, spółka z grupy Mercator Medical, zawarła warunkowe przedwstępne umowy kupna dwóch nieruchomości położonych w Krakowie w rejonie ulicy Wrocławskiej pod inwestycję mieszkaniową - podał Mercator w komunikacie. Łączna cena nabycia nieruchomości wynosi 12 mln zł.",
       "content_html": "",
       "date_published": "2026-08-05T18:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Synektik-mial-w-III-kw-71-5-mln-zl-EBITDA-z-dzial-kontynuowanej-zgodnie-z-oczekiwaniami-9178448.html",
-      "url": "https://www.bankier.pl/wiadomosc/Synektik-mial-w-III-kw-71-5-mln-zl-EBITDA-z-dzial-kontynuowanej-zgodnie-z-oczekiwaniami-9178448.html",
-      "title": "Rekordowy kwartał Synektika. Zysk netto i EBITDA rosną o kilkadziesiąt procent EBITDA z działalności kontynuowanej grupy Synektik w trzecim kwartale roku obrotowego 2025/26 wyniosła 71,5 mln zł, co oznacza wzrost o 72 proc. rdr - poinformowała spółka w raporcie. Ankietowani przez PAP Biznes analitycy spodziewali się wyniku EBITDA na poziomie 70,7 mln zł.",
-      "content_html": "",
-      "date_published": "2026-08-05T18:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
