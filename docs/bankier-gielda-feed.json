@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Lubawy-w-I-polr-26-spadl-o-85-1-proc-rdr-do-4-3-mln-zl-szacunki-9179577.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Lubawy-w-I-polr-26-spadl-o-85-1-proc-rdr-do-4-3-mln-zl-szacunki-9179577.html",
+      "title": "Lubawa szacuje, że zysk netto w I półr. '26 spadł o 85,1 proc. rdr Lubawa szacuje, że miała w pierwszym półroczu 2026 roku 4,3 mln zł jednostkowego zysku netto, wobec 28,9 mln zł zysku rok wcześniej, co stanowi spadek o 85,1 proc. rdr - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-07T19:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-wycene-akcji-Auto-Partner-do-34-9-zl-9179565.html",
       "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podwyzszyl-wycene-akcji-Auto-Partner-do-34-9-zl-9179565.html",
       "title": "Noble Securities podwyższył wycenę akcji Auto Partner Analitycy Noble Securities, w raporcie z 6 sierpnia, podwyższyli wycenę akcji spółki Auto Partner w horyzoncie 12-miesięcznym do 34,9 zł z 24,6 zł wcześniej, utrzymując rekomendację \"akumuluj\".",
@@ -436,13 +443,6 @@
       "title": "ETF-y dla początkujących i zaawansowanych. Większa elastyczność w budowie portfela Niskie koszty, automatyczna dywersyfikacja i brak konieczności analizowania sprawozdań finansowych spółek – ETF-y nie bez powodu zyskały miano idealnego instrumentu na start. Czy to rzeczywiście prosty przepis na zysk, czy jedynie skuteczny chwyt marketingowy? Jarosław Leśniczak, wiceprezes TFI PZU, wyjaśnia, jak bezpiecznie stawiać pierwsze kroki na rynku, na co uważać przy wyborze funduszy oraz jak zbudować prosty i stabilny portfel inwestycyjny już od 100 zł.",
       "content_html": "",
       "date_published": "2026-08-06T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mercator-Estates-chce-kupic-nieruchomosc-w-Krakowie-pod-inwestycje-mieszkaniowa-9178462.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mercator-Estates-chce-kupic-nieruchomosc-w-Krakowie-pod-inwestycje-mieszkaniowa-9178462.html",
-      "title": "Mercator Estates chce kupić nieruchomość w Krakowie pod inwestycję mieszkaniową Mercator Estates VI, spółka z grupy Mercator Medical, zawarła warunkowe przedwstępne umowy kupna dwóch nieruchomości położonych w Krakowie w rejonie ulicy Wrocławskiej pod inwestycję mieszkaniową - podał Mercator w komunikacie. Łączna cena nabycia nieruchomości wynosi 12 mln zł.",
-      "content_html": "",
-      "date_published": "2026-08-05T18:46:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
