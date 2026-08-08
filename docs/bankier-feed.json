@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Poczta-Polska-stawia-na-wspoldzielenie-infrastruktury-paczkowej-9178202.html",
+      "url": "https://www.bankier.pl/wiadomosc/Poczta-Polska-stawia-na-wspoldzielenie-infrastruktury-paczkowej-9178202.html",
+      "title": "Poczta Polska stawia na współdzielenie infrastruktury paczkowej",
+      "content_html": "Poczta Polska nie widzi przesłanek wskazujących na brak realizacji powiększenia do 3 tys. własnej bazy urządzeń paczkowych do końca 2026 roku - poinformowała PAP Biznes prezes Poczty Polskiej, Magdalena Gaj. Dodała, że rozpoczęła dialog z...",
+      "date_published": "2026-08-08T15:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Portfele-Europejczykow-pod-presja-Gdzie-dochody-rosna-najszybciej-a-kto-traci-9178791.html",
       "url": "https://www.bankier.pl/wiadomosc/Portfele-Europejczykow-pod-presja-Gdzie-dochody-rosna-najszybciej-a-kto-traci-9178791.html",
       "title": "Portfele Europejczyków pod presją. Gdzie dochody rosną najszybciej, a kto traci?",
       "content_html": "Realny dochód gospodarstw domowych na mieszkańca w krajach OECD wzrósł w I kwartale 2026 r. o 0,2 proc. kwartał do kwartału wobec wzrostu o 0,6 proc. w IV kwartale 2025 r. W Polsce wzrost spowolnił do 0,6 proc. z 2,5 proc. w IV kwartale - wynika...",
       "date_published": "2026-08-08T14:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-adwokat-Trumpa-nowym-prokuratorem-generalnym-USA-9179703.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-adwokat-Trumpa-nowym-prokuratorem-generalnym-USA-9179703.html",
+      "title": "Były adwokat Trumpa nowym prokuratorem generalnym USA",
+      "content_html": "Amerykański Senat zatwierdził w sobotę nominację byłego adwokata Donalda Trumpa, Todda Blanche’a, na urząd prokuratora generalnego. Blanche od kwietnia pełnił już obowiązki prokuratora generalnego i ministra sprawiedliwości.",
+      "date_published": "2026-08-08T14:01:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/2-2-mln-dluznikow-w-rejestrze-Zadluzenie-przekracza-52-mld-zl-9177529.html",
@@ -79,6 +93,13 @@
       "title": "Tysiące ofert dla nauczycieli przed nowym rokiem. MEN uspokaja: To coroczna rotacja",
       "content_html": "Na dzień 29 lipca 2026 r. w bazach kuratorów wykazano łącznie 15 tys. 729 ofert pracy i 10 tys. 895 wolnych etatów dla nauczycieli w szkołach prowadzonych przez jednostki samorządu terytorialnego i ministrów - poinformowała wiceministra edukacji...",
       "date_published": "2026-08-08T11:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-dronow-na-Rosje-Plona-dwie-rafinerie-piec-osob-rannych-9179690.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-dronow-na-Rosje-Plona-dwie-rafinerie-piec-osob-rannych-9179690.html",
+      "title": "Atak dronów na Rosję. Płoną dwie rafinerie, pięć osób rannych",
+      "content_html": "Pożary dwóch rafinerii w Kraju Krasnodarskim i obwodzie samarskim na południowym zachodzie Rosji wybuchły w nocy z piątku na sobotę po ukraińskim ataku dronowym; pięć osób zostało rannych – poinformował w sobotę niezależny portal rosyjski...",
+      "date_published": "2026-08-08T11:12:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Premier-Bawarii-chce-ograniczyc-poparcie-dla-AfD-Apeluje-o-wiecej-deportacji-9177117.html",
@@ -681,13 +702,6 @@
       "title": "Tym będą żyły rynki: polski PKB i amerykańskie inflacje",
       "content_html": "W centrum uwagi znajdą się statystyki inflacyjne ze Stanów Zjednoczonych. Dla nas najistotniejsze będą jednak szacunki PKB Polski za II kwartał oraz finalne rezultaty inflacji lipcowej CPI.",
       "date_published": "2026-08-07T13:59:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nationale-Nederlanden-PTE-dolaczyl-do-akcjonariatu-multiQure-9179374.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nationale-Nederlanden-PTE-dolaczyl-do-akcjonariatu-multiQure-9179374.html",
-      "title": "Nationale-Nederlanden PTE dołączył do akcjonariatu multiQure",
-      "content_html": "Nationale-Nederlanden Polskie Towarzystwo Emerytalne posiada 8,86 proc. akcji multiQure - podała spółka w komunikacie prasowym. Fundusz dołączył do akcjonariatu, nabywając akcje spółki w ramach czerwcowej emisji akcji serii S zrealizowanej w...",
-      "date_published": "2026-08-07T13:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
