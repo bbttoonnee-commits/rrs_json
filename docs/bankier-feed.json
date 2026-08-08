@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-na-niebie-Latajacy-samochod-Jetson-ONE-zadebiutuje-w-Polsce-9177738.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-na-niebie-Latajacy-samochod-Jetson-ONE-zadebiutuje-w-Polsce-9177738.html",
+      "title": "Rewolucja na niebie. Latający samochód Jetson ONE zadebiutuje w Polsce",
+      "content_html": "Pierwszy raz w Polsce na Płockim Pikniku Lotniczym będzie można zobaczyć w powietrzu Jetsona ONE, czyli jednoosobowy, elektryczny pojazd latający typu eVTOL, startujący i lądujący pionowo. Jedną z maszyn pilotował będzie twórca tej konstrukcji...",
+      "date_published": "2026-08-08T17:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Mocny-glos-ustepujacego-ambasadora-Ukrainy-Czy-idziemy-z-Bandera-do-UE-9178836.html",
       "url": "https://www.bankier.pl/wiadomosc/Mocny-glos-ustepujacego-ambasadora-Ukrainy-Czy-idziemy-z-Bandera-do-UE-9178836.html",
       "title": "Mocny głos ustępującego ambasadora Ukrainy: Czy idziemy z Banderą do UE?",
@@ -695,13 +702,6 @@
       "title": "Spór o mieszkania socjalne w Anglii. Torysi i Reform UK licytują się na ograniczenia",
       "content_html": "Brytyjska Partia Konserwatywna chcą zablokować części cudzoziemców dostęp do mieszkań socjalnych w Anglii. Według ogłoszonych w piątek planów tego głównego ugrupowania opozycji zakaz objąłby np. Polaków, którzy przyjechali do kraju już...",
       "date_published": "2026-08-07T14:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kaczynski-stawia-sprawe-jasno-Czarnek-nadal-kandydatem-na-premiera-9179381.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kaczynski-stawia-sprawe-jasno-Czarnek-nadal-kandydatem-na-premiera-9179381.html",
-      "title": "Kaczyński stawia sprawę jasno: Czarnek nadal kandydatem na premiera",
-      "content_html": "Kandydatem Prawa i Sprawiedliwości na urząd premiera jest wiceprezes PiS Przemysław Czarnek i nic w tej sprawie się nie zmienia - podkreślił prezes partii Jarosław Kaczyński. W ten sposób odniósł się do medialnych spekulacji ws. zmiany kandydata...",
-      "date_published": "2026-08-07T14:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
