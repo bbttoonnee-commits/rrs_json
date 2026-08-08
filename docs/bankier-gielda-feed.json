@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ekstremalny-optymizm-i-ryzyko-Czarnego-Poniedzialku-z-1987-r-9179540.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekstremalny-optymizm-i-ryzyko-Czarnego-Poniedzialku-z-1987-r-9179540.html",
+      "title": "O TYM MÓWI WALL STREET Ekstremalny optymizm i ryzyko „Czarnego Poniedziałku” z 1987 r. Akcje w USA i Europie biją rekordy, a uczestnicy rynku cieszą się z zysków przedsiębiorstw i masowo zaciągają kredyty na inwestycje. Dla części znanych postaci z Wall Street jest to jednak powód do ostrożności.",
+      "content_html": "",
+      "date_published": "2026-08-08T12:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gospodarka-daje-nadzieje-a-stacje-paliw-trzymaja-ceny-Wyniki-Orlenu-zamieszanie-z-Muskiem-i-odbicie-w-przemysle-9179279.html",
       "url": "https://www.bankier.pl/wiadomosc/Gospodarka-daje-nadzieje-a-stacje-paliw-trzymaja-ceny-Wyniki-Orlenu-zamieszanie-z-Muskiem-i-odbicie-w-przemysle-9179279.html",
       "title": "WYKRESY TYGODNIA Gospodarka daje nadzieję, a stacje paliw trzymają ceny. Wyniki Orlenu, zamieszanie z Muskiem i odbicie w przemyśle Cześć tu Inwestor Wojtek, witam Was w drugim miesiącu wakacji. Odczyty gospodarcze przynoszą mieszane, ale intrygujące wieści z rynku: polski przemysł powoli podnosi się po słabszym czerwcu, a Grupa Orlen odnotowuje zyski powyżej prognoz, co wywołało polityczną dyskusję. Na stacjach paliw kierowcy wciąż czekają na obniżki mimo spadków w hurcie, z kolei za oceanem Elon Musk musiał być tonowany przez własny zarząd po śmiałych obietnicach. Zapraszam zatem na wykresy tygodnia Bankier.pl.",
@@ -345,27 +352,6 @@
       "title": "Synektik spodziewa się krótkoterminowo wypłaszczenia wyników, ale cały rok 2025/26 będzie rekordowy Synektik ocenia, że trudno będzie powtórzyć trzeci kwartał roku 2025/26 i krótkoterminowo oczekuje wypłaszczenia wyników, ale dzięki nowym produktom i rynkom zbytu zakłada, że nie był to szczyt sprzedaży, jaki grupa może osiągnąć. Cały rok 2025/26 ma być rekordowy - poinformował wiceprezes Dariusz Korecki.",
       "content_html": "",
       "date_published": "2026-08-06T13:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ile-wynosi-PKB-Unii-Europejskiej-Polska-szosta-gospodarka-UE-9178729.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ile-wynosi-PKB-Unii-Europejskiej-Polska-szosta-gospodarka-UE-9178729.html",
-      "title": "Niemcy i długo, długo nikt. Polska szóstą gospodarką UE W 2025 roku Niemcy pozostały zdecydowanie największą gospodarką Unii Europejskiej pod względem nominalnej wartości produktu krajowego brutto – wynika ze statystyk Eurostatu.",
-      "content_html": "",
-      "date_published": "2026-08-06T12:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szykuje-sie-nowy-debiut-na-GPW-Botanika-Farm-z-zielonym-swiatlem-od-KNF-9178687.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szykuje-sie-nowy-debiut-na-GPW-Botanika-Farm-z-zielonym-swiatlem-od-KNF-9178687.html",
-      "title": "Szykuje się nowy debiut na GPW? Przetwórca żywności z zielonym światłem od KNF Komisja Nadzoru Finansowego zatwierdziła prospekt emisyjny dolnośląskiej spółki z branży przetwórstwa rolno-spożywczego. Botanika Farm S.A. planuje wejście na Główny Rynek GPW oraz przeprowadzić ofertę publicznej, z której chce pozyskać około 15 mln zł na rozwój przedsiębiorstwa. Zapisy na akcje ruszą pod koniec sierpnia.",
-      "content_html": "",
-      "date_published": "2026-08-06T11:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Esaliens-TFI-dolaczyl-do-akcjonariatu-multiQure-9178724.html",
-      "url": "https://www.bankier.pl/wiadomosc/Esaliens-TFI-dolaczyl-do-akcjonariatu-multiQure-9178724.html",
-      "title": "Esaliens TFI dołączył do akcjonariatu multiQure Fundusze zarządzane przez Esaliens TFI posiadają 9,75 proc. akcji i głosów na WZ multiQure - podała spółka w komunikacie. Inwestor dołączył do akcjonariatu, nabywając akcje spółki w ramach czerwcowej emisji akcji serii S zrealizowanej w ramach ABB.",
-      "content_html": "",
-      "date_published": "2026-08-06T11:56:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
