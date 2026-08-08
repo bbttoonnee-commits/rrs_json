@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wspolpraca-FBI-z-Chinami-i-Rosja-budzi-niepokoj-wywiadu-To-nasi-wrogowie-kropka-9178466.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wspolpraca-FBI-z-Chinami-i-Rosja-budzi-niepokoj-wywiadu-To-nasi-wrogowie-kropka-9178466.html",
+      "title": "Współpraca FBI z Chinami i Rosją budzi niepokój wywiadu. „To nasi wrogowie, kropka”",
+      "content_html": "Dyrektor FBI Kash Patel poinformował, że w ciągu ostatniego roku nawiązał nowe formy współpracy ze służbami Chin i Rosji - podał Reuters. Inicjatywa wzbudziła obawy o ryzyko dotyczące dzielenia się wrażliwymi informacjami z państwami, które...",
+      "date_published": "2026-08-08T21:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Marine-Le-Pen-ostatnia-nadzieja-dla-Francji-Ekspert-przestrzega-przed-rola-Elona-Muska-9178719.html",
       "url": "https://www.bankier.pl/wiadomosc/Marine-Le-Pen-ostatnia-nadzieja-dla-Francji-Ekspert-przestrzega-przed-rola-Elona-Muska-9178719.html",
       "title": "Marine Le Pen „ostatnią nadzieją dla Francji”? Ekspert przestrzega przed rolą Elona Muska",
@@ -695,13 +702,6 @@
       "title": "GUS aktualizuje klasyfikację PKD. Okres przejściowy do końca '26 r.",
       "content_html": "Główny Urząd Statystyczny zaktualizował Polską Klasyfikację Działalności, nowa wersja uwzględnia m. in. rozwój nowych technologii, pojawienie się nowych modeli biznesowych oraz działalności - podał urząd w komunikacie. Dla przedsiębiorców...",
       "date_published": "2026-08-07T16:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyrok-za-ksiazki-o-LGBT-Rosyjski-sad-uznal-wydawce-za-winnego-9179476.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyrok-za-ksiazki-o-LGBT-Rosyjski-sad-uznal-wydawce-za-winnego-9179476.html",
-      "title": "Wyrok za książki o LGBT+. Rosyjski sąd uznał wydawcę za winnego",
-      "content_html": "Na cztery lata pozbawienia wolności w zawieszeniu skazał w piątek sąd w Rosji wydawcę, którego uznano za winnego sprzedaży książek dotyczących tematyki LGBT+ - poinformował portal Mediazona.",
-      "date_published": "2026-08-07T16:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
