@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pija-wode-z-kanalow-i-choruja-Tak-wyglada-dramat-turkmenskich-zolnierzy-9178956.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pija-wode-z-kanalow-i-choruja-Tak-wyglada-dramat-turkmenskich-zolnierzy-9178956.html",
+      "title": "Piją wodę z kanałów i chorują. Tak wygląda dramat turkmeńskich żołnierzy",
+      "content_html": "Turkmeńscy poborowi kierowani do prac rolnych masowo zapadają na biegunkę po piciu wody z otwartych kanałów irygacyjnych – podała turkmeńska sekcja Radia Swoboda. Według relacji żołnierze nie mają dostępu do bezpiecznej wody pitnej ani odpowiedniej...",
+      "date_published": "2026-08-09T17:10:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ukrainski-wywiad-Korea-Polnocna-rozmieszcza-w-Rosji-jednostke-rakiet-balistycznych-9178233.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukrainski-wywiad-Korea-Polnocna-rozmieszcza-w-Rosji-jednostke-rakiet-balistycznych-9178233.html",
       "title": "Ukraiński wywiad: Korea Północna rozmieszcza w Rosji jednostkę rakiet balistycznych",
@@ -135,13 +142,6 @@
       "title": "1950 km autostrad w Polsce. GDDKiA zapowiada kolejne inwestycje",
       "content_html": "Sieć autostrad w Polsce liczy obecnie 1950 km, a do osiągnięcia docelowej długości brakuje ok. 150 km – wynika z informacji przekazanej przez Generalną Dyrekcję Dróg Krajowych i Autostrad. W najbliższych latach powstaną kolejne odcinki A2...",
       "date_published": "2026-08-09T08:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-oslabila-USA-Rosja-i-Chiny-moga-na-tym-skorzystac-9179784.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-oslabila-USA-Rosja-i-Chiny-moga-na-tym-skorzystac-9179784.html",
-      "title": "Wojna z Iranem osłabiła USA. Rosja i Chiny mogą na tym skorzystać",
-      "content_html": "Wojna USA z Iranem poważnie uszczupliła amerykańskie zapasy zaawansowanego uzbrojenia osłabiając potencjał militarny w Europie i Azji. Odbudowa arsenałów może potrwać lata, co – zdaniem ekspertów – działa na korzyść Rosji i Chin –...",
-      "date_published": "2026-08-09T08:20:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Jajka-polecialy-w-strone-premiera-Parlament-Kosowa-zawiesil-obrady-9179775.html",
@@ -694,13 +694,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Rekordowe-temperatury-i-brak-wody-Polska-stoi-przed-klimatycznym-wyzwaniem-9177533.html",
       "title": "Rekordowe temperatury i brak wody. Polska stoi przed klimatycznym wyzwaniem",
       "content_html": "Kolejna fala upałów, z którą mierzyła się Polska, nie jest już wyjątkiem, ale elementem coraz wyraźniejszego trendu. Według IMGW czerwiec 2026 roku był miesiącem ekstremalnie ciepłym, a 28 czerwca w Słubicach...",
-      "date_published": "2026-08-08T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pensje-nie-nadazaja-za-kosztami-Mlodzi-Amerykanie-odkladaja-niezaleznosc-9178011.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pensje-nie-nadazaja-za-kosztami-Mlodzi-Amerykanie-odkladaja-niezaleznosc-9178011.html",
-      "title": "Pensje nie nadążają za kosztami. Młodzi Amerykanie odkładają niezależność",
-      "content_html": "Wielu młodych Amerykanów w wieku poniżej 35 lat wprowadza się z powrotem do rodziców. Nie stać ich bowiem na własne mieszkanie, bądź chcą zaoszczędzić pieniądze w obliczu rosnących kosztów życia.",
       "date_published": "2026-08-08T07:00:00+02:00"
     }
   ],
