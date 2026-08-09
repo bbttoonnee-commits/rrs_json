@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Miliony-Polakow-uciekna-z-lokat-i-zaloza-OKI-Aktywa-przekrocza-100-miliardow-zlotych-9178784.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliony-Polakow-uciekna-z-lokat-i-zaloza-OKI-Aktywa-przekrocza-100-miliardow-zlotych-9178784.html",
+      "title": "RAPORT Miliony Polaków uciekną z lokat i założą OKI? \"Aktywa przekroczą 100 miliardów złotych\" W ciągu pierwszych trzech lat OKI, czyli osobiste konto inwestycyjne, może założyć 2,1 mln klientów – wynika z raportu BM PKO. W tym czasie wartość aktywów OKI może urosnąć do ponad 100 mld zł.",
+      "content_html": "",
+      "date_published": "2026-08-09T14:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wall-Street-zaskakuje-wynikami-86-proc-spolek-z-S-P-500-przebilo-prognozy-9179824.html",
       "url": "https://www.bankier.pl/wiadomosc/Wall-Street-zaskakuje-wynikami-86-proc-spolek-z-S-P-500-przebilo-prognozy-9179824.html",
       "title": "Wall Street zaskakuje wynikami. 86 proc. spółek z S&P 500 przebiło prognozy W obecnym, późnym etapie sezonu wyników finansowych za drugi kwartał w USA spółki z indeksu S&P 500 raportują imponujące wyniki, nawet jeśli pominąć niezwykle wysokie niespodzianki w zakresie zysku na akcję (EPS) zgłoszone przez Alphabet i Amazon.com - piszą eksperci FaceSet.",
@@ -65,27 +72,6 @@
       "title": "ZUE szacuje zysk netto w I półr. '26 na 1,2 mln zł; backlog wynosi ok. 4 mld zł Grupa ZUE szacuje, że w I półr. 2026 r. miała 6,6 mln zł zysku na działalności operacyjnej i 1,2 mln zł zysku netto - podała spółka w komunikacie. Z wyliczeń PAP Biznes wynika, że w samym II kw. EBIT wyniósł 10,3 mln zł, a zysk netto 5,4 mln zł. Analitycy oczekiwali 4,5-10,5 mln zł EBIT i 3-6,4 mln zł zysku netto. Backlog wynosi ok. 4 mld zł.",
       "content_html": "",
       "date_published": "2026-08-07T14:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-zatrudnienie-zmalalo-a-bezrobocie-spadlo-w-lipcu-2026-roku-9179399.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-zatrudnienie-zmalalo-a-bezrobocie-spadlo-w-lipcu-2026-roku-9179399.html",
-      "title": "USA Zatrudnienie zmalało, a bezrobocie spadło. Podwyżki stóp w Fedzie jednak nie będzie? Lipcowy raport z amerykańskiego rynku pracy rozczarował chyba nawet największych pesymistów. Zamiast skromnego przyrostu zatrudnienia, nastąpił jego spadek.",
-      "content_html": "",
-      "date_published": "2026-08-07T14:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NBP-spowolnil-zakupy-zlota-w-lipcu-2026-Cel-700-ton-jest-coraz-blizej-9178835.html",
-      "url": "https://www.bankier.pl/wiadomosc/NBP-spowolnil-zakupy-zlota-w-lipcu-2026-Cel-700-ton-jest-coraz-blizej-9178835.html",
-      "title": "NBP spowolnił zakupy złota. Cel 700 ton jest coraz bliżej W lipcu Narodowy Bank Polski nadal kupował złoto. Lipcowe zakupy były jednak prawdopodobnie najmniejsze w tym roku.",
-      "content_html": "",
-      "date_published": "2026-08-07T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jednym-z-celow-grupy-Modivo-na-kolejne-kwartaly-jest-poprawa-cash-flow-CFO-9179375.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jednym-z-celow-grupy-Modivo-na-kolejne-kwartaly-jest-poprawa-cash-flow-CFO-9179375.html",
-      "title": "Jednym z celów grupy Modivo na kolejne kwartały jest poprawa cash flow Jednym z celów grupy Modivo na kolejne kwartały jest poprawa cash flow - poinformował Łukasz Stelmach, wiceprezes grupy.",
-      "content_html": "",
-      "date_published": "2026-08-07T13:56:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
