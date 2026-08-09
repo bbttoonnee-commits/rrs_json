@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-zaskakuje-wynikami-86-proc-spolek-z-S-P-500-przebilo-prognozy-9179824.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-zaskakuje-wynikami-86-proc-spolek-z-S-P-500-przebilo-prognozy-9179824.html",
+      "title": "Wall Street zaskakuje wynikami. 86 proc. spółek z S&P 500 przebiło prognozy W obecnym, późnym etapie sezonu wyników finansowych za drugi kwartał w USA spółki z indeksu S&P 500 raportują imponujące wyniki, nawet jeśli pominąć niezwykle wysokie niespodzianki w zakresie zysku na akcję (EPS) zgłoszone przez Alphabet i Amazon.com - piszą eksperci FaceSet.",
+      "content_html": "",
+      "date_published": "2026-08-09T12:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ekstremalny-optymizm-i-ryzyko-Czarnego-Poniedzialku-z-1987-r-9179540.html",
       "url": "https://www.bankier.pl/wiadomosc/Ekstremalny-optymizm-i-ryzyko-Czarnego-Poniedzialku-z-1987-r-9179540.html",
       "title": "O TYM MÓWI WALL STREET Ekstremalny optymizm i ryzyko „Czarnego Poniedziałku” z 1987 r. Akcje w USA i Europie biją rekordy, a uczestnicy rynku cieszą się z zysków przedsiębiorstw i masowo zaciągają kredyty na inwestycje. Dla części znanych postaci z Wall Street jest to jednak powód do ostrożności.",
@@ -100,27 +107,6 @@
       "title": "Grupa Modivo zakłada breakeven Worldbox do końca roku Grupa Modivo zakłada breakeven Worldbox do końca roku i wzrost udziału marek licencyjnych w tej sieci do 70 proc. - poinformował Łukasz Stelmach, wiceprezes grupy.",
       "content_html": "",
       "date_published": "2026-08-07T13:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fundusz-Bezpieczenstwa-i-Obronnosci-Do-BGK-wplynely-wnioski-na-11-mld-zl-9179383.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fundusz-Bezpieczenstwa-i-Obronnosci-Do-BGK-wplynely-wnioski-na-11-mld-zl-9179383.html",
-      "title": "Fundusz Bezpieczeństwa i Obronności. Do BGK wpłynęły wnioski na 11 mld zł Po miesiącu od ogłoszenia naborów w części pożyczkowej Funduszu Bezpieczeństwa i Obronności wpłynęły wnioski na 11 mld zł przy puli 16 mld zł - poinformowała PAP Biznes I wiceprezes BGK Marta Postuła. Dodała, że BGK finalizuje także pozostałe instrumenty pożyczkowe finansowane z KPO i spodziewa się podpisania ostatnich umów z obszaru cyfryzacji przed ustawowym terminem 31 sierpnia.",
-      "content_html": "",
-      "date_published": "2026-08-07T13:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-polski-PKB-i-amerykanskie-inflacje-9179380.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-polski-PKB-i-amerykanskie-inflacje-9179380.html",
-      "title": "Tym będą żyły rynki: polski PKB i amerykańskie inflacje W centrum uwagi znajdą się statystyki inflacyjne ze Stanów Zjednoczonych. Dla nas najistotniejsze będą jednak szacunki PKB Polski za II kwartał oraz finalne rezultaty inflacji lipcowej CPI.",
-      "content_html": "",
-      "date_published": "2026-08-07T12:59:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nationale-Nederlanden-PTE-dolaczyl-do-akcjonariatu-multiQure-9179374.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nationale-Nederlanden-PTE-dolaczyl-do-akcjonariatu-multiQure-9179374.html",
-      "title": "Nationale-Nederlanden PTE dołączył do akcjonariatu multiQure Nationale-Nederlanden Polskie Towarzystwo Emerytalne posiada 8,86 proc. akcji multiQure - podała spółka w komunikacie prasowym. Fundusz dołączył do akcjonariatu, nabywając akcje spółki w ramach czerwcowej emisji akcji serii S zrealizowanej w ramach ABB.",
-      "content_html": "",
-      "date_published": "2026-08-07T12:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
