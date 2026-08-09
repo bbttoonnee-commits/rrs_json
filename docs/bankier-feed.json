@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-naplyw-Polakow-do-Portugalii-Szukamy-bezpiecznego-miejsca-na-urlop-9179094.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-naplyw-Polakow-do-Portugalii-Szukamy-bezpiecznego-miejsca-na-urlop-9179094.html",
+      "title": "Rekordowy napływ Polaków do Portugalii. Szukamy bezpiecznego miejsca na urlop?",
+      "content_html": "W Portugalii widoczny jest nienotowany wcześniej wzrost liczby turystów z Polski, który w minionym roku wyniósł ponad 11 proc. Jak oceniają portugalscy komentatorzy i przedsiębiorcy, ma to głównie związek z nasilającymi się na świecie konfliktami...",
+      "date_published": "2026-08-09T21:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zaoral-swiezy-asfalt-ciagnikiem-Rolnik-trafil-do-aresztu-9179873.html",
       "url": "https://www.bankier.pl/wiadomosc/Zaoral-swiezy-asfalt-ciagnikiem-Rolnik-trafil-do-aresztu-9179873.html",
       "title": "Zaorał świeży asfalt ciągnikiem. Rolnik trafił do aresztu",
@@ -694,13 +701,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Nowy-prezydent-Wegier-coraz-blizej-Tisza-wybiera-sposrod-trzech-nazwisk-9179636.html",
       "title": "Nowy prezydent Węgier coraz bliżej. Tisza wybiera spośród trzech nazwisk",
       "content_html": "W sobotę klub parlamentarny rządzącej partii Tisza rozpatrzy trzy kandydatury i zdecyduje, która z nich zostanie we wtorek wybrana przez ustawodawców na urząd prezydenta Węgier – poinformował w piątek węgierski premier Peter Magyar.",
-      "date_published": "2026-08-08T09:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawicowy-Tygrys-prezydentem-Kolumbii-Zapowiada-ciecia-i-twarda-walke-z-kartelami-9179642.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawicowy-Tygrys-prezydentem-Kolumbii-Zapowiada-ciecia-i-twarda-walke-z-kartelami-9179642.html",
-      "title": "Prawicowy \"Tygrys\" prezydentem Kolumbii. Zapowiada cięcia i twardą walkę z kartelami",
-      "content_html": "Prawicowy prawnik Abelardo de la Espriella został w piątek zaprzysiężony na prezydenta Kolumbii. W kampanii zapowiadał cięcia budżetowe i twardą rozprawę z przestępczością. Jego zwycięstwo było kolejnym z szeregu wyborczych sukcesów prawicy...",
       "date_published": "2026-08-08T09:30:00+02:00"
     }
   ],
