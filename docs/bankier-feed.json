@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-nie-otworzy-ciesniny-Ormuz-bez-ustepstw-USA-9179791.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-nie-otworzy-ciesniny-Ormuz-bez-ustepstw-USA-9179791.html",
+      "title": "Iran nie otworzy cieśniny Ormuz bez ustępstw USA",
+      "content_html": "Iran uzależnił pełne otwarcie cieśniny Ormuz od spełnienia przez USA szeregu warunków, m.in. zakończenia blokady irańskich portów. Domaga się też wycofania sił USA z regionu i wypłaty odszkodowań wojennych. Jednocześnie Teheran poinformował...",
+      "date_published": "2026-08-09T19:43:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pija-wode-z-kanalow-i-choruja-Tak-wyglada-dramat-turkmenskich-zolnierzy-9178956.html",
       "url": "https://www.bankier.pl/wiadomosc/Pija-wode-z-kanalow-i-choruja-Tak-wyglada-dramat-turkmenskich-zolnierzy-9178956.html",
       "title": "Piją wodę z kanałów i chorują. Tak wygląda dramat turkmeńskich żołnierzy",
@@ -23,6 +30,13 @@
       "title": "Miliony Polaków uciekną z lokat i założą OKI? \"Aktywa przekroczą 100 miliardów złotych\"",
       "content_html": "W ciągu pierwszych trzech lat OKI, czyli osobiste konto inwestycyjne, może założyć 2,1 mln klientów – wynika z raportu BM PKO. W tym czasie wartość aktywów OKI może urosnąć do ponad 100 mld zł.",
       "date_published": "2026-08-09T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tajfun-Delfin-dotarl-do-Chin-Odwolano-loty-ewakuowano-ponad-milion-osob-9179839.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajfun-Delfin-dotarl-do-Chin-Odwolano-loty-ewakuowano-ponad-milion-osob-9179839.html",
+      "title": "Tajfun Delfin dotarł do Chin. Odwołano loty, ewakuowano ponad milion osób",
+      "content_html": "Tajfun Delfin dotarł w niedzielę na wschód Chin, przynosząc ulewne deszcze i porywiste wiatry. W ramach przygotowań na jego nadejście dwa lotniska w Szanghaju odwołały około 1,5 tys. lotów, a ponad milion osób zostało ewakuowanych.",
+      "date_published": "2026-08-09T14:56:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-maja-coraz-mniej-rakiet-Pentagon-zada-od-zbrojeniowki-szybkiego-zwiekszenia-produkcji-9179833.html",
@@ -170,13 +184,6 @@
       "title": "Wyższy zwrot akcyzy dla rolników? Czarnek apeluje o 2 zł za litr",
       "content_html": "Na nieopłacalność produkcji rolnej, spowodowaną wysokimi cenami paliwa, wskazywał po spotkaniu z rolnikami w gminie Grabica (Łódzkie) Przemysław Czarnek (PiS). Zaapelował o podniesienie wysokości zwrotu akcyzy na paliwo rolnicze do 2 zł/litr...",
       "date_published": "2026-08-09T07:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-nie-otworzy-ciesniny-Ormuz-bez-ustepstw-USA-9179791.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-nie-otworzy-ciesniny-Ormuz-bez-ustepstw-USA-9179791.html",
-      "title": "Iran nie otworzy cieśniny Ormuz bez ustępstw USA",
-      "content_html": "Iran uzależnił pełne otwarcie cieśniny Ormuz od spełnienia przez USA szeregu warunków, m.in. zakończenia blokady irańskich portów. Domaga się też wycofania sił USA z regionu i wypłaty odszkodowań wojennych. Jednocześnie Teheran poinformował...",
-      "date_published": "2026-08-09T07:33:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nie-tylko-migranci-Ceuta-stala-sie-narzedziem-politycznej-presji-Maroka-9177853.html",
@@ -694,13 +701,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Turysci-zalali-Czarnogore-Policja-podaje-szokujace-dane-z-przejsc-granicznych-9177476.html",
       "title": "Turyści zalali Czarnogórę. Policja podaje szokujące dane z przejść granicznych",
       "content_html": "Liczba osób wjeżdżających do Czarnogóry w ciągu minionego weekendu przekroczyła liczbę jej mieszkańców - poinformowała w poniedziałek w portalach społecznościowych czarnogórska policja.",
-      "date_published": "2026-08-08T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowe-temperatury-i-brak-wody-Polska-stoi-przed-klimatycznym-wyzwaniem-9177533.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowe-temperatury-i-brak-wody-Polska-stoi-przed-klimatycznym-wyzwaniem-9177533.html",
-      "title": "Rekordowe temperatury i brak wody. Polska stoi przed klimatycznym wyzwaniem",
-      "content_html": "Kolejna fala upałów, z którą mierzyła się Polska, nie jest już wyjątkiem, ale elementem coraz wyraźniejszego trendu. Według IMGW czerwiec 2026 roku był miesiącem ekstremalnie ciepłym, a 28 czerwca w Słubicach...",
       "date_published": "2026-08-08T07:00:00+02:00"
     }
   ],
