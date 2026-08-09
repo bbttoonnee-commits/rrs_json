@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rekord-na-lotnisku-we-Wroclawiu-W-lipcu-odprawiono-ponad-713-tys-pasazerow-9178136.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekord-na-lotnisku-we-Wroclawiu-W-lipcu-odprawiono-ponad-713-tys-pasazerow-9178136.html",
+      "title": "Rekord na lotnisku we Wrocławiu. W lipcu odprawiono ponad 713 tys. pasażerów",
+      "content_html": "W lipcu br. wrocławskie lotnisko obsłużyło 713 tys. 413 podróżnych. To najwyższy wynik w skali miesiąca w historii portu na wrocławskich Strachowicach. Jego władze przekazały, że miało na to wpływ duże zainteresowanie lotami m.in. na Maltę...",
+      "date_published": "2026-08-09T12:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Windykatorzy-maja-pelne-rece-pracy-Do-obslugi-trafily-dlugi-za-34-2-mld-zl-9177598.html",
       "url": "https://www.bankier.pl/wiadomosc/Windykatorzy-maja-pelne-rece-pracy-Do-obslugi-trafily-dlugi-za-34-2-mld-zl-9177598.html",
       "title": "Windykatorzy mają pełne ręce pracy. Do obsługi trafiły długi za 34,2 mld zł",
@@ -695,13 +702,6 @@
       "title": "Morawiecki: Nadzieje Jagodna zostały całkowicie pogrzebane",
       "content_html": "Nadzieje Jagodna z wyborów parlamentarnych zostały całkowicie pogrzebane - ocenił w piątek we Wrocławiu były premier Mateusz Morawiecki. Założyciel stowarzyszenia „Rozwój Plus” zorganizował spotkanie z mieszkańcami osiedla, co było nawiązaniem...",
       "date_published": "2026-08-07T21:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Placa-minimalna-w-gore-Rzad-proponuje-nowe-stawki-od-stycznia-2027-r-9179551.html",
-      "url": "https://www.bankier.pl/wiadomosc/Placa-minimalna-w-gore-Rzad-proponuje-nowe-stawki-od-stycznia-2027-r-9179551.html",
-      "title": "Płaca minimalna w górę. Rząd proponuje nowe stawki od stycznia 2027 r.",
-      "content_html": "Płaca minimalna w 2027 r. wzrośnie do 4950 zł brutto, a minimalna stawka godzinowa do 32,30 zł brutto - zakłada projekt rozporządzenia Rady Ministrów. Wysokości te są analogiczne do kwot przedstawionych Radzie Dialogu Społecznego do negocjacji...",
-      "date_published": "2026-08-07T21:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
