@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-zakazal-partii-Jabloko-udzialu-we-wrzesniowych-wyborach-parlamentarnych-9180363.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-zakazal-partii-Jabloko-udzialu-we-wrzesniowych-wyborach-parlamentarnych-9180363.html",
+      "title": "Sąd Najwyższy zakazał partii „Jabłoko” udziału we wrześniowych wyborach parlamentarnych",
+      "content_html": "Rosyjski Sąd Najwyższy w poniedziałek zakazał opozycyjnej liberalnej partii „Jabłoko” udziału w wyborach parlamentarnych, które w Rosji są zaplanowane na wrzesień - poinformowała agencja Reutera. Wykluczenia tego ugrupowania ze startu w...",
+      "date_published": "2026-08-10T21:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-odchudzaniu-Europa-zatwierdzila-pierwsza-tabletke-zamiast-zastrzykow-9180359.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-odchudzaniu-Europa-zatwierdzila-pierwsza-tabletke-zamiast-zastrzykow-9180359.html",
+      "title": "Przełom w odchudzaniu. Europa zatwierdziła pierwszą tabletkę zamiast zastrzyków",
+      "content_html": "Brytyjska agencja ds. leków MHRA jako pierwsza w Europie zatwierdziła w poniedziałek do użytku tabletkę odchudzającą Foundayo, którą zażywa się codziennie. Ma pomóc w utracie wagi, ale też ułatwić walkę z cukrzycą typu 2.",
+      "date_published": "2026-08-10T20:44:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-warunek-w-rozmowach-USA-z-Iranem-Trump-chce-odszkodowan-9180354.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-warunek-w-rozmowach-USA-z-Iranem-Trump-chce-odszkodowan-9180354.html",
       "title": "Nowy warunek w rozmowach USA z Iranem. Trump chce odszkodowań",
@@ -16,6 +30,13 @@
       "title": "Eksplozja tuż po starcie. Tajemnicza misja wojskowa zakończona fiaskiem",
       "content_html": "Chińska rakieta nośna Chang Zheng (Długi Marsz) 7A uległa w poniedziałek „anomalii w locie” krótko po starcie z kosmodromu Wenchang na wyspie Hajnan w południowej części kraju – poinformowała państwowa agencja Xinhua. Rakieta miała wynieść...",
       "date_published": "2026-08-10T20:27:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Po-38-latach-wznowiono-polaczenie-kolejowe-miedzy-Szwecja-a-Finlandia-9180356.html",
+      "url": "https://www.bankier.pl/wiadomosc/Po-38-latach-wznowiono-polaczenie-kolejowe-miedzy-Szwecja-a-Finlandia-9180356.html",
+      "title": "Po 38 latach wznowiono połączenie kolejowe między Szwecją a Finlandią",
+      "content_html": "Po 38 latach wznowiono połączenie kolejowe między Szwecją a Finlandią. Na stację w mieście Haparanda na północy Szwecji wjechał w poniedziałek pierwszy po latach pociąg osobowy z fińskiego Oulu. Połączenie ma znaczenie strategiczne, gdyż...",
+      "date_published": "2026-08-10T20:26:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Silne-trzesienie-ziemi-w-Kolumbii-Zawalily-sie-budynki-9180292.html",
@@ -142,6 +163,20 @@
       "title": "27,5 tys. podpisów ws. referendum w Warszawie. Inicjatorzy zbiórki podali dane",
       "content_html": "Przez ponad tydzień zebrano 27,5 tys. podpisów pod referendum w sprawie odwołania prezydenta Warszawy Rafała Trzaskowskiego i rady miasta - poinformował w poniedziałek w mediach społecznościowych inicjator akcji Maciej Wilk.",
       "date_published": "2026-08-10T17:17:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rada-Ministrow-wyrazila-zgode-na-podzial-Enei-9180269.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rada-Ministrow-wyrazila-zgode-na-podzial-Enei-9180269.html",
+      "title": "Rada Ministrów wyraziła zgodę na podział Enei",
+      "content_html": "Rada Ministrów wyraziła zgodę na podział Enei, który umożliwi wydzielenie działalności sprzedażowej do wyspecjalizowanej spółki w Grupie - podała Enea w komunikacie prasowym.",
+      "date_published": "2026-08-10T17:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukrainskie-ataki-uderzyly-w-magazyny-Wildberries-Kirgistan-chce-przejac-czesc-logistyki-9180254.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukrainskie-ataki-uderzyly-w-magazyny-Wildberries-Kirgistan-chce-przejac-czesc-logistyki-9180254.html",
+      "title": "Ukraińskie ataki uderzyły w magazyny Wildberries. Kirgistan chce przejąć część logistyki",
+      "content_html": "Władze Kirgistanu zaproponowały rosyjskiej platformie e-commerce Wildberries przeniesienie do tego państwa części magazynów i zaplecza logistycznego; ma to pomóc w rozwoju handlu i ograniczyć ryzyko związane z koncentracją infrastruktury firmy...",
+      "date_published": "2026-08-10T17:01:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Feerum-zakonczyl-zaangazowanie-kapitalowe-w-Feerum-Egypt-9180235.html",
@@ -380,13 +415,6 @@
       "title": "Erste Bank kusi przedsiębiorców. Konto firmowe bez opłat i lokata na 4,5 proc.",
       "content_html": "Przedsiębiorcy prowadzący jednoosobową działalność gospodarczą poszukują nowoczesnych i opłacalnych rozwiązań do codziennego zarządzania finansami. Odpowiedzią na te potrzeby jest Konto Firmowe Online oferowane przez Erste Bank Polska S.A...",
       "date_published": "2026-08-10T13:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Emerytura-nawet-o-80-proc-wyzsza-Jest-jeden-haczyk-9180086.html",
-      "url": "https://www.bankier.pl/wiadomosc/Emerytura-nawet-o-80-proc-wyzsza-Jest-jeden-haczyk-9180086.html",
-      "title": "O 80 proc. wyższa emerytura. Trzeba spełnić jeden warunek",
-      "content_html": "Odłożenie przejścia na emeryturę może wyraźnie podnieść wysokość przyszłego świadczenia. Może być ono nawet o 80 proc. wyższe. Wystaczy o pięć lat wydłużyć aktywność zawodową - wynika z symulacji przygotowanej przez Zakład Ubezpieczeń...",
-      "date_published": "2026-08-10T13:13:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Eurocash-do-konca-VII-przekazal-73-sklepy-Delikatesy-Centrum-franczyzobiorcom-9180066.html",
@@ -660,34 +688,6 @@
       "title": "Czołgi na plaży, paraliż internetu i „piekielny krajobraz” z dronów. Tajwan testuje obronę przed inwazją Pekinu",
       "content_html": "Tajwańskie wojsko symulowało w poniedziałek odparcie chińskiego desantu powietrznego na strategicznie ważne wyspy Penghu i po raz pierwszy „ograniczy” mobilny internet w ramach corocznych gier wojennych, relacjonuje Reuters.",
       "date_published": "2026-08-10T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozne-wersje-Teheranu-i-Waszyngtonu-Czy-trwaja-negocjacje-w-sprawie-ciesniny-Ormuz-9179895.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozne-wersje-Teheranu-i-Waszyngtonu-Czy-trwaja-negocjacje-w-sprawie-ciesniny-Ormuz-9179895.html",
-      "title": "Różne wersje Teheranu i Waszyngtonu. Czy trwają negocjacje w sprawie cieśniny Ormuz?",
-      "content_html": "Szef irańskiej dyplomacji Abbas Araghchi oświadczył w niedzielę, że Teheran nie prowadzi obecnie bezpośrednich negocjacji z USA, choć obie strony wymieniają wiadomości przez pośredników. Prezydent Donald Trump przekonuje natomiast, że rozmowy...",
-      "date_published": "2026-08-10T08:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sedziowie-wybrali-nowa-KRS-Zurek-Ogrywamy-Nawrockiego-zgodnie-z-prawem-9179901.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sedziowie-wybrali-nowa-KRS-Zurek-Ogrywamy-Nawrockiego-zgodnie-z-prawem-9179901.html",
-      "title": "Sędziowie wybrali nową KRS. Żurek: Ogrywamy Nawrockiego zgodnie z prawem",
-      "content_html": "Szef MS Waldemar Żurek podkreślił wywiadzie dla „Rzeczpospolitej”, że to strona rządowa „ogrywa prezydenta Karola Nawrockiego, tylko metodami zgodnymi z prawem”. Najważniejsze, że mamy Krajową Radę Sądownictwa wyłonioną zgodnie z konstytucją...",
-      "date_published": "2026-08-10T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/800-zl-granica-oplacalnosci-Zlodzieje-w-sklepach-poluja-na-drozszy-towar-9179902.html",
-      "url": "https://www.bankier.pl/wiadomosc/800-zl-granica-oplacalnosci-Zlodzieje-w-sklepach-poluja-na-drozszy-towar-9179902.html",
-      "title": "800 zł granicą opłacalności. Złodzieje w sklepach polują na droższy towar",
-      "content_html": "W pierwszym półroczu 2026 r. liczba kradzieży sklepowych spadła niemal o 19 proc., ale jest to efekt mniejszej liczby drobnych wykroczeń; rośnie jednak znaczenie przestępstw - pisze poniedziałkowa „Rzeczpospolita”.",
-      "date_published": "2026-08-10T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rachunek-za-odlaczanie-fotowoltaiki-i-wiatrakow-rosnie-Koszty-przekroczyly-100-mln-zl-9179922.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rachunek-za-odlaczanie-fotowoltaiki-i-wiatrakow-rosnie-Koszty-przekroczyly-100-mln-zl-9179922.html",
-      "title": "Rachunek za odłączanie fotowoltaiki i wiatraków rośnie. Koszty przekroczyły 100 mln zł",
-      "content_html": "Koszt rekompensat, jakie dotychczas trzeba było wypłacić producentom energii z wiatru i słońca, przekroczył już 100 mln zł – informuje poniedziałkowy „Dziennik Gazeta Prawna”.",
-      "date_published": "2026-08-10T08:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
