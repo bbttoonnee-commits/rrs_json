@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rozpoczeto-zwiekszanie-mocy-elektrowni-jadrowej-w-Paksu-9180365.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rozpoczeto-zwiekszanie-mocy-elektrowni-jadrowej-w-Paksu-9180365.html",
+      "title": "Rozpoczęto zwiększanie mocy elektrowni jądrowej w Paksu",
+      "content_html": "W poniedziałek wieczorem rozpoczęto stopniowe zwiększanie mocy drugiego bloku węgierskiej elektrowni jądrowej w Paksu – poinformowano na stronie internetowej obiektu. Rozpoczęcie procesu było możliwe dzięki wzrostowi poziomu wody w Dunaju w...",
+      "date_published": "2026-08-10T21:34:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-zakazal-partii-Jabloko-udzialu-we-wrzesniowych-wyborach-parlamentarnych-9180363.html",
       "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-zakazal-partii-Jabloko-udzialu-we-wrzesniowych-wyborach-parlamentarnych-9180363.html",
       "title": "Sąd Najwyższy zakazał partii „Jabłoko” udziału we wrześniowych wyborach parlamentarnych",
@@ -415,6 +422,13 @@
       "title": "Erste Bank kusi przedsiębiorców. Konto firmowe bez opłat i lokata na 4,5 proc.",
       "content_html": "Przedsiębiorcy prowadzący jednoosobową działalność gospodarczą poszukują nowoczesnych i opłacalnych rozwiązań do codziennego zarządzania finansami. Odpowiedzią na te potrzeby jest Konto Firmowe Online oferowane przez Erste Bank Polska S.A...",
       "date_published": "2026-08-10T13:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Emerytura-nawet-o-80-proc-wyzsza-Jest-jeden-haczyk-9180086.html",
+      "url": "https://www.bankier.pl/wiadomosc/Emerytura-nawet-o-80-proc-wyzsza-Jest-jeden-haczyk-9180086.html",
+      "title": "O 80 proc. wyższa emerytura. Trzeba spełnić jeden warunek",
+      "content_html": "Odłożenie przejścia na emeryturę może wyraźnie podnieść wysokość przyszłego świadczenia. Może być ono nawet o 80 proc. wyższe. Wystaczy o pięć lat wydłużyć aktywność zawodową - wynika z symulacji przygotowanej przez Zakład Ubezpieczeń...",
+      "date_published": "2026-08-10T13:13:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Eurocash-do-konca-VII-przekazal-73-sklepy-Delikatesy-Centrum-franczyzobiorcom-9180066.html",
