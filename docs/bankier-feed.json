@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kosmetyczne-spadki-na-Wall-Street-S-P500-i-Nasdaq-o-wlos-od-rekordow-9180390.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kosmetyczne-spadki-na-Wall-Street-S-P500-i-Nasdaq-o-wlos-od-rekordow-9180390.html",
+      "title": "Kosmetyczne spadki na Wall Street. S&P500 i Nasdaq o włos od rekordów",
+      "content_html": "Choć poniedziałkowa sesja przyniosła niewielkie spadki na nowojorskich giełdach, to zarówno indeks S&P500 jak i Nasdaq Composite wciąż znajdują się tylko nieznacznie poniżej szczytów hossy.",
+      "date_published": "2026-08-10T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rozpoczeto-zwiekszanie-mocy-elektrowni-jadrowej-w-Paksu-9180365.html",
       "url": "https://www.bankier.pl/wiadomosc/Rozpoczeto-zwiekszanie-mocy-elektrowni-jadrowej-w-Paksu-9180365.html",
       "title": "Rozpoczęto zwiększanie mocy elektrowni jądrowej w Paksu",
@@ -695,13 +702,6 @@
       "title": "Śmiertelny wypadek w kopalni złota. Osunięcie ziemi zabiło górnika, kilka osób jest rannych",
       "content_html": "W niedzielę władze ogłosiły, że osunięcie się ziemi w największej kopalni złota w Egipcie Sukari położonej na Pustyni Nubijskiej zabiło jednego pracownika i raniło pięciu innych. Prace na dotkniętym obszarze zostały zawieszone do czasu...",
       "date_published": "2026-08-10T08:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czolgi-na-plazy-paraliz-internetu-i-piekielny-krajobraz-z-dronow-Tajwan-testuje-obrone-przed-inwazja-Pekinu-9179897.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czolgi-na-plazy-paraliz-internetu-i-piekielny-krajobraz-z-dronow-Tajwan-testuje-obrone-przed-inwazja-Pekinu-9179897.html",
-      "title": "Czołgi na plaży, paraliż internetu i „piekielny krajobraz” z dronów. Tajwan testuje obronę przed inwazją Pekinu",
-      "content_html": "Tajwańskie wojsko symulowało w poniedziałek odparcie chińskiego desantu powietrznego na strategicznie ważne wyspy Penghu i po raz pierwszy „ograniczy” mobilny internet w ramach corocznych gier wojennych, relacjonuje Reuters.",
-      "date_published": "2026-08-10T08:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
