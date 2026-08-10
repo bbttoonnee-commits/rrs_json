@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same serwery. Odsłaniamy kulisy działania KDPW_CCP - instytucjonalnego \"bezpiecznika\", który chroni warszawski parkiet.",
+      "content_html": "",
+      "date_published": "2026-08-10T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
+      "content_html": "",
+      "date_published": "2026-08-10T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Miliony-Polakow-uciekna-z-lokat-i-zaloza-OKI-Aktywa-przekrocza-100-miliardow-zlotych-9178784.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliony-Polakow-uciekna-z-lokat-i-zaloza-OKI-Aktywa-przekrocza-100-miliardow-zlotych-9178784.html",
       "title": "RAPORT Miliony Polaków uciekną z lokat i założą OKI? \"Aktywa przekroczą 100 miliardów złotych\" W ciągu pierwszych trzech lat OKI, czyli osobiste konto inwestycyjne, może założyć 2,1 mln klientów – wynika z raportu BM PKO. W tym czasie wartość aktywów OKI może urosnąć do ponad 100 mld zł.",
@@ -23,13 +37,6 @@
       "title": "O TYM MÓWI WALL STREET Ekstremalny optymizm i ryzyko „Czarnego Poniedziałku” z 1987 r. Akcje w USA i Europie biją rekordy, a uczestnicy rynku cieszą się z zysków przedsiębiorstw i masowo zaciągają kredyty na inwestycje. Dla części znanych postaci z Wall Street jest to jednak powód do ostrożności.",
       "content_html": "",
       "date_published": "2026-08-08T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gospodarka-daje-nadzieje-a-stacje-paliw-trzymaja-ceny-Wyniki-Orlenu-zamieszanie-z-Muskiem-i-odbicie-w-przemysle-9179279.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gospodarka-daje-nadzieje-a-stacje-paliw-trzymaja-ceny-Wyniki-Orlenu-zamieszanie-z-Muskiem-i-odbicie-w-przemysle-9179279.html",
-      "title": "WYKRESY TYGODNIA Gospodarka daje nadzieję, a stacje paliw trzymają ceny. Wyniki Orlenu, zamieszanie z Muskiem i odbicie w przemyśle Cześć tu Inwestor Wojtek, witam Was w drugim miesiącu wakacji. Odczyty gospodarcze przynoszą mieszane, ale intrygujące wieści z rynku: polski przemysł powoli podnosi się po słabszym czerwcu, a Grupa Orlen odnotowuje zyski powyżej prognoz, co wywołało polityczną dyskusję. Na stacjach paliw kierowcy wciąż czekają na obniżki mimo spadków w hurcie, z kolei za oceanem Elon Musk musiał być tonowany przez własny zarząd po śmiałych obietnicach. Zapraszam zatem na wykresy tygodnia Bankier.pl.",
-      "content_html": "",
-      "date_published": "2026-08-08T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
