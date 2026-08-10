@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html",
+      "title": "Atak na ZUS odparty. Serwisy internetowe i platforma znów działają",
+      "content_html": "Zakończyły się utrudnienia z funkcjonowaniem strony zus.pl oraz platformy PUE/eZUS w związku z atakiem wolumetrycznym DDoS, do którego doszło w poniedziałek przed południem - poinformował PAP rzecznik Zakładu Ubezpieczeń Społecznych Karol...",
+      "date_published": "2026-08-10T13:49:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Erste-Bank-kusi-przedsiebiorcow-Konto-firmowe-bez-oplat-i-lokata-na-4-5-proc-9180058.html",
+      "url": "https://www.bankier.pl/wiadomosc/Erste-Bank-kusi-przedsiebiorcow-Konto-firmowe-bez-oplat-i-lokata-na-4-5-proc-9180058.html",
+      "title": "Erste Bank kusi przedsiębiorców. Konto firmowe bez opłat i lokata na 4,5 proc.",
+      "content_html": "Przedsiębiorcy prowadzący jednoosobową działalność gospodarczą poszukują nowoczesnych i opłacalnych rozwiązań do codziennego zarządzania finansami. Odpowiedzią na te potrzeby jest Konto Firmowe Online oferowane przez Erste Bank Polska S.A...",
+      "date_published": "2026-08-10T13:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Emerytura-nawet-o-80-proc-wyzsza-Jest-jeden-haczyk-9180086.html",
+      "url": "https://www.bankier.pl/wiadomosc/Emerytura-nawet-o-80-proc-wyzsza-Jest-jeden-haczyk-9180086.html",
+      "title": "O 80 proc. wyższa emerytura. Trzeba spełnić jeden warunek",
+      "content_html": "Odłożenie przejścia na emeryturę może wyraźnie podnieść wysokość przyszłego świadczenia. Może być ono nawet o 80 proc. wyższe. Wystaczy o pięć lat wydłużyć aktywność zawodową - wynika z symulacji przygotowanej przez Zakład Ubezpieczeń...",
+      "date_published": "2026-08-10T13:13:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Eurocash-do-konca-VII-przekazal-73-sklepy-Delikatesy-Centrum-franczyzobiorcom-9180066.html",
+      "url": "https://www.bankier.pl/wiadomosc/Eurocash-do-konca-VII-przekazal-73-sklepy-Delikatesy-Centrum-franczyzobiorcom-9180066.html",
+      "title": "Prywatni przedsiębiorcy przejmują Delikatesy Centrum. Eurocash przyspiesza transformację",
+      "content_html": "Eurocash do końca lipca przekazał franczyzobiorcom 73 sklepy Delikatesy Centrum - podała spółka w komunikacie prasowym. Dodano, że liczba przekazań jest większa od pierwotnie planowanych na tym etapie, a kolejne transfery zaplanowane są na drugie...",
+      "date_published": "2026-08-10T12:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Niszczycielskie-skutki-atakow-dronow-Bank-Rosji-ratuje-firmy-poszkodowane-po-uderzeniach-9180062.html",
+      "url": "https://www.bankier.pl/wiadomosc/Niszczycielskie-skutki-atakow-dronow-Bank-Rosji-ratuje-firmy-poszkodowane-po-uderzeniach-9180062.html",
+      "title": "Niszczycielskie skutki ataków dronów. Bank Rosji ratuje firmy poszkodowane po uderzeniach",
+      "content_html": "Rosyjski bank centralny poinformował w poniedziałek, że zalecił kredytodawcom, aby wsparli małe i średnie przedsiębiorstwa dotknięte ukraińskimi atakami dronowymi na centra logistyczne, magazyny, zakłady produkcyjne oraz obiekty handlowe i biurowe...",
+      "date_published": "2026-08-10T12:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Apel-o-czujnosc-Cybersabotazysci-uderzyli-w-infrastrukture-krytyczna-przez-karte-SIM-9180055.html",
+      "url": "https://www.bankier.pl/wiadomosc/Apel-o-czujnosc-Cybersabotazysci-uderzyli-w-infrastrukture-krytyczna-przez-karte-SIM-9180055.html",
+      "title": "Apel o czujność. Cybersabotażyści uderzyli w infrastrukturę krytyczną przez kartę SIM",
+      "content_html": "Osoby, które zarządzają systemami w jednostkach energetycznych powinny zwrócić szczególną uwagę na kwestię oprogramowania i sterowników - radził w poniedziałek minister energii Miłosz Motyka. Odniósł się do sobotniego raportu CERT Polska...",
+      "date_published": "2026-08-10T12:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ostateczna-przegrana-patostreamera-Naczelny-Sad-Administracyjny-podtrzymuje-deportacje-i-10-letni-zakaz-9180046.html",
       "url": "https://www.bankier.pl/wiadomosc/Ostateczna-przegrana-patostreamera-Naczelny-Sad-Administracyjny-podtrzymuje-deportacje-i-10-letni-zakaz-9180046.html",
       "title": "Ostateczna przegrana patostreamera. Naczelny Sąd Administracyjny podtrzymuje deportację i 10-letni zakaz",
@@ -16,6 +58,13 @@
       "title": "Wpadł tuż po wylądowaniu w Warszawie. Poszukiwany w całej Europie Gruzin zatrzymany",
       "content_html": "Funkcjonariusze SG zatrzymali 28-letniego obywatela Gruzji poszukiwanego Europejskim Nakazem Aresztowania przez austriacki wymiar sprawiedliwości - przekazała PAP rzeczniczka Nadwiślańskiego Oddziału SG mjr Dagmara Bielec. Mężczyzna został zatrzymany...",
       "date_published": "2026-08-10T12:21:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KW-akceptuje-sprawozdania-finansowe-partii-PiS-i-PSL-ze-wskazanymi-uchybieniami-9180040.html",
+      "url": "https://www.bankier.pl/wiadomosc/KW-akceptuje-sprawozdania-finansowe-partii-PiS-i-PSL-ze-wskazanymi-uchybieniami-9180040.html",
+      "title": "KW akceptuje sprawozdania finansowe partii. PiS i PSL ze wskazanymi uchybieniami",
+      "content_html": "Państwowa Komisja Wyborcza przyjęła bez zastrzeżeń większość informacji finansowych partii politycznych o otrzymanej subwencji oraz o poniesionych z niej wydatkach w 2025 roku – wynika z informacji zawartych na stronie Komisji.",
+      "date_published": "2026-08-10T12:20:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mirbud-nie-wyklucza-zainteresowania-akcjami-Torpolu-w-przyszlosci-ale-po-nizszej-cenie-niz-aktualna-9180029.html",
@@ -142,6 +191,20 @@
       "title": "Niższe ceny paliw na końcówkę wakacji? Rząd wciąż bez decyzji",
       "content_html": "Rząd jeszcze nie podjął decyzji ws. wprowadzenia rozwiązań obniżających ceny paliw na ostatnie dwa tygodnie wakacji - poinformował w Programie I Polskiego Radia szef resortu energii Miłosz Motyka. Minister nie wykluczył też nowego projektu...",
       "date_published": "2026-08-10T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Chinczycy-zdominowali-rynek-robotow-Pekin-deklasuje-Muska-i-Tesle-i-zgarnia-97-proc-rynku-9179959.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chinczycy-zdominowali-rynek-robotow-Pekin-deklasuje-Muska-i-Tesle-i-zgarnia-97-proc-rynku-9179959.html",
+      "title": "Chińczycy zdominowali rynek robotów. Pekin deklasuje Muska i zgarnia 97 proc. rynku",
+      "content_html": "Chińscy producenci robotów humanoidalnych odpowiadali za ponad 97 proc. globalnych dostaw w pierwszej połowie 2026 roku. Nowe dane branżowe opublikowane przez Bloomberg potwierdzają wczesną, ale wyraźną przewagę Państwa Środka nad amerykańskimi...",
+      "date_published": "2026-08-10T09:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stalprofil-szacuje-ze-mial-w-II-kw-10-1-mln-zl-EBITDA-9179964.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stalprofil-szacuje-ze-mial-w-II-kw-10-1-mln-zl-EBITDA-9179964.html",
+      "title": "Stalprofil szacuje, że miał w II kw. 10,1 mln zł EBITDA",
+      "content_html": "Stalprofil szacuje, że w drugim kwartale 2026 roku jednostkowy zysk netto wyniósł 6 mln zł wobec 1,2 mln zł zysku rok wcześniej, a EBITDA wzrosła o 710 proc. rdr do 10,1 mln zł - poinformowała spółka w komunikacie.",
+      "date_published": "2026-08-10T09:44:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Przelom-w-polskiej-onkologii-Od-jutra-rusza-elektroniczna-karta-eDiLO-9179963.html",
@@ -338,27 +401,6 @@
       "title": "Iran nie otworzy cieśniny Ormuz bez ustępstw USA",
       "content_html": "Iran uzależnił pełne otwarcie cieśniny Ormuz od spełnienia przez USA szeregu warunków, m.in. zakończenia blokady irańskich portów. Domaga się też wycofania sił USA z regionu i wypłaty odszkodowań wojennych. Jednocześnie Teheran poinformował...",
       "date_published": "2026-08-09T19:43:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pozary-pustosza-Hiszpanie-Ogien-strawil-juz-ponad-8000-hektarow-9179864.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozary-pustosza-Hiszpanie-Ogien-strawil-juz-ponad-8000-hektarow-9179864.html",
-      "title": "Pożary pustoszą Hiszpanię. Ogień strawił już ponad 8000 hektarów",
-      "content_html": "Pożar w Andaluzji na zachodzie kraju, który pokonał już osiem tysięcy hektarów, wciąż nie został całkowicie opanowany, ale prognozy są optymistyczne - przekazały w niedzielę hiszpańskie władze. W akcje gaśniczą zaangażowanych jest około...",
-      "date_published": "2026-08-09T18:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-i-Syria-zawarly-porozumienie-Zmieni-sie-status-rosyjskich-baz-wojskowych-9179861.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-i-Syria-zawarly-porozumienie-Zmieni-sie-status-rosyjskich-baz-wojskowych-9179861.html",
-      "title": "Rosja i Syria zawarły porozumienie. Zmieni się status rosyjskich baz wojskowych",
-      "content_html": "Doszliśmy do porozumienia z Rosją w sprawie przekształcenia jej obecności wojskowej w Syrii - przekazało w niedzielę syryjskie ministerstwo spraw zagranicznych. Bazy, które Rosja wykorzystywała przez lata do wspierania reżimu Asada, zostaną...",
-      "date_published": "2026-08-09T18:13:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-Pilnowanie-zyrandoli-jest-nie-dla-mnie-9179855.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-Pilnowanie-zyrandoli-jest-nie-dla-mnie-9179855.html",
-      "title": "Nawrocki: Pilnowanie żyrandoli jest nie dla mnie",
-      "content_html": "Pilnowanie żyrandoli jest nie dla mnie - powiedział w niedzielę podczas spotkania z mieszkańcami Skawiny (woj. małopolskie) prezydent Karol Nawrocki. Zapewnił, że podczas drugiego roku prezydentury będzie spotykał się z Polakami.",
-      "date_published": "2026-08-09T17:25:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tajemnicze-spotkanie-prezydenta-Iranu-z-Chameneim-Wladze-obiecuja-dowody-9179856.html",
@@ -639,34 +681,6 @@
       "title": "USA chcą uniknąć shutdownu przed wyborami. Senat przyjął kluczową ustawę",
       "content_html": "Senat USA przyjął w sobotę ponadpartyjną ustawę o tymczasowym finansowaniu instytucji federalnych do 11 grudnia. Jej uchwalenie ma zapobiec kolejnemu paraliżowi administracji przed listopadowymi wyborami do Kongresu. Ustawa musi jeszcze zostać...",
       "date_published": "2026-08-08T20:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mniej-rakiet-do-Patriotow-dla-Ukrainy-Zelenski-mowi-o-dostawach-z-USA-9179755.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mniej-rakiet-do-Patriotow-dla-Ukrainy-Zelenski-mowi-o-dostawach-z-USA-9179755.html",
-      "title": "Mniej rakiet do Patriotów dla Ukrainy. Zełenski mówi o dostawach z USA",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski oświadczył, że Kijów ma porozumienie z USA w sprawie comiesięcznych dostaw pocisków do systemów Patriot, jednak podkreślił, że jest ich za mało wobec potrzeb obrony powietrznej.",
-      "date_published": "2026-08-08T20:37:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fala-zmian-w-armii-USA-Kolejny-general-odsuniety-od-dowodzenia-9179754.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fala-zmian-w-armii-USA-Kolejny-general-odsuniety-od-dowodzenia-9179754.html",
-      "title": "Fala zmian w armii USA. Kolejny generał odsunięty od dowodzenia",
-      "content_html": "Generał Charles Costanza, który od kwietnia 2024 r. nadzorował operacjami armii USA w Europie, został w piątek odsunięty od dowodzenia V Korpusem – poinformował amerykański resort obrony (Pentagon). Nie podano przyczyn decyzji, która zapadła...",
-      "date_published": "2026-08-08T20:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Marine-Le-Pen-ostatnia-nadzieja-dla-Francji-Ekspert-przestrzega-przed-rola-Elona-Muska-9178719.html",
-      "url": "https://www.bankier.pl/wiadomosc/Marine-Le-Pen-ostatnia-nadzieja-dla-Francji-Ekspert-przestrzega-przed-rola-Elona-Muska-9178719.html",
-      "title": "Marine Le Pen „ostatnią nadzieją dla Francji”? Ekspert przestrzega przed rolą Elona Muska",
-      "content_html": "Dziennik „L'Opinion”, w kontekście przyszłorocznych wyborów prezydenckich we Francji, przypomina o pochlebnej dla liderki skrajnej prawicy Marine Le Pen opinii Elona Muska, właściciela platformy X. Według dziennika pojawiają się pytania dotyczące...",
-      "date_published": "2026-08-08T20:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niezwykli-goscie-w-brazylijskim-parlamencie-Dwie-kapibary-zwiedzily-budynek-9178526.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niezwykli-goscie-w-brazylijskim-parlamencie-Dwie-kapibary-zwiedzily-budynek-9178526.html",
-      "title": "Niezwykli goście w brazylijskim parlamencie. Dwie kapibary zwiedziły budynek",
-      "content_html": "Gdy posłowie przygotowywali się do obrad, w siedzibie parlamentu stanu Mato Grosso w środkowej Brazylii pojawili się niespodziewani goście. Dwie kapibary weszły przez główne drzwi i spokojnie zwiedziły recepcję – podała agencja AP.",
-      "date_published": "2026-08-08T20:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
