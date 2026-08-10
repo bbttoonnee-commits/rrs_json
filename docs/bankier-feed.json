@@ -4,18 +4,67 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Silne-trzesienie-ziemi-w-Kolumbii-Zawalily-sie-budynki-9180292.html",
+      "url": "https://www.bankier.pl/wiadomosc/Silne-trzesienie-ziemi-w-Kolumbii-Zawalily-sie-budynki-9180292.html",
+      "title": "Silne trzęsienie ziemi w Kolumbii. Zawaliły się budynki",
+      "content_html": "Silne trzęsienie ziemi, które w poniedziałek nawiedziło Kolumbię, doprowadziło do zawalenia się budynków - poinformował kolumbijski dziennik „El Tiempo”. Liczba ofiar śmiertelnych i rannych nie jest jeszcze znana. Według wstępnych szacunków...",
+      "date_published": "2026-08-10T19:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/AfD-w-Saksonii-Anhalt-wyrownuje-rekordowe-poparcie-42-proc-9180335.html",
+      "url": "https://www.bankier.pl/wiadomosc/AfD-w-Saksonii-Anhalt-wyrownuje-rekordowe-poparcie-42-proc-9180335.html",
+      "title": "AfD w Saksonii-Anhalt wyrównuje rekordowe poparcie 42 proc.",
+      "content_html": "Na niespełna cztery tygodnie przed wyborami do parlamentu Saksonii-Anhalt skrajnie prawicowa Alternatywa dla Niemiec (AfD) może liczyć na 42 proc. głosów i wyrównuje dotychczasowe rekordowe poparcie, zdecydowanie wyprzedzając chadecką CDU (22...",
+      "date_published": "2026-08-10T19:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orban-w-FIFA-albo-ONZ-Byly-premier-Wegier-szuka-sobie-zajecia-9180337.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orban-w-FIFA-albo-ONZ-Byly-premier-Wegier-szuka-sobie-zajecia-9180337.html",
+      "title": "Orban w FIFA albo ONZ? Były premier Węgier szuka sobie zajęcia",
+      "content_html": "Były premier Węgier Viktor Orban omawiał możliwość objęcia funkcji w FIFA podczas pobytu na mistrzostwach świata w USA - napisał w poniedziałek na platformie X węgierski dziennikarz śledczy Szabolcs Panyi. Dodał, że Orban może też ubiegać...",
+      "date_published": "2026-08-10T19:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zaoral-200-metrow-asfaltu-Straty-siegaja-400-tys-zl-rolnik-trafil-do-aresztu-9180325.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zaoral-200-metrow-asfaltu-Straty-siegaja-400-tys-zl-rolnik-trafil-do-aresztu-9180325.html",
+      "title": "Zaorał 200 metrów asfaltu. Straty sięgają 400 tys. zł, rolnik trafił do aresztu",
+      "content_html": "Sąd zgodził się na aresztowanie rolnika, który zaorał asfalt na ul. Rybackiej w Ostropie, ze względu na zagrożenie surową karą i możliwość podejmowania prób jej uniknięcia – poinformował w poniedziałek Sąd Okręgowy w Gliwicach. Mężczyźnie...",
+      "date_published": "2026-08-10T18:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sluzby-bezpieczenstwa-przerwalismy-rosyjska-operacje-wywiadowcza-9180322.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sluzby-bezpieczenstwa-przerwalismy-rosyjska-operacje-wywiadowcza-9180322.html",
+      "title": "Służby bezpieczeństwa: przerwaliśmy rosyjską operację wywiadowczą",
+      "content_html": "Szwedzkie służby bezpieczeństwa SAPO powiadomiły w poniedziałek o przerwaniu rosyjskiej operacji wywiadowczej poprzez zdemaskowanie agenta, którym okazał się pracownik zagranicznej ambasady w Sztokholmie.",
+      "date_published": "2026-08-10T18:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KE-dala-zielone-swiatlo-na-wyplate-Polsce-7-9-mld-euro-w-ramach-KPO-9180256.html",
+      "url": "https://www.bankier.pl/wiadomosc/KE-dala-zielone-swiatlo-na-wyplate-Polsce-7-9-mld-euro-w-ramach-KPO-9180256.html",
+      "title": "KE dała zielone światło na wypłatę Polsce 7,9 mld euro w ramach KPO",
+      "content_html": "Komisja Europejska poinformowała w poniedziałek, że pozytywnie oceniła w piątek wniosek Polski o płatność w ramach Krajowego Planu Odbudowy (KPO) na kwotę 7,9 mld euro (33 mld zł). Warunkiem wypłacenia tych środków było m.in. udostępnienie...",
+      "date_published": "2026-08-10T18:43:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-zwieksza-produkcje-rakiet-Szykuje-sie-do-kolejnej-kampanii-uderzen-na-Ukraine-9180318.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-zwieksza-produkcje-rakiet-Szykuje-sie-do-kolejnej-kampanii-uderzen-na-Ukraine-9180318.html",
+      "title": "Rosja zwiększa produkcję rakiet. Szykuje się do kolejnej kampanii uderzeń na Ukrainę",
+      "content_html": "Rosja zwiększa produkcję rakiet i może w najbliższych tygodniach rozpocząć zakrojoną na szeroką skalę kampanię uderzeń na ukraińską infrastrukturę energetyczną - wynika z analizy amerykańskiego think tanku Instytut Studiów nad Wojną...",
+      "date_published": "2026-08-10T18:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Konflikt-w-WZM-przed-polaczeniem-z-Cegielskim-Czterech-zwiazkowcow-zwolnionych-9180301.html",
+      "url": "https://www.bankier.pl/wiadomosc/Konflikt-w-WZM-przed-polaczeniem-z-Cegielskim-Czterech-zwiazkowcow-zwolnionych-9180301.html",
+      "title": "Konflikt w WZM przed połączeniem z Cegielskim. Czterech związkowców zwolnionych",
+      "content_html": "Zwolnienia pracowników Wojskowych Zakładach Motoryzacyjnych w Poznaniu to efekt nieprawidłowości wykrytych w czasie zewnętrznego audytu - podkreślił w poniedziałkowym oświadczeniu zarząd firmy. Wcześniej o zwalnianiu działaczy pracowniczych...",
+      "date_published": "2026-08-10T18:33:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/WIG20-z-nowym-rekordem-zamkniecia-Budimex-i-Dino-liderami-wzrostow-9180286.html",
       "url": "https://www.bankier.pl/wiadomosc/WIG20-z-nowym-rekordem-zamkniecia-Budimex-i-Dino-liderami-wzrostow-9180286.html",
       "title": "WIG20 z nowym rekordem zamknięcia. Budimex i Dino liderami wzrostów",
       "content_html": "Poniedziałkowy handel na warszawskim parkiecie przyniósł umiarkowane wzrosty. Indeks WIG20 zyskał 0,60% i zamknął się na poziomie 4 024,05 pkt, co jest jego najwyższym kursem zamknięcia w historii. Na czoło spółek z czołowej dwudziestki wysunęły...",
       "date_published": "2026-08-10T18:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Silne-trzesienie-ziemi-w-Kolumbii-Zawalily-sie-budynki-9180292.html",
-      "url": "https://www.bankier.pl/wiadomosc/Silne-trzesienie-ziemi-w-Kolumbii-Zawalily-sie-budynki-9180292.html",
-      "title": "Silne trzęsienie ziemi w Kolumbii. Zawaliły się budynki",
-      "content_html": "Silne trzęsienie ziemi, które w poniedziałek nawiedziło Kolumbię, doprowadziło do zawalenia się budynków - poinformował kolumbijski dziennik „El Tiempo”. Liczba ofiar śmiertelnych i rannych nie jest jeszcze znana. Według wstępnych szacunków...",
-      "date_published": "2026-08-10T18:28:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dwa-podmioty-objely-20-85-mln-akcji-serii-N-Intersportu-9180305.html",
@@ -58,13 +107,6 @@
       "title": "Zwolnienia grupowe spadły o 32 proc. Resort podał najnowsze dane",
       "content_html": "W okresie styczeń-czerwiec 2026 r. zwolniono grupowo 11,6 tys. osób, czyli o 32 proc. mniej niż w analogicznym okresie 2025 r. - poinformował w odpowiedzi na interpelację poselską resort rodziny, pracy i polityki społecznej.",
       "date_published": "2026-08-10T17:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KE-dala-zielone-swiatlo-na-wyplate-Polsce-7-9-mld-euro-w-ramach-KPO-9180256.html",
-      "url": "https://www.bankier.pl/wiadomosc/KE-dala-zielone-swiatlo-na-wyplate-Polsce-7-9-mld-euro-w-ramach-KPO-9180256.html",
-      "title": "KE dała zielone światło na wypłatę Polsce 7,9 mld euro w ramach KPO",
-      "content_html": "Komisja Europejska poinformowała w poniedziałek, że pozytywnie oceniła w piątek wniosek Polski o płatność w ramach Krajowego Planu Odbudowy (KPO) na kwotę 7,9 mld euro (33 mld zł). Warunkiem wypłacenia tych środków było m.in. udostępnienie...",
-      "date_published": "2026-08-10T17:48:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Trump-zorganizowal-Igrzyska-Patriotow-Krytycy-porownuja-je-do-Igrzysk-Smierci-9180263.html",
@@ -240,13 +282,6 @@
       "title": "Aktywa PPK rosną jak na drożdżach. Polacy zgromadzili o 40 proc. więcej niż rok temu",
       "content_html": "Wartość aktywów PPK na koniec lipca wyniosła 55,9 mld zł, i była o 3,2 proc. większa niż w lipcu 2025 roku, a liczba rachunków wyniosła 5,53 mln - podał PFR w comiesięcznym zestawieniu.",
       "date_published": "2026-08-10T14:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lider-sie-nie-zatrzymuje-i-ma-juz-43-na-plusie-Na-czym-tyle-zarobil-9180109.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lider-sie-nie-zatrzymuje-i-ma-juz-43-na-plusie-Na-czym-tyle-zarobil-9180109.html",
-      "title": "Lider się nie zatrzymuje i ma już 43% na plusie. Na czym tyle zarobił?",
-      "content_html": "Na warszawskiej giełdzie wakacyjna hossa trwa w najlepsze, co przekłada się na wyniki uczestników naszego konkursu inwestycyjnego. W przypadku dwóch aktualnie najlepszych graczy wysokie stopy zwrotu nie zależą jednak bezpośrednio od koniunktury...",
-      "date_published": "2026-08-10T14:25:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-odpisy-w-dwoch-spolkach-zaleznych-zwiekszy-jednostkowy-wynik-brutto-o-297-mln-zl-za-I-pol-26-9180118.html",
@@ -660,34 +695,6 @@
       "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień?",
       "content_html": "Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż...",
       "date_published": "2026-08-10T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-sierpien-2026-r-Banki-nie-pobieraja-oplat-i-jeszcze-doplacaja-9179449.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-kont-osobistych-sierpien-2026-r-Banki-nie-pobieraja-oplat-i-jeszcze-doplacaja-9179449.html",
-      "title": "Najlepsze konta osobiste. Czterocyfrowe premie za otwarcie to już norma",
-      "content_html": "W najnowszym rankingu najlepszych kont osobistych sprawdzamy realne koszty utrzymania rachunku oraz wartość bonusów przygotowanych na start. Okazuje się, że na rynku nie brakuje banków, które nie pobierają opłat podstawowych za konto oraz kartę...",
-      "date_published": "2026-08-10T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Firmy-oburzone-nowelizacja-ustawy-o-VAT-Zapowiadaja-list-otwarty-Mamy-placic-za-oszustow-9179469.html",
-      "url": "https://www.bankier.pl/wiadomosc/Firmy-oburzone-nowelizacja-ustawy-o-VAT-Zapowiadaja-list-otwarty-Mamy-placic-za-oszustow-9179469.html",
-      "title": "Firmy oburzone nowelizacją. Zapowiadają list otwarty. „Mamy płacić za oszustów?\"",
-      "content_html": "Przedsiębiorcy bardzo krytycznie oceniają nowelizację ustawy o VAT. Uważają ją za groźną - bo jeśli kontrahent okaże się oszustem podatkowym, uczciwa firma będzie musiała za niego zapłacić. Mało tego, zostali obciążeni nowymi obowiązkami...",
-      "date_published": "2026-08-10T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-naplyw-Polakow-do-Portugalii-Szukamy-bezpiecznego-miejsca-na-urlop-9179094.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-naplyw-Polakow-do-Portugalii-Szukamy-bezpiecznego-miejsca-na-urlop-9179094.html",
-      "title": "Rekordowy napływ Polaków do Portugalii. Szukamy bezpiecznego miejsca na urlop?",
-      "content_html": "W Portugalii widoczny jest nienotowany wcześniej wzrost liczby turystów z Polski, który w minionym roku wyniósł ponad 11 proc. Jak oceniają portugalscy komentatorzy i przedsiębiorcy, ma to głównie związek z nasilającymi się na świecie konfliktami...",
-      "date_published": "2026-08-09T21:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaoral-swiezy-asfalt-ciagnikiem-Rolnik-trafil-do-aresztu-9179873.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaoral-swiezy-asfalt-ciagnikiem-Rolnik-trafil-do-aresztu-9179873.html",
-      "title": "Zaorał świeży asfalt ciągnikiem. Rolnik trafił do aresztu",
-      "content_html": "Rolnik, który zaorał asfalt na ul. Rybackiej w Ostropie, w niedzielę został aresztowany na trzy miesiące - poinformowała Komenda Miejska Policji w Gliwicach. Wcześniej przedstawiono mu zarzut zniszczenia mienia o znacznej wartości. Zarząd Dróg...",
-      "date_published": "2026-08-09T20:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
