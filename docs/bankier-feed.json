@@ -4,11 +4,116 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Dron-matka-i-materialy-wybuchowe-Niemieccy-sledczy-badaja-incydent-na-lotnisku-w-Lipsku-9180026.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dron-matka-i-materialy-wybuchowe-Niemieccy-sledczy-badaja-incydent-na-lotnisku-w-Lipsku-9180026.html",
+      "title": "Dron-matka i materiały wybuchowe. Niemieccy śledczy badają incydent na lotnisku w Lipsku",
+      "content_html": "Niemieccy śledczy coraz poważniej biorą pod uwagę scenariusz, że incydent na lotnisku w Lipsku był „wysoce złożoną operacją wojskową” z wykorzystaniem dwóch dronów – poinformował dziennik „Bild”, powołując się na wstępne ustalenia...",
+      "date_published": "2026-08-10T14:57:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MFO-szacuje-zysk-netto-w-I-polroczu-na-ok-8-85-mln-zl-tj-ok-13-2-proc-wiecej-rdr-9180153.html",
+      "url": "https://www.bankier.pl/wiadomosc/MFO-szacuje-zysk-netto-w-I-polroczu-na-ok-8-85-mln-zl-tj-ok-13-2-proc-wiecej-rdr-9180153.html",
+      "title": "MFO szacuje zysk netto w I półroczu na ok. 8,85 mln zł, tj. ok. 13,2 proc. więcej rdr",
+      "content_html": "MFO szacuje zysk netto w pierwszym półroczu 2026 r. na ok. 8,85 mln zł, co stanowi wzrost o ok. 13,2 proc. w stosunku do analogicznego okresu 2025 roku - podał producent profili stalowych w komunikacie.",
+      "date_published": "2026-08-10T14:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lasy-Panstwowe-kupuja-grunty-W-pol-roku-wydaly-blisko-80-mln-zl-9180097.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lasy-Panstwowe-kupuja-grunty-W-pol-roku-wydaly-blisko-80-mln-zl-9180097.html",
+      "title": "Lasy Państwowe kupują grunty. W pół roku wydały blisko 80 mln zł",
+      "content_html": "W pierwszej połowie 2026 r. Lasy Państwowe nabyły około 2 tys. ha gruntów za blisko 80 mln zł. Zakupy obejmowały lasy oraz grunty nieleśne, w tym przeznaczone do zalesienia - poinformowały w poniedziałek Lasy Państwowe. W ub.r. Lasy Państwowe...",
+      "date_published": "2026-08-10T14:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Aktywa-PPK-rosna-jak-na-drozdzach-Polacy-zgromadzili-o-40-proc-wiecej-niz-rok-temu-9180142.html",
+      "url": "https://www.bankier.pl/wiadomosc/Aktywa-PPK-rosna-jak-na-drozdzach-Polacy-zgromadzili-o-40-proc-wiecej-niz-rok-temu-9180142.html",
+      "title": "Aktywa PPK rosną jak na drożdżach. Polacy zgromadzili o 40 proc. więcej niż rok temu",
+      "content_html": "Wartość aktywów PPK na koniec lipca wyniosła 55,9 mld zł, i była o 3,2 proc. większa niż w lipcu 2025 roku, a liczba rachunków wyniosła 5,53 mln - podał PFR w comiesięcznym zestawieniu.",
+      "date_published": "2026-08-10T14:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lider-sie-nie-zatrzymuje-i-ma-juz-43-na-plusie-Na-czym-tyle-zarobil-9180109.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lider-sie-nie-zatrzymuje-i-ma-juz-43-na-plusie-Na-czym-tyle-zarobil-9180109.html",
+      "title": "Lider się nie zatrzymuje i ma już 43% na plusie. Na czym tyle zarobił?",
+      "content_html": "Na warszawskiej giełdzie wakacyjna hossa trwa w najlepsze, co przekłada się na wyniki uczestników naszego konkursu inwestycyjnego. W przypadku dwóch aktualnie najlepszych graczy wysokie stopy zwrotu nie zależą jednak bezpośrednio od koniunktury...",
+      "date_published": "2026-08-10T14:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-odpisy-w-dwoch-spolkach-zaleznych-zwiekszy-jednostkowy-wynik-brutto-o-297-mln-zl-za-I-pol-26-9180118.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-odpisy-w-dwoch-spolkach-zaleznych-zwiekszy-jednostkowy-wynik-brutto-o-297-mln-zl-za-I-pol-26-9180118.html",
+      "title": "Tauron odwraca odpisy. Jednostkowy wynik brutto w górę o prawie 300 mln zł",
+      "content_html": "Analizy wykazały zasadność odwrócenia odpisu z tytułu utraty wartości udziałów w spółce Tauron Ciepło o kwotę 135 mln zł oraz o kwotę 162 mln zł w spółce Tauron Wytwarzanie, co zwiększy jednostkowy wynik brutto Tauron Polska Energia...",
+      "date_published": "2026-08-10T14:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CPK-z-kolejna-decyzja-lokalizacyjna-linii-Kolei-Duzych-Predkosci-miedzy-Warszawa-i-Lodzia-9180122.html",
+      "url": "https://www.bankier.pl/wiadomosc/CPK-z-kolejna-decyzja-lokalizacyjna-linii-Kolei-Duzych-Predkosci-miedzy-Warszawa-i-Lodzia-9180122.html",
+      "title": "CPK z kolejną decyzją lokalizacyjną linii Kolei Dużych Prędkości między Warszawą i Łodzią",
+      "content_html": "Wojewoda łódzki wydał decyzję lokalizacyjną dla odcinka Kolei Dużych Prędkości Warszawa – Łódź w gminie Łyszkowice – poinformowała w poniedziałek spółka CPK. Decyzja ma rygor natychmiastowej wykonalności, co umożliwia złożenie...",
+      "date_published": "2026-08-10T14:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wegry-maja-jednego-kandydata-na-prezydenta-Fidesz-nie-wezmie-udzialu-w-wyborach-9180133.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wegry-maja-jednego-kandydata-na-prezydenta-Fidesz-nie-wezmie-udzialu-w-wyborach-9180133.html",
+      "title": "Węgry mają jednego kandydata na prezydenta. Fidesz nie weźmie udziału w wyborach",
+      "content_html": "Klub parlamentarny partii Tisza premiera Węgier Petera Magyara złożył w poniedziałek w parlamencie wniosek o nominowanie Andrasa Baki na prezydenta kraju. Termin składania wniosków minął. Baka będzie jedynym kandydatem, nad którym we wtorek...",
+      "date_published": "2026-08-10T14:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MF-otwiera-droge-do-hipotek-opartych-na-stopie-NBP-Jest-wniosek-do-EBC-9180110.html",
+      "url": "https://www.bankier.pl/wiadomosc/MF-otwiera-droge-do-hipotek-opartych-na-stopie-NBP-Jest-wniosek-do-EBC-9180110.html",
+      "title": "MF otwiera drogę do hipotek opartych na stopie NBP. Jest wniosek do EBC",
+      "content_html": "Resort finansów zwrócił się do Europejskiego Banku Centralnego o opinię ws. propozycji krajowego sektora bankowego o uwzględnienie stopy referencyjnej NBP jako jednej z metod ustalania oprocentowania kredytów hipotecznych - wynika z pisma wiceszefa...",
+      "date_published": "2026-08-10T14:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/12-sierpnia-zabraknie-pradu-Zacmienie-Slonca-sprawdzi-polska-fotowoltaike-9180121.html",
+      "url": "https://www.bankier.pl/wiadomosc/12-sierpnia-zabraknie-pradu-Zacmienie-Slonca-sprawdzi-polska-fotowoltaike-9180121.html",
+      "title": "12 sierpnia zabraknie prądu? Zaćmienie Słońca sprawdzi polską fotowoltaikę",
+      "content_html": "Polskie Sieci Elektroenergetyczne oraz inni operatorzy z Europejskiej Sieci Operatorów Systemów Przesyłowych Energii Elektrycznej (ENTSO-E) są przygotowani na zaćmienie Słońca 12 sierpnia - poinformował operator. Dodał, że zjawisko to wpłynie...",
+      "date_published": "2026-08-10T14:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pompy-insulinowe-beda-refundowane-takze-po-26-roku-zycia-Jest-projekt-MZ-9180120.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pompy-insulinowe-beda-refundowane-takze-po-26-roku-zycia-Jest-projekt-MZ-9180120.html",
+      "title": "Pompy insulinowe będą refundowane także po 26. roku życia? Jest projekt MZ",
+      "content_html": "Refundowaną pompę insulinową będą mogli mieć pacjenci z cukrzycą bez względu na wiek, teraz refundacja dotyczy tylko osób do 26. roku życia. Ministerstwo Zdrowia skierowało do konsultacji projekt rozporządzenia w tej sprawie.",
+      "date_published": "2026-08-10T13:59:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-scigania-dlugow-sprzed-1999-roku-Rzad-zajmie-sie-przelomowa-ustawa-9180117.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-scigania-dlugow-sprzed-1999-roku-Rzad-zajmie-sie-przelomowa-ustawa-9180117.html",
+      "title": "Koniec ścigania długów sprzed 1999 roku? Rząd zajmie się przełomową ustawą",
+      "content_html": "Umorzenie należności dochodzonych przez ZUS powstałych przed 1 stycznia 1999 r., których spłata nie została zabezpieczona hipoteką - zakłada projekt ustawy, którym we wtorek ma zająć się Rada Ministrów. Kwota zadłużenia szacowana jest na...",
+      "date_published": "2026-08-10T13:57:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-sie-na-kryzysy-Powstanie-nowa-lista-firm-o-krytycznym-znaczeniu-9180115.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-sie-na-kryzysy-Powstanie-nowa-lista-firm-o-krytycznym-znaczeniu-9180115.html",
+      "title": "Rząd szykuje się na kryzysy. Powstanie nowa lista firm o krytycznym znaczeniu",
+      "content_html": "Minister właściwy ds. gospodarki ma prowadzić listę podmiotów gospodarczych działających w łańcuchach dostaw towarów i usług o krytycznym znaczeniu, na wypadek sytuacji kryzysowych - wynika z projektu ustawy, opublikowanego w poniedziałek...",
+      "date_published": "2026-08-10T13:54:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html",
       "url": "https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html",
       "title": "Atak na ZUS odparty. Serwisy internetowe i platforma znów działają",
       "content_html": "Zakończyły się utrudnienia z funkcjonowaniem strony zus.pl oraz platformy PUE/eZUS w związku z atakiem wolumetrycznym DDoS, do którego doszło w poniedziałek przed południem - poinformował PAP rzecznik Zakładu Ubezpieczeń Społecznych Karol...",
       "date_published": "2026-08-10T13:49:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-to-nie-towar-od-USA-Iran-reaguje-na-nowy-sojusz-obronny-w-regionie-9180108.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-to-nie-towar-od-USA-Iran-reaguje-na-nowy-sojusz-obronny-w-regionie-9180108.html",
+      "title": "\"Bezpieczeństwo to nie towar od USA\". Iran reaguje na nowy sojusz obronny w regionie",
+      "content_html": "Rzecznik MSZ Iranu Esmail Baghei oświadczył w poniedziałek, że sojusz obronny zawarty w ubiegłym tygodniu przez Turcję, Pakistan i Arabię Saudyjską świadczy o zmianie postrzegania USA przez państwa regionu, natomiast nie jest powodem do niepokoju...",
+      "date_published": "2026-08-10T13:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pasazerowie-czekaja-na-peronach-Wyrazny-spadek-punktualnosci-polskich-pociagow-9180104.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pasazerowie-czekaja-na-peronach-Wyrazny-spadek-punktualnosci-polskich-pociagow-9180104.html",
+      "title": "Pasażerowie czekają na peronach. Wyraźny spadek punktualności polskich pociągów",
+      "content_html": "W II kwartale 2026 r. wskaźnik punktualności pociągów pasażerskich wyniósł 89,3 proc. wobec 93,3 proc. w analogicznym okresie 2025 r. - podał Urząd Transportu Kolejowego. Punktualność spadła również w przewozach towarowych.",
+      "date_published": "2026-08-10T13:36:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Erste-Bank-kusi-przedsiebiorcow-Konto-firmowe-bez-oplat-i-lokata-na-4-5-proc-9180058.html",
@@ -72,13 +177,6 @@
       "title": "Mirbud sprzedaje akcje Torpolu na szczycie wyceny. \"Zrealizowaliśmy satysfakcjonujący zysk\"",
       "content_html": "Mirbud sprzedał akcje Torpolu uznając, że ich wycena pozwala na realizację transakcji z satysfakcjonującym zyskiem. Nie wyklucza zainteresowania akcjami tej spółki w przyszłości, po niższej cenie - poinformował PAP Biznes Paweł Bruger Dyrektor...",
       "date_published": "2026-08-10T12:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dron-matka-i-materialy-wybuchowe-Niemieccy-sledczy-badaja-incydent-na-lotnisku-w-Lipsku-9180026.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dron-matka-i-materialy-wybuchowe-Niemieccy-sledczy-badaja-incydent-na-lotnisku-w-Lipsku-9180026.html",
-      "title": "Dron-matka i materiały wybuchowe. Niemieccy śledczy badają incydent na lotnisku w Lipsku",
-      "content_html": "Niemieccy śledczy coraz poważniej biorą pod uwagę scenariusz, że incydent na lotnisku w Lipsku był „wysoce złożoną operacją wojskową” z wykorzystaniem dwóch dronów – poinformował dziennik „Bild”, powołując się na wstępne ustalenia...",
-      "date_published": "2026-08-10T11:50:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Nowe-porzadki-w-spolce-legendy-Abel-otwiera-skarbiec-Buffeta-i-rusza-na-zakupy-9179996.html",
@@ -403,6 +501,27 @@
       "date_published": "2026-08-09T19:43:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pozary-pustosza-Hiszpanie-Ogien-strawil-juz-ponad-8000-hektarow-9179864.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pozary-pustosza-Hiszpanie-Ogien-strawil-juz-ponad-8000-hektarow-9179864.html",
+      "title": "Pożary pustoszą Hiszpanię. Ogień strawił już ponad 8000 hektarów",
+      "content_html": "Pożar w Andaluzji na zachodzie kraju, który pokonał już osiem tysięcy hektarów, wciąż nie został całkowicie opanowany, ale prognozy są optymistyczne - przekazały w niedzielę hiszpańskie władze. W akcje gaśniczą zaangażowanych jest około...",
+      "date_published": "2026-08-09T18:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-i-Syria-zawarly-porozumienie-Zmieni-sie-status-rosyjskich-baz-wojskowych-9179861.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-i-Syria-zawarly-porozumienie-Zmieni-sie-status-rosyjskich-baz-wojskowych-9179861.html",
+      "title": "Rosja i Syria zawarły porozumienie. Zmieni się status rosyjskich baz wojskowych",
+      "content_html": "Doszliśmy do porozumienia z Rosją w sprawie przekształcenia jej obecności wojskowej w Syrii - przekazało w niedzielę syryjskie ministerstwo spraw zagranicznych. Bazy, które Rosja wykorzystywała przez lata do wspierania reżimu Asada, zostaną...",
+      "date_published": "2026-08-09T18:13:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-Pilnowanie-zyrandoli-jest-nie-dla-mnie-9179855.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-Pilnowanie-zyrandoli-jest-nie-dla-mnie-9179855.html",
+      "title": "Nawrocki: Pilnowanie żyrandoli jest nie dla mnie",
+      "content_html": "Pilnowanie żyrandoli jest nie dla mnie - powiedział w niedzielę podczas spotkania z mieszkańcami Skawiny (woj. małopolskie) prezydent Karol Nawrocki. Zapewnił, że podczas drugiego roku prezydentury będzie spotykał się z Polakami.",
+      "date_published": "2026-08-09T17:25:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tajemnicze-spotkanie-prezydenta-Iranu-z-Chameneim-Wladze-obiecuja-dowody-9179856.html",
       "url": "https://www.bankier.pl/wiadomosc/Tajemnicze-spotkanie-prezydenta-Iranu-z-Chameneim-Wladze-obiecuja-dowody-9179856.html",
       "title": "Tajemnicze spotkanie prezydenta Iranu z Chameneim. Władze obiecują dowody",
@@ -555,132 +674,6 @@
       "title": "Każdy stopień powyżej trzydziestki kosztuje miliony. Upały cichym zabójcą polskich firm?",
       "content_html": "Fale upałów nie są wyłącznie problemem pogodowym, ale stają się istotnym ryzykiem biznesowym. Wysokie temperatury mogą obniżać wydajność pracy i zwiększać koszty operacyjne, co ogranicza rentowność przedsiębiorstw i skłonność do inwestowania...",
       "date_published": "2026-08-09T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Urlop-raz-lub-dwa-razy-w-roku-to-za-malo-Jak-naprawde-odpoczywac-9179800.html",
-      "url": "https://www.bankier.pl/wiadomosc/Urlop-raz-lub-dwa-razy-w-roku-to-za-malo-Jak-naprawde-odpoczywac-9179800.html",
-      "title": "Urlop raz lub dwa razy w roku to za mało. Jak naprawdę odpoczywać?",
-      "content_html": "Urlop brany tradycyjnie, raz albo dwa razy do roku, to za mało dla prawidłowego funkcjonowania organizmu. Brak systematycznej regeneracji może prowadzić m.in. do wypalenia zawodowego - powiedziała PAP psycholożka z Uniwersytetu SWPS Aleksandra Penza...",
-      "date_published": "2026-08-09T08:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/1950-km-autostrad-w-Polsce-GDDKiA-zapowiada-kolejne-inwestycje-9179796.html",
-      "url": "https://www.bankier.pl/wiadomosc/1950-km-autostrad-w-Polsce-GDDKiA-zapowiada-kolejne-inwestycje-9179796.html",
-      "title": "1950 km autostrad w Polsce. GDDKiA zapowiada kolejne inwestycje",
-      "content_html": "Sieć autostrad w Polsce liczy obecnie 1950 km, a do osiągnięcia docelowej długości brakuje ok. 150 km – wynika z informacji przekazanej przez Generalną Dyrekcję Dróg Krajowych i Autostrad. W najbliższych latach powstaną kolejne odcinki A2...",
-      "date_published": "2026-08-09T08:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-oslabila-USA-Rosja-i-Chiny-moga-na-tym-skorzystac-9179784.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-z-Iranem-oslabila-USA-Rosja-i-Chiny-moga-na-tym-skorzystac-9179784.html",
-      "title": "Wojna z Iranem osłabiła USA. Rosja i Chiny mogą na tym skorzystać",
-      "content_html": "Wojna USA z Iranem poważnie uszczupliła amerykańskie zapasy zaawansowanego uzbrojenia osłabiając potencjał militarny w Europie i Azji. Odbudowa arsenałów może potrwać lata, co – zdaniem ekspertów – działa na korzyść Rosji i Chin –...",
-      "date_published": "2026-08-09T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jajka-polecialy-w-strone-premiera-Parlament-Kosowa-zawiesil-obrady-9179775.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jajka-polecialy-w-strone-premiera-Parlament-Kosowa-zawiesil-obrady-9179775.html",
-      "title": "Jajka poleciały w stronę premiera. Parlament Kosowa zawiesił obrady",
-      "content_html": "Premier Kosowa Albin Kurti został obrzucony jajkami przez posłankę opozycji Time Kadrijaj podczas sobotniej sesji plenarnej parlamentu - przekazała agencja AFP. Epizod ten zmusił parlament do zawieszenia sesji i zwiększył prawdopodobieństwo przeprowadzenia...",
-      "date_published": "2026-08-09T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jest-zgoda-Ukrainy-na-ekshumacje-Prace-obejma-Hute-Pieniacka-i-Ugly-9179762.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jest-zgoda-Ukrainy-na-ekshumacje-Prace-obejma-Hute-Pieniacka-i-Ugly-9179762.html",
-      "title": "Jest zgoda Ukrainy na ekshumacje. Prace obejmą Hutę Pieniacką i Ugły",
-      "content_html": "Ukraiński Instytut Pamięci Narodowej (UINP) poinformował w sobotę, że wydane zostały zgody na ekshumacje szczątków polskich ofiar w Hucie Pieniackiej w obwodzie lwowskim oraz na poszukiwania i ekshumacje w Ugłach na Wołyniu.",
-      "date_published": "2026-08-09T07:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyzszy-zwrot-akcyzy-dla-rolnikow-Czarnek-apeluje-o-2-zl-za-litr-9179722.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyzszy-zwrot-akcyzy-dla-rolnikow-Czarnek-apeluje-o-2-zl-za-litr-9179722.html",
-      "title": "Wyższy zwrot akcyzy dla rolników? Czarnek apeluje o 2 zł za litr",
-      "content_html": "Na nieopłacalność produkcji rolnej, spowodowaną wysokimi cenami paliwa, wskazywał po spotkaniu z rolnikami w gminie Grabica (Łódzkie) Przemysław Czarnek (PiS). Zaapelował o podniesienie wysokości zwrotu akcyzy na paliwo rolnicze do 2 zł/litr...",
-      "date_published": "2026-08-09T07:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-tylko-migranci-Ceuta-stala-sie-narzedziem-politycznej-presji-Maroka-9177853.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-tylko-migranci-Ceuta-stala-sie-narzedziem-politycznej-presji-Maroka-9177853.html",
-      "title": "Nie tylko migranci. Ceuta stała się narzędziem politycznej presji Maroka",
-      "content_html": "Ceuta, obok Melilli, jest głównymi punktem zapalnym w relacjach hiszpańsko-marokańskich, co pod koniec lipca doprowadziło do napływu 60 tys. migrantów. Madryt traktuje miasta jako suwerenne terytorium, Rabat jako ziemie okupowane, wykorzystując...",
-      "date_published": "2026-08-09T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-tylko-zasilki-i-emerytury-ZUS-oferuje-takze-bezplatna-rehabilitacje-9178005.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-tylko-zasilki-i-emerytury-ZUS-oferuje-takze-bezplatna-rehabilitacje-9178005.html",
-      "title": "Nie tylko zasiłki i emerytury. ZUS oferuje także bezpłatną rehabilitację",
-      "content_html": "W ciągu 30 lat z programu rehabilitacji leczniczej ZUS skorzystało prawie 1,8 mln osób - poinformował PAP Zakład Ubezpieczeń Społecznych. Na rehabilitację w ZUS kierowane są przede wszystkim osoby aktywne zawodowo, które z powodu stanu zdrowia...",
-      "date_published": "2026-08-09T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Taco-Bell-wraca-po-ponad-30-latach-AmRest-liczy-na-boom-w-Polsce-9178021.html",
-      "url": "https://www.bankier.pl/wiadomosc/Taco-Bell-wraca-po-ponad-30-latach-AmRest-liczy-na-boom-w-Polsce-9178021.html",
-      "title": "Taco Bell wraca po ponad 30 latach. AmRest liczy na boom w Polsce",
-      "content_html": "Polski sektor usług gastronomicznych w 2025 roku wzrósł o 4,7 proc. Przyczyniła się do tego m.in. kategoria restauracji szybkiej obsługi (QSR), która w ubiegłym roku zaliczyła wzrost o 5,7 proc. - pokazuje...",
-      "date_published": "2026-08-09T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-wola-wlasny-biznes-od-etatu-Dla-147-nowych-JDG-przypada-100-zamknietych-9178559.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-wola-wlasny-biznes-od-etatu-Dla-147-nowych-JDG-przypada-100-zamknietych-9178559.html",
-      "title": "Polacy wolą własny biznes od etatu? Dla 147 nowych JDG przypada 100 zamkniętych",
-      "content_html": "Większość, bo 39 proc. mikroprzedsiębiorców założyło firmę, ponieważ chciało się uniezależnić, a 33 proc. potrzebowało większej elastyczności czasu - wynika z badania KRD. Jak dodano, właściciele nowych firm częściej traktują swój...",
-      "date_published": "2026-08-09T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kawaleria-nie-nadciaga-Chiny-przygotowuja-sie-na-potezny-krach-finansowy-9178740.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kawaleria-nie-nadciaga-Chiny-przygotowuja-sie-na-potezny-krach-finansowy-9178740.html",
-      "title": "\"Kawaleria nie nadciąga\". Chiny przygotowują się na potężny krach finansowy",
-      "content_html": "Pekin przygotowuje się na nadejście kryzysu finansowego – ostrzegają eksperci. Państwo Środka stoi w obliczu poważnych problemów gospodarczych, jednak rynki nie powinny liczyć na potężne pakiety stymulacyjne. Zamiast tego chińskie władze...",
-      "date_published": "2026-08-09T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Potezne-pozary-lasow-w-Kanadzie-Stan-wyjatkowy-i-masowe-ewakuacje-9179785.html",
-      "url": "https://www.bankier.pl/wiadomosc/Potezne-pozary-lasow-w-Kanadzie-Stan-wyjatkowy-i-masowe-ewakuacje-9179785.html",
-      "title": "Potężne pożary lasów w Kanadzie. Stan wyjątkowy i masowe ewakuacje",
-      "content_html": "Premier kanadyjskiej prowincji Kolumbia Brytyjskia David Eby ogłosił w sobotę stan wyjątkowy w całej prowincji w związku z szybko rozszerzającymi się pożarami lasów. Prawie 22 tys. osób otrzymało już nakaz ewakuacji, a kolejnych prawie 10...",
-      "date_published": "2026-08-09T06:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kryzys-migracyjny-wokol-Ceuty-Maroko-zatrzymalo-co-najmniej-111-osob-9179779.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kryzys-migracyjny-wokol-Ceuty-Maroko-zatrzymalo-co-najmniej-111-osob-9179779.html",
-      "title": "Kryzys migracyjny wokół Ceuty. Maroko zatrzymało co najmniej 111 osób",
-      "content_html": "Służby bezpieczeństwa Maroka zatrzymały do sobotniego wieczora co najmniej 111 osób, które miały związek z kryzysem migracyjnym w Ceucie, hiszpańskiej eksklawie w Afryce Północnej, do której pod koniec lipca przedostały się tysiące afrykańskich...",
-      "date_published": "2026-08-09T05:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sedzia-skazana-przez-rezim-Chaveza-odzyskala-pelnie-praw-Sprawa-trwala-17-lat-9179778.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sedzia-skazana-przez-rezim-Chaveza-odzyskala-pelnie-praw-Sprawa-trwala-17-lat-9179778.html",
-      "title": "Sędzia skazana przez reżim Chaveza odzyskała pełnię praw. Sprawa trwała 17 lat",
-      "content_html": "Była sędzia Maria Afiuni została oczyszczona przez wymiar sprawiedliwości Wenezueli po blisko 17 latach prześladowań, w tym m.in. uwięzienia, do którego doszło z inicjatywy b. prezydenta tego kraju Hugo Chaveza. Została oskarżona przez reżim...",
-      "date_published": "2026-08-09T04:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Turcja-Arabia-Saudyjska-i-Pakistan-z-nowym-paktem-obronnym-Jak-NATO-9179771.html",
-      "url": "https://www.bankier.pl/wiadomosc/Turcja-Arabia-Saudyjska-i-Pakistan-z-nowym-paktem-obronnym-Jak-NATO-9179771.html",
-      "title": "Turcja, Arabia Saudyjska i Pakistan z nowym paktem obronnym. Jak NATO",
-      "content_html": "Szef tureckiego MSZ Hakan Fidan powiedział w sobotę, że pakt obronny między Arabią Saudyjską, Pakistanem i Turcją jest „technicznie taki sam”, jak art. 5 traktatu NATO. Zgodnie z nim atak na jedno z państw członkowskich traktuje się, jako...",
-      "date_published": "2026-08-08T22:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Libia-szybko-usunela-awarie-Wznowiono-przesyl-ropy-waznym-rurociagiem-9179764.html",
-      "url": "https://www.bankier.pl/wiadomosc/Libia-szybko-usunela-awarie-Wznowiono-przesyl-ropy-waznym-rurociagiem-9179764.html",
-      "title": "Libia szybko usunęła awarię. Wznowiono przesył ropy ważnym rurociągiem",
-      "content_html": "Libijska firma Waha Oil Company poinformowała w sobotę, że w ciągu 24 godzin od wykrycia faktu, zlokalizowała źródło wycieku ropy naftowej w rurociągu Zaqout-Sidra. Reuters podkreślił, że to instalacja istotna zarówno dla krajowej gospodarki...",
-      "date_published": "2026-08-08T22:07:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wspolpraca-FBI-z-Chinami-i-Rosja-budzi-niepokoj-wywiadu-To-nasi-wrogowie-kropka-9178466.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wspolpraca-FBI-z-Chinami-i-Rosja-budzi-niepokoj-wywiadu-To-nasi-wrogowie-kropka-9178466.html",
-      "title": "Współpraca FBI z Chinami i Rosją budzi niepokój wywiadu. „To nasi wrogowie, kropka”",
-      "content_html": "Dyrektor FBI Kash Patel poinformował, że w ciągu ostatniego roku nawiązał nowe formy współpracy ze służbami Chin i Rosji - podał Reuters. Inicjatywa wzbudziła obawy o ryzyko dotyczące dzielenia się wrażliwymi informacjami z państwami, które...",
-      "date_published": "2026-08-08T21:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-chca-uniknac-shutdownu-przed-wyborami-Senat-przyjal-kluczowa-ustawe-9179757.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-chca-uniknac-shutdownu-przed-wyborami-Senat-przyjal-kluczowa-ustawe-9179757.html",
-      "title": "USA chcą uniknąć shutdownu przed wyborami. Senat przyjął kluczową ustawę",
-      "content_html": "Senat USA przyjął w sobotę ponadpartyjną ustawę o tymczasowym finansowaniu instytucji federalnych do 11 grudnia. Jej uchwalenie ma zapobiec kolejnemu paraliżowi administracji przed listopadowymi wyborami do Kongresu. Ustawa musi jeszcze zostać...",
-      "date_published": "2026-08-08T20:52:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
