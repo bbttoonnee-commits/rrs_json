@@ -8,42 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Tue, 11 Aug 2026 12:03:00 +0200</lastBuildDate>
-    <item>
-      <title>Pasażerowie czekają na peronach. Wyraźny spadek punktualności polskich pociągów</title>
-      <link>https://www.bankier.pl/wiadomosc/Pasazerowie-czekaja-na-peronach-Wyrazny-spadek-punktualnosci-polskich-pociagow-9180104.html</link>
-      <description>W II kwartale 2026 r. wskaźnik punktualności pociągów pasażerskich wyniósł 89,3 proc. wobec 93,3 proc. w analogicznym okresie 2025 r. - podał Urząd Transportu Kolejowego. Punktualność spadła również w przewozach towarowych.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pasazerowie-czekaja-na-peronach-Wyrazny-spadek-punktualnosci-polskich-pociagow-9180104.html</guid>
-      <pubDate>Mon, 10 Aug 2026 13:36:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>"Bezpieczeństwo to nie towar od USA". Iran reaguje na nowy sojusz obronny w regionie</title>
-      <link>https://www.bankier.pl/wiadomosc/Bezpieczenstwo-to-nie-towar-od-USA-Iran-reaguje-na-nowy-sojusz-obronny-w-regionie-9180108.html</link>
-      <description>Rzecznik MSZ Iranu Esmail Baghei oświadczył w poniedziałek, że sojusz obronny zawarty w ubiegłym tygodniu przez Turcję, Pakistan i Arabię Saudyjską świadczy o zmianie postrzegania USA przez państwa regionu, natomiast nie jest powodem do niepokoju...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Bezpieczenstwo-to-nie-towar-od-USA-Iran-reaguje-na-nowy-sojusz-obronny-w-regionie-9180108.html</guid>
-      <pubDate>Mon, 10 Aug 2026 13:40:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Atak na ZUS odparty. Serwisy internetowe i platforma znów działają</title>
-      <link>https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html</link>
-      <description>Zakończyły się utrudnienia z funkcjonowaniem strony zus.pl oraz platformy PUE/eZUS w związku z atakiem wolumetrycznym DDoS, do którego doszło w poniedziałek przed południem - poinformował PAP rzecznik Zakładu Ubezpieczeń Społecznych Karol...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html</guid>
-      <pubDate>Mon, 10 Aug 2026 13:49:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Rząd szykuje się na kryzysy. Powstanie nowa lista firm o krytycznym znaczeniu</title>
-      <link>https://www.bankier.pl/wiadomosc/Rzad-szykuje-sie-na-kryzysy-Powstanie-nowa-lista-firm-o-krytycznym-znaczeniu-9180115.html</link>
-      <description>Minister właściwy ds. gospodarki ma prowadzić listę podmiotów gospodarczych działających w łańcuchach dostaw towarów i usług o krytycznym znaczeniu, na wypadek sytuacji kryzysowych - wynika z projektu ustawy, opublikowanego w poniedziałek...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rzad-szykuje-sie-na-kryzysy-Powstanie-nowa-lista-firm-o-krytycznym-znaczeniu-9180115.html</guid>
-      <pubDate>Mon, 10 Aug 2026 13:54:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Koniec ścigania długów sprzed 1999 roku? Rząd zajmie się przełomową ustawą</title>
-      <link>https://www.bankier.pl/wiadomosc/Koniec-scigania-dlugow-sprzed-1999-roku-Rzad-zajmie-sie-przelomowa-ustawa-9180117.html</link>
-      <description>Umorzenie należności dochodzonych przez ZUS powstałych przed 1 stycznia 1999 r., których spłata nie została zabezpieczona hipoteką - zakłada projekt ustawy, którym we wtorek ma zająć się Rada Ministrów. Kwota zadłużenia szacowana jest na...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Koniec-scigania-dlugow-sprzed-1999-roku-Rzad-zajmie-sie-przelomowa-ustawa-9180117.html</guid>
-      <pubDate>Mon, 10 Aug 2026 13:57:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Tue, 11 Aug 2026 13:00:00 +0200</lastBuildDate>
     <item>
       <title>Pompy insulinowe będą refundowane także po 26. roku życia? Jest projekt MZ</title>
       <link>https://www.bankier.pl/wiadomosc/Pompy-insulinowe-beda-refundowane-takze-po-26-roku-zycia-Jest-projekt-MZ-9180120.html</link>
@@ -465,6 +430,13 @@
       <pubDate>Tue, 11 Aug 2026 07:00:00 +0200</pubDate>
     </item>
     <item>
+      <title>Bastion warszawskiej giełdy. Co chroni Twoje akcje przed awarią, hakerami i chaosem?</title>
+      <link>https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-rynku-kapitalowego-Jak-KDPW-ja-chroni-9055901.html</link>
+      <description>Kiedy klikasz "kup" w aplikacji maklerskiej, na ekranie smartfona pojawia się komunikat, a w portfelu przybywa nowa spółka. Dla inwestora wychowanego na tradycyjnym pojęciu własności rodzi to jednak powracające pytanie: co tak naprawdę trzymam...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-rynku-kapitalowego-Jak-KDPW-ja-chroni-9055901.html</guid>
+      <pubDate>Tue, 11 Aug 2026 07:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Polityka migracyjna Trumpa zbiera żniwo. USA odebrały ponad 175 tys. wiz</title>
       <link>https://www.bankier.pl/wiadomosc/Polityka-migracyjna-Trumpa-zbiera-zniwo-USA-odebraly-ponad-175-tys-wiz-9180372.html</link>
       <description>Za prezydentury Donalda Trumpa w USA cofnięto ponad 175 tys. wiz cudzoziemcom, którzy m.in. złamali warunki wizowe, popełnili przestępstwa, wzywali do przemocy wobec obywateli USA czy stanowili zagrożenie dla bezpieczeństwa narodowego - poinformował...</description>
@@ -591,13 +563,6 @@
       <pubDate>Tue, 11 Aug 2026 09:38:00 +0200</pubDate>
     </item>
     <item>
-      <title>Toaleta nie tylko dla personelu. Te zmiany ułatwią życie rodzicom i seniorom</title>
-      <link>https://www.bankier.pl/wiadomosc/Toaleta-juz-nie-tylko-dla-personelu-Sklepy-otworza-lazienki-dla-klientow-9180474.html</link>
-      <description>Sklepy mierzą się z rosnącą krytyką ze strony klientów. Choć punkty wielkopowierzchniowe posiadają zaplecze sanitarne, dostęp do niego bywa ograniczany wyłącznie do personelu. Sygnały niezadowolenia dotarły do Ministerstwa Rozwoju i Technologii...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Toaleta-juz-nie-tylko-dla-personelu-Sklepy-otworza-lazienki-dla-klientow-9180474.html</guid>
-      <pubDate>Tue, 11 Aug 2026 09:40:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Polska powalczy o kolejne miliardy z SAFE. Będzie „dogrywka” ws. niewykorzystanych środków</title>
       <link>https://www.bankier.pl/wiadomosc/Polska-powalczy-o-kolejne-miliardy-z-SAFE-Bedzie-dogrywka-ws-niewykorzystanych-srodkow-9180486.html</link>
       <description>Rząd będzie prowadził dodatkowe negocjacje z Komisją Europejską w sprawie dotąd niewykorzystanych funduszy z programu SAFE - poinformował wiceszef MON Paweł Zalewski. Nie wszystkie kraje są tak skuteczne w wydawaniu tych środków i okazuje się...</description>
@@ -708,6 +673,34 @@
       <description>Przy braku nowych impulsów kurs euro utrzymał się na poziomie 4,30 zł, balansując na kluczowej linii wsparcia. Za to notowania franka szwajcarskiego spadły poniżej 4,60 zł.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Euro-nie-tanieje-Notowania-franka-szwajcarskiego-spadly-ponizej-4-60-zl-9180582.html</guid>
       <pubDate>Tue, 11 Aug 2026 12:03:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Zmasowany rajd ukraińskich dronów. Płonie rafineria w Orsku i 43 obiekty na Krymie</title>
+      <link>https://www.bankier.pl/wiadomosc/Zmasowany-rajd-ukrainskich-dronow-Plonie-rafineria-w-Orsku-i-43-obiekty-na-Krymie-9180597.html</link>
+      <description>Siły Systemów Bezzałogowych (SBS) Ukrainy zaatakowały centrum logistyczne rosyjskiej platformy handlowej Wildberries w Woroneżu, rafinerię w Orsku, obiekty wojskowe na okupowanym Krymie oraz statek rosyjskiej floty cieni na Morzu Czarnym – poinformował...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Zmasowany-rajd-ukrainskich-dronow-Plonie-rafineria-w-Orsku-i-43-obiekty-na-Krymie-9180597.html</guid>
+      <pubDate>Tue, 11 Aug 2026 12:30:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wielki marsz chińskich marek. Co dziesiąty nowy samochód pochodzi zza Wielkiego Muru</title>
+      <link>https://www.bankier.pl/wiadomosc/Wielki-marsz-chinskich-marek-Co-dziesiaty-nowy-samochod-pochodzi-zza-Wielkiego-Muru-9180614.html</link>
+      <description>Pierwsze półrocze 2026 r. przyniosło dalszy wzrost znaczenia chińskich producentów samochodów, co pokazuje, że ich obecność na polskim rynku przestaje być jedynie krótkoterminowym trendem - wskazali autorzy raportu KPMG i PZPM. Udział chińskich...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielki-marsz-chinskich-marek-Co-dziesiaty-nowy-samochod-pochodzi-zza-Wielkiego-Muru-9180614.html</guid>
+      <pubDate>Tue, 11 Aug 2026 12:48:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Miliardowy kontrakt na polską amunicję. CSG i Dezamet z historycznym porozumieniem</title>
+      <link>https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html</link>
+      <description>Czechoslovak Group (CSG) i Zakłady Metalowe Dezamet, spółka zależna Polskiej Grupy Zbrojeniowej (PZG), podpisały umowę o wartości ponad 100 mln euro na dostawy komponentów do produkcji amunicji artyleryjskiej kal. 155 mm - podało CSG w komunikacie...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html</guid>
+      <pubDate>Tue, 11 Aug 2026 12:56:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>14,4 tys. zł za metr. NBP podał najnowsze ceny mieszkań w Polsce</title>
+      <link>https://www.bankier.pl/wiadomosc/14-4-tys-zl-za-metr-NBP-podal-najnowsze-ceny-mieszkan-w-Polsce-9180590.html</link>
+      <description>Ceny transakcyjne na 7 największych rynkach nieruchomości w Polsce w II kwartale wzrosły rdr o 0,6 proc. na rynku pierwotnym - podał NBP.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/14-4-tys-zl-za-metr-NBP-podal-najnowsze-ceny-mieszkan-w-Polsce-9180590.html</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/14-4-tys-zl-za-metr-NBP-podal-najnowsze-ceny-mieszkan-w-Polsce-9180590.html",
+      "url": "https://www.bankier.pl/wiadomosc/14-4-tys-zl-za-metr-NBP-podal-najnowsze-ceny-mieszkan-w-Polsce-9180590.html",
+      "title": "14,4 tys. zł za metr. NBP podał najnowsze ceny mieszkań w Polsce",
+      "content_html": "Ceny transakcyjne na 7 największych rynkach nieruchomości w Polsce w II kwartale wzrosły rdr o 0,6 proc. na rynku pierwotnym - podał NBP.",
+      "date_published": "2026-08-11T13:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html",
+      "title": "Miliardowy kontrakt na polską amunicję. CSG i Dezamet z historycznym porozumieniem",
+      "content_html": "Czechoslovak Group (CSG) i Zakłady Metalowe Dezamet, spółka zależna Polskiej Grupy Zbrojeniowej (PZG), podpisały umowę o wartości ponad 100 mln euro na dostawy komponentów do produkcji amunicji artyleryjskiej kal. 155 mm - podało CSG w komunikacie...",
+      "date_published": "2026-08-11T12:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-marsz-chinskich-marek-Co-dziesiaty-nowy-samochod-pochodzi-zza-Wielkiego-Muru-9180614.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-marsz-chinskich-marek-Co-dziesiaty-nowy-samochod-pochodzi-zza-Wielkiego-Muru-9180614.html",
+      "title": "Wielki marsz chińskich marek. Co dziesiąty nowy samochód pochodzi zza Wielkiego Muru",
+      "content_html": "Pierwsze półrocze 2026 r. przyniosło dalszy wzrost znaczenia chińskich producentów samochodów, co pokazuje, że ich obecność na polskim rynku przestaje być jedynie krótkoterminowym trendem - wskazali autorzy raportu KPMG i PZPM. Udział chińskich...",
+      "date_published": "2026-08-11T12:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zmasowany-rajd-ukrainskich-dronow-Plonie-rafineria-w-Orsku-i-43-obiekty-na-Krymie-9180597.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-rajd-ukrainskich-dronow-Plonie-rafineria-w-Orsku-i-43-obiekty-na-Krymie-9180597.html",
+      "title": "Zmasowany rajd ukraińskich dronów. Płonie rafineria w Orsku i 43 obiekty na Krymie",
+      "content_html": "Siły Systemów Bezzałogowych (SBS) Ukrainy zaatakowały centrum logistyczne rosyjskiej platformy handlowej Wildberries w Woroneżu, rafinerię w Orsku, obiekty wojskowe na okupowanym Krymie oraz statek rosyjskiej floty cieni na Morzu Czarnym – poinformował...",
+      "date_published": "2026-08-11T12:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Euro-nie-tanieje-Notowania-franka-szwajcarskiego-spadly-ponizej-4-60-zl-9180582.html",
       "url": "https://www.bankier.pl/wiadomosc/Euro-nie-tanieje-Notowania-franka-szwajcarskiego-spadly-ponizej-4-60-zl-9180582.html",
       "title": "Euro nie tanieje. Notowania franka szwajcarskiego spadły poniżej 4,60 zł",
@@ -114,13 +142,6 @@
       "title": "Polska powalczy o kolejne miliardy z SAFE. Będzie „dogrywka” ws. niewykorzystanych środków",
       "content_html": "Rząd będzie prowadził dodatkowe negocjacje z Komisją Europejską w sprawie dotąd niewykorzystanych funduszy z programu SAFE - poinformował wiceszef MON Paweł Zalewski. Nie wszystkie kraje są tak skuteczne w wydawaniu tych środków i okazuje się...",
       "date_published": "2026-08-11T09:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Toaleta-juz-nie-tylko-dla-personelu-Sklepy-otworza-lazienki-dla-klientow-9180474.html",
-      "url": "https://www.bankier.pl/wiadomosc/Toaleta-juz-nie-tylko-dla-personelu-Sklepy-otworza-lazienki-dla-klientow-9180474.html",
-      "title": "Toaleta nie tylko dla personelu. Te zmiany ułatwią życie rodzicom i seniorom",
-      "content_html": "Sklepy mierzą się z rosnącą krytyką ze strony klientów. Choć punkty wielkopowierzchniowe posiadają zaplecze sanitarne, dostęp do niego bywa ograniczany wyłącznie do personelu. Sygnały niezadowolenia dotarły do Ministerstwa Rozwoju i Technologii...",
-      "date_published": "2026-08-11T09:40:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Od-JSW-wymagana-gleboka-restrukturyzacja-spolka-powinna-pozyskac-finansowanie-komercyjne-Balczun-MAP-9180483.html",
@@ -247,6 +268,13 @@
       "title": "Polityka migracyjna Trumpa zbiera żniwo. USA odebrały ponad 175 tys. wiz",
       "content_html": "Za prezydentury Donalda Trumpa w USA cofnięto ponad 175 tys. wiz cudzoziemcom, którzy m.in. złamali warunki wizowe, popełnili przestępstwa, wzywali do przemocy wobec obywateli USA czy stanowili zagrożenie dla bezpieczeństwa narodowego - poinformował...",
       "date_published": "2026-08-11T08:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-rynku-kapitalowego-Jak-KDPW-ja-chroni-9055901.html",
+      "url": "https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-rynku-kapitalowego-Jak-KDPW-ja-chroni-9055901.html",
+      "title": "Bastion warszawskiej giełdy. Co chroni Twoje akcje przed awarią, hakerami i chaosem?",
+      "content_html": "Kiedy klikasz \"kup\" w aplikacji maklerskiej, na ekranie smartfona pojawia się komunikat, a w portfelu przybywa nowa spółka. Dla inwestora wychowanego na tradycyjnym pojęciu własności rodzi to jednak powracające pytanie: co tak naprawdę trzymam...",
+      "date_published": "2026-08-11T07:00:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Udowodnij-ze-nie-jestes-robotem-i-uruchom-wirusa-Nowy-scam-9180045.html",
@@ -667,41 +695,6 @@
       "title": "Pompy insulinowe będą refundowane także po 26. roku życia? Jest projekt MZ",
       "content_html": "Refundowaną pompę insulinową będą mogli mieć pacjenci z cukrzycą bez względu na wiek, teraz refundacja dotyczy tylko osób do 26. roku życia. Ministerstwo Zdrowia skierowało do konsultacji projekt rozporządzenia w tej sprawie.",
       "date_published": "2026-08-10T13:59:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-scigania-dlugow-sprzed-1999-roku-Rzad-zajmie-sie-przelomowa-ustawa-9180117.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-scigania-dlugow-sprzed-1999-roku-Rzad-zajmie-sie-przelomowa-ustawa-9180117.html",
-      "title": "Koniec ścigania długów sprzed 1999 roku? Rząd zajmie się przełomową ustawą",
-      "content_html": "Umorzenie należności dochodzonych przez ZUS powstałych przed 1 stycznia 1999 r., których spłata nie została zabezpieczona hipoteką - zakłada projekt ustawy, którym we wtorek ma zająć się Rada Ministrów. Kwota zadłużenia szacowana jest na...",
-      "date_published": "2026-08-10T13:57:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-sie-na-kryzysy-Powstanie-nowa-lista-firm-o-krytycznym-znaczeniu-9180115.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-sie-na-kryzysy-Powstanie-nowa-lista-firm-o-krytycznym-znaczeniu-9180115.html",
-      "title": "Rząd szykuje się na kryzysy. Powstanie nowa lista firm o krytycznym znaczeniu",
-      "content_html": "Minister właściwy ds. gospodarki ma prowadzić listę podmiotów gospodarczych działających w łańcuchach dostaw towarów i usług o krytycznym znaczeniu, na wypadek sytuacji kryzysowych - wynika z projektu ustawy, opublikowanego w poniedziałek...",
-      "date_published": "2026-08-10T13:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-paralizuje-e-uslugi-ZUS-Sluzby-IT-walcza-z-przeciazeniem-serwerow-9180078.html",
-      "title": "Atak na ZUS odparty. Serwisy internetowe i platforma znów działają",
-      "content_html": "Zakończyły się utrudnienia z funkcjonowaniem strony zus.pl oraz platformy PUE/eZUS w związku z atakiem wolumetrycznym DDoS, do którego doszło w poniedziałek przed południem - poinformował PAP rzecznik Zakładu Ubezpieczeń Społecznych Karol...",
-      "date_published": "2026-08-10T13:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-to-nie-towar-od-USA-Iran-reaguje-na-nowy-sojusz-obronny-w-regionie-9180108.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bezpieczenstwo-to-nie-towar-od-USA-Iran-reaguje-na-nowy-sojusz-obronny-w-regionie-9180108.html",
-      "title": "\"Bezpieczeństwo to nie towar od USA\". Iran reaguje na nowy sojusz obronny w regionie",
-      "content_html": "Rzecznik MSZ Iranu Esmail Baghei oświadczył w poniedziałek, że sojusz obronny zawarty w ubiegłym tygodniu przez Turcję, Pakistan i Arabię Saudyjską świadczy o zmianie postrzegania USA przez państwa regionu, natomiast nie jest powodem do niepokoju...",
-      "date_published": "2026-08-10T13:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pasazerowie-czekaja-na-peronach-Wyrazny-spadek-punktualnosci-polskich-pociagow-9180104.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pasazerowie-czekaja-na-peronach-Wyrazny-spadek-punktualnosci-polskich-pociagow-9180104.html",
-      "title": "Pasażerowie czekają na peronach. Wyraźny spadek punktualności polskich pociągów",
-      "content_html": "W II kwartale 2026 r. wskaźnik punktualności pociągów pasażerskich wyniósł 89,3 proc. wobec 93,3 proc. w analogicznym okresie 2025 r. - podał Urząd Transportu Kolejowego. Punktualność spadła również w przewozach towarowych.",
-      "date_published": "2026-08-10T13:36:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

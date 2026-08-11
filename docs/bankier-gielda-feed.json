@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html",
+      "title": "Miliardowy kontrakt na polską amunicję. CSG i Dezamet z historycznym porozumieniem Czechoslovak Group (CSG) i Zakłady Metalowe Dezamet, spółka zależna Polskiej Grupy Zbrojeniowej (PZG), podpisały umowę o wartości ponad 100 mln euro na dostawy komponentów do produkcji amunicji artyleryjskiej kal. 155 mm - podało CSG w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-08-11T11:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-marsz-chinskich-marek-Co-dziesiaty-nowy-samochod-pochodzi-zza-Wielkiego-Muru-9180614.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-marsz-chinskich-marek-Co-dziesiaty-nowy-samochod-pochodzi-zza-Wielkiego-Muru-9180614.html",
+      "title": "Wielki marsz chińskich marek. Co dziesiąty nowy samochód pochodzi zza Wielkiego Muru Pierwsze półrocze 2026 r. przyniosło dalszy wzrost znaczenia chińskich producentów samochodów, co pokazuje, że ich obecność na polskim rynku przestaje być jedynie krótkoterminowym trendem - wskazali autorzy raportu KPMG i PZPM. Udział chińskich marek w rejestracjach wzrósł z 5,82 proc. w I połowie 2025 r. do 12,69 proc. w I połowie 2026 r.",
+      "content_html": "",
+      "date_published": "2026-08-11T11:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gaz-System-zakonczyl-jeden-z-najbardziej-wymagajacych-etapow-budowy-morskiej-czesci-FSRU-9180561.html",
       "url": "https://www.bankier.pl/wiadomosc/Gaz-System-zakonczyl-jeden-z-najbardziej-wymagajacych-etapow-budowy-morskiej-czesci-FSRU-9180561.html",
       "title": "Mila pod ziemią i miesiąc przed czasem. Pływający terminal LNG coraz bliżej Gaz-System zakończył drążenie ponad kilometrowego mikrotunelu dla gazociągu podmorskiego, co jest jednym z najbardziej wymagających technologicznie etapów budowy morskiej części pływającego terminala LNG w Zatoce Gdańskiej (FSRU) - poinformował we wtorek operator. Dodał, że realizacja wszystkich elementów morskiej części inwestycji zakończy się w przyszłym roku.",
@@ -77,6 +91,13 @@
       "id": "https://www.bankier.pl/wiadomosc/Strach-przy-spadkach-euforia-przy-wzrostach-Tak-inwestorzy-wpadaja-w-pulapke-emocji-9180376.html",
       "url": "https://www.bankier.pl/wiadomosc/Strach-przy-spadkach-euforia-przy-wzrostach-Tak-inwestorzy-wpadaja-w-pulapke-emocji-9180376.html",
       "title": "Strach przy spadkach, euforia przy wzrostach. Tak inwestorzy wpadają w pułapkę emocji Duża zmienność, lawina informacji i emocjonalne reakcje inwestorów – tak w ostatnich miesiącach wyglądają rynki kapitałowe. Czy mamy do czynienia z nową rzeczywistością, czy raczej z kolejną odsłoną dobrze znanego cyklu rynkowego? Sebastian Zadora z Domu Maklerskiego BOŚ wskazuje, skąd bierze się obecny chaos i wyjaśnia, dlaczego w trudnych momentach kluczowe znaczenie ma plan, cierpliwość i umiejętność panowania nad emocjami.",
+      "content_html": "",
+      "date_published": "2026-08-11T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-rynku-kapitalowego-Jak-KDPW-ja-chroni-9055901.html",
+      "url": "https://www.bankier.pl/wiadomosc/Infrastruktura-krytyczna-rynku-kapitalowego-Jak-KDPW-ja-chroni-9055901.html",
+      "title": "Bastion warszawskiej giełdy. Co chroni Twoje akcje przed awarią, hakerami i chaosem? Kiedy klikasz \"kup\" w aplikacji maklerskiej, na ekranie smartfona pojawia się komunikat, a w portfelu przybywa nowa spółka. Dla inwestora wychowanego na tradycyjnym pojęciu własności rodzi to jednak powracające pytanie: co tak naprawdę trzymam w ręku? W erze, gdy papiery wartościowe są wyłącznie cyfrowym zapisem w bazach danych, granica pomiędzy tym co cyfrowe, a realnym majątkiem musi mieć odpowiednią ochronę, o której piszemy w tym tekście.",
       "content_html": "",
       "date_published": "2026-08-11T06:00:00+02:00"
     },
@@ -263,16 +284,16 @@
       "date_published": "2026-08-10T07:48:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
-      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
-      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same serwery. Odsłaniamy kulisy działania KDPW_CCP - instytucjonalnego \"bezpiecznika\", który chroni warszawski parkiet.",
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
       "content_html": "",
       "date_published": "2026-08-10T06:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
-      "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
+      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same serwery. Odsłaniamy kulisy działania KDPW_CCP - instytucjonalnego \"bezpiecznika\", który chroni warszawski parkiet.",
       "content_html": "",
       "date_published": "2026-08-10T06:00:00+02:00"
     },
@@ -282,13 +303,6 @@
       "title": "RAPORT Miliony Polaków uciekną z lokat i założą OKI? \"Aktywa przekroczą 100 miliardów złotych\" W ciągu pierwszych trzech lat OKI, czyli osobiste konto inwestycyjne, może założyć 2,1 mln klientów – wynika z raportu BM PKO. W tym czasie wartość aktywów OKI może urosnąć do ponad 100 mld zł.",
       "content_html": "",
       "date_published": "2026-08-09T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-zaskakuje-wynikami-86-proc-spolek-z-S-P-500-przebilo-prognozy-9179824.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-zaskakuje-wynikami-86-proc-spolek-z-S-P-500-przebilo-prognozy-9179824.html",
-      "title": "Wall Street zaskakuje wynikami. 86 proc. spółek z S&P 500 przebiło prognozy W obecnym, późnym etapie sezonu wyników finansowych za drugi kwartał w USA spółki z indeksu S&P 500 raportują imponujące wyniki, nawet jeśli pominąć niezwykle wysokie niespodzianki w zakresie zysku na akcję (EPS) zgłoszone przez Alphabet i Amazon.com - piszą eksperci FaceSet.",
-      "content_html": "",
-      "date_published": "2026-08-09T12:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
