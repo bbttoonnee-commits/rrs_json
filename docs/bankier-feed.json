@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-ciagu-kilku-dni-decyzja-o-ewentualnym-obnizeniu-VAT-na-paliwa-Domanski-9180943.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-ciagu-kilku-dni-decyzja-o-ewentualnym-obnizeniu-VAT-na-paliwa-Domanski-9180943.html",
+      "title": "W ciągu kilku dni decyzja o ewentualnym obniżeniu VAT na paliwa - Domański",
+      "content_html": "Decyzja o ewentualnym obniżeniu podatku VAT na paliwa zapadnie w ciągu kilku dni - poinformował we wtorek minister finansów i gospodarki Andrzej Domański. Wskazał na ograniczenia budżetu wynikające ze skierowania przez prezydenta ustawy o podatku...",
+      "date_published": "2026-08-11T23:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-rozwaza-obnizke-VAT-na-paliwa-Musimy-zostawic-sobie-kilka-dni-9180919.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-rozwaza-obnizke-VAT-na-paliwa-Musimy-zostawic-sobie-kilka-dni-9180919.html",
       "title": "Rząd rozważa obniżkę VAT na paliwa. \"Musimy zostawić sobie kilka dni\"",
@@ -695,13 +702,6 @@
       "title": "Orban w FIFA albo ONZ? Były premier Węgier szuka sobie zajęcia",
       "content_html": "Były premier Węgier Viktor Orban omawiał możliwość objęcia funkcji w FIFA podczas pobytu na mistrzostwach świata w USA - napisał w poniedziałek na platformie X węgierski dziennikarz śledczy Szabolcs Panyi. Dodał, że Orban może też ubiegać...",
       "date_published": "2026-08-10T19:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaoral-200-metrow-asfaltu-Straty-siegaja-400-tys-zl-rolnik-trafil-do-aresztu-9180325.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaoral-200-metrow-asfaltu-Straty-siegaja-400-tys-zl-rolnik-trafil-do-aresztu-9180325.html",
-      "title": "Zaorał 200 metrów asfaltu. Straty sięgają 400 tys. zł, rolnik trafił do aresztu",
-      "content_html": "Sąd zgodził się na aresztowanie rolnika, który zaorał asfalt na ul. Rybackiej w Ostropie, ze względu na zagrożenie surową karą i możliwość podejmowania prób jej uniknięcia – poinformował w poniedziałek Sąd Okręgowy w Gliwicach. Mężczyźnie...",
-      "date_published": "2026-08-10T18:55:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
