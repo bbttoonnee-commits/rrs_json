@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Warszawa-przedluzyla-spolce-zaleznej-Agory-umowe-koncesji-na-wiaty-przystankowe-o-6-miesiecy-9180763.html",
+      "url": "https://www.bankier.pl/wiadomosc/Warszawa-przedluzyla-spolce-zaleznej-Agory-umowe-koncesji-na-wiaty-przystankowe-o-6-miesiecy-9180763.html",
+      "title": "Warszawa przedłuża koncesję dla spółki zależnej Agory. Chodzi o wiaty przystankowe AMS Serwis, spółka zależna Agory, otrzymała od Miasta Stołecznego Warszawa oświadczenie o skorzystaniu z prawa opcji polegającego na przedłużeniu o sześć miesięcy umowy koncesji na utrzymanie wiat przystankowych oraz wyposażenia dodatkowego w stolicy - podała Agora w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-11T15:54:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-18-85-mln-zl-netto-9180679.html",
       "url": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-18-85-mln-zl-netto-9180679.html",
       "title": "Elektrotim ma umowę z Tauron Dystrybucja za 18,85 mln zł netto Elektrotim zawarł umowę z Tauron Dystrybucja za 18,85 mln zł netto na zaprojektowanie i wybudowanie dwóch linii kablowych 110kV od linii S-420 do stacji 110/20/6kV Kalinówka - podał Elektrotim w komunikacie.",
@@ -291,16 +298,16 @@
       "date_published": "2026-08-10T07:48:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
-      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
-      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same serwery. Odsłaniamy kulisy działania KDPW_CCP - instytucjonalnego \"bezpiecznika\", który chroni warszawski parkiet.",
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
       "content_html": "",
       "date_published": "2026-08-10T06:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
-      "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
+      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same serwery. Odsłaniamy kulisy działania KDPW_CCP - instytucjonalnego \"bezpiecznika\", który chroni warszawski parkiet.",
       "content_html": "",
       "date_published": "2026-08-10T06:00:00+02:00"
     }
