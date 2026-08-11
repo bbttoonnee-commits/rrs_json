@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-18-85-mln-zl-netto-9180679.html",
+      "url": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-z-Tauron-Dystrybucja-za-18-85-mln-zl-netto-9180679.html",
+      "title": "Elektrotim ma umowę z Tauron Dystrybucja za 18,85 mln zł netto Elektrotim zawarł umowę z Tauron Dystrybucja za 18,85 mln zł netto na zaprojektowanie i wybudowanie dwóch linii kablowych 110kV od linii S-420 do stacji 110/20/6kV Kalinówka - podał Elektrotim w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-11T13:22:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html",
       "url": "https://www.bankier.pl/wiadomosc/Miliardowy-kontrakt-na-polska-amunicje-CSG-i-Dezamet-z-historycznym-porozumieniem-9180620.html",
       "title": "Miliardowy kontrakt na polską amunicję. CSG i Dezamet z historycznym porozumieniem Czechoslovak Group (CSG) i Zakłady Metalowe Dezamet, spółka zależna Polskiej Grupy Zbrojeniowej (PZG), podpisały umowę o wartości ponad 100 mln euro na dostawy komponentów do produkcji amunicji artyleryjskiej kal. 155 mm - podało CSG w komunikacie prasowym.",
@@ -228,16 +235,16 @@
       "date_published": "2026-08-10T11:10:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nowe-porzadki-w-spolce-legendy-Abel-otwiera-skarbiec-Buffeta-i-rusza-na-zakupy-9179996.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-porzadki-w-spolce-legendy-Abel-otwiera-skarbiec-Buffeta-i-rusza-na-zakupy-9179996.html",
-      "title": "Nowe porządki w spółce legendy. Abel otwiera skarbiec Buffeta i rusza na zakupy Po ponad trzech latach gromadzenia gotówki i defensywnej postawy Berkshire Hathaway, holding dokonał strategicznego zwrotu. Greg Abel, który objął stanowisko dyrektora generalnego po 95-letniej legendzie inwestowania Warrenie Buffecie, wydał w drugim kwartale blisko 20 mld dolarów na akcje i przejęcia, kończąc najdłuższą w historii spółki serię realizacji zysków z giełdy.",
+      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-rozpoczal-rollout-Unsolved-z-metagra-podtrzymuje-premiere-Void-Hunters-w-I-kw-27-9180024.html",
+      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-rozpoczal-rollout-Unsolved-z-metagra-podtrzymuje-premiere-Void-Hunters-w-I-kw-27-9180024.html",
+      "title": "Powiększone Unsolved trafia do pierwszych graczy. Artifex Mundi podaje też datę premiery Void Hunters Artifex Mundi prowadzi rollout powiększonej o metagrę wersji gry Unsolved, a premierę drugiego projektu Void Hunters, który jest tytułem RPG, planuje na I kwartał 2027 r. - poinformowała spółka w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-08-10T10:48:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-rozpoczal-rollout-Unsolved-z-metagra-podtrzymuje-premiere-Void-Hunters-w-I-kw-27-9180024.html",
-      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-rozpoczal-rollout-Unsolved-z-metagra-podtrzymuje-premiere-Void-Hunters-w-I-kw-27-9180024.html",
-      "title": "Powiększone Unsolved trafia do pierwszych graczy. Artifex Mundi podaje też datę premiery Void Hunters Artifex Mundi prowadzi rollout powiększonej o metagrę wersji gry Unsolved, a premierę drugiego projektu Void Hunters, który jest tytułem RPG, planuje na I kwartał 2027 r. - poinformowała spółka w komunikacie prasowym.",
+      "id": "https://www.bankier.pl/wiadomosc/Nowe-porzadki-w-spolce-legendy-Abel-otwiera-skarbiec-Buffeta-i-rusza-na-zakupy-9179996.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-porzadki-w-spolce-legendy-Abel-otwiera-skarbiec-Buffeta-i-rusza-na-zakupy-9179996.html",
+      "title": "Nowe porządki w spółce legendy. Abel otwiera skarbiec Buffeta i rusza na zakupy Po ponad trzech latach gromadzenia gotówki i defensywnej postawy Berkshire Hathaway, holding dokonał strategicznego zwrotu. Greg Abel, który objął stanowisko dyrektora generalnego po 95-letniej legendzie inwestowania Warrenie Buffecie, wydał w drugim kwartale blisko 20 mld dolarów na akcje i przejęcia, kończąc najdłuższą w historii spółki serię realizacji zysków z giełdy.",
       "content_html": "",
       "date_published": "2026-08-10T10:48:00+02:00"
     },
@@ -296,13 +303,6 @@
       "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
       "content_html": "",
       "date_published": "2026-08-10T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliony-Polakow-uciekna-z-lokat-i-zaloza-OKI-Aktywa-przekrocza-100-miliardow-zlotych-9178784.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliony-Polakow-uciekna-z-lokat-i-zaloza-OKI-Aktywa-przekrocza-100-miliardow-zlotych-9178784.html",
-      "title": "RAPORT Miliony Polaków uciekną z lokat i założą OKI? \"Aktywa przekroczą 100 miliardów złotych\" W ciągu pierwszych trzech lat OKI, czyli osobiste konto inwestycyjne, może założyć 2,1 mln klientów – wynika z raportu BM PKO. W tym czasie wartość aktywów OKI może urosnąć do ponad 100 mld zł.",
-      "content_html": "",
-      "date_published": "2026-08-09T14:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
