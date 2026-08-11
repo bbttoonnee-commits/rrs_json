@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-zakwalifikowanie-euroobligacji-Pekao-jako-instrumentow-w-kapitale-Tier-II-9180863.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zgodzila-sie-na-zakwalifikowanie-euroobligacji-Pekao-jako-instrumentow-w-kapitale-Tier-II-9180863.html",
+      "title": "KNF zgodziła się na zakwalifikowanie euroobligacji Pekao jako instrumentów w kapitale Tier II KNF zgodziła się na zakwalifikowanie euroobligacji podporządkowanych Tier 2 serii 7 Banku Pekao jako instrumentów w kapitale Tier II - poinformował bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-11T17:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Enea-szacuje-ze-miala-w-II-kw-1-2-mld-zl-skonsolidowanego-zysku-EBITDA-9180851.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Enea-szacuje-ze-miala-w-II-kw-1-2-mld-zl-skonsolidowanego-zysku-EBITDA-9180851.html",
+      "title": "Grupa Enea szacuje, że miała w II kw. 1,2 mld zł skonsolidowanego zysku EBITDA Grupa Enea szacuje, że miała w II kwartale 2026 roku 1,2 mld zł skonsolidowanego zysku EBITDA, a zysk netto j.d. wyniósł 568 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-11T17:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kruk-szacuje-zysk-netto-grupy-w-I-polowie-2026-r-na-555-mln-zl-9180822.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kruk-szacuje-zysk-netto-grupy-w-I-polowie-2026-r-na-555-mln-zl-9180822.html",
+      "title": "Kruk szacuje zysk netto grupy w I połowie 2026 r. na 555 mln zł Wstępny szacunkowy skonsolidowany zysk netto grupy Kruk w I połowie 2026 roku wynosi 555 mln zł - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-11T17:31:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowe-szczyty-hossy-na-GPW-I-tylko-sWIG80-wciaz-bez-rekordu-9180816.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowe-szczyty-hossy-na-GPW-I-tylko-sWIG80-wciaz-bez-rekordu-9180816.html",
+      "title": "Nowe szczyty hossy na GPW. I tylko sWIG80 wciąż bez rekordu Wtorkowa sesja zakończyła się nowymi rekordami wszech czasów WIG-u i WIG-u 20. Także mWIG40 ustanowił nowy szczyt hossy.",
+      "content_html": "",
+      "date_published": "2026-08-11T17:15:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Warszawa-przedluzyla-spolce-zaleznej-Agory-umowe-koncesji-na-wiaty-przystankowe-o-6-miesiecy-9180763.html",
       "url": "https://www.bankier.pl/wiadomosc/Warszawa-przedluzyla-spolce-zaleznej-Agory-umowe-koncesji-na-wiaty-przystankowe-o-6-miesiecy-9180763.html",
       "title": "Warszawa przedłuża koncesję dla spółki zależnej Agory. Chodzi o wiaty przystankowe AMS Serwis, spółka zależna Agory, otrzymała od Miasta Stołecznego Warszawa oświadczenie o skorzystaniu z prawa opcji polegającego na przedłużeniu o sześć miesięcy umowy koncesji na utrzymanie wiat przystankowych oraz wyposażenia dodatkowego w stolicy - podała Agora w komunikacie.",
@@ -298,16 +326,16 @@
       "date_published": "2026-08-10T07:48:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
-      "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
+      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
+      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same serwery. Odsłaniamy kulisy działania KDPW_CCP - instytucjonalnego \"bezpiecznika\", który chroni warszawski parkiet.",
       "content_html": "",
       "date_published": "2026-08-10T06:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
-      "url": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html",
-      "title": "Czy błąd jednego brokera może zatopić całą giełdę? Tak działa rynkowy bezpiecznik Co stałoby się, gdyby serce polskiego rynku finansowego przestało bić na jedną dobę? Gdy na giełdzie algorytmy HFT zawierają tysiące transakcji na sekundę, a jeden błąd w kodzie może wywołać lawinę, o przetrwaniu rynku nie decydują same serwery. Odsłaniamy kulisy działania KDPW_CCP - instytucjonalnego \"bezpiecznika\", który chroni warszawski parkiet.",
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Co-staloby-sie-z-GPW-gdyby-KDPW-przestalo-dzialac-na-jeden-dzien-9179353.html",
+      "title": "Giełda od kuchni: Co stałoby się z GPW, gdyby KDPW przestało działać na jeden dzień? Na prawdziwym rynku finansowym handel akcjami i obligacjami opiera się na potężnym, cyfrowym kręgosłupie. Co stałoby się, gdyby ten system nagle zniknął? Czy bez Krajowego Depozytu Papierów Wartościowych warszawski parkiet przetrwałby, chociaż 24 godziny? Zapraszamy na drugą giełdową lekcję z KDPW, będącym partnerem konkursu “Wakacje na Giełdzie”.",
       "content_html": "",
       "date_published": "2026-08-10T06:00:00+02:00"
     }
