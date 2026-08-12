@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-drozeje-Slabna-nadzieje-na-szybkie-rozwiazanie-konfliktu-na-Bliskim-Wschodzie-9181070.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gaz-w-Europie-drozeje-Slabna-nadzieje-na-szybkie-rozwiazanie-konfliktu-na-Bliskim-Wschodzie-9181070.html",
+      "title": "Gaz w Europie drożeje. Słabną nadzieje na szybkie rozwiązanie konfliktu na Bliskim Wschodzie Ceny gazu w Europie rosną po zniżkach we wtorek. Na rynkach słabną nadzieje na szybkie rozwiązanie konfliktu na Bliskim Wschodzie - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-08-12T09:26:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-i-prognozy-wynikow-Grupy-Azoty-9181039.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-wycene-akcji-i-prognozy-wynikow-Grupy-Azoty-9181039.html",
       "title": "DM BOŚ podniósł wycenę akcji i prognozy wyników Grupy Azoty Analitycy DM BOŚ w raporcie z 4 sierpnia podnieśli 12-miesięczną cenę docelową akcji Grupy Azoty do 24 zł z 21 zł wcześniej i podtrzymali dla nich rekomendację \"kupuj\". Dzięki poprawie środowiska makro podnieśli też swoje prognozy wyników finansowych grupy.",
@@ -373,20 +380,6 @@
       "title": "Namsen ogłasza obowiązkowy wykup akcji Kernela. Cena to 19,93 zł za sztukę Namsen Limited, główny akcjonariusz Kernel Holding, ogłosił warunki obowiązkowego odkupu pozostałych akcji spółki po cenie 19,93 zł za sztukę - podało w komunikacie Q Securities, podmiot pośredniczący w transakcji. Odkupem objętych jest 14.182.214 akcji zwykłych na okaziciela, stanowiących ok. 4,83 proc. głosów na WZ.",
       "content_html": "",
       "date_published": "2026-08-10T10:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ekspansja-fintechowego-giganta-Revolut-buduje-drugi-hub-w-Europie-9179992.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ekspansja-fintechowego-giganta-Revolut-buduje-drugi-hub-w-Europie-9179992.html",
-      "title": "Ekspansja fintechowego giganta. Revolut buduje drugi hub w Europie Revolut Bank otrzymał pełną licencję bankową - podała spółka w komunikacie prasowym. Francuski bank będzie stopniowo obejmował obsługą część klientów w Europie, zaczynając od Francji. W kolejnych etapach działalność zostanie rozszerzona na inne rynki europejskie, w tym Niemcy, Irlandię, Włochy, Portugalię i Hiszpanię.",
-      "content_html": "",
-      "date_published": "2026-08-10T09:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielton-w-okresie-I-VII-zarejestrowal-1-881-przyczep-i-naczep-o-7-9-proc-wiecej-rdr-PZPM-9179974.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielton-w-okresie-I-VII-zarejestrowal-1-881-przyczep-i-naczep-o-7-9-proc-wiecej-rdr-PZPM-9179974.html",
-      "title": "Wzrost rejestracji w Wieltonie. Prawie 1,9 tys. pojazdów od początku roku Wielton zarejestrował w okresie styczeń-lipiec 1.881 przyczep i naczep, czyli o 7,9 proc. więcej rdr - podał Polski Związek Przemysłu Motorowego, powołując się na dane CEP.",
-      "content_html": "",
-      "date_published": "2026-08-10T09:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
