@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-realizuje-dla-GDDKiA-kontrakty-warte-10-1-mld-zl-9181205.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-realizuje-dla-GDDKiA-kontrakty-warte-10-1-mld-zl-9181205.html",
+      "title": "Budimex realizuje dla GDDKiA kontrakty warte 10,1 mld zł Budimex realizuje dla GDDKiA kontrakty warte 10,1 mld zł - podała Generalna Dyrekcja Dróg Krajowych i Autostrad w komunikacie. Mirbud ma natomist w portfelu kontrakty warte 7,8 mld zł.",
+      "content_html": "",
+      "date_published": "2026-08-12T13:04:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-wciaz-obserwuje-niepewnosc-na-rynku-ogranicza-nowe-inwestycje-9181164.html",
       "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-wciaz-obserwuje-niepewnosc-na-rynku-ogranicza-nowe-inwestycje-9181164.html",
       "title": "Arctic Paper wciąż obserwuje niepewność na rynku i ogranicza nowe inwestycje Arctic Paper wciąż obserwuje niepewność na rynku wynikającą m.in. z napięć politycznych oraz słabego popytu rynkowego, ale liczy na stabilizację - poinformowała podczas wideo konferencji Katarzyna Wojtkowiak, CFO Arctic Paper. Dodała, że spółka ogranicza nowe inwestycje i koncentruje się na ukończeniu wcześniej rozpoczętych projektów.",
@@ -359,27 +366,6 @@
       "title": "MFO szacuje zysk netto w I półroczu na ok. 8,85 mln zł, tj. ok. 13,2 proc. więcej rdr MFO szacuje zysk netto w pierwszym półroczu 2026 r. na ok. 8,85 mln zł, co stanowi wzrost o ok. 13,2 proc. w stosunku do analogicznego okresu 2025 roku - podał producent profili stalowych w komunikacie.",
       "content_html": "",
       "date_published": "2026-08-10T13:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lider-sie-nie-zatrzymuje-i-ma-juz-43-na-plusie-Na-czym-tyle-zarobil-9180109.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lider-sie-nie-zatrzymuje-i-ma-juz-43-na-plusie-Na-czym-tyle-zarobil-9180109.html",
-      "title": "WAKACJE NA GIEŁDZIE Lider się nie zatrzymuje i ma już 43% na plusie. Na czym tyle zarobił? Na warszawskiej giełdzie wakacyjna hossa trwa w najlepsze, co przekłada się na wyniki uczestników naszego konkursu inwestycyjnego. W przypadku dwóch aktualnie najlepszych graczy wysokie stopy zwrotu nie zależą jednak bezpośrednio od koniunktury na GPW.",
-      "content_html": "",
-      "date_published": "2026-08-10T13:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-odpisy-w-dwoch-spolkach-zaleznych-zwiekszy-jednostkowy-wynik-brutto-o-297-mln-zl-za-I-pol-26-9180118.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tauron-odwroci-odpisy-w-dwoch-spolkach-zaleznych-zwiekszy-jednostkowy-wynik-brutto-o-297-mln-zl-za-I-pol-26-9180118.html",
-      "title": "Tauron odwraca odpisy. Jednostkowy wynik brutto w górę o prawie 300 mln zł Analizy wykazały zasadność odwrócenia odpisu z tytułu utraty wartości udziałów w spółce Tauron Ciepło o kwotę 135 mln zł oraz o kwotę 162 mln zł w spółce Tauron Wytwarzanie, co zwiększy jednostkowy wynik brutto Tauron Polska Energia o 297 mln zł - podał Tauron w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-10T13:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/12-sierpnia-zabraknie-pradu-Zacmienie-Slonca-sprawdzi-polska-fotowoltaike-9180121.html",
-      "url": "https://www.bankier.pl/wiadomosc/12-sierpnia-zabraknie-pradu-Zacmienie-Slonca-sprawdzi-polska-fotowoltaike-9180121.html",
-      "title": "12 sierpnia zabraknie prądu? Zaćmienie Słońca sprawdzi polską fotowoltaikę Polskie Sieci Elektroenergetyczne oraz inni operatorzy z Europejskiej Sieci Operatorów Systemów Przesyłowych Energii Elektrycznej (ENTSO-E) są przygotowani na zaćmienie Słońca 12 sierpnia - poinformował operator. Dodał, że zjawisko to wpłynie na generację energii z fotowoltaiki (PV), której moc zainstalowana w Polsce wynosi już 27,5 GW.",
-      "content_html": "",
-      "date_published": "2026-08-10T13:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

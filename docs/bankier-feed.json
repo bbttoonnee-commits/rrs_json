@@ -4,11 +4,60 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sprawa-apartamentu-Nawrockiego-umorzona-Prokuratura-wskazuje-na-brak-twardych-dowodow-9181181.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprawa-apartamentu-Nawrockiego-umorzona-Prokuratura-wskazuje-na-brak-twardych-dowodow-9181181.html",
+      "title": "Sprawa apartamentu Nawrockiego umorzona. Prokuratura wskazuje na brak twardych dowodów",
+      "content_html": "Prokuratura Okręgowa w Gdańsku umorzyła śledztwo w sprawie przekroczenia uprawnień m.in. przez ówczesnego dyrektora Karola Nawrockiego poprzez dopuszczenie do nieodpłatnego korzystania z apartamentów Muzeum II Wojny Światowej w Gdańsku.",
+      "date_published": "2026-08-12T14:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Odszedl-architekt-chinskiego-cudu-gospodarczego-Zmarl-byly-premier-Chin-Zhu-Rongji-9181215.html",
+      "url": "https://www.bankier.pl/wiadomosc/Odszedl-architekt-chinskiego-cudu-gospodarczego-Zmarl-byly-premier-Chin-Zhu-Rongji-9181215.html",
+      "title": "Odszedł architekt chińskiego cudu gospodarczego. Zmarł były premier Chin Zhu Rongji",
+      "content_html": "Były premier Chin Zhu Rongji zmarł w środę w Pekinie w wieku 97 lat – poinformowała państwowa agencja prasowa Xinhua. Szef rządu z lat 1998-2003 zyskał reputację bezkompromisowego reformatora, który zwalczał korupcję i wprowadził państwo...",
+      "date_published": "2026-08-12T14:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejny-atak-na-Kijow-Rosyjskie-drony-nadlatuja-z-dwoch-kierunkow-9181212.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejny-atak-na-Kijow-Rosyjskie-drony-nadlatuja-z-dwoch-kierunkow-9181212.html",
+      "title": "Kolejny atak na Kijów. Rosyjskie drony nadlatują z dwóch kierunków",
+      "content_html": "Stolica Ukrainy, Kijów, od kilkudziesięciu minut atakowana jest w środę po południu przez rosyjskie drony uderzeniowe, które nadlatują całymi grupami z kierunku północnego i wschodniego – poinformowały władze wojskowe i cywilne.",
+      "date_published": "2026-08-12T14:09:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjska-ropa-wycieka-do-Morza-Arabskiego-Plama-dociera-do-Omanu-9181210.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjska-ropa-wycieka-do-Morza-Arabskiego-Plama-dociera-do-Omanu-9181210.html",
+      "title": "Rosyjska ropa wycieka do Morza Arabskiego. Plama dociera do Omanu",
+      "content_html": "Ropa wyciekająca z osiadłego na mieliźnie tankowca Caroline Bezengi dociera do Omanu - poinformowała w środę Międzynarodowa Organizacja Morska (IMO). Tankowiec należący do floty cieni przewoził 800 tys. baryłek rosyjskiej ropy, kiedy w czerwcu...",
+      "date_published": "2026-08-12T14:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PKP-Intercity-bije-rekordy-W-lipcu-przewiozlo-9-5-mln-pasazerow-9181207.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKP-Intercity-bije-rekordy-W-lipcu-przewiozlo-9-5-mln-pasazerow-9181207.html",
+      "title": "PKP Intercity bije rekordy. W lipcu przewiozło 9,5 mln pasażerów",
+      "content_html": "PKP Intercity przewiozło w lipcu br. 9,5 mln pasażerów, czyli o 9 proc. więcej niż rok temu - poinformowała w środę spółka. Spółka zapowiedziała jednocześnie, że inspirowany latami 80. pociąg „Nieśpieszny” będzie kursował również...",
+      "date_published": "2026-08-12T14:07:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Budimex-realizuje-dla-GDDKiA-kontrakty-warte-10-1-mld-zl-9181205.html",
+      "url": "https://www.bankier.pl/wiadomosc/Budimex-realizuje-dla-GDDKiA-kontrakty-warte-10-1-mld-zl-9181205.html",
+      "title": "Budimex realizuje dla GDDKiA kontrakty warte 10,1 mld zł",
+      "content_html": "Budimex realizuje dla GDDKiA kontrakty warte 10,1 mld zł - podała Generalna Dyrekcja Dróg Krajowych i Autostrad w komunikacie. Mirbud ma natomist w portfelu kontrakty warte 7,8 mld zł.",
+      "date_published": "2026-08-12T14:04:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tusk-Polska-stanie-sie-morska-potega-Takze-w-wymiarze-militarnym-9181099.html",
       "url": "https://www.bankier.pl/wiadomosc/Tusk-Polska-stanie-sie-morska-potega-Takze-w-wymiarze-militarnym-9181099.html",
-      "title": "Tusk: Polska stanie się morską potęgą. Także w wymiarze militarnym",
+      "title": "Tusk w Gdyni: Polska stanie się morską potęgą. Także w wymiarze militarnym",
       "content_html": "Premier Donald Tusk podkreślił, że polski przemysł stoczniowy, zarówno cywilny, jak i wojskowy, jest dziś powodem do dumy. To są tysiące miejsc pracy, najlepsze technologie, wielkie inwestycje - dodał. Szef rządu zapewniał, że Polska stanie...",
-      "date_published": "2026-08-12T13:53:00+02:00"
+      "date_published": "2026-08-12T14:03:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rolnik-zaoral-asfalt-i-trafil-do-aresztu-RPO-wszczal-postepowanie-9181197.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rolnik-zaoral-asfalt-i-trafil-do-aresztu-RPO-wszczal-postepowanie-9181197.html",
+      "title": "Rolnik zaorał asfalt i trafił do aresztu. RPO wszczął postępowanie",
+      "content_html": "Pełnomocnik Rzecznika Praw Obywatelskich wszczął z urzędu postępowanie wyjaśniające w sprawie tymczasowego aresztowania rolnika, który zaorał świeżo położony asfalt w Gliwicach-Ostropie. Sprawdza, czy nie doszło do naruszenia wolności i...",
+      "date_published": "2026-08-12T13:50:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wniosek-o-list-zelazny-od-Romanowskiego-Przesylka-przyszla-z-Naddniestrza-9181171.html",
@@ -23,13 +72,6 @@
       "title": "Kolumbia poprosiła UE o pomoc po trzęsieniu ziemi. Bruksela przekaże 2 mln euro",
       "content_html": "Przewodnicząca Komisji Europejskiej Ursula von der Leyen ogłosiła w środę, że UE przekaże wsparcie w wysokości 2 mln euro dla społeczności dotkniętych trzęsieniem ziemi w Kolumbii. Poinformowała, że Bogota zwróciła się do Unii o pomoc...",
       "date_published": "2026-08-12T13:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sprawa-apartamentu-Nawrockiego-umorzona-Prokuratura-wskazuje-na-brak-twardych-dowodow-9181181.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprawa-apartamentu-Nawrockiego-umorzona-Prokuratura-wskazuje-na-brak-twardych-dowodow-9181181.html",
-      "title": "Sprawa apartamentu Nawrockiego umorzona. Prokuratura wskazuje na brak twardych dowodów",
-      "content_html": "Prokuratura Okręgowa w Gdańsku umorzyła śledztwo w sprawie przekroczenia uprawnień m.in. przez ówczesnego dyrektora Karola Nawrockiego poprzez dopuszczenie do nieodpłatnego korzystania z apartamentów Muzeum II Wojny Światowej w Gdańsku.",
-      "date_published": "2026-08-12T13:34:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rosja-importerem-benzyny-z-Indii-Ukrainskie-ataki-ograniczyly-produkcje-paliw-9181179.html",
@@ -102,13 +144,6 @@
       "date_published": "2026-08-12T12:16:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nieprawidlowo-policzyli-glosy-w-II-turze-Sad-warunkowo-umorzyl-sprawe-dziewieciu-osob-9181127.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nieprawidlowo-policzyli-glosy-w-II-turze-Sad-warunkowo-umorzyl-sprawe-dziewieciu-osob-9181127.html",
-      "title": "Nieprawidłowo policzyli głosy w II turze. Sąd warunkowo umorzył sprawę dziewięciu osób",
-      "content_html": "Sąd Rejonowy w Wołominie warunkowo umorzył postępowanie karne wobec dziewięciu członków Obwodowej Komisji Wyborczej nr 12 w Kobyłce - poinformowała warszawska prokuratura. Postępowanie dotyczyło nieprawidłowości przy liczeniu głosów w trakcie...",
-      "date_published": "2026-08-12T12:14:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/10-mld-zl-na-cyfrowa-transformacje-Wsparcie-takze-dla-cyberbezpieczenstwa-i-dual-use-9181124.html",
       "url": "https://www.bankier.pl/wiadomosc/10-mld-zl-na-cyfrowa-transformacje-Wsparcie-takze-dla-cyberbezpieczenstwa-i-dual-use-9181124.html",
       "title": "10 mld zł na cyfrową transformację. Wsparcie także dla cyberbezpieczeństwa i dual-use",
@@ -142,6 +177,34 @@
       "title": "Ren bije rekord niskiego poziomu wód. Niemcy obawiają się dalszych problemów",
       "content_html": "Minister transportu Niemiec Steffen Bilger ostrzegł w środę, że niski poziom wód w rzekach utrzymywać się będzie prawdopodobnie przez cały sierpień. Opowiedział się za rozbudową infrastruktury rzecznej, aby susze nie były w przyszłości...",
       "date_published": "2026-08-12T11:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fitch-utrzymal-rating-GTC-na-poziomie-B-i-usunal-go-z-listy-obserwacyjnej-ze-wskazaniem-negatywnym-9181106.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fitch-utrzymal-rating-GTC-na-poziomie-B-i-usunal-go-z-listy-obserwacyjnej-ze-wskazaniem-negatywnym-9181106.html",
+      "title": "Fitch utrzymał rating GTC na poziomie B i usunął go z listy obserwacyjnej ze wskazaniem negatywnym",
+      "content_html": "Agencja Fitch Ratings potwierdziła długoterminowy rating IDR dla spółki GTC na poziomie \"B\" i wycofała go z listy obserwacyjnej z perspektywą negatywną (RWN) - poinformowała agencja w komunikacie.",
+      "date_published": "2026-08-12T11:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Apel-Vance-a-do-Kijowa-Ukraina-ograniczyla-ataki-na-rosyjskie-tankowce-9181105.html",
+      "url": "https://www.bankier.pl/wiadomosc/Apel-Vance-a-do-Kijowa-Ukraina-ograniczyla-ataki-na-rosyjskie-tankowce-9181105.html",
+      "title": "Apel Vance’a do Kijowa. Ukraina ograniczyła ataki na rosyjskie tankowce",
+      "content_html": "Ukraina wstrzymała ataki dronowe na tankowce z ropą naftową, korzystające z portu w rosyjskim mieście Noworosyjsk nad Morzem Czarnym; decyzja ta zapadła po prośbie wiceprezydenta USA J.D. Vance'a - poinformował w środę brytyjski dziennik „Financial...",
+      "date_published": "2026-08-12T11:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Etna-dalej-paralizuje-lotnisko-w-Katanii-To-juz-trzeci-dzien-utrudnien-9181100.html",
+      "url": "https://www.bankier.pl/wiadomosc/Etna-dalej-paralizuje-lotnisko-w-Katanii-To-juz-trzeci-dzien-utrudnien-9181100.html",
+      "title": "Etna dalej paraliżuje lotnisko w Katanii. To już trzeci dzień utrudnień",
+      "content_html": "Do godz. 18 w środę przedłużono wstrzymanie odlotów i przylotów na lotnisku w Katanii na Sycylii z powodu aktywności wulkanu Etna - poinformowała spółka zarządzająca tym wielkim portem lotniczym na wyspie. To trzeci dzień jego paraliżu w...",
+      "date_published": "2026-08-12T11:23:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Atak-na-statek-na-Morzu-Czerwonym-Zginelo-trzech-obywateli-Pakistanu-9181098.html",
+      "url": "https://www.bankier.pl/wiadomosc/Atak-na-statek-na-Morzu-Czerwonym-Zginelo-trzech-obywateli-Pakistanu-9181098.html",
+      "title": "Atak na statek na Morzu Czerwonym. Zginęło trzech obywateli Pakistanu",
+      "content_html": "Pakistański minister spraw zagranicznych Ishaq Dar oświadczył w środę, że trzech obywateli Pakistanu zginęło w ataku na statek na Morzu Czerwonym – poinformowała agencja Reutera. Minister stwierdził też, że atak zagroził zarówno życiu...",
+      "date_published": "2026-08-12T11:21:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-nowe-podejscie-do-windfall-tax-Projekt-moze-pojawic-sie-jesienia-9181094.html",
@@ -632,48 +695,6 @@
       "title": "Nowe szczyty hossy na GPW. I tylko sWIG80 wciąż bez rekordu",
       "content_html": "Wtorkowa sesja zakończyła się nowymi rekordami wszech czasów WIG-u i WIG-u 20. Także mWIG40 ustanowił nowy szczyt hossy.",
       "date_published": "2026-08-11T18:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/4-5-miliona-zlotych-pomocy-za-powodz-ktorej-nie-bylo-PiS-zlozylo-wniosek-do-CBA-9180640.html",
-      "url": "https://www.bankier.pl/wiadomosc/4-5-miliona-zlotych-pomocy-za-powodz-ktorej-nie-bylo-PiS-zlozylo-wniosek-do-CBA-9180640.html",
-      "title": "4,5 miliona złotych pomocy za powódź... której nie było? PiS złożyło wniosek do CBA",
-      "content_html": "PiS złożyło wniosek do CBA, w którym domaga się informacji dotyczących nieprawidłowości przy udzielaniu pomocy popowodziowej na Dolnym Śląsku - poinformował szef klubu PiS Mariusz Błaszczak. Partia chce się m.in. dowiedzieć, kto podejmował...",
-      "date_published": "2026-08-11T17:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-na-Zaporizstal-Huta-calkowicie-wstrzymala-dzialalnosc-9180802.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-na-Zaporizstal-Huta-calkowicie-wstrzymala-dzialalnosc-9180802.html",
-      "title": "Rosyjski atak na Zaporiżstal. Huta całkowicie wstrzymała działalność",
-      "content_html": "Firma Metinvest poinformowała we wtorek, że po rosyjskim ataku jej huta Zaporiżstal całkowicie wstrzymała działalność - przekazała agencja Reutera, powołując się na komunikat firmy. Siedmiu pracowników przedsiębiorstwa zginęło, a 21 zostało...",
-      "date_published": "2026-08-11T17:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Maciej-Berek-odchodzi-z-rzadu-Donald-Tusk-wskazal-jego-nastepczynie-9180680.html",
-      "url": "https://www.bankier.pl/wiadomosc/Maciej-Berek-odchodzi-z-rzadu-Donald-Tusk-wskazal-jego-nastepczynie-9180680.html",
-      "title": "Maciej Berek odchodzi z rządu. Donald Tusk wskazał jego następczynię",
-      "content_html": "Premier Donald Tusk ogłosił we wtorek, że Maciej Berek przestaje być ministrem ds. nadzoru nad wdrażaniem polityki rządu. Jego obowiązki przejmie Joanna Knapińska, szefowa Rządowego Centrum Legislacji.",
-      "date_published": "2026-08-11T17:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sady-dostana-wieksze-uprawnienia-w-sporach-z-ZUS-Projekt-przyjety-przez-rzad-9180794.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sady-dostana-wieksze-uprawnienia-w-sporach-z-ZUS-Projekt-przyjety-przez-rzad-9180794.html",
-      "title": "Sądy dostaną większe uprawnienia w sporach z ZUS. Projekt przyjęty przez rząd",
-      "content_html": "Sądy będą mogły w większej liczbie przypadków uchylić błędną decyzję organu rentowego, np. Zakładu Ubezpieczeń Społecznych i przekazać sprawę do ponownego rozpatrzenia - zakłada projekt nowelizacji Kodeksu postępowania cywilnego, który...",
-      "date_published": "2026-08-11T17:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-zlotej-algi-w-Kanale-Gliwickim-Nie-odnotowano-sniecia-ryb-9180797.html",
-      "url": "https://www.bankier.pl/wiadomosc/Coraz-wiecej-zlotej-algi-w-Kanale-Gliwickim-Nie-odnotowano-sniecia-ryb-9180797.html",
-      "title": "Coraz więcej złotej algi w Kanale Gliwickim. Nie odnotowano śnięcia ryb",
-      "content_html": "W VI sekcji Kanału Gliwickiego stężenie złotej algi wzrosło w ciągu kilku dni z 30 mln do 270 mln osobników na litr wody - podał Śląski Urząd Wojewódzki w Katowicach. Wody Polskie w Gliwicach poinformowały PAP we wtorek, że dotychczas nie...",
-      "date_published": "2026-08-11T17:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Autorzy-i-wydawcy-dostana-wiecej-za-wypozyczenia-biblioteczne-Rzad-zwieksza-limit-9180792.html",
-      "url": "https://www.bankier.pl/wiadomosc/Autorzy-i-wydawcy-dostana-wiecej-za-wypozyczenia-biblioteczne-Rzad-zwieksza-limit-9180792.html",
-      "title": "Autorzy i wydawcy dostaną więcej za wypożyczenia biblioteczne. Rząd zwiększa limit",
-      "content_html": "Zwiększenie kwoty przeznaczonej na wynagrodzenia dla twórców i wydawców za publiczne wypożyczanie książek, dzięki podniesieniu limitu dofinansowania z 5 do 10 proc. wartości zakupów materiałów bibliotecznych, zakłada przyjęty we wtorek przez...",
-      "date_published": "2026-08-11T17:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
