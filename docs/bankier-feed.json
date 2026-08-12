@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-na-MyDr-Gawkowski-Mozliwy-wyciek-danych-blisko-19-mln-Polakow-9181057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-MyDr-Gawkowski-Mozliwy-wyciek-danych-blisko-19-mln-Polakow-9181057.html",
+      "title": "Dane połowy Polaków trafiły do sieci. Gawkowski: Informacje o 19 mln osób, aż 2 terabajty informacji",
+      "content_html": "Wicepremier, minister cyfryzacji Krzysztof Gawkowski poinformował w środę w programie Onetu, że na godz. 12.00 zwołał pilne Połączone Centrum Operacyjne Cyberbezpieczeństwa. Ma to związek z cyberatakiem na systemy i dane firmy MyDr. Dodał,...",
+      "date_published": "2026-08-12T21:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kreml-eliminuje-resztki-opozycji-Sad-Najwyzszy-zakazal-partii-Jabloko-9181443.html",
       "url": "https://www.bankier.pl/wiadomosc/Kreml-eliminuje-resztki-opozycji-Sad-Najwyzszy-zakazal-partii-Jabloko-9181443.html",
       "title": "Kreml eliminuje resztki opozycji. Sąd Najwyższy zakazał partii „Jabłoko”",
@@ -156,13 +163,6 @@
       "title": "Limit 240 zł za godzinę i zakaz dorabiania? Lekarze ostrzegają przed paraliżem ochrony zdrowia",
       "content_html": "Ustawa prowokuje do poszukiwania sposobów na jej obejście. Jest to papierek lakmusowy intencji resortu, który chce szybko wykazać się jakimkolwiek działaniem. W rzeczywistości może to pozostać jedynie fikcją na papierze - powiedział w środę...",
       "date_published": "2026-08-12T16:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-na-MyDr-Gawkowski-Mozliwy-wyciek-danych-blisko-19-mln-Polakow-9181057.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-MyDr-Gawkowski-Mozliwy-wyciek-danych-blisko-19-mln-Polakow-9181057.html",
-      "title": "Dane połowy Polaków trafiły do sieci. Gawkowski: Informacje o 19 mln osób, aż 2 terabajty informacji",
-      "content_html": "Wicepremier, minister cyfryzacji Krzysztof Gawkowski poinformował w środę w programie Onetu, że na godz. 12.00 zwołał pilne Połączone Centrum Operacyjne Cyberbezpieczeństwa. Ma to związek z cyberatakiem na systemy i dane firmy MyDr. Dodał,...",
-      "date_published": "2026-08-12T15:52:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Co-z-zawieszeniem-broni-pomiedzy-Iran-i-USA-Zrodla-mowia-o-90-dniach-ale-Iran-zaprzecza-9181285.html",
