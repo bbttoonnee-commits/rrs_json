@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Unimot-szacuje-skor-EBITDA-w-II-kw-na-140-mln-zl-wobec-126-3-mln-zl-konsensusu-9181434.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unimot-szacuje-skor-EBITDA-w-II-kw-na-140-mln-zl-wobec-126-3-mln-zl-konsensusu-9181434.html",
+      "title": "Unimot pobił oczekiwania rynku. 140 mln zł skorygowanej EBITDA w II kwartale Unimot szacuje, że miał w drugim kwartale 2026 roku 140 mln zł skonsolidowanego, skorygowanego zysku EBITDA oraz 4.360 mln zł przychodów - podała spółka w komunikacie. Konsensus PAP Biznes wskazywał na 126,3 mln zł skorygowanej EBITDA oraz 4.362,8 mln zł przychodów.",
+      "content_html": "",
+      "date_published": "2026-08-12T19:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-programu-motywacyjnego-na-27-oraz-na-lata-26-29-9181420.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-programu-motywacyjnego-na-27-oraz-na-lata-26-29-9181420.html",
       "title": "NWZ Asseco Poland nie podjęło uchwały ws. programu motywacyjnego na '27 oraz na lata 26-29 Nadzwyczajne walne zgromadzenie Asseco Poland nie podjęło uchwały w sprawie programu dla kadry menadżerskiej na 2027 rok oraz na lata 2026-2029 - wynika z komunikatu po walnym.",
@@ -135,6 +142,13 @@
       "title": "Wall Street pod presją technologii i geopolityki. W centrum uwagi CPI Wtorkowa sesja na Wall Street zakończyła się niewielkimi spadkami. Rynek ciągnęły w dół akcje kluczowych spółek technologicznych, a nadzieje na ponowne otwarcie Cieśniny Ormuz osłabły, pogłębiając wątpliwości, czy USA i Iran będą w stanie osiągnąć trwalsze rozwiązanie konfliktu.",
       "content_html": "",
       "date_published": "2026-08-11T22:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kontrola-wokol-Elemental-Holding-Minister-Do-tej-pory-nie-wyplacono-ani-zlotowki-9180923.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kontrola-wokol-Elemental-Holding-Minister-Do-tej-pory-nie-wyplacono-ani-zlotowki-9180923.html",
+      "title": "Kontrola wokół Elemental Holding. Minister: Do tej pory nie wypłacono ani złotówki Żadne pieniądze nie zostały wypłacone na realizację projektu dot. odzyskiwania metali ziem rzadkich - poinformował we wtorek minister finansów i gospodarki Andrzej Domański, pytany o doniesienia ws. firmy Elemental Holding. Jak mówił, prowadzona jest w tej sprawie kontrola.",
+      "content_html": "",
+      "date_published": "2026-08-11T20:44:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mabion-osiagnal-kamien-milowy-w-reaktywacji-projektu-MabionCD20-9180910.html",
@@ -310,13 +324,6 @@
       "title": "Kosmetyczne spadki na Wall Street. S&P500 i Nasdaq o włos od rekordów Choć poniedziałkowa sesja przyniosła niewielkie spadki na nowojorskich giełdach, to zarówno indeks S&P500 jak i Nasdaq Composite wciąż znajdują się tylko nieznacznie poniżej szczytów hossy.",
       "content_html": "",
       "date_published": "2026-08-10T22:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rada-Dyrektorow-Banco-Santander-zgodzila-sie-na-przeprowadzenie-skupu-akcji-wlasnych-9180345.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rada-Dyrektorow-Banco-Santander-zgodzila-sie-na-przeprowadzenie-skupu-akcji-wlasnych-9180345.html",
-      "title": "Rada Dyrektorów Banco Santander zgodziła się na przeprowadzenie skupu akcji własnych Rada Dyrektorów Banco Santander wyraziła zgodę na przeprowadzenie programu skupu akcji własnych o wartości odpowiadającej około 25 proc. zysku podstawowego Grupy w I połowie 2026 r. (ok. 1.825 mln euro) - poinformował bank w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-10T18:48:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
