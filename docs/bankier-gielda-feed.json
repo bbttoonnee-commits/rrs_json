@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pepco-Group-nabedzie-akcje-wlasne-za-400-mln-euro-srednia-stopa-redukcji-ofert-wyniosla-91-76-proc-9182107.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pepco-Group-nabedzie-akcje-wlasne-za-400-mln-euro-srednia-stopa-redukcji-ofert-wyniosla-91-76-proc-9182107.html",
+      "title": "Pepco Group nabędzie akcje własne za 400 mln euro. Średnia stopa redukcji ofert wyniosła 91,76 proc. Pepco Group w wyniku ogłoszonego zaproszenia nabędzie 36.462.201 akcji własnych za łącznie 400 mln euro. Średnia stopa redukcji ofert złożonych przez akcjonariuszy wyniosła 91,76 proc. - podała spółka w komunikacie. Skup został przeprowadzony po stałej cenie nabycia wynoszącej 47,52 zł za jedną akcję.",
+      "content_html": "",
+      "date_published": "2026-08-13T20:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Ropczyc-lepsze-w-I-polr-w-ocenie-zarzadu-sa-pierwsze-sygnaly-stabilizacji-na-rynku-9182055.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Ropczyc-lepsze-w-I-polr-w-ocenie-zarzadu-sa-pierwsze-sygnaly-stabilizacji-na-rynku-9182055.html",
       "title": "Wyniki Ropczyc lepsze w I półr.; w ocenie zarządu są pierwsze sygnały stabilizacji na rynku ZM Ropczyce w I półr. 2026 r. zwiększyły zysk operacyjny ponad dwukrotnie do 15,6 mln zł oraz wypracowały 12,6 mln zł zysku netto wobec 2,2 mln zł rok wcześniej. W ocenie zarządu są pierwsze sygnały stabilizacji na rynku, ale za wcześnie, by mówić o trwałej poprawie koniunktury w europejskim przemyśle - podała spółka w komunikacie.",
@@ -352,20 +359,6 @@
       "title": "Wall Street pod presją technologii i geopolityki. W centrum uwagi CPI Wtorkowa sesja na Wall Street zakończyła się niewielkimi spadkami. Rynek ciągnęły w dół akcje kluczowych spółek technologicznych, a nadzieje na ponowne otwarcie Cieśniny Ormuz osłabły, pogłębiając wątpliwości, czy USA i Iran będą w stanie osiągnąć trwalsze rozwiązanie konfliktu.",
       "content_html": "",
       "date_published": "2026-08-11T22:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontrola-wokol-Elemental-Holding-Minister-Do-tej-pory-nie-wyplacono-ani-zlotowki-9180923.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontrola-wokol-Elemental-Holding-Minister-Do-tej-pory-nie-wyplacono-ani-zlotowki-9180923.html",
-      "title": "Kontrola wokół Elemental Holding. Minister: Do tej pory nie wypłacono ani złotówki Żadne pieniądze nie zostały wypłacone na realizację projektu dot. odzyskiwania metali ziem rzadkich - poinformował we wtorek minister finansów i gospodarki Andrzej Domański, pytany o doniesienia ws. firmy Elemental Holding. Jak mówił, prowadzona jest w tej sprawie kontrola.",
-      "content_html": "",
-      "date_published": "2026-08-11T20:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mabion-osiagnal-kamien-milowy-w-reaktywacji-projektu-MabionCD20-9180910.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mabion-osiagnal-kamien-milowy-w-reaktywacji-projektu-MabionCD20-9180910.html",
-      "title": "Mabion osiągnął kamień milowy w reaktywacji projektu MabionCD20 Mabion osiągnął pierwszy kamień milowy na drodze do wprowadzenia MabionCD20 jako leku sierocego stosowanego w leczeniu immunologicznej trombocytopenii (ITP) - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-11T20:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
