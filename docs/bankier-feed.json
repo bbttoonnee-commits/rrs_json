@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ronson-sprzedal-w-pierwszym-polroczu-272-lokale-za-223-mln-zl-9182139.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ronson-sprzedal-w-pierwszym-polroczu-272-lokale-za-223-mln-zl-9182139.html",
+      "title": "Ronson sprzedał w pierwszym półroczu 272 lokale za 223 mln zł",
+      "content_html": "Ronson Development sprzedał w pierwszej połowie 2026 roku łącznie 272 lokale o wartości 223 mln zł - poinformowała spółka w komunikacie prasowym. To wynik o 49 proc. wyższy niż w analogicznym okresie ubiegłego roku. Przekazanych zostało w...",
+      "date_published": "2026-08-13T23:18:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Clop-atakuje-kolejne-koncerny-Shell-i-Philips-badaja-incydenty-9182110.html",
       "url": "https://www.bankier.pl/wiadomosc/Clop-atakuje-kolejne-koncerny-Shell-i-Philips-badaja-incydenty-9182110.html",
       "title": "Clop atakuje kolejne koncerny? Shell i Philips badają incydenty",
@@ -695,13 +702,6 @@
       "title": "Niepokojące doniesienia z amerykańskiego lotniskowca. „Brak żywności, problemy z wodą i próby samobójcze”",
       "content_html": "Demokraci w Kongresie zażądali w środę wyjaśnień w sprawie warunków panujących na pokładzie lotniskowca USS Abraham Lincoln; z okrętu, który przebywa na morzu od ponad 200 dni, docierają niepokojące doniesienia dotyczące wyżywienia oraz...",
       "date_published": "2026-08-13T08:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Agora-spodziewa-sie-dynamiki-wydatkow-na-reklame-w-Polsce-w-26-na-poziomie-ok-5-5-7-proc-9181555.html",
-      "url": "https://www.bankier.pl/wiadomosc/Agora-spodziewa-sie-dynamiki-wydatkow-na-reklame-w-Polsce-w-26-na-poziomie-ok-5-5-7-proc-9181555.html",
-      "title": "Agora spodziewa się dynamiki wydatków na reklamę w Polsce w '26 na poziomie ok. 5,5-7 proc.",
-      "content_html": "Agora podtrzymała prognozę dynamiki wydatków na reklamę w Polsce w całym 2026 r. i spodziewa się, że będzie ona na poziomie około 5,5-7 proc. - poinformowała Agora w raporcie.",
-      "date_published": "2026-08-13T08:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
