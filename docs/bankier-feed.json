@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
+      "title": "Hiszpania zmienia plan dla atomu. Największa elektrownia jądrowa popracuje do 2030 roku",
+      "content_html": "Planujący całkowite wygaszenie energetyki jądrowej hiszpański rząd przedłużył w piątek o dwa lata, do 2030 roku, zezwolenie na eksploatację największej pod względem produkcji energii w kraju elektrowni atomowej znajdującej się w Almaraz...",
+      "date_published": "2026-08-14T16:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
+      "title": "Rosja odrzuciła propozycję Ukrainy ws. zawieszenia broni na Morzu Czarnym",
+      "content_html": "Rosja odrzuca pomysł zawieszenia broni z Ukrainą na Morzu Czarnym i uważa ją za „półśrodek” – poinformowało w piątek w komunikacie rosyjskie ministerstwo spraw zagranicznych. Ataki na tym akwenie znacząco utrudniają eksport ukraińskiego...",
+      "date_published": "2026-08-14T16:33:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ukraina-testuje-nowa-bron-Odrzutowy-dron-przechwytujacy-ma-zwalczac-Shahedy-9182464.html",
       "url": "https://www.bankier.pl/wiadomosc/Ukraina-testuje-nowa-bron-Odrzutowy-dron-przechwytujacy-ma-zwalczac-Shahedy-9182464.html",
       "title": "Ukraina testuje nową broń. Odrzutowy dron przechwytujący ma zwalczać Shahedy",
@@ -688,20 +702,6 @@
       "title": "Iran stawia warunki otwarcia Ormuzu. Izraelskie statki mają być wykluczone",
       "content_html": "Szef komisji spraw zagranicznych i bezpieczeństwa irańskiego parlamentu Behnam Saidi oświadczył w czwartek, że izraelskie statki ani towary nie będą nigdy przepuszczane przez cieśninę Ormuz. Dotyczy to również izraelskich statków pływających...",
       "date_published": "2026-08-13T15:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ETF-y-kupic-i-trzymac-czy-aktywnie-zmieniac-portfel-Najpierw-spisz-plan-9181855.html",
-      "url": "https://www.bankier.pl/wiadomosc/ETF-y-kupic-i-trzymac-czy-aktywnie-zmieniac-portfel-Najpierw-spisz-plan-9181855.html",
-      "title": "ETF-y: kupić i trzymać czy aktywnie zmieniać portfel? Najpierw spisz plan",
-      "content_html": "ETF-y upraszczają budowę zdywersyfikowanego portfela, ale nie zdejmują z inwestora odpowiedzialności za strategię. Jak często kupować, kiedy przywracać założone proporcje między akcjami i obligacjami oraz co robić podczas bessy? Przemysław...",
-      "date_published": "2026-08-13T15:33:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Seria-awarii-w-porcie-w-Rotterdamie-Byla-tez-smiertelna-eksplozja-9181851.html",
-      "url": "https://www.bankier.pl/wiadomosc/Seria-awarii-w-porcie-w-Rotterdamie-Byla-tez-smiertelna-eksplozja-9181851.html",
-      "title": "Seria awarii w porcie w Rotterdamie. Była też śmiertelna eksplozja",
-      "content_html": "Co najmniej jedna osoba zginęła, a kilka zostało rannych w czwartek w wyniku eksplozji przy zbiorniku magazynowym na terenie zakładu Gunvor Energy w porcie w Rotterdamie w Holandii; do wybuchu doszło podczas prac konserwacyjnych przy rurociągach...",
-      "date_published": "2026-08-13T15:28:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
