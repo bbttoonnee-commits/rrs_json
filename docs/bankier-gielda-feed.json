@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Inter-Cars-do-akumuluj-9182643.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obniza-rekomendacje-dla-Inter-Cars-do-akumuluj-9182643.html",
+      "title": "Noble Securities obniża rekomendację dla Inter Cars do \"akumuluj\" Analitycy Noble Securities, w raporcie z 13 sierpnia, obniżyli rekomendację dla Inter Cars do \"akumuluj\" z \"kupuj\", podwyższając cenę docelową do 1.117 zł z 892 zł.",
+      "content_html": "",
+      "date_published": "2026-08-14T18:28:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zielen-wrocila-na-GPW-mWIG40-z-nowym-rekordem-9182579.html",
       "url": "https://www.bankier.pl/wiadomosc/Zielen-wrocila-na-GPW-mWIG40-z-nowym-rekordem-9182579.html",
       "title": "Zieleń wróciła na GPW. mWIG40 z nowym rekordem Po jednym słabszym dniu na warszawski parkiet powróciły wzrosty. Nowy szczyt hossy ustanowił jedynie mWIG40, który drobnymi kroczkami powoli pnie się coraz wyżej.",
@@ -331,20 +338,6 @@
       "title": "Na Wall Street przewaga wzrostów po najnowszym raporcie o inflacji Środowa sesja na Wall Street zakończyła się przewagą wzrostów wśród głównych indeksów. W centrum uwagi były najnowsze, umiarkowane dane o inflacji w USA, a także zyskujące na wartości akcje spółek związanych ze sztuczną inteligencją.",
       "content_html": "",
       "date_published": "2026-08-12T23:33:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Unimot-szacuje-skor-EBITDA-w-II-kw-na-140-mln-zl-wobec-126-3-mln-zl-konsensusu-9181434.html",
-      "url": "https://www.bankier.pl/wiadomosc/Unimot-szacuje-skor-EBITDA-w-II-kw-na-140-mln-zl-wobec-126-3-mln-zl-konsensusu-9181434.html",
-      "title": "Unimot pobił oczekiwania rynku. 140 mln zł skorygowanej EBITDA w II kwartale Unimot szacuje, że miał w drugim kwartale 2026 roku 140 mln zł skonsolidowanego, skorygowanego zysku EBITDA oraz 4.360 mln zł przychodów - podała spółka w komunikacie. Konsensus PAP Biznes wskazywał na 126,3 mln zł skorygowanej EBITDA oraz 4.362,8 mln zł przychodów.",
-      "content_html": "",
-      "date_published": "2026-08-12T19:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-programu-motywacyjnego-na-27-oraz-na-lata-26-29-9181420.html",
-      "url": "https://www.bankier.pl/wiadomosc/NWZ-Asseco-Poland-nie-podjelo-uchwaly-ws-programu-motywacyjnego-na-27-oraz-na-lata-26-29-9181420.html",
-      "title": "NWZ Asseco Poland nie podjęło uchwały ws. programu motywacyjnego na '27 oraz na lata 26-29 Nadzwyczajne walne zgromadzenie Asseco Poland nie podjęło uchwały w sprawie programu dla kadry menadżerskiej na 2027 rok oraz na lata 2026-2029 - wynika z komunikatu po walnym.",
-      "content_html": "",
-      "date_published": "2026-08-12T18:18:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
