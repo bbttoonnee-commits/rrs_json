@@ -4,6 +4,55 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-Ukraina-przyspiesza-prace-nad-dronami-odrzutowymi-9182556.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-Ukraina-przyspiesza-prace-nad-dronami-odrzutowymi-9182556.html",
+      "title": "Zełenski: Ukraina przyspiesza prace nad dronami odrzutowymi",
+      "content_html": "Ukraina przyspiesza prace nad nowymi rodzajami broni, w tym odrzutowych dronów przechwytujących – powiadomił w piątek prezydent Wołodymyr Zełenski po naradzie z najwyższym dowództwem wojennym.",
+      "date_published": "2026-08-14T17:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cios-w-rosyjski-sektor-gazowy-Ukraina-zaatakowala-terminal-Novateku-nad-Baltykiem-9182544.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cios-w-rosyjski-sektor-gazowy-Ukraina-zaatakowala-terminal-Novateku-nad-Baltykiem-9182544.html",
+      "title": "Cios w rosyjski sektor gazowy. Ukraina zaatakowała terminal Novateku nad Bałtykiem",
+      "content_html": "Ukraińskie wojsko podało w piątek, że zaatakowało tego dnia kompleks przetwórstwa kondensatu gazu ziemnego w rosyjskim porcie Ust-Ługa nad Morzem Bałtyckim. Na terenie zakładów wybuchł pożar i zniszczona została część instalacji przetwórczych...",
+      "date_published": "2026-08-14T17:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pentagon-reaguje-na-niedobory-uzbrojenia-Przyspieszy-produkcje-pociskow-SM-3-9182518.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pentagon-reaguje-na-niedobory-uzbrojenia-Przyspieszy-produkcje-pociskow-SM-3-9182518.html",
+      "title": "Pentagon reaguje na niedobory uzbrojenia. Przyspieszy produkcję pocisków SM-3",
+      "content_html": "Pentagon podpisał umowy z Boeingiem i RTX w sprawie przyspieszenia produkcji elementów pocisków przechwytujących SM-3 Block IIA i SM-3 Block IBtek do systemu obrony przeciwrakietowej Aegis - podał w piątek Reuters, cytując komunikat resortu obrony...",
+      "date_published": "2026-08-14T17:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyciek-danych-pacjentow-Panstwo-dodatkowo-zabezpiecza-system-e-recept-i-e-skierowan-9182520.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyciek-danych-pacjentow-Panstwo-dodatkowo-zabezpiecza-system-e-recept-i-e-skierowan-9182520.html",
+      "title": "Wyciek danych pacjentów. Państwo dodatkowo zabezpiecza system e-recept i e-skierowań",
+      "content_html": "Po wycieku danych pacjentów Centrum e-Zdrowia rozpoczęło prewencyjną i stopniową aktualizację certyfikatów wykorzystywanych do komunikacji z systemem P1 – poinformował w piątek na platformie X wicepremier, minister cyfryzacji Krzysztof Gawkowski...",
+      "date_published": "2026-08-14T17:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-paliw-na-stacjach-w-dol-ale-w-rafineriach-w-gore-Za-to-nadchodzi-nizszy-VAT-9182523.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-paliw-na-stacjach-w-dol-ale-w-rafineriach-w-gore-Za-to-nadchodzi-nizszy-VAT-9182523.html",
+      "title": "Ceny paliw na stacjach w dół, ale w rafineriach w górę. Za to nadchodzi niższy VAT",
+      "content_html": "Drugi tydzień sierpnia przyniósł długo wyczekiwany spadek cen paliw na stacjach. W przeciwnym kierunku poszły stawki w rafineriach. Na szczęście od poniedziałku przez dwa tygodnie będzie obowiązywał obniżony VAT na paliwa",
+      "date_published": "2026-08-14T17:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NanoGroup-chce-przygotowac-strategie-wprowadzenia-NanOX-na-rynek-amerykanski-9182536.html",
+      "url": "https://www.bankier.pl/wiadomosc/NanoGroup-chce-przygotowac-strategie-wprowadzenia-NanOX-na-rynek-amerykanski-9182536.html",
+      "title": "NanoGroup chce przygotować strategię wprowadzenia NanOX na rynek amerykański",
+      "content_html": "NanoSanguis, spółka zależna NanoGroup, zawarła z Tomaszem H. Zastawnym umowę o kierowanie zespołem projektowym i świadczenie usług doradczych, dotyczącą przygotowania strategii wprowadzenia systemu NanOX na rynek amerykański - podało NanoGroup...",
+      "date_published": "2026-08-14T17:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-chca-wiedziec-jak-lojalni-sa-sojusznicy-z-NATO-9182525.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-chca-wiedziec-jak-lojalni-sa-sojusznicy-z-NATO-9182525.html",
+      "title": "USA chcą wiedzieć, jak lojalni są sojusznicy z NATO",
+      "content_html": "USA przekazały krajom NATO kwestionariusz, by zbadać, w jakim stopniu popierają one politykę amerykańskiego prezydenta Donalda Trumpa - napisał w piątek Bloomberg. Waszyngton chce wiedzieć, jak lojalni są sojusznicy, nim ograniczy swoje zasoby...",
+      "date_published": "2026-08-14T16:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
       "url": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
       "title": "Hiszpania zmienia plan dla atomu. Największa elektrownia jądrowa popracuje do 2030 roku",
@@ -653,55 +702,6 @@
       "title": "Romanowski w Naddniestrzu? Morawiecki: Jeśli to się potwierdzi, będzie to skrajnie naganne",
       "content_html": "Gdyby potwierdziło się, że b. wiceszef MS Marcin Romanowski przebywa w Naddniestrzu, byłoby to skrajnie naganne; nie miałbym tutaj żadnych słów usprawiedliwienia dla czegoś takiego - podkreślił w czwartek b. premier, lider stowarzyszenia „Rozwój...",
       "date_published": "2026-08-13T16:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szczatki-przywodcy-OUN-w-Ukrainie-Konowalec-zostanie-pochowany-z-honorami-9181890.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szczatki-przywodcy-OUN-w-Ukrainie-Konowalec-zostanie-pochowany-z-honorami-9181890.html",
-      "title": "Szczątki przywódcy OUN w Ukrainie. Konowalec zostanie pochowany z honorami",
-      "content_html": "Trumna z ciałem pierwszego przywódcy Organizacji Ukraińskich Nacjonalistów (OUN) Jewhena Konowalca, które zostało ekshumowane w Holandii, jest już w Ukrainie – powiadomiła w czwartek Iryna Wereszczuk, zastępczyni szefa kancelarii prezydenta...",
-      "date_published": "2026-08-13T16:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ING-kusi-premia-za-konto-do-800-zl-Sprawdzamy-warunki-9181853.html",
-      "url": "https://www.bankier.pl/wiadomosc/ING-kusi-premia-za-konto-do-800-zl-Sprawdzamy-warunki-9181853.html",
-      "title": "ING kusi premią za konto do 800 zł. Sprawdzamy warunki",
-      "content_html": "Nowy klient ING może zdobyć do 800 zł za założenie konta z planem i comiesięczną aktywność, a program poleceń dokłada kolejne 100 zł. Najwyższą premię przypisano jednak do płatnego konta Extra. Standardowe bezpłatne oferuje bonus w wysokości...",
-      "date_published": "2026-08-13T16:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-przyspiesza-procedury-dla-atomu-Podpisal-nowelizacje-ustawy-9181878.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-przyspiesza-procedury-dla-atomu-Podpisal-nowelizacje-ustawy-9181878.html",
-      "title": "Prezydent przyspiesza procedury dla atomu. Podpisał nowelizację ustawy",
-      "content_html": "Prezydent podpisał nowelizację ustawy o przygotowaniu i realizacji inwestycji w zakresie obiektów energetyki jądrowej oraz inwestycji towarzyszących, która ma skrócić czas realizacji inwestycji w energetyce jądrowej, wprowadzając m.in. etapowanie...",
-      "date_published": "2026-08-13T16:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-ze-spolka-Mostostalu-Zabrze-zrealizuje-konwersje-kotla-w-zakladzie-spolki-Qemetica-9181876.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-ze-spolka-Mostostalu-Zabrze-zrealizuje-konwersje-kotla-w-zakladzie-spolki-Qemetica-9181876.html",
-      "title": "Konsorcjum ze spółką Mostostalu Zabrze zrealizuje konwersję kotła w zakładzie spółki Qemetica",
-      "content_html": "Qemetica podpisała z konsorcjum Mostostal Zabrze Realizacje Przemysłowe i Sumitomo SHI FW umowę na konwersję kotła węglowego na kocioł opalany biomasą w zakładzie w Inowrocławiu - podała spółka w komunikacie prasowym. Wartość kontraktu...",
-      "date_published": "2026-08-13T15:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wicepremier-chce-resetu-TK-Kosiniak-Kamysz-Jestem-zwolennikiem-zmiany-konstytucji-9181868.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wicepremier-chce-resetu-TK-Kosiniak-Kamysz-Jestem-zwolennikiem-zmiany-konstytucji-9181868.html",
-      "title": "Wicepremier chce resetu TK. Kosiniak-Kamysz: Jestem zwolennikiem zmiany konstytucji",
-      "content_html": "Potrzebny jest reset Trybunału Konstytucyjnego - ocenił wicepremier Władysław Kosiniak-Kamysz. Podkreślił, że jest \"absolutnym zwolennikiem zmiany Konstytucji\" ws TK. Według szefa MON, Maciej Berek - o którego kandydaturze do TK donoszą media...",
-      "date_published": "2026-08-13T15:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wegiel-coraz-mniej-wazny-dla-energetyki-UE-Historycznie-niski-udzial-9181858.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wegiel-coraz-mniej-wazny-dla-energetyki-UE-Historycznie-niski-udzial-9181858.html",
-      "title": "Węgiel coraz mniej ważny dla energetyki UE. Historycznie niski udział",
-      "content_html": "Produkcja energii elektrycznej z węgla osiągnęła w 2025 r. najmniejszy udział w historii UE - podał w czwartek Europejski Urząd Statystyczny (Eurostat). Węgiel odpowiadał za 9,2 proc. wytwarzanej energii elektrycznej. Tymczasem w 1990 r. udział...",
-      "date_published": "2026-08-13T15:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-stawia-warunki-otwarcia-Ormuzu-Izraelskie-statki-maja-byc-wykluczone-9181857.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-stawia-warunki-otwarcia-Ormuzu-Izraelskie-statki-maja-byc-wykluczone-9181857.html",
-      "title": "Iran stawia warunki otwarcia Ormuzu. Izraelskie statki mają być wykluczone",
-      "content_html": "Szef komisji spraw zagranicznych i bezpieczeństwa irańskiego parlamentu Behnam Saidi oświadczył w czwartek, że izraelskie statki ani towary nie będą nigdy przepuszczane przez cieśninę Ormuz. Dotyczy to również izraelskich statków pływających...",
-      "date_published": "2026-08-13T15:36:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
