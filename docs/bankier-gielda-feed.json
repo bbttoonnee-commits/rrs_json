@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Quercus-TFI-w-pierwszym-polroczu-26-mial-38-2-mln-zl-zysku-netto-o-75-proc-wiecej-rdr-9182217.html",
+      "url": "https://www.bankier.pl/wiadomosc/Quercus-TFI-w-pierwszym-polroczu-26-mial-38-2-mln-zl-zysku-netto-o-75-proc-wiecej-rdr-9182217.html",
+      "title": "Nadpłynność w bankach napędza fundusze. Zysk Quercus TFI skoczył o ponad 74 proc. W pierwszym półroczu 2026 r. Quercus TFI osiągnęło 38,2 mln zł skonsolidowanego zysku netto wobec 21,9 mln zł przed rokiem, a w samym II kwartale 2026 r. 22,2 mln zł wobec 12,8 mln zł przed rokiem - podało TFI w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-14T07:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-podatkowego-raju-Rzad-uszczelni-fundacje-rodzinne-9182132.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-podatkowego-raju-Rzad-uszczelni-fundacje-rodzinne-9182132.html",
+      "title": "Koniec podatkowego raju? Rząd uszczelni fundacje rodzinne Resort finansów planuje ukrócić wykorzystywanie fundacji rodzinnych do obchodzenia przepisów i unikania płacenia podatku dochodowego. Odpowiednie zmiany znalazły się w projekcie nowelizacji ustaw o PIT i CIT, opublikowanym w czwartek na stronie Rządowego Centrum Legislacji.",
+      "content_html": "",
+      "date_published": "2026-08-14T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ronson-sprzedal-w-pierwszym-polroczu-272-lokale-za-223-mln-zl-9182139.html",
       "url": "https://www.bankier.pl/wiadomosc/Ronson-sprzedal-w-pierwszym-polroczu-272-lokale-za-223-mln-zl-9182139.html",
       "title": "Ronson sprzedał w pierwszym półroczu 272 lokale za 223 mln zł Ronson Development sprzedał w pierwszej połowie 2026 roku łącznie 272 lokale o wartości 223 mln zł - poinformowała spółka w komunikacie prasowym. To wynik o 49 proc. wyższy niż w analogicznym okresie ubiegłego roku. Przekazanych zostało w tym czasie 135 lokali.",
@@ -345,20 +359,6 @@
       "title": "Ceny ropy rosną. Rynek nie wierzy w szybkie odblokowanie cieśniny Ormuz Notowania ropy naftowej na świecie powiększają zwyżki. Na rynkach dominuje sceptycyzm co do perspektyw zawarcia umowy pokojowej USA z Iranem, która spowodowałaby przywrócenie przepływów nośników energii przez cieśninę Ormuz - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-08-12T07:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-podniosl-cene-docelowa-akcji-Oponeo-pl-do-124-zl-9181023.html",
-      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-podniosl-cene-docelowa-akcji-Oponeo-pl-do-124-zl-9181023.html",
-      "title": "East Value Research podniósł cenę docelową akcji Oponeo.pl Analitycy East Value Research w raporcie z 12 sierpnia podnieśli 12-miesięczną cenę docelową akcji Oponeo.pl do 124 zł ze 100 zł wcześniej i podtrzymali dla nich rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-08-12T07:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielka-sukcesja-i-nowe-zrodla-kapitalu-Jak-mlode-pokolenie-przejmuje-wielomilionowe-majatki-9180089.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielka-sukcesja-i-nowe-zrodla-kapitalu-Jak-mlode-pokolenie-przejmuje-wielomilionowe-majatki-9180089.html",
-      "title": "Wielka sukcesja i nowe źródła kapitału. Jak młode pokolenie przejmuje wielomilionowe majątki W dobie gwałtownych zmian geopolitycznych, skokowej cyfryzacji oraz nadchodzącej fali wielkiej sukcesji, bankowość prywatna przechodzi głęboką transformację. O tym, jak zmieniają się potrzeby najzamożniejszych klientów, gdzie dziś szukają bezpieczeństwa i jak technologia wspiera tradycyjną relację z doradcą bankowym, oraz o przyszłości sektora Private Banking w Europie rozmawiamy z Renatą Kamodą, szefową Private Banking & Wealth Management UniCredit.",
-      "content_html": "",
-      "date_published": "2026-08-12T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
