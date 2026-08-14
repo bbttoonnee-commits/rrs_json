@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Mangione-przyznal-sie-do-zastrzelenia-szefa-UnitedHealthcare-Briana-Thompsona-9182674.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mangione-przyznal-sie-do-zastrzelenia-szefa-UnitedHealthcare-Briana-Thompsona-9182674.html",
+      "title": "Mangione przyznał się do zastrzelenia szefa UnitedHealthcare Briana Thompsona",
+      "content_html": "Luigi Mangione, oskarżony o zabójstwo szefa UnitedHealthcare Briana Thompsona, przyznał się w piątek w sądzie federalnym do zastrzelenia Thompsona i prześladowania go w celu zabójstwa – podała agencja AP. Obrona wniosła o oddalenie stanowych...",
+      "date_published": "2026-08-14T20:31:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wy-do-Ukrainy-Policja-zatrzymala-dwie-agresywne-kobiety-po-ataku-w-Poznaniu-9182668.html",
       "url": "https://www.bankier.pl/wiadomosc/Wy-do-Ukrainy-Policja-zatrzymala-dwie-agresywne-kobiety-po-ataku-w-Poznaniu-9182668.html",
       "title": "„Wy… do Ukrainy”. Policja zatrzymała dwie agresywne kobiety po ataku w Poznaniu",
@@ -142,6 +149,20 @@
       "title": "Inflacja bazowa stabilnie podwyższona. 2,5-procentowy cel wciąż przekroczony",
       "content_html": "Lipcowy odczyt inflacji bazowej w Polsce okazał się minimalnie niższy od oczekiwań analityków i utrzymał się na poziomie sprzed miesiąca.",
       "date_published": "2026-08-14T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Minister-energii-odmowil-JSW-stwierdzenia-i-zwrotu-nadplaty-z-tytulu-skladki-solidarnosciowej-9182457.html",
+      "url": "https://www.bankier.pl/wiadomosc/Minister-energii-odmowil-JSW-stwierdzenia-i-zwrotu-nadplaty-z-tytulu-skladki-solidarnosciowej-9182457.html",
+      "title": "Minister energii odmówił JSW stwierdzenia i zwrotu nadpłaty z tytułu składki solidarnościowej",
+      "content_html": "Minister energii wydał decyzję o odmowie stwierdzenia i zwrotu nadpłaty z tytułu składki solidarnościowej uznając, że wniosek JSW jest niezasadny - podała JSW w komunikacie. Decyzja jest ostateczna w postępowaniu administracyjnym, ale zarząd...",
+      "date_published": "2026-08-14T15:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukrainska-firma-zbuduje-na-Litwie-fabryke-amunicji-Powstanie-450-miejsc-pracy-9182439.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukrainska-firma-zbuduje-na-Litwie-fabryke-amunicji-Powstanie-450-miejsc-pracy-9182439.html",
+      "title": "Ukraińska firma zbuduje na Litwie fabrykę amunicji. Powstanie 450 miejsc pracy",
+      "content_html": "Litewski minister gospodarki Edvinas Grikszas oraz szef ukraińskiego przedsiębiorstwa DEMZ Jewhen Muzykin podpisali w piątek w Wilnie umowę w sprawie produkowania na Litwie amunicji przez tę firmę. Według rządu w Wilnie produkcja będzie przeznaczona...",
+      "date_published": "2026-08-14T14:46:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Czy-mamy-powtorke-z-roku-2007-Jaroszek-i-Kolany-komentuja-stan-rynku-9182427.html",
@@ -681,13 +702,6 @@
       "title": "Wirus Zachodniego Nilu w Europie. Grecja odnotowuje gwałtowny wzrost zakażeń",
       "content_html": "Greckie służby medyczne odnotowały znaczny wzrost liczby zakażeń wirusem Zachodniego Nilu (WNF) – w ciągu ostatniego tygodnia zgłoszono 45 nowych przypadków - przekazał w czwartek portal Ekathimerini. Od początku tegorocznego sezonu zachorowało...",
       "date_published": "2026-08-13T17:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/21-nowych-generalow-w-Wojsku-Polskim-Nominacje-wreczy-prezydent-9181795.html",
-      "url": "https://www.bankier.pl/wiadomosc/21-nowych-generalow-w-Wojsku-Polskim-Nominacje-wreczy-prezydent-9181795.html",
-      "title": "21 nowych generałów w Wojsku Polskim. Nominacje wręczy prezydent",
-      "content_html": "Prezydent Karol Nawrocki zaakceptował, a premier Donald Tusk kontrasygnował 21 nominacji generalskich, które zostaną wręczone podczas sobotnich obchodów Święta Wojska Polskiego – poinformował w czwartek wicepremier, szef MON Władysław Kosiniak-Kamysz...",
-      "date_published": "2026-08-13T17:12:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
