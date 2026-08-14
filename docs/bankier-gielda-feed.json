@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-GTC-zdecydowal-o-rozpoczeciu-przegladu-opcji-strategicznych-dot-inwestycji-w-spolke-9182438.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-GTC-zdecydowal-o-rozpoczeciu-przegladu-opcji-strategicznych-dot-inwestycji-w-spolke-9182438.html",
+      "title": "Akcjonariusz GTC zdecydował o rozpoczęciu przeglądu opcji strategicznych dot. inwestycji w spółkę Pośredni akcjonariusz większościowy GTC, czyli Optima Befektetési Zrt., zdecydował o rozpoczęciu przeglądu opcji strategicznych dotyczących inwestycji w spółce - podało GTC w komunikacie. Rozważane opcje obejmują m.in. zbycie pakietu akcji na rzecz inwestora strategicznego lub finansowego.",
+      "content_html": "",
+      "date_published": "2026-08-14T13:36:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-polsko-chinskie-pakiety-makroekonomiczne-i-rating-Polski-9182390.html",
       "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-polsko-chinskie-pakiety-makroekonomiczne-i-rating-Polski-9182390.html",
       "title": "Tym będą żyły rynki: polsko-chińskie pakiety makroekonomiczne i rating Polski Trzeci tydzień sierpnia przyniesie publikację „paczek makroekonomicznych” z Polski i Chin. Rating Polski ocenią analitycy Fitcha. Inwestorzy z GPW otrzymają też już mocno leciwe sprawozdania finansowe za I półrocze.",
@@ -13,7 +20,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Prezes-Quercus-TFI-przekonany-o-sukcesie-OKI-liczy-na-wzrost-naplywow-do-TFI-9182388.html",
       "url": "https://www.bankier.pl/wiadomosc/Prezes-Quercus-TFI-przekonany-o-sukcesie-OKI-liczy-na-wzrost-naplywow-do-TFI-9182388.html",
-      "title": "1,5 bln złotych na celowniku funduszy. Prezes Quercus TFI wróżysz sukces OKI Prezes Quercus TFI Sebastian Buczek jest przekonany, że Osobiste Konta Inwestycyjne okażą się sukcesem i będą istotnym katalizatorem rozwoju polskiego rynku kapitałowego. Liczy, że OKI spowodują mocniejsze przepływy oszczędności z lokat bankowych do funduszy inwestycyjnych.",
+      "title": "1,5 bln złotych na celowniku funduszy. Prezes Quercus TFI wróży sukces OKI Prezes Quercus TFI Sebastian Buczek jest przekonany, że Osobiste Konta Inwestycyjne okażą się sukcesem i będą istotnym katalizatorem rozwoju polskiego rynku kapitałowego. Liczy, że OKI spowodują mocniejsze przepływy oszczędności z lokat bankowych do funduszy inwestycyjnych.",
       "content_html": "",
       "date_published": "2026-08-14T12:26:00+02:00"
     },
@@ -331,13 +338,6 @@
       "title": "Inflacja z Ameryki nie wstrząsnęła rynkami. Wszystko poszło zgodnie z oczekiwaniami Inflacja CPI nieznacznie spadła, ale wciąż pozostaje zdecydowanie zbyt wysoka względem 2-procentowego celu Rezerwy Federalnej.",
       "content_html": "",
       "date_published": "2026-08-12T14:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Budimex-realizuje-dla-GDDKiA-kontrakty-warte-10-1-mld-zl-9181205.html",
-      "url": "https://www.bankier.pl/wiadomosc/Budimex-realizuje-dla-GDDKiA-kontrakty-warte-10-1-mld-zl-9181205.html",
-      "title": "Budimex realizuje dla GDDKiA kontrakty warte 10,1 mld zł Budimex realizuje dla GDDKiA kontrakty warte 10,1 mld zł - podała Generalna Dyrekcja Dróg Krajowych i Autostrad w komunikacie. Mirbud ma natomist w portfelu kontrakty warte 7,8 mld zł.",
-      "content_html": "",
-      "date_published": "2026-08-12T13:04:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
