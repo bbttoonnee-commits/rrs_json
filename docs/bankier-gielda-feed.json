@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/EuroPKB-Polska-na-podium-wzrostu-gospodarczego-w-II-kwartale-2026-9182330.html",
+      "url": "https://www.bankier.pl/wiadomosc/EuroPKB-Polska-na-podium-wzrostu-gospodarczego-w-II-kwartale-2026-9182330.html",
+      "title": "EuroPKB: Polska na podium wzrostu gospodarczego. Strefa euro bez recesji Pomimo trwającego kryzysu energetycznego strefie euro ponownie udało się wymknąć z objęć tzw. technicznej recesji. Tymczasem Polska zanotowała trzecie najszybsze tempo wzrostu PKB wśród krajów Unii Europejskiej.",
+      "content_html": "",
+      "date_published": "2026-08-14T11:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Quercus-TFI-pracuje-nad-czterema-projektami-akwizycyjnymi-w-tym-dot-ubezpieczyciela-9182328.html",
+      "url": "https://www.bankier.pl/wiadomosc/Quercus-TFI-pracuje-nad-czterema-projektami-akwizycyjnymi-w-tym-dot-ubezpieczyciela-9182328.html",
+      "title": "Quercus TFI pracuje nad czterema projektami akwizycyjnymi, w tym dot. ubezpieczyciela Quercus TFI pracuje obecnie nad czterema projektami akwizycyjnymi, w tym jeden z nich dotyczy ubezpieczyciela - poinformował prezes Quercus TFI Sebastian Buczek. Nie podał więcej szczegółów.",
+      "content_html": "",
+      "date_published": "2026-08-14T10:54:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prawie-20-mld-zl-w-ETF-ach-Skad-bierze-sie-ich-popularnosc-9182306.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prawie-20-mld-zl-w-ETF-ach-Skad-bierze-sie-ich-popularnosc-9182306.html",
+      "title": "WAKACJE NA GIEŁDZIE Prawie 20 mld zł w ETF-ach. Skąd bierze się ich popularność? Na koniec czerwca 2026 r. Polacy mieli w instrumentach ETF, ETC i ETN notowanych na giełdzie 19,6 mld zł – o 52 proc. więcej niż pół roku wcześniej. Równolegle rekordy bije GPW, gdzie obroty w tym segmencie przekroczyły w sześć miesięcy wynik z całego 2025 r. Michał Kobza, członek zarządu GPW, wyjaśnia, dlaczego ETF-y przyciągają inwestorów i jaką rolę mogą odgrywać w portfelu długoterminowym.",
+      "content_html": "",
+      "date_published": "2026-08-14T10:25:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Quercus-TFI-w-pierwszym-polroczu-26-mial-38-2-mln-zl-zysku-netto-o-75-proc-wiecej-rdr-9182217.html",
       "url": "https://www.bankier.pl/wiadomosc/Quercus-TFI-w-pierwszym-polroczu-26-mial-38-2-mln-zl-zysku-netto-o-75-proc-wiecej-rdr-9182217.html",
       "title": "Nadpłynność w bankach napędza fundusze. Zysk Quercus TFI skoczył o ponad 74 proc. W pierwszym półroczu 2026 r. Quercus TFI osiągnęło 38,2 mln zł skonsolidowanego zysku netto wobec 21,9 mln zł przed rokiem, a w samym II kwartale 2026 r. 22,2 mln zł wobec 12,8 mln zł przed rokiem - podało TFI w komunikacie.",
@@ -317,13 +338,6 @@
       "title": "Archicom rozpoczyna przedsprzedaż 103 mieszkań pod Wrocławiem Archicom rozpoczyna przedsprzedaż pierwszego etapu osiedla Moje Iwiny powstającego na przedmieściach Wrocławia - poinformował deweloper w komunikacie prasowym. W tym etapie zaplanowano 103 mieszkania. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-08-12T11:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fitch-utrzymal-rating-GTC-na-poziomie-B-i-usunal-go-z-listy-obserwacyjnej-ze-wskazaniem-negatywnym-9181106.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fitch-utrzymal-rating-GTC-na-poziomie-B-i-usunal-go-z-listy-obserwacyjnej-ze-wskazaniem-negatywnym-9181106.html",
-      "title": "Fitch utrzymał rating GTC na poziomie B i usunął go z listy obserwacyjnej ze wskazaniem negatywnym Agencja Fitch Ratings potwierdziła długoterminowy rating IDR dla spółki GTC na poziomie \"B\" i wycofała go z listy obserwacyjnej z perspektywą negatywną (RWN) - poinformowała agencja w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-12T10:36:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
