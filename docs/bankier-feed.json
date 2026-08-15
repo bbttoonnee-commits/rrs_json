@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Islandia-coraz-blizej-UE-Przed-referendum-jest-remis-9178891.html",
+      "url": "https://www.bankier.pl/wiadomosc/Islandia-coraz-blizej-UE-Przed-referendum-jest-remis-9178891.html",
+      "title": "Islandia coraz bliżej UE? Przed referendum jest remis",
+      "content_html": "Przed referendum na Islandii zaplanowanym na 29 sierpnia szanse zwolenników, jak i przeciwników wznowienia negocjacji z UE na temat członkostwa są wyrównane; obie strony gromadzą po 46 proc. – wynika z sondażu Gallupa opublikowanego w czwartek...",
+      "date_published": "2026-08-15T16:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Liban-zniosl-kare-smierci-jako-pierwsze-panstwo-arabskie-9180733.html",
+      "url": "https://www.bankier.pl/wiadomosc/Liban-zniosl-kare-smierci-jako-pierwsze-panstwo-arabskie-9180733.html",
+      "title": "Liban zniósł karę śmierci jako pierwsze państwo arabskie",
+      "content_html": "Parlament Libanu zniósł we wtorek karę śmierci, zastępując je karą dożywotniego pozbawienia wolności i ciężkich robót. To pierwsze państwo arabskie, które zdecydowało się na taki krok. Według Amnesty International w 2025 r. w krajach...",
+      "date_published": "2026-08-15T16:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-odpowiada-Nawrockiemu-Wyjasnil-co-oznacza-Polska-SAFE-9182853.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-odpowiada-Nawrockiemu-Wyjasnil-co-oznacza-Polska-SAFE-9182853.html",
+      "title": "Kosiniak-Kamysz odpowiada Nawrockiemu. Wyjaśnił, co oznacza „Polska SAFE”",
+      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz podkreślił, że hasłem tegorocznych obchodów Święta Wojska Polskiego jest „Polska SAFE – Bezpieczna Polska”. - „S” jak sojusze, „A” jak armia, „F” jak fabryki, „E” jak Europa...",
+      "date_published": "2026-08-15T16:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dramatycznie-niski-poziom-Dunaju-Wegry-zatopily-barki-by-ratowac-elektrownie-atomowa-9182848.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dramatycznie-niski-poziom-Dunaju-Wegry-zatopily-barki-by-ratowac-elektrownie-atomowa-9182848.html",
+      "title": "Dramatycznie niski poziom Dunaju. Węgry zatopiły barki, by ratować elektrownię atomową",
+      "content_html": "Węgierskie władze, podejmując działania w celu podniesienia poziomu wody w Dunaju, zanurzyły w sobotę dwie barki przy elektrowni jądrowej w Paksu. Premier Peter Magyar ogłosił tego dnia, że w pobliżu obiektu trwają obecnie „najtrudniejsze...",
+      "date_published": "2026-08-15T15:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Prawie-co-drugi-wpis-wrogi-Niepokojacy-raport-o-polskim-Internecie-i-Ukraincach-9180708.html",
       "url": "https://www.bankier.pl/wiadomosc/Prawie-co-drugi-wpis-wrogi-Niepokojacy-raport-o-polskim-Internecie-i-Ukraincach-9180708.html",
       "title": "Prawie co drugi wpis wrogi. Niepokojący raport o polskim Internecie i Ukraińcach",
@@ -58,6 +86,13 @@
       "title": "Siły Zbrojne Ukrainy pogratulowały Polsce z okazji Święta Wojska Polskiego",
       "content_html": "Sztab Generalny Sił Zbrojnych Ukrainy złożył w sobotę gratulacje Polsce z okazji Święta Wojska Polskiego. Strona ukraińska podziękowała za wieloletnie wsparcie wojskowe, szkolenie żołnierzy i pomoc logistyczną. Podziękowano też narodowi...",
       "date_published": "2026-08-15T15:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mocne-przemowienie-Nawrockiego-na-defiladzie-Mowil-o-armii-sojuszach-i-politycznych-sporach-9182844.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mocne-przemowienie-Nawrockiego-na-defiladzie-Mowil-o-armii-sojuszach-i-politycznych-sporach-9182844.html",
+      "title": "Mocne przemówienie Nawrockiego na defiladzie. Mówił o armii, sojuszach i politycznych sporach",
+      "content_html": "Prezydent Karol Nawrocki powiedział w sobotę, w dniu Święta Wojska Polskiego, że naród polski doskonale zna cenę płaconą za niepodległość, za wolność i prowadzone wojny. Dodał, że 15 sierpnia to dla niego i innych władz państwowych „dzień...",
+      "date_published": "2026-08-15T15:11:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Premier-Chcemy-uniknac-wojny-a-wojny-uniknie-tylko-ten-kto-jest-silny-niepodlegly-i-suwerenny-9182845.html",
@@ -667,34 +702,6 @@
       "title": "Wojsko Polskie coraz liczniejsze. Cel to pół miliona żołnierzy i rezerwistów",
       "content_html": "Według najnowszych danych Wojsko Polskie liczy obecnie już ponad 220 tys. żołnierzy w służbie czynnej. Kierownictwo MON i dowódcy chcą, żeby docelowo w armii znalazło się pół miliona ludzi - żołnierzy w służbie czynnej i rezerwistów...",
       "date_published": "2026-08-14T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawie-milion-Ukraincow-korzysta-z-ochrony-czasowej-w-Polsce-Sa-nowe-dane-9182201.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawie-milion-Ukraincow-korzysta-z-ochrony-czasowej-w-Polsce-Sa-nowe-dane-9182201.html",
-      "title": "Prawie milion Ukraińców korzysta z ochrony czasowej w Polsce. Są nowe dane",
-      "content_html": "Ponad 950 tys. obywateli Ukrainy ma w rejestrze PESEL nadany status UKR, co jest równoznaczne z korzystaniem z ochrony tymczasowej w Polsce - wynika z informacji przekazanych PAP przez resort cyfryzacji. W tym roku status UKR nadano 47 tys. osób.",
-      "date_published": "2026-08-14T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanie-stawiaja-na-drony-Nowa-grupa-zadaniowa-na-Bliskim-Wschodzie-9182120.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanie-stawiaja-na-drony-Nowa-grupa-zadaniowa-na-Bliskim-Wschodzie-9182120.html",
-      "title": "Amerykanie stawiają na drony. Nowa grupa zadaniowa na Bliskim Wschodzie",
-      "content_html": "Centralne Dowództwo Stanów Zjednoczonych (CENTCOM) ogłosiło w czwartek, że przystępuje do tworzenia wielonarodowej grupy zadaniowej ds. dronów bojowych Task Force Falcon Strike. Grupa będzie wykorzystywać powietrzne, nawodne i podwodne drony...",
-      "date_published": "2026-08-14T08:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-trzyletniego-sporu-Tesli-w-Szwecji-Firma-wykupila-strajkujacych-9182115.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-trzyletniego-sporu-Tesli-w-Szwecji-Firma-wykupila-strajkujacych-9182115.html",
-      "title": "Koniec trzyletniego sporu Tesli w Szwecji. Firma \"wykupiła\" strajkujących",
-      "content_html": "Szwedzki Związek Zawodowy IF Metal ogłosił zakończenie trwającego od blisko trzech lat sporu z działającą w Szwecji spółką amerykańskiego producenta samochodów elektrycznych Tesla. Firma „wykupiła” strajkujących związkowców. Wysokości...",
-      "date_published": "2026-08-14T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-127-tys-Kanadyjczykow-chce-wydalenia-ambasadora-USA-Persona-non-grata-9182133.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-127-tys-Kanadyjczykow-chce-wydalenia-ambasadora-USA-Persona-non-grata-9182133.html",
-      "title": "Ponad 127 tys. Kanadyjczyków chce wydalenia ambasadora USA. \"Persona non grata\"",
-      "content_html": "Ponad 127 tys. Kanadyjczyków podpisało do południa w czwartek petycję o uznanie ambasadora USA Pete'a Hoekstry za persona non grata. Petycję zainicjowała mieszkanka Calgary. Izba Gmin zajmie się petycją w listopadzie br.",
-      "date_published": "2026-08-14T08:17:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
