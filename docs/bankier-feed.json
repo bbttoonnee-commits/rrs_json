@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sily-Zbrojne-Ukrainy-pogratulowaly-Polsce-z-okazji-Swieta-Wojska-Polskiego-9182819.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sily-Zbrojne-Ukrainy-pogratulowaly-Polsce-z-okazji-Swieta-Wojska-Polskiego-9182819.html",
+      "title": "Siły Zbrojne Ukrainy pogratulowały Polsce z okazji Święta Wojska Polskiego",
+      "content_html": "Sztab Generalny Sił Zbrojnych Ukrainy złożył w sobotę gratulacje Polsce z okazji Święta Wojska Polskiego. Strona ukraińska podziękowała za wieloletnie wsparcie wojskowe, szkolenie żołnierzy i pomoc logistyczną. Podziękowano też narodowi...",
+      "date_published": "2026-08-15T12:03:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wynajmujacy-chca-wiecej-regulacji-niz-najemcy-Padly-konkretne-liczby-9180555.html",
       "url": "https://www.bankier.pl/wiadomosc/Wynajmujacy-chca-wiecej-regulacji-niz-najemcy-Padly-konkretne-liczby-9180555.html",
       "title": "Wynajmujący chcą więcej regulacji niż najemcy. Padły konkretne liczby",
@@ -694,13 +701,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Nowe-przepisy-i-obowiazki-dotyczace-opakowan-Bedzie-wiele-zmian-O-jakich-zasadach-musza-pamietac-firmy-9181938.html",
       "title": "Nowe obowiązki dotyczące opakowań. Kogo obejmą? A to dopiero początek zmian",
       "content_html": "12 sierpnia wszedł w życie pierwszy pakiet nowych przepisów unijnego rozporządzenia PPWR (Packaging and Packaging Waste Regulation) dotyczącego opakowań. Obciążają one firmy nowymi obowiązkami. Zmian będzie dużo więcej - w następnych latach...",
-      "date_published": "2026-08-14T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-Komercyjne-zapasy-wzrosly-ale-strategiczne-pukaja-do-dna-9181939.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ameryka-jedzie-na-rezerwie-Komercyjne-zapasy-wzrosly-ale-strategiczne-pukaja-do-dna-9181939.html",
-      "title": "Ameryka jedzie na rezerwie. Komercyjne zapasy wzrosły, ale strategiczne pukają do dna",
-      "content_html": "Do najniższego poziomu od 43 lat stopniała słynna rezerwa strategiczna rządu USA. Nieoczekiwanie - i zapewne tylko jednorazowo - wzrosły za to prywatne zapasy ropy naftowej w Ameryce.",
       "date_published": "2026-08-14T07:00:00+02:00"
     }
   ],
