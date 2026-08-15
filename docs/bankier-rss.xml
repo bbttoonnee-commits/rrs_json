@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 15 Aug 2026 16:14:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:12:00 +0200</lastBuildDate>
     <item>
       <title>Wojsko Polskie coraz liczniejsze. Cel to pół miliona żołnierzy i rezerwistów</title>
       <link>https://www.bankier.pl/wiadomosc/Wojsko-Polskie-coraz-liczniejsze-Cel-to-pol-miliona-zolnierzy-i-rezerwistow-9182194.html</link>
@@ -661,13 +661,6 @@
       <pubDate>Sat, 15 Aug 2026 15:30:00 +0200</pubDate>
     </item>
     <item>
-      <title>Wielki pokaz siły w Warszawie. Polska armia pokazuje swoją potęgę</title>
-      <link>https://www.bankier.pl/wiadomosc/Wielki-pokaz-sily-w-Warszawie-Polska-armia-pokazuje-swoja-potege-9182839.html</link>
-      <description>Z udziałem m.in. zwierzchnika Sił Zbrojnych RP, prezydenta Karola Nawrockiego i wicepremiera, szefa MON Władysława Kosiniaka-Kamysza kilkanaście minut po godz. 12 w Warszawie rozpoczęła się wojskowa defilada, w której biorą udział reprezentanci...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielki-pokaz-sily-w-Warszawie-Polska-armia-pokazuje-swoja-potege-9182839.html</guid>
-      <pubDate>Sat, 15 Aug 2026 15:33:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Wydamy 1,9 bln zł na zbrojenia. Ekonomiści ostrzegają przed haczykiem</title>
       <link>https://www.bankier.pl/wiadomosc/Wydamy-1-9-bln-zl-na-zbrojenia-Ekonomisci-ostrzegaja-przed-haczykiem-9179916.html</link>
       <description>Wydatki na armię mogą się stać motorem napędowym dla polskiej gospodarki - oceniają ekonomiści. W ich opinii będzie to możliwe wówczas, gdy publiczne zamówienia będą się w większym stopniu...</description>
@@ -708,6 +701,13 @@
       <description>Przed referendum na Islandii zaplanowanym na 29 sierpnia szanse zwolenników, jak i przeciwników wznowienia negocjacji z UE na temat członkostwa są wyrównane; obie strony gromadzą po 46 proc. – wynika z sondażu Gallupa opublikowanego w czwartek...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Islandia-coraz-blizej-UE-Przed-referendum-jest-remis-9178891.html</guid>
       <pubDate>Sat, 15 Aug 2026 16:14:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wielki pokaz siły w Warszawie. Polska armia pokazała swoją potęgę</title>
+      <link>https://www.bankier.pl/wiadomosc/Wielki-pokaz-sily-w-Warszawie-Polska-armia-pokazuje-swoja-potege-9182839.html</link>
+      <description>W sobotę, w Święto Wojska Polskiego, warszawską Wisłostradą przeszła wojskowa defilada, w której uczestniczyło ok. 2 tys. żołnierzy polskich i sojuszniczych oraz ok. 300 sztuk sprzętu wojskowego. Defiladę podziwiali przedstawiciele władz...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wielki-pokaz-sily-w-Warszawie-Polska-armia-pokazuje-swoja-potege-9182839.html</guid>
+      <pubDate>Sat, 15 Aug 2026 18:12:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
