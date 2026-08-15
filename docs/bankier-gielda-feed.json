@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Giganci-swiata-finansow-ostrzegaja-przed-czarnymi-scenariuszami-ale-inwestorzy-ignoruja-strach-9182566.html",
+      "url": "https://www.bankier.pl/wiadomosc/Giganci-swiata-finansow-ostrzegaja-przed-czarnymi-scenariuszami-ale-inwestorzy-ignoruja-strach-9182566.html",
+      "title": "O TYM MÓWI WALL STREET Giganci świata finansów ostrzegają przed czarnymi scenariuszami, ale inwestorzy ignorują strach Najwięksi gracze w świecie finansów ostrzegają przed czarnymi scenariuszami – od pęknięcia bańki sztucznej inteligencji po całkowite wyparowanie największego funduszu majątkowego świata. Mimo to inwestorzy na Wall Street handlują tak, jakby zupełnie zapomnieli, czym jest strach, a analitycy wciąż podnoszą prognozy dla giełdowych indeksów.",
+      "content_html": "",
+      "date_published": "2026-08-15T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Lekkie-spadki-na-Wall-Street-na-koniec-tygodnia-9182734.html",
       "url": "https://www.bankier.pl/wiadomosc/Lekkie-spadki-na-Wall-Street-na-koniec-tygodnia-9182734.html",
       "title": "Lekkie spadki na Wall Street na koniec tygodnia Piątkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, ale w skali całego tygodnia S&P 500 zanotował trzeci wzrost z rzędu. W górę szły notowania ropy naftowej po ponownej eskalacji konfliktu na Bliskim Wschodzie.",
@@ -310,20 +317,6 @@
       "title": "Jest porozumienie w rodzinie i biznesach Zygmunta Solorza Zygmunt Solorz dogadał się z dziećmi, rodzinnemu imperium przewodzić będzie Piotr Żak, a ojciec ma wrócić do rad nadzorczych jako członek honorowy - pisze „Puls Biznesu”. Zaznacza, że porozumienie jest wstępne, a szczegóły są dopracowywane.",
       "content_html": "",
       "date_published": "2026-08-13T07:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PKO-BP-w-II-kw-26-wyniosl-2-77-mld-zl-zgodny-z-oczekiwaniami-9181521.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PKO-BP-w-II-kw-26-wyniosl-2-77-mld-zl-zgodny-z-oczekiwaniami-9181521.html",
-      "title": "PKO BP z mocnym wynikiem. Zysk banku przekroczył 2,7 mld zł Zysk netto grupy PKO BP w II kwartale 2026 r. wzrósł do 2.768 mln zł z 2.661 mln zł rok wcześniej - poinformował bank w raporcie. Zysk okazał zgodny z oczekiwaniami analityków, którzy prognozowali, że wyniesie on 2.764,5 mln zł.",
-      "content_html": "",
-      "date_published": "2026-08-13T06:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Indeks-MSCI-Poland-Small-Cap-opuszcza-Azoty-i-Pepci-wejda-Asbis-i-GPW-9181515.html",
-      "url": "https://www.bankier.pl/wiadomosc/Indeks-MSCI-Poland-Small-Cap-opuszcza-Azoty-i-Pepci-wejda-Asbis-i-GPW-9181515.html",
-      "title": "Indeks MSCI Poland Small Cap opuszczą Azoty i Pepco, wejdą Asbis i GPW W wyniku kwartalnej rewizji, indeks MSCI Poland Small Cap opuszczą Grupa Azoty i Pepco Group, a wejdą Asbis i GPW - podano na stronoie MSCI.",
-      "content_html": "",
-      "date_published": "2026-08-13T06:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
