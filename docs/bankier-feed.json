@@ -564,6 +564,13 @@
       "date_published": "2026-08-14T16:56:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
+      "title": "Hiszpania zmienia plan dla atomu. Największa elektrownia jądrowa popracuje do 2030 roku",
+      "content_html": "Planujący całkowite wygaszenie energetyki jądrowej hiszpański rząd przedłużył w piątek o dwa lata, do 2030 roku, zezwolenie na eksploatację największej pod względem produkcji energii w kraju elektrowni atomowej znajdującej się w Almaraz...",
+      "date_published": "2026-08-14T16:42:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
       "title": "Rosja odrzuciła propozycję Ukrainy ws. zawieszenia broni na Morzu Czarnym",
@@ -695,13 +702,6 @@
       "title": "Quercus TFI pracuje nad czterema projektami akwizycyjnymi, w tym dot. ubezpieczyciela",
       "content_html": "Quercus TFI pracuje obecnie nad czterema projektami akwizycyjnymi, w tym jeden z nich dotyczy ubezpieczyciela - poinformował prezes Quercus TFI Sebastian Buczek. Nie podał więcej szczegółów.",
       "date_published": "2026-08-14T11:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Borsuki-Abramsy-i-F-35-Szef-MON-Dziekuje-podatnikom-finansujacym-rozwoj-i-modernizacje-armii-9182320.html",
-      "url": "https://www.bankier.pl/wiadomosc/Borsuki-Abramsy-i-F-35-Szef-MON-Dziekuje-podatnikom-finansujacym-rozwoj-i-modernizacje-armii-9182320.html",
-      "title": "Borsuki, Abramsy i F-35. Szef MON: Dziękuję podatnikom finansującym rozwój i modernizację armii",
-      "content_html": "Święto Wojska Polskiego jest nie tylko dniem wdzięczności wobec żołnierzy, ale też wyrazem uznania dla podatników finansujących rozwój i modernizację armii – podkreślił w piątek wicepremier, szef MON Władysław Kosiniak-Kamysz. Dodał...",
-      "date_published": "2026-08-14T11:44:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
