@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-Budapeszcie-brakuje-co-najmniej-3-tys-policjantow-Wladze-dzielnic-apeluja-o-pomoc-9180995.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Budapeszcie-brakuje-co-najmniej-3-tys-policjantow-Wladze-dzielnic-apeluja-o-pomoc-9180995.html",
+      "title": "W Budapeszcie brakuje co najmniej 3 tys. policjantów. Władze dzielnic apelują o pomoc",
+      "content_html": "Burmistrzowie kilku dzielnic Budapesztu zaapelowali do rządu Węgier o pomoc w walce z przestępczością, poprzez m.in. zwiększenie liczby funkcjonariuszy policji - podał we wtorek portal Daily News Hungary. Węgierskie media oszacowały, że w mieście...",
+      "date_published": "2026-08-15T08:07:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polscy-przedsiebiorcy-nie-ufaja-kontrahentom-W-jednym-regionie-ostroznosc-jest-najwieksza-9180437.html",
       "url": "https://www.bankier.pl/wiadomosc/Polscy-przedsiebiorcy-nie-ufaja-kontrahentom-W-jednym-regionie-ostroznosc-jest-najwieksza-9180437.html",
       "title": "Polscy przedsiębiorcy nie ufają kontrahentom. W jednym regionie ostrożność jest największa",
@@ -695,13 +702,6 @@
       "title": "Atak Huti na obóz sił rządowych w Jemenie. 2 żołnierzy nie żyje, 15 rannych",
       "content_html": "Dwóch żołnierzy zginęło, a 15 zostało rannych w ataku rebeliantów Huti na obóz sił rządowych na wschodzie kraju, w rejonie pustyni Al Abr w prowincji Hadramaut - poinformowała w czwartek jemeńska telewizja Al-Dżumhurijja.",
       "date_published": "2026-08-13T19:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-I-polr-26-na-22-7-mln-zl-9182021.html",
-      "url": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-I-polr-26-na-22-7-mln-zl-9182021.html",
-      "title": "DataWalk szacuje skorygowaną stratę EBITDA w I półr. '26 na 22,7 mln zł",
-      "content_html": "Grupa DataWalk szacuje skorygowaną stratę EBITDA w pierwszym półroczu 2026 r. na 22,7 mln zł, wobec 2,15 mln zł straty w analogicznym okresie 2025 r. - podała spółka w komunikacie. Przychody grupy szacowane są na 11 mln zł, co oznacza spadek...",
-      "date_published": "2026-08-13T18:53:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
