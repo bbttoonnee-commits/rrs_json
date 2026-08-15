@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Policja-zatrzymala-ponad-110-osob-probujacych-przekroczyc-granice-z-Ceuta-9182902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Policja-zatrzymala-ponad-110-osob-probujacych-przekroczyc-granice-z-Ceuta-9182902.html",
+      "title": "Policja zatrzymała ponad 110 osób próbujących przekroczyć granicę z Ceutą",
+      "content_html": "Marokańska policja zatrzymała co najmniej 111 osób, które w sobotę próbowały przedostać się do Ceuty, hiszpańskiej enklawy w Afryce Płn. W Maroku i Ceucie zaostrzono środki bezpieczeństwa po wpisach w serwisach społecznościowych wzywających...",
+      "date_published": "2026-08-15T21:37:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Hugh-Hefner-wielokrotnie-zglaszal-FBI-Jeffreya-Epsteina-9182901.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hugh-Hefner-wielokrotnie-zglaszal-FBI-Jeffreya-Epsteina-9182901.html",
+      "title": "Hugh Hefner wielokrotnie zgłaszał FBI Jeffreya Epsteina",
+      "content_html": "Założyciel magazynu „Playboy” Hugh Hefner w 2005 r. wielokrotnie kontaktował się z FBI, aby zgłosić przypadek wykorzystania seksualnego przez Jeffreya Epsteina – podał dziennik „New York Post”, powołując się na pozew złożony przez...",
+      "date_published": "2026-08-15T21:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-telefonami-od-telemarketerow-Wprowadzili-radykalne-przepisy-9180913.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-telefonami-od-telemarketerow-Wprowadzili-radykalne-przepisy-9180913.html",
+      "title": "Koniec z telefonami od telemarketerów? Wprowadzili radykalne przepisy",
+      "content_html": "We Francji wprowadzono obowiązujący od wtorku zakaz niechcianych połączeń telemarketingowych w firmach wszystkich sektorów. Połączenia będą dozwolone wyłącznie wtedy, gdy będą dotyczyć umowy, którą dana osoba już zawarła, lub gdy firma...",
+      "date_published": "2026-08-15T21:11:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Agenci-ICE-moga-byc-wyposazeni-w-rekawice-razace-pradem-9181445.html",
       "url": "https://www.bankier.pl/wiadomosc/Agenci-ICE-moga-byc-wyposazeni-w-rekawice-razace-pradem-9181445.html",
       "title": "Agenci ICE mogą być wyposażeni w rękawice rażące prądem",
@@ -277,6 +298,13 @@
       "date_published": "2026-08-15T10:13:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Obama-rusza-z-nowym-projektem-Byly-prezydent-podjal-zaskakujaca-decyzje-9180552.html",
+      "url": "https://www.bankier.pl/wiadomosc/Obama-rusza-z-nowym-projektem-Byly-prezydent-podjal-zaskakujaca-decyzje-9180552.html",
+      "title": "Obama rusza z nowym projektem. Były prezydent podjął zaskakującą decyzję",
+      "content_html": "Były prezydent USA Barack Obama poprowadzi nowy podcast poświęcony książkom - napisał we wtorek „Washington Post”. Internetowa audycja „Wspaniała książka z Barackiem Obamą” będzie dostępna od 24 września.",
+      "date_published": "2026-08-15T10:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Chcieli-sprowadzic-do-Meksyku-europejska-bron-Czlonkowie-kartelu-zatrzymani-w-Czechach-9180978.html",
       "url": "https://www.bankier.pl/wiadomosc/Chcieli-sprowadzic-do-Meksyku-europejska-bron-Czlonkowie-kartelu-zatrzymani-w-Czechach-9180978.html",
       "title": "Chcieli sprowadzić do Meksyku europejską broń. Członkowie kartelu zatrzymani w Czechach",
@@ -536,13 +564,6 @@
       "date_published": "2026-08-14T16:56:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
-      "title": "Hiszpania zmienia plan dla atomu. Największa elektrownia jądrowa popracuje do 2030 roku",
-      "content_html": "Planujący całkowite wygaszenie energetyki jądrowej hiszpański rząd przedłużył w piątek o dwa lata, do 2030 roku, zezwolenie na eksploatację największej pod względem produkcji energii w kraju elektrowni atomowej znajdującej się w Almaraz...",
-      "date_published": "2026-08-14T16:42:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
       "title": "Rosja odrzuciła propozycję Ukrainy ws. zawieszenia broni na Morzu Czarnym",
@@ -681,13 +702,6 @@
       "title": "Borsuki, Abramsy i F-35. Szef MON: Dziękuję podatnikom finansującym rozwój i modernizację armii",
       "content_html": "Święto Wojska Polskiego jest nie tylko dniem wdzięczności wobec żołnierzy, ale też wyrazem uznania dla podatników finansujących rozwój i modernizację armii – podkreślił w piątek wicepremier, szef MON Władysław Kosiniak-Kamysz. Dodał...",
       "date_published": "2026-08-14T11:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawie-20-mld-zl-w-ETF-ach-Skad-bierze-sie-ich-popularnosc-9182306.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawie-20-mld-zl-w-ETF-ach-Skad-bierze-sie-ich-popularnosc-9182306.html",
-      "title": "Prawie 20 mld zł w ETF-ach. Skąd bierze się ich popularność?",
-      "content_html": "Na koniec czerwca 2026 r. Polacy mieli w instrumentach ETF, ETC i ETN notowanych na giełdzie 19,6 mld zł – o 52 proc. więcej niż pół roku wcześniej. Równolegle rekordy bije GPW, gdzie obroty w tym segmencie przekroczyły w sześć miesięcy...",
-      "date_published": "2026-08-14T11:25:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
