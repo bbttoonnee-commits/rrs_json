@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Male-miasteczka-wielki-problem-Setki-turystow-przypadaja-na-jednego-mieszkanca-9181021.html",
+      "url": "https://www.bankier.pl/wiadomosc/Male-miasteczka-wielki-problem-Setki-turystow-przypadaja-na-jednego-mieszkanca-9181021.html",
+      "title": "Małe miasteczka, wielki problem. Setki turystów przypadają na jednego mieszkańca",
+      "content_html": "Prawie 1 tys. noclegów turystycznych w przeliczeniu na jednego mieszkańca - ten bardzo wysoki wskaźnik zanotowano w miejscowości Limone sul Garda w Lombardii na północy Włoch. Ranking gmin o rekordowym wskaźniku najlepiej pokazuje to, że małe...",
+      "date_published": "2026-08-16T08:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Pracownicy-chca-znac-widelki-placowe-Co-trzecia-firma-nadal-nie-pokazuje-stawek-9182402.html",
       "url": "https://www.bankier.pl/wiadomosc/Pracownicy-chca-znac-widelki-placowe-Co-trzecia-firma-nadal-nie-pokazuje-stawek-9182402.html",
       "title": "Firmy nie chcą tego ujawniać. Dla 72 proc. pracowników to kluczowa informacja",
@@ -695,13 +702,6 @@
       "title": "Rząd zmieni PIT? W grę wchodzi 24-proc. stawka i podniesienie II progu",
       "content_html": "Zmiany w PIT to temat, który jest grillowany w społeczeństwie już od dłuższego czasu. 60 000 zł kwoty wolnej raczej się nie doczekamy, ale rząd planuje wprowadzenie pośredniej stawki podatku i podniesienie II progu podatkowego - wynika z ustaleń...",
       "date_published": "2026-08-14T12:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/EuroPKB-Polska-na-podium-wzrostu-gospodarczego-w-II-kwartale-2026-9182330.html",
-      "url": "https://www.bankier.pl/wiadomosc/EuroPKB-Polska-na-podium-wzrostu-gospodarczego-w-II-kwartale-2026-9182330.html",
-      "title": "EuroPKB: Polska na podium wzrostu gospodarczego. Strefa euro bez recesji",
-      "content_html": "Pomimo trwającego kryzysu energetycznego strefie euro ponownie udało się wymknąć z objęć tzw. technicznej recesji. Tymczasem Polska zanotowała trzecie najszybsze tempo wzrostu PKB wśród krajów Unii Europejskiej.",
-      "date_published": "2026-08-14T12:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
