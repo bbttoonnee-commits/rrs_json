@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Pracownicy-chca-znac-widelki-placowe-Co-trzecia-firma-nadal-nie-pokazuje-stawek-9182402.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pracownicy-chca-znac-widelki-placowe-Co-trzecia-firma-nadal-nie-pokazuje-stawek-9182402.html",
+      "title": "Firmy nie chcą tego ujawniać. Dla 72 proc. pracowników to kluczowa informacja",
+      "content_html": "Widełki płacowe stają się jednym z kluczowych kryteriów przy szukaniu pracy. Aż 72 proc. kandydatów chce znać stawkę już na etapie ogłoszenia, jednak rzeczywistość wygląda inaczej: tylko 30 proc. firm ujawnia wynagrodzenie we wszystkich...",
+      "date_published": "2026-08-16T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Policja-zatrzymala-ponad-110-osob-probujacych-przekroczyc-granice-z-Ceuta-9182902.html",
       "url": "https://www.bankier.pl/wiadomosc/Policja-zatrzymala-ponad-110-osob-probujacych-przekroczyc-granice-z-Ceuta-9182902.html",
       "title": "Policja zatrzymała ponad 110 osób próbujących przekroczyć granicę z Ceutą",
@@ -135,13 +142,6 @@
       "title": "Dramatycznie niski poziom Dunaju. Węgry zatopiły barki, by ratować elektrownię atomową",
       "content_html": "Węgierskie władze, podejmując działania w celu podniesienia poziomu wody w Dunaju, zanurzyły w sobotę dwie barki przy elektrowni jądrowej w Paksu. Premier Peter Magyar ogłosił tego dnia, że w pobliżu obiektu trwają obecnie „najtrudniejsze...",
       "date_published": "2026-08-15T15:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawie-co-drugi-wpis-wrogi-Niepokojacy-raport-o-polskim-Internecie-i-Ukraincach-9180708.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawie-co-drugi-wpis-wrogi-Niepokojacy-raport-o-polskim-Internecie-i-Ukraincach-9180708.html",
-      "title": "Prawie co drugi wpis wrogi. Niepokojący raport o polskim Internecie i Ukraińcach",
-      "content_html": "Prawie co drugi wpis o Ukraińcach jest wrogi - wynika z raportu opublikowanego przez ośrodek analityczny Res Futura. Analiza wykazała też, że wzrosła liczba komentarzy broniących Ukraińców - udział życzliwych wpisów wzrósł z 0,6 proc. do...",
-      "date_published": "2026-08-15T15:38:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wydamy-1-9-bln-zl-na-zbrojenia-Ekonomisci-ostrzegaja-przed-haczykiem-9179916.html",
@@ -695,13 +695,6 @@
       "title": "EuroPKB: Polska na podium wzrostu gospodarczego. Strefa euro bez recesji",
       "content_html": "Pomimo trwającego kryzysu energetycznego strefie euro ponownie udało się wymknąć z objęć tzw. technicznej recesji. Tymczasem Polska zanotowała trzecie najszybsze tempo wzrostu PKB wśród krajów Unii Europejskiej.",
       "date_published": "2026-08-14T12:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Quercus-TFI-pracuje-nad-czterema-projektami-akwizycyjnymi-w-tym-dot-ubezpieczyciela-9182328.html",
-      "url": "https://www.bankier.pl/wiadomosc/Quercus-TFI-pracuje-nad-czterema-projektami-akwizycyjnymi-w-tym-dot-ubezpieczyciela-9182328.html",
-      "title": "Quercus TFI pracuje nad czterema projektami akwizycyjnymi, w tym dot. ubezpieczyciela",
-      "content_html": "Quercus TFI pracuje obecnie nad czterema projektami akwizycyjnymi, w tym jeden z nich dotyczy ubezpieczyciela - poinformował prezes Quercus TFI Sebastian Buczek. Nie podał więcej szczegółów.",
-      "date_published": "2026-08-14T11:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
