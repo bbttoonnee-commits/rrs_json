@@ -144,6 +144,20 @@
       "date_published": "2026-08-15T21:11:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Agenci-ICE-moga-byc-wyposazeni-w-rekawice-razace-pradem-9181445.html",
+      "url": "https://www.bankier.pl/wiadomosc/Agenci-ICE-moga-byc-wyposazeni-w-rekawice-razace-pradem-9181445.html",
+      "title": "Agenci ICE mogą być wyposażeni w rękawice rażące prądem",
+      "content_html": "Funkcjonariusze amerykańskiego Urzędu ds. Imigracji i Egzekwowania Ceł (ICE) mogą wkrótce zostać wyposażeni w rękawice rażące prądem, mające skłaniać osoby stawiające opór do podporządkowania się agentom - poinformowała w środę agencja...",
+      "date_published": "2026-08-15T20:58:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-Ukrainy-pogratulowal-Polsce-w-rocznice-bitwy-warszawskiej-i-Swieto-Wojska-Polskiego-9182895.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-Ukrainy-pogratulowal-Polsce-w-rocznice-bitwy-warszawskiej-i-Swieto-Wojska-Polskiego-9182895.html",
+      "title": "Prezydent Ukrainy pogratulował Polsce w rocznicę bitwy warszawskiej i Święto Wojska Polskiego",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski pogratulował Polsce w rocznicę bitwy warszawskiej i Święto Wojska Polskiego, przypominając o udziale ukraińskich żołnierzy w obronie Warszawy w 1920 roku. Podkreślił, że także dziś wspólne wysiłki...",
+      "date_published": "2026-08-15T20:55:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Szwecja-zaostrza-prawo-14-latkowie-beda-mogli-trafiac-do-wiezien-9182092.html",
       "url": "https://www.bankier.pl/wiadomosc/Szwecja-zaostrza-prawo-14-latkowie-beda-mogli-trafiac-do-wiezien-9182092.html",
       "title": "Szwecja zaostrza prawo. 14-latkowie będą mogli trafiać do więzień",
@@ -674,20 +688,6 @@
       "title": "Hiszpania zmienia plan dla atomu. Największa elektrownia jądrowa popracuje do 2030 roku",
       "content_html": "Planujący całkowite wygaszenie energetyki jądrowej hiszpański rząd przedłużył w piątek o dwa lata, do 2030 roku, zezwolenie na eksploatację największej pod względem produkcji energii w kraju elektrowni atomowej znajdującej się w Almaraz...",
       "date_published": "2026-08-14T16:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-odrzucila-propozycje-Ukrainy-ws-zawieszenia-broni-na-Morzu-Czarnym-9182507.html",
-      "title": "Rosja odrzuciła propozycję Ukrainy ws. zawieszenia broni na Morzu Czarnym",
-      "content_html": "Rosja odrzuca pomysł zawieszenia broni z Ukrainą na Morzu Czarnym i uważa ją za „półśrodek” – poinformowało w piątek w komunikacie rosyjskie ministerstwo spraw zagranicznych. Ataki na tym akwenie znacząco utrudniają eksport ukraińskiego...",
-      "date_published": "2026-08-14T16:33:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-testuje-nowa-bron-Odrzutowy-dron-przechwytujacy-ma-zwalczac-Shahedy-9182464.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-testuje-nowa-bron-Odrzutowy-dron-przechwytujacy-ma-zwalczac-Shahedy-9182464.html",
-      "title": "Ukraina testuje nową broń. Odrzutowy dron przechwytujący ma zwalczać Shahedy",
-      "content_html": "Ukraińska armia rozpoczęła testowanie w warunkach bojowych nowego odrzutowego drona przechwytującego, który może zwalczać cele lecące z prędkością do 600 km/godz. – napisał w piątek na Telegramie były minister obrony Ukrainy Mychajło...",
-      "date_published": "2026-08-14T15:22:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
