@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-przestala-byc-dla-Niemcow-gorszym-sasiadem-Zazdroszcza-nam-reform-9181533.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-przestala-byc-dla-Niemcow-gorszym-sasiadem-Zazdroszcza-nam-reform-9181533.html",
+      "title": "Polska przestała być dla Niemców „gorszym sąsiadem”. „Zazdroszczą nam reform”",
+      "content_html": "Niemcy nadal dużo więcej wiedzą o Francji czy Hiszpanii niż Polsce - powiedział PAP niemiecki publicysta tygodnika „Der Spiegel” Jan Puhl. Jego zdaniem Niemcy, którzy poznali nasz kraj, zazdroszczą Polakom dynamicznie rozwijającej się gospodarki...",
+      "date_published": "2026-08-16T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Upaly-susze-i-El-Nino-uderzaja-w-rolnictwo-Ceny-zywnosci-moga-wzrosnac-9182078.html",
+      "url": "https://www.bankier.pl/wiadomosc/Upaly-susze-i-El-Nino-uderzaja-w-rolnictwo-Ceny-zywnosci-moga-wzrosnac-9182078.html",
+      "title": "Upały, susze i El Niño uderzają w rolnictwo. Ceny żywności mogą wzrosnąć",
+      "content_html": "Fale upałów, susze i El Nino wywierają coraz silniejszą presję na globalne rolnictwo, zwiększając ryzyko wzrostu cen żywności na kilku kontynentach, alarmują organizacje. Z kolei w Komisja Europejska (KE) wskazuje, że zmiany pogodowe przekłądają...",
+      "date_published": "2026-08-16T10:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/2-proc-podatku-dla-Kosciolow-zamiast-Funduszu-Koscielnego-Rzad-policzyl-koszty-9181001.html",
+      "url": "https://www.bankier.pl/wiadomosc/2-proc-podatku-dla-Kosciolow-zamiast-Funduszu-Koscielnego-Rzad-policzyl-koszty-9181001.html",
+      "title": "2 proc. podatku dla Kościołów zamiast Funduszu Kościelnego? Rząd policzył koszty",
+      "content_html": "2 proc. podatku na rzecz Kościołów i związków wyznaniowych oznaczałoby wyższe koszty dla budżetu niż wydatki na Fundusz Kościelny - poinformował wiceszef MON Paweł Bejda. - Nikomu nie zależy na rozwiązaniu kwestii Funduszu Kościelnego -...",
+      "date_published": "2026-08-16T09:23:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-moze-trafic-na-gielde-dzieki-OKI-Analitycy-pokazali-prognozy-9180448.html",
       "url": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-moze-trafic-na-gielde-dzieki-OKI-Analitycy-pokazali-prognozy-9180448.html",
       "title": "Ponad 23 mld zł może trafić na giełdę dzięki OKI. Analitycy pokazali prognozy",
@@ -121,20 +142,6 @@
       "title": "Historyczna zmiana w Liechtensteinie. Kobiety mogą odziedziczyć tron na równi z mężczyznami",
       "content_html": "Służby prasowe rodziny książęcej Liechtensteinu ogłosiły w sobotę, w dniu Święta Narodowego, zmianę zasad sukcesji tronu. Zgodnie z nowymi regułami następcą tronu będzie najstarsze dziecko księcia, niezależnie od płci - podała agencja...",
       "date_published": "2026-08-15T18:39:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wielki-pokaz-sily-w-Warszawie-Polska-armia-pokazuje-swoja-potege-9182839.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wielki-pokaz-sily-w-Warszawie-Polska-armia-pokazuje-swoja-potege-9182839.html",
-      "title": "Wielki pokaz siły w Warszawie. Polska armia pokazała swoją potęgę",
-      "content_html": "W sobotę, w Święto Wojska Polskiego, warszawską Wisłostradą przeszła wojskowa defilada, w której uczestniczyło ok. 2 tys. żołnierzy polskich i sojuszniczych oraz ok. 300 sztuk sprzętu wojskowego. Defiladę podziwiali przedstawiciele władz...",
-      "date_published": "2026-08-15T18:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Islandia-coraz-blizej-UE-Przed-referendum-jest-remis-9178891.html",
-      "url": "https://www.bankier.pl/wiadomosc/Islandia-coraz-blizej-UE-Przed-referendum-jest-remis-9178891.html",
-      "title": "Islandia coraz bliżej UE? Przed referendum jest remis",
-      "content_html": "Przed referendum na Islandii zaplanowanym na 29 sierpnia szanse zwolenników, jak i przeciwników wznowienia negocjacji z UE na temat członkostwa są wyrównane; obie strony gromadzą po 46 proc. – wynika z sondażu Gallupa opublikowanego w czwartek...",
-      "date_published": "2026-08-15T16:14:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Liban-zniosl-kare-smierci-jako-pierwsze-panstwo-arabskie-9180733.html",
@@ -674,27 +681,6 @@
       "title": "1,5 bln złotych na celowniku funduszy. Prezes Quercus TFI wróży sukces OKI",
       "content_html": "Prezes Quercus TFI Sebastian Buczek jest przekonany, że Osobiste Konta Inwestycyjne okażą się sukcesem i będą istotnym katalizatorem rozwoju polskiego rynku kapitałowego. Liczy, że OKI spowodują mocniejsze przepływy oszczędności z lokat bankowych...",
       "date_published": "2026-08-14T13:26:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OpenAI-szykuje-sie-do-IPO-Przychody-juz-dzis-przekraczaja-40-mld-dolarow-9182387.html",
-      "url": "https://www.bankier.pl/wiadomosc/OpenAI-szykuje-sie-do-IPO-Przychody-juz-dzis-przekraczaja-40-mld-dolarow-9182387.html",
-      "title": "OpenAI szykuje się do IPO. Przychody już dziś przekraczają 40 mld dolarów",
-      "content_html": "Z ustaleń agencji Bloomberg wynika, że OpenAI jest na dobrej drodze do wygenerowania ponad 40 mld dolarów annualizowanego przychodu. Oznacza to niemal podwojenie wyniku z końca 2025 roku i stanowi silny argument dla inwestorów przed planowanym debiutem...",
-      "date_published": "2026-08-14T13:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KO-na-czele-PiS-traci-a-Konfederacja-i-Korona-ida-gore-Rozwoj-Plus-nad-progiem-9182374.html",
-      "url": "https://www.bankier.pl/wiadomosc/KO-na-czele-PiS-traci-a-Konfederacja-i-Korona-ida-gore-Rozwoj-Plus-nad-progiem-9182374.html",
-      "title": "KO na czele, PiS traci, a Konfederacja i Korona idą górę. Rozwój Plus nad progiem",
-      "content_html": "Koalicję Obywatelską poparłoby w wyborach 33,53 proc., Prawo i Sprawiedliwość - 22,34 proc., a Konfederację 15,82 proc. - wynika z najnowszego sondażu Ogólnopolskiej Grupy Badawczej (OGB). Głos na Konfederację Korony Polskiej oddałoby 10,51...",
-      "date_published": "2026-08-14T13:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/23-lata-kolonii-karnej-za-informacje-o-rakietach-Rosjanin-skazany-za-wspolprace-z-polskim-wywiadem-9182371.html",
-      "url": "https://www.bankier.pl/wiadomosc/23-lata-kolonii-karnej-za-informacje-o-rakietach-Rosjanin-skazany-za-wspolprace-z-polskim-wywiadem-9182371.html",
-      "title": "23 lata kolonii karnej za informacje o rakietach. Rosjanin skazany za współpracę z polskim wywiadem",
-      "content_html": "Sąd w Moskwie skazał obywatela Rosji na 23 lata więzienia po uznaniu go za winnego szpiegostwa na rzecz Polski - poinformowała w piątek Agencja Reutera, powołując się na rosyjskie media. Skazany miał dostarczać Polsce informacje o rosyjskich...",
-      "date_published": "2026-08-14T12:59:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
