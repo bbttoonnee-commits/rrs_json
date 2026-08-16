@@ -18,6 +18,20 @@
       "date_published": "2026-08-16T15:54:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/600-dronow-nad-Moskwa-Pozar-w-najwiekszym-magazynie-Wildberries-9182970.html",
+      "url": "https://www.bankier.pl/wiadomosc/600-dronow-nad-Moskwa-Pozar-w-najwiekszym-magazynie-Wildberries-9182970.html",
+      "title": "600 dronów nad Moskwą. Pożar w największym magazynie Wildberries",
+      "content_html": "Moskwa została zaatakowana w nocy z soboty na niedzielę przez około 600 dronów. Mer stolicy Rosji Siergiej Sobianin powiadomił, że obrażeń doznały trzy osoby. Jak podały źródła ukraińskie, wybuchł pożar w największym magazynie platformy...",
+      "date_published": "2026-08-16T15:23:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-rosyjska-jednostke-rakietowa-most-kolejowy-i-zaklady-zbrojeniowe-9182998.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-rosyjska-jednostke-rakietowa-most-kolejowy-i-zaklady-zbrojeniowe-9182998.html",
+      "title": "Ukraina uderzyła w rosyjską jednostkę rakietową, most kolejowy i zakłady zbrojeniowe",
+      "content_html": "Ukraińskie siły zaatakowały obszar, w którym stacjonowała rosyjska jednostka rakietowa wykorzystywana do ostrzeliwania Ukrainy, a także most kolejowy, magazyny oraz przedsiębiorstwo kompleksu wojskowo-przemysłowego - przekazał w niedzielę Sztab...",
+      "date_published": "2026-08-16T15:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wiekszosc-patentow-trafia-na-polke-a-nie-na-rynek-Zwlaszcza-te-z-sektora-nauki-9181003.html",
       "url": "https://www.bankier.pl/wiadomosc/Wiekszosc-patentow-trafia-na-polke-a-nie-na-rynek-Zwlaszcza-te-z-sektora-nauki-9181003.html",
       "title": "Większość patentów trafia na półkę, a nie na rynek. Zwłaszcza te z sektora nauki",
@@ -149,13 +163,6 @@
       "title": "NATO zestrzeliło drona nad Rumunią. Wleciał z terytorium Mołdawii",
       "content_html": "Ministerstwo obrony Rumunii poinformowało w niedzielę, że pilot hiszpańskiego myśliwca F-18, uczestniczący w misji lotniczej NATO w Rumunii, zestrzelił drona, który naruszył rumuńską przestrzeń powietrzną. Bezzałogowiec wleciał na terytorium...",
       "date_published": "2026-08-16T10:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/600-dronow-nad-Moskwa-Pozar-w-najwiekszym-magazynie-Wildberries-9182970.html",
-      "url": "https://www.bankier.pl/wiadomosc/600-dronow-nad-Moskwa-Pozar-w-najwiekszym-magazynie-Wildberries-9182970.html",
-      "title": "600 dronów nad Moskwą. Pożar w największym magazynie Wildberries",
-      "content_html": "Moskwa została zaatakowana w nocy z soboty na niedzielę przez około 600 dronów. Mer stolicy Rosji Siergiej Sobianin powiadomił, że obrażeń doznały trzy osoby. Jak podały źródła ukraińskie, wybuchł pożar w największym magazynie platformy...",
-      "date_published": "2026-08-16T10:27:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dzis-ponad-polowa-pensji-w-2080-r-tylko-24-5-proc-Tak-zmienia-sie-emerytury-9182944.html",
@@ -695,13 +702,6 @@
       "title": "Mocne słowa rosyjskiego ekonomisty. „Nasze koszty rosną, nie wygramy tej wojny”",
       "content_html": "Główny ekonomista rosyjskiego Wnieszekonombanku Andriej Klepacz stwierdził, że wobec wsparcia Zachodu dla Ukrainy Rosja nie będzie w stanie wygrać gospodarczo „wojny na wyniszczenie” - podał w piątek niezależny portal Moscow Times.",
       "date_published": "2026-08-14T22:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mangione-przyznal-sie-do-zastrzelenia-szefa-UnitedHealthcare-Briana-Thompsona-9182674.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mangione-przyznal-sie-do-zastrzelenia-szefa-UnitedHealthcare-Briana-Thompsona-9182674.html",
-      "title": "Mangione przyznał się do zastrzelenia szefa UnitedHealthcare Briana Thompsona",
-      "content_html": "Luigi Mangione, oskarżony o zabójstwo szefa UnitedHealthcare Briana Thompsona, przyznał się w piątek w sądzie federalnym do zastrzelenia Thompsona i prześladowania go w celu zabójstwa – podała agencja AP. Obrona wniosła o oddalenie stanowych...",
-      "date_published": "2026-08-14T20:31:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
