@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-moze-trafic-na-gielde-dzieki-OKI-Analitycy-pokazali-prognozy-9180448.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-moze-trafic-na-gielde-dzieki-OKI-Analitycy-pokazali-prognozy-9180448.html",
+      "title": "Ponad 23 mld zł może trafić na giełdę dzięki OKI. Analitycy pokazali prognozy",
+      "content_html": "Polacy coraz więcej oszczędzają, ale większość środków nadal trzymają w gotówce i na depozytach. Osobiste Konta Inwestycyjne mają zachęcić do inwestowania części pieniędzy na rynku kapitałowym dzięki...",
+      "date_published": "2026-08-16T08:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Male-miasteczka-wielki-problem-Setki-turystow-przypadaja-na-jednego-mieszkanca-9181021.html",
       "url": "https://www.bankier.pl/wiadomosc/Male-miasteczka-wielki-problem-Setki-turystow-przypadaja-na-jednego-mieszkanca-9181021.html",
       "title": "Małe miasteczka, wielki problem. Setki turystów przypadają na jednego mieszkańca",
@@ -688,20 +695,6 @@
       "title": "23 lata kolonii karnej za informacje o rakietach. Rosjanin skazany za współpracę z polskim wywiadem",
       "content_html": "Sąd w Moskwie skazał obywatela Rosji na 23 lata więzienia po uznaniu go za winnego szpiegostwa na rzecz Polski - poinformowała w piątek Agencja Reutera, powołując się na rosyjskie media. Skazany miał dostarczać Polsce informacje o rosyjskich...",
       "date_published": "2026-08-14T12:59:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Emisja-CO2-w-UE-znowu-w-gore-Energetyka-znow-napedza-wzrost-9182361.html",
-      "url": "https://www.bankier.pl/wiadomosc/Emisja-CO2-w-UE-znowu-w-gore-Energetyka-znow-napedza-wzrost-9182361.html",
-      "title": "Emisja CO2 w UE znowu w górę. Energetyka napędza wzrost",
-      "content_html": "Emisje gazów cieplarnianych w UE w I kwartale wzrosły o 0,3 proc. kdkr – poinformował Eurostat.",
-      "date_published": "2026-08-14T12:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-zmieni-PIT-W-gre-wchodzi-24-proc-stawka-i-podniesienie-II-progu-9182315.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-zmieni-PIT-W-gre-wchodzi-24-proc-stawka-i-podniesienie-II-progu-9182315.html",
-      "title": "Rząd zmieni PIT? W grę wchodzi 24-proc. stawka i podniesienie II progu",
-      "content_html": "Zmiany w PIT to temat, który jest grillowany w społeczeństwie już od dłuższego czasu. 60 000 zł kwoty wolnej raczej się nie doczekamy, ale rząd planuje wprowadzenie pośredniej stawki podatku i podniesienie II progu podatkowego - wynika z ustaleń...",
-      "date_published": "2026-08-14T12:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
