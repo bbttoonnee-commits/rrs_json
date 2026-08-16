@@ -4,11 +4,32 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Koncert-odwolany-Sprawdz-kiedy-mozesz-domagac-sie-zwrotu-pieniedzy-9181636.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koncert-odwolany-Sprawdz-kiedy-mozesz-domagac-sie-zwrotu-pieniedzy-9181636.html",
+      "title": "Koncert odwołany? Sprawdź, kiedy możesz domagać się zwrotu pieniędzy",
+      "content_html": "Idziesz na wymarzony koncert lub festiwal, a tam zamiast dziesięciu artystów zagrało tylko siedmiu lub gwiazda wieczoru nie wystąpiła. Innym razem nagłośnienie było uszkodzone, co wtedy zrobić, jakie masz prawa w takim przypadku? O tym informują...",
+      "date_published": "2026-08-16T11:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ile-pieniedzy-dostanie-SOR-NFZ-uzalezni-wyplaty-od-hospitalizacji-pacjentow-z-karetek-9181685.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ile-pieniedzy-dostanie-SOR-NFZ-uzalezni-wyplaty-od-hospitalizacji-pacjentow-z-karetek-9181685.html",
+      "title": "Ile pieniędzy dostanie SOR? NFZ uzależni wypłaty od hospitalizacji pacjentów z karetek",
+      "content_html": "Prezes NFZ wydał nowe zarządzenie w sprawie rozliczania izb przyjęć i szpitalnych oddziałów ratunkowych. Fundusz uzależni wypłatę pieniędzy m.in. od liczby pacjentów dowożonych przez zespoły ratownictwa medycznego.",
+      "date_published": "2026-08-16T11:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Organizatorzy-Eurowizji-zmienili-zasady-dotyczace-krajow-zaangazowanych-w-konflikt-zbrojny-9181628.html",
+      "url": "https://www.bankier.pl/wiadomosc/Organizatorzy-Eurowizji-zmienili-zasady-dotyczace-krajow-zaangazowanych-w-konflikt-zbrojny-9181628.html",
+      "title": "Organizatorzy Eurowizji zmienili zasady dotyczące krajów zaangażowanych w konflikt zbrojny",
+      "content_html": "Organizatorzy Eurowizji zmienili zasady dotyczące sposobu przeprowadzenia tego konkursu, ogłaszając, że jeśli wygra kraj zaangażowany w konflikt zbrojny, to nie będzie mógł zorganizować tego wydarzenia w kolejnym roku. Interpretowane jest to...",
+      "date_published": "2026-08-16T11:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wypadek-polskiego-autokaru-na-Wegrzech-12-osob-zabitych-9182958.html",
       "url": "https://www.bankier.pl/wiadomosc/Wypadek-polskiego-autokaru-na-Wegrzech-12-osob-zabitych-9182958.html",
       "title": "Wypadek polskiego autokaru na Węgrzech. 12 osób zabitych",
       "content_html": "Premier Węgier Peter Magyar poinformował w niedzielę na Facebooku o wypadku polskiego autokaru, w którym zginęło 12 osób, a co najmniej 10 zostało poważnie rannych.",
-      "date_published": "2026-08-16T10:39:00+02:00"
+      "date_published": "2026-08-16T11:10:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tyle-pomp-ciepla-dziala-juz-w-Polsce-W-2030-r-mialo-ich-byc-niemal-dwa-razy-wiecej-9182946.html",
@@ -681,13 +702,6 @@
       "title": "USA chcą wiedzieć, jak lojalni są sojusznicy z NATO",
       "content_html": "USA przekazały krajom NATO kwestionariusz, by zbadać, w jakim stopniu popierają one politykę amerykańskiego prezydenta Donalda Trumpa - napisał w piątek Bloomberg. Waszyngton chce wiedzieć, jak lojalni są sojusznicy, nim ograniczy swoje zasoby...",
       "date_published": "2026-08-14T16:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hiszpania-zmienia-plan-dla-atomu-Najwieksza-elektrownia-jadrowa-popracuje-do-2030-roku-9182517.html",
-      "title": "Hiszpania zmienia plan dla atomu. Największa elektrownia jądrowa popracuje do 2030 roku",
-      "content_html": "Planujący całkowite wygaszenie energetyki jądrowej hiszpański rząd przedłużył w piątek o dwa lata, do 2030 roku, zezwolenie na eksploatację największej pod względem produkcji energii w kraju elektrowni atomowej znajdującej się w Almaraz...",
-      "date_published": "2026-08-14T16:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
