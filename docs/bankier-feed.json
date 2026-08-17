@@ -4,6 +4,48 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/VRG-chce-skupic-wiecej-niz-8-44-mln-akcji-wlasnych-9183160.html",
+      "url": "https://www.bankier.pl/wiadomosc/VRG-chce-skupic-wiecej-niz-8-44-mln-akcji-wlasnych-9183160.html",
+      "title": "VRG chce skupić więcej niż 8,44 mln akcji własnych",
+      "content_html": "VRG ogłosił zaproszenie do składania ofert sprzedaży akcji spółki, w ramach którego zamierza nabyć nie więcej niż 8.440.410 akcji, stanowiących ok. 3,6 proc. jej kapitału zakładowego. Cena zakupu akcji będzie wynosić nie mniej niż 5,50...",
+      "date_published": "2026-08-17T16:47:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CPK-szuka-nowego-prezesa-Ruszyl-konkurs-9183403.html",
+      "url": "https://www.bankier.pl/wiadomosc/CPK-szuka-nowego-prezesa-Ruszyl-konkurs-9183403.html",
+      "title": "CPK szuka nowego prezesa. Ruszył konkurs",
+      "content_html": "Rada nadzorcza spółki CPK rozpoczęła postępowania kwalifikacyjne na stanowiska prezesa oraz członka zarządu ds. nieruchomości i relacji z interesariuszami - poinformował w poniedziałek Port Polska. Pod koniec lipca odwołany został dotychczasowy...",
+      "date_published": "2026-08-17T16:47:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Monika-Sikora-nowa-pelnomocniczka-rzadu-do-spraw-osob-niepelnosprawnych-9183400.html",
+      "url": "https://www.bankier.pl/wiadomosc/Monika-Sikora-nowa-pelnomocniczka-rzadu-do-spraw-osob-niepelnosprawnych-9183400.html",
+      "title": "Monika Sikora nową pełnomocniczką rządu do spraw osób niepełnosprawnych",
+      "content_html": "Monika Sikora, dotychczasowa wiceminister funduszy i polityki regionalnej, została nową pełnomocniczką rządu do spraw osób niepełnosprawnych - poinformowało w poniedziałek Ministerstwo Rodziny, Pracy i Polityki Społecznej. Sikora będzie też...",
+      "date_published": "2026-08-17T16:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-Introlu-zdecyduje-o-wyplacie-0-14-zl-dywidendy-na-akcje-9183398.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-Introlu-zdecyduje-o-wyplacie-0-14-zl-dywidendy-na-akcje-9183398.html",
+      "title": "NWZ Introlu zdecyduje o wypłacie 0,14 zł dywidendy na akcję",
+      "content_html": "Akcjonariusze Introlu będą decydować w sprawie częściowego rozwiązania kapitału rezerwowego w wysokości blisko 3,6 mln zł na wypłatę dywidendy, co daje 0,14 zł na akcję - wynika z projektów uchwał na NWZ, zwołane na 14 września 2026 r...",
+      "date_published": "2026-08-17T16:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Maciej-Berek-kandydatem-na-sedziego-TK-Zglosili-go-poslowie-KO-9183386.html",
+      "url": "https://www.bankier.pl/wiadomosc/Maciej-Berek-kandydatem-na-sedziego-TK-Zglosili-go-poslowie-KO-9183386.html",
+      "title": "Maciej Berek kandydatem na sędziego TK. Zgłosili go posłowie KO",
+      "content_html": "Maciej Berek jest kandydatem na sędziego TK zgłoszonym przez grupę posłów klubu Koalicji Obywatelskiej - wynika z informacji na stronie Sejmu. W Monitorze Polskim w poniedziałek opublikowano postanowienie prezydenta o odwołaniu Berka z rządu...",
+      "date_published": "2026-08-17T16:21:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Panstwowy-eDziennik-od-wrzesnia-2026-r-MEN-rozpoczyna-pilotaz-9183382.html",
+      "url": "https://www.bankier.pl/wiadomosc/Panstwowy-eDziennik-od-wrzesnia-2026-r-MEN-rozpoczyna-pilotaz-9183382.html",
+      "title": "Państwowy eDziennik od września 2026 r. MEN rozpoczyna pilotaż",
+      "content_html": "W poniedziałek do opiniowania trafił projekt rozporządzenia ministra edukacji, zgodnie z którym pilotaż bezpłatnego, państwowego eDziennika będzie uruchomiony od 22 września 2026 r. Projekt jest ściśle związany z niedawną nowelizacją Prawa...",
+      "date_published": "2026-08-17T16:16:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/JSW-chce-wnioskowac-do-ARP-o-udzielenie-pozyczki-do-kwoty-1-066-mld-zl-opis-9183348.html",
       "url": "https://www.bankier.pl/wiadomosc/JSW-chce-wnioskowac-do-ARP-o-udzielenie-pozyczki-do-kwoty-1-066-mld-zl-opis-9183348.html",
       "title": "JSW chce wnioskować do ARP o udzielenie pożyczki do kwoty 1,066 mld zł",
@@ -268,13 +310,6 @@
       "title": "Wypadek polskiego autokaru na Węgrzech. Zidentyfikowano 7 ofiar",
       "content_html": "Dotychczas zidentyfikowano siedem ofiar śmiertelnych wypadku polskiego autokaru na Węgrzech. To dorośli mieszkańcy województwa podkarpackiego – powiedziała w poniedziałek na konferencji prasowej w Rzeszowie wojewoda podkarpacka Teresa Kubas-Hul...",
       "date_published": "2026-08-17T10:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/VRG-chce-skupic-wiecej-niz-8-44-mln-akcji-wlasnych-9183160.html",
-      "url": "https://www.bankier.pl/wiadomosc/VRG-chce-skupic-wiecej-niz-8-44-mln-akcji-wlasnych-9183160.html",
-      "title": "VRG chce skupić więcej niż 8,44 mln akcji własnych",
-      "content_html": "VRG ogłosił zaproszenie do składania ofert sprzedaży akcji spółki, w ramach którego zamierza nabyć nie więcej niż 8.440.410 akcji, stanowiących ok. 3,6 proc. jej kapitału zakładowego. Cena zakupu akcji będzie wynosić nie mniej niż 5,50...",
-      "date_published": "2026-08-17T10:04:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ofert-pracy-przybywa-ale-coraz-wolniej-Sprawdz-ktore-branze-rekrutuja-najwiecej-9183156.html",
@@ -667,41 +702,6 @@
       "title": "600 dronów nad Moskwą. Pożar w największym magazynie Wildberries",
       "content_html": "Moskwa została zaatakowana w nocy z soboty na niedzielę przez około 600 dronów. Mer stolicy Rosji Siergiej Sobianin powiadomił, że obrażeń doznały trzy osoby. Jak podały źródła ukraińskie, wybuchł pożar w największym magazynie platformy...",
       "date_published": "2026-08-16T15:23:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-rosyjska-jednostke-rakietowa-most-kolejowy-i-zaklady-zbrojeniowe-9182998.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-rosyjska-jednostke-rakietowa-most-kolejowy-i-zaklady-zbrojeniowe-9182998.html",
-      "title": "Ukraina uderzyła w rosyjską jednostkę rakietową, most kolejowy i zakłady zbrojeniowe",
-      "content_html": "Ukraińskie siły zaatakowały obszar, w którym stacjonowała rosyjska jednostka rakietowa wykorzystywana do ostrzeliwania Ukrainy, a także most kolejowy, magazyny oraz przedsiębiorstwo kompleksu wojskowo-przemysłowego - przekazał w niedzielę Sztab...",
-      "date_published": "2026-08-16T15:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wiekszosc-patentow-trafia-na-polke-a-nie-na-rynek-Zwlaszcza-te-z-sektora-nauki-9181003.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wiekszosc-patentow-trafia-na-polke-a-nie-na-rynek-Zwlaszcza-te-z-sektora-nauki-9181003.html",
-      "title": "Większość patentów trafia na półkę, a nie na rynek. Zwłaszcza te z sektora nauki",
-      "content_html": "Co czwarty przyznany patent jest komercjalizowany, co oznacza, że chronione rozwiązanie jest wykorzystane gospodarczo - wynika z pilotażowego badania SGH, GUS i UPRP. Chociaż pod względem liczby patentów przodują uczelnie...",
-      "date_published": "2026-08-16T15:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Baltyk-powoli-umiera-przez-scieki-i-nawozy-Ratunek-wymaga-dzialan-w-calej-Polsce-9180447.html",
-      "url": "https://www.bankier.pl/wiadomosc/Baltyk-powoli-umiera-przez-scieki-i-nawozy-Ratunek-wymaga-dzialan-w-calej-Polsce-9180447.html",
-      "title": "Bałtyk powoli umiera przez ścieki i nawozy. Ratunek wymaga działań w całej Polsce",
-      "content_html": "Bałtyk należy do mórz najbardziej dotkniętych eutrofizacją, czyli przeżyźnieniem spowodowanym nadmierną zawartością fosforu i azotu. Choć dopływ tych substancji do akwenu w ostatnich dekadach wyraźnie się zmniejszył,...",
-      "date_published": "2026-08-16T14:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Norweski-wywiad-ostrzega-Europa-wchodzi-w-nowa-epoke-atomowa-9181796.html",
-      "url": "https://www.bankier.pl/wiadomosc/Norweski-wywiad-ostrzega-Europa-wchodzi-w-nowa-epoke-atomowa-9181796.html",
-      "title": "Norweski wywiad ostrzega: Europa wchodzi w nową epokę atomową",
-      "content_html": "Weszliśmy w nową epokę atomową – oceniła w magazynie „Forsvarets Forum” Kristin Ven Bruusgaard, szefowa szkoły norweskiego wywiadu wojskowego. W jej opinii mają to potwierdzać plany rozbudowy francuskiego arsenału jądrowego i poszukiwanie...",
-      "date_published": "2026-08-16T14:49:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/18-latek-stracil-prawo-jazdy-na-3-miesiace-za-driftowanie-na-parkingu-9180127.html",
-      "url": "https://www.bankier.pl/wiadomosc/18-latek-stracil-prawo-jazdy-na-3-miesiace-za-driftowanie-na-parkingu-9180127.html",
-      "title": "18-latek stracił prawo jazdy na 3 miesiące za driftowanie na parkingu",
-      "content_html": "10 punktów karnych, 1500 zł mandatu i zatrzymane prawo jazdy – takie konsekwencje poniósł 18-latek, który driftował BMW na przysklepowym parkingu w Zawierciu – podała w poniedziałek policja. Nowe przepisy zakazujące celowego wprowadzania...",
-      "date_published": "2026-08-16T14:39:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
