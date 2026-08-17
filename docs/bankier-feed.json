@@ -11,6 +11,13 @@
       "date_published": "2026-08-17T17:29:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Iran-grozi-eskalacja-w-ciesninie-Ormuz-Przejdziemy-do-pelnej-ofensywy-9183423.html",
+      "url": "https://www.bankier.pl/wiadomosc/Iran-grozi-eskalacja-w-ciesninie-Ormuz-Przejdziemy-do-pelnej-ofensywy-9183423.html",
+      "title": "Iran grozi eskalacją w cieśninie Ormuz. „Przejdziemy do pełnej ofensywy”",
+      "content_html": "Iran zaostrzy napięcia w cieśninie Ormuz i w całym regionie Bliskiego Wschodu, jeśli kontakty dyplomatyczne ze Stanami Zjednoczonymi zakończą się niepowodzeniem – oznajmił w poniedziałek wysoki rangą irański urzędnik, cytowany przez agencję...",
+      "date_published": "2026-08-17T17:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/VRG-chce-skupic-wiecej-niz-8-44-mln-akcji-wlasnych-9183160.html",
       "url": "https://www.bankier.pl/wiadomosc/VRG-chce-skupic-wiecej-niz-8-44-mln-akcji-wlasnych-9183160.html",
       "title": "VRG chce skupić więcej niż 8,44 mln akcji własnych",
@@ -688,13 +695,6 @@
       "title": "Polskie kopalnie przynoszą miliardy strat. „Wydobycie węgla już się nie opłaca”",
       "content_html": "Polski sektor wydobycia węgla kamiennego jest mocno na minusie, spada zarówno wydobycie, jak i zatrudnienie w sektorze - wynika z informacji zebranych w „Bazie danych o kopalniach w Polsce” Fundacji Instrat.",
       "date_published": "2026-08-16T16:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/2-6-mln-dziewczat-bez-szkoly-Dramatyczne-dane-z-Afganistanu-9182485.html",
-      "url": "https://www.bankier.pl/wiadomosc/2-6-mln-dziewczat-bez-szkoly-Dramatyczne-dane-z-Afganistanu-9182485.html",
-      "title": "2,6 mln dziewcząt bez szkoły. Dramatyczne dane z Afganistanu",
-      "content_html": "Ponad 2,6 mln dziewcząt w Afganistanie zostało pozbawionych dostępu do edukacji średniej w ciągu pięciu lat od przejęcia władzy przez talibów w 2021 r. – poinformował w piątek Fundusz Narodów Zjednoczonych na rzecz Dzieci (UNICEF).",
-      "date_published": "2026-08-16T15:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
