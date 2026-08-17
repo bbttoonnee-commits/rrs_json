@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Lotwa-szuka-pieniedzy-na-Rail-Baltica-Chce-dodatkowych-4-mld-euro-z-UE-9183286.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lotwa-szuka-pieniedzy-na-Rail-Baltica-Chce-dodatkowych-4-mld-euro-z-UE-9183286.html",
+      "title": "Łotwa szuka pieniędzy na Rail Baltica. Chce dodatkowych 4 mld euro z UE",
+      "content_html": "Łotwa, która ma największe problemy z finansowaniem budowy linii kolejowej Rail Baltica, chce dokończyć swój odcinek maksymalnie oszczędnie i pozyskując z UE dodatkowe pieniądze przewidziane na projekty z zakresu mobilności wojskowej, umożliwiające...",
+      "date_published": "2026-08-17T13:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ponad-141-mld-zl-deficytu-po-7-miesiacach-Sa-nowe-dane-MF-9183246.html",
       "url": "https://www.bankier.pl/wiadomosc/Ponad-141-mld-zl-deficytu-po-7-miesiacach-Sa-nowe-dane-MF-9183246.html",
       "title": "Ponad 141 mld zł deficytu po 7 miesiącach. Są nowe dane MF",
@@ -142,6 +149,20 @@
       "title": "PiS chce dłuższej obniżki VAT na paliwa. \"Nie róbcie w balona Polaków\"",
       "content_html": "Wiceprezes PiS Przemysław Czarnek zaapelował w poniedziałek do rządu o wydłużenie obniżki VAT na paliwa i przywrócenie obniżki akcyzy. Według niego, rząd „złupił na 4 mld zł” Polaków, którzy „w szczycie wakacji” - w lipcu i do...",
       "date_published": "2026-08-17T11:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-ogranicza-manewry-z-Korea-Poludniowa-Pjongjang-wczesniej-grozil-eskalacja-9183082.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-ogranicza-manewry-z-Korea-Poludniowa-Pjongjang-wczesniej-grozil-eskalacja-9183082.html",
+      "title": "Trump ogranicza manewry z Koreą Południową. Pjongjang wcześniej groził eskalacją",
+      "content_html": "Prezydent USA Donald Trump poinformował w niedzielę, że ze względu na jego bardzo dobre stosunki z przywódcą Korei Płn. Kim Dzong Unem polecił ograniczenie wspólnych ćwiczeń wojskowych z Koreą Południową. Zaznaczył też, że Seul nie chciał...",
+      "date_published": "2026-08-17T11:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-oparcie-40-proc-portfolio-technologicznego-na-rozwiazaniach-AI-do-konca-roku-9183184.html",
+      "url": "https://www.bankier.pl/wiadomosc/Allegro-zaklada-oparcie-40-proc-portfolio-technologicznego-na-rozwiazaniach-AI-do-konca-roku-9183184.html",
+      "title": "Allegro zakłada oparcie 40 proc. portfolio technologicznego na rozwiązaniach AI do końca roku",
+      "content_html": "Allegro jest na dobrej drodze do osiągnięcia celu zakładającego, że około 40 proc. całego portfolio technologicznego platformy będzie oparte na rozwiązaniach AI na koniec roku - podała spółka w komunikacie prasowym. Dodała, że Allegro AI...",
+      "date_published": "2026-08-17T11:02:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Jak-zachowac-sie-podczas-alarmu-W-calej-Polsce-odbeda-sie-bezplatne-szkolenia-9183183.html",
@@ -681,13 +702,6 @@
       "title": "Niecodzienna kara na Svalbardzie. Obudził niedźwiedzia, zapłaci 50 tys. koron",
       "content_html": "Niefrasobliwy turysta, który na Svalbardzie włączył syrenę mgłową, by obudzić śpiącego niedźwiedzia polarnego, będzie musiał zapłacić karę 50 tys. koron norweskich (prawie 20 tys. zł) – poinformowały w czwartek władze tego należącego...",
       "date_published": "2026-08-16T14:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koncert-odwolany-Sprawdz-kiedy-mozesz-domagac-sie-zwrotu-pieniedzy-9181636.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koncert-odwolany-Sprawdz-kiedy-mozesz-domagac-sie-zwrotu-pieniedzy-9181636.html",
-      "title": "Koncert odwołany? Sprawdź, kiedy możesz domagać się zwrotu pieniędzy",
-      "content_html": "Idziesz na wymarzony koncert lub festiwal, a tam zamiast dziesięciu artystów zagrało tylko siedmiu lub gwiazda wieczoru nie wystąpiła. Innym razem nagłośnienie było uszkodzone, co wtedy zrobić, jakie masz prawa w takim przypadku? O tym informują...",
-      "date_published": "2026-08-16T11:26:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
