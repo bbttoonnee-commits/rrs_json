@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BOS-w-I-polr-26-wyniosl-15-1-mln-zl-wobec-79-7-mln-zl-rok-wczesniej-9183597.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BOS-w-I-polr-26-wyniosl-15-1-mln-zl-wobec-79-7-mln-zl-rok-wczesniej-9183597.html",
+      "title": "BOŚ podał wyniki. Zysk netto spadł o ponad 80 proc. Zysk netto grupy Banku Ochrony Środowiska w I półr. 2026 r. wyniósł 15,1 mln zł, wobec 79,7 mln zł w analogicznym okresie rok wcześniej. W samym II kw. 2026 r. grupa odnotowała 1,1 mln zł straty netto, w porównaniu do 67,9 mln zł zysku przed rokiem - poinformował bank w raporcie. Suma bilansowa wzrosła o 16,3 proc. rdr do 27,3 mld zł.",
+      "content_html": "",
+      "date_published": "2026-08-18T06:34:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/AI-przejela-kontrole-nad-indeksami-Rynki-wschodzace-stracily-swoja-przewage-9183243.html",
       "url": "https://www.bankier.pl/wiadomosc/AI-przejela-kontrole-nad-indeksami-Rynki-wschodzace-stracily-swoja-przewage-9183243.html",
       "title": "AI przejęła kontrolę nad indeksami. Rynki wschodzące straciły swoją przewagę Rynki wschodzące, traktowane przez inwestorów jako naturalny sposób na dywersyfikację i ucieczkę przed wysokimi wycenami na Wall Street, stały się kolejnym zakładnikiem hossy wokół sztucznej inteligencji. Indeksy spod szyldu \"Emerging Markets\" poruszają się dziś pod dyktando azjatyckich producentów półprzewodników. W efekcie koszyki akcji mające zapewniać ekspozycję na gospodarki ponad dwudziestu państw zmieniły się w zakład o koniunkturę w jednym sektorze.",
@@ -16,6 +23,13 @@
       "title": "Jak budować długofalowo kapitał i opanować rynkowe emocje? Budowanie kapitału na przyszłość to proces, który wymaga od nas nie tylko wiedzy teoretycznej, ale przede wszystkim żelaznej dyscypliny i odpowiedniego nastawienia psychicznego. W ramach konkursu \"Wakacje na Giełdzie\", w rozmowie z Bankier.pl Bartosz Stolarczuk, ekspert Domu Maklerskiego BOŚ podzielił się kilkoma cennymi wskazówkami.",
       "content_html": "",
       "date_published": "2026-08-18T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-zaczela-nowy-tydzien-od-spadkow-9183551.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-zaczela-nowy-tydzien-od-spadkow-9183551.html",
+      "title": "Wall Street zaczęła nowy tydzień od spadków Poniedziałkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, które kontynuują zniżkowy trend z końcówki zeszłego tygodnia. Inwestorzy czekają na protokół z ostatniego posiedzenia Fed i na publikację wyników kwartalnych przez spółki sektora detalicznego.",
+      "content_html": "",
+      "date_published": "2026-08-17T22:32:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KNF-nalozyla-na-PKO-BP-47-5-mln-zl-kar-Chodzi-o-lokaty-strukturyzowane-9183475.html",
