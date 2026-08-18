@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Advent-FedEx-A-R-PPF-uzyskali-zgode-KE-na-nabycie-akcji-InPostu-9183613.html",
+      "url": "https://www.bankier.pl/wiadomosc/Advent-FedEx-A-R-PPF-uzyskali-zgode-KE-na-nabycie-akcji-InPostu-9183613.html",
+      "title": "Advent, FedEx, A&R, PPF uzyskali zgodę KE na nabycie akcji InPostu Advent, FedEx, A&R, PPF uzyskali bezwarunkową zgodę Komisji Europejskiej na nabycie akcji InPostu - podał InPost w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-18T07:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ryvu-uruchamia-biznes-uslugowy-w-obszarze-wczesnego-rozwoju-klinicznego-9183610.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ryvu-uruchamia-biznes-uslugowy-w-obszarze-wczesnego-rozwoju-klinicznego-9183610.html",
+      "title": "Ryvu uruchamia biznes usługowy w obszarze wczesnego rozwoju klinicznego Ryvu Therapeutics uruchamia biznes usługowy w obszarze wczesnego rozwoju klinicznego pod marką \"Keelira\", który będzie działał równolegle z podstawową działalnością w zakresie odkrywania i rozwoju leków - podała spółka w komunikacie. Strategicznym priorytetem Ryvu pozostaje rozwój własnego pipeline'u onkologicznego.",
+      "content_html": "",
+      "date_published": "2026-08-18T07:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Paramount-zada-miliardowego-zabezpieczenia-Przejecie-Warner-Bros-Discovery-trafi-do-sadu-9183547.html",
+      "url": "https://www.bankier.pl/wiadomosc/Paramount-zada-miliardowego-zabezpieczenia-Przejecie-Warner-Bros-Discovery-trafi-do-sadu-9183547.html",
+      "title": "Paramount żąda miliardowego zabezpieczenia. Przejęcie Warner Bros. Discovery trafi do sądu Paramount Skydance zwrócił się w poniedziałek do sądu z wnioskiem o zobowiązanie kilkunastu stanów i Gildię Scenarzystów kwestionujących przejęcie Warner Bros. Discovery do wpłacenia zabezpieczenia finansowego w wys. 1,88 mld dolarów. Kwota miałaby pokryć koszty opóźnienia w finalizacji transakcji.",
+      "content_html": "",
+      "date_published": "2026-08-18T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BOS-w-I-polr-26-wyniosl-15-1-mln-zl-wobec-79-7-mln-zl-rok-wczesniej-9183597.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-BOS-w-I-polr-26-wyniosl-15-1-mln-zl-wobec-79-7-mln-zl-rok-wczesniej-9183597.html",
       "title": "BOŚ podał wyniki. Zysk netto spadł o ponad 80 proc. Zysk netto grupy Banku Ochrony Środowiska w I półr. 2026 r. wyniósł 15,1 mln zł, wobec 79,7 mln zł w analogicznym okresie rok wcześniej. W samym II kw. 2026 r. grupa odnotowała 1,1 mln zł straty netto, w porównaniu do 67,9 mln zł zysku przed rokiem - poinformował bank w raporcie. Suma bilansowa wzrosła o 16,3 proc. rdr do 27,3 mld zł.",
@@ -198,13 +219,6 @@
       "title": "INSTRAT Polskie kopalnie przynoszą miliardy strat. „Wydobycie węgla już się nie opłaca” Polski sektor wydobycia węgla kamiennego jest mocno na minusie, spada zarówno wydobycie, jak i zatrudnienie w sektorze - wynika z informacji zebranych w „Bazie danych o kopalniach w Polsce” Fundacji Instrat.",
       "content_html": "",
       "date_published": "2026-08-16T15:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-moze-trafic-na-gielde-dzieki-OKI-Analitycy-pokazali-prognozy-9180448.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-23-mld-zl-moze-trafic-na-gielde-dzieki-OKI-Analitycy-pokazali-prognozy-9180448.html",
-      "title": "Ponad 23 mld zł może trafić na giełdę dzięki OKI. Analitycy pokazali prognozy Polacy coraz więcej oszczędzają, ale większość środków nadal trzymają w gotówce i na depozytach. Osobiste Konta Inwestycyjne mają zachęcić do inwestowania części pieniędzy na rynku kapitałowym dzięki...",
-      "content_html": "",
-      "date_published": "2026-08-16T07:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
