@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Oponeo-pl-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Oponeo-pl-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184025.html",
+      "title": "Wyniki Oponeo.pl w II kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki grupy Oponeo.pl w drugim kwartale 2026 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "date_published": "2026-08-18T19:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gigantyczny-dlug-utrata-kontraktow-i-kara-od-NFZ-Szpital-w-Miastku-idzie-do-upadlosci-9184017.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gigantyczny-dlug-utrata-kontraktow-i-kara-od-NFZ-Szpital-w-Miastku-idzie-do-upadlosci-9184017.html",
+      "title": "Gigantyczny dług, utrata kontraktów i kara od NFZ. Szpital w Miastku idzie do upadłości",
+      "content_html": "We wtorek do sądu został złożony wniosek o ogłoszenie upadłości Szpitala Miejskiego w Miastku, którego zadłużenie przekracza 40 mln zł. To bardzo trudna, ale niezbędna decyzja, która musiała być podjęta – poinformował burmistrz Miastka...",
+      "date_published": "2026-08-18T19:03:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Maciej-Berek-kandydatem-do-TK-Prof-Wojciuk-Tusk-postanowil-dzialac-metodami-PiS-9184018.html",
+      "url": "https://www.bankier.pl/wiadomosc/Maciej-Berek-kandydatem-do-TK-Prof-Wojciuk-Tusk-postanowil-dzialac-metodami-PiS-9184018.html",
+      "title": "Maciej Berek kandydatem do TK. Prof. Wojciuk: Tusk postanowił działać metodami PiS",
+      "content_html": "Donald Tusk uznał, że skoro nie udało się odbudować TK jako niezależnej instytucji, to należy go zawłaszczyć - tak decyzję o wystawieniu kandydatury Macieja Berka na sędziego TK oceniła politolog Anna Wojciuk. Dla innego politologa - Wawrzyńca...",
+      "date_published": "2026-08-18T19:03:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-31-zl-na-akcje-9184005.html",
       "url": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-31-zl-na-akcje-9184005.html",
       "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,31 zł na akcję",
@@ -681,13 +702,6 @@
       "title": "Lula zachwycony odkryciem ropy. „Paszport do przyszłości” Brazylii",
       "content_html": "Prezydent Brazylii Luiz Inacio Lula da Silva ocenił w poniedziałek, że odkrycie ropy u północno-wschodniego wybrzeża kraju, w pobliżu ujścia Amazonki, może być „paszportem do przyszłości” kraju. W ubiegłym tygodniu odkrycie ogłosił...",
       "date_published": "2026-08-18T06:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-zaczela-nowy-tydzien-od-spadkow-9183551.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-zaczela-nowy-tydzien-od-spadkow-9183551.html",
-      "title": "Wall Street zaczęła nowy tydzień od spadków",
-      "content_html": "Poniedziałkowa sesja na Wall Street zakończyła się lekkimi spadkami głównych indeksów, które kontynuują zniżkowy trend z końcówki zeszłego tygodnia. Inwestorzy czekają na protokół z ostatniego posiedzenia Fed i na publikację wyników...",
-      "date_published": "2026-08-17T23:32:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
