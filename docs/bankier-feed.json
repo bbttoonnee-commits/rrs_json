@@ -4,11 +4,81 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-Polsce-wyladowal-samolot-z-kolejna-grupa-poszkodowanych-w-wypadku-na-Wegrzech-9184240.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Polsce-wyladowal-samolot-z-kolejna-grupa-poszkodowanych-w-wypadku-na-Wegrzech-9184240.html",
+      "title": "W Polsce wylądował samolot z kolejną grupą poszkodowanych w wypadku na Węgrzech",
+      "content_html": "Przed południem na lotnisku Jasionka pod Rzeszowem wylądował samolot LPR z kolejną grupą poszkodowanych w wypadku autokaru na Węgrzech. Jak wcześniej w środę informowała wojewoda podkarpacka Teresa Kubas-Hul, do Polski ma wrócić 12 pacjentów...",
+      "date_published": "2026-08-19T12:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gdzie-rosnie-rynek-magazynowy-Wyniki-zielone-obligacje-i-plany-ekspansji-Zapytaj-prezesa-MLP-Group-9184232.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gdzie-rosnie-rynek-magazynowy-Wyniki-zielone-obligacje-i-plany-ekspansji-Zapytaj-prezesa-MLP-Group-9184232.html",
+      "title": "Gdzie rośnie rynek magazynowy? Wyniki, zielone obligacje i plany ekspansji. Zapytaj prezesa MLP Group",
+      "content_html": "Polska rośnie w siłę na magazynowej mapie Europy, a MLP Group chwali się imponującą dynamiką nowych umów najmu. O wynikach po pierwszym półroczu, zmieniającym się rynku i planach rozwoju porozmawiamy z Radosławem T. Krochtą, prezesem zarządu...",
+      "date_published": "2026-08-19T12:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Thorium-Space-zadebiutuje-na-NewConnect-Znamy-date-9184239.html",
+      "url": "https://www.bankier.pl/wiadomosc/Thorium-Space-zadebiutuje-na-NewConnect-Znamy-date-9184239.html",
+      "title": "Thorium Space zadebiutuje na NewConnect. Znamy datę",
+      "content_html": "Thorium Space, spółka rozwijająca technologie komunikacji satelitarnej, zadebiutuje na rynku NewConnect 25 sierpnia - podała spółka w komunikacie prasowym. Thorium Space dodał, że będzie czwartym przedstawicielem branży kosmicznej na warszawskiej...",
+      "date_published": "2026-08-19T12:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-inflacja-panuje-w-UE-Szwecja-Czechy-i-Wegry-z-niskimi-odczytami-Polska-powyzej-sredniej-9184194.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-inflacja-panuje-w-UE-Szwecja-Czechy-i-Wegry-z-niskimi-odczytami-Polska-powyzej-sredniej-9184194.html",
+      "title": "Jak inflacja panuje w UE? Szwecja, Czechy i Węgry z niskimi odczytami, Polska powyżej średniej",
+      "content_html": "Eurostat podał finalne dane o inflacji w strefie euro i całej Unii Europejskiej według miary HICP. Wzrost cen w euro lekko przyspieszył w ubiegłym miesiącu i już po raz piąty przekraczał cel Europejskiego Banku Centralnego. W unijnym rankingu...",
+      "date_published": "2026-08-19T12:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Lagarde-ostrzega-Europe-Powojenny-model-wzrostu-gospodarczego-sie-konczy-9184238.html",
+      "url": "https://www.bankier.pl/wiadomosc/Lagarde-ostrzega-Europe-Powojenny-model-wzrostu-gospodarczego-sie-konczy-9184238.html",
+      "title": "Lagarde ostrzega Europę. Powojenny model wzrostu gospodarczego się kończy",
+      "content_html": "Powojenny model wzrostu gospodarczego w Europie ulega erozji i jest mało prawdopodobne, by powrócił on do postaci, jaką znaliśmy kiedyś, ale Europa nadal dysponuje jednak znacznymi atutami, na których może się opierać - oceniła w środę szefowa...",
+      "date_published": "2026-08-19T12:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wegrzy-maja-nowego-prezydenta-Andras-Baka-objal-urzad-9184233.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wegrzy-maja-nowego-prezydenta-Andras-Baka-objal-urzad-9184233.html",
+      "title": "Węgrzy mają nowego prezydenta. Andras Baka objął urząd",
+      "content_html": "Były prezes węgierskiego Sądu Najwyższego Andras Baka objął w środę urząd prezydenta Węgier. Jego kadencja potrwa do momentu wejścia w życie nowej, zapowiadanej przez Magyara konstytucji, jednak nie dłużej niż pięć lat.",
+      "date_published": "2026-08-19T12:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Meta-oskarzona-o-wykorzystywanie-dzieci-Big-tech-na-lawie-oskarzonych-9184225.html",
+      "url": "https://www.bankier.pl/wiadomosc/Meta-oskarzona-o-wykorzystywanie-dzieci-Big-tech-na-lawie-oskarzonych-9184225.html",
+      "title": "Meta oskarżona o wykorzystywanie dzieci. Big tech na ławie oskarżonych",
+      "content_html": "Amerykański gigant technologiczny Meta Platforms odrzucił zarzuty wysunięte przez 29 stanów USA, jakoby celowo dążył do uzależnienia dzieci od Instagrama i Facebooka w celu zwiększenia zysków – przekazała agencja Reutera. Kary nałożone...",
+      "date_published": "2026-08-19T12:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PHN-zbada-mozliwosci-zagospodarowania-nieruchomosci-posiadanych-przez-KOWR-9184223.html",
+      "url": "https://www.bankier.pl/wiadomosc/PHN-zbada-mozliwosci-zagospodarowania-nieruchomosci-posiadanych-przez-KOWR-9184223.html",
+      "title": "Nowe inwestycje na nieruchomościach KOWR? PHN podpisał list intencyjny",
+      "content_html": "Polski Holding Nieruchomości (PHN) oraz Krajowy Ośrodek Wsparcia Rolnictwa (KOWR) podpisały list intencyjny dotyczący współpracy w zakresie zagospodarowania nieruchomości stanowiących własność KOWR - podał PHN w komunikacie prasowym.",
+      "date_published": "2026-08-19T11:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Napiwki-powinny-byc-obowiazkiem-Gessler-wywolal-burze-9184216.html",
+      "url": "https://www.bankier.pl/wiadomosc/Napiwki-powinny-byc-obowiazkiem-Gessler-wywolal-burze-9184216.html",
+      "title": "\"Napiwki powinny być obowiązkiem\". Gessler wywołał burzę",
+      "content_html": "Kwestia przekazywania napiwków w restauracjach stanowi przedmiot stałych dyskusji konsumenckich oraz branżowych. W rozmowie z portalem Pyszności.pl restaurator Mateusz Gessler odniósł się do roli tipów w strukturze dochodów pracowników obsługi...",
+      "date_published": "2026-08-19T11:45:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/S-P500-rynki-wschodzace-i-caly-swiat-Jak-nie-przesadzic-z-globalnym-portfelem-9184199.html",
       "url": "https://www.bankier.pl/wiadomosc/S-P500-rynki-wschodzace-i-caly-swiat-Jak-nie-przesadzic-z-globalnym-portfelem-9184199.html",
       "title": "S&P500, rynki wschodzące i cały świat. Jak nie przesadzić z “globalnym portfelem”?",
       "content_html": "Przekonanie, że budowa solidnego portfela wymaga całego wachlarza instrumentów, to popularny błąd pasywnych inwestorów. Wchodząc na rynek funduszy ETF, łatwo ulec pokusie kupowania kolejnych tickerów - osobny fundusz na amerykański indeks S&P500...",
       "date_published": "2026-08-19T11:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosja-rozpoczela-proby-okretu-podwodnego-przenoszacego-torpedy-nuklearne-9184215.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosja-rozpoczela-proby-okretu-podwodnego-przenoszacego-torpedy-nuklearne-9184215.html",
+      "title": "Rosja rozpoczęła próby okrętu podwodnego przenoszącego torpedy nuklearne",
+      "content_html": "Marynarka wojenna Rosji rozpoczęła próby morskie okrętu podwodnego Chabarowsk, który ma zdolność przenoszenia nowej rosyjskiej broni, torped nuklearnych Posejdon – poinformował ukraiński portal Defence Express.",
+      "date_published": "2026-08-19T11:37:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Chiny-doganiaja-SpaceX-Przelomowy-test-LandSpace-9184144.html",
@@ -212,20 +282,6 @@
       "title": "Ponad 50-letnie zapory w Polsce. \"Stwarzają większe zagrożenie i generują koszty\"",
       "content_html": "Ponad połowa największych polskich tam ma ponad pół wieku. Zdaniem prawników budowle weszły w okres, w którym stwarzają większe zagrożenie i generują koszty. Mimo to nikt nie ocenia ich oddziaływania na środowisko – pisze w środę „Dziennik...",
       "date_published": "2026-08-19T08:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-lawnikow-Resort-sprawiedliwosci-proponuje-sedziow-spolecznych-9184135.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-lawnikow-Resort-sprawiedliwosci-proponuje-sedziow-spolecznych-9184135.html",
-      "title": "Koniec ławników? Resort sprawiedliwości proponuje :sędziów społecznych:",
-      "content_html": "Przekształcenie ławników sądów powszechnych w sędziów społecznych, zwiększenie wypłacanych im rekompensat oraz zmiany w procedurze wyboru osób pełniących tę funkcję - to główne założenia projektu zmiany Prawa o ustroju sądów powszechnych...",
-      "date_published": "2026-08-19T08:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wydatki-na-obronnosc-wyraznie-ponizej-planu-MON-uspokaja-9184095.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wydatki-na-obronnosc-wyraznie-ponizej-planu-MON-uspokaja-9184095.html",
-      "title": "Wydatki na obronność wyraźnie poniżej planu. MON uspokaja",
-      "content_html": "Do połowy roku wydatki Funduszu Wsparcia Sił Zbrojnych (FWSZ) stanowiły zaledwie 14 proc. planu na cały rok. MON uspokaja: to efekt specyfiki funduszu oraz finansowanych inwestycji. Jednak możliwe, że znów nie uda się wydać na obronność pełnej...",
-      "date_published": "2026-08-19T08:05:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Liberia-przyjmie-do-1200-obywateli-panstw-trzecich-deportowanych-z-USA-9184078.html",
@@ -646,41 +702,6 @@
       "title": "Nowe sojusze na Bliskim Wschodzie. „FT”: Wojna z Iranem przynosi nieoczekiwane skutki",
       "content_html": "Wojna z Iranem zmienia Bliski Wschód i prowadzi do tworzenia się nowych sojuszy, a dzieje się tak w sposób, którego ani Izrael, ani USA nie przewidziały – pisze „Financial Times”. Ocenia, że w regionie rośnie przekonanie, że Izrael jest...",
       "date_published": "2026-08-18T13:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-o-Romanowskim-sluzby-potwierdzily-ze-jest-w-Naddniestrzu-9183771.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-o-Romanowskim-sluzby-potwierdzily-ze-jest-w-Naddniestrzu-9183771.html",
-      "title": "Tusk o Romanowskim: służby potwierdziły, że jest w Naddniestrzu",
-      "content_html": "Premier Donald Tusk przekazał we wtorek, że służby innych państw z regionu, z którymi Polska współpracuje, potwierdziły informacje, że poseł PiS Marcin Romanowski znajduje się na 99 proc. w Naddniestrzu. Jak stwierdził, miejsce pobytu wystarczy...",
-      "date_published": "2026-08-18T13:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Holandia-chce-odblokowac-budowe-mieszkan-Prosi-Bruksele-o-elastycznosc-9183747.html",
-      "url": "https://www.bankier.pl/wiadomosc/Holandia-chce-odblokowac-budowe-mieszkan-Prosi-Bruksele-o-elastycznosc-9183747.html",
-      "title": "Holandia chce odblokować budowę mieszkań. Prosi Brukselę o elastyczność",
-      "content_html": "Rząd Holandii zwrócił się do Komisji Europejskiej o większą elastyczność w stosowaniu przepisów UE dotyczących ochrony przyrody. Haga liczy, że pozwoli to na ponowne wydawanie pozwoleń na budowę mieszkań i inwestycje przemysłowe blokowane...",
-      "date_published": "2026-08-18T13:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Maciej-Krzysztoszek-zostal-rzecznikiem-prasowym-GPW-9183752.html",
-      "url": "https://www.bankier.pl/wiadomosc/Maciej-Krzysztoszek-zostal-rzecznikiem-prasowym-GPW-9183752.html",
-      "title": "GPW ma nowego rzecznika prasowego. Został nim Maciej Krzysztoszek",
-      "content_html": "Maciej Krzysztoszek objął stanowisko rzecznika prasowego Giełdy Papierów Wartościowych w Warszawie - podała GPW w komunikacie prasowym. Krzysztoszek jednocześnie objął funkcję wicedyrektora Działu Komunikacji i Marketingu GPW.",
-      "date_published": "2026-08-18T13:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pepco-Group-nabylo-36-462-201-akcji-wlasnych-za-ok-400-mln-euro-9183751.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pepco-Group-nabylo-36-462-201-akcji-wlasnych-za-ok-400-mln-euro-9183751.html",
-      "title": "Pepco Group nabyło 36.462.201 akcji własnych za ok. 400 mln euro",
-      "content_html": "Pepco Group rozliczyło skup akcji własnych, w ramach którego nabyło 36.462.201 akcji po stałej cenie nabycia wynoszącej 47,52 zł, za łączną kwotę ok. 1,73 mld zł (ok. 400 mln euro) - podała spółka w komunikacie.",
-      "date_published": "2026-08-18T13:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kawa-jest-zagrozona-Ceny-o-300-proc-w-gore-przez-nowe-unijne-wymogi-9183715.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kawa-jest-zagrozona-Ceny-o-300-proc-w-gore-przez-nowe-unijne-wymogi-9183715.html",
-      "title": "Kawa jest zagrożona? Ceny o 300 proc. w górę przez nowe unijne wymogi",
-      "content_html": "Bruksela rozważa wdrożenie tzw. klauzuli lustrzanej - donosi \"Politico\". Przepisy te sprawiłyby, że żywność importowana do Unii Europejskiej musiałaby być wytwarzana przy użyciu tych samych środków ochrony roślin, które są wymagane od unijnych...",
-      "date_published": "2026-08-18T13:13:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
