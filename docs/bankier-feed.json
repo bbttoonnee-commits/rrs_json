@@ -4,11 +4,46 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Argus-wycenia-akcje-Asbisu-na-172-zl-9184266.html",
+      "url": "https://www.bankier.pl/wiadomosc/Argus-wycenia-akcje-Asbisu-na-172-zl-9184266.html",
+      "title": "Argus wycenia akcję Asbisu na 172 zł",
+      "content_html": "Analitycy Argus Research, w raporcie z 18 sierpnia, wycenili akcję Asbisu na 172 zł.",
+      "date_published": "2026-08-19T13:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pierwszy-na-swiecie-tunel-dla-statkow-powstanie-w-Norwegii-Jest-umowa-9184072.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pierwszy-na-swiecie-tunel-dla-statkow-powstanie-w-Norwegii-Jest-umowa-9184072.html",
+      "title": "Pierwszy na świecie tunel dla statków powstanie w Norwegii. Jest umowa",
+      "content_html": "Umowa na budowę pierwszego na świecie pełnowymiarowego tunelu dla statków została podpisana – poinformował w komunikacie Norweski Zarząd Wybrzeża. Kontrakt ma wartość 5,6 mld koron (ponad 2,2 mld złotych). Pierwsza jednostka ma przepłynąć...",
+      "date_published": "2026-08-19T13:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mieszkania-znow-sprzedaja-sie-szybciej-Na-szesciu-rynkach-popyt-przewyzsza-podaz-9184131.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mieszkania-znow-sprzedaja-sie-szybciej-Na-szesciu-rynkach-popyt-przewyzsza-podaz-9184131.html",
+      "title": "Mieszkania znów sprzedają się szybciej. Na sześciu rynkach popyt przewyższa podaż",
+      "content_html": "W lipcu na sześciu regionalnych rynkach - w Białymstoku, Bydgoszczy, Kielcach, Lublinie, Rzeszowie i Szczecinie sprzedano o 11 proc. więcej mieszkań niż rok wcześniej - wynika z danych portalu Otodom. Z analizy wynika, że do oferty trafiło tam...",
+      "date_published": "2026-08-19T13:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-Polsce-wyladowal-samolot-z-kolejna-grupa-poszkodowanych-w-wypadku-na-Wegrzech-9184240.html",
       "url": "https://www.bankier.pl/wiadomosc/W-Polsce-wyladowal-samolot-z-kolejna-grupa-poszkodowanych-w-wypadku-na-Wegrzech-9184240.html",
       "title": "W Polsce wylądował samolot z kolejną grupą poszkodowanych w wypadku na Węgrzech",
       "content_html": "Przed południem na lotnisku Jasionka pod Rzeszowem wylądował samolot LPR z kolejną grupą poszkodowanych w wypadku autokaru na Węgrzech. Jak wcześniej w środę informowała wojewoda podkarpacka Teresa Kubas-Hul, do Polski ma wrócić 12 pacjentów...",
-      "date_published": "2026-08-19T12:42:00+02:00"
+      "date_published": "2026-08-19T12:55:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pracownicy-KGHM-mieli-wyludzic-500-tys-zl-SN-uchylil-wyrok-uniewinniajacy-9184260.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pracownicy-KGHM-mieli-wyludzic-500-tys-zl-SN-uchylil-wyrok-uniewinniajacy-9184260.html",
+      "title": "Pracownicy KGHM mieli wyłudzić 500 tys. zł. SN uchylił wyrok uniewinniający",
+      "content_html": "Sąd Najwyższy zdecydował o uchyleniu wyroku Sądu Apelacyjnego we Wrocławiu, uniewinniającego wcześniej skazanych przez sąd I instancji czterech pracowników KGHM. Byli oskarżeni o wyłudzenie 500 tys. zł za niewykonaną pracę w godzinach nadliczbowych...",
+      "date_published": "2026-08-19T12:51:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-Chorwacji-aresztowano-Ukrainca-podejrzanego-w-sprawie-wysadzenia-Nord-Stream-9184255.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Chorwacji-aresztowano-Ukrainca-podejrzanego-w-sprawie-wysadzenia-Nord-Stream-9184255.html",
+      "title": "W Chorwacji aresztowano Ukraińca podejrzanego w sprawie wysadzenia Nord Stream",
+      "content_html": "Obywatel Ukrainy podejrzany w sprawie wysadzenia rosyjskiego gazociągu Nord Stream w 2022 roku został ujęty w środę przez policję w mieście Pula na zachodzie Chorwacji na podstawie Europejskiego Nakazu Aresztowania - poinformowała prokuratura...",
+      "date_published": "2026-08-19T12:47:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Gdzie-rosnie-rynek-magazynowy-Wyniki-zielone-obligacje-i-plany-ekspansji-Zapytaj-prezesa-MLP-Group-9184232.html",
@@ -27,7 +62,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Jak-inflacja-panuje-w-UE-Szwecja-Czechy-i-Wegry-z-niskimi-odczytami-Polska-powyzej-sredniej-9184194.html",
       "url": "https://www.bankier.pl/wiadomosc/Jak-inflacja-panuje-w-UE-Szwecja-Czechy-i-Wegry-z-niskimi-odczytami-Polska-powyzej-sredniej-9184194.html",
-      "title": "Jak inflacja panuje w UE? Szwecja, Czechy i Węgry z niskimi odczytami, Polska powyżej średniej",
+      "title": "Jaka inflacja panuje w UE? Szwecja, Czechy i Węgry z niskimi odczytami, Polska powyżej średniej",
       "content_html": "Eurostat podał finalne dane o inflacji w strefie euro i całej Unii Europejskiej według miary HICP. Wzrost cen w euro lekko przyspieszył w ubiegłym miesiącu i już po raz piąty przekraczał cel Europejskiego Banku Centralnego. W unijnym rankingu...",
       "date_published": "2026-08-19T12:20:00+02:00"
     },
@@ -282,6 +317,20 @@
       "title": "Ponad 50-letnie zapory w Polsce. \"Stwarzają większe zagrożenie i generują koszty\"",
       "content_html": "Ponad połowa największych polskich tam ma ponad pół wieku. Zdaniem prawników budowle weszły w okres, w którym stwarzają większe zagrożenie i generują koszty. Mimo to nikt nie ocenia ich oddziaływania na środowisko – pisze w środę „Dziennik...",
       "date_published": "2026-08-19T08:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-lawnikow-Resort-sprawiedliwosci-proponuje-sedziow-spolecznych-9184135.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-lawnikow-Resort-sprawiedliwosci-proponuje-sedziow-spolecznych-9184135.html",
+      "title": "Koniec ławników? Resort sprawiedliwości proponuje :sędziów społecznych:",
+      "content_html": "Przekształcenie ławników sądów powszechnych w sędziów społecznych, zwiększenie wypłacanych im rekompensat oraz zmiany w procedurze wyboru osób pełniących tę funkcję - to główne założenia projektu zmiany Prawa o ustroju sądów powszechnych...",
+      "date_published": "2026-08-19T08:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wydatki-na-obronnosc-wyraznie-ponizej-planu-MON-uspokaja-9184095.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wydatki-na-obronnosc-wyraznie-ponizej-planu-MON-uspokaja-9184095.html",
+      "title": "Wydatki na obronność wyraźnie poniżej planu. MON uspokaja",
+      "content_html": "Do połowy roku wydatki Funduszu Wsparcia Sił Zbrojnych (FWSZ) stanowiły zaledwie 14 proc. planu na cały rok. MON uspokaja: to efekt specyfiki funduszu oraz finansowanych inwestycji. Jednak możliwe, że znów nie uda się wydać na obronność pełnej...",
+      "date_published": "2026-08-19T08:05:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Liberia-przyjmie-do-1200-obywateli-panstw-trzecich-deportowanych-z-USA-9184078.html",
@@ -653,55 +702,6 @@
       "title": "Burza wokół zatrudnienia w PLL LOT. Inspektorzy prześwietlają samozatrudnienie i B2B",
       "content_html": "Okręgowy Inspektorat Pracy w Warszawie od 23 lipca br. prowadzi kontrolę w PLL LOT, LOT Crew oraz LOT Cabin Crew; sprawdzane są m.in. kontrakty B2B. LOT zapewnia, że stosowane modele zatrudnienia i współpracy są zgodne z polskim prawem i przepisami...",
       "date_published": "2026-08-18T14:57:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rating-Polski-zagrozony-Najwazniejszym-ryzykiem-jest-sytuacja-fiskalna-9183804.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rating-Polski-zagrozony-Najwazniejszym-ryzykiem-jest-sytuacja-fiskalna-9183804.html",
-      "title": "Rating Polski zagrożony? \"Najważniejszym ryzykiem jest sytuacja fiskalna\"",
-      "content_html": "W piątek Fitch prawdopodobnie nie zmieni ratingu Polski; wciąż nie jest znany kształt przyszłorocznego budżetu i zakładana przez resort finansów trajektoria długu w kolejnych latach - ocenia główna ekonomistka na Polskę w Raiffeisen Bank International...",
-      "date_published": "2026-08-18T14:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prochy-lidera-OUN-sprowadzone-do-Kijowa-Zelenski-Przywracamy-sprawiedliwosc-9183794.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prochy-lidera-OUN-sprowadzone-do-Kijowa-Zelenski-Przywracamy-sprawiedliwosc-9183794.html",
-      "title": "Prochy lidera OUN sprowadzone do Kijowa. Zełenski: Przywracamy sprawiedliwość",
-      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski wziął udział we wtorek w ponownym pochówku pierwszego przewódcy Organizacji Ukraińskich Nacjonalistów (OUN) Jewhena Konowalca. Oświadczył, że Konowalec powrócił do ojczyzny, o którą walczył i która...",
-      "date_published": "2026-08-18T14:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Instytut-Romanowskiego-dostal-z-Wegier-prawie-1-mln-euro-Ujawniono-szczegoly-9183788.html",
-      "url": "https://www.bankier.pl/wiadomosc/Instytut-Romanowskiego-dostal-z-Wegier-prawie-1-mln-euro-Ujawniono-szczegoly-9183788.html",
-      "title": "Instytut Romanowskiego dostał z Węgier prawie 1 mln euro. Ujawniono szczegóły",
-      "content_html": "Polsko-Węgierski Instytut Wolności, zatrudniający byłego wiceministra sprawiedliwości Polski Marcina Romanowskiego, otrzymał w 2025 roku z węgierskich funduszy publicznych 350 mln forintów, czyli ponad 960 tys. euro - ujawnili dziennikarze węgierskiego...",
-      "date_published": "2026-08-18T14:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-95-lokali-w-warszawskiej-inwestycji-9183785.html",
-      "url": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-95-lokali-w-warszawskiej-inwestycji-9183785.html",
-      "title": "Robyg wprowadził do sprzedaży 95 lokali w warszawskiej inwestycji",
-      "content_html": "Robyg wprowadził do sprzedaży 95 lokali w inwestycji w Warszawie na Dolnym Mokotowie - podał deweloper w komunikacie prasowym. (PAP Biznes)",
-      "date_published": "2026-08-18T14:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Deweloper-dostanie-zgode-na-wiecej-mieszkan-ale-czesc-ma-oddac-miastu-Propozycja-Lewicy-9183784.html",
-      "url": "https://www.bankier.pl/wiadomosc/Deweloper-dostanie-zgode-na-wiecej-mieszkan-ale-czesc-ma-oddac-miastu-Propozycja-Lewicy-9183784.html",
-      "title": "Deweloper dostanie zgodę na więcej mieszkań, ale część ma oddać miastu. Propozycja Lewicy",
-      "content_html": "Prowizję od dewelopera, polegającą na przekazywaniu miastu przynajmniej 15 proc. budowanych mieszkań w ramach inwestycji, proponuje kandydatka Lewicy na prezydenta Krakowa Daria Gosek-Popiołek. Jej zdaniem pomogłoby to „uzdrowić” sytuację...",
-      "date_published": "2026-08-18T14:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-Komisja-Europejska-zgodzila-sie-na-przejecie-InPostu-przez-Advent-FedEx-A-R-i-PPF-aktl-9183776.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-Komisja-Europejska-zgodzila-sie-na-przejecie-InPostu-przez-Advent-FedEx-A-R-i-PPF-aktl-9183776.html",
-      "title": "KE zgodziła się na przejęcie InPostu przez Advent, FedEx, A&R i PPF",
-      "content_html": "Komisja Europejska zgodziła się we wtorek na przejęcie akcji spółki InPost przez konsorcjum inwestorów: Advent, FedEx, A&R Investments i PPF. Według KE transakcja nie budzi obaw, biorąc pod uwagę jej ograniczony wpływ na konkurencję na...",
-      "date_published": "2026-08-18T13:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowe-sojusze-na-Bliskim-Wschodzie-FT-Wojna-z-Iranem-przynosi-nieoczekiwane-skutki-9183773.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-sojusze-na-Bliskim-Wschodzie-FT-Wojna-z-Iranem-przynosi-nieoczekiwane-skutki-9183773.html",
-      "title": "Nowe sojusze na Bliskim Wschodzie. „FT”: Wojna z Iranem przynosi nieoczekiwane skutki",
-      "content_html": "Wojna z Iranem zmienia Bliski Wschód i prowadzi do tworzenia się nowych sojuszy, a dzieje się tak w sposób, którego ani Izrael, ani USA nie przewidziały – pisze „Financial Times”. Ocenia, że w regionie rośnie przekonanie, że Izrael jest...",
-      "date_published": "2026-08-18T13:45:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

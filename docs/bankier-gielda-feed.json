@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Argus-wycenia-akcje-Asbisu-na-172-zl-9184266.html",
+      "url": "https://www.bankier.pl/wiadomosc/Argus-wycenia-akcje-Asbisu-na-172-zl-9184266.html",
+      "title": "Argus wycenia akcję Asbisu na 172 zł Analitycy Argus Research, w raporcie z 18 sierpnia, wycenili akcję Asbisu na 172 zł.",
+      "content_html": "",
+      "date_published": "2026-08-19T12:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pracownicy-KGHM-mieli-wyludzic-500-tys-zl-SN-uchylil-wyrok-uniewinniajacy-9184260.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pracownicy-KGHM-mieli-wyludzic-500-tys-zl-SN-uchylil-wyrok-uniewinniajacy-9184260.html",
+      "title": "Pracownicy KGHM mieli wyłudzić 500 tys. zł. SN uchylił wyrok uniewinniający Sąd Najwyższy zdecydował o uchyleniu wyroku Sądu Apelacyjnego we Wrocławiu, uniewinniającego wcześniej skazanych przez sąd I instancji czterech pracowników KGHM. Byli oskarżeni o wyłudzenie 500 tys. zł za niewykonaną pracę w godzinach nadliczbowych. Sprawa znów trafi do SA.",
+      "content_html": "",
+      "date_published": "2026-08-19T11:51:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gdzie-rosnie-rynek-magazynowy-Wyniki-zielone-obligacje-i-plany-ekspansji-Zapytaj-prezesa-MLP-Group-9184232.html",
       "url": "https://www.bankier.pl/wiadomosc/Gdzie-rosnie-rynek-magazynowy-Wyniki-zielone-obligacje-i-plany-ekspansji-Zapytaj-prezesa-MLP-Group-9184232.html",
       "title": "ZOOM NA SPÓŁKI Gdzie rośnie rynek magazynowy? Wyniki, zielone obligacje i plany ekspansji. Zapytaj prezesa MLP Group Polska rośnie w siłę na magazynowej mapie Europy, a MLP Group chwali się imponującą dynamiką nowych umów najmu. O wynikach po pierwszym półroczu, zmieniającym się rynku i planach rozwoju porozmawiamy z Radosławem T. Krochtą, prezesem zarządu MLP Group. Czekamy też na Wasze pytania!",
@@ -303,13 +317,6 @@
       "title": "Mercator Medical ma blisko 10,5 mln USD kredytu z BGK, zrefinansuje inwestycję w Tajlandii Bank Gospodarstwa Krajowego (BGK) zawarł z Mercator Medical i jej spółką zależną Mercator Medical (Thailand) Ltd. umowę kredytu terminowego na blisko 10,5 mln USD (ok. 39 mln zł) - podał bank w komunikacie. Środki z kredytu zostaną przeznaczone na refinansowanie części kosztów inwestycji grupy w Tajlandii.",
       "content_html": "",
       "date_published": "2026-08-17T13:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Deutsche-Telekom-wchodzi-glebiej-w-polski-swiatlowod-Kupuje-Fiberhost-i-Inea-9183255.html",
-      "url": "https://www.bankier.pl/wiadomosc/Deutsche-Telekom-wchodzi-glebiej-w-polski-swiatlowod-Kupuje-Fiberhost-i-Inea-9183255.html",
-      "title": "Deutsche Telekom wchodzi głębiej w polski światłowód. Kupuje Fiberhost i Inea Deutsche Telekom zawarł umowę nabycia spółek Fiberhost oraz Inea od funduszu zarządzanego przez Macquarie Asset Management oraz udziałowców mniejszościowych - podał niemiecki operator w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-08-17T12:06:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
