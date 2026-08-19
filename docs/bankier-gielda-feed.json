@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Chinskie-roboty-podbijaja-gielde-Akcje-Unitree-wzrosly-o-blisko-500-proc-9184130.html",
+      "url": "https://www.bankier.pl/wiadomosc/Chinskie-roboty-podbijaja-gielde-Akcje-Unitree-wzrosly-o-blisko-500-proc-9184130.html",
+      "title": "Chińskie roboty podbijają giełdę. Akcje Unitree wzrosły o blisko 500 proc. Akcje chińskiej firmy Unitree, tworzącej roboty humanoidalne, wzrosły w środę o blisko 500 proc. po debiucie na giełdzie w Szanghaju. To pierwsza taka spółka notowana na parkietach w Chinach kontynentalnych. Sektor robotyki humanoidalnej stał się ważnym polem technologicznej rywalizacji mocarstw - Chin i USA.",
+      "content_html": "",
+      "date_published": "2026-08-19T07:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
       "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
       "title": "Giełda od kuchni. Kupiłeś akcje, ale kurs spadł przed rozliczeniem transakcji? Czy to coś zmienia? Widok czerwonej świecy na wykresie tuż po kliknięciu “Kup” może zestresować początkującego inwestora, który usłyszał, że fizyczne przelewy gotówki i papierów w KDPW trwają dwa dni. W głowie pojawia się wątpliwość: czy giełda naliczy kwotę z momentu zlecenia, czy zaktualizuje ją po nowym kursie?",
@@ -317,20 +324,6 @@
       "title": "Cena miedzi w Londynie zmierza do rekordu Notowania miedzi na giełdzie metali LME w Londynie zmierzają do rekordu, a spread w Londynie poszerzył się do ekstremalnych poziomów, co jest sygnałem dużej konkurencji na rynkach o szybką dostawę metalu - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-08-17T08:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-wahaja-sie-Napiecia-w-Libanie-i-zagrozenia-w-Ormuzie-niepokoja-rynek-9183126.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-wahaja-sie-Napiecia-w-Libanie-i-zagrozenia-w-Ormuzie-niepokoja-rynek-9183126.html",
-      "title": "Ceny ropy wahają się. Napięcia w Libanie i zagrożenia w Ormuzie niepokoją rynek Notowania ropy naftowej na świecie fluktuują w obliczu napięć w Libanie i zagrożeń związanych z cieśniną Ormuz - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-08-17T07:51:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/multiQure-rozpoczyna-wspolprace-z-Liberi-Group-9183123.html",
-      "url": "https://www.bankier.pl/wiadomosc/multiQure-rozpoczyna-wspolprace-z-Liberi-Group-9183123.html",
-      "title": "multiQure rozpoczyna współpracę z Liberi Group multiQure rozpoczęła współpracę z Liberi Group, globalną firmą doradczą specjalizującą się w partneringu i wycenie aktywów life sciences - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-17T07:48:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
