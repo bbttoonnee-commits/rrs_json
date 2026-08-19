@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PHN-zbada-mozliwosci-zagospodarowania-nieruchomosci-posiadanych-przez-KOWR-9184223.html",
+      "url": "https://www.bankier.pl/wiadomosc/PHN-zbada-mozliwosci-zagospodarowania-nieruchomosci-posiadanych-przez-KOWR-9184223.html",
+      "title": "PHN zbada możliwości zagospodarowania nieruchomości posiadanych przez KOWR Polski Holding Nieruchomości (PHN) oraz Krajowy Ośrodek Wsparcia Rolnictwa (KOWR) podpisały list intencyjny dotyczący współpracy w zakresie zagospodarowania nieruchomości stanowiących własność KOWR - podał PHN w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-08-19T10:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/S-P500-rynki-wschodzace-i-caly-swiat-Jak-nie-przesadzic-z-globalnym-portfelem-9184199.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P500-rynki-wschodzace-i-caly-swiat-Jak-nie-przesadzic-z-globalnym-portfelem-9184199.html",
+      "title": "S&P500, rynki wschodzące i cały świat. Jak nie przesadzić z “globalnym portfelem”? Przekonanie, że budowa solidnego portfela wymaga całego wachlarza instrumentów, to popularny błąd pasywnych inwestorów. Wchodząc na rynek funduszy ETF, łatwo ulec pokusie kupowania kolejnych tickerów - osobny fundusz na amerykański indeks S&P500, kolejny na rynki rozwinięte, coś z rynków wschodzących, a do tego osobna ekspozycja na spółki technologiczne i przypadkowy egzotyczny kraj. Taki zestaw może wyglądać profesjonalnie i “globalnie”, ale kiepsko się sprawdza.",
+      "content_html": "",
+      "date_published": "2026-08-19T10:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Betonowe-zloto-i-stracone-dekady-Jak-inwestuja-dzisiaj-Polacy-i-dlaczego-czeka-nas-rewolucja-w-portfelach-9184168.html",
       "url": "https://www.bankier.pl/wiadomosc/Betonowe-zloto-i-stracone-dekady-Jak-inwestuja-dzisiaj-Polacy-i-dlaczego-czeka-nas-rewolucja-w-portfelach-9184168.html",
       "title": "Betonowe złoto i stracone dekady. Jak inwestują dzisiaj Polacy i dlaczego czeka nas rewolucja w portfelach? Polskie portfele inwestycyjne od lat zdominowane są przez jeden fundament: nieruchomości. Podczas gdy rynki zachodnie budują wielopokoleniowe portfele akcyjne i korzystają z funduszy REIT, my wciąż oszczędzamy na lokatach, by ostatecznie zamienić gotówkę w „betonowe złoto”. Jednak rynek wysyła wyraźne sygnały ostrzegawcze: rentowność najmu przegrywa z obligacjami skarbowymi, a nad horyzontem wisi demograficzna katastrofa. O końcu ery łatwych zysków z nieruchomości, naszych mentalnych barierach i rynkowych alternatywach rozmawiamy z ekspertami UniCredit: Szymonem Karasiem oraz Piotrem Zygmuntem.",
@@ -282,20 +296,6 @@
       "title": "Deutsche Telekom wchodzi głębiej w polski światłowód. Kupuje Fiberhost i Inea Deutsche Telekom zawarł umowę nabycia spółek Fiberhost oraz Inea od funduszu zarządzanego przez Macquarie Asset Management oraz udziałowców mniejszościowych - podał niemiecki operator w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-08-17T12:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Action-szacuje-przychody-w-I-polroczu-26-na-1-46-mld-zl-a-zysk-netto-na-29-2-mln-zl-9183203.html",
-      "url": "https://www.bankier.pl/wiadomosc/Action-szacuje-przychody-w-I-polroczu-26-na-1-46-mld-zl-a-zysk-netto-na-29-2-mln-zl-9183203.html",
-      "title": "Action szacuje przychody w I półroczu '26 na 1,46 mld zł, a zysk netto na 29,2 mln zł Grupa Action szacuje przychody ze sprzedaży w pierwszym półroczu 2026 roku na blisko 1,46 mld zł, a zysk netto na 29,2 mln zł - podała spółka w komunikacie. Rok wcześniej, w I półroczu 2025 r., przychody wynosiły 1,38 mld zł, a zysk netto przypadający akcjonariuszom 18,6 mln zł.",
-      "content_html": "",
-      "date_published": "2026-08-17T10:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinskie-polprzewodniki-lapia-wiatr-w-zagle-Miliardy-z-budzetu-i-sankcje-USA-robia-swoje-9183172.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinskie-polprzewodniki-lapia-wiatr-w-zagle-Miliardy-z-budzetu-i-sankcje-USA-robia-swoje-9183172.html",
-      "title": "Chińskie półprzewodniki łapią wiatr w żagle. Miliardy z budżetu i sankcje USA robią swoje Lata wytrwałości i potężne wsparcie państwa ostatecznie przynoszą owoce. Chińskie firmy, takie jak Huawei czy CXMT, wyrastają na wysoce kompetentnych producentów układów scalonych, a amerykańskie restrykcje, zamiast zdusić branżę, wręcz przeciwnie: stały się dla niej niespodziewanym katalizatorem wzrostu.",
-      "content_html": "",
-      "date_published": "2026-08-17T10:45:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
