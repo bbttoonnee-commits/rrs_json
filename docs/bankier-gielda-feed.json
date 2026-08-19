@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html",
+      "title": "Giełda od kuchni. Kupiłeś akcje, ale kurs spadł przed rozliczeniem transakcji? Czy to coś zmienia? Widok czerwonej świecy na wykresie tuż po kliknięciu “Kup” może zestresować początkującego inwestora, który usłyszał, że fizyczne przelewy gotówki i papierów w KDPW trwają dwa dni. W głowie pojawia się wątpliwość: czy giełda naliczy kwotę z momentu zlecenia, czy zaktualizuje ją po nowym kursie?",
+      "content_html": "",
+      "date_published": "2026-08-19T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strach-przed-banka-AI-Jest-sposob-by-zainwestowac-w-amerykanski-rynek-z-gwarancja-kapitalu-9181698.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strach-przed-banka-AI-Jest-sposob-by-zainwestowac-w-amerykanski-rynek-z-gwarancja-kapitalu-9181698.html",
+      "title": "Strach przed bańką AI? Jest sposób, by zainwestować w amerykański rynek z gwarancją kapitału Choć rynek akcji od długiego czasu jest w hossie, coraz więcej inwestorów obawia się jego przegrzania i szuka rozwiązań na ochronę wypracowanych zysków. Odpowiedzią na te obawy i skomplikowaną sytuację geopolityczną mogą być produkty strukturyzowane. O tym, jak mądrze włączyć je do swojego portfela, rozmawiamy z Jerzym Nikorowskim, dyrektorem Biura Maklerskiego Banku BNP Paribas.",
+      "content_html": "",
+      "date_published": "2026-08-19T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Warren-Buffett-i-co-tygrysy-lubia-najbardziej-Wall-Street-poznalo-zmiany-w-portfelach-9183933.html",
+      "url": "https://www.bankier.pl/wiadomosc/Warren-Buffett-i-co-tygrysy-lubia-najbardziej-Wall-Street-poznalo-zmiany-w-portfelach-9183933.html",
+      "title": "Buffett i co tygrysy lubią najbardziej. Wall Street poznało zmiany w portfelach Wehikuł inwestycyjny Warrena Buffetta coraz mocniej angażuje się w akcje Alphabet, czyli spółki macierzystej Google – wynika z najnowszego raportu 13f, jaki Berkshire Hathway złożyło w ubiegłym tygodniu do SEC. Poza portfelem legendarnego inwestora sprawdzamy jakie zmiany zaszył w funduszach z listy Tiger Cubs, czyli założonych przez byłych pracowników Tiger Management.",
+      "content_html": "",
+      "date_published": "2026-08-19T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Oponeo-pl-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184025.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Oponeo-pl-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184025.html",
       "title": "Wyniki Oponeo.pl poniżej oczekiwań. Wyższy przychód, ale zysk netto rozczarował Poniżej przedstawiamy wyniki grupy Oponeo.pl w drugim kwartale 2026 roku, według wyliczeń PAP Biznes, oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
@@ -303,13 +324,6 @@
       "title": "multiQure rozpoczyna współpracę z Liberi Group multiQure rozpoczęła współpracę z Liberi Group, globalną firmą doradczą specjalizującą się w partneringu i wycenie aktywów life sciences - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-08-17T07:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Dlaczego-nie-dostajesz-papierowej-akcji-po-zakupie-spolki-9182993.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Dlaczego-nie-dostajesz-papierowej-akcji-po-zakupie-spolki-9182993.html",
-      "title": "Giełda od kuchni. Dlaczego nie dostajesz papierowej akcji po zakupie spółki? Filmowe wyobrażenie inwestora odbierającego z bankowego sejfu elegancki arkusz papieru ze znakami wodnymi i stemplami to rekwizyt minionej epoki. Gdy w kwietniu 1991 roku reaktywowano Giełdę Papierów Wartościowych w Warszawie, Polacy nie wracali do XX-lecia międzywojennego ani nie kopiowali schematów z rynków w Ameryce czy Europie Zachodniej. Współczesny polski rynek kapitałowy od pierwszej minuty swojego istnienia przeskoczył całą technologiczną epokę.",
-      "content_html": "",
-      "date_published": "2026-08-17T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
