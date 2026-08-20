@@ -4,9 +4,16 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/mcr-mial-w-I-kw-2026-27-57-mln-zl-przychodow-ostateczne-rozliczenie-dot-earn-out-spodziewane-w-tym-roku-9184714.html",
+      "url": "https://www.bankier.pl/wiadomosc/mcr-mial-w-I-kw-2026-27-57-mln-zl-przychodow-ostateczne-rozliczenie-dot-earn-out-spodziewane-w-tym-roku-9184714.html",
+      "title": "Grupa mcr ze skokiem przychodów o 26 proc. Trwa transformacja i rozliczenie wielkiej transakcji Przychody ze sprzedaży z działalności kontynuowanej grupy mcr w I kw. 2026/2027 (kwiecień-czerwiec 2026 r.) wzrosły do 57 mln zł z 45,2 mln zł rok wcześniej - podała spółka w raporcie. Ostatecznego rozliczenia, od którego uzależniona jest płatność odroczona za sprzedaż części działalności, można spodziewać się tym roku.",
+      "content_html": "",
+      "date_published": "2026-08-20T08:14:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rewizja-Solvency-II-neutralna-dla-zdolnosci-PZU-do-kontynuowania-polityki-kapitalowo-dywidendowej-9184708.html",
       "url": "https://www.bankier.pl/wiadomosc/Rewizja-Solvency-II-neutralna-dla-zdolnosci-PZU-do-kontynuowania-polityki-kapitalowo-dywidendowej-9184708.html",
-      "title": "Dywidendy PZU bezpieczne. Nowa dyrektywa unijna nie pokrzyżuje planów giganta Rewizja dyrektywy Solvency II, która wejdzie w życie w 2027 roku, będzie miała neutralny wpływ na zdolność do kontynuowania polityki kapitałowo-dywidendowej przez PZU - poinformował ubezpieczyciel w prezentacji.",
+      "title": "Dywidendy PZU bezpieczne. Nowa dyrektywa unijna nie pokrzyżuje planów Rewizja dyrektywy Solvency II, która wejdzie w życie w 2027 roku, będzie miała neutralny wpływ na zdolność do kontynuowania polityki kapitałowo-dywidendowej przez PZU - poinformował ubezpieczyciel w prezentacji.",
       "content_html": "",
       "date_published": "2026-08-20T07:48:00+02:00"
     },
@@ -408,13 +415,6 @@
       "title": "\"Lepiej nie ryzykować\". Dlaczego wielki kapitał konsekwentnie ucieka z Chin? Globalne fundusze private equity konsekwentnie wycofują się z inwestycji na chińskim rynku. Największe światowe firmy wykupujące, w tym tacy giganci jak Blackstone, KKR czy Warburg Pincus, w pierwszych siedmiu miesiącach 2026 roku nie sfinalizowały ani jednej publicznie ujawnionej transakcji w Chinach - czytamy w \"Financial Times\".",
       "content_html": "",
       "date_published": "2026-08-18T09:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wojna-cenowa-na-IKE-i-IKZE-weszla-w-nowa-faze-Kolejne-biuro-maklerskie-scina-prowizje-do-zera-9183612.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wojna-cenowa-na-IKE-i-IKZE-weszla-w-nowa-faze-Kolejne-biuro-maklerskie-scina-prowizje-do-zera-9183612.html",
-      "title": "Wojna cenowa na IKE i IKZE weszła w nową fazę. Kolejne biuro maklerskie ścina prowizje do zera Aż do końca 2027 roku potrwa zwolnienie z opłat podczas inwestowania w polskie i zagraniczne ETF-y na rachunkach IKE i IKZE w biurze maklerskim Alior Banku. Do ostatniego dnia 2026 roku bezprowizyjny handel obejmie tam również polskie akcje i obligacje z rynku kasowego GPW. To kolejny ruch w trwającej od miesięcy wojnie cenowej domów maklerskich walczących o emerytalne oszczędności Polaków.",
-      "content_html": "",
-      "date_published": "2026-08-18T08:11:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
