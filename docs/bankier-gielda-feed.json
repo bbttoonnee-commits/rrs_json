@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184669.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184669.html",
+      "title": "Wyniki PZU w II kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki grupy PZU w II kwartale 2026 r. w porównaniu do konsensusu i poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-08-20T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/80-na-spokojnie-20-na-ryzyko-Ekspert-zdradza-sposob-na-portfel-ETF-9181818.html",
+      "url": "https://www.bankier.pl/wiadomosc/80-na-spokojnie-20-na-ryzyko-Ekspert-zdradza-sposob-na-portfel-ETF-9181818.html",
+      "title": "80% na spokojnie, 20% na ryzyko. Ekspert zdradza sposób na portfel ETF Inwestowanie w fundusze ETF zyskało ogromną popularność jako prosta, przejrzysta i tania forma długoterminowego pomnażania kapitału. Jednak nawet najlepsze narzędzie finansowe nie uchroni inwestora przed błędami behawioralnymi i brakiem konsekwencji. W odcinku programu „Wakacje na giełdzie” Michał Niewiadomski rozmawiał z Przemysławem Sepielakiem, dyrektorem ds. funduszy indeksowych w TFI PZU, o najważniejszych pułapkach czyhających na rynkach.",
+      "content_html": "",
+      "date_published": "2026-08-20T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-bedzie-podejmowac-inicjatywy-dot-nadzwyczajnych-zyskow-koncernow-paliwowych-w-tym-Orlenu-Balczun-MAP-9184601.html",
       "url": "https://www.bankier.pl/wiadomosc/Rzad-bedzie-podejmowac-inicjatywy-dot-nadzwyczajnych-zyskow-koncernow-paliwowych-w-tym-Orlenu-Balczun-MAP-9184601.html",
       "title": "Rząd nie odpuszcza nadmiarowych zysków. Balczun. Będziemy podejmować inicjatywy Rząd będzie podejmować inicjatywy dot. nadzwyczajnych zysków koncernów paliwowych, w tym Orlenu - poinformował minister aktywów państwowych Wojciech Balczun.",
@@ -387,20 +401,6 @@
       "title": "BOŚ podał wyniki. Zysk netto spadł o ponad 80 proc. Zysk netto grupy Banku Ochrony Środowiska w I półr. 2026 r. wyniósł 15,1 mln zł, wobec 79,7 mln zł w analogicznym okresie rok wcześniej. W samym II kw. 2026 r. grupa odnotowała 1,1 mln zł straty netto, w porównaniu do 67,9 mln zł zysku przed rokiem - poinformował bank w raporcie. Suma bilansowa wzrosła o 16,3 proc. rdr do 27,3 mld zł.",
       "content_html": "",
       "date_published": "2026-08-18T06:34:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AI-przejela-kontrole-nad-indeksami-Rynki-wschodzace-stracily-swoja-przewage-9183243.html",
-      "url": "https://www.bankier.pl/wiadomosc/AI-przejela-kontrole-nad-indeksami-Rynki-wschodzace-stracily-swoja-przewage-9183243.html",
-      "title": "AI przejęła kontrolę nad indeksami. Rynki wschodzące straciły swoją przewagę Rynki wschodzące, traktowane przez inwestorów jako naturalny sposób na dywersyfikację i ucieczkę przed wysokimi wycenami na Wall Street, stały się kolejnym zakładnikiem hossy wokół sztucznej inteligencji. Indeksy spod szyldu \"Emerging Markets\" poruszają się dziś pod dyktando azjatyckich producentów półprzewodników. W efekcie koszyki akcji mające zapewniać ekspozycję na gospodarki ponad dwudziestu państw zmieniły się w zakład o koniunkturę w jednym sektorze.",
-      "content_html": "",
-      "date_published": "2026-08-18T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jak-budowac-dlugofalowo-kapital-i-opanowac-rynkowe-emocje-9181817.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jak-budowac-dlugofalowo-kapital-i-opanowac-rynkowe-emocje-9181817.html",
-      "title": "Jak budować długofalowo kapitał i opanować rynkowe emocje? Budowanie kapitału na przyszłość to proces, który wymaga od nas nie tylko wiedzy teoretycznej, ale przede wszystkim żelaznej dyscypliny i odpowiedniego nastawienia psychicznego. W ramach konkursu \"Wakacje na Giełdzie\", w rozmowie z Bankier.pl Bartosz Stolarczuk, ekspert Domu Maklerskiego BOŚ podzielił się kilkoma cennymi wskazówkami.",
-      "content_html": "",
-      "date_published": "2026-08-18T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
