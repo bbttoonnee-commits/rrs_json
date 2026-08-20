@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-230-lokali-na-warszawskim-Bemowie-9184799.html",
+      "url": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-230-lokali-na-warszawskim-Bemowie-9184799.html",
+      "title": "Robyg wprowadził do sprzedaży 230 lokali na?warszawskim Bemowie Robyg wprowadził do sprzedaży ostatnie 2 etapy Osiedla Kameralnego, czyli 230 lokali na?warszawskim Bemowie - podał deweloper w komunikacie prasowym. Łącznie osiedle obejmie około 900 lokali w 8 etapach. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-08-20T10:26:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-ma-umowe-z-Equinorem-na-dostawy-ropy-z-Norwegii-9184796.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-ma-umowe-z-Equinorem-na-dostawy-ropy-z-Norwegii-9184796.html",
+      "title": "Wielki kontrakt Orlenu z Equinorem. Norwegia dostarczy ropę na jedną czwartą potrzeb Orlen zawarł z Equinorem trzyletnią umowę na dostawy ropy ze złoża Johan Sverdrup na Norweskim Szelfie Kontynentalnym - podał Orlen w komunikacie prasowym. Dostawy rozpoczną się we wrześniu, a zakontraktowany wolumen może sięgnąć ponad 9 mln ton rocznie, co odpowiada ok. jednej czwartej rocznego zapotrzebowania Grupy.",
+      "content_html": "",
+      "date_published": "2026-08-20T10:18:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wielka-zmiana-na-PGE-Narodowym-Orlen-ma-zostac-sponsorem-tytularnym-9184730.html",
       "url": "https://www.bankier.pl/wiadomosc/Wielka-zmiana-na-PGE-Narodowym-Orlen-ma-zostac-sponsorem-tytularnym-9184730.html",
       "title": "WARSZAWA Wielka zmiana na PGE Narodowym. Orlen ma zostać sponsorem tytularnym PGE Narodowy może jeszcze w tym roku zmienić nazwę. Według ustaleń serwisu Meczyki.pl nowym sponsorem tytularnym warszawskiego stadionu ma zostać Orlen, który zastąpi PGE. Kontrakt ma opiewać na ponad 10 mln zł rocznie.",
@@ -408,20 +422,6 @@
       "title": "Giełdowy hit świętuje pierwszy rok na GPW. Ponad 40 proc. plus okresowe wypłaty z dywidend Prawdziwym giełdowym hitem okazał fundusz BETA ETF Dywidenda Plus. W pierwszym roku funkcjonowania potwierdził wysoki popyt na pasywne inwestowanie dywidendowe przyciągając ponad 208 mln zł napływów netto. Inwestorzy mogą być zadowoleni z ponad 40-procentowej stopy zwrotu i wygenerowaniu 3,41 zł łącznej wypłaty dochodu na certyfikat. Popyt ze strony inwestorów indywidualnych okazał się tak stabilny, że animator ani razu nie musiał dokonywać umorzeń na rynku pierwotnym.",
       "content_html": "",
       "date_published": "2026-08-18T11:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-2025-r-i-I-polowie-2026-r-97-proc-umow-zakupowych-z-podmiotami-krajowymi-Gaz-System-9183693.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-2025-r-i-I-polowie-2026-r-97-proc-umow-zakupowych-z-podmiotami-krajowymi-Gaz-System-9183693.html",
-      "title": "Gaz-System: 97 proc. umów zakupowych trafia do polskich firm W 2025 r. oraz w pierwszej połowie 2026 r. 97 proc. wszystkich umów zakupowych zostało zawartych z podmiotami krajowymi - poinformował operator gazociągów przesyłowych Gaz-System. Dodał, że w 2025 r. było to 1.468 umów o łącznej wartości ok. 1,24 mld zł; a w I półroczu 2026 r. - 621 umów o łącznej wartości ok. 1,14 mld zł.",
-      "content_html": "",
-      "date_published": "2026-08-18T10:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enter-Air-oczekuje-istotnego-wzrostu-operacji-w-2027-r-planuje-zwiekszyc-flote-o-ok-10-proc-wywiad-9183692.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enter-Air-oczekuje-istotnego-wzrostu-operacji-w-2027-r-planuje-zwiekszyc-flote-o-ok-10-proc-wywiad-9183692.html",
-      "title": "Enter Air planuje zwiększyć flotę o ok. 10 proc. Enter Air, czarterowy przewoźnik lotniczy, odnotowuje w 2026 r. dwucyfrowy wzrost sprzedaży i operacji. Spółka oczekuje istotnego wzrostu także w przyszłym roku, choć jego skala będzie zależeć m.in. od kontraktów i dostępności samolotów - poinformował PAP Biznes prezes Marcin Kubrak. W 2027 r. spółka planuje zwiększyć flotę o ok. 10 proc.",
-      "content_html": "",
-      "date_published": "2026-08-18T10:24:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
