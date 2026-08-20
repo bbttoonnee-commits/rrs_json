@@ -4,11 +4,46 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Dino-Polska-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9185177.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Dino-Polska-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9185177.html",
+      "title": "Wyniki Dino Polska w II kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Dino Polska w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes i do poprzednich wyników.",
+      "date_published": "2026-08-20T19:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grodno-mialo-2-5-mln-zl-zysku-netto-w-I-kw-2026-27-o-2-6-proc-wiecej-rdr-9185178.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grodno-mialo-2-5-mln-zl-zysku-netto-w-I-kw-2026-27-o-2-6-proc-wiecej-rdr-9185178.html",
+      "title": "Grodno miało 2,5 mln zł zysku netto w I kw. 2026/27, o 2,6 proc. więcej rdr",
+      "content_html": "Grodno miało w I kwartale roku obrotowego 2026/27 (od 1 kwietnia do 30 czerwca 2026 r.) 2,5 mln zł zysku netto, co oznacza wzrost o 2,6 proc. rdr - podała spółka w komunikacie.",
+      "date_published": "2026-08-20T19:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-odrzuca-projekt-rzadu-Ustawa-o-prawach-pacjenta-i-RPP-trafia-do-Trybunalu-9184938.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-odrzuca-projekt-rzadu-Ustawa-o-prawach-pacjenta-i-RPP-trafia-do-Trybunalu-9184938.html",
+      "title": "Prezydent odrzuca projekt rządu. Ustawa o prawach pacjenta i RPP trafia do Trybunału",
+      "content_html": "Prezydent Karol Nawrocki skieruje do Trybunału Konstytucyjnego nowelizację ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta (RPP). Cel tej ustawy jest słuszny, ale problemem mogą okazać się proponowane w niej środki – wyjaśnił w opublikowanym...",
+      "date_published": "2026-08-20T19:15:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Benefit-Systems-w-II-kw-wyniosl-222-2-mln-zl-powyzej-oczekiwan-9185158.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Benefit-Systems-w-II-kw-wyniosl-222-2-mln-zl-powyzej-oczekiwan-9185158.html",
+      "title": "Benefit Systems zwiększył przychody i zysk. Liczba kart zbliża się do 2,7 mln",
+      "content_html": "Zysk netto j.d. Benefit Systems w II kwartale 2026 r. wyniósł 222,2 mln zł - poinformowała spółka w raporcie półrocznym. Konsensus PAP Biznes zakładał 200 mln zł zysku netto j.d.",
+      "date_published": "2026-08-20T18:54:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Priorytetem-VRG-w-segmencie-odziezowym-w-26-trwala-poprawa-rentownosci-9185157.html",
       "url": "https://www.bankier.pl/wiadomosc/Priorytetem-VRG-w-segmencie-odziezowym-w-26-trwala-poprawa-rentownosci-9185157.html",
       "title": "VRG z planem dalszej poprawy efektywności i rozwoju sieci sprzedaży",
       "content_html": "Priorytetem Grupy VRG w segmencie odzieżowym pozostanie m.in. trwała poprawa rentowności i dalsze zwiększanie efektywności sieci sprzedaży - podała spółka w raporcie półrocznym.",
       "date_published": "2026-08-20T18:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podlaskie-z-nowym-czekiem-turystycznym-Turysci-dostana-doplaty-do-noclegow-9185153.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podlaskie-z-nowym-czekiem-turystycznym-Turysci-dostana-doplaty-do-noclegow-9185153.html",
+      "title": "Podlaskie z nowym czekiem turystycznym. Turyści dostaną dopłaty do noclegów",
+      "content_html": "Od września turyści planujący odwiedzić województwo podlaskie będą się mogli ubiegać o dofinansowanie do noclegów z programu Podlaski Czek Turystyczny. Do końca listopada na ten cel będzie przeznaczone 3,4 mln zł.",
+      "date_published": "2026-08-20T18:37:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zmiana-na-Bliskim-Wschodzie-USS-George-Washington-zastapi-USS-Abraham-Lincoln-9185154.html",
@@ -37,13 +72,6 @@
       "title": "Rekordowy pożar w Belgii opanowany. Spłonęło ponad 3 tys. hektarów",
       "content_html": "Władze w Belgii poinformowały w czwartek po południu, że pożar torfowisk został całkowicie opanowany i nie powinien się rozprzestrzeniać. W ugaszeniu największego w historii kraju pożaru pomógł deszcz.",
       "date_published": "2026-08-20T18:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-odrzuca-projekt-rzadu-Ustawa-o-prawach-pacjenta-i-RPP-trafia-do-Trybunalu-9184938.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-odrzuca-projekt-rzadu-Ustawa-o-prawach-pacjenta-i-RPP-trafia-do-Trybunalu-9184938.html",
-      "title": "Prezydent odrzuca projekt rządu. Ustawa o prawach pacjenta i RPP trafia do Trybunału",
-      "content_html": "Prezydent Karol Nawrocki skieruje do Trybunału Konstytucyjnego nowelizację ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta (RPP). Cel tej ustawy jest słuszny, ale problemem mogą okazać się proponowane w niej środki – wyjaśnił w opublikowanym...",
-      "date_published": "2026-08-20T18:24:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/KGHM-i-banki-ciagna-GPW-w-dol-Wyniki-badan-klinicznych-podbily-notowania-polskiej-spolki-farmaceutycznej-9185143.html",
@@ -142,6 +170,27 @@
       "title": "Trump zwiększa presję na Iran. \"Amerykanie mają ograniczone możliwości\"",
       "content_html": "Amerykanie mają ograniczone możliwości zmuszenia Iranu do negocjacji, więc zwiększają presję ekonomiczną, by osiągnąć cele dyplomatyczne – oceniła dla PAP Julia Sochacka z PISM, komentując wypowiedzenie Iranowi „wojny gospodarczej”...",
       "date_published": "2026-08-20T16:53:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-nie-wie-czy-odbierze-przysiege-od-Berka-Powazne-watpliwosci-9185067.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-nie-wie-czy-odbierze-przysiege-od-Berka-Powazne-watpliwosci-9185067.html",
+      "title": "Prezydent nie wie, czy odbierze przysięgę od Berka. \"Poważne wątpliwości\"",
+      "content_html": "Rzecznik prezydenta RP Rafał Leśkiewicz ocenił w czwartek, że „są poważne wątpliwości”, co do formalnych kompetencji Macieja Berka jako ewentualnego przyszłego sędziego TK. Rzecznik głowy państwa zauważył, że Berek nie jest doktorem...",
+      "date_published": "2026-08-20T16:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KGHM-kopalnia-Sierra-Gorda-pracuje-nad-nadrobieniem-zaleglosci-produkcyjnych-9185044.html",
+      "url": "https://www.bankier.pl/wiadomosc/KGHM-kopalnia-Sierra-Gorda-pracuje-nad-nadrobieniem-zaleglosci-produkcyjnych-9185044.html",
+      "title": "KGHM: kopalnia Sierra Gorda pracuje nad nadrobieniem zaległości produkcyjnych",
+      "content_html": "Chilijska kopalnia Sierra Gorda pracuje w drugim półroczu nad nadrobieniem zaległości w produkcji miedzi i osiągnięciem budżetu na 2026 rok - poinformowali przedstawiciele KGHM. Dodali, że KGHM rozmawia z zagranicznymi bankami o kredycie na 1...",
+      "date_published": "2026-08-20T16:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Epidemia-eboli-w-DRK-WHO-przekaze-70-tys-dawek-szczepionki-9185040.html",
+      "url": "https://www.bankier.pl/wiadomosc/Epidemia-eboli-w-DRK-WHO-przekaze-70-tys-dawek-szczepionki-9185040.html",
+      "title": "Epidemia eboli w DRK. WHO przekaże 70 tys. dawek szczepionki",
+      "content_html": "Zmagająca się z epidemią wirusa eboli Demokratyczna Republika Konga (DRK) otrzyma 70 tys. dawek szczepionki Ervebo, która okazała się skuteczna podczas poprzednich epidemii – poinformowała w czwartek Światowa Organizacja Zdrowia (WHO), cytowana...",
+      "date_published": "2026-08-20T16:23:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kijow-pod-ciezkim-ostrzalem-Cywilne-obiekty-zniszczone-ratownicy-wydobywaja-ludzi-spod-gruzow-9184701.html",
@@ -417,6 +466,13 @@
       "date_published": "2026-08-20T12:52:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-tlumaczy-reforme-podatkow-Zdejmujemy-ciezar-z-klasy-sredniej-dociazamy-najbogatszych-9184867.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-tlumaczy-reforme-podatkow-Zdejmujemy-ciezar-z-klasy-sredniej-dociazamy-najbogatszych-9184867.html",
+      "title": "Tusk tłumaczy reformę podatków: Zdejmujemy ciężar z klasy średniej, dociążamy najbogatszych",
+      "content_html": "Zaproponowane zmiany w progach podatkowych i CIT mają częściowo odciążyć klasę średnią jednocześnie nie zwiększając deficytu budżetowego - powiedział w czwartek premier Donald Tusk podczas konferencji w Krakowie.",
+      "date_published": "2026-08-20T12:51:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Alert-RCB-i-wycie-syren-po-nowemu-Rzad-modyfikuje-procedury-ostrzegania-obywateli-9184744.html",
       "url": "https://www.bankier.pl/wiadomosc/Alert-RCB-i-wycie-syren-po-nowemu-Rzad-modyfikuje-procedury-ostrzegania-obywateli-9184744.html",
       "title": "Alert RCB i wycie syren po nowemu. Rząd modyfikuje procedury ostrzegania obywateli",
@@ -639,41 +695,6 @@
       "title": "Katastrofa misji ratunkowej NASA. Obserwatorium Swift spłonie w atmosferze",
       "content_html": "NASA i firma Katalyst poinformowały w środę o odwołaniu misji, mającej na celu uratowanie starzejącego się obserwatorium kosmicznego Swift. Statek wysłany do przetransportowania satelity doznał problemów technicznych.",
       "date_published": "2026-08-20T08:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Lotwie-Cale-kierownictwo-CSDD-podalo-sie-do-dymisji-9184672.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Lotwie-Cale-kierownictwo-CSDD-podalo-sie-do-dymisji-9184672.html",
-      "title": "Cyberatak na Łotwie. Całe kierownictwo CSDD podało się do dymisji",
-      "content_html": "Całe kierownictwo Dyrekcji Bezpieczeństwa Ruchu Drogowego (CSDD) na Łotwie złożyło w środę rezygnację ze stanowisk po tym jak w wyniku cyberataku wyciekły dane około 1,2 mln osób oraz około 200 tys. podmiotów prawnych.",
-      "date_published": "2026-08-20T08:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podwyzka-CIT-uderzy-w-wiekszosc-spolek-z-WIG-Trigon-DM-wskazuje-skale-9184587.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podwyzka-CIT-uderzy-w-wiekszosc-spolek-z-WIG-Trigon-DM-wskazuje-skale-9184587.html",
-      "title": "Podwyżka CIT uderzy w większość spółek z WIG. Trigon DM wskazuje skalę",
-      "content_html": "Przedstawiona w środę przez rząd premiera Donalda Tuska propozycja podniesienia stawki CIT z 19 do 22 proc. dla firm z przychodami powyżej 50 mln euro rocznie dotyczy około 2/3 spółek z indeksu WIG i przekłada się na obniżenie ich wycen o 3-4...",
-      "date_published": "2026-08-20T08:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Byla-zastepczyni-szefa-biura-Zelenskiego-podejrzana-o-korupcje-NABU-prowadzi-sledztwo-9184618.html",
-      "url": "https://www.bankier.pl/wiadomosc/Byla-zastepczyni-szefa-biura-Zelenskiego-podejrzana-o-korupcje-NABU-prowadzi-sledztwo-9184618.html",
-      "title": "Była zastępczyni szefa biura Zełenskiego podejrzana o korupcję. NABU prowadzi śledztwo",
-      "content_html": "Podejrzewana o korupcję i zwolniona w środę ze stanowiska zastępczyni szefa Biura Prezydenta Ukrainy Iryna Mudra przyznała, że przeprowadzono u niej przeszukania, jednak wbrew doniesieniom medialnym, nie została zatrzymana.",
-      "date_published": "2026-08-20T08:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Okret-podwodny-A17-coraz-blizej-Polski-Marynarze-rozpoczeli-szkolenia-w-Szwecji-9184626.html",
-      "url": "https://www.bankier.pl/wiadomosc/Okret-podwodny-A17-coraz-blizej-Polski-Marynarze-rozpoczeli-szkolenia-w-Szwecji-9184626.html",
-      "title": "Okręt podwodny A17 coraz bliżej Polski. Marynarze rozpoczęli szkolenia w Szwecji",
-      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował, że w Szwecji rozpoczęły się szkolenia polskich marynarzy, którzy będą tworzyć załogę okrętu podwodnego A17. Jest to jednostka, która zostanie wypożyczona jako rozwiązanie pomostowe...",
-      "date_published": "2026-08-20T08:25:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Londyn-ostro-przeciwko-rozbudowie-izraelskich-osiedli-Niedopuszczalne-i-destrukcyjne-9184641.html",
-      "url": "https://www.bankier.pl/wiadomosc/Londyn-ostro-przeciwko-rozbudowie-izraelskich-osiedli-Niedopuszczalne-i-destrukcyjne-9184641.html",
-      "title": "Londyn ostro przeciwko rozbudowie izraelskich osiedli. „Niedopuszczalne i destrukcyjne”",
-      "content_html": "Brytyjski minister spraw zagranicznych Ed Miliband potępił w środę decyzję Izraela o ogłoszeniu przetargu na projekt budowy żydowskiego osiedla E1 na palestyńskim terytorium. MSZ przekazał stanowisko ministra wezwanemu chargé d'affaires Izraela...",
-      "date_published": "2026-08-20T08:25:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
