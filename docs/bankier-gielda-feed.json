@@ -4,9 +4,23 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/OKI-trafia-na-rynek-w-momencie-rekordowego-zainteresowania-inwestowaniem-9184832.html",
+      "url": "https://www.bankier.pl/wiadomosc/OKI-trafia-na-rynek-w-momencie-rekordowego-zainteresowania-inwestowaniem-9184832.html",
+      "title": "PIE OKI trafią na rynek w momencie rekordowego zainteresowania inwestowaniem Planowane na 1 stycznia 2027 r. uruchomienie Osobistych Kont Inwestycyjnych (OKI) zbiegnie się z okresem silnego wzrostu aktywności inwestorów indywidualnych w Polsce - uważają analitycy Polskiego Instytutu Ekonomicznego.",
+      "content_html": "",
+      "date_published": "2026-08-20T11:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BLIK-mocno-w-gore-Ponad-1-5-mld-transakcji-w-pierwsze-polrocze-2026-roku-9184821.html",
+      "url": "https://www.bankier.pl/wiadomosc/BLIK-mocno-w-gore-Ponad-1-5-mld-transakcji-w-pierwsze-polrocze-2026-roku-9184821.html",
+      "title": "BLIK mocno w górę. Ponad 1,5 mld transakcji w pierwsze półrocze 2026 roku W ciągu pierwszego półrocza 2026 roku użytkownicy BLIKA zrealizowali 1,58 mld transakcji, czyli o 13 proc. więcej niż rok wcześniej - poinformowała członkini zarządu ds. finansowych Katarzyna Matuszczyk. Dodała, że ekspansja zagraniczna pozostaje jednym z fundamentów strategii spółki i w ciągu następnych tygodni mogą pojawić się nowe informacje w tym zakresie.",
+      "content_html": "",
+      "date_published": "2026-08-20T10:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-230-lokali-na-warszawskim-Bemowie-9184799.html",
       "url": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-230-lokali-na-warszawskim-Bemowie-9184799.html",
-      "title": "Robyg wprowadził do sprzedaży 230 lokali na?warszawskim Bemowie Robyg wprowadził do sprzedaży ostatnie 2 etapy Osiedla Kameralnego, czyli 230 lokali na?warszawskim Bemowie - podał deweloper w komunikacie prasowym. Łącznie osiedle obejmie około 900 lokali w 8 etapach. (PAP Biznes)",
+      "title": "Robyg kończy budowę na Bemowie. Wprowadza do sprzedaży ostatnie mieszkania Robyg wprowadził do sprzedaży ostatnie 2 etapy Osiedla Kameralnego, czyli 230 lokali na?warszawskim Bemowie - podał deweloper w komunikacie prasowym. Łącznie osiedle obejmie około 900 lokali w 8 etapach. (PAP Biznes)",
       "content_html": "",
       "date_published": "2026-08-20T10:26:00+02:00"
     },
@@ -408,20 +422,6 @@
       "title": "Pepco Group nabyło 36.462.201 akcji własnych za ok. 400 mln euro Pepco Group rozliczyło skup akcji własnych, w ramach którego nabyło 36.462.201 akcji po stałej cenie nabycia wynoszącej 47,52 zł, za łączną kwotę ok. 1,73 mld zł (ok. 400 mln euro) - podała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-08-18T12:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Starcom-wprowadzil-do-obrotu-w-segmencie-EuroBridge-Market-obligacje-o-wartosci-200-mln-euro-9183709.html",
-      "url": "https://www.bankier.pl/wiadomosc/Starcom-wprowadzil-do-obrotu-w-segmencie-EuroBridge-Market-obligacje-o-wartosci-200-mln-euro-9183709.html",
-      "title": "Starcom wprowadził do obrotu w segmencie EuroBridge Market obligacje o wartości 200 mln euro Starcom Holding, większościowy akcjonariusz Eurohold Bulgaria, wprowadził do obrotu pierwszą emisję obligacji w historii segmentu EuroBridge Market. Papiery o wartości 200 mln euro są notowane równolegle na Bułgarskiej Giełdzie Papierów Wartościowych oraz Giełdzie Papierów Wartościowych we Frankfurcie - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-08-18T11:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gieldowy-hit-swietuje-pierwszy-rok-na-GPW-Ponad-40-proc-plus-okresowe-wyplaty-z-dywidend-9183708.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gieldowy-hit-swietuje-pierwszy-rok-na-GPW-Ponad-40-proc-plus-okresowe-wyplaty-z-dywidend-9183708.html",
-      "title": "Giełdowy hit świętuje pierwszy rok na GPW. Ponad 40 proc. plus okresowe wypłaty z dywidend Prawdziwym giełdowym hitem okazał fundusz BETA ETF Dywidenda Plus. W pierwszym roku funkcjonowania potwierdził wysoki popyt na pasywne inwestowanie dywidendowe przyciągając ponad 208 mln zł napływów netto. Inwestorzy mogą być zadowoleni z ponad 40-procentowej stopy zwrotu i wygenerowaniu 3,41 zł łącznej wypłaty dochodu na certyfikat. Popyt ze strony inwestorów indywidualnych okazał się tak stabilny, że animator ani razu nie musiał dokonywać umorzeń na rynku pierwotnym.",
-      "content_html": "",
-      "date_published": "2026-08-18T11:03:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
