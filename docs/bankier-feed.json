@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-kolejne-zmiany-dla-podatnikow-9185220.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-kolejne-zmiany-dla-podatnikow-9185220.html",
+      "title": "Domański zapowiada kolejne zmiany dla podatników",
+      "content_html": "Oprócz przedstawionych w bieżącym tygodniu planów zmian w systemie podatkowym Ministerstwo Finansów pracuje nad innymi rozwiązaniami dla podatników – poinformował w TVP Info minister finansów i gospodarki Andrzej Domański.",
+      "date_published": "2026-08-20T21:26:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/USA-nalozyly-sankcje-na-10-osob-wspierajacych-proiranski-Hezbollah-9185219.html",
       "url": "https://www.bankier.pl/wiadomosc/USA-nalozyly-sankcje-na-10-osob-wspierajacych-proiranski-Hezbollah-9185219.html",
       "title": "USA nałożyły sankcje na 10 osób wspierających proirański Hezbollah",
@@ -142,6 +149,13 @@
       "title": "Wyniki Benefit Systems w II kw. 2026 roku vs. konsensus PAP (tabela)",
       "content_html": "Poniżej przedstawiamy wyniki grupy Benefit Systems w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
       "date_published": "2026-08-20T18:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Serbia-zwrocila-sie-do-Putina-o-pomoc-Rosyjski-Il-76P-walczy-z-ogniem-9185150.html",
+      "url": "https://www.bankier.pl/wiadomosc/Serbia-zwrocila-sie-do-Putina-o-pomoc-Rosyjski-Il-76P-walczy-z-ogniem-9185150.html",
+      "title": "Serbia zwróciła się do Putina o pomoc. Rosyjski Ił-76P walczy z ogniem",
+      "content_html": "Serbia zwróciła się do Rosji o pomoc w walce z pożarami, ponieważ Unia Europejska nie dysponowała dostępnymi samolotami gaśniczymi – poinformowało serbskie MSW. Rosyjski samolot został w czwartek zaangażowany w gaszenie największego pożaru...",
+      "date_published": "2026-08-20T18:35:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rekordowy-pozar-w-Belgii-opanowany-Splonelo-ponad-3-tys-hektarow-9185147.html",
@@ -688,13 +702,6 @@
       "title": "Wielka zmiana na PGE Narodowym. Orlen ma zostać sponsorem tytularnym",
       "content_html": "PGE Narodowy może jeszcze w tym roku zmienić nazwę. Według ustaleń serwisu Meczyki.pl nowym sponsorem tytularnym warszawskiego stadionu ma zostać Orlen, który zastąpi PGE. Kontrakt ma opiewać na ponad 10 mln zł rocznie.",
       "date_published": "2026-08-20T10:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-ripostuje-Trumpa-Teheran-nazywa-gospodarczy-D-Day-proba-odwrocenia-uwagi-9184734.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-ripostuje-Trumpa-Teheran-nazywa-gospodarczy-D-Day-proba-odwrocenia-uwagi-9184734.html",
-      "title": "Iran ripostuje Trumpa. Teheran nazywa \"gospodarczy D-Day\" próbą odwrócenia uwagi",
-      "content_html": "Irański minister spraw zagranicznych Abbas Aragczi oświadczył w czwartek, że „gospodarczy D-Day”, jakim USA zagroziły Iranowi, to próba odwrócenia uwagi od problemów gospodarczych samych Stanów Zjednoczonych. Ostrzegł, że dalsza presja...",
-      "date_published": "2026-08-20T10:07:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
