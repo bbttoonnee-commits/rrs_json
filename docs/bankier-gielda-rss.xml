@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:40:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:24:00 +0200</lastBuildDate>
     <item>
       <title>Obroty na XTB jak na KGHM i Orlenie. WIG20 pogłębia przecenę po serii wzrostów Nie udało się szybko wrócić do wzrostów na GPW, w czym przeszkodził słabszy sentyment na zagranicznych parkietach. Przecena w sektorze technologicznym za oceanem, rosnące rentowności obligacji i utrzymujące się napięcia na Bliskim Wschodzie, a także słabsze dane z Chin przełożyły się na drugi dzień spadków indeksów przy Książęcej. Uwagę na rynku zwracał handel na akcjach XTB gdzie wymianę akcji podliczono na przeszło 200 mln zł.</title>
       <link>https://www.bankier.pl/wiadomosc/Obroty-na-XTB-jak-na-KGHM-i-Orlenie-WIG20-poglebia-przecene-po-serii-wzrostow-9183972.html</link>
@@ -58,6 +58,12 @@
       <pubDate>Tue, 18 Aug 2026 23:11:00 +0200</pubDate>
     </item>
     <item>
+      <title>Giełda od kuchni. Kupiłeś akcje, ale kurs spadł przed rozliczeniem transakcji? Czy to coś zmienia? Widok czerwonej świecy na wykresie tuż po kliknięciu “Kup” może zestresować początkującego inwestora, który usłyszał, że fizyczne przelewy gotówki i papierów w KDPW trwają dwa dni. W głowie pojawia się wątpliwość: czy giełda naliczy kwotę z momentu zlecenia, czy zaktualizuje ją po nowym kursie?</title>
+      <link>https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html</link>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html</guid>
+      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
+    </item>
+    <item>
       <title>Buffett i co tygrysy lubią najbardziej. Wall Street poznało zmiany w portfelach Wehikuł inwestycyjny Warrena Buffetta coraz mocniej angażuje się w akcje Alphabet, czyli spółki macierzystej Google – wynika z najnowszego raportu 13f, jaki Berkshire Hathway złożyło w ubiegłym tygodniu do SEC. Poza portfelem legendarnego inwestora sprawdzamy jakie zmiany zaszył w funduszach z listy Tiger Cubs, czyli założonych przez byłych pracowników Tiger Management.</title>
       <link>https://www.bankier.pl/wiadomosc/Warren-Buffett-i-co-tygrysy-lubia-najbardziej-Wall-Street-poznalo-zmiany-w-portfelach-9183933.html</link>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Warren-Buffett-i-co-tygrysy-lubia-najbardziej-Wall-Street-poznalo-zmiany-w-portfelach-9183933.html</guid>
@@ -67,12 +73,6 @@
       <title>Strach przed bańką AI? Jest sposób, by zainwestować w amerykański rynek z gwarancją kapitału Choć rynek akcji od długiego czasu jest w hossie, coraz więcej inwestorów obawia się jego przegrzania i szuka rozwiązań na ochronę wypracowanych zysków. Odpowiedzią na te obawy i skomplikowaną sytuację geopolityczną mogą być produkty strukturyzowane. O tym, jak mądrze włączyć je do swojego portfela, rozmawiamy z Jerzym Nikorowskim, dyrektorem Biura Maklerskiego Banku BNP Paribas.</title>
       <link>https://www.bankier.pl/wiadomosc/Strach-przed-banka-AI-Jest-sposob-by-zainwestowac-w-amerykanski-rynek-z-gwarancja-kapitalu-9181698.html</link>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Strach-przed-banka-AI-Jest-sposob-by-zainwestowac-w-amerykanski-rynek-z-gwarancja-kapitalu-9181698.html</guid>
-      <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Giełda od kuchni. Kupiłeś akcje, ale kurs spadł przed rozliczeniem transakcji? Czy to coś zmienia? Widok czerwonej świecy na wykresie tuż po kliknięciu “Kup” może zestresować początkującego inwestora, który usłyszał, że fizyczne przelewy gotówki i papierów w KDPW trwają dwa dni. W głowie pojawia się wątpliwość: czy giełda naliczy kwotę z momentu zlecenia, czy zaktualizuje ją po nowym kursie?</title>
-      <link>https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html</link>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kupiles-akcje-ale-kurs-spadl-przed-rozliczeniem-transakcji-Czy-to-cos-zmienia-9183893.html</guid>
       <pubDate>Wed, 19 Aug 2026 06:00:00 +0200</pubDate>
     </item>
     <item>
@@ -304,12 +304,6 @@
       <pubDate>Thu, 20 Aug 2026 07:48:00 +0200</pubDate>
     </item>
     <item>
-      <title>Grupa mcr ze skokiem przychodów o 26 proc. Trwa transformacja i rozliczenie wielkiej transakcji Przychody ze sprzedaży z działalności kontynuowanej grupy mcr w I kw. 2026/2027 (kwiecień-czerwiec 2026 r.) wzrosły do 57 mln zł z 45,2 mln zł rok wcześniej - podała spółka w raporcie. Ostatecznego rozliczenia, od którego uzależniona jest płatność odroczona za sprzedaż części działalności, można spodziewać się tym roku.</title>
-      <link>https://www.bankier.pl/wiadomosc/mcr-mial-w-I-kw-2026-27-57-mln-zl-przychodow-ostateczne-rozliczenie-dot-earn-out-spodziewane-w-tym-roku-9184714.html</link>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/mcr-mial-w-I-kw-2026-27-57-mln-zl-przychodow-ostateczne-rozliczenie-dot-earn-out-spodziewane-w-tym-roku-9184714.html</guid>
-      <pubDate>Thu, 20 Aug 2026 08:14:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Wzrost o blisko 20 mld złotych. Lipiec przyniósł mocne skoki aktywów OFE Wartość akcji spółek z GPW będących w posiadaniu OFE wzrosła w lipcu o ok. 19,8 mld zł mdm do 286,312 mld zł - wynika z danych KNF.</title>
       <link>https://www.bankier.pl/wiadomosc/Wzrost-o-blisko-20-mld-zlotych-Lipiec-przyniosl-mocne-skoki-aktywow-OFE-9184722.html</link>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wzrost-o-blisko-20-mld-zlotych-Lipiec-przyniosl-mocne-skoki-aktywow-OFE-9184722.html</guid>
@@ -416,6 +410,12 @@
       <link>https://www.bankier.pl/wiadomosc/KGHM-spodziewa-sie-najwiekszych-nakladow-przy-rozbudowie-Sierra-Gorda-w-latach-2027-28-9185020.html</link>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/KGHM-spodziewa-sie-najwiekszych-nakladow-przy-rozbudowie-Sierra-Gorda-w-latach-2027-28-9185020.html</guid>
       <pubDate>Thu, 20 Aug 2026 14:40:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>W ramach skupu złożono oferty sprzedaży na łącznie 1.970.772 akcji Immobile W ramach skupu złożono oferty sprzedaży obejmujące łącznie 1.970.772 akcji Immobile - podała spółka w komunikacie. Średnia stopa redukcji wyniosła 23,89 proc.</title>
+      <link>https://www.bankier.pl/wiadomosc/W-ramach-skupu-zlozono-oferty-sprzedazy-na-lacznie-1-970-772-akcji-Immobile-9185087.html</link>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/W-ramach-skupu-zlozono-oferty-sprzedazy-na-lacznie-1-970-772-akcji-Immobile-9185087.html</guid>
+      <pubDate>Thu, 20 Aug 2026 16:24:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
