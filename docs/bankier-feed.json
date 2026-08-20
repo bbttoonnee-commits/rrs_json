@@ -4,18 +4,137 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Fedowskie-minutki-Kilku-czlonkow-FOMC-chcialo-podwyzki-stop-juz-w-lipcu-9184602.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fedowskie-minutki-Kilku-czlonkow-FOMC-chcialo-podwyzki-stop-juz-w-lipcu-9184602.html",
-      "title": "Fedowskie \"minutki\". Kilku członków FOMC chciało podwyżki stóp już w lipcu",
-      "content_html": "Wielu członków FOMC uważa, że podwyżka stóp proc. może być konieczna, jeśli dynamika inflacji nie obniży się – wynika z protokołu z ostatniego posiedzenia Fedu. Z minutes wynika też, że kilkoro członków FOMC opowiadało się za podwyżką...",
-      "date_published": "2026-08-20T07:38:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Dlug-USA-pokonal-kolejny-historyczny-rekord-40-bilionow-dolarow-po-raz-pierwszy-9184678.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dlug-USA-pokonal-kolejny-historyczny-rekord-40-bilionow-dolarow-po-raz-pierwszy-9184678.html",
+      "title": "Dług USA pokonał kolejny historyczny rekord. 40 bilionów dolarów po raz pierwszy",
+      "content_html": "Całkowity dług federalny Stanów Zjednoczonych po raz pierwszy w historii przekroczył próg 40 bilionów dolarów - wynika z najnowszych danych opublikowanych przez Departament Skarbu USA. Zadłużenie podwoiło się pod rządami obecnego prezydenta...",
+      "date_published": "2026-08-20T08:43:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-misji-ratunkowej-NASA-Obserwatorium-Swift-splonie-w-atmosferze-9184663.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-misji-ratunkowej-NASA-Obserwatorium-Swift-splonie-w-atmosferze-9184663.html",
+      "title": "Katastrofa misji ratunkowej NASA. Obserwatorium Swift spłonie w atmosferze",
+      "content_html": "NASA i firma Katalyst poinformowały w środę o odwołaniu misji, mającej na celu uratowanie starzejącego się obserwatorium kosmicznego Swift. Statek wysłany do przetransportowania satelity doznał problemów technicznych.",
+      "date_published": "2026-08-20T08:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Lotwie-Cale-kierownictwo-CSDD-podalo-sie-do-dymisji-9184672.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-Lotwie-Cale-kierownictwo-CSDD-podalo-sie-do-dymisji-9184672.html",
+      "title": "Cyberatak na Łotwie. Całe kierownictwo CSDD podało się do dymisji",
+      "content_html": "Całe kierownictwo Dyrekcji Bezpieczeństwa Ruchu Drogowego (CSDD) na Łotwie złożyło w środę rezygnację ze stanowisk po tym jak w wyniku cyberataku wyciekły dane około 1,2 mln osób oraz około 200 tys. podmiotów prawnych.",
+      "date_published": "2026-08-20T08:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Podwyzka-CIT-uderzy-w-wiekszosc-spolek-z-WIG-Trigon-DM-wskazuje-skale-9184587.html",
+      "url": "https://www.bankier.pl/wiadomosc/Podwyzka-CIT-uderzy-w-wiekszosc-spolek-z-WIG-Trigon-DM-wskazuje-skale-9184587.html",
+      "title": "Podwyżka CIT uderzy w większość spółek z WIG. Trigon DM wskazuje skalę",
+      "content_html": "Przedstawiona w środę przez rząd premiera Donalda Tuska propozycja podniesienia stawki CIT z 19 do 22 proc. dla firm z przychodami powyżej 50 mln euro rocznie dotyczy około 2/3 spółek z indeksu WIG i przekłada się na obniżenie ich wycen o 3-4...",
+      "date_published": "2026-08-20T08:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byla-zastepczyni-szefa-biura-Zelenskiego-podejrzana-o-korupcje-NABU-prowadzi-sledztwo-9184618.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byla-zastepczyni-szefa-biura-Zelenskiego-podejrzana-o-korupcje-NABU-prowadzi-sledztwo-9184618.html",
+      "title": "Była zastępczyni szefa biura Zełenskiego podejrzana o korupcję. NABU prowadzi śledztwo",
+      "content_html": "Podejrzewana o korupcję i zwolniona w środę ze stanowiska zastępczyni szefa Biura Prezydenta Ukrainy Iryna Mudra przyznała, że przeprowadzono u niej przeszukania, jednak wbrew doniesieniom medialnym, nie została zatrzymana.",
+      "date_published": "2026-08-20T08:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Okret-podwodny-A17-coraz-blizej-Polski-Marynarze-rozpoczeli-szkolenia-w-Szwecji-9184626.html",
+      "url": "https://www.bankier.pl/wiadomosc/Okret-podwodny-A17-coraz-blizej-Polski-Marynarze-rozpoczeli-szkolenia-w-Szwecji-9184626.html",
+      "title": "Okręt podwodny A17 coraz bliżej Polski. Marynarze rozpoczęli szkolenia w Szwecji",
+      "content_html": "Wicepremier, szef MON Władysław Kosiniak-Kamysz poinformował, że w Szwecji rozpoczęły się szkolenia polskich marynarzy, którzy będą tworzyć załogę okrętu podwodnego A17. Jest to jednostka, która zostanie wypożyczona jako rozwiązanie pomostowe...",
+      "date_published": "2026-08-20T08:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Londyn-ostro-przeciwko-rozbudowie-izraelskich-osiedli-Niedopuszczalne-i-destrukcyjne-9184641.html",
+      "url": "https://www.bankier.pl/wiadomosc/Londyn-ostro-przeciwko-rozbudowie-izraelskich-osiedli-Niedopuszczalne-i-destrukcyjne-9184641.html",
+      "title": "Londyn ostro przeciwko rozbudowie izraelskich osiedli. „Niedopuszczalne i destrukcyjne”",
+      "content_html": "Brytyjski minister spraw zagranicznych Ed Miliband potępił w środę decyzję Izraela o ogłoszeniu przetargu na projekt budowy żydowskiego osiedla E1 na palestyńskim terytorium. MSZ przekazał stanowisko ministra wezwanemu chargé d'affaires Izraela...",
+      "date_published": "2026-08-20T08:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rzad-Hiszpanii-przenosi-nieletnie-migrantki-Wladze-Ceuty-i-Maroko-protestuja-9184657.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rzad-Hiszpanii-przenosi-nieletnie-migrantki-Wladze-Ceuty-i-Maroko-protestuja-9184657.html",
+      "title": "Rząd Hiszpanii przenosi nieletnie migrantki. Władze Ceuty i Maroko protestują",
+      "content_html": "Rząd Hiszpanii Pedra Sancheza zapowiedział w środę skierowanie do kontynentalnej części tego kraju 500 nieletnich migrantek, które podczas kryzysu migracyjnego 30 i 31 lipca przedostały się z Maroka do Ceuty.",
+      "date_published": "2026-08-20T08:25:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-powrot-Harry-ego-i-Meghan-Zegnaja-USA-i-wracaja-do-Wielkiej-Brytanii-9184661.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-powrot-Harry-ego-i-Meghan-Zegnaja-USA-i-wracaja-do-Wielkiej-Brytanii-9184661.html",
+      "title": "Wielki powrót Harry'ego i Meghan. Żegnają USA i wracają do Wielkiej Brytanii",
+      "content_html": "Brytyjski książę Harry i jego żona Meghan wkrótce przeprowadzą się z USA do Wielkiej Brytanii - poinformowały w środę brytyjskie i amerykańskie media. W 2020 roku Harry zrezygnował z pełnienia oficjalnych funkcji w rodzinie królewskiej i...",
+      "date_published": "2026-08-20T08:24:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Krzysztof-Bednarczyk-nowym-zarzadzajacym-funduszami-w-BETA-ETF-9184670.html",
+      "url": "https://www.bankier.pl/wiadomosc/Krzysztof-Bednarczyk-nowym-zarzadzajacym-funduszami-w-BETA-ETF-9184670.html",
+      "title": "Krzysztof Bednarczyk nowym zarządzającym funduszami w BETA ETF",
+      "content_html": "Krzysztof Bednarczyk został nowym zarządzającym aktywami funduszy w BETA ETF - poinformowała spółka w komunikacie prasowym. Będzie odpowiadał za zarządzanie strategiami opartymi na instrumentach dłużnych, a także za rozwój oferty produktowej...",
+      "date_published": "2026-08-20T08:22:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Balczun-rzad-bedzie-podejmowac-inicjatywy-dot-nadzwyczajnych-zyskow-koncernow-paliwowych-w-tym-Orlenu-9184621.html",
+      "url": "https://www.bankier.pl/wiadomosc/Balczun-rzad-bedzie-podejmowac-inicjatywy-dot-nadzwyczajnych-zyskow-koncernow-paliwowych-w-tym-Orlenu-9184621.html",
+      "title": "Orlen pod lupą rządu. Balczun zapowiada kolejne inicjatywy",
+      "content_html": "Rząd będzie podejmować inicjatywy dotyczące nadzwyczajnych zysków koncernów paliwowych, w tym Orlenu - poinformował minister aktywów państwowych Wojciech Balczun.",
+      "date_published": "2026-08-20T08:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kanada-gotowa-na-ustepstwa-wobec-USA-W-gre-m-in-import-amerykanskiego-alkoholu-9184650.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kanada-gotowa-na-ustepstwa-wobec-USA-W-gre-m-in-import-amerykanskiego-alkoholu-9184650.html",
+      "title": "Kanada gotowa na ustępstwa wobec USA. W grę m.in. import amerykańskiego alkoholu",
+      "content_html": "W negocjacjach handlowych z USA Kanada poczyniła znaczące postępy i zmierza w kierunku porozumienia – napisał w środę premier Mark Carney. Według mediów Kanada jest gotowa do ustępstw m.in. w sprawie przywrócenia importu amerykańskich alkoholi...",
+      "date_published": "2026-08-20T08:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Najbardziej-dotkliwa-operacja-gospodarcza-Kazdy-kraj-ktory-pozwala-na-pomoc-poniesie-konsekwencje-9184649.html",
+      "url": "https://www.bankier.pl/wiadomosc/Najbardziej-dotkliwa-operacja-gospodarcza-Kazdy-kraj-ktory-pozwala-na-pomoc-poniesie-konsekwencje-9184649.html",
+      "title": "\"Najbardziej dotkliwa operacja gospodarcza\". Trump: Każdy kraj, który na to pozwala, poniesie konsekwencje",
+      "content_html": "Prezydent USA Donald Trump ogłosił w środę wojnę gospodarczą przeciwko Iranowi. Zapowiedział, że każdy kraj, który pozwala na pomoc Teheranowi, poniesie „ogromne” konsekwencje gospodarcze. Wezwał sojuszników, by dołączyli do USA w izolacji...",
+      "date_published": "2026-08-20T08:16:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosjanie-placa-za-auta-76-wiecej-niz-przed-wojna-9184656.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosjanie-placa-za-auta-76-wiecej-niz-przed-wojna-9184656.html",
+      "title": "Rosjanie płacą za auta 76% więcej niż przed wojną",
+      "content_html": "3,5 mln rubli, tyle średnio trzeba było w lipcu zapłacić za nowy samochód- czytamy w czwartkowym wydaniu „Pulsu Biznesu”. Sprzedaż aut wciąż jest niższa niż przed atakiem na Ukrainę w 2022 roku. Od stycznia do lipca 2026 roku sprzedano...",
+      "date_published": "2026-08-20T08:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kijow-pod-ciezkim-ostrzalem-Cywilne-obiekty-zniszczone-ratownicy-wydobywaja-ludzi-spod-gruzow-9184701.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kijow-pod-ciezkim-ostrzalem-Cywilne-obiekty-zniszczone-ratownicy-wydobywaja-ludzi-spod-gruzow-9184701.html",
+      "title": "Kijów pod ciężkim ostrzałem. Cywilne obiekty zniszczone, ratownicy wydobywają ludzi spod gruzów",
+      "content_html": "Co najmniej osiem osób zginęło, a 33 zostały ranne minionej nocy w rosyjskich atakach na Kijów – powiadomił w czwartek rano mer stolicy Ukrainy Witalij Kliczko. W mieście od ponad ośmiu godzin trwa alarm przeciwlotniczy.",
+      "date_published": "2026-08-20T08:09:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Domanski-mam-nadzieje-ze-prezydent-podpisze-ustawe-dotyczaca-zmian-podatkowych-9184615.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-mam-nadzieje-ze-prezydent-podpisze-ustawe-dotyczaca-zmian-podatkowych-9184615.html",
+      "title": "Domański apeluje do Nawrockiego. \"Ta ustawa daje możliwość, by stanął po stronie Polaków\"",
+      "content_html": "Minister finansów Andrzej Domański ma nadzieję, że prezydent Karol Nawrocki podpisze ustawę ws. zmian podatkowych - dobrą dla podatników i odpowiedzialną fiskalnie. Ta ustawa daje prezydentowi możliwość, żeby tym razem stanął po stronie...",
+      "date_published": "2026-08-20T08:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Izraelski-nalot-na-komisariat-w-Gazie-Co-najmniej-9-zabitych-i-kilkunastu-rannych-9184609.html",
+      "url": "https://www.bankier.pl/wiadomosc/Izraelski-nalot-na-komisariat-w-Gazie-Co-najmniej-9-zabitych-i-kilkunastu-rannych-9184609.html",
+      "title": "Izraelski nalot na komisariat w Gazie. Co najmniej 9 zabitych i kilkunastu rannych",
+      "content_html": "Co najmniej dziewięć osób zginęło, 15 zostało rannych w izraelskim nalocie na komisariat policji w Strefie Gazy - przekazały w środę źródła medyczne, cytowane przez agencję Reutera. W oddzielnym nalocie na obóz dla uchodźców w Nuseirat...",
+      "date_published": "2026-08-20T07:55:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-II-kw-26-wyniosl-1-65-mld-zl-powyzej-oczekiwan-9184674.html",
       "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-grupy-PZU-w-II-kw-26-wyniosl-1-65-mld-zl-powyzej-oczekiwan-9184674.html",
       "title": "PZU bije prognozy. Zysk w II kwartale wyraźnie wyższy od oczekiwań",
       "content_html": "Zysk netto przypisany właścicielom jednostki dominującej grupy PZU w II kwartale 2026 r. wzrósł do 1.647 mln zł z 1.470 mln zł rok wcześniej - poinformował ubezpieczyciel w raporcie. Zysk okazał się 7,2 proc. powyżej oczekiwań analityków...",
-      "date_published": "2026-08-20T07:10:00+02:00"
+      "date_published": "2026-08-20T07:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Fedowskie-minutki-Kilku-czlonkow-FOMC-chcialo-podwyzki-stop-juz-w-lipcu-9184602.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fedowskie-minutki-Kilku-czlonkow-FOMC-chcialo-podwyzki-stop-juz-w-lipcu-9184602.html",
+      "title": "Fedowskie \"minutki\". Kilku członków FOMC chciało podwyżki stóp już w lipcu",
+      "content_html": "Wielu członków FOMC uważa, że podwyżka stóp proc. może być konieczna, jeśli dynamika inflacji nie obniży się – wynika z protokołu z ostatniego posiedzenia Fedu. Z minutes wynika też, że kilkoro członków FOMC opowiadało się za podwyżką...",
+      "date_published": "2026-08-20T07:38:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/80-na-spokojnie-20-na-ryzyko-Ekspert-zdradza-sposob-na-portfel-ETF-9181818.html",
@@ -60,25 +179,11 @@
       "date_published": "2026-08-20T07:00:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184669.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-PZU-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9184669.html",
-      "title": "Wyniki PZU w II kw. 2026 roku vs. konsensus PAP (tabela)",
-      "content_html": "Poniżej przedstawiamy wyniki grupy PZU w II kwartale 2026 r. w porównaniu do konsensusu i poprzednich wyników.",
-      "date_published": "2026-08-20T07:00:00+02:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/Wall-Street-odrabia-straty-Skup-obligacji-i-przelom-w-medycynie-napedzaja-wzrosty-9184637.html",
       "url": "https://www.bankier.pl/wiadomosc/Wall-Street-odrabia-straty-Skup-obligacji-i-przelom-w-medycynie-napedzaja-wzrosty-9184637.html",
       "title": "Wall Street odrabia straty. Skup obligacji i przełom w medycynie napędzają wzrosty",
       "content_html": "Środowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, a S&P 500 przerwał trzydniową serię spadków po tym, jak rentowności amerykańskich obligacji skarbowych spadły po ogłoszeniu przez Departament Skarbu zwiększenia...",
       "date_published": "2026-08-20T00:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Balczun-rzad-bedzie-podejmowac-inicjatywy-dot-nadzwyczajnych-zyskow-koncernow-paliwowych-w-tym-Orlenu-9184621.html",
-      "url": "https://www.bankier.pl/wiadomosc/Balczun-rzad-bedzie-podejmowac-inicjatywy-dot-nadzwyczajnych-zyskow-koncernow-paliwowych-w-tym-Orlenu-9184621.html",
-      "title": "Balczun: rząd będzie podejmować inicjatywy dot. nadzwyczajnych zysków koncernów paliwowych, w tym Orlenu",
-      "content_html": "Rząd będzie podejmować inicjatywy dotyczące nadzwyczajnych zysków koncernów paliwowych, w tym Orlenu - poinformował minister aktywów państwowych Wojciech Balczun.",
-      "date_published": "2026-08-19T22:29:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-bedzie-podejmowac-inicjatywy-dot-nadzwyczajnych-zyskow-koncernow-paliwowych-w-tym-Orlenu-Balczun-MAP-9184601.html",
@@ -163,48 +268,6 @@
       "title": "Bruksela hamuje negocjacje z Ukrainą. Kolejne klastry przełożone na jesień",
       "content_html": "Unia Europejska może się wstrzymać z otwarciem kolejnych klastrów negocjacyjnych z Ukrainą do momentu zaprezentowania przez Komisję Europejką zmian w polityce rozszerzenia - powiedział unijny dyplomata. KE ma zaproponować reformę procedur przyjmowania...",
       "date_published": "2026-08-19T19:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Cyfrowego-Polsatu-w-II-kw-2026-roku-vs-konsensus-PAP-9184547.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Cyfrowego-Polsatu-w-II-kw-2026-roku-vs-konsensus-PAP-9184547.html",
-      "title": "Wyniki Cyfrowego Polsatu w II kw. 2026 roku vs. konsensus",
-      "content_html": "Poniżej przedstawiono wyniki Cyfrowego Polsatu w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
-      "date_published": "2026-08-19T19:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Arlen-podpisal-umowy-o-lacznej-wartosci-25-4-mln-zl-9184548.html",
-      "url": "https://www.bankier.pl/wiadomosc/Arlen-podpisal-umowy-o-lacznej-wartosci-25-4-mln-zl-9184548.html",
-      "title": "Arlen podpisał umowy o łącznej wartości 25,4 mln zł",
-      "content_html": "Arlen podpisał trzy umowy ze Skarbem Państwa - Komendantem Głównym Straży Granicznej na realizację zamówienia na dostawę ubrań na złą pogodę - podał Arlen w komunikacie. Łączna maksymalna wartość zamówień podstawowych oraz potencjalnych...",
-      "date_published": "2026-08-19T19:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/10-miliardow-zlotych-za-reforme-PIT-Analitycy-wyliczyli-kto-za-to-zaplaci-9184543.html",
-      "url": "https://www.bankier.pl/wiadomosc/10-miliardow-zlotych-za-reforme-PIT-Analitycy-wyliczyli-kto-za-to-zaplaci-9184543.html",
-      "title": "10 miliardów złotych za reformę PIT. Analitycy wyliczyli, kto za to zapłaci",
-      "content_html": "Propozycje rządu w zakresie podniesienia progu podatkowego ze 120 do 130 tys. zł to koszt rzędu ok. 10 mld zł - ocenili analitycy Erste Bank Polska. Jak dodali, koszt ten zostanie sfinansowany podwyżkami innych danin.",
-      "date_published": "2026-08-19T18:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podatkowy-wiatr-w-zagle-gieldy-Zainteresowanie-budzily-glownie-banki-9184526.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podatkowy-wiatr-w-zagle-gieldy-Zainteresowanie-budzily-glownie-banki-9184526.html",
-      "title": "Podatkowy wiatr w żagle giełdy. Zainteresowanie budziły głównie banki",
-      "content_html": "Środowe sesja na warszawskiej giełdzie przyniosła wyraźne przełamanie słabszych nastrojów z początku tygodnia. Inwestorzy około południa ruszyli do kupowania akcji do czego przyczyniły się wieści z rządowej konferencji prasowej dotyczące...",
-      "date_published": "2026-08-19T18:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skonsolidowane-wyniki-KGHM-w-II-kw-2026-r-vs-konsensus-PAP-tabela-9184520.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skonsolidowane-wyniki-KGHM-w-II-kw-2026-r-vs-konsensus-PAP-tabela-9184520.html",
-      "title": "Miedziowy gigant przebija oczekiwania. Skokowy wzrost przychodów KGHM o blisko 50%",
-      "content_html": "Poniżej przedstawiamy skonsolidowane wyniki KGHM w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP.",
-      "date_published": "2026-08-19T18:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/RN-PZU-powolala-Piotra-Matczuka-na-czlonka-zarzadu-spolki-9184511.html",
-      "url": "https://www.bankier.pl/wiadomosc/RN-PZU-powolala-Piotra-Matczuka-na-czlonka-zarzadu-spolki-9184511.html",
-      "title": "RN PZU powołała Piotra Matczuka na członka zarządu spółki",
-      "content_html": "Rada nadzorcza PZU powołała na członka zarządu spółki Piotra Matczuka - poinformowało PZU w komunikacie.",
-      "date_published": "2026-08-19T18:02:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Strach-przed-poborem-do-wojska-to-za-malo-Czeski-sad-odrzuca-skarge-Ukrainca-9184512.html",
@@ -597,111 +660,6 @@
       "title": "Niższy PIT pobudzi gospodarkę, ale zwiększy dług. mBank policzył skutki zmian",
       "content_html": "Podwyższenie kwoty wolnej do 60 tys. zł i wyższe progi PIT mogłyby pobudzić polską gospodarkę, ale jednocześnie mocno zwiększyć deficyt i zadłużenie państwa. Ekonomiści mBanku policzyli skutki trzech wariantów zmian i wskazali także na...",
       "date_published": "2026-08-19T10:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pozyczka-jak-na-samochod-Ciekawy-pomysl-Toyota-Banku-9184165.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozyczka-jak-na-samochod-Ciekawy-pomysl-Toyota-Banku-9184165.html",
-      "title": "Pożyczka „jak na samochód”. Ciekawy pomysł Toyota Banku",
-      "content_html": "Konstrukcja jak w tzw. kredycie samochodowym, ale z opcją wykorzystania środków na zakup np. wyposażenia mieszkania. Tak można w skrócie opisać nietypową propozycję od niedawna dostępną w ofercie Toyota Banku.",
-      "date_published": "2026-08-19T10:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chinskie-roboty-podbijaja-gielde-Akcje-Unitree-wzrosly-o-blisko-500-proc-9184130.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chinskie-roboty-podbijaja-gielde-Akcje-Unitree-wzrosly-o-blisko-500-proc-9184130.html",
-      "title": "Hossa im. Edwarda Warchockiego. Akcje Unitree wzrosły o blisko 500 proc.",
-      "content_html": "Akcje chińskiej firmy Unitree, tworzącej roboty humanoidalne, wzrosły w środę o blisko 500 proc. po debiucie na giełdzie w Szanghaju. To pierwsza taka spółka notowana na parkietach w Chinach kontynentalnych. Sektor robotyki humanoidalnej stał...",
-      "date_published": "2026-08-19T09:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polprzewodniki-w-odwrocie-od-Nowego-Jorku-po-Seul-Rosna-rentownosci-dlugu-a-ropa-nie-tanieje-9184149.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polprzewodniki-w-odwrocie-od-Nowego-Jorku-po-Seul-Rosna-rentownosci-dlugu-a-ropa-nie-tanieje-9184149.html",
-      "title": "Półprzewodniki w odwrocie od Nowego Jorku po Seul. Rosną rentowności długu, a ropa nie tanieje",
-      "content_html": "Handel na giełdach w Azji przebiegał w środę pod znakiem spadających indeksów, ciągniętych w dół przez akcje producentów półprzewodników i spółek technologicznych. Przecena w Azji nastąpiła po wtorkowych zniżkach na Wall Street, gdzie...",
-      "date_published": "2026-08-19T09:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fedorow-Wybory-powinny-odbyc-sie-nawet-podczas-wojny-Demokracja-nie-moze-byc-zakladnikiem-Rosji-9184161.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fedorow-Wybory-powinny-odbyc-sie-nawet-podczas-wojny-Demokracja-nie-moze-byc-zakladnikiem-Rosji-9184161.html",
-      "title": "Fedorow: Wybory powinny odbyć się nawet podczas wojny. Demokracja nie może być zakładnikiem Rosji",
-      "content_html": "Ukraina musi znaleźć bezpieczny i realistyczny mechanizm przeprowadzenia wyborów mimo wojny, ponieważ demokracja nie może być zakładnikiem Rosji; wybory są ważnym elementem walki o wolność – ocenił w oświadczeniu były minister obrony Ukrainy...",
-      "date_published": "2026-08-19T09:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sa-pierwsze-polecenia-potwierdzenia-etatu-PIP-reaguje-na-fikcyjne-umowy-cywilnoprawne-9184150.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sa-pierwsze-polecenia-potwierdzenia-etatu-PIP-reaguje-na-fikcyjne-umowy-cywilnoprawne-9184150.html",
-      "title": "Są pierwsze polecenia potwierdzenia etatu. PIP reaguje na fikcyjne umowy cywilnoprawne",
-      "content_html": "Do Państwowej Inspekcji Pracy wpłynęło 690 skarg i wniosków dotyczących nieprawidłowego zastępowania umów o pracę umowami cywilnoprawnymi od czasu wejścia w życie nowych przepisów - poinformowała PIP. Inspektorzy wydali dotychczas 121 pisemnych...",
-      "date_published": "2026-08-19T09:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wanda-Traczyk-Stawska-nie-zyje-Bohaterka-Powstania-Warszawskiego-miala-99-lat-9184090.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wanda-Traczyk-Stawska-nie-zyje-Bohaterka-Powstania-Warszawskiego-miala-99-lat-9184090.html",
-      "title": "Wanda Traczyk-Stawska nie żyje. Bohaterka Powstania Warszawskiego miała 99 lat",
-      "content_html": "Wiceminister kultury Maciej Wróbel poinformował, że we wtorek zmarła uczestniczka Powstania Warszawskiego, Wanda Traczyk-Stawska; miała 99 lat.",
-      "date_published": "2026-08-19T09:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Brzoska-rusza-na-wojne-z-fake-ami-Zapowiada-nowa-spoleczna-inicjatywe-9184158.html",
-      "url": "https://www.bankier.pl/wiadomosc/Brzoska-rusza-na-wojne-z-fake-ami-Zapowiada-nowa-spoleczna-inicjatywe-9184158.html",
-      "title": "Brzoska rusza na wojnę z fake’ami. Zapowiada nową społeczną inicjatywę",
-      "content_html": "Prezes InPostu Rafał Brzoska powiedział w wywiadzie dla portalu Business Insider, że chce zaproponować nowe SprawdzaMY, czyli społeczną inicjatywę wymierzoną w fake w sieci. „Mój wizerunek jest tylko jednym z narzędzi, których przestępcy...",
-      "date_published": "2026-08-19T09:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-taniej-zywnosci-Ekonomisci-prognozuja-wzrost-cen-nawet-o-7-proc-9184092.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-taniej-zywnosci-Ekonomisci-prognozuja-wzrost-cen-nawet-o-7-proc-9184092.html",
-      "title": "Koniec taniej żywności? Ekonomiści prognozują wzrost cen nawet o 7 proc.",
-      "content_html": "Zbieg korzystnych okoliczności chroni Polskę przed światowymi zwyżkami cen żywności. Ekonomiści prognozują jednak, że w 2027 r. pójdą one w górę nawet o 7 proc. – pisze w środę „Rzeczpospolita”.",
-      "date_published": "2026-08-19T09:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Politycy-KO-kandydatura-Berka-do-TK-najlepsza-z-mozliwych-cos-jednak-nie-zagralo-9184137.html",
-      "url": "https://www.bankier.pl/wiadomosc/Politycy-KO-kandydatura-Berka-do-TK-najlepsza-z-mozliwych-cos-jednak-nie-zagralo-9184137.html",
-      "title": "Politycy KO: kandydatura Berka do TK najlepsza z możliwych, coś jednak nie zagrało",
-      "content_html": "Politycy Koalicji Obywatelskiej podkreślają, że Maciej Berek jest wybitnym praktykiem prawa, a jego kandydatura na sędziego Trybunału Konstytucyjnego jest najlepsza z możliwych. Nieoficjalnie jednak przyznają , że mogła nie być do końca dogadana...",
-      "date_published": "2026-08-19T09:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ZEA-odcinaja-sie-gospodarczo-od-Iranu-Zawieszono-handel-i-transakcje-finansowe-9184151.html",
-      "url": "https://www.bankier.pl/wiadomosc/ZEA-odcinaja-sie-gospodarczo-od-Iranu-Zawieszono-handel-i-transakcje-finansowe-9184151.html",
-      "title": "ZEA odcinają się gospodarczo od Iranu. Zawieszono handel i transakcje finansowe",
-      "content_html": "Zjednoczone Emiraty Arabskie (ZEA) zawiesiły do odwołania wszelką wymianę handlową oraz transakcje finansowe z Iranem – poinformowało w środę ministerstwo spraw zagranicznych tego kraju, cytowane przez agencję Reutera. Decyzja władz w Abu...",
-      "date_published": "2026-08-19T09:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dudek-o-budzecie-na-2027-r-Potrzebne-realne-ograniczenie-deficytu-nie-ksiegowe-sztuczki-9184143.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dudek-o-budzecie-na-2027-r-Potrzebne-realne-ograniczenie-deficytu-nie-ksiegowe-sztuczki-9184143.html",
-      "title": "Dudek o budżecie na 2027 r.: Potrzebne realne ograniczenie deficytu, nie księgowe sztuczki",
-      "content_html": "Projekt budżetu na 2027 r. powinien zakładać rzeczywiste zmniejszenie deficytu sektora finansów publicznych, a nie wyłącznie poprawę wskaźników księgowych - ocenił przewodniczący Rady Fiskalnej Sławomir Dudek.",
-      "date_published": "2026-08-19T08:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cena-miedzi-w-Londynie-spada-9184152.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cena-miedzi-w-Londynie-spada-9184152.html",
-      "title": "Cena miedzi w Londynie spada",
-      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie zniżkują i przedłużają najmocniejszy spadek od ponad 3 tygodni - informują maklerzy.",
-      "date_published": "2026-08-19T08:47:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-4-sesje-Nie-widac-szans-na-rozwiazanie-konfliktu-USA-Iran-9184147.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-rosna-4-sesje-Nie-widac-szans-na-rozwiazanie-konfliktu-USA-Iran-9184147.html",
-      "title": "Ceny ropy rosną 4 sesję. Nie widać szans na rozwiązanie konfliktu USA-Iran",
-      "content_html": "Notowania ropy naftowej na świecie rosną już 4. sesję. Na razie nie widać na horyzoncie żadnych oznak postępu w celu rozwiązania konfliktu między USA a Iranem, a wojna na Bliskim Wschodzie trwa już prawie 6 miesięcy - informują maklerzy.",
-      "date_published": "2026-08-19T08:35:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberatak-na-lotewska-instytucje-Wyciekly-dane-wiekszosci-mieszkancow-kraju-9184046.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberatak-na-lotewska-instytucje-Wyciekly-dane-wiekszosci-mieszkancow-kraju-9184046.html",
-      "title": "Cyberatak na łotewską instytucję. Wyciekły dane większości mieszkańców kraju",
-      "content_html": "W wyniku cyberataku na łotewską Dyrekcję Bezpieczeństwa Ruchu Drogowego (CSDD) skradzione zostały dane ok. 1,2 mln osób fizycznych i ok. 200 tys. podmiotów prawnych - poinformowało we wtorek kierownictwo CSDD. Władze Łotwy, liczącej 1,8 mln...",
-      "date_published": "2026-08-19T08:21:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyciek-danych-z-MyDr-Ministerstwo-chce-zwiekszyc-odpowiedzialnosc-firm-9184059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyciek-danych-z-MyDr-Ministerstwo-chce-zwiekszyc-odpowiedzialnosc-firm-9184059.html",
-      "title": "Wyciek danych z MyDr. Ministerstwo chce zwiększyć odpowiedzialność firm",
-      "content_html": "W przyszłym tygodniu zaproponowane zostaną konkretne rozwiązania ustawowe dotyczące nowych obowiązków dla podmiotów masowo przetwarzających dane - zapowiedział we wtorek wiceminister cyfryzacji Dariusz Standerski.",
-      "date_published": "2026-08-19T08:20:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
