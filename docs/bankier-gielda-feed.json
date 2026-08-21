@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grodno-chce-wyplacic-2-6-mln-zl-dywidendy-9185649.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grodno-chce-wyplacic-2-6-mln-zl-dywidendy-9185649.html",
+      "title": "Grodno chce wypłacić 2,6 mln zł dywidendy Zarząd Grodna wystąpił do rady nadzorczej o opinię w sprawie wypłaty 2,6 mln zł na dywidendę, z zysku netto za rok obrotowy zakończony 31 marca 2026 r. w wysokości 9 mln zł - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-08-21T15:58:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Dino-skupia-sie-na-wolumenach-sprzedazy-przy-utrzymujacej-sie-deflacji-opis-9185616.html",
       "url": "https://www.bankier.pl/wiadomosc/Dino-skupia-sie-na-wolumenach-sprzedazy-przy-utrzymujacej-sie-deflacji-opis-9185616.html",
       "title": "Wyniki Dino pod presją deflacji. Zarząd obiecuje odbicie, ale ostrzega przed kosztami Dino spodziewa się wzrostu dynamiki sprzedaży w kolejnych kwartałach i przewiduje stopniową poprawę sprzedaży LFL w drugim półroczu - poinformował członek zarządu Michał Krauze. Spółka skupia się w trzecim kwartale na wzroście wolumenów, nadal działa w warunkach deflacji.",
@@ -513,27 +520,6 @@
       "title": "RN PZU powołała Piotra Matczuka na członka zarządu spółki Rada nadzorcza PZU powołała na członka zarządu spółki Piotra Matczuka - poinformowało PZU w komunikacie.",
       "content_html": "",
       "date_published": "2026-08-19T17:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Moderna-wraca-ze-szczepionka-mRNA-Tym-razem-na-raka-a-akcje-rosna-o-ponad-100-proc-9184443.html",
-      "url": "https://www.bankier.pl/wiadomosc/Moderna-wraca-ze-szczepionka-mRNA-Tym-razem-na-raka-a-akcje-rosna-o-ponad-100-proc-9184443.html",
-      "title": "Moderna wraca ze szczepionką mRNA. Tym razem na raka, a akcje rosną o ponad 100 proc. Notowania Moderny wzrosły w handlu przedsesyjnym o ponad 106%. Koncern wraz z firmą Merck ogłosił sukces przełomowych badań klinicznych trzeciej fazy nad szczepionką mRNA przeciwko czerniakowi. To pierwszy przypadek w historii, gdy terapia genowa mRNA osiąga tak wysokie wskaźniki skuteczności w końcowym etapie badań nad chorobami nowotworowymi.",
-      "content_html": "",
-      "date_published": "2026-08-19T16:21:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Arlen-podpisal-MoU-ws-nabycia-wiekszosciowego-pakietu-akcji-czeskiej-spolki-Prabos-9184484.html",
-      "url": "https://www.bankier.pl/wiadomosc/Arlen-podpisal-MoU-ws-nabycia-wiekszosciowego-pakietu-akcji-czeskiej-spolki-Prabos-9184484.html",
-      "title": "Arlen podpisał MoU ws. nabycia większościowego pakietu akcji czeskiej spółki Prabos Arlen podpisał z większościowym akcjonariuszem czeskiej spółki Prabos Memorandum of Understanding w sprawie nabycia większościowego pakietu akcji - podał Arlen w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-19T16:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Novaturas-mial-w-I-polroczu-7-9-mln-euro-straty-netto-9184459.html",
-      "url": "https://www.bankier.pl/wiadomosc/Novaturas-mial-w-I-polroczu-7-9-mln-euro-straty-netto-9184459.html",
-      "title": "Novaturas miał w I półroczu 7,9 mln euro straty netto Novaturas, operator turystyczny w krajach nadbałtyckich, miał w I półroczu 2026 roku 7,9 mln euro straty netto oraz 5,6 mln euro straty EBITDA - podała spółka w komunikacie. W pierwszym półroczu ubiegłego roku strata netto wyniosła 0,8 mln euro.",
-      "content_html": "",
-      "date_published": "2026-08-19T15:44:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
