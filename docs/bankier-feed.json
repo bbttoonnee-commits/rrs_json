@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tarcza-Wschod-pochlonela-juz-10-mld-euro-MON-zapowiada-kolejne-inwestycje-9185521.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tarcza-Wschod-pochlonela-juz-10-mld-euro-MON-zapowiada-kolejne-inwestycje-9185521.html",
+      "title": "Tarcza Wschód pochłonęła już 10 mld euro. MON zapowiada kolejne inwestycje",
+      "content_html": "Po dwóch latach programu Tarczy Wschód w wielu miejscach osiągana jest wstępna gotowość operacyjna – powiedział w piątek wicepremier, szef MON Władysław Kosiniak-Kamysz. Dodał, że na działania związane z zabezpieczaniem wschodniej granicy...",
+      "date_published": "2026-08-21T14:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Skandal-z-raportem-Polakow-portret-wlasny-Rzad-zapowiada-wyjasnienia-9185387.html",
       "url": "https://www.bankier.pl/wiadomosc/Skandal-z-raportem-Polakow-portret-wlasny-Rzad-zapowiada-wyjasnienia-9185387.html",
       "title": "Skandal z raportem „Polaków portret własny”. Rząd zapowiada wyjaśnienia",
@@ -142,6 +149,34 @@
       "title": "Romanowski chce listu żelaznego. Prokuratura zajęła stanowisko",
       "content_html": "Do Sądu Okręgowego w Warszawie wpłynęło stanowisko prokuratora w sprawie listu żelaznego dla posła PiS Marcina Romanowskiego - poinformowała rzecznik SO sędzia Anna Ptaszek. W sądzie jest też wniosek obrońcy ws. uchylenia ENA, nie ma zaś...",
       "date_published": "2026-08-21T12:04:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-podtrzymuje-cele-na-26-planuje-raczej-rozwoj-organiczny-sieci-klubow-9185419.html",
+      "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-podtrzymuje-cele-na-26-planuje-raczej-rozwoj-organiczny-sieci-klubow-9185419.html",
+      "title": "Benefit Systems podtrzymuje cele na '26. Planuje raczej rozwój organiczny sieci klubów",
+      "content_html": "Benefit Systems podtrzymuje po pierwszym półroczu założenia na ten rok - poinformował Marcin Fojudzki, członek zarządu Benefit Systems. Jak dodał, spółka będzie się przyglądać możliwościom akwizycji, ale w obszarze klubów fitness planuje...",
+      "date_published": "2026-08-21T11:48:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/MON-rozszerza-liste-strategicznych-spolek-Trafia-na-nia-Huta-Czestochowa-i-Advanced-Protection-Systems-9185415.html",
+      "url": "https://www.bankier.pl/wiadomosc/MON-rozszerza-liste-strategicznych-spolek-Trafia-na-nia-Huta-Czestochowa-i-Advanced-Protection-Systems-9185415.html",
+      "title": "MON rozszerza listę strategicznych spółek. Trafią na nią Huta Częstochowa i APS",
+      "content_html": "Advanced Protection Systems i Huta Częstochowa mają być dopisane do listy spółek chronionych na postawie ustawy o kontroli niektórych inwestycji - wynika z wpisu MON do wykazu prac rządu. Uzasadniono, że chodzi o chronioną działalność tych...",
+      "date_published": "2026-08-21T11:36:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Gospodarka-strefy-euro-daje-oznaki-zycia-Niemiecki-przemysl-i-uslugi-poludnia-zaskakuja-9185413.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gospodarka-strefy-euro-daje-oznaki-zycia-Niemiecki-przemysl-i-uslugi-poludnia-zaskakuja-9185413.html",
+      "title": "Gospodarka strefy euro daje oznaki życia. Niemiecki przemysł i usługi południa zaskakują",
+      "content_html": "Wstępne szacunki wskaźników PMI za sierpień 2026 roku przynoszą pozytywne wieści dla strefy euro. Na poziomie zagregowanym odczyt okazał nieco wyższy niż w lipcu. Dane sugerują, że koniunktura trzecim kwartale uległa ożywieniu po słabym...",
+      "date_published": "2026-08-21T11:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ekonomista-o-planie-podatkowym-rzadu-rynek-spodziewal-sie-czegos-znacznie-gorszego-9185397.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekonomista-o-planie-podatkowym-rzadu-rynek-spodziewal-sie-czegos-znacznie-gorszego-9185397.html",
+      "title": "Ekonomista o planie podatkowym rządu: rynek spodziewał się czegoś znacznie gorszego",
+      "content_html": "Zaproponowane przez rząd zmiany podatkowe są umiarkowanie pozytywne, stanowią neutralny budżetowo krok w stronę bardziej progresywnego systemu podatkowego – ocenia członek Rady Fiskalnej Jacek Tomkiewicz. Rynek przyjmuje je ze spokojem; obawiano...",
+      "date_published": "2026-08-21T11:12:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rynek-mieszkaniowy-odbija-Deweloperzy-z-najlepszym-lipcem-od-pieciu-lat-9185399.html",
@@ -660,20 +695,6 @@
       "title": "Grodno miało 2,5 mln zł zysku netto w I kw. 2026/27, o 2,6 proc. więcej rdr",
       "content_html": "Grodno miało w I kwartale roku obrotowego 2026/27 (od 1 kwietnia do 30 czerwca 2026 r.) 2,5 mln zł zysku netto, co oznacza wzrost o 2,6 proc. rdr - podała spółka w komunikacie.",
       "date_published": "2026-08-20T19:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezydent-odrzuca-projekt-rzadu-Ustawa-o-prawach-pacjenta-i-RPP-trafia-do-Trybunalu-9184938.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezydent-odrzuca-projekt-rzadu-Ustawa-o-prawach-pacjenta-i-RPP-trafia-do-Trybunalu-9184938.html",
-      "title": "Prezydent odrzuca projekt rządu. Ustawa o prawach pacjenta i RPP trafia do Trybunału",
-      "content_html": "Prezydent Karol Nawrocki skieruje do Trybunału Konstytucyjnego nowelizację ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta (RPP). Cel tej ustawy jest słuszny, ale problemem mogą okazać się proponowane w niej środki – wyjaśnił w opublikowanym...",
-      "date_published": "2026-08-20T19:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-zniosa-niemal-wszystkie-cla-na-szwajcarski-eksport-9185173.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-zniosa-niemal-wszystkie-cla-na-szwajcarski-eksport-9185173.html",
-      "title": "Chiny zniosą niemal wszystkie cła na szwajcarski eksport",
-      "content_html": "Prezydent Szwajcarii Guy Parmelin i minister handlu Chin Wang Wentao poinformowali w czwartek, że zakończyli negocjacje w sprawie poszerzenia dwustronnego porozumienia o wolnym handlu, które zniesie 99,8 proc ceł na szwajcarskie dobra eksportowe.",
-      "date_published": "2026-08-20T19:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
