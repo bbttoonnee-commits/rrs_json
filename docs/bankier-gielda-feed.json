@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Fundusze-tna-szorty-na-JSW-oraz-Pepco-Na-Dino-i-KGHM-prawie-1-5-mld-obrotu-9185698.html",
+      "url": "https://www.bankier.pl/wiadomosc/Fundusze-tna-szorty-na-JSW-oraz-Pepco-Na-Dino-i-KGHM-prawie-1-5-mld-obrotu-9185698.html",
+      "title": "SESJA NA GPW Fundusze tną szorty na JSW oraz Pepco. Na Dino i KGHM prawie 1,5 mld obrotu W czasie piątkowej sesji inwestorzy z entuzjazmem przyjęli m.in. lepsze od oczekiwań wyniki finansowe detalicznego giganta Dino oraz historyczną decyzję agencji S&P DJI o awansie Polski do grona rynków rozwiniętych. Cieniem na nastrojach położyły się jednak rządowe zapowiedzi drastycznego podniesienia podatku CIT dla sektora energetycznego i paliwowego. Warto zwrócić uwagę na kilka najnowszych zmian w rejestrze krótkiej sprzedaży KNF.",
+      "content_html": "",
+      "date_published": "2026-08-21T17:29:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grodno-chce-wyplacic-2-6-mln-zl-dywidendy-9185649.html",
       "url": "https://www.bankier.pl/wiadomosc/Grodno-chce-wyplacic-2-6-mln-zl-dywidendy-9185649.html",
       "title": "Grodno chce wypłacić 2,6 mln zł dywidendy Zarząd Grodna wystąpił do rady nadzorczej o opinię w sprawie wypłaty 2,6 mln zł na dywidendę, z zysku netto za rok obrotowy zakończony 31 marca 2026 r. w wysokości 9 mln zł - poinformowała spółka w komunikacie.",
@@ -499,20 +506,6 @@
       "title": "Wyniki Cyfrowego Polsatu w II kw. 2026 roku vs. konsensus Poniżej przedstawiono wyniki Cyfrowego Polsatu w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
       "content_html": "",
       "date_published": "2026-08-19T18:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podatkowy-wiatr-w-zagle-gieldy-Zainteresowanie-budzily-glownie-banki-9184526.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podatkowy-wiatr-w-zagle-gieldy-Zainteresowanie-budzily-glownie-banki-9184526.html",
-      "title": "SESJA NA GPW Podatkowy wiatr w żagle giełdy. Zainteresowanie budziły głównie banki Środowe sesja na warszawskiej giełdzie przyniosła wyraźne przełamanie słabszych nastrojów z początku tygodnia. Inwestorzy około południa ruszyli do kupowania akcji do czego przyczyniły się wieści z rządowej konferencji prasowej dotyczące zmian podatkowych utrwalone w kolejnych godzinach pozytywnymi sygnałami z amerykańskiego rynku długu. W efekcie polskie indeksy wyraźnie wyróżniały się na tle niemrawych notowań indeksów w reszcie Europy.",
-      "content_html": "",
-      "date_published": "2026-08-19T17:22:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skonsolidowane-wyniki-KGHM-w-II-kw-2026-r-vs-konsensus-PAP-tabela-9184520.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skonsolidowane-wyniki-KGHM-w-II-kw-2026-r-vs-konsensus-PAP-tabela-9184520.html",
-      "title": "Miedziowy gigant przebija oczekiwania. Skokowy wzrost przychodów KGHM o blisko 50% Poniżej przedstawiamy skonsolidowane wyniki KGHM w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP.",
-      "content_html": "",
-      "date_published": "2026-08-19T17:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
