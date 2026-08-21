@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-na-obrone-nieba-Ukraina-chce-kupic-sprzety-za-unijne-pozyczki-9185666.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-na-obrone-nieba-Ukraina-chce-kupic-sprzety-za-unijne-pozyczki-9185666.html",
+      "title": "Miliardy na obronę nieba. Ukraina chce kupić sprzęty za unijne pożyczki",
+      "content_html": "Ukraina chce przeznaczyć kolejną transzę z unijnej pożyczki o wartości 90 mld euro na zakup systemów przeciwrakietowych – podał w piątek portal Euronews, powołując się na przedstawiciela Komisji Europejskiej. Kijów rozważa pozyskanie amerykańskich...",
+      "date_published": "2026-08-21T17:27:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gra-wokol-lex-szarlatan-Prezydent-blokuje-projekt-rzadu-i-proponuje-wlasne-rozwiazania-dla-oszustow-9185656.html",
       "url": "https://www.bankier.pl/wiadomosc/Gra-wokol-lex-szarlatan-Prezydent-blokuje-projekt-rzadu-i-proponuje-wlasne-rozwiazania-dla-oszustow-9185656.html",
       "title": "Gra wokół \"lex szarlatan\". Prezydent blokuje projekt rządu i proponuje własne rozwiązania dla oszustów",
@@ -142,6 +149,13 @@
       "title": "RPO po stronie Taco Hemingwaya. Chodzi o reklamę leku w piosence",
       "content_html": "RPO Sylwia Gregorczyk-Abram wniosła do sądu o uwzględnienie skargi rapera Taco Hemingway'a na decyzję GIF, nakazującą zaprzestanie niezgodnej z przepisami reklamy produktu leczniczego w piosence, w której pada jego nazwa. Decyzja narusza wolność...",
       "date_published": "2026-08-21T14:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-awansuje-do-grona-rynkow-rozwinietych-S-P-DJI-zmienia-klasyfikacje-9185299.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-awansuje-do-grona-rynkow-rozwinietych-S-P-DJI-zmienia-klasyfikacje-9185299.html",
+      "title": "Polska awansuje do grona rynków rozwiniętych. S&P DJI zmienia klasyfikację",
+      "content_html": "S&P Dow Jones Indices (S&P DJI), globalny dostawca indeksów giełdowych i wskaźników rynkowych, zdecydował o zmianie klasyfikacji Polski z rynku wschodzącego na rynek rozwinięty - podał S&P DJI w komunikacie. Zmiana klasyfikacji zostanie...",
+      "date_published": "2026-08-21T13:41:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Meta-ma-7-dni-na-odpowiedz-Rzad-pyta-o-skale-falszywych-reklam-w-Polsce-9185509.html",
@@ -687,13 +701,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Tysiace-firm-zapomnialy-lub-nie-wiedza-o-nowym-obowiazku-Zegar-tyka-Co-musza-zrobic-i-do-kiedy-maja-czas-9185082.html",
       "title": "Firmy zapomniały lub nie wiedzą o nowym obowiązku. Ile czasu im zostało?",
       "content_html": "Wprowadzona w Polsce w kwietniu ustawa o krajowym systemie cyberbezpieczeństwa (UKSC) obciążyła nowymi obowiązkami nie tylko podmioty publiczne, ale także firmy z 18 sektorów. Problem w tym, że wielu przedsiębiorców może o tym nie wiedzieć...",
-      "date_published": "2026-08-21T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ormuz-Ukraina-i-rafinerie-Piec-czynnikow-podbija-ceny-paliw-9185104.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ormuz-Ukraina-i-rafinerie-Piec-czynnikow-podbija-ceny-paliw-9185104.html",
-      "title": "Ormuz, Ukraina i rafinerie. Pięć czynników podbija ceny paliw",
-      "content_html": "Jest szereg czynników destabilizujących sytuację na rynku ropy, m.in. wojna w Ukrainie i konflikt w Zatoce Perskiej; przy takiej niepewności na ceny wpływa nawet przedstawienie przez Trumpa mapy z Cieśniną Ormuz jako częścią terytorium USA -...",
       "date_published": "2026-08-21T07:00:00+02:00"
     }
   ],
