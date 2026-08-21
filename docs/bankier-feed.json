@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Raport-Polakow-portret-wlasny-wywolal-burze-Autorka-przyznaje-wykorzystywalam-AI-9185203.html",
+      "url": "https://www.bankier.pl/wiadomosc/Raport-Polakow-portret-wlasny-wywolal-burze-Autorka-przyznaje-wykorzystywalam-AI-9185203.html",
+      "title": "Raport \"Polaków portret własny\" wywołał burzę. Autorka przyznaje: wykorzystywałam AI",
+      "content_html": "Raport „Polaków portret własny” Barbary Mróz-Gorgoń wywołał w czwartek krytykę z powodu błędów i wykorzystania AI. Autorka zaznaczyła, że był wewnętrznie wykorzystywany w think tanku i przyznała, że nie powinien trafić do sieci. MSiT...",
+      "date_published": "2026-08-21T07:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-kolejne-zmiany-dla-podatnikow-9185220.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-kolejne-zmiany-dla-podatnikow-9185220.html",
+      "title": "Domański zapowiada kolejne zmiany dla podatników",
+      "content_html": "Oprócz przedstawionych w bieżącym tygodniu planów zmian w systemie podatkowym Ministerstwo Finansów pracuje nad innymi rozwiązaniami dla podatników – poinformował w TVP Info minister finansów i gospodarki Andrzej Domański.",
+      "date_published": "2026-08-21T07:41:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Sanok-Rubber-Company-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9185309.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Sanok-Rubber-Company-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9185309.html",
+      "title": "Wyniki Sanok Rubber Company w II kw. 2026 roku vs. konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiamy wyniki Sanok Rubber Company w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
+      "date_published": "2026-08-21T07:38:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/ETF-y-na-GPW-bija-rekordy-Czy-naprawde-zmieniaja-sposob-w-jaki-Polacy-inwestuja-9184828.html",
       "url": "https://www.bankier.pl/wiadomosc/ETF-y-na-GPW-bija-rekordy-Czy-naprawde-zmieniaja-sposob-w-jaki-Polacy-inwestuja-9184828.html",
       "title": "ETF-y na GPW biją rekordy. Czy naprawdę zmieniają sposób, w jaki Polacy inwestują?",
@@ -53,18 +74,18 @@
       "date_published": "2026-08-21T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Powrot-spadkow-na-Wall-Street-Obawy-o-rentownosci-dlugu-9185249.html",
+      "url": "https://www.bankier.pl/wiadomosc/Powrot-spadkow-na-Wall-Street-Obawy-o-rentownosci-dlugu-9185249.html",
+      "title": "Powrót spadków na Wall Street. Obawy o rentowności długu",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się spadkami głównych indeksów, a rentowność obligacji skarbowych nadal rosła, pomimo nadzwyczajnej operacji wykupu długu przez Departament Skarbu . Wzbudziło to obawy, że wyższe koszty pożyczek...",
+      "date_published": "2026-08-20T23:08:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-szacuje-wzrost-zysku-netto-w-I-polroczu-do-33-8-mln-zl-9185234.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-szacuje-wzrost-zysku-netto-w-I-polroczu-do-33-8-mln-zl-9185234.html",
       "title": "Grupa Torpol szacuje wzrost zysku netto w I półroczu do 33,8 mln zł",
       "content_html": "Grupa Torpol wstępnie szacuje, że zwiększyła zysk netto w I półroczu 2026 roku do 33,8 mln zł z 30,5 mln zł rok wcześniej - poinformowała budowlana firma w komunikacie.",
       "date_published": "2026-08-20T22:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-kolejne-zmiany-dla-podatnikow-9185220.html",
-      "url": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-kolejne-zmiany-dla-podatnikow-9185220.html",
-      "title": "Domański zapowiada kolejne zmiany dla podatników",
-      "content_html": "Oprócz przedstawionych w bieżącym tygodniu planów zmian w systemie podatkowym Ministerstwo Finansów pracuje nad innymi rozwiązaniami dla podatników – poinformował w TVP Info minister finansów i gospodarki Andrzej Domański.",
-      "date_published": "2026-08-20T21:26:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-nalozyly-sankcje-na-10-osob-wspierajacych-proiranski-Hezbollah-9185219.html",
@@ -100,13 +121,6 @@
       "title": "Uzbrojeni mężczyźni przejęli tankowiec. Statek płynie w stronę Somalii",
       "content_html": "Brytyjska Agencja ds. Operacji Handlowych na Morzu (UKMTO) poinformowała w czwartek, że sześciu uzbrojonych mężczyzn przejęło kontrolę nad tankowcem u wybrzeży Jemenu, a jego kurs został przekierowany w stronę Somalii.",
       "date_published": "2026-08-20T20:23:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Raport-Polakow-portret-wlasny-wywolal-burze-Autorka-przyznaje-wykorzystywalam-AI-9185203.html",
-      "url": "https://www.bankier.pl/wiadomosc/Raport-Polakow-portret-wlasny-wywolal-burze-Autorka-przyznaje-wykorzystywalam-AI-9185203.html",
-      "title": "Raport \"Polaków portret własny\" wywołał burzę. Autorka przyznaje: wykorzystywałam AI",
-      "content_html": "Raport „Polaków portret własny” Barbary Mróz-Gorgoń wywołał w czwartek krytykę z powodu błędów i wykorzystania AI. Autorka zaznaczyła, że był wewnętrznie wykorzystywany w think tanku i przyznała, że nie powinien trafić do sieci. MSiT...",
-      "date_published": "2026-08-20T20:21:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oplaty-koncesyjne-w-gore-Rzad-chce-je-podniesc-pieciokrotnie-9185204.html",
@@ -674,34 +688,6 @@
       "title": "Ewakuacja plaży w Ceucie. Ruszyła operacja przenoszenia migrantów do ośrodków",
       "content_html": "W czwartek rano rozpoczęła się ewakuacja do tymczasowych ośrodków recepcyjnych migrantów koczujących na plaży w Ceucie – hiszpańskiej eksklawie w Afryce Północnej, do której pod koniec lipca przedarło się z Maroka ponad 70 tys. osób;...",
       "date_published": "2026-08-20T12:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowe-procedury-i-zmiany-MON-zapowiada-szybsze-rozmieszczanie-jednostek-i-sprzetu-9184822.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowe-procedury-i-zmiany-MON-zapowiada-szybsze-rozmieszczanie-jednostek-i-sprzetu-9184822.html",
-      "title": "Nowe procedury i zmiany. MON zapowiada szybsze rozmieszczanie jednostek i sprzętu",
-      "content_html": "Wszystkie możliwe do użycia polskie systemy obrony powietrznej są zagospodarowane i rozmieszczone według wskazań wojska - powiedział w czwartek wicepremier, szef MON Władysław Kosiniak-Kamysz. Zapowiedział zmiany „w ustawie o obronie Ojczyzny...",
-      "date_published": "2026-08-20T11:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/BLIK-mocno-w-gore-Ponad-1-5-mld-transakcji-w-pierwsze-polrocze-2026-roku-9184821.html",
-      "url": "https://www.bankier.pl/wiadomosc/BLIK-mocno-w-gore-Ponad-1-5-mld-transakcji-w-pierwsze-polrocze-2026-roku-9184821.html",
-      "title": "BLIK mocno w górę. Ponad 1,5 mld transakcji w pierwsze półrocze 2026 roku",
-      "content_html": "W ciągu pierwszego półrocza 2026 roku użytkownicy BLIKA zrealizowali 1,58 mld transakcji, czyli o 13 proc. więcej niż rok wcześniej - poinformowała członkini zarządu ds. finansowych Katarzyna Matuszczyk. Dodała, że ekspansja zagraniczna pozostaje...",
-      "date_published": "2026-08-20T11:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Czarzasty-zapowiada-dalsze-reformy-Rozpoczynamy-od-olbrzymiej-zmiany-beda-kolejne-9184764.html",
-      "url": "https://www.bankier.pl/wiadomosc/Czarzasty-zapowiada-dalsze-reformy-Rozpoczynamy-od-olbrzymiej-zmiany-beda-kolejne-9184764.html",
-      "title": "Czarzasty zapowiada dalsze reformy. \"Rozpoczynamy od olbrzymiej zmiany, będą kolejne\"",
-      "content_html": "Marszałek Sejmu, przewodniczący Nowej Lewicy Włodzimierz Czarzasty podkreślił w czwartek, że koalicja ustaliła „określony plan dalej” wprowadzania zmian dot. podatków . Rozpoczynamy od olbrzymiej zmiany, te zmiany będą kontynuowane - powiedział...",
-      "date_published": "2026-08-20T11:41:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-230-lokali-na-warszawskim-Bemowie-9184799.html",
-      "url": "https://www.bankier.pl/wiadomosc/Robyg-wprowadzil-do-sprzedazy-230-lokali-na-warszawskim-Bemowie-9184799.html",
-      "title": "Robyg kończy budowę na Bemowie. Wprowadza do sprzedaży ostatnie mieszkania",
-      "content_html": "Robyg wprowadził do sprzedaży ostatnie 2 etapy Osiedla Kameralnego, czyli 230 lokali na?warszawskim Bemowie - podał deweloper w komunikacie prasowym. Łącznie osiedle obejmie około 900 lokali w 8 etapach. (PAP Biznes)",
-      "date_published": "2026-08-20T11:26:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
