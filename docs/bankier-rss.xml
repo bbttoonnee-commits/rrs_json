@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sat, 22 Aug 2026 13:28:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:52:00 +0200</lastBuildDate>
     <item>
       <title>Sanok Rubber Company spodziewa się wzrostu kosztów surowców; pracuje nad akwizycjami</title>
       <link>https://www.bankier.pl/wiadomosc/Sanok-Rubber-Company-spodziewa-sie-wzrostu-kosztow-surowcow-pracuje-nad-akwizycjami-9185435.html</link>
@@ -528,13 +528,6 @@
       <pubDate>Sat, 22 Aug 2026 09:42:00 +0200</pubDate>
     </item>
     <item>
-      <title>"Ormuz to nowe terytorium USA". Nowa szokująca deklaracja Trumpa?</title>
-      <link>https://www.bankier.pl/wiadomosc/Ormuz-to-nowe-terytorium-USA-Nowa-szokujaca-deklaracja-Trumpa-9185806.html</link>
-      <description>Prezydent USA Donald Trump oświadczył w piątek na wiecu w Karolinie Południowej, że „postrzega cieśninę Ormuz jako amerykańskie terytorium”. Wyraził przekonanie, że Iran chce zawrzeć porozumienie, ale w opinii Trumpa nie jest jeszcze gotowy...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ormuz-to-nowe-terytorium-USA-Nowa-szokujaca-deklaracja-Trumpa-9185806.html</guid>
-      <pubDate>Sat, 22 Aug 2026 09:47:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Fiasko negocjacji rzutem na taśmę. Kanada zrywa rozmowy z USA i odpowiada cłami "dolar za dolara"</title>
       <link>https://www.bankier.pl/wiadomosc/Fiasko-negocjacji-rzutem-na-tasme-Kanada-zrywa-rozmowy-z-USA-i-odpowiada-clami-dolar-za-dolara-9185804.html</link>
       <description>Prezydent USA Donald Trump powiedział w piątek, że spodziewa się, iż umowa handlowa z Kanadą dojdzie do skutku. W sobotę upływa termin zawarcia porozumienia wyznaczony przez amerykańskiego prezydenta. Trump oświadczył też, że USA zaczynają...</description>
@@ -708,6 +701,13 @@
       <description>Amerykański niszczyciel rakietowy USS Benfold w lipcu spędził cztery dni na Morzu Południowochińskim bez zasilania, w tym bez działającej klimatyzacji, toalet i kuchni pokładowej – poinformował portal telewizji CNN.</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Pieklo-na-pokladzie-amerykanskiego-niszczyciela-Cztery-dni-bez-pradu-toalet-i-klimatyzacji-9183269.html</guid>
       <pubDate>Sat, 22 Aug 2026 13:28:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Ormuz to nowe terytorium USA". Nowa szokująca deklaracja Trumpa?</title>
+      <link>https://www.bankier.pl/wiadomosc/Ormuz-to-nowe-terytorium-USA-Nowa-szokujaca-deklaracja-Trumpa-9185806.html</link>
+      <description>Prezydent USA Donald Trump oświadczył w piątek na wiecu w Karolinie Południowej, że „postrzega cieśninę Ormuz jako amerykańskie terytorium”. Wyraził przekonanie, że Iran chce zawrzeć porozumienie, ale w opinii Trumpa nie jest jeszcze gotowy...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Ormuz-to-nowe-terytorium-USA-Nowa-szokujaca-deklaracja-Trumpa-9185806.html</guid>
+      <pubDate>Sat, 22 Aug 2026 13:52:00 +0200</pubDate>
     </item>
   </channel>
 </rss>
