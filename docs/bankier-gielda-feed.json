@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/To-jak-splacanie-hipoteki-karta-kredytowa-Czarne-chmury-nad-amerykanskimi-obligacjami-i-dolarem-9185800.html",
+      "url": "https://www.bankier.pl/wiadomosc/To-jak-splacanie-hipoteki-karta-kredytowa-Czarne-chmury-nad-amerykanskimi-obligacjami-i-dolarem-9185800.html",
+      "title": "O TYM MÓWI WALL STREET \"To jak spłacanie hipoteki kartą kredytową\". Czarne chmury nad amerykańskimi obligacjami i dolarem Rynków finansowych nie przekonują wysiłki Departamentu Skarbu USA, który interwencjami próbuje powstrzymać wzrost rentowności obligacji. Nad dolarem zbierają się czarne chmury, a czołowi stratedzy inwestycyjni doradzają dywersyfikację kapitału poza granice Stanów Zjednoczonych.",
+      "content_html": "",
+      "date_published": "2026-08-22T07:57:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rajd-bitcoina-wynagrodzen-i-najwieksza-wyprzedaz-zlota-w-XXI-wieku-9185409.html",
       "url": "https://www.bankier.pl/wiadomosc/Rajd-bitcoina-wynagrodzen-i-najwieksza-wyprzedaz-zlota-w-XXI-wieku-9185409.html",
       "title": "WYKRESY TYGODNIA Rajd bitcoina, wynagrodzeń i największa wyprzedaż złota w XXI wieku Ten tydzień przyniósł mieszany obraz gospodarki i rynków. Z jednej strony dane z Polski pokazują odporność rynku pracy i utrzymujący się wzrost aktywności gospodarczej, z drugiej firmy pozostają ostrożne z inwestycjami, a inflacja wciąż nie daje powodów do pełnego spokoju. Na światowych rynkach uwagę przyciągały dynamiczne ruchy bitcoina. I co jeszcze? O tym w moim podsumowaniu tygodnia na wykresach!",
       "content_html": "",
       "date_published": "2026-08-22T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Udany-piatek-ale-slaby-tydzien-na-Wall-Street-Inwestorzy-czekaja-na-wyniki-Nvidii-9185798.html",
+      "url": "https://www.bankier.pl/wiadomosc/Udany-piatek-ale-slaby-tydzien-na-Wall-Street-Inwestorzy-czekaja-na-wyniki-Nvidii-9185798.html",
+      "title": "Udany piątek, ale słaby tydzień na Wall Street. Inwestorzy czekają na wyniki Nvidii Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, ale w skali całego tygodnia zanotowały one 1-2 proc. spadki. W centrum uwagi inwestorów w przyszłym tygodniu będą wyniki Nvidii oraz wystąpienie prezesa Fed Kevina Warsha.",
+      "content_html": "",
+      "date_published": "2026-08-21T23:58:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Cezary-Kozanecki-sprzedal-615-tys-akcji-Synektika-w-cenie-350-zl-za-akcje-9185745.html",
@@ -422,13 +436,6 @@
       "title": "Wzrost o blisko 20 mld złotych. Lipiec przyniósł mocne skoki aktywów OFE Wartość akcji spółek z GPW będących w posiadaniu OFE wzrosła w lipcu o ok. 19,8 mld zł mdm do 286,312 mld zł - wynika z danych KNF.",
       "content_html": "",
       "date_published": "2026-08-20T08:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/mcr-mial-w-I-kw-2026-27-57-mln-zl-przychodow-ostateczne-rozliczenie-dot-earn-out-spodziewane-w-tym-roku-9184714.html",
-      "url": "https://www.bankier.pl/wiadomosc/mcr-mial-w-I-kw-2026-27-57-mln-zl-przychodow-ostateczne-rozliczenie-dot-earn-out-spodziewane-w-tym-roku-9184714.html",
-      "title": "Grupa mcr ze skokiem przychodów o 26 proc. Trwa transformacja i rozliczenie wielkiej transakcji Przychody ze sprzedaży z działalności kontynuowanej grupy mcr w I kw. 2026/2027 (kwiecień-czerwiec 2026 r.) wzrosły do 57 mln zł z 45,2 mln zł rok wcześniej - podała spółka w raporcie. Ostatecznego rozliczenia, od którego uzależniona jest płatność odroczona za sprzedaż części działalności, można spodziewać się tym roku.",
-      "content_html": "",
-      "date_published": "2026-08-20T08:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
