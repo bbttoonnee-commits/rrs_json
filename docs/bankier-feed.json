@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-lek-Eli-Lilly-bije-rekordy-Takiej-redukcji-masy-ciala-jeszcze-nie-bylo-9185586.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-lek-Eli-Lilly-bije-rekordy-Takiej-redukcji-masy-ciala-jeszcze-nie-bylo-9185586.html",
+      "title": "Nowy lek Eli Lilly bije rekordy. Takiej redukcji masy ciała jeszcze nie było",
+      "content_html": "Eli Lilly, producent popularnego Mounjaro, wkrótce może wprowadzić na rynek nowy przełomowy lek na otyłość. „Nigdy wcześniej nie obserwowaliśmy takiej redukcji masy ciała” – mówi Patrik Jönsson, szwedzki członek najwyższego kierownictwa...",
+      "date_published": "2026-08-23T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Nowy-spor-Grecji-z-Turcja-Ateny-kwestionuja-tureckie-parki-na-Morzu-Egejskim-9183535.html",
       "url": "https://www.bankier.pl/wiadomosc/Nowy-spor-Grecji-z-Turcja-Ateny-kwestionuja-tureckie-parki-na-Morzu-Egejskim-9183535.html",
       "title": "Nowy spór Grecji z Turcją. Ateny kwestionują tureckie parki na Morzu Egejskim",
@@ -128,6 +135,13 @@
       "title": "Straż Graniczna przyjmie kolejne 90 osób. Pensja przekracza 6000 zł netto",
       "content_html": "Nadodrzański Oddział SG czeka na kolejnych zdecydowanych na rozpoczęcie kariery w mundurze Straży Granicznej. W tym roku służbę rozpoczęło 65 nowych funkcjonariuszy, a do końca roku Straż zamierza przyjąć jeszcze 90 osób - poinformował...",
       "date_published": "2026-08-22T16:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ostre-slowa-wyslannika-USA-Izrael-atakiem-na-Syrie-provokowal-Turcje-pod-wybory-9185884.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ostre-slowa-wyslannika-USA-Izrael-atakiem-na-Syrie-provokowal-Turcje-pod-wybory-9185884.html",
+      "title": "Ostre słowa wysłannika USA. Izrael atakiem na Syrię prowokował Turcję pod wybory?",
+      "content_html": "Tom Barrack, specjalny wysłannik USA ds. Syrii i Iraku, zasugerował w cytowanym w sobotę przez Times of Israel wywiadzie, że izraelscy przywódcy „prowokowali” Turcję do konfliktu w celach wyborczych, atakując lotnisko w Syrii, gdzie – według...",
+      "date_published": "2026-08-22T14:47:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ormuz-to-nowe-terytorium-USA-Nowa-szokujaca-deklaracja-Trumpa-9185806.html",
@@ -688,13 +702,6 @@
       "title": "Kluczowy kamień milowy na Bałtyku. Zakończono montaż fundamentów pod farmę Baltica 2",
       "content_html": "Zakończyła się instalacja 111 monopali stanowiących komplet fundamentów pod morską farmę wiatrową Baltica 2 – poinformowały w piątek PGE i Orsted. Oznacza to zamknięcie kluczowego etapu prac na morzu, realizowanego zgodnie z przyjętym harmonogramem...",
       "date_published": "2026-08-21T14:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ciala-12-ofiar-katastrofy-wkrotce-w-Polsce-Sledztwo-dot-wypadku-autokaru-trwa-9185536.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ciala-12-ofiar-katastrofy-wkrotce-w-Polsce-Sledztwo-dot-wypadku-autokaru-trwa-9185536.html",
-      "title": "Ciała 12 ofiar katastrofy wkrótce w Polsce. Śledztwo dot. wypadku autokaru trwa",
-      "content_html": "Kolejne dwie osoby poszkodowane w wypadku polskiego autokaru na Węgrzech zostały w piątek przetransportowane samolotami LPR-u na lotnisko w podrzeszowskiej Jasionce, skąd trafiły do szpitali. Na Węgrzech pozostaje jeszcze troje najciężej rannych...",
-      "date_published": "2026-08-21T14:22:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
