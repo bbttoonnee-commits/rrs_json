@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Hotelarze-maja-powody-do-zadowolenia-Oblozenie-hoteli-wyraznie-wzroslo-9184704.html",
+      "url": "https://www.bankier.pl/wiadomosc/Hotelarze-maja-powody-do-zadowolenia-Oblozenie-hoteli-wyraznie-wzroslo-9184704.html",
+      "title": "Hotelarze mają powody do zadowolenia. Obłożenie hoteli wyraźnie wzrosło Lipiec przyniósł wyraźną poprawę sytuacji w polskiej branży hotelarskiej. Z najnowszego badania Izby Gospodarczej Hotelarstwa Polskiego wynika, że obłożenie hoteli było wyższe niż rok wcześniej, zarówno w segmencie biznesowym, jak i wypoczynkowym. Szczególnie dobre wyniki odnotowały obiekty nastawione na turystykę wypoczynkową.",
+      "content_html": "",
+      "date_published": "2026-08-23T07:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/To-jak-splacanie-hipoteki-karta-kredytowa-Czarne-chmury-nad-amerykanskimi-obligacjami-i-dolarem-9185800.html",
       "url": "https://www.bankier.pl/wiadomosc/To-jak-splacanie-hipoteki-karta-kredytowa-Czarne-chmury-nad-amerykanskimi-obligacjami-i-dolarem-9185800.html",
       "title": "O TYM MÓWI WALL STREET \"To jak spłacanie hipoteki kartą kredytową\". Czarne chmury nad amerykańskimi obligacjami i dolarem Rynków finansowych nie przekonują wysiłki Departamentu Skarbu USA, który interwencjami próbuje powstrzymać wzrost rentowności obligacji. Nad dolarem zbierają się czarne chmury, a czołowi stratedzy inwestycyjni doradzają dywersyfikację kapitału poza granice Stanów Zjednoczonych.",
@@ -184,13 +191,6 @@
       "title": "Wyniki MLP Group w II kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki MLP Group w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
       "content_html": "",
       "date_published": "2026-08-21T09:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-lipcu-wzrosly-o-89-proc-rdr-do-531-mln-USD-9185344.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asbis-szacuje-ze-przychody-w-lipcu-wzrosly-o-89-proc-rdr-do-531-mln-USD-9185344.html",
-      "title": "Asbis szacuje, że przychody w lipcu wzrosły o 89 proc. rdr do 531 mln USD Grupa Asbis szacuje, że w lipcu 2026 r. wypracowała skonsolidowane przychody na poziomie ok. 531 mln USD i były one wyższe o 89 proc. od przychodów wypracowanych w lipcu 2025 r. - poinformowała spółka w komunikacie. Był to najwyższy pod względem przychodów lipiec w historii grupy.",
-      "content_html": "",
-      "date_published": "2026-08-21T08:28:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
