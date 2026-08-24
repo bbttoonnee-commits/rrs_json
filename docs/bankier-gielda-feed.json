@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/multiQure-chce-zweryfikowac-potencjal-partneringowy-projektow-immunoonkologicznych-9186122.html",
+      "url": "https://www.bankier.pl/wiadomosc/multiQure-chce-zweryfikowac-potencjal-partneringowy-projektow-immunoonkologicznych-9186122.html",
+      "title": "multiQure bada potencjał swoich terapii onkologicznych. Są pierwsze umowy NDA multiQure rozpoczęła rozmowy z globalnymi firmami rynku biofarmaceutycznego w celu oceny potencjału partneringowego projektów immunoonkologicznych. Ma podpisane umowy NDA z kilkoma firmami z branży - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-08-24T08:38:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cena-miedzi-w-Londynie-spadaja-z-rekordowych-poziomow-9186114.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cena-miedzi-w-Londynie-spadaja-z-rekordowych-poziomow-9186114.html",
+      "title": "Cena miedzi w Londynie spadają z rekordowych poziomów Notowania miedzi na giełdzie metali LME w Londynie spadają i opuszczają rekordowe poziomy. Inwestorzy oceniają wpływ wysokich cen miedzi na popyt - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-08-24T08:09:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-Rynek-czeka-na-plan-izolacji-gospodarczej-Iranu-9186108.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-w-dol-Rynek-czeka-na-plan-izolacji-gospodarczej-Iranu-9186108.html",
+      "title": "Ceny ropy w dół. Rynek czeka na plan izolacji gospodarczej Iranu Notowania ropy naftowej na świecie w poniedziałek idą w dół po zaliczeniu 2 tygodni ze zwyżkami cen - podają maklerzy.",
+      "content_html": "",
+      "date_published": "2026-08-24T08:01:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kto-zna-Twoj-gieldowy-stan-posiadania-Tajemnica-rachunku-a-rejestry-KDPW-9186020.html",
       "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Kto-zna-Twoj-gieldowy-stan-posiadania-Tajemnica-rachunku-a-rejestry-KDPW-9186020.html",
       "title": "Giełda od kuchni. Kto zna Twój giełdowy stan posiadania? Tajemnica rachunku a rejestry KDPW Czy kupując akcje na giełdzie, Twój majątek staje się publiczną wiedzą, czy pozostaje dyskretny? Zastanawiasz się, kto poza Tobą ma wgląd w Twój portfel i czy spółka, w którą inwestujesz, wie, że masz jej papiery? Prześwietlamy dwupoziomowy system rejestracji własności - od Twojego konta w aplikacji, przez rejestr emitenta, po centralny depozyt KDPW.",
@@ -16,13 +37,6 @@
       "title": "TYLKO U NAS \"Nie kreujemy popytu, lecz ujawniamy zapotrzebowanie\". Pula Funduszu Bezpieczeństwa wyczerpana w 90% Zainteresowanie Funduszem Bezpieczeństwa i Obronności przerosło oczekiwania. W niespełna półtora miesiąca do BGK wpłynęło 114 wniosków na 15,7 mld zł, co odpowiada ponad 90 proc. dostępnej puli. – Fundusz nie wykreował sztucznego popytu, lecz ujawnił istniejące zapotrzebowanie – mówi Bankier.pl prof. Marta Postuła, pierwsza wiceprezes Banku Gospodarstwa Krajowego.",
       "content_html": "",
       "date_published": "2026-08-24T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hotelarze-maja-powody-do-zadowolenia-Oblozenie-hoteli-wyraznie-wzroslo-9184704.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hotelarze-maja-powody-do-zadowolenia-Oblozenie-hoteli-wyraznie-wzroslo-9184704.html",
-      "title": "Hotelarze mają powody do zadowolenia. Obłożenie hoteli wyraźnie wzrosło Lipiec przyniósł wyraźną poprawę sytuacji w polskiej branży hotelarskiej. Z najnowszego badania Izby Gospodarczej Hotelarstwa Polskiego wynika, że obłożenie hoteli było wyższe niż rok wcześniej, zarówno w segmencie biznesowym, jak i wypoczynkowym. Szczególnie dobre wyniki odnotowały obiekty nastawione na turystykę wypoczynkową.",
-      "content_html": "",
-      "date_published": "2026-08-23T07:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
