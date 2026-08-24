@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nie-kreujemy-popytu-lecz-ujawniamy-zapotrzebowanie-Pula-Funduszu-Bezpieczenstwa-wyczerpana-w-90-9185874.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nie-kreujemy-popytu-lecz-ujawniamy-zapotrzebowanie-Pula-Funduszu-Bezpieczenstwa-wyczerpana-w-90-9185874.html",
+      "title": "TYLKO U NAS \"Nie kreujemy popytu, lecz ujawniamy zapotrzebowanie\". Pula Funduszu Bezpieczeństwa wyczerpana w 90% Zainteresowanie Funduszem Bezpieczeństwa i Obronności przerosło oczekiwania. W niespełna półtora miesiąca do BGK wpłynęło 114 wniosków na 15,7 mld zł, co odpowiada ponad 90 proc. dostępnej puli. – Fundusz nie wykreował sztucznego popytu, lecz ujawnił istniejące zapotrzebowanie – mówi Bankier.pl prof. Marta Postuła, pierwsza wiceprezes Banku Gospodarstwa Krajowego.",
+      "content_html": "",
+      "date_published": "2026-08-24T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Hotelarze-maja-powody-do-zadowolenia-Oblozenie-hoteli-wyraznie-wzroslo-9184704.html",
       "url": "https://www.bankier.pl/wiadomosc/Hotelarze-maja-powody-do-zadowolenia-Oblozenie-hoteli-wyraznie-wzroslo-9184704.html",
       "title": "Hotelarze mają powody do zadowolenia. Obłożenie hoteli wyraźnie wzrosło Lipiec przyniósł wyraźną poprawę sytuacji w polskiej branży hotelarskiej. Z najnowszego badania Izby Gospodarczej Hotelarstwa Polskiego wynika, że obłożenie hoteli było wyższe niż rok wcześniej, zarówno w segmencie biznesowym, jak i wypoczynkowym. Szczególnie dobre wyniki odnotowały obiekty nastawione na turystykę wypoczynkową.",
@@ -16,13 +23,6 @@
       "title": "O TYM MÓWI WALL STREET \"To jak spłacanie hipoteki kartą kredytową\". Czarne chmury nad amerykańskimi obligacjami i dolarem Rynków finansowych nie przekonują wysiłki Departamentu Skarbu USA, który interwencjami próbuje powstrzymać wzrost rentowności obligacji. Nad dolarem zbierają się czarne chmury, a czołowi stratedzy inwestycyjni doradzają dywersyfikację kapitału poza granice Stanów Zjednoczonych.",
       "content_html": "",
       "date_published": "2026-08-22T07:57:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rajd-bitcoina-wynagrodzen-i-najwieksza-wyprzedaz-zlota-w-XXI-wieku-9185409.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rajd-bitcoina-wynagrodzen-i-najwieksza-wyprzedaz-zlota-w-XXI-wieku-9185409.html",
-      "title": "WYKRESY TYGODNIA Rajd bitcoina, wynagrodzeń i największa wyprzedaż złota w XXI wieku Ten tydzień przyniósł mieszany obraz gospodarki i rynków. Z jednej strony dane z Polski pokazują odporność rynku pracy i utrzymujący się wzrost aktywności gospodarczej, z drugiej firmy pozostają ostrożne z inwestycjami, a inflacja wciąż nie daje powodów do pełnego spokoju. Na światowych rynkach uwagę przyciągały dynamiczne ruchy bitcoina. I co jeszcze? O tym w moim podsumowaniu tygodnia na wykresach!",
-      "content_html": "",
-      "date_published": "2026-08-22T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
