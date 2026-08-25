@@ -4,6 +4,34 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Braun-na-dywaniku-w-IPN-Europosel-wezwany-jako-podejrzany-9186705.html",
+      "url": "https://www.bankier.pl/wiadomosc/Braun-na-dywaniku-w-IPN-Europosel-wezwany-jako-podejrzany-9186705.html",
+      "title": "Braun na dywaniku w IPN? Europoseł wezwany jako podejrzany",
+      "content_html": "Lider Konfederacji Korony Polskiej, europoseł Grzegorz Braun jest przesłuchiwany we wtorek w oddziale Instytutu Pamięci Narodowej przez Oddziałową Komisję Ścigania Zbrodni przeciwko Narodowi Polskiemu w charakterze podejrzanego.",
+      "date_published": "2026-08-25T12:43:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pokolenie-NEET-Dlaczego-ponad-milion-mlodych-ludzi-w-Niemczech-wycofalo-sie-z-rynku-pracy-9186749.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pokolenie-NEET-Dlaczego-ponad-milion-mlodych-ludzi-w-Niemczech-wycofalo-sie-z-rynku-pracy-9186749.html",
+      "title": "Niemcy mają problem. 1,2 mln młodych ludzi nie pracuje ani się nie uczy",
+      "content_html": "Problem niedoboru wykwalifikowanych pracowników to jedno z największych wyzwań współczesnego biznesu w Europie. Tymczasem tuż za naszą zachodnią granicą narasta niepokojące zjawisko: aż 1,2 miliona młodych ludzi nie pracuje, nie studiuje i...",
+      "date_published": "2026-08-25T12:35:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/SpaceX-wyladuje-na-rynku-w-Warszawie-Debiut-akcji-na-Global-Connect-juz-za-chwile-9186747.html",
+      "url": "https://www.bankier.pl/wiadomosc/SpaceX-wyladuje-na-rynku-w-Warszawie-Debiut-akcji-na-Global-Connect-juz-za-chwile-9186747.html",
+      "title": "SpaceX wyląduje na rynku w Warszawie. Debiut akcji na Global Connect już za chwilę",
+      "content_html": "Po historycznym czerwcowym debiucie na Wall Street, akcje SpaceX od 26 sierpnia będą dostępne dla polskich inwestorów na rynku GlobalConnect. To szansa na kupno wizji Elona Muska w rodzimej walucie, w dodatku w momencie, gdy wycena spółki po niedawnej...",
+      "date_published": "2026-08-25T12:33:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-za-maksymalnie-45-6-mln-zl-netto-9186745.html",
+      "url": "https://www.bankier.pl/wiadomosc/Elektrotim-ma-umowe-za-maksymalnie-45-6-mln-zl-netto-9186745.html",
+      "title": "Elektrotim ma umowę za maksymalnie 45,6 mln zł netto",
+      "content_html": "Elektrotim zawarł umowę ze spółką PORR Government Services Poland na kompleksowe wykonanie instalacji elektrycznych, kanalizacji kablowych w ramach inwestycji Munitions Storage Area (MSA) Powidz Air Base - podała spółka w komunikacie. Umowa zawiera...",
+      "date_published": "2026-08-25T12:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Skandal-korupcyjny-w-Kijowie-Byla-wiceszefowa-Biura-Zelenskiego-zatrzymana-9186691.html",
       "url": "https://www.bankier.pl/wiadomosc/Skandal-korupcyjny-w-Kijowie-Byla-wiceszefowa-Biura-Zelenskiego-zatrzymana-9186691.html",
       "title": "Skandal korupcyjny w Kijowie. Była wiceszefowa Biura Zełenskiego zatrzymana",
@@ -254,13 +282,6 @@
       "title": "Ukraińskie zboże popłynie przez polskie porty? Wiceminister o negocjacjach",
       "content_html": "W rozmowie z „Rzeczpospolitą” wiceminister rolnictwa i rozwoju wsi Jacek Czerniak wskazał, że Ukraina prowadzi rozmowy z polskim rządem na temat zwiększenia ilości ukraińskiego zboża, które miałoby być transportowane przez Polskę. Jak...",
       "date_published": "2026-08-25T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polacy-chca-wyzszej-kwoty-wolnej-Rzadowa-propozycja-PIT-nie-przekonuje-9186563.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polacy-chca-wyzszej-kwoty-wolnej-Rzadowa-propozycja-PIT-nie-przekonuje-9186563.html",
-      "title": "Polacy chcą wyższej kwoty wolnej. Rządowa propozycja PIT nie przekonuje",
-      "content_html": "Niespełna 41 proc. badanych, odpowiadając na pytanie o najbardziej potrzebną zmianę w PIT, wskazało podniesienie kwoty wolnej od podatku - to wynik sondażu opublikowanego we wtorkowym Dzienniku Gazecie Prawnej, przeprowadzonego przez CBOS. Ankietowani...",
-      "date_published": "2026-08-25T07:55:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zurek-do-Ukraincow-Zycze-zebyscie-weszli-do-NATO-i-UE-Nie-dla-podzialu-naszych-narodow-9186525.html",
@@ -674,34 +695,6 @@
       "title": "Tusk: Polacy są dziś całym sercem z walczącym narodem ukraińskim",
       "content_html": "Polacy wiedzą, co znaczy płacić najwyższą cenę za niepodległość i wiedzą, co znaczą słowa „Za wolność waszą i naszą” - oświadczył premier Donald Tusk w Dniu Niepodległości Ukrainy. Dodał, że Polacy są dziś całym sercem z walczącym...",
       "date_published": "2026-08-24T14:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/35-lat-niepodleglosci-Ukrainy-Zelenski-apeluje-o-dalsze-wsparcie-i-sankcje-dla-Rosji-9186141.html",
-      "url": "https://www.bankier.pl/wiadomosc/35-lat-niepodleglosci-Ukrainy-Zelenski-apeluje-o-dalsze-wsparcie-i-sankcje-dla-Rosji-9186141.html",
-      "title": "35 lat niepodległości Ukrainy. Zełenski apeluje o dalsze wsparcie i sankcje dla Rosji",
-      "content_html": "Ukraina w 35. rocznicę swojej niepodległości pozostaje zjednoczona, odporna i zdolna do walki; świat powinien dać nam wszystko, by zmusić Rosję do zakończenia wojny – oświadczył w poniedziałek prezydent Ukrainy Wołodymyr Zełenski.",
-      "date_published": "2026-08-24T14:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolej-na-Pomorzu-przejdzie-wielka-modernizacje-Umowa-warta-874-mln-zl-podpisana-9186287.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolej-na-Pomorzu-przejdzie-wielka-modernizacje-Umowa-warta-874-mln-zl-podpisana-9186287.html",
-      "title": "Kolej na Pomorzu przejdzie wielką modernizację. Umowa warta 874 mln zł podpisana",
-      "content_html": "W poniedziałek w Gdyni konsorcjum Unibep SA i Track Tec Construction Sp. z o.o. podpisało z PKP Polskimi Liniami Kolejowymi SA umowę na realizację prac na odcinku Gdańsk Osowa – Gdynia Główna. Wartość kontraktu wynosi 874,1 mln zł netto.",
-      "date_published": "2026-08-24T14:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Luksusowy-zegarek-i-rzekome-wplywy-w-UOKiK-Sledztwo-ujawnia-kulisy-relacji-Piesiewicza-z-Zondacrypto-9186159.html",
-      "url": "https://www.bankier.pl/wiadomosc/Luksusowy-zegarek-i-rzekome-wplywy-w-UOKiK-Sledztwo-ujawnia-kulisy-relacji-Piesiewicza-z-Zondacrypto-9186159.html",
-      "title": "Luksusowy zegarek i rzekome wpływy w UOKiK. Śledztwo ujawnia kulisy relacji Piesiewicza z Zondacrypto",
-      "content_html": "Prezes Polskiego Komitetu Olimpijskiego Radosław Piesiewicz miał dostać od szefa Zondacrypto Przemysława Krala m.in. zegarek wart 40 tysięcy euro za rzekome „wstawiennictwo” w UOKiK - wynika z ustaleń wspólnego śledztwa WP i TVN24. Piesiewicz...",
-      "date_published": "2026-08-24T14:42:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rybacy-dostana-wieksze-limity-na-sledzia-i-szprota-KE-nadal-ogranicza-polowy-dorsza-9186274.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rybacy-dostana-wieksze-limity-na-sledzia-i-szprota-KE-nadal-ogranicza-polowy-dorsza-9186274.html",
-      "title": "Rybacy dostaną większe limity na śledzia i szprota. KE nadal ogranicza połowy dorsza",
-      "content_html": "Komisja Europejska zaproponowała w poniedziałek zwiększenie połowów śledzia i szprota na Morzu Bałtyckim na 2027 r. Dopuszczalny limit śledzia centralnego miałby się zwiększyć o 49 proc., a szprota - o 44 proc. Ze względu na zły stan dorsza...",
-      "date_published": "2026-08-24T14:38:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
