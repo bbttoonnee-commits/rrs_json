@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-wyda-29-wrzesnia-26-remaster-Wiedzmina-3-9187108.html",
+      "url": "https://www.bankier.pl/wiadomosc/CD-Projekt-RED-wyda-29-wrzesnia-26-remaster-Wiedzmina-3-9187108.html",
+      "title": "CD Projekt RED wyda 29 września '26 remaster \"Wiedźmina 3\"",
+      "content_html": "CD Projekt RED wyda 29 września grę \"Wiedźmin 3: Dziki Gon - Remaster\" - poinformowała spółka podczas prezentacji na Gamescom Opening Night Live. Remaster trzeciej odsłony wiedźmińskiej sagi będzie zawierał oba dodatki - \"Serca z kamienia\"...",
+      "date_published": "2026-08-26T00:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/W-kontrze-do-USA-Iran-i-Oman-tworza-tymczasowy-korytarz-w-ciesninie-Ormuz-9187082.html",
       "url": "https://www.bankier.pl/wiadomosc/W-kontrze-do-USA-Iran-i-Oman-tworza-tymczasowy-korytarz-w-ciesninie-Ormuz-9187082.html",
       "title": "W kontrze do USA? Iran i Oman tworzą tymczasowy korytarz w cieśninie Ormuz",
@@ -695,13 +702,6 @@
       "title": "Ceuta pod bezpośrednim zarządem Madrytu. Sanchez reaguje na kryzys migracyjny",
       "content_html": "Rząd Hiszpanii Pedro Sancheza przejmuje od wtorku samodzielne zarządzanie Ceutą, eksklawą tego kraju w Afryce Północnej - poinformował w poniedziałek pierwszy wicepremier Carlos Cuerpo. Decyzja ta ma związek z trwającym od końca lipca kryzysem...",
       "date_published": "2026-08-25T08:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prawnik-o-prezydenckim-projekcie-instrukcja-obslugi-dla-szarlatanow-jak-uniknac-odpowiedzialnosci-9186583.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prawnik-o-prezydenckim-projekcie-instrukcja-obslugi-dla-szarlatanow-jak-uniknac-odpowiedzialnosci-9186583.html",
-      "title": "Prawnik o prezydenckim projekcie: Instrukcja obsługi dla szarlatanów, jak uniknąć odpowiedzialności",
-      "content_html": "Puste przepisy, które nie likwidują żadnego realnego problemu - tak o prezydenckim projekcie „lex szarlatan”, który ma walczyć z pseudomedycznymi praktykami, powiedział PAP prawnik prof. Mikołaj Małecki. - Prezydent zawarł instrukcję obsługi...",
-      "date_published": "2026-08-25T08:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
