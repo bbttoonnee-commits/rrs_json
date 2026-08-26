@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-11-bit-studios-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9187702.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-11-bit-studios-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9187702.html",
+      "title": "Wyniki 11 bit studios w II kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki 11 bit studios w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP i wyników poprzednich okresów.",
+      "content_html": "",
+      "date_published": "2026-08-26T22:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-III-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9187695.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-III-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9187695.html",
       "title": "Wyniki AB w III kwartale 2025/26 vs konsensus PAP Biznes (tabela) Poniżej przedstawiono wyniki AB w trzecim kwartale 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
@@ -429,13 +436,6 @@
       "title": "IKE czy IKZE – co wybrać? Makler tłumaczy różnice i podatkowe korzyści Analitycy i doradcy finansowi od lat powtarzają, że budowanie długoterminowej poduszki finansowej to klucz do stabilności w przyszłości. Jednak dla wielu osób pojęcia takie jak IKE czy IKZE nadal brzmią enigmatycznie. W ramach \"Wakacji na giełdzie\", Bartosz Stolarczuk – Makler Papierów Wartościowych oraz ekspert w Domu Maklerskim BOŚ, rozwiewa wątpliwości dotyczące obu tych rozwiązań, wskazując ich korzyści, specyfikę oraz unikalne walory.",
       "content_html": "",
       "date_published": "2026-08-25T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Rynek-czeka-na-raport-Nvidii-i-ruchy-Warsha-9186549.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-Rynek-czeka-na-raport-Nvidii-i-ruchy-Warsha-9186549.html",
-      "title": "Spadki na Wall Street. Rynek czeka na raport Nvidii i ruchy Warsha Poniedziałkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów. W centrum uwagi inwestorów w tym tygodniu będą kwartalne wyniki Nvidii oraz wystąpienie prezesa Fed Kevina Warsha.",
-      "content_html": "",
-      "date_published": "2026-08-24T22:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
