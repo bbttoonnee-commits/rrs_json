@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-wnioskuje-o-ponowne-rozpatrzenie-sprawy-wskutek-ktorej-KNF-nalozyla-na-bank-47-5-mln-zl-kar-9187470.html",
+      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-wnioskuje-o-ponowne-rozpatrzenie-sprawy-wskutek-ktorej-KNF-nalozyla-na-bank-47-5-mln-zl-kar-9187470.html",
+      "title": "PKO BP nie zgadza się z KNF. Bank zaskarżył decyzję ws. 47,5 mln zł kar PKO Bank Polski złożył wniosek o ponowne rozpatrzenie sprawy dotyczącej nałożenia 47,5 mln zł kar pieniężnych na bank - poinformowała Komisja Nadzoru Finansowego. Zarzuty KNF dotyczyły kwestii lokat strukturyzowanych oferowanych przez bank w latach 2021-2023.",
+      "content_html": "",
+      "date_published": "2026-08-26T15:02:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Unibep-ma-umowe-na-budowe-bloku-kogeneracyjnego-za-ok-379-5-mln-zl-netto-9187432.html",
       "url": "https://www.bankier.pl/wiadomosc/Unibep-ma-umowe-na-budowe-bloku-kogeneracyjnego-za-ok-379-5-mln-zl-netto-9187432.html",
       "title": "Unibep ma umowę na budowę bloku kogeneracyjnego za ok. 379,5 mln zł netto Unibep zawarł umowę na budowę bloku kogeneracyjnego za ok. 379,5 mln zł netto - podała spółka w komunikacie. Zamawiającym jest Radomskie Przedsiębiorstwo Energetyki Cieplnej \"RADPEC\".",
@@ -291,16 +298,16 @@
       "date_published": "2026-08-25T10:32:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Strach-o-ciesnine-Ormuz-Ceny-gazu-w-Azji-wystrzelily-na-5-miesieczny-szczyt-9186696.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strach-o-ciesnine-Ormuz-Ceny-gazu-w-Azji-wystrzelily-na-5-miesieczny-szczyt-9186696.html",
-      "title": "Strach o cieśninę Ormuz. Ceny gazu w Azji wystrzeliły na 5-miesięczny szczyt Ceny gazu LNG w Azji są we wtorek na 5-miesięcznym szczycie, a rosnące napięcia w relacjach USA-Iran pogłębiły jeszcze wątpliwości inwestorów co do wznowienia transportu nośników energii, w tym LNG, z Zatoki Perskiej przez cieśninę Ormuz - informują maklerzy.",
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Pracuj-spodziewa-sie-niskiego-dwucyfrowego-wzrostu-przychodow-z-serwisow-rekrutacyjnych-9186694.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Pracuj-spodziewa-sie-niskiego-dwucyfrowego-wzrostu-przychodow-z-serwisow-rekrutacyjnych-9186694.html",
+      "title": "Grupa Pracuj podnosi poprzeczkę. Szef spółki zapowiada dwucyfrowy wzrost przychodów Grupa Pracuj podnosi oczekiwania wzrostu przychodów w serwisach rekrutacyjnych i w kolejnych kwartałach spodziewa się niskiego dwucyfrowego wzrostu przychodów - poinformowali przedstawiciele spółki.",
       "content_html": "",
       "date_published": "2026-08-25T10:08:00+02:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Pracuj-spodziewa-sie-niskiego-dwucyfrowego-wzrostu-przychodow-z-serwisow-rekrutacyjnych-9186694.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Pracuj-spodziewa-sie-niskiego-dwucyfrowego-wzrostu-przychodow-z-serwisow-rekrutacyjnych-9186694.html",
-      "title": "Grupa Pracuj podnosi poprzeczkę. Szef spółki zapowiada dwucyfrowy wzrost przychodów Grupa Pracuj podnosi oczekiwania wzrostu przychodów w serwisach rekrutacyjnych i w kolejnych kwartałach spodziewa się niskiego dwucyfrowego wzrostu przychodów - poinformowali przedstawiciele spółki.",
+      "id": "https://www.bankier.pl/wiadomosc/Strach-o-ciesnine-Ormuz-Ceny-gazu-w-Azji-wystrzelily-na-5-miesieczny-szczyt-9186696.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strach-o-ciesnine-Ormuz-Ceny-gazu-w-Azji-wystrzelily-na-5-miesieczny-szczyt-9186696.html",
+      "title": "Strach o cieśninę Ormuz. Ceny gazu w Azji wystrzeliły na 5-miesięczny szczyt Ceny gazu LNG w Azji są we wtorek na 5-miesięcznym szczycie, a rosnące napięcia w relacjach USA-Iran pogłębiły jeszcze wątpliwości inwestorów co do wznowienia transportu nośników energii, w tym LNG, z Zatoki Perskiej przez cieśninę Ormuz - informują maklerzy.",
       "content_html": "",
       "date_published": "2026-08-25T10:08:00+02:00"
     },
@@ -408,27 +415,6 @@
       "title": "Oferta Unibepu na budowę hali w Białymstoku wybrana jako najkorzystniejsza Oferta Unibepu na budowę hali widowiskowo-sportowej w Białymstoku o wartości ok. 392,78 mln zł netto została wybrana jako najkorzystniejsza - poinformowała spółka w komunikacie.",
       "content_html": "",
       "date_published": "2026-08-24T17:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Resi-Capital-ustanowil-dwa-programy-emisji-obligacji-9186360.html",
-      "url": "https://www.bankier.pl/wiadomosc/Resi-Capital-ustanowil-dwa-programy-emisji-obligacji-9186360.html",
-      "title": "Resi Capital ustanowił dwa programy emisji obligacji Resi Capital ustanowił prospektowy program emisji obligacji o wartości nie wyższej niż 200 mln zł oraz program bezprospektowy, w ramach którego może wyemitować obligacje o łącznej wartości nominalnej nie wyższej niż 50 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-08-24T15:24:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-Komisja-Europejska-zgodzila-sie-na-przejecie-Nexery-przez-Orange-i-APG-9186349.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-Komisja-Europejska-zgodzila-sie-na-przejecie-Nexery-przez-Orange-i-APG-9186349.html",
-      "title": "Orange i APG mogą przejąć Nexerę. Jest zgoda Komisji Europejskiej Komisja Europejska poinformowała w poniedziałek, że zgodziła się na przejęcie firmy Nexera, hurtowego operatora sieci światłowodowej w Polsce, przez operatora detalicznego Orange i holenderski fundusz APG.",
-      "content_html": "",
-      "date_published": "2026-08-24T15:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-lider-tuz-przed-ostatnia-prosta-Tu-nie-ma-jednego-przepisu-na-zyski-9186303.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-lider-tuz-przed-ostatnia-prosta-Tu-nie-ma-jednego-przepisu-na-zyski-9186303.html",
-      "title": "WAKACJE NA GIEŁDZIE Nowy lider tuż przed ostatnią prostą. Tu nie ma jednego przepisu na zyski Przed nami ostatni tydzień konkursu Wakacje na Giełdzie, a emocje rosną. W zestawieniu najlepszych graczy właśnie doszło do sporych przetasowań. Co ciekawe, każdy z trzech uczestników plasujących się aktualnie na podium zastosował całkowicie odmienną strategię inwestycyjną – co potwierdza, że w naszym konkursie, podobnie jak w realnych inwestycjach, nie ma jednego idealnego sposobu na zyski. Jaka strategie okaże się zwycięską na mecie, 31 sierpnia?",
-      "content_html": "",
-      "date_published": "2026-08-24T14:47:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
