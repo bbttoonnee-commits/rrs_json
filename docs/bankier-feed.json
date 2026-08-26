@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-III-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9187695.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AB-w-III-kwartale-2025-26-vs-konsensus-PAP-Biznes-tabela-9187695.html",
+      "title": "Wyniki AB w III kwartale 2025/26 vs konsensus PAP Biznes (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki AB w trzecim kwartale 2025/26 oraz ich odniesienie do konsensusu PAP Biznes i wyników poprzednich okresów.",
+      "date_published": "2026-08-26T23:20:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rosja-chce-zintensyfikowac-ataki-na-Ukraine-Rozwaza-bron-atomowa-9187655.html",
       "url": "https://www.bankier.pl/wiadomosc/Rosja-chce-zintensyfikowac-ataki-na-Ukraine-Rozwaza-bron-atomowa-9187655.html",
       "title": "Rosja chce zintensyfikować ataki na Ukrainę. Rozważa broń atomową",
@@ -135,13 +142,6 @@
       "title": "Trzaskowski otworzył Campus Polska Przyszłości. „Jest przede wszystkim dla młodych ludzi”",
       "content_html": "Rozpoczynający się w środę w Olsztynie Campus Polska Przyszłości to największy tego typu festiwal polityczno-społeczny w naszej części Europy; ma przede wszystkim pomóc młodym ludziom zaangażować się społecznie i politycznie - podkreślił...",
       "date_published": "2026-08-26T18:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dorota-R-z-aktem-oskarzenia-Chodzi-o-reklamowanie-suplementow-jako-lekow-9187547.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dorota-R-z-aktem-oskarzenia-Chodzi-o-reklamowanie-suplementow-jako-lekow-9187547.html",
-      "title": "Dorota R. z aktem oskarżenia. Chodzi o reklamowanie suplementów jako leków",
-      "content_html": "Do Sądu Rejonowego dla Warszawy-Śródmieścia skierowany został akt oskarżenia przeciwko Dorocie R. Chodzi o przypisywanie właściwości leczniczych produktowi niespełniającemu wymogów dla leku - poinformował w środę prokurator Marek Marciniak...",
-      "date_published": "2026-08-26T17:55:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Szef-Kancelarii-Prezydenta-Serial-Zondacrypto-rozpoczal-na-dobre-emisje-za-rzadow-Donalda-Tuska-9187560.html",
@@ -695,13 +695,6 @@
       "title": "Orlen rozpoczyna produkcję z trzech nowych złóż w Norwegii",
       "content_html": "Orlen Upstream Norway, wraz z partnerami koncesyjnymi, rozpoczął wydobycie gazu ze złoża Idun Nord na Morzu Norweskim. W ciągu kilku następnych tygodni spółka uruchomi produkcję z dwóch kolejnych – Alve Nord i Orn - poinformowała spółka...",
       "date_published": "2026-08-26T09:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliony-jaj-wycofane-przez-salmonelle-Sluzby-ostrzegaja-konsumentow-9187180.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliony-jaj-wycofane-przez-salmonelle-Sluzby-ostrzegaja-konsumentow-9187180.html",
-      "title": "Miliony jaj wycofane przez salmonellę. Służby ostrzegają konsumentów",
-      "content_html": "Co najmniej 306 osób w Belgii zakaziło się salmonellą po spożyciu jaj pochodzących z fermy drobiu we Flandrii - poinformowała belgijska agencja ds. bezpieczeństwa żywności (AFSCA). Według portalu RTL Info skażone jaja mogły trafić również...",
-      "date_published": "2026-08-26T09:12:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
