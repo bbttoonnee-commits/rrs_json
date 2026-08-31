@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Glowni-akcjonariusze-ZUK-Staporkow-odpowiedza-na-wezwanie-do-sprzedazy-akcji-9190013.html",
+      "url": "https://www.bankier.pl/wiadomosc/Glowni-akcjonariusze-ZUK-Staporkow-odpowiedza-na-wezwanie-do-sprzedazy-akcji-9190013.html",
+      "title": "Główni akcjonariusze ZUK Stąporków odpowiedzą na wezwanie do sprzedaży akcji",
+      "content_html": "Główni akcjonariusze Zakładów Urządzeń Kotłowych Stąporków zadeklarowali, że odpowiedzą na wezwanie do sprzedaży akcji, które ma ogłosić spółka Boro - poinformował ZUK Stąporków w komunikacie. Wzywający zaoferuje za jedną akcję...",
+      "date_published": "2026-08-31T23:40:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-wnioskuje-o-przedluzenie-terminu-na-zlozenie-ostatecznych-propozycji-ukladowych-do-15-IX-9189986.html",
       "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-wnioskuje-o-przedluzenie-terminu-na-zlozenie-ostatecznych-propozycji-ukladowych-do-15-IX-9189986.html",
       "title": "PKP Cargo wnioskuje o przedłużenie terminu na złożenie ostatecznych propozycji układowych do 15 IX",
@@ -142,6 +149,20 @@
       "title": "Nauczyciele wyszli na ulice. Chcą powiązania pensji ze średnią krajową",
       "content_html": "Obietnice już mamy, teraz chcemy deklaracji – manifestował w poniedziałek ZNP przed KPRM. Domaga się uchwalenia inicjatywy obywatelskiej dot. wynagrodzeń nauczycieli. Młodzi podkreślali, że chcą zostać w zawodzie, ale samo powołanie nie wystarczy...",
       "date_published": "2026-08-31T17:57:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-pierwszy-raz-przy-stole-G20-Domanski-i-Glapinski-w-Asheville-9189837.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-pierwszy-raz-przy-stole-G20-Domanski-i-Glapinski-w-Asheville-9189837.html",
+      "title": "Polska pierwszy raz przy stole G20. Domański i Glapiński w Asheville",
+      "content_html": "W Asheville w Karolinie Północnej rozpoczęły się w poniedziałek obrady spotkania ministrów finansów i szefów banków centralnych G20. W spotkaniu uczestniczą m.in. minister finansów Andrzej Domański i prezes NBP Adam Glapiński.",
+      "date_published": "2026-08-31T17:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czas-gazu-i-ropy-jeszcze-sie-nie-skonczyl-Przed-nami-Polski-Kongres-Naftowy-i-Gazowniczy-9189827.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czas-gazu-i-ropy-jeszcze-sie-nie-skonczyl-Przed-nami-Polski-Kongres-Naftowy-i-Gazowniczy-9189827.html",
+      "title": "Czas gazu i ropy jeszcze się nie skończył. Przed nami Polski Kongres Naftowy i Gazowniczy",
+      "content_html": "O roli ropy i gazu w stabilizowaniu systemu energetycznego, gospodarki i regionu przed erą atomu dyskutować będą eksperci podczas Polskiego Kongresu Naftowego i Gazowniczego, który odbędzie się w październiku w Warszawie",
+      "date_published": "2026-08-31T16:52:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/USA-potroja-produkcje-pociskow-Patriot-Jest-nowy-kontrakt-9189818.html",
@@ -681,13 +702,6 @@
       "title": "Ukraina testuje odrzutowe drony przechwytujące. Mają polować na Shahedy",
       "content_html": "Minister obrony Ukrainy Jewhenij Chmara poinformował o testowaniu czterech dronów przechwytujących o napędzie odrzutowym, które mają zwalczać rosyjskie odrzutowe bezzałogowce typu Shahed. Jego wypowiedź ze spotkania z dziennikarzami przytoczyła...",
       "date_published": "2026-08-31T08:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Islandia-mowi-nie-Brukseli-przy-rekordowej-frekwencji-Temat-zamrozony-co-najmniej-do-2028-roku-9189324.html",
-      "url": "https://www.bankier.pl/wiadomosc/Islandia-mowi-nie-Brukseli-przy-rekordowej-frekwencji-Temat-zamrozony-co-najmniej-do-2028-roku-9189324.html",
-      "title": "Islandia mówi „nie” Brukseli przy rekordowej frekwencji. Temat zamrożony co najmniej do 2028 roku",
-      "content_html": "Przeciwnicy wznowienia przez Islandię negocjacji akcesyjnych z UE wygrali w referendum – poinformował w niedzielę islandzki nadawca publiczny RUV, powołując się na oficjalne, ostateczne wyniki głosowania. Oznacza to, że kraj pozostanie na na...",
-      "date_published": "2026-08-31T07:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
