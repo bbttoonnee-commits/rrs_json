@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szalony-wyscig-wygrywaja-kryptowaluty-Short-na-polprzewodniki-tez-sie-oplacil-9190449.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szalony-wyscig-wygrywaja-kryptowaluty-Short-na-polprzewodniki-tez-sie-oplacil-9190449.html",
+      "title": "PORTFEL GWIAZD Szalony wyścig wygrywają kryptowaluty. Short na półprzewodniki też się opłacił Giełdowe lato 2026 roku z pewnością nie przypominało sezonu ogórkowego. Na globalnych rynkach finansowych obfitowało ono w zwroty akcji i silne impulsy, które podbijały notowania indeksów akcji, cen złota, czy rentowności obligacji. W tym zmiennym otoczeniu niełatwo było o dwucyfrową stopę zwrotu liczoną przecież za dwa miesiące wakacyjnej edycji Portfela Gwiazd, ale jak pokazują jego wyniki, aby znaleźć się na podium, był to warunek sine qua non.",
+      "content_html": "",
+      "date_published": "2026-09-02T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-sierpniu-drugi-BoFA-9190622.html",
       "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-sierpniu-drugi-BoFA-9190622.html",
       "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w sierpniu, drugi BoFA Goldman Sachs w sierpniu 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
@@ -387,27 +394,6 @@
       "title": "InPost miał w II kwartale 1,04 mld zł skorygowanej EBITDA, lekko powyżej konsensusu Grupa InPost zanotowała w drugim kwartale 2026 roku 1,04 mld zł skorygowanej EBITDA, o 4,4 proc. więcej niż przed rokiem - poinformowała spółka w komunikacie. Wynik jest o 2,4 proc. lepszy od konsensusu PAP Biznes.",
       "content_html": "",
       "date_published": "2026-08-31T07:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-mial-39-8-mln-zl-zysku-netto-w-II-kw-portfel-zamowien-wynosi-8-66-mld-zl-9189441.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polimex-Mostostal-mial-39-8-mln-zl-zysku-netto-w-II-kw-portfel-zamowien-wynosi-8-66-mld-zl-9189441.html",
-      "title": "Polimex Mostostal poniżej oczekiwań analityków. Portfel zamówień przekracza 8,6 mld zł Portfel zamówień grupy Polimex Mostostal, pomniejszony o sprzedaż przypadającą na konsorcjantów, wynosi 8,66 mld zł - podał Polimex w raporcie za pierwsze półrocze 2026 r. Polimex Mostostal w drugim kwartale 2026 r. miał 39,8 mln zł zysku netto j.d., podczas gdy analitycy oczekiwali 41,4-48,3 mln zł zysku..",
-      "content_html": "",
-      "date_published": "2026-08-31T06:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Akcje-na-gieldzie-a-smierc-inwestora-Gdzie-trafia-Twoje-udzialy-9188710.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-od-kuchni-Akcje-na-gieldzie-a-smierc-inwestora-Gdzie-trafia-Twoje-udzialy-9188710.html",
-      "title": "Giełda od kuchni. Akcje na giełdzie a śmierć inwestora. Gdzie trafią Twoje udziały? W przeciwieństwie do fizycznej gotówki czy nieruchomości, akcje zapisane na rachunku maklerskim mają formę wyłącznie cyfrową. Po śmierci właściciela papiery wartościowe nie wyparowują jednak z serwerów ani nie przechodzą na własność biura maklerskiego. Wyjaśniamy, jak przepisy prawa chronią portfel inwestycyjny zmarłego i jak wygląda droga spadkobierców do dziedziczenia cyfrowych aktywów.",
-      "content_html": "",
-      "date_published": "2026-08-31T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spadki-na-gieldzie-czyli-o-dziedziczeniu-akcji-Co-sie-dzieje-z-kontem-maklerskim-po-smierci-inwestora-9188737.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spadki-na-gieldzie-czyli-o-dziedziczeniu-akcji-Co-sie-dzieje-z-kontem-maklerskim-po-smierci-inwestora-9188737.html",
-      "title": "Spadki na giełdzie, czyli o dziedziczeniu akcji. Co się dzieje z kontem maklerskim po śmierci inwestora? Pan Jan inwestował na giełdzie i zmarł, a jego spadkobiercy nie wiedzą w jakim domu maklerskim znajdował się jego rachunek - co powinni zrobić, by to ustalić? Pani Zofia zostawiła bliskim w spadku pokaźną sumę akcji, ale czy znając jej loginy, spadkobiercy mogą po prostu sprzedać jej papiery wartościowe i wypłacić pieniądze? W tym artykule opisujemy zawiłości związane z dziedziczeniem giełdowych aktywów.",
-      "content_html": "",
-      "date_published": "2026-08-31T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
