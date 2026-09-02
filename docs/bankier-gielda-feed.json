@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-XTB-sprzedal-w-ABB-8-proc-akcji-spolki-po-160-zl-za-sztuke-9191304.html",
+      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-XTB-sprzedal-w-ABB-8-proc-akcji-spolki-po-160-zl-za-sztuke-9191304.html",
+      "title": "Akcjonariusz XTB sprzedał w ABB 8 proc. akcji spółki, po 160 zł za sztukę XX ZW Investment Group w ramach zakończonego w środę procesu przyspieszonej budowy księgi popytu (ABB) sprzedał 8 proc. akcji giełdowej spółki XTB, po cenie 160 zł za sztukę - poinformował XTB w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-09-03T00:32:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-EBITDA-w-II-kwartale-na-294-mln-zl-rynek-liczyl-na-wiecej-opis-9191294.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-EBITDA-w-II-kwartale-na-294-mln-zl-rynek-liczyl-na-wiecej-opis-9191294.html",
+      "title": "Grupa Azoty szacuje EBITDA w II kwartale na 294 mln zł, rynek liczył na więcej (opis) Grupa Azoty wstępnie szacuje, że jej wynik EBITDA w drugim kwartale wyniósł 294 mln zł, co oznacza poprawę rok do roku o 365 mln zł - poinformowała spółka w komunikacie. Ankietowani przez PAP Biznes analitycy spodziewali się wyniku EBITDA na poziomie 347,1 mln zł.",
+      "content_html": "",
+      "date_published": "2026-09-02T22:42:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-wynik-EBITDA-w-II-kwartale-na-294-mln-zl-rynek-liczyl-na-wiecej-9191293.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-wynik-EBITDA-w-II-kwartale-na-294-mln-zl-rynek-liczyl-na-wiecej-9191293.html",
       "title": "Grupa Azoty szacuje wynik EBITDA w II kwartale na 294 mln zł, rynek liczył na więcej Grupa Azoty wstępnie szacuje, że jej wynik EBITDA w drugim kwartale wyniósł 294 mln zł, co oznacza poprawę rok do roku o 365 mln zł - poinformowała spółka w komunikacie. Ankietowani przez PAP Biznes analitycy spodziewali się wyniku EBITDA na poziomie 347,1 mln zł.",
@@ -429,13 +443,6 @@
       "title": "Rząd obejdzie manewr prezydenta z ekstrapodatkiem? W grę zaczyna wchodzić dywidenda nadzwyczajna z Orlenu Jeśli nie uda się z podatkiem od nadmiarowych zysków spółek paliwowych, rząd może skorzystać z innej drogi, aby pozyskać miliardy złotych z Orlenu. Najnowszy projekt ustawy budżetowej zdradza gigantyczny wzrost planowanych dochodów z tytułu dywidend od spółek Skrabu Państwa. Zacierać ręce mogą akcjonariusze Orlenu bo to oznacza, że dywidenda nadzwyczajna od paliwowgo giganta staje się coraz bradziej prawdopodobna.",
       "content_html": "",
       "date_published": "2026-09-01T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-Iran-Wall-Street-reaguje-na-wymiane-ognia-Ropa-w-gore-a-stopy-moga-pojsc-wyzej-9190017.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-Iran-Wall-Street-reaguje-na-wymiane-ognia-Ropa-w-gore-a-stopy-moga-pojsc-wyzej-9190017.html",
-      "title": "USA-Iran: Wall Street reaguje na wymianę ognia. Ropa w górę, a stopy mogą pójść wyżej? Amerykańskie giełdy spadły w poniedziałek po tym, jak po raz pierwszy od miesiąca doszło do wymiany ognia między USA a Iranem. Główne indeksy zamknęły jednak cały sierpień na plusach.",
-      "content_html": "",
-      "date_published": "2026-08-31T23:23:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
