@@ -8,14 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Thu, 03 Sep 2026 22:50:00 +0200</lastBuildDate>
-    <item>
-      <title>Tyle paczkomatów ma InPost. Firma podała dane</title>
-      <link>https://www.bankier.pl/wiadomosc/Grupa-InPost-ma-30-tys-paczkomatow-w-Polsce-i-70-tys-w-calej-Europie-9191444.html</link>
-      <description>Grupa InPost ma 100 tys. punktów Out-of-Home (OOH) w całej Europie, z czego 70 tys. stanowią automaty paczkowe. W samej Polsce liczba paczkomatów wynosi 30 tys. sztuk - poinformowała spółka w komunikacie.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Grupa-InPost-ma-30-tys-paczkomatow-w-Polsce-i-70-tys-w-calej-Europie-9191444.html</guid>
-      <pubDate>Thu, 03 Sep 2026 12:11:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Thu, 03 Sep 2026 23:12:00 +0200</lastBuildDate>
     <item>
       <title>Sabotaż w Niemczech? Ładunki zapalające pod siedzibami firm zbrojeniowych</title>
       <link>https://www.bankier.pl/wiadomosc/Sabotaz-w-Niemczech-Ladunki-zapalajace-pod-siedzibami-firm-zbrojeniowych-9191399.html</link>
@@ -708,6 +701,13 @@
       <description>Poszerzanie współpracy z mediami, kontynuowanie pracy nad podstawą programową dla dwóch ekonomicznych przedmiotów w szkołach podstawowych i ponadpodstawowych - to niektóre z działań, które zapowiadają przedstawiciele Krajowego Centrum Edukacji...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Powstaje-polski-model-rozwoju-edukacji-ekonomicznej-i-finansowej-9191943.html</guid>
       <pubDate>Thu, 03 Sep 2026 22:50:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>Wall Street w górę. Dow Jones miał najlepszy dzień od miesiąca</title>
+      <link>https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Dow-Jones-mial-najlepszy-dzien-od-miesiaca-9191947.html</link>
+      <description>W czwartek akcje na amerykańskich giełdach poszły w górę, indeks Dow Jones zanotował najlepszy dzień od miesiąca, a rentowności obligacji skarbowych spadły, gdyż inwestorzy nabrali nadziei, że Rezerwa Federalna pozostawi stopy procentowe bez...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Dow-Jones-mial-najlepszy-dzien-od-miesiaca-9191947.html</guid>
+      <pubDate>Thu, 03 Sep 2026 23:12:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Dow-Jones-mial-najlepszy-dzien-od-miesiaca-9191947.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Dow-Jones-mial-najlepszy-dzien-od-miesiaca-9191947.html",
+      "title": "Wall Street w górę. Dow Jones miał najlepszy dzień od miesiąca W czwartek akcje na amerykańskich giełdach poszły w górę, indeks Dow Jones zanotował najlepszy dzień od miesiąca, a rentowności obligacji skarbowych spadły, gdyż inwestorzy nabrali nadziei, że Rezerwa Federalna pozostawi stopy procentowe bez zmian w tym miesiącu.",
+      "content_html": "",
+      "date_published": "2026-09-03T22:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Powstaje-polski-model-rozwoju-edukacji-ekonomicznej-i-finansowej-9191943.html",
       "url": "https://www.bankier.pl/wiadomosc/Powstaje-polski-model-rozwoju-edukacji-ekonomicznej-i-finansowej-9191943.html",
       "title": "Powstaje polski model rozwoju edukacji ekonomicznej i finansowej Poszerzanie współpracy z mediami, kontynuowanie pracy nad podstawą programową dla dwóch ekonomicznych przedmiotów w szkołach podstawowych i ponadpodstawowych - to niektóre z działań, które zapowiadają przedstawiciele Krajowego Centrum Edukacji Ekonomicznej w przyszłym roku.",
@@ -478,13 +485,6 @@
       "title": "Nowa stawka PIT 24 proc. uderzy w ulgę na IKZE. Na tej samej wpłacie można odzyskać o ponad 900 zł mniej Od 2027 r. według zapowiedzi rządzących ma zmienić się skala podatkowa PIT. Pierwszy próg wzrośnie ze 120 tys. do 130 tys. zł, a pomiędzy stawkami 12 i 32 proc. pojawi się nowa stawka 24 proc. Reforma obniży podatek milionom osób, ale ma też efekt uboczny: dla części oszczędzających zmniejszy podatkową korzyść z wpłat na IKZE. Przy maksymalnej wpłacie różnica może być odczuwalna.",
       "content_html": "",
       "date_published": "2026-09-02T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-sierpniu-drugi-BoFA-9190622.html",
-      "url": "https://www.bankier.pl/wiadomosc/Goldman-Sachs-liderem-obrotow-na-rynku-akcji-GPW-w-sierpniu-drugi-BoFA-9190622.html",
-      "title": "Goldman Sachs liderem obrotów na rynku akcji GPW w sierpniu, drugi BoFA Goldman Sachs w sierpniu 2026 roku był liderem obrotów na rynku akcji w transakcjach sesyjnych GPW. Na drugim miejscu znalazł się Bank of America Securities - podała GPW na stronie internetowej.",
-      "content_html": "",
-      "date_published": "2026-09-01T22:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

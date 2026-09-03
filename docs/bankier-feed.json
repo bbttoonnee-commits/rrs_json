@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Dow-Jones-mial-najlepszy-dzien-od-miesiaca-9191947.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-w-gore-Dow-Jones-mial-najlepszy-dzien-od-miesiaca-9191947.html",
+      "title": "Wall Street w górę. Dow Jones miał najlepszy dzień od miesiąca",
+      "content_html": "W czwartek akcje na amerykańskich giełdach poszły w górę, indeks Dow Jones zanotował najlepszy dzień od miesiąca, a rentowności obligacji skarbowych spadły, gdyż inwestorzy nabrali nadziei, że Rezerwa Federalna pozostawi stopy procentowe bez...",
+      "date_published": "2026-09-03T23:12:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Powstaje-polski-model-rozwoju-edukacji-ekonomicznej-i-finansowej-9191943.html",
       "url": "https://www.bankier.pl/wiadomosc/Powstaje-polski-model-rozwoju-edukacji-ekonomicznej-i-finansowej-9191943.html",
       "title": "Powstaje polski model rozwoju edukacji ekonomicznej i finansowej",
@@ -694,13 +701,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Sabotaz-w-Niemczech-Ladunki-zapalajace-pod-siedzibami-firm-zbrojeniowych-9191399.html",
       "title": "Sabotaż w Niemczech? Ładunki zapalające pod siedzibami firm zbrojeniowych",
       "content_html": "Nieudaną próbą podpalenia zakończyło się wyrzucenie ładunków zapalających z samochodu w monachijskiej dzielnicy Berg am Laim, gdzie znajdują się siedziby firm zbrojeniowych Helsing oraz Rohde & Schwarz - powiadomił w czwartek dziennik...",
-      "date_published": "2026-09-03T12:11:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-InPost-ma-30-tys-paczkomatow-w-Polsce-i-70-tys-w-calej-Europie-9191444.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-InPost-ma-30-tys-paczkomatow-w-Polsce-i-70-tys-w-calej-Europie-9191444.html",
-      "title": "Tyle paczkomatów ma InPost. Firma podała dane",
-      "content_html": "Grupa InPost ma 100 tys. punktów Out-of-Home (OOH) w całej Europie, z czego 70 tys. stanowią automaty paczkowe. W samej Polsce liczba paczkomatów wynosi 30 tys. sztuk - poinformowała spółka w komunikacie.",
       "date_published": "2026-09-03T12:11:00+02:00"
     }
   ],
