@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/73-proc-Polakow-korzysta-z-social-mediow-Tylko-czy-az-9191994.html",
+      "url": "https://www.bankier.pl/wiadomosc/73-proc-Polakow-korzysta-z-social-mediow-Tylko-czy-az-9191994.html",
+      "title": "73 proc. Polaków korzysta z social mediów. Tylko czy aż?",
+      "content_html": "Z portali społecznościowych korzysta 73 proc. Polaków – wynika z badania IBRiS dla PAP. Według sondażu dominują ludzie młodzi oraz wyborcy Razem, Grzegorza Brauna i KO. Autor raportu Marcin Duma dodaje, że za to starsi chętniej dzielą się...",
+      "date_published": "2026-09-06T19:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Noblistka-Dziennikarstwo-jest-antidotum-na-tyranie-9191929.html",
       "url": "https://www.bankier.pl/wiadomosc/Noblistka-Dziennikarstwo-jest-antidotum-na-tyranie-9191929.html",
       "title": "Noblistka: Dziennikarstwo jest antidotum na tyranię",
@@ -424,6 +431,13 @@
       "date_published": "2026-09-05T18:20:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-za-wschodnia-granica-RCB-ostrzeglo-mieszkancow-dwoch-wojewodztw-9192691.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-atak-za-wschodnia-granica-RCB-ostrzeglo-mieszkancow-dwoch-wojewodztw-9192691.html",
+      "title": "Rosyjski atak za wschodnią granicą. RCB ostrzegło mieszkańców dwóch województw",
+      "content_html": "W sobotę Rządowe Centrum Bezpieczeństwa ostrzegło mieszkańców Lubelskiego i Podkarpackiego wz. z atakami powietrznymi Rosji na Ukrainę. Alerty odwołano ok. godz. 16. Jak wyjaśnia RCB, część osób mogła dostać tylko alert o odwołaniu, bo...",
+      "date_published": "2026-09-05T17:47:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zjazd-Zwiazku-Polakow-na-Bialorusi-przelozony-Powodem-wzgledy-bezpieczenstwa-9192688.html",
       "url": "https://www.bankier.pl/wiadomosc/Zjazd-Zwiazku-Polakow-na-Bialorusi-przelozony-Powodem-wzgledy-bezpieczenstwa-9192688.html",
       "title": "Zjazd Związku Polaków na Białorusi przełożony. Powodem względy bezpieczeństwa",
@@ -688,13 +702,6 @@
       "title": "Afera z dotacjami uderza w partię Farage'a. Konferencję Reform UK zdominował skandal",
       "content_html": "Główny dzień konferencji Reform UK Nigela Farage'a zdominowała sprawa nagrań sugerujących, że politycy partii chcieli ominąć prawo ws. dotacji. Farage zaprzeczył zarzutom. Wraz z Jordanem Bardellą z francuskiego Zjednoczenia Narodowego zadeklarowali...",
       "date_published": "2026-09-05T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polski-SAFE-0-proc-coraz-blizej-Minister-finansow-komentuje-projekt-PSL-9192572.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polski-SAFE-0-proc-coraz-blizej-Minister-finansow-komentuje-projekt-PSL-9192572.html",
-      "title": "Polski „SAFE 0 proc.” coraz bliżej? Minister finansów komentuje projekt PSL",
-      "content_html": "Projekt PSL ws. „SAFE 0 proc.” wymaga doprecyzowania, ale ze strony szefa MON, wicepremiera i lidera Ludowców Władysława Kosiniaka-Kamysza widać gotowość do dyskusji - powiedział w piątek minister finansów i gospodarki Andrzej Domański...",
-      "date_published": "2026-09-05T09:47:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
