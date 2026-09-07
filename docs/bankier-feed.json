@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Skandal-w-Paryzu-Wieza-Eiffla-zamknieta-po-nakazie-kobiety-maja-stac-sie-niewidzialne-9193401.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skandal-w-Paryzu-Wieza-Eiffla-zamknieta-po-nakazie-kobiety-maja-stac-sie-niewidzialne-9193401.html",
+      "title": "Skandal w Paryżu. Wieża Eiffla zamknięta po nakazie: kobiety mają stać się niewidzialne",
+      "content_html": "Wieża Eiffla w Paryżu została w poniedziałek zamknięta z powodu strajku pracowników, którzy w ten sposób zaprotestowali przeciwko wykluczeniu kobiet z pracy na tym obiekcie podczas wizyty hinduskiej religijnej delegacji, która miała miejsce...",
+      "date_published": "2026-09-07T21:29:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kuba-na-skraju-ciemnosci-i-kryzysu-Odrzuca-jednak-rozmowy-z-Waszyngtonem-9193398.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kuba-na-skraju-ciemnosci-i-kryzysu-Odrzuca-jednak-rozmowy-z-Waszyngtonem-9193398.html",
+      "title": "Kuba na skraju ciemności i kryzysu. Odrzuca jednak rozmowy z Waszyngtonem",
+      "content_html": "Minister spraw zagranicznych Kuby Bruno Rodriguez oświadczył w poniedziałek, że władze w Hawanie nie prowadzą obecnie „żadnych negocjacji ze Stanami Zjednoczonymi, ani nie ma planów ewentualnych przyszłych rozmów”.",
+      "date_published": "2026-09-07T21:15:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Bedzie-zaprzysiezenie-Berka-na-sedziego-TK-Szefernaker-Sa-duze-watpliwosci-9193099.html",
       "url": "https://www.bankier.pl/wiadomosc/Bedzie-zaprzysiezenie-Berka-na-sedziego-TK-Szefernaker-Sa-duze-watpliwosci-9193099.html",
       "title": "Będzie zaprzysiężenie Berka na sędziego TK? Szefernaker: Są duże wątpliwości",
@@ -688,20 +702,6 @@
       "title": "Pokój na Ukrainie przed zimą? Wysłannicy Trumpa rozmawiali z Putinem i Zełenskim",
       "content_html": "Przedstawiciele prezydenta USA Donalda Trumpa, Steve Witkoff i Jared Kushner, rozmawiali w niedzielę w Kijowie z prezydentem Ukrainy Wołodymyrem Zełenskim. W sobotę byli w Moskwie, gdzie spotkali się z przywódcą Rosji Władimirem Putinem. Po obu...",
       "date_published": "2026-09-07T07:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ekstremalne-upaly-w-USA-a-na-Hawajach-alarm-Huragan-Lowell-zbliza-sie-do-wysp-9192897.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ekstremalne-upaly-w-USA-a-na-Hawajach-alarm-Huragan-Lowell-zbliza-sie-do-wysp-9192897.html",
-      "title": "Ekstremalne upały w USA, a na Hawajach alarm. Huragan Lowell zbliża się do wysp",
-      "content_html": "Ekstremalne upały znów obejmują centralną część USA, gdzie temperatury mogą przekraczać 40 stopni C. Jednocześnie Hawaje przygotowują się na ulewne deszcze, powodzie i niebezpieczne fale wywołane przez huragan Lowell, który ma przejść...",
-      "date_published": "2026-09-07T07:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Efekt-domina-w-UE-Po-triumfie-AfD-w-Niemczech-skrajna-prawica-rosnie-w-sile-w-Hiszpanii-9192864.html",
-      "url": "https://www.bankier.pl/wiadomosc/Efekt-domina-w-UE-Po-triumfie-AfD-w-Niemczech-skrajna-prawica-rosnie-w-sile-w-Hiszpanii-9192864.html",
-      "title": "Efekt domina w UE. Po triumfie AfD w Niemczech, skrajna prawica rośnie w siłę w Hiszpanii",
-      "content_html": "Hiszpańska skrajnie prawicowa partia Vox może liczyć na ponad dwa razy więcej mandatów niż obecnie – wynika z sondażu dla dziennika „ABC” opublikowanego w niedzielę po exit-pollach w wyborach w Saksonii-Anhalcie zwycięskich dla prawicowej...",
-      "date_published": "2026-09-07T07:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
