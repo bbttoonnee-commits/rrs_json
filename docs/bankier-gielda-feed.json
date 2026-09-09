@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Spolki-zalezne-Zabki-zawarly-przedwstepna-umowe-sprzedazy-nieruchomosci-wart-transakcji-ok-110-mln-euro-9194114.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolki-zalezne-Zabki-zawarly-przedwstepna-umowe-sprzedazy-nieruchomosci-wart-transakcji-ok-110-mln-euro-9194114.html",
+      "title": "Spółki zależne Żabki zawarły przedwstępną umowę sprzedaży nieruchomości, wart. transakcji ok. 110 mln euro Spółki zależne Grupy Żabka, tj. Żabka BS oraz Kalestico Investments, zawarły z Unicorn, spółką będącą częścią grupy LCN Capital Partners, przedwstępną umowę sprzedaży nieruchomości, obejmującą sprzedaż dwóch centrów logistycznych wraz z powiązanymi składnikami majątkowymi - podała Żabka w komunikacie. Szacunkowa wartość transakcji to ok. 110 mln euro netto.",
+      "content_html": "",
+      "date_published": "2026-09-09T06:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-W-tle-obawy-o-AI-Amgen-zaciazyl-Dow-Jonesowi-9194066.html",
       "url": "https://www.bankier.pl/wiadomosc/Spadki-na-Wall-Street-W-tle-obawy-o-AI-Amgen-zaciazyl-Dow-Jonesowi-9194066.html",
       "title": "Spadki na Wall Street. W tle obawy o AI. Amgen zaciążył Dow Jonesowi Po wydłużonym weekendzie inwestorzy z Wall Street wrócili do pracy w nieprzesadni dobrych nastrojach. Rynek zaczyna się też skłaniać ku opinii, że w przyszłym tygodniu Rezerwa Federalna jednak podniesie stopy procentowe.",
@@ -408,27 +415,6 @@
       "title": "Na rynkach ropy duże wzrosty cen po ataku USA na irańskie tankowce Notowania ropy naftowej na świecie rosną po ataku USA na irańskie tankowce - podają maklerzy.",
       "content_html": "",
       "date_published": "2026-09-07T07:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-zaledwie-kilka-lat-zbudowali-firme-warta-wiecej-niz-SpaceX-Oferta-publiczna-Anthropic-ma-to-wkrotce-potwierdzic-9192384.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-zaledwie-kilka-lat-zbudowali-firme-warta-wiecej-niz-SpaceX-Oferta-publiczna-Anthropic-ma-to-wkrotce-potwierdzic-9192384.html",
-      "title": "W zaledwie kilka lat zbudowali firmę wartą więcej niż SpaceX. Oferta publiczna ma to wkrótce potwierdzić Amerykański gigant sztucznej inteligencji Anthropic szykuje się do wejścia na giełdę z wyceną, która może osiągnąć kwotę 2 bilionów dolarów i pobić historyczny rekord SpaceX. Spółka stojąca za modelem Claude zaliczyła gigantyczny skok rocznego tempa przychodów i stała się dla inwestorów nawet bardziej atrakcyjna niż OpenAI, od którego rewolucja sztucznej inteligencji się zaczęła. Cieniem na debiucie Anthropic rzucają się gigantyczne straty oraz konflikt z administracją Donalda Trumpa.",
-      "content_html": "",
-      "date_published": "2026-09-07T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-w-gronie-energetycznych-gigantow-Europy-Polski-czempion-podrozal-prawie-cztery-razy-9192134.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-w-gronie-energetycznych-gigantow-Europy-Polski-czempion-podrozal-prawie-cztery-razy-9192134.html",
-      "title": "Orlen w gronie energetycznych gigantów Europy. Polski czempion podrożał prawie cztery razy Grupa Orlen wyrosła na niekwestionowanego lidera sektora multienergetycznego w regionie Europy Środkowo-Wschodniej, ale coraz śmielej puka do drzwi grupy największych branżowych firm na Starym Kontynencie. Mimo że akcje polskiego giganta wypracowały przez ostatnie 20 miesięcy potężne zyski na giełdzie, wycena spółki wciąż oferuje dyskonto w stosunku do zachodnioeuropejskich konkurentów.",
-      "content_html": "",
-      "date_published": "2026-09-07T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezes-MLP-Group-W-ciagu-kilku-lat-podwoimy-wielkosc-firmy-Niemcy-daja-dwukrotnie-wyzsze-marze-9192269.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezes-MLP-Group-W-ciagu-kilku-lat-podwoimy-wielkosc-firmy-Niemcy-daja-dwukrotnie-wyzsze-marze-9192269.html",
-      "title": "ZOOM NA RYNKI Prezes MLP Group: W ciągu kilku lat podwoimy wielkość firmy. Niemcy dają dwukrotnie wyższe marże Notowany na GPW deweloper parków logistyczno-magazynowych notuje świetne wyniki finansowe i zapowiada podwojenie skali biznesu w nadchodzących latach. O strategii opierającej się na rynkach miejskich, ekspansji za zachodnią granicą, wpływie chińskiego e-commerce na rynek oraz planach powrotu do wypłaty dywidendy opowiada w studiu Bankier.tv prezes spółki Radosław T. Krochta.",
-      "content_html": "",
-      "date_published": "2026-09-07T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
