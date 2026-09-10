@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rynek-dlugu-zaczyna-panikowac-S-P500-najnizej-od-miesiaca-9195355.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-dlugu-zaczyna-panikowac-S-P500-najnizej-od-miesiaca-9195355.html",
+      "title": "Rynek długu zaczyna panikować. S&P500 najniżej od miesiąca Zwyżkujące notowania ropy naftowej stały się katalizatorem dla dalszej wyprzedaży obligacji skarbowych. A to zaniepokoiło inwestorów z Wall Street",
+      "content_html": "",
+      "date_published": "2026-09-10T22:05:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UniCredit-zatwierdzil-emisje-akcji-na-potrzeby-wezwania-na-Commerzbank-9195329.html",
+      "url": "https://www.bankier.pl/wiadomosc/UniCredit-zatwierdzil-emisje-akcji-na-potrzeby-wezwania-na-Commerzbank-9195329.html",
+      "title": "UniCredit podnosi kapitał. Nowe akcje posłużą do przejęcia Commerzbanku Rada dyrektorów UniCredit zdecydowała o podwyższeniu kapitału zakładowego banku poprzez emisję nowych akcji, które mają posłużyć do rozliczenia oferty przejęcia niemieckiego Commerzbanku - podał UniCredit w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-09-10T20:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rodzina-Solorz-Zak-zarwala-ugode-konczaca-wszystkie-spory-prawne-9195236.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rodzina-Solorz-Zak-zarwala-ugode-konczaca-wszystkie-spory-prawne-9195236.html",
+      "title": "Przełom w imperium Solorza. Rodzina kończy wszystkie spory sądowe Wszyscy członkowie rodziny Solorz-Żak zawarli poufną ugodę, kończącą wszystkie spory prawne - podał Cyfrowy Polsat w komunikacie z oświadczeniem. Jest to następstwem ostatecznych decyzji sądów w Liechtensteinie. Zygmunt Solorz podjął decyzję, że nie będzie aktywnie angażował się w bieżącą działalność spółek należących do grup TiVi i Solkomtel.",
+      "content_html": "",
+      "date_published": "2026-09-10T19:56:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Telestrada-zamierza-oglosic-wezwanie-do-zapisywania-sie-na-sprzedaz-506-592-akcji-spolki-w-cenie-25-12-zl-szt-9195302.html",
       "url": "https://www.bankier.pl/wiadomosc/Telestrada-zamierza-oglosic-wezwanie-do-zapisywania-sie-na-sprzedaz-506-592-akcji-spolki-w-cenie-25-12-zl-szt-9195302.html",
       "title": "Telestrada zamierza ogłosić wezwanie do zapisywania się na sprzedaż 506 592 akcji spółki w cenie 25,12 zł/szt. Telestrada, Cathetel, Hugore, Jacek Lichota, Alfred Lichota, oraz Krzysztof Lichota zamierzają ogłosić wezwanie do zapisywania się na sprzedaż 506.592 akcji spółki w cenie 25,12 zł za papier - podało Erste Biuro Maklerskie, podmiot pośredniczący. (PAP Biznes)",
@@ -37,13 +58,6 @@
       "title": "Diagnostyka podniosła ceny badań. Wolumen wzrósł o 2,6 proc. rdr Grupa Diagnostyka w pierwszym półroczu 2026 r. odnotowała wzrost wolumenu badań o 2,6 proc. rdr do poziomu 91,3 mln. Średnia cena badań wzrosła o 11,9 proc. rdr, w tym o 10 proc. rdr w diagnostyce laboratoryjnej - podała spółka w raporcie.",
       "content_html": "",
       "date_published": "2026-09-10T17:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rodzina-Solorz-Zak-zarwala-ugode-konczaca-wszystkie-spory-prawne-9195236.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rodzina-Solorz-Zak-zarwala-ugode-konczaca-wszystkie-spory-prawne-9195236.html",
-      "title": "Koniec sporu o imperium Solorza. Rodzina zawarła poufną ugodę Wszyscy członkowie rodziny Solorz-Żak zawarli poufną ugodę, kończącą wszystkie spory prawne - podał Cyfrowy Polsat w komunikacie z oświadczeniem. Jest to następstwem ostatecznych decyzji sądów w Liechtensteinie. Zygmunt Solorz podjął decyzję, że nie będzie aktywnie angażował się w bieżącą działalność spółek należących do grup TiVi i Solkomtel.",
-      "content_html": "",
-      "date_published": "2026-09-10T17:28:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Taniejace-obligacje-uderzyly-w-WIG20-Pogrom-na-walorach-KGHM-9195185.html",
