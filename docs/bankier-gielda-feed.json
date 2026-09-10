@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Polski-zloty-juz-nie-taki-mocny-Co-nam-mowi-zwrot-na-REER-9193057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polski-zloty-juz-nie-taki-mocny-Co-nam-mowi-zwrot-na-REER-9193057.html",
+      "title": "Koniec ery mocnego złotego? Ostatnie dwa takie przypadki źle się skończyły Przez poprzednie pół roku na polskim rynku walutowym doszło do odwrócenie bardzo silnego trendu realnej aprecjacji złotego. Poprzednie dwa takie przypadki nie skończyły się dla nas najlepiej.",
+      "content_html": "",
+      "date_published": "2026-09-10T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-powyzej-100-dolarow-a-Wall-Street-w-czerwieni-Wojna-o-tankowce-uderza-w-gieldy-9194703.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-powyzej-100-dolarow-a-Wall-Street-w-czerwieni-Wojna-o-tankowce-uderza-w-gieldy-9194703.html",
+      "title": "Ropa powyżej 100 dolarów, a Wall Street w czerwieni. Wojna uderza w giełdy Środowa sesja na Wall Street zakończyła się spadkami głównych indeksów, podczas gdy rentowności obligacji skarbowych wzrosły do najwyższego poziomu od listopada 2023 roku. Dow Jones zniżkuje trzeci dzień z rzędu.",
+      "content_html": "",
+      "date_published": "2026-09-09T23:58:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-cene-docelowa-dla-akcji-Atrem-do-71-9-zl-9194638.html",
       "url": "https://www.bankier.pl/wiadomosc/DM-BOS-obnizyl-cene-docelowa-dla-akcji-Atrem-do-71-9-zl-9194638.html",
       "title": "DM BOŚ obniżył cenę docelową dla akcji Atrem do 71,9 zł Analitycy DM BOŚ, w raporcie z 9 września, obniżyli cenę docelową akcji spółki Atrem w horyzoncie 12-miesięcznym do 71,9 zł z 81,2 zł poprzednio, nadal rekomendują \"kupuj\".",
@@ -415,27 +429,6 @@
       "title": "Bezdech Columbusa w „Czystym powietrzu”. Pozew na miliony, pożyczka od prezesa i zwrot w realizacji rządowego programu Columbus Energy przechodzi do zdecydowanego kontrataku i składa pozew przeciwko krakowskiemu WFOŚiGW, domagając się ponad 3 mln zł za zrealizowane inwestycje i poniesione straty. Spółka, po zabezpieczeniu 13,24 mln euro prywatnej pożyczki od prezesa Dawida Zielińskiego, radykalnie zmienia model operacyjny w programie „Czyste Powietrze” i oskarża urzędników o nieuczciwą konkurencję.",
       "content_html": "",
       "date_published": "2026-09-08T08:10:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OKI-moze-przyciagnac-miliardy-zlotych-Analitycy-szacuja-wplyw-nowego-programu-na-rynek-9193457.html",
-      "url": "https://www.bankier.pl/wiadomosc/OKI-moze-przyciagnac-miliardy-zlotych-Analitycy-szacuja-wplyw-nowego-programu-na-rynek-9193457.html",
-      "title": "OKI może przyciągnąć miliardy złotych. Analitycy szacują wpływ nowego programu na rynek Wchodzący w życie od 1 stycznia 2027 roku program Osobistych Kont Inwestycyjnych może przynieść w pierwszym roku funkcjonowania 2 mld zł napływów netto nowych środków na rynek kapitałowy i dodatkowe zakupy akcji za 0,3-0,6 mld zł - szacują analitycy Trigon DM w wrześniowym raporcie miesięcznym.",
-      "content_html": "",
-      "date_published": "2026-09-08T06:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-przedstawia-top-picks-na-wrzesien-zaleca-wieksza-ostroznosc-na-rynkach-9193460.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-przedstawia-top-picks-na-wrzesien-zaleca-wieksza-ostroznosc-na-rynkach-9193460.html",
-      "title": "Trigon DM przedstawia top picks na wrzesień, zaleca większą ostrożność na rynkach Analitycy Trigon DM w swoim raporcie miesięcznym przedstawili top picks na wrzesień. Wskazali oni łącznie 15 spółek. Ich zdaniem, chociaż sierpień był korzystny dla rynków akcji, to obecnie rośnie ryzyko korekty, więc zalecają większą ostrożność, przynajmniej do listopadowych wyborów w USA.",
-      "content_html": "",
-      "date_published": "2026-09-08T06:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Anatomia-zaufania-na-rynku-kapitalowym-Jak-budowac-skuteczne-relacje-inwestorskie-9192962.html",
-      "url": "https://www.bankier.pl/wiadomosc/Anatomia-zaufania-na-rynku-kapitalowym-Jak-budowac-skuteczne-relacje-inwestorskie-9192962.html",
-      "title": "Anatomia zaufania na rynku kapitałowym. Jak budować skuteczne relacje inwestorskie? O roli transparentności, dojrzałości polskiego rynku oraz sztuce rozmowy z inwestorami – nawet wtedy, gdy na trudne pytania brakuje prostej odpowiedzi – w studiu Bankier.pl rozmawiał Jakub Frejlich, dyrektor Biura Relacji Inwestorskich w ORLEN.",
-      "content_html": "",
-      "date_published": "2026-09-08T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
