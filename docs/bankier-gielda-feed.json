@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Golebia-podwyzka-stop-w-Fedzie-FOMC-nie-planuje-cyklu-zaciesnienia-polityki-9198025.html",
+      "url": "https://www.bankier.pl/wiadomosc/Golebia-podwyzka-stop-w-Fedzie-FOMC-nie-planuje-cyklu-zaciesnienia-polityki-9198025.html",
+      "title": "„Gołębia” podwyżka stóp w Fedzie. FOMC nie planuje cyklu zacieśnienia polityki Federalny Komitet Otwartego Rynku zdecydował się na pierwszą od ponad trzech lat podwyżkę stopy funduszy federalnych.Decyzja tym razem zapadła jednomyślnie.",
+      "content_html": "",
+      "date_published": "2026-09-16T20:22:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/The-Farm-51-Group-zlozyl-do-sadu-wniosek-o-ogloszenie-upadlosci-All-In-Games-9198228.html",
       "url": "https://www.bankier.pl/wiadomosc/The-Farm-51-Group-zlozyl-do-sadu-wniosek-o-ogloszenie-upadlosci-All-In-Games-9198228.html",
       "title": "The Farm 51 Group złożył do sądu wniosek o ogłoszenie upadłości All In! Games The Farm 51 Group złożył do Sądu Rejonowego dla Krakowa-Śródmieścia wniosek o ogłoszenie upadłości All In! Games w restrukturyzacji wraz z wnioskiem o zabezpieczenie - poinformowała spółka The Farm 51 Group w komunikacie.",
@@ -450,13 +457,6 @@
       "title": "Giełdowy batalion z GPW na branżowym zlocie. Kto ze swoją ofertą wybrał się na targi obronne? Podczas 34. edycji Międzynarodowego Salonu Przemysłu Obronnego (MSPO) wśród gigantów sektora obronnego nie zabrakło również polskich akcentów giełdowych. Liczna reprezentacja spółek notowanych na warszawskim parkiecie pokazała, że nowoczesna armia potrzebuje nie tylko ciężkiego sprzętu, ale też stali, czujników i komunikacji satelitarnej.",
       "content_html": "",
       "date_published": "2026-09-15T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Amerykanskie-obligacje-uderzyly-w-bariere-5-Wall-Street-odrobila-poczatkowe-straty-9196957.html",
-      "url": "https://www.bankier.pl/wiadomosc/Amerykanskie-obligacje-uderzyly-w-bariere-5-Wall-Street-odrobila-poczatkowe-straty-9196957.html",
-      "title": "Amerykańskie obligacje uderzyły w barierę 5%. Wall Street odrobiła początkowe straty Coraz wyższe ceny paliw i zwyżkujące rentowności obligacji skarbowych groziły, że będzie to mocno spadkowa sesja na Wall Street. Ale nowojorskie indeksy zdołały odrobić większość początkowych strat.",
-      "content_html": "",
-      "date_published": "2026-09-14T22:08:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
