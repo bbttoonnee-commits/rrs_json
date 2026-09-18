@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-opis-9199542.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-opis-9199542.html",
+      "title": "W wezwaniu na akcje InPostu inwestorzy zgłosili 89,81 proc. kapitału (opis) W zakończonym w piątek wezwaniu na akcje InPostu inwestorzy zgłosili chęć sprzedaży łącznie 448.981 akcji spółki, co stanowi 89,81 proc. kapitału - poinformował InPost w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-09-18T22:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-9199540.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-9199540.html",
+      "title": "W wezwaniu na akcje InPostu inwestorzy zgłosili 89,81 proc. kapitału W zakończonym w piątek wezwaniu na akcje InPostu inwestorzy zgłosili chęć sprzedaży łącznie 448.981 akcji spółki, co stanowi 89,81 proc. kapitału - poinformował InPost w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-09-18T22:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wyniki-Newagu-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9199456.html",
       "url": "https://www.bankier.pl/wiadomosc/Wyniki-Newagu-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9199456.html",
       "title": "Wyniki Newagu w II kw. 2026 roku vs. konsensus PAP Poniżej przedstawiamy wyniki Newagu w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
@@ -401,13 +415,6 @@
       "title": "Kto podbił rynek tego lata? Nagrodziliśmy najlepszych inwestorów w Wakacjach na Giełdzie Sebastian Furmanek w rankingu głównym i Mateusz Rogowski w kategorii ETF-ów to wielcy wygrani zakończonej niedawno trzeciej edycji konkursu Wakacje na Giełdzie. W miniony wtorek, podczas uroczystego finału w samym sercu warszawskiego parkietu, laureaci odebrali czeki symbolizujące nagrody pieniężne oraz pamiątkowe dyplomy.",
       "content_html": "",
       "date_published": "2026-09-17T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mocne-spadki-na-Wall-Street-po-decyzjach-Fed-Pierwsza-od-trzech-lat-podwyzka-stop-9198279.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mocne-spadki-na-Wall-Street-po-decyzjach-Fed-Pierwsza-od-trzech-lat-podwyzka-stop-9198279.html",
-      "title": "Mocne spadki na Wall Street po decyzjach Fed. Pierwsza od trzech lat podwyżka stóp Główne indeksy na Wall Street mocno spadły w środę w reakcji na podwyżkę stóp procentowych przez Fed i komentarze prezesa Fed. To pierwsza taka decyzja Rezerwy Federalnej od trzech lat, a prezes Kevin Warsh wielokrotnie podkreślał utrzymującą się inflację.",
-      "content_html": "",
-      "date_published": "2026-09-16T23:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

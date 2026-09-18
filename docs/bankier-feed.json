@@ -11,6 +11,20 @@
       "date_published": "2026-09-19T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-opis-9199542.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-opis-9199542.html",
+      "title": "W wezwaniu na akcje InPostu inwestorzy zgłosili 89,81 proc. kapitału (opis)",
+      "content_html": "W zakończonym w piątek wezwaniu na akcje InPostu inwestorzy zgłosili chęć sprzedaży łącznie 448.981 akcji spółki, co stanowi 89,81 proc. kapitału - poinformował InPost w komunikacie.",
+      "date_published": "2026-09-18T23:20:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-9199540.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-InPostu-inwestorzy-zglosili-89-81-proc-kapitalu-9199540.html",
+      "title": "W wezwaniu na akcje InPostu inwestorzy zgłosili 89,81 proc. kapitału",
+      "content_html": "W zakończonym w piątek wezwaniu na akcje InPostu inwestorzy zgłosili chęć sprzedaży łącznie 448.981 akcji spółki, co stanowi 89,81 proc. kapitału - poinformował InPost w komunikacie.",
+      "date_published": "2026-09-18T23:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Technologia-F-35-w-rekach-Pekinu-Kluczowa-czesc-wyladowala-w-Hongkongu-9199510.html",
       "url": "https://www.bankier.pl/wiadomosc/Technologia-F-35-w-rekach-Pekinu-Kluczowa-czesc-wyladowala-w-Hongkongu-9199510.html",
       "title": "Technologia F-35 w rękach Pekinu? Kluczowa część wylądowała w Hongkongu",
@@ -688,20 +702,6 @@
       "title": "Polska przegrywa robotyzacją. Świat instaluje rekordowe liczby robotów, u nas wzrost jest symboliczny",
       "content_html": "W 2025 r. w zakładach produkcyjnych w Polsce zainstalowano prawie 2,4 tys. nowych robotów przemysłowych, o 2 proc. więcej niż rok wcześniej – wynika z udostępnionych „Rzeczpospolitej” danych Międzynarodowej Federacji Robotyki (IFR). Wynik...",
       "date_published": "2026-09-18T07:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najmniej-slubow-od-wojny-i-rekord-intercyz-Polacy-zmieniaja-podejscie-do-malzenstwa-9198987.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najmniej-slubow-od-wojny-i-rekord-intercyz-Polacy-zmieniaja-podejscie-do-malzenstwa-9198987.html",
-      "title": "Najmniej ślubów od wojny i rekord intercyz. Polacy zmieniają podejście do małżeństwa",
-      "content_html": "Polacy ustanowili w 2025 r. dwa rekordy: zawarli najmniej od czasów powojennych małżeństw (133 tys.) i najwięcej umów majątkowych - informuje piątkowa „Rzeczpospolita”.",
-      "date_published": "2026-09-18T07:31:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Firmy-IT-hamuja-z-rekrutacja-Tylko-28-proc-planuje-zwiekszyc-zatrudnienie-9199004.html",
-      "url": "https://www.bankier.pl/wiadomosc/Firmy-IT-hamuja-z-rekrutacja-Tylko-28-proc-planuje-zwiekszyc-zatrudnienie-9199004.html",
-      "title": "Firmy IT hamują z rekrutacją. Tylko 28 proc. planuje zwiększyć zatrudnienie",
-      "content_html": "Zatrudnienia w branży IT planuje przeprowadzić 28 proc. firm, podczas gdy ponad połowa, bo 55 proc. nie chce wprowadzać zmian kadrowych - wynika z badania ManpowerGroup. Jak dodano, zatrudnienia w IT wyhamowują, podczas gdy cała polska gospodarka...",
-      "date_published": "2026-09-18T07:26:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
