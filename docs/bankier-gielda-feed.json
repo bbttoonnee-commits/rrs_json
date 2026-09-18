@@ -4,9 +4,16 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Saudyjczycy-Katarczycy-i-Emiratczycy-zainwestuja-24-mld-dolarow-w-przejecie-Warner-Bros-Discovery-9198979.html",
+      "url": "https://www.bankier.pl/wiadomosc/Saudyjczycy-Katarczycy-i-Emiratczycy-zainwestuja-24-mld-dolarow-w-przejecie-Warner-Bros-Discovery-9198979.html",
+      "title": "Saudyjczycy, Katarczycy i Emiratczycy zainwestują 24 mld dolarów w przejęcie Warner Bros. Discovery Amerykańska Federalna Komisja Łączności (FCC) zatwierdziła w czwartek wniosek o udział zagranicznych inwestorów w sfinansowaniu przejęcia Warner Bros. Discovery przez Paramount Skydance. Pieniądze mają wyłożyć fundusze z państw Zatoki Perskiej.",
+      "content_html": "",
+      "date_published": "2026-09-18T07:02:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Przyjmowanie-zapisow-w-wezwaniu-Alimentation-Couche-Tard-na-Zabka-Group-przedluzone-do-26-X-2026-r-9198973.html",
       "url": "https://www.bankier.pl/wiadomosc/Przyjmowanie-zapisow-w-wezwaniu-Alimentation-Couche-Tard-na-Zabka-Group-przedluzone-do-26-X-2026-r-9198973.html",
-      "title": "Przyjmowanie zapisów w wezwaniu Alimentation Couche-Tard na Zabka Group przedłużone do 26 X 2026 r. Przyjmowanie zapisów w wezwaniu Alimentation Couche-Tard na akcje Zabka Group zostało przedłużone do 26 października 2026 r. - poinformował pośredniczący w wezwaniu Ipopema Securities. Cena podana w wezwaniu pozostaje bez zmian.",
+      "title": "Przyjmowanie zapisów w wezwaniu Alimentation Couche-Tard na Zabka Group przedłużone Przyjmowanie zapisów w wezwaniu Alimentation Couche-Tard na akcje Zabka Group zostało przedłużone do 26 października 2026 r. - poinformował pośredniczący w wezwaniu Ipopema Securities. Cena podana w wezwaniu pozostaje bez zmian.",
       "content_html": "",
       "date_published": "2026-09-17T23:34:00+02:00"
     },
@@ -16,13 +23,6 @@
       "title": "Backlog Selvity na '26 wynosi 305,7 mln zł, mniej o 8,5 proc. rdr Backlog Selvity na 2026 r. wynosi 305,7 mln zł jest o 8,5 proc. niższy od backlogu opublikowanego rok wcześniej - podała spółka w raporcie. Spółka poinformowała o zmianach w zarządzie - rada nadzorcza Selvity powierzyła pełnienie funkcji prezesa zarządu Rafałowi Chwastowi, a dotychczasowemu prezesowi Bogusławowi Sieczkowskiemu funkcję wiceprezesa.",
       "content_html": "",
       "date_published": "2026-09-17T23:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9198969.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Selvity-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9198969.html",
-      "title": "Wyniki Selvity w II kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Selvity w drugm kwartale 2026 roku i ich odniesienie do konsensusu i poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-09-17T23:08:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tym-razem-nam-sie-upieklo-Wall-Street-w-gore-po-decyzji-Fedu-9198947.html",
@@ -485,41 +485,6 @@
       "title": "UOKiK stawia zarzuty L’Oréal Polska. \"Ocena A czy B nie oznacza braku szkodliwości\" Prezes UOKiK zakwestionował komunikację L’Oréal Polska dotyczącą właściwości środowiskowych kosmetyków Garnier i postawił spółce zarzut naruszania zbiorowych interesów konsumentów - podał UOKiK w komunikacie. Spółce grozi kara do 10 proc. obrotu.",
       "content_html": "",
       "date_published": "2026-09-16T08:45:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dziura-w-panstwowej-kasie-rosnie-zgodnie-z-planem-Analiza-wykonania-budzetu-9197534.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dziura-w-panstwowej-kasie-rosnie-zgodnie-z-planem-Analiza-wykonania-budzetu-9197534.html",
-      "title": "Dziura w państwowej kasie rośnie zgodnie z planem? Analiza wykonania budżetu Po sierpniu dochody budżetu państwa przekroczyły 387,2 mld zł, a wydatki wyniosły niemal 538,3 mld zł - poinformował we wtorek resort finansów. Zgodnie z szacunkowymi danymi o wykonaniu budżetu, deficyt wyniósł ok. 151 mld zł, czyli 55,6 proc. planu zapisanego w tegorocznym budżecie.",
-      "content_html": "",
-      "date_published": "2026-09-16T07:08:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zlozyla-zmienione-propozycje-ukladowe-9197684.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-zlozyla-zmienione-propozycje-ukladowe-9197684.html",
-      "title": "Będzie konwersja długu na akcje. Przełomowy dokument PKP Cargo trafił do sądu PKP Cargo w restrukturyzacji złożyła do Sądu Rejonowego dla m.st. Warszawy zmienione propozycje układowe w toczącym się postępowaniu sanacyjnym- podała spółka w komunikacie prasowym. Zmiany względem poprzedniej wersji dotyczą wprowadzenia mechanizmu dodatkowego zaspokojenia wierzycieli.",
-      "content_html": "",
-      "date_published": "2026-09-16T07:07:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-chce-pieniedzy-m-in-z-Orlenu-Bogucki-Koncerny-przerzuca-koszty-na-klientow-9197608.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-chce-pieniedzy-m-in-z-Orlenu-Bogucki-Koncerny-przerzuca-koszty-na-klientow-9197608.html",
-      "title": "PALIWA Rząd chce pieniędzy m.in. z Orlenu. Bogucki: Koncerny przerzucą koszty na klientów Zdaniem szefa Kancelarii Prezydenta Zbigniewa Boguckiego wejście w życie ustawy, która ma opodatkować nadzwyczajne zyski koncernów paliwowych, spowoduje, że one przerzuca te koszty na innych.",
-      "content_html": "",
-      "date_published": "2026-09-16T07:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Trakcja-szacuje-ze-miala-w-I-polr-47-8-mln-zl-EBITDA-9197691.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Trakcja-szacuje-ze-miala-w-I-polr-47-8-mln-zl-EBITDA-9197691.html",
-      "title": "Grupa Trakcja szacuje, że miała w I półr. 47,8 mln zł EBITDA Grupa Trakcja szacuje, że miała w pierwszym półroczu 2026 roku 47,8 mln zł EBITDA oraz 60,2 mln zł zysku brutto ze sprzedaży, przy przychodach na poziomie 891,5 mln zł - podała spółka w komunikacie. Zysk brutto wyniósł około 20,7 mln zł.",
-      "content_html": "",
-      "date_published": "2026-09-16T06:48:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fed-juz-w-srode-moze-podniesc-stopy-procentowe-Wszystko-zalezy-od-Kevina-9197196.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fed-juz-w-srode-moze-podniesc-stopy-procentowe-Wszystko-zalezy-od-Kevina-9197196.html",
-      "title": "Fed już w środę może podnieść stopy procentowe. Wszystko zależy od Kevina Rynek obstawia, że na wrześniowym posiedzeniu Federalnego Komitetu Otwartego Rynku dojdzie do pierwszej od trzech lat podwyżki stóp procentowych. Decydujący głos będzie miał Kevin Warsh, nowy przewodniczący Rezerwy Federalnej.",
-      "content_html": "",
-      "date_published": "2026-09-16T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
