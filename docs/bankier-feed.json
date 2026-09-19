@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Tajna-jednostka-w-niemieckim-MON-Bron-dla-Ukrainy-kupuja-w-dwa-tygodnie-9197581.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajna-jednostka-w-niemieckim-MON-Bron-dla-Ukrainy-kupuja-w-dwa-tygodnie-9197581.html",
+      "title": "Tajna jednostka w niemieckim MON. Broń dla Ukrainy kupują w dwa tygodnie",
+      "content_html": "W strukturach niemieckiego resortu obrony działa tajna, niespełna 20-osobowa jednostka Sonderstab Ukraine, która omija biurokrację i zawiera umowy na zakup broni dla Kijowa w dwa tygodnie – napisał we wtorek brytyjski dziennik „Financial Times”...",
+      "date_published": "2026-09-19T20:45:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-wykorzysta-cala-pule-SAFE-Nie-zwrocimy-ani-jednego-euro-9198886.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-wykorzysta-cala-pule-SAFE-Nie-zwrocimy-ani-jednego-euro-9198886.html",
       "title": "Polska wykorzysta całą pulę SAFE. „Nie zwrócimy ani jednego euro”",
@@ -34,7 +41,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Oplata-uzdrowiskowa-ze-brudne-powietrze-Sejm-zmienil-przepisy-Zakopane-bije-brawo-9199489.html",
       "url": "https://www.bankier.pl/wiadomosc/Oplata-uzdrowiskowa-ze-brudne-powietrze-Sejm-zmienil-przepisy-Zakopane-bije-brawo-9199489.html",
-      "title": "Opłata uzdrowiskowa ze brudne powietrze? Sejm zmienił przepisy, Zakopane bije brawo",
+      "title": "Opłata uzdrowiskowa za brudne powietrze? Sejm zmienił przepisy, Zakopane bije brawo",
       "content_html": "Sejm uchwalił w piątek ustawę, która m.in. znosi wymóg jakości powietrza jako warunek pobierania opłaty miejscowej od turystów. Dla Zakopanego ma to szczególne znaczenie, ponieważ legalność jej poboru była kwestionowana przed sądami - uważa...",
       "date_published": "2026-09-19T19:56:00+02:00"
     },
@@ -695,13 +702,6 @@
       "title": "Sejm ustanowił rok 2027 Rokiem Konstytucji Rzeczypospolitej Polskiej z 2 kwietnia 1997 r.",
       "content_html": "Sejm podjął w piątek uchwałę ws. ustanowienia roku 2027 Rokiem Konstytucji Rzeczypospolitej Polskiej z 2 kwietnia 1997 r. „Sejm oddaje hołd twórcom ustawy zasadniczej oraz wszystkim, którzy swoją działalnością przyczynili się do odzyskania...",
       "date_published": "2026-09-18T13:55:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/100-tys-osob-moze-skorzystac-z-asystencji-osobistej-Sejm-przyjal-ustawe-9199124.html",
-      "url": "https://www.bankier.pl/wiadomosc/100-tys-osob-moze-skorzystac-z-asystencji-osobistej-Sejm-przyjal-ustawe-9199124.html",
-      "title": "100 tys. osób może skorzystać z asystencji osobistej. Sejm przyjął ustawę",
-      "content_html": "Sejm uchwalił w piątek ustawę, która zagwarantuje osobom z niepełnosprawnościami systemowy dostęp do asystencji osobistej. O wsparcie w 2028 r. będą mogły ubiegać się osoby od 18 do 65 lat, a od 2030 r. młodzież od 13. roku życia. Według...",
-      "date_published": "2026-09-18T13:54:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
