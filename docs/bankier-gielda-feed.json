@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ozempic-i-Wegovy-przyniosly-Novo-fortune-Teraz-nadchodzi-patentowa-sciana-9199708.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ozempic-i-Wegovy-przyniosly-Novo-fortune-Teraz-nadchodzi-patentowa-sciana-9199708.html",
+      "title": "Ozempic i Wegovy przyniosły Novo fortunę. Teraz nadchodzi patentowa ściana Nie było tak, że inwestorzy w czerwcu 2012 roku wypluwali kawę i zrywali się z krzeseł, gdy Novo poinformowało, że zdecydowało się postawić na obiecujący lek o nazwie semaglutyd. Akcje wzrosły o 0,4 proc. Dyrektor ds. badań Mads Krogsgaard Thomsen odważył się napisać, że lek ma „duży potencjał”. Decyzja ta okazała się jednak największym sukcesem sprzedażowym w historii Novo.",
+      "content_html": "",
+      "date_published": "2026-09-20T17:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Strateg-Franklin-Templeton-ostrzega-wrzesien-i-pazdziernik-moga-przyniesc-korekte-na-Wall-Street-9199234.html",
       "url": "https://www.bankier.pl/wiadomosc/Strateg-Franklin-Templeton-ostrzega-wrzesien-i-pazdziernik-moga-przyniesc-korekte-na-Wall-Street-9199234.html",
       "title": "Strateg Franklin Templeton ostrzega: wrzesień i październik mogą przynieść korektę na Wall Street We wrześniu i październiku na giełdach w USA możliwa jest wyższa zmienność, więc zalecana jest maksymalna dywersyfikacja portfela – ocenił Łukasz Kałwak, strateg rynkowy w Franklin Templeton Institute. Dodał, że sezonowo dobry okres dla akcji powinien przypaść w połowie listopada, po midtermach w USA.",
@@ -86,20 +93,6 @@
       "title": "Wezwanie na InPost zakończone. Inwestorzy odpowiedzieli akcjami stanowiącymi 89,81 proc. kapitału W zakończonym w piątek wezwaniu na akcje InPostu inwestorzy zgłosili chęć sprzedaży łącznie 448.981 akcji spółki, co stanowi 89,81 proc. kapitału - poinformował InPost w komunikacie.",
       "content_html": "",
       "date_published": "2026-09-18T22:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Newagu-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9199456.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Newagu-w-II-kw-2026-roku-vs-konsensus-PAP-tabela-9199456.html",
-      "title": "Wyniki Newagu w II kw. 2026 roku vs. konsensus PAP Poniżej przedstawiamy wyniki Newagu w drugim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes.",
-      "content_html": "",
-      "date_published": "2026-09-18T17:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ogromne-obroty-i-spora-zmiennosc-w-dzien-trzech-wiedzm-LPP-gwiazda-sesji-9199442.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ogromne-obroty-i-spora-zmiennosc-w-dzien-trzech-wiedzm-LPP-gwiazda-sesji-9199442.html",
-      "title": "SESJA NA GPW Ogromne obroty i spora zmienność w dzień trzech wiedźm. LPP gwiazdą sesji Piątkowa sesja na warszawskim parkiecie upłynęła pod znakiem przewagi sprzedających, mimo widowiskowego rajdu odzieżowego giganta LPP. Na rynkach globalnych ciążył powrót wzrostów cen ropy i rosnących rentowności obligacji. Zmienność podbijało wygasanie instrumentów pochodnych, czyli tradycyjny dzień trzech wiedźm. Przyczyniły się one także do rekordowo wysokich obrotów na rynku – drugich najwyższych w tym roku.",
-      "content_html": "",
-      "date_published": "2026-09-18T17:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
