@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-BlackRock-To-moze-byc-najwiekszy-boom-inwestycyjny-w-historii-9199699.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-BlackRock-To-moze-byc-najwiekszy-boom-inwestycyjny-w-historii-9199699.html",
+      "title": "Szef BlackRock: To może być największy boom inwestycyjny w historii Jeśli nadzieje związane ze sztuczną inteligencją się spełnią, może to być „największy boom inwestycyjny w historii” – mówi Philipp Hildebrand, wiceprezes BlackRock i były szef szwajcarskiego banku centralnego, w rozmowie z „Dagens Industri”. Wskazuje również cztery filary, których Europa potrzebuje, aby uniezależnić się od USA.",
+      "content_html": "",
+      "date_published": "2026-09-20T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Marka-STAR-wraca-na-polski-rynek-Glownym-odbiorca-pojazdow-ma-byc-polska-armia-9197686.html",
       "url": "https://www.bankier.pl/wiadomosc/Marka-STAR-wraca-na-polski-rynek-Glownym-odbiorca-pojazdow-ma-byc-polska-armia-9197686.html",
       "title": "Marka STAR wraca na polski rynek. Głównym odbiorcą pojazdów ma być polska armia Marka STAR wraca na polski rynek jako jeden z pierwszych widocznych efektów strategicznego partnerstwa MAN Truck & Bus, Rheinmetall MAN Military Vehicles i polskiej Grupy WB. Producent zamierza oferować pod historyczną...",
@@ -163,13 +170,6 @@
       "title": "Boro ogłasza wezwanie na 6.178.600 akcji ZUK Stąporków, po 5 zł za jedną akcję Boro spółka z ograniczoną odpowiedzialnością S.K.A. ogłosiła wezwanie na 6.178.600 akcji Zakładów Urządzeń Kotłowych Stąporków, oferuje 5 zł za jedną akcję - poinformowano w piątkowym komunikacie.",
       "content_html": "",
       "date_published": "2026-09-18T08:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Saudyjczycy-Katarczycy-i-Emiratczycy-zainwestuja-24-mld-dolarow-w-przejecie-Warner-Bros-Discovery-9198979.html",
-      "url": "https://www.bankier.pl/wiadomosc/Saudyjczycy-Katarczycy-i-Emiratczycy-zainwestuja-24-mld-dolarow-w-przejecie-Warner-Bros-Discovery-9198979.html",
-      "title": "Saudyjczycy, Katarczycy i Emiratczycy zainwestują 24 mld dolarów w przejęcie Warner Bros. Discovery Amerykańska Federalna Komisja Łączności (FCC) zatwierdziła w czwartek wniosek o udział zagranicznych inwestorów w sfinansowaniu przejęcia Warner Bros. Discovery przez Paramount Skydance. Pieniądze mają wyłożyć fundusze z państw Zatoki Perskiej.",
-      "content_html": "",
-      "date_published": "2026-09-18T07:02:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

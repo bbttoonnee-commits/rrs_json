@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Szef-BlackRock-To-moze-byc-najwiekszy-boom-inwestycyjny-w-historii-9199699.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szef-BlackRock-To-moze-byc-najwiekszy-boom-inwestycyjny-w-historii-9199699.html",
+      "title": "Szef BlackRock: To może być największy boom inwestycyjny w historii",
+      "content_html": "Jeśli nadzieje związane ze sztuczną inteligencją się spełnią, może to być „największy boom inwestycyjny w historii” – mówi Philipp Hildebrand, wiceprezes BlackRock i były szef szwajcarskiego banku centralnego, w rozmowie z „Dagens...",
+      "date_published": "2026-09-20T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Kaczynski-zapowiada-konwencje-ekonomiczna-PiS-przedstawi-nowy-program-wyborczy-9199693.html",
       "url": "https://www.bankier.pl/wiadomosc/Kaczynski-zapowiada-konwencje-ekonomiczna-PiS-przedstawi-nowy-program-wyborczy-9199693.html",
       "title": "Kaczyński zapowiada konwencję ekonomiczną. PiS przedstawi nowy program wyborczy",
@@ -354,6 +361,13 @@
       "date_published": "2026-09-19T07:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Siostra-Kima-Tylko-glupcy-wierza-w-denuklearyzacje-Polwyspu-Koreanskiego-9198381.html",
+      "url": "https://www.bankier.pl/wiadomosc/Siostra-Kima-Tylko-glupcy-wierza-w-denuklearyzacje-Polwyspu-Koreanskiego-9198381.html",
+      "title": "Siostra Kima: Tylko głupcy wierzą w denuklearyzację Półwyspu Koreańskiego",
+      "content_html": "Wpływowa siostra przywódcy Korei Północnej Kim Dzong Una, Kim Jo Dzong, oświadczyła w czwartek, że każdy, kto wierzy w możliwość skłonienia Pjongjangu do rezygnacji z broni jądrowej jest „głupcem nieznającym praw świata”. Zaznaczyła...",
+      "date_published": "2026-09-19T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Diesel-po-9-zl-inflacja-najwyzsza-w-tym-roku-i-rozczarowanie-w-przemysle-Tydzien-na-wykresach-9198730.html",
       "url": "https://www.bankier.pl/wiadomosc/Diesel-po-9-zl-inflacja-najwyzsza-w-tym-roku-i-rozczarowanie-w-przemysle-Tydzien-na-wykresach-9198730.html",
       "title": "Diesel po 9 zł, inflacja najwyższa w tym roku i rozczarowanie w przemyśle. Tydzień na wykresach",
@@ -688,20 +702,6 @@
       "title": "Przelew na zły rachunek nie będzie już tak kosztowny. Sejm uchwalił nowe przepisy",
       "content_html": "Sejm w piątek uchwalił ustawę, która znosi sankcje za opłacenie faktury na niewłaściwy rachunek spoza tzw. białej listy podatników VAT. Nowe przepisy mają charakter deregulacyjny.",
       "date_published": "2026-09-18T14:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tworcy-dostana-wiecej-za-wypozyczanie-ich-ksiazek-Sejm-uchwalil-ustawe-9199155.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tworcy-dostana-wiecej-za-wypozyczanie-ich-ksiazek-Sejm-uchwalil-ustawe-9199155.html",
-      "title": "Twórcy dostaną więcej za wypożyczanie ich książek. Sejm uchwalił ustawę",
-      "content_html": "Sejm uchwalił nowelizację ustawy o prawie autorskim, która zwiększa kwotę na wynagrodzenia dla twórców i wydawców za publiczne wypożyczanie książek. Limit dofinansowania tych wynagrodzeń wzrośnie z 5 do 10 proc. wartości zakupów materiałów...",
-      "date_published": "2026-09-18T14:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-MON-w-Sejmie-Nie-wolno-zatracic-racji-stanu-jaka-jest-wspieranie-walczacej-Ukrainy-9199179.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-MON-w-Sejmie-Nie-wolno-zatracic-racji-stanu-jaka-jest-wspieranie-walczacej-Ukrainy-9199179.html",
-      "title": "Szef MON w Sejmie: Nie wolno zatracić racji stanu, jaką jest wspieranie walczącej Ukrainy",
-      "content_html": "Ukraińcy nie rozliczyli się z historii, ale w populistycznej pogoni za jakimkolwiek procentem poparcia, nie wolno zatracić racji stanu, jaką jest wspieranie walczącej Ukrainy - podkreślił wicepremier, szef MON Władysław Kosiniak-Kamysz w piątek...",
-      "date_published": "2026-09-18T14:11:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
