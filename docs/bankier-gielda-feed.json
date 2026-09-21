@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Citi-podniosl-rekomendacje-Alior-Banku-do-kupuj-9199883.html",
+      "url": "https://www.bankier.pl/wiadomosc/Citi-podniosl-rekomendacje-Alior-Banku-do-kupuj-9199883.html",
+      "title": "Citi podniósł rekomendację Alior Banku do \"kupuj\" Analityk Citi, Andrzej Powierża, podniósł rekomendację dla Alior Banku do \"kupuj\" z \"neutralnie\". Cena docelowa została ustalona na poziomie 146,80 zł, co oznacza wzrost o 12 proc. w stosunku do ostatniego kursu - poinformowała agencja Bloomberg. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-09-21T07:08:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Klatwa-GPW-i-czary-ekspertow-Typ-z-GPW-juz-22-na-plusie-9199389.html",
+      "url": "https://www.bankier.pl/wiadomosc/Klatwa-GPW-i-czary-ekspertow-Typ-z-GPW-juz-22-na-plusie-9199389.html",
+      "title": "INWESTOR WOJTEK Klątwa GPW i czary ekspertów. Typ z GPW już 22% na plusie Wrzesień w połowie za nami, a na GPW dzieje się tyle, że można by tym obdzielić cały kwartał. Na początku miesiąca czytałem w zestawieniu „Portfel Gwiazd” na Bankier.pl analizy giełdowych wyjadaczy. Obiecałem sobie, że w połowie miesiąca zrobię rachunek i sprawdzę, jak ich typy wyglądają w zderzeniu z rzeczywistością. Byłem tego ciekawy, tym bardziej że wrzesień należy statystycznie do najsłabszych okresów pod względem stóp zwrotu. Tym razem chyba nie będzie tak źle!",
+      "content_html": "",
+      "date_published": "2026-09-21T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Czy-stopy-procentowe-w-Polsce-sa-zbyt-niskie-Rada-mogla-popelnic-blad-9199224.html",
+      "url": "https://www.bankier.pl/wiadomosc/Czy-stopy-procentowe-w-Polsce-sa-zbyt-niskie-Rada-mogla-popelnic-blad-9199224.html",
+      "title": "ANALIZA Czy stopy procentowe w Polsce są zbyt niskie? Rada mogła popełnić błąd Rada Polityki Pieniężnej straciła już pół roku, snując nam wizję kolejnych obniżek stóp w mocno inflacyjnym otoczeniu, które może wymagać wyższych stóp procentowych.",
+      "content_html": "",
+      "date_published": "2026-09-21T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ozempic-i-Wegovy-przyniosly-Novo-fortune-Teraz-nadchodzi-patentowa-sciana-9199708.html",
       "url": "https://www.bankier.pl/wiadomosc/Ozempic-i-Wegovy-przyniosly-Novo-fortune-Teraz-nadchodzi-patentowa-sciana-9199708.html",
       "title": "Ozempic i Wegovy przyniosły Novo fortunę. Teraz nadchodzi patentowa ściana Nie było tak, że inwestorzy w czerwcu 2012 roku wypluwali kawę i zrywali się z krzeseł, gdy Novo poinformowało, że zdecydowało się postawić na obiecujący lek o nazwie semaglutyd. Akcje wzrosły o 0,4 proc. Dyrektor ds. badań Mads Krogsgaard Thomsen odważył się napisać, że lek ma „duży potencjał”. Decyzja ta okazała się jednak największym sukcesem sprzedażowym w historii Novo.",
@@ -32,6 +53,13 @@
       "date_published": "2026-09-19T12:00:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zawiadomil-prokurature-ws-Olefin-III-Balczun-Obajtek-nie-moze-sie-schowac-za-zarzadem-9199523.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zawiadomil-prokurature-ws-Olefin-III-Balczun-Obajtek-nie-moze-sie-schowac-za-zarzadem-9199523.html",
+      "title": "Orlen zawiadomił prokuraturę ws. Olefin III. Balczun: Obajtek nie może się schować za zarządem Trochę ponad tydzień temu zarząd Orlenu podjął decyzję o złożeniu doniesienia do prokuratury w sprawie inwestycji Olefiny III realizowanej za czasów byłego prezesa spółki Daniela Obajtka - poinformował w piątek minister aktywów państwowych Wojciech Balczun.",
+      "content_html": "",
+      "date_published": "2026-09-19T09:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-zabezpiecza-dostawy-ropy-Balczun-Paliwa-na-stacjach-nie-zabraknie-9199515.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-zabezpiecza-dostawy-ropy-Balczun-Paliwa-na-stacjach-nie-zabraknie-9199515.html",
       "title": "Orlen zabezpiecza dostawy ropy. Balczun: Paliwa na stacjach nie zabraknie Orlen jeszcze w sierpniu zakontraktował jedną czwartą swoich potrzeb jeśli chodzi o ropę w Norwegii; paliwa na stacjach nie zabraknie - zapewnił w piątek minister aktywów państwowych Wojciech Balczun. Dodał, że w Orlen podpisał też kolejne 16 umów na dostawy ropy naftowej.",
@@ -44,34 +72,6 @@
       "title": "Ekspertka: Wyższe ceny ropy w kontraktach spotowych nie muszą automatycznie przełożyć się na stacje Nawet jeśli kupowana teraz przez Orlen ropa w kontraktach spotowych będzie droższa niż ta w umowach długoterminowych, to nie musi to wpłynąć na ceny paliw na stacjach - wskazała w rozmowie z PAP analityczka biura Reflex Urszula Cieślak. Zwróciła uwagę, że taka sytuacja może ograniczyć marżę Orlenu.",
       "content_html": "",
       "date_published": "2026-09-19T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-zawiadomil-prokurature-ws-Olefin-III-Balczun-Obajtek-nie-moze-sie-schowac-za-zarzadem-9199523.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-zawiadomil-prokurature-ws-Olefin-III-Balczun-Obajtek-nie-moze-sie-schowac-za-zarzadem-9199523.html",
-      "title": "Orlen zawiadomił prokuraturę ws. Olefin III. Balczun: Obajtek nie może się schować za zarządem Trochę ponad tydzień temu zarząd Orlenu podjął decyzję o złożeniu doniesienia do prokuratury w sprawie inwestycji Olefiny III realizowanej za czasów byłego prezesa spółki Daniela Obajtka - poinformował w piątek minister aktywów państwowych Wojciech Balczun.",
-      "content_html": "",
-      "date_published": "2026-09-19T09:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Diesel-po-9-zl-inflacja-najwyzsza-w-tym-roku-i-rozczarowanie-w-przemysle-Tydzien-na-wykresach-9198730.html",
-      "url": "https://www.bankier.pl/wiadomosc/Diesel-po-9-zl-inflacja-najwyzsza-w-tym-roku-i-rozczarowanie-w-przemysle-Tydzien-na-wykresach-9198730.html",
-      "title": "WYKRESY TYGODNIA Diesel po 9 zł, inflacja najwyższa w tym roku i rozczarowanie w przemyśle. Tydzień na wykresach Inflacja znów daje o sobie znać, ceny paliw biją rekordy, a rentowności polskich obligacji rosną. Sprawdzam, co w tym tygodniu było najważniejsze dla inwestorów.",
-      "content_html": "",
-      "date_published": "2026-09-19T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwiekszy-byk-z-Wall-Street-traci-zapal-a-na-rynku-ropy-wielka-niewiadoma-9199448.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwiekszy-byk-z-Wall-Street-traci-zapal-a-na-rynku-ropy-wielka-niewiadoma-9199448.html",
-      "title": "O TYM MÓWI WALL STREET Największy byk z Wall Street traci zapał, a na rynku ropy wielka niewiadoma Na Wall Street trwa dyskusja o perspektywach na nadchodzące miesiące. Najwięksi giełdowi optymiści rewidują swoje prognozy dla amerykańskich akcji, a analitycy rynku naftowego z JPMorgan przyznają wprost, że nie potrafią przewidzieć, jak zakończy się konflikt na Bliskim Wschodzie i jaki będzie jego wpływ na światowe ceny surowców.",
-      "content_html": "",
-      "date_published": "2026-09-19T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miliarderzy-zbyt-biedni-na-liste-Forbes-Aby-wejsc-potrzeba-ponad-4-4-miliarda-dolarow-9199450.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miliarderzy-zbyt-biedni-na-liste-Forbes-Aby-wejsc-potrzeba-ponad-4-4-miliarda-dolarow-9199450.html",
-      "title": "Miliarderzy „zbyt biedni” na listę „Forbesa”. Aby wejść potrzeba ponad 4,4 mld dolarów W Stanach Zjednoczonych najbogatsi stają się coraz bogatsi; 590 amerykańskich miliarderów było „zbyt biednych”, by znaleźć się na liście 400 najbogatszych magazynu „Forbes” - zauważa w piątek „USA Today”, komentując tegoroczny ranking największych krezusów w USA.",
-      "content_html": "",
-      "date_published": "2026-09-19T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
