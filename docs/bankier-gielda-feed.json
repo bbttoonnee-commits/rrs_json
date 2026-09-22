@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-detaliczna-rozczarowala-Drogie-paliwa-uderzyly-w-polskiego-konsumenta-9200523.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-detaliczna-rozczarowala-Drogie-paliwa-uderzyly-w-polskiego-konsumenta-9200523.html",
+      "title": "Sprzedaż detaliczna rozczarowała. Drogie paliwa uderzyły w polskiego konsumenta? Sierpniowy wzrost sprzedaży detalicznej w Polsce okazał się niższy od oczekiwań ekonomistów i był nawet słabszy niż w i tak rozczarowującym pod tym względem lipcu.",
+      "content_html": "",
+      "date_published": "2026-09-22T09:30:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pierwszy-prad-z-Morskiej-Farmy-Wiatrowej-Baltica-2-poplynie-w-II-kw-2027-r-PGE-9200475.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pierwszy-prad-z-Morskiej-Farmy-Wiatrowej-Baltica-2-poplynie-w-II-kw-2027-r-PGE-9200475.html",
+      "title": "Aż 111 fundamentów już stoi na morzu. Wiemy, kiedy popłynie pierwszy prąd z gigantycznej farmy PGE Pierwszy prąd z Morskiej Farmy Wiatrowej Baltica 2 popłynie na początku II kw. 2027 r., a ostateczne decyzje ws. dwóch kolejnych projektów farm zapadną nie wcześniej niż za rok - zapowiedział w rozmowie z PAP wiceprezes PGE Piotr Dziubałtowski. Grupa chce zmaksymalizować udział krajowych firm w ich budowie.",
+      "content_html": "",
+      "date_published": "2026-09-22T07:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Silna-zwyzka-na-Wall-Street-Na-co-licza-inwestorzy-9200394.html",
       "url": "https://www.bankier.pl/wiadomosc/Silna-zwyzka-na-Wall-Street-Na-co-licza-inwestorzy-9200394.html",
       "title": "Silna zwyżka na Wall Street. Na co liczą inwestorzy? Nasdaq i S&P500 szybko zbliżyły się do szczytów hossy napędzane przez zwyżkujące notowania akcji firm technologicznych. Najwyraźniej inwestorzy znów polubili spółki zarabiające na hossie w AI.",
@@ -191,13 +205,6 @@
       "title": "Strateg Franklin Templeton ostrzega: wrzesień i październik mogą przynieść korektę na Wall Street We wrześniu i październiku na giełdach w USA możliwa jest wyższa zmienność, więc zalecana jest maksymalna dywersyfikacja portfela – ocenił Łukasz Kałwak, strateg rynkowy w Franklin Templeton Institute. Dodał, że sezonowo dobry okres dla akcji powinien przypaść w połowie listopada, po midtermach w USA.",
       "content_html": "",
       "date_published": "2026-09-20T15:28:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-BlackRock-To-moze-byc-najwiekszy-boom-inwestycyjny-w-historii-9199699.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-BlackRock-To-moze-byc-najwiekszy-boom-inwestycyjny-w-historii-9199699.html",
-      "title": "Szef BlackRock: To może być największy boom inwestycyjny w historii Jeśli nadzieje związane ze sztuczną inteligencją się spełnią, może to być „największy boom inwestycyjny w historii” – mówi Philipp Hildebrand, wiceprezes BlackRock i były szef szwajcarskiego banku centralnego, w rozmowie z „Dagens Industri”. Wskazuje również cztery filary, których Europa potrzebuje, aby uniezależnić się od USA.",
-      "content_html": "",
-      "date_published": "2026-09-20T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
