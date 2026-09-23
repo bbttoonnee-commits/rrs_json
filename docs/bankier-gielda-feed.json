@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Rentownosci-obligacji-w-USA-wystrzelily-przez-sufit-Na-Wall-Street-spadki-9201732.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rentownosci-obligacji-w-USA-wystrzelily-przez-sufit-Na-Wall-Street-spadki-9201732.html",
+      "title": "Rentowności obligacji w USA wystrzeliły przez sufit. Na Wall Street spadki Silna przecena amerykańskich obligacji skarbowych wyniosła rentowności papierów 10-letnich do najwyższego poziomu od 2007 roku. To pogorszyło nastroje na Wall Street",
+      "content_html": "",
+      "date_published": "2026-09-23T22:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Archicom-ustanowil-nowy-program-emisji-obligacji-do-800-mln-zl-9201694.html",
       "url": "https://www.bankier.pl/wiadomosc/Archicom-ustanowil-nowy-program-emisji-obligacji-do-800-mln-zl-9201694.html",
       "title": "Archicom ustanowił nowy program emisji obligacji do 800 mln zł Archicom ustanowił nowy program emisji obligacji i zakończył emisje w ramach dotychczasowego programu - podał deweloper w komunikacie. W ramach nowego programu spółka będzie mogła emitować obligacje o łącznej maksymalnej wartości nominalnej do 800 mln zł. Obsługą programu zajmie się Ipopema Securities.",
@@ -69,7 +76,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/Drozsza-ropa-i-dolar-przerwaly-marsz-po-nowe-szczyty-na-gieldzie-Rekordy-rentownosc-obligacji-strasza-rynki-akcji-9201603.html",
       "url": "https://www.bankier.pl/wiadomosc/Drozsza-ropa-i-dolar-przerwaly-marsz-po-nowe-szczyty-na-gieldzie-Rekordy-rentownosc-obligacji-strasza-rynki-akcji-9201603.html",
-      "title": "SESJA NA GPW Droższa ropa i dolar przerwały marsz po nowe szczyty na giełdzie. Rekordy rentowność obligacji straszą rynki akcji Powrót wzrostów cen ropy naftowej i mocniejszy dolar skutecznie schłodziły nastroje na światowych rynkach akcji. Na warszawskim parkiecie przyszedł wreszcie moment korekty po wyjątkowo udanych ostatnich dniach i bicia rekordów dzień po dniu na WIG20 i WIG. Środowa sesja na GPW przyniosła wyraźne spadki wszystkich głównych indeksów, a w portfelu WIG20 pod koniec dnia ostały się tylko dwie spółki ze wzrostem kursu akcji.",
+      "title": "SESJA NA GPW Droższa ropa i dolar przerwały marsz po nowe szczyty na giełdzie. Rekordy rentowności obligacji straszą rynki akcji Powrót wzrostów cen ropy naftowej i mocniejszy dolar skutecznie schłodziły nastroje na światowych rynkach akcji. Na warszawskim parkiecie przyszedł wreszcie moment korekty po wyjątkowo udanych ostatnich dniach i bicia rekordów dzień po dniu na WIG20 i WIG. Środowa sesja na GPW przyniosła wyraźne spadki wszystkich głównych indeksów, a w portfelu WIG20 pod koniec dnia ostały się tylko dwie spółki ze wzrostem kursu akcji.",
       "content_html": "",
       "date_published": "2026-09-23T17:14:00+02:00"
     },
@@ -429,13 +436,6 @@
       "title": "Aż 111 fundamentów już stoi na morzu. Wiemy, kiedy popłynie pierwszy prąd z gigantycznej farmy PGE Pierwszy prąd z Morskiej Farmy Wiatrowej Baltica 2 popłynie na początku II kw. 2027 r., a ostateczne decyzje ws. dwóch kolejnych projektów farm zapadną nie wcześniej niż za rok - zapowiedział w rozmowie z PAP wiceprezes PGE Piotr Dziubałtowski. Grupa chce zmaksymalizować udział krajowych firm w ich budowie.",
       "content_html": "",
       "date_published": "2026-09-22T07:06:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Silna-zwyzka-na-Wall-Street-Na-co-licza-inwestorzy-9200394.html",
-      "url": "https://www.bankier.pl/wiadomosc/Silna-zwyzka-na-Wall-Street-Na-co-licza-inwestorzy-9200394.html",
-      "title": "Silna zwyżka na Wall Street. Na co liczą inwestorzy? Nasdaq i S&P500 szybko zbliżyły się do szczytów hossy napędzane przez zwyżkujące notowania akcji firm technologicznych. Najwyraźniej inwestorzy znów polubili spółki zarabiające na hossie w AI.",
-      "content_html": "",
-      "date_published": "2026-09-21T22:05:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
