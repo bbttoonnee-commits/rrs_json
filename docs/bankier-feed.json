@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zamierza-przeprowadzic-przymusowy-wykup-akcji-Energi-po-27-60-zl-za-sztuke-9201768.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zamierza-przeprowadzic-przymusowy-wykup-akcji-Energi-po-27-60-zl-za-sztuke-9201768.html",
+      "title": "Orlen zamierza przeprowadzić przymusowy wykup akcji Energi po 27,60 zł za sztukę",
+      "content_html": "Orlen zamierza przeprowadzić przymusowy wykup akcji Energi po 27,60 zł za sztukę - poinformował płocki koncern w komunikacie. Ogłoszenie przymusowego wykupu nastąpi 30 września.",
+      "date_published": "2026-09-24T01:46:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rentownosci-obligacji-w-USA-wystrzelily-przez-sufit-Na-Wall-Street-spadki-9201732.html",
       "url": "https://www.bankier.pl/wiadomosc/Rentownosci-obligacji-w-USA-wystrzelily-przez-sufit-Na-Wall-Street-spadki-9201732.html",
       "title": "Rentowności obligacji w USA wystrzeliły przez sufit. Na Wall Street spadki",
@@ -695,13 +702,6 @@
       "title": "OT Logistics widzi potencjał w integracji polskich terminali portowych z siecią logistyczną Europy Środkowej",
       "content_html": "Zarząd OT Logistics pozytywnie ocenia perspektywy grupy, ale działalność pozostaje pod wpływem ryzyka niepewności geopolitycznej - poinformowała spółka w komunikacie prasowym. Prezes Pavel Maroušek widzi potencjał w integracji polskich terminali...",
       "date_published": "2026-09-23T08:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niepokojacy-poranek-na-wschodzie-Polskie-lotnictwo-operuje-w-przestrzeni-powietrznej-9201173.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niepokojacy-poranek-na-wschodzie-Polskie-lotnictwo-operuje-w-przestrzeni-powietrznej-9201173.html",
-      "title": "Niepokojący poranek na wschodzie. Operowało polskie lotnictwo",
-      "content_html": "W związku z kolejnymi uderzeniami wykonywanymi przez Federację Rosyjską za pomocą środków napadu powietrznego na cele w centralnej części Ukrainy, w polskiej przestrzeni powietrznej prewencyjnie zaczęło operować lotnictwo wojskowe. Około...",
-      "date_published": "2026-09-23T08:48:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
