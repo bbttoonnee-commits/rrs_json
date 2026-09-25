@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Erste-Group-oglasza-zamiar-przeprowadzenia-dobrowolnego-wezwania-do-zapisywania-sie-na-sprzedaz-akcji-w-celu-zwiekszenia-udzialu-w-Erste-Bank-Polska-9203058.html",
-      "url": "https://www.bankier.pl/wiadomosc/Erste-Group-oglasza-zamiar-przeprowadzenia-dobrowolnego-wezwania-do-zapisywania-sie-na-sprzedaz-akcji-w-celu-zwiekszenia-udzialu-w-Erste-Bank-Polska-9203058.html",
-      "title": "Erste Group ogłasza zamiar przeprowadzenia dobrowolnego wezwania do zapisywania się na sprzedaż akcji w celu zwiększenia udziału w Erste Bank Polska",
-      "content_html": "Erste Group ogłasza zamiar przeprowadzenia dobrowolnego wezwania do zapisywania się na sprzedaż akcji w celu zwiększenia udziału w Erste Bank Polska - komunikat.",
-      "date_published": "2026-09-25T21:46:00+02:00"
+      "id": "https://www.bankier.pl/wiadomosc/Modivo-dokona-odpisow-z-tytulu-utraty-wartosci-aktywow-Worldbox-i-Modivo-com-9203105.html",
+      "url": "https://www.bankier.pl/wiadomosc/Modivo-dokona-odpisow-z-tytulu-utraty-wartosci-aktywow-Worldbox-i-Modivo-com-9203105.html",
+      "title": "Modivo dokona odpisów z tytułu utraty wartości aktywów Worldbox i Modivo.com",
+      "content_html": "Modivo, w wyniku decyzji o spowolnieniu tempa ekspansji sklepów sieci Worldbox oraz strategicznej koncentracji na wysokorentownym segmencie off-price, zidentyfikował przesłanki wskazujące na możliwość utraty wartości aktywów spółki Worldbox...",
+      "date_published": "2026-09-26T00:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/AI-ochronila-Wall-Street-Swietny-tydzien-mimo-szalejacych-rentownosci-i-problemow-na-rynku-ropy-9203089.html",
+      "url": "https://www.bankier.pl/wiadomosc/AI-ochronila-Wall-Street-Swietny-tydzien-mimo-szalejacych-rentownosci-i-problemow-na-rynku-ropy-9203089.html",
+      "title": "AI ochroniła Wall Street. Świetny tydzień mimo szalejących rentowności i problemów na rynku ropy",
+      "content_html": "Akcje na Wall Street wzrosły w piątek, kończąc pełen wahań tydzień handlu, kiedy gwałtowny wzrost rentowności obligacji skarbowych wywołał falę zmian na rynkach. W skali tygodnia wszystkie główne indeksy zanotowały zwyżki.",
+      "date_published": "2026-09-25T23:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-zamierza-wezwac-do-sprzedazy-akcji-Erste-BP-po-ok-713-zl-za-szt-opis-9203069.html",
+      "url": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-zamierza-wezwac-do-sprzedazy-akcji-Erste-BP-po-ok-713-zl-za-szt-opis-9203069.html",
+      "title": "Wielkie wezwanie na akcje Erste. Austriacy chcą większości udziałów",
+      "content_html": "Erste Group Bank AG ogłasza zamiar przeprowadzenia wezwania do sprzedaży akcji Erste Bank Polska w celu zwiększenia obecnego, 49-proc. udziału o dodatkowy pakiet do 26 proc. akcji. Cena w wezwaniu wyniesie około 713 zł za jedną akcję - poinformował...",
+      "date_published": "2026-09-25T22:06:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Oferta-Budimeksu-na-modernizacje-oczyszczalni-sciekow-Czajka-zostala-odrzucona-9203048.html",
@@ -688,13 +702,6 @@
       "title": "Wiceszef MSWiA o pożarze stacji Starlinków: mamy dowód na to, że było to podpalenie",
       "content_html": "Dotychczasowe ustalenia w kwestii pożaru naziemnej stacji Starlinków w powiecie grójeckim na Mazowszu, w szczególności z monitoringu, dają nam dowód na to, że to było podpalenie – powiedział w piątek wiceszef MSWiA Czesław Mroczek. Dodał...",
       "date_published": "2026-09-25T10:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-na-LME-spadaja-inwestorzy-obserwuja-popyt-ze-strony-Chin-9202564.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-na-LME-spadaja-inwestorzy-obserwuja-popyt-ze-strony-Chin-9202564.html",
-      "title": "Ceny miedzi na LME spadają; inwestorzy obserwują popyt ze strony Chin",
-      "content_html": "Cena miedzi w dostawach 3-miesięcznych na Londyńskiej Giełdzie Metali (LME) spada o 0,54 proc. do 14.616 USD za tonę. Inwestorzy oceniają możliwość wzrostu popytu fizycznego ze strony Chin po przerwie świątecznej.",
-      "date_published": "2026-09-25T10:21:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
