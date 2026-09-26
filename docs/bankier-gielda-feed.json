@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Werth-Holz-chce-otwarcia-przyspieszonego-postepowania-ukladowego-9203250.html",
+      "url": "https://www.bankier.pl/wiadomosc/Werth-Holz-chce-otwarcia-przyspieszonego-postepowania-ukladowego-9203250.html",
+      "title": "Werth-Holz chce otwarcia przyspieszonego postępowania układowego Zarząd Werth-Holz złożył do Sądu Rejonowego wniosek o otwarcie przyspieszonego postępowania układowego - poinformował w komunikacie producent elementów malowanej architektury ogrodowej z drewna.",
+      "content_html": "",
+      "date_published": "2026-09-26T20:48:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ekstraklasa-bije-rekord-Kluby-zarobily-1-59-mld-zl-Jest-cel-na-kolejne-lata-9200824.html",
       "url": "https://www.bankier.pl/wiadomosc/Ekstraklasa-bije-rekord-Kluby-zarobily-1-59-mld-zl-Jest-cel-na-kolejne-lata-9200824.html",
       "title": "Ekstraklasa bije rekord. Kluby zarobiły 1,59 mld zł. Jest cel na kolejne lata Kluby grające w sezonie 2025/2026 w PKO Bank Polski Ekstraklasie osiągnęły łącznie 1.587 mln zł przychodów. Spółka Ekstraklasa liczy, że w kolejnych latach łączna wartość przychodów w lidze wzrośnie do 2 mld zł - poinformował prezes Ekstraklasy, Marcin Animucki. Jego zdaniem celem strategicznym Polski i PZPN powinna być organizacja dużego turnieju.",
@@ -268,41 +275,6 @@
       "title": "Rentowności pną się w górę. Ale Wall Street nie reaguje Za nami kolejny dzień silnej przeceny długu skarbowego i nowych wieloletnich szczytów rentowności. Jednak tym razem sytuacja na rynku długu nie miała większego przełożenia na amerykański rynek akcji.",
       "content_html": "",
       "date_published": "2026-09-24T22:05:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bloober-Team-w-I-pol-26-mial-7-7-mln-zl-straty-netto-wobec-9-7-mln-zl-zysku-rok-wczesniej-9202394.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bloober-Team-w-I-pol-26-mial-7-7-mln-zl-straty-netto-wobec-9-7-mln-zl-zysku-rok-wczesniej-9202394.html",
-      "title": "Bloober Team pod kreską. 7,7 mln zł straty netto w I połowie roku Bloober Team miał w pierwszej połowie 2026 roku 7,7 mln zł straty netto wobec 9,7 mln zł zysku netto w analogicznym okresie 2025 roku - podała spółka w raporcie półrocznym. EBITDA w tym okresie wyniosła ok. 15 mln zł, w porównaniu do 15,1 mln zł w poprzednim roku.",
-      "content_html": "",
-      "date_published": "2026-09-24T19:38:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bloober-Team-przesuwa-premiere-gry-Saw-Genesis-we-wczesnym-dostepie-na-I-kw-27-9202380.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bloober-Team-przesuwa-premiere-gry-Saw-Genesis-we-wczesnym-dostepie-na-I-kw-27-9202380.html",
-      "title": "Bloober Team przesuwa premierę gry \"Saw: Genesis\" Bloober Team zdecydował o przesunięciu premiery gry \"Saw: Genesis\" na PC w formule wczesnego dostępu (early access) na pierwszy kwartał 2027 roku - podała spółka w komunikacie. W czerwcu spółka informowała, że planuje wydać tytuł w IV kw. 2026 roku. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-09-24T19:16:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejny-wyciek-danych-klientow-Revoluta-Wlamano-sie-do-firmy-obslugujacej-handel-akcjami-9202253.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejny-wyciek-danych-klientow-Revoluta-Wlamano-sie-do-firmy-obslugujacej-handel-akcjami-9202253.html",
-      "title": "ALERT Kolejny wyciek danych klientów Revoluta. Włamano się do firmy obsługującej handel akcjami Klienci Revoluta otrzymują informacje o kolejnym incydencie dotyczącym ich danych. Atakujący uzyskali dostęp do systemów DriveWealth - amerykańskiego brokera, który obsługiwał dla Revoluta handel akcjami notowanymi w USA.",
-      "content_html": "",
-      "date_published": "2026-09-24T19:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Fitch-obnizyl-rating-IDR-InPostu-do-BB-z-BB-z-negatywna-perspektywa-zaprzestaje-oceny-spolki-9202370.html",
-      "url": "https://www.bankier.pl/wiadomosc/Fitch-obnizyl-rating-IDR-InPostu-do-BB-z-BB-z-negatywna-perspektywa-zaprzestaje-oceny-spolki-9202370.html",
-      "title": "Rating InPostu w dół. Fitch: przejęcie znacząco zwiększy zadłużenie Fitch Ratings obniżył długoterminowe ratingi emitenta (IDR) InPostu w walutach obcych i lokalnej oraz rating niezabezpieczonego długu senioralnego do poziomu \"BB-\" z \"BB+\" - podała agencja w komunikacie. Fitch usunął jednocześnie ratingi spółki z listy obserwacyjnej z negatywnymi implikacjami (RWN), nadając ratingom perspektywę negatywną oraz wycofał wszystkie ratingi.",
-      "content_html": "",
-      "date_published": "2026-09-24T18:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wittchen-mial-w-II-kw-0-4-mln-zl-zysku-netto-wobec-5-4-mln-zl-zysku-przed-rokiem-9202368.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wittchen-mial-w-II-kw-0-4-mln-zl-zysku-netto-wobec-5-4-mln-zl-zysku-przed-rokiem-9202368.html",
-      "title": "Wittchen mocno w dół. Zysk netto w II kw. spadł do 0,4 mln zł Grupa Wittchen odnotowała w II kw. 2026 roku 0,4 mln zł zysku netto wobec 5,4 mln zł zysku w analogicznym okresie 2025 roku - podała spółka w komunikacie prasowym. Zysk EBITDA wyniósł w tym okresie 9,9 mln zł, w porównaniu do 17,5 mln zł rok wcześniej.",
-      "content_html": "",
-      "date_published": "2026-09-24T18:50:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
