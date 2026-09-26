@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Przychody-Newagu-w-III-kwartale-nie-powinny-odbiegac-od-pierwszych-dwoch-w-IV-moga-spasc-9203169.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przychody-Newagu-w-III-kwartale-nie-powinny-odbiegac-od-pierwszych-dwoch-w-IV-moga-spasc-9203169.html",
+      "title": "Rekordowy zysk i portfel zamówień pękający w szwach. Wyniki Newagu w górę o ponad 90 procent Pod względem przychodów trzeci kwartał nie powinien odbiegać od pierwszych dwóch, natomiast czwarty zostanie zamknięty z niższymi przychodami, co wynika z terminów dostaw - poinformował PAP wiceprezes Newagu Józef Michalik. Dodał, że firma ma zakontraktowane dostawy do końca 2029 roku.",
+      "content_html": "",
+      "date_published": "2026-09-26T09:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Enel-Med-poinformowal-o-incydencie-bezpieczenstwa-IT-i-naruszenia-poufnosci-danych-9202944.html",
+      "url": "https://www.bankier.pl/wiadomosc/Enel-Med-poinformowal-o-incydencie-bezpieczenstwa-IT-i-naruszenia-poufnosci-danych-9202944.html",
+      "title": "ALERT Atak hakerski na Enel-Med. Doszło do wycieku poufnych danych pacjentów Zarząd spółki Centrum Medyczne Enel-Med 24 września 2026 r. w godzinach wieczornych powziął informację o incydencie bezpieczeństwa IT i naruszenia poufności danych - podała spółka w komunikacie. Spółka podjęła działania zabezpieczające sieć, systemy spółki i dane klientów.",
+      "content_html": "",
+      "date_published": "2026-09-26T09:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ostrzezenie-z-Wall-Street-Zanim-nadejdzie-rajd-na-koniec-roku-akcje-moga-zaliczyc-spadki-9202966.html",
       "url": "https://www.bankier.pl/wiadomosc/Ostrzezenie-z-Wall-Street-Zanim-nadejdzie-rajd-na-koniec-roku-akcje-moga-zaliczyc-spadki-9202966.html",
       "title": "Ostrzeżenie z Wall Street: Zanim nadejdzie rajd na koniec roku, akcje mogą zaliczyć spadki Tęgie umysły rynków finansowych zastanawiały się w tym tygodniu m.in. nad tym, czy akcje są w stanie oprzeć się presji wynikającej z rosnących rentowności obligacji, które właśnie osiągnęły najwyższe poziomy od dwóch dekad.",
@@ -119,13 +133,6 @@
       "id": "https://www.bankier.pl/wiadomosc/Asseco-Business-Solutions-nabedzie-50-tys-akcji-wlasnych-po-80-zl-szt-9202946.html",
       "url": "https://www.bankier.pl/wiadomosc/Asseco-Business-Solutions-nabedzie-50-tys-akcji-wlasnych-po-80-zl-szt-9202946.html",
       "title": "Asseco Business Solutions nabędzie 50 tys. akcji własnych po 80 zł/szt. W odpowiedzi na zaproszenie Asseco Business Solutions do składania ofert sprzedaży akcji własnych złożono trzy oferty na łącznie 71 tys. akcji. Ustalono, że ostateczna cena po jakiej nabywane będą akcje wynosi 80 zł, a liczba akcji to 50 tys. - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-09-25T17:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enel-Med-poinformowal-o-incydencie-bezpieczenstwa-IT-i-naruszenia-poufnosci-danych-9202944.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enel-Med-poinformowal-o-incydencie-bezpieczenstwa-IT-i-naruszenia-poufnosci-danych-9202944.html",
-      "title": "ALERT Atak hakerski na Enel-Med. Doszło do wycieku poufnych danych pacjentów Zarząd spółki Centrum Medyczne Enel-Med 24 września 2026 r. w godzinach wieczornych powziął informację o incydencie bezpieczeństwa IT i naruszenia poufności danych - podała spółka w komunikacie. Spółka podjęła działania zabezpieczające sieć, systemy spółki i dane klientów.",
       "content_html": "",
       "date_published": "2026-09-25T17:32:00+02:00"
     },
@@ -373,118 +380,6 @@
       "title": "Budimex ma umowę z GDDKiA na budowę obwodnicy w ciągu DK10 o wartości 154,4 mln zł Unieważniono wybór oferty Budimeksu w przetargu GDDKiA Oddział w Rzeszowie na zaprojektowanie i budowę obwodnicy Brzostku i Kołaczyc w ciągu drogi krajowej nr 73 długości ok. 13,4 km - podał Budimex w komunikacie.",
       "content_html": "",
       "date_published": "2026-09-24T13:40:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyrok-TSUE-odwrocil-tendencje-orzecznicza-ws-SKD-w-kierunku-korzystnym-dla-konsumentow-Votum-9202066.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyrok-TSUE-odwrocil-tendencje-orzecznicza-ws-SKD-w-kierunku-korzystnym-dla-konsumentow-Votum-9202066.html",
-      "title": "VOTUM Wyrok TSUE odwrócił tendencję orzeczniczą ws. SKD w kierunku korzystnym dla konsumentów Po kwietniowym wyroku TSUE zmieniła się tendencja orzecznicza krajowych sądów w sprawach SKD w kierunku korzystnym dla konsumentów i liczba prawomocnych wyroków korzystnych dla klientów grupy Votum wzrosła do 52 proc. Votum szacuje potencjał procesowy tych spraw na poziomie 500 pozwów miesięcznie - poinformowali przedstawiciele spółki.",
-      "content_html": "",
-      "date_published": "2026-09-24T13:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcje-w-planach-inwestycyjnych-XTB-Do-ETF-ow-dolaczaja-pojedyncze-spolki-9202031.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcje-w-planach-inwestycyjnych-XTB-Do-ETF-ow-dolaczaja-pojedyncze-spolki-9202031.html",
-      "title": "Akcje w planach inwestycyjnych XTB. Do ETF-ów dołączają pojedyncze spółki Broker XTB rozbudował usługę \"Planów Inwestycyjnych”. Główną nowością jest możliwość dodawania do automatycznych portfeli pojedynczych akcji spółek - do tej pory funkcja ta opierała się wyłącznie na funduszach ETF.",
-      "content_html": "",
-      "date_published": "2026-09-24T12:29:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-zamierza-przeprowadzic-przymusowy-wykup-akcji-Energi-po-27-60-zl-za-sztuke-9201768.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-zamierza-przeprowadzic-przymusowy-wykup-akcji-Energi-po-27-60-zl-za-sztuke-9201768.html",
-      "title": "Orlen wykupuje resztki Energi. Podano ostateczną kwotę za akcję Orlen zamierza przeprowadzić przymusowy wykup akcji Energi po 27,60 zł za sztukę - poinformował płocki koncern w komunikacie. Ogłoszenie przymusowego wykupu nastąpi 30 września.",
-      "content_html": "",
-      "date_published": "2026-09-24T11:27:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejny-bank-centralny-przyznaje-sie-do-bledu-Norwegia-podnosi-stopy-procentowe-9201966.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejny-bank-centralny-przyznaje-sie-do-bledu-Norwegia-podnosi-stopy-procentowe-9201966.html",
-      "title": "Kolejny bank centralny przyznaje się do błędu i podnosi stopy procentowe Zgodnie z oczekiwaniami ekonomistów Bank Norwegii zdecydował się na drugą w tym roku podwyżkę stóp procentowych. Patrząc na wykres trudno nie uznać tej decyzji za przyznanie się do błędu.",
-      "content_html": "",
-      "date_published": "2026-09-24T11:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wladyslawowo-sercem-baltyckiego-offshore-u-Rusza-budowa-bazy-Ocean-Winds-9201951.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wladyslawowo-sercem-baltyckiego-offshore-u-Rusza-budowa-bazy-Ocean-Winds-9201951.html",
-      "title": "Władysławowo sercem bałtyckiego offshore’u. Rusza budowa bazy Ocean Winds Ocean Winds wmurował kamień węgielny pod budowę bazy operacyjno-serwisowej dla morskiej farmy wiatrowej BC-Wind we Władysławowie - podała spółka w komunikacie prasowym. Farma obejmie 26 turbin wiatrowych o planowanej łącznej mocy do 390 MW.",
-      "content_html": "",
-      "date_published": "2026-09-24T10:56:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kanadyjski-projekt-KGHM-Victoria-zakwalifikowany-do-finansowania-ze-strony-prowincji-Ontario-9201943.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kanadyjski-projekt-KGHM-Victoria-zakwalifikowany-do-finansowania-ze-strony-prowincji-Ontario-9201943.html",
-      "title": "Kanadyjski projekt KGHM Victoria zakwalifikowany do finansowania Kanadyjski projekt górniczy KGHM - kopalni Victoria został wpisany na listę projektów strategicznych kwalifikujących się do uzyskania finansowania ze strony prowincji Ontario - podał KGHM na swoim profilu na X.",
-      "content_html": "",
-      "date_published": "2026-09-24T10:36:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sniezka-nie-oczekuje-zmian-w-popycie-w-II-polr-nie-ma-przeslanek-do-poprawy-konsumpcji-w-Polsce-9201937.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sniezka-nie-oczekuje-zmian-w-popycie-w-II-polr-nie-ma-przeslanek-do-poprawy-konsumpcji-w-Polsce-9201937.html",
-      "title": "Farby w cieniu geopolityki. Śnieżka podsumowuje trudne półrocze Śnieżka nie widzi obecnie przesłanek do poprawy sytuacji w obszarze konsumpcji farb na polskim rynku. Zarząd nie oczekuje istotnych zmian w popycie w drugiej połowie roku na swoich głównych rynkach - poinformowali przedstawiciele spółki podczas wideokonferencji.",
-      "content_html": "",
-      "date_published": "2026-09-24T10:30:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/100-miliardow-zlotych-z-OKI-na-szali-PKO-BP-Idziemy-po-30-proc-rynku-9201922.html",
-      "url": "https://www.bankier.pl/wiadomosc/100-miliardow-zlotych-z-OKI-na-szali-PKO-BP-Idziemy-po-30-proc-rynku-9201922.html",
-      "title": "WYWIAD 100 miliardów złotych z OKI na szali. PKO BP: Idziemy po 30 proc. rynku Ponad 2 mln rachunków i 100 mld zł aktywów w ciągu pierwszych trzech lat – takie szacunki dla całego rynku Osobistych Kont Inwestycyjnych przedstawia PKO Bank Polski. Największy polski bank nie ukrywa przy tym własnych ambicji: chce zdobyć około 30 proc. rynku. W jednym miejscu zamierza połączyć lokaty, obligacje, fundusze i inwestycje giełdowe, a kluczową rolę ma odegrać doradztwo dostępne nie tylko dla najzamożniejszych klientów.",
-      "content_html": "",
-      "date_published": "2026-09-24T10:13:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kto-ponosi-koszty-geopolityki-Wideocast-Rzeczy-o-ktorych-przestalismy-myslec-odcinek-3-9201841.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kto-ponosi-koszty-geopolityki-Wideocast-Rzeczy-o-ktorych-przestalismy-myslec-odcinek-3-9201841.html",
-      "title": "Energetyka, inflacja, protekcjonizm. Jaki jest rachunek za światową geopolitykę? Przez ostatnie trzy dekady inwestorzy i konsumenci przyzwyczaili się do niezakłóconej globalizacji, tanich surowców i względnego spokoju. Od kilku lat świat zderza się jednak z nową rzeczywistością: konfliktami zbrojnymi, rosnącymi kosztami energii, inflacją i walką o technologiczną dominację. Jak w tym odnajdują się rynki finansowe? Jak inwestorzy mogą chronić swój kapitał i dlaczego Europa, aby przetrwać gospodarczo, musi trzymać się razem? O tym dyskutowali eksperci w trzecim odcinku wideocastu „Rzeczy, o których przestaliśmy myśleć”.",
-      "content_html": "",
-      "date_published": "2026-09-24T10:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Decyzja-SNB-wrzesien-2026-Slabszy-frank-to-lepszy-frank-9200023.html",
-      "url": "https://www.bankier.pl/wiadomosc/Decyzja-SNB-wrzesien-2026-Slabszy-frank-to-lepszy-frank-9200023.html",
-      "title": "SNB trzyma stopy na zerze. Słabszy frank to lepszy frank Zgodnie z oczekiwaniami Szwajcarski Bank Narodowy utrzymał stopę procentową na zerze. Helweci odnotowali przy tym deprecjację franka i uznali to za czynnik wspierający politykę monetarną.",
-      "content_html": "",
-      "date_published": "2026-09-24T09:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Siec-sklepow-miala-wejsc-na-GPW-teraz-grozi-jej-upadlosc-9201892.html",
-      "url": "https://www.bankier.pl/wiadomosc/Siec-sklepow-miala-wejsc-na-GPW-teraz-grozi-jej-upadlosc-9201892.html",
-      "title": "Sieć sklepów miała wejść na GPW, teraz grozi jej upadłość Studenac Group, sieć sklepów spożywczych w Europie Środkowo-Wschodniej składa wniosek o wszczęcie postępowania układowego - podała Chorwacka agencja HINA.",
-      "content_html": "",
-      "date_published": "2026-09-24T09:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-bliski-porozumienia-ws-malego-atomu-Fafara-Zostaly-dwie-trzy-kwestie-9201859.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-bliski-porozumienia-ws-malego-atomu-Fafara-Zostaly-dwie-trzy-kwestie-9201859.html",
-      "title": "Orlen bliski porozumienia ws. małego atomu. Fąfara: Zostały dwie, trzy kwestie Wygląda na to, że atomowy sojusz Orlenu z Michałem Sołowowem wkracza w decydującą fazę. Po przedłużających się negocjacjach dotyczących wspólnego przedsięwzięcia w obszarze małych reaktorów jądrowych, koncern sygnalizuje postęp, który daje szansę na sfinalizowanie porozumienia jeszcze przed końcem tego roku.",
-      "content_html": "",
-      "date_published": "2026-09-24T09:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MAP-widzi-sens-polaczenia-Hawe-z-Exatelem-i-przejecia-Orlen-Paczki-przez-Poczte-Polska-9201884.html",
-      "url": "https://www.bankier.pl/wiadomosc/MAP-widzi-sens-polaczenia-Hawe-z-Exatelem-i-przejecia-Orlen-Paczki-przez-Poczte-Polska-9201884.html",
-      "title": "Poczta Polska przejmie Orlen Paczkę? Rząd tworzy logistycznego giganta Minister aktywów państwowych Wojciech Balczun widzi potencjalne synergie z połączenia Hawe ze spółką Exatel, by budować narodowego operatora telekomunikacyjnego. Liczy też, że docelowo Orlen Paczka trafi do Poczty Polskiej w ramach tworzenia narodowego operatora logistycznego.",
-      "content_html": "",
-      "date_published": "2026-09-24T09:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Slabnie-presja-na-pierwotny-plan-reorganizacji-kapitalowej-PZU-i-Banku-Pekao-MAP-9201886.html",
-      "url": "https://www.bankier.pl/wiadomosc/Slabnie-presja-na-pierwotny-plan-reorganizacji-kapitalowej-PZU-i-Banku-Pekao-MAP-9201886.html",
-      "title": "PZU i Pekao nie zamienią się miejscami. Rząd porzuca plan wielkiej fuzji? Słabnie presja na realizację pierwotnego planu reorganizacji kapitałowej PZU i Banku Pekao, większe szanse może mieć pomysł struktury holdingowej i podziału na działalność bankową i ubezpieczeniową - poinformował minister aktywów państwowych Wojciech Balczun.",
-      "content_html": "",
-      "date_published": "2026-09-24T09:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tech-Robotics-zaktualizowal-strategie-skupi-sie-m-in-na-produkcji-dronowych-glowic-bojowych-9201879.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tech-Robotics-zaktualizowal-strategie-skupi-sie-m-in-na-produkcji-dronowych-glowic-bojowych-9201879.html",
-      "title": "Tech Robotics zaktualizował strategię. Skupi się na produkcji dronowych głowic Tech Robotics w zaktualizowanej strategii zakłada prowadzenie działalności w zakresie m.in. integracji i uzbrajania platform bezzałogowych, produkcji głowic i ładunków specjalnych, czy rozwoju napędów rakietowych na paliwo stałe - podała spółka w komunikacie. Realizacja strategii ma być sfinansowana m.in. z planowanej emisji do 3 mln akcji.",
-      "content_html": "",
-      "date_published": "2026-09-24T08:58:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zuckerberg-chce-wladac-post-smartfonowym-swiatem-Meta-wpusci-AI-do-Twojego-portfela-9201829.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zuckerberg-chce-wladac-post-smartfonowym-swiatem-Meta-wpusci-AI-do-Twojego-portfela-9201829.html",
-      "title": "Zuckerberg chce władać post-smartfonowym światem. Meta wpuści AI do Twojego portfela Podczas tegorocznej konferencji Meta Connect spółka-matka Facebooka i Instagrama zaprezentowała nową wizję \"post-smartfonowego\" świata, który ma opierać się na osobistych agentach AI i nowej generacji lekkich, ubieralnych urządzeń. Koncern zamierza również zdywersyfikować swój model biznesowy. Obok dotychczasowych przychodów z reklamach, spółka Marka Zuckerbega ma pobierać niewielkie prowizje od transakcji wykonywanych przez sztuczną inteligencję Muse.",
-      "content_html": "",
-      "date_published": "2026-09-24T08:38:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
