@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ekspert-Rzadowy-windfall-tax-to-dosc-prosty-mechanizm-prezydencki-projekt-powazniejsza-ingerencja-9202488.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ekspert-Rzadowy-windfall-tax-to-dosc-prosty-mechanizm-prezydencki-projekt-powazniejsza-ingerencja-9202488.html",
+      "title": "Ekspert: Rządowy windfall tax to dość prosty mechanizm, prezydencki projekt - poważniejsza ingerencja Przyjęta przez Senat rządowa ustawa o podatku od nadzwyczajnych zysków firm paliwowych wprowadza klasyczny podatek o dość prostej konstrukcji - wskazał partner w kancelarii MDDP Tomasz Michalik. Jego zdaniem prezydencki projekt, w którym zaproponowano m.in. tymczasowe ograniczanie marż koncernów paliwowych to ingerencja w jeden z filarów swobody prowadzenia działalności gospodarczej.",
+      "content_html": "",
+      "date_published": "2026-09-27T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Werth-Holz-chce-otwarcia-przyspieszonego-postepowania-ukladowego-9203250.html",
       "url": "https://www.bankier.pl/wiadomosc/Werth-Holz-chce-otwarcia-przyspieszonego-postepowania-ukladowego-9203250.html",
       "title": "Werth-Holz chce otwarcia przyspieszonego postępowania układowego Zarząd Werth-Holz złożył do Sądu Rejonowego wniosek o otwarcie przyspieszonego postępowania układowego - poinformował w komunikacie producent elementów malowanej architektury ogrodowej z drewna.",
@@ -247,27 +254,6 @@
       "title": "Nowe hipoteki już z POLSTR. Erste Bank Polska zmienia zasady oprocentowania Erste Bank Polska od 26 września 2026 r. będzie oferować nowe kredyty hipoteczne oparte na wskaźniku referencyjnym POLSTR 1M Stopa Składana. Nowy wskaźnik zastąpi dotychczas stosowany WIBOR 3M w zakresie ustalania oprocentowania zmiennego - poinformował bank w komunikacie.",
       "content_html": "",
       "date_published": "2026-09-25T08:12:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Seleny-wzrosl-w-I-polroczu-do-56-4-mln-zl-EBITDA-wzrosla-do-118-5-mln-zl-9202520.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Seleny-wzrosl-w-I-polroczu-do-56-4-mln-zl-EBITDA-wzrosla-do-118-5-mln-zl-9202520.html",
-      "title": "Selena mocno w górę. Zysk netto wzrósł o ponad 30 proc. Grupa Selena, producent i dystrybutor chemii budowlanej, zanotowała w pierwszym półroczu 2026 roku 56,4 mln zł zysku netto jednostki dominującej wobec 43,2 mln zł zysku rok wcześniej - podała spółka w raporcie półrocznym. EBITDA wzrosła do 118,5 mln zł ze 107 mln zł w I półroczu 2025 r.",
-      "content_html": "",
-      "date_published": "2026-09-25T07:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Indyjska-gielda-weszla-na-gielde-Co-dzieje-sie-na-rynku-ze-129-mln-inwestorow-9200482.html",
-      "url": "https://www.bankier.pl/wiadomosc/Indyjska-gielda-weszla-na-gielde-Co-dzieje-sie-na-rynku-ze-129-mln-inwestorow-9200482.html",
-      "title": "Indyjska giełda weszła na giełdę. Co dzieje się na rynku ze 129 mln inwestorów? Giełda, na której liczba inwestorów urosła w dwa lata o 40%, przekraczając liczbę 129 mln, sama trafiła na parkiet. Czwartkowy debiut National Stock Exchange z wyceną sięgającą 48 mld dolarów kończy dekadę starań spółki o wejście na parkiet. Wydarzenie przypada jednak na trudny moment dla indyjskiego rynku, gdy kapitał zagraniczny wycofuje miliardy dolarów, a indeks Nifty 50 zmierza do pierwszej rocznej straty od ponad dziesięciu lat.",
-      "content_html": "",
-      "date_published": "2026-09-25T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rynek-zaczyna-niepokoic-sie-o-Francje-Trwa-fiskalny-kryzys-drugiej-gospodarki-UE-9202018.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rynek-zaczyna-niepokoic-sie-o-Francje-Trwa-fiskalny-kryzys-drugiej-gospodarki-UE-9202018.html",
-      "title": "Rynek zaczyna niepokoić się o Francję. Trwa fiskalny kryzys drugiej gospodarki UE Tegoroczny wzrost rentowności długu skarbowego nie ominął i Francji. Ale nad Sekwaną sytuacja jest gorsza niż w innych krajach rozwiniętych.",
-      "content_html": "",
-      "date_published": "2026-09-25T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
