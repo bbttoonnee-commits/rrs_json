@@ -4,6 +4,41 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Best-Capital-Bulgaria-ma-licencje-Bulgarskiego-Banku-Narodowego-na-obsluge-wierzytelnosci-9203501.html",
+      "url": "https://www.bankier.pl/wiadomosc/Best-Capital-Bulgaria-ma-licencje-Bulgarskiego-Banku-Narodowego-na-obsluge-wierzytelnosci-9203501.html",
+      "title": "Best Capital Bulgaria ma licencję Bułgarskiego Banku Narodowego na obsługę wierzytelności Best Capital Bulgaria, spółka z grupy kapitałowej Best, otrzymała od Bułgarskiego Banku Narodowego (BNB) licencję na obsługę wierzytelności, co otwiera spółce drogę do dalszego zwiększania skali działalności w Bułgarii - poinformował Best w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-09-28T08:42:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-zamierza-wezwac-do-sprzedazy-akcji-Erste-Bank-Polska-po-cenie-713-6-zl-za-szt-9203484.html",
+      "url": "https://www.bankier.pl/wiadomosc/Erste-Group-Bank-zamierza-wezwac-do-sprzedazy-akcji-Erste-Bank-Polska-po-cenie-713-6-zl-za-szt-9203484.html",
+      "title": "Erste Group chce przejąć kontrolę nad Erste Bank Polska. Ogłoszono cenę wezwania Erste Group Bank AG ogłasza zamiar przeprowadzenia wezwania do sprzedaży 52.113.041 akcji Erste Bank Polska po cenie 713,6 zł za jedną akcję - poinformował Erste Securities, pośredniczący w wezwaniu.",
+      "content_html": "",
+      "date_published": "2026-09-28T07:56:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Naruszenie-danych-w-Enel-Med-moze-dotyczyc-ok-3-proc-calej-bazy-pacjentow-9203457.html",
+      "url": "https://www.bankier.pl/wiadomosc/Naruszenie-danych-w-Enel-Med-moze-dotyczyc-ok-3-proc-calej-bazy-pacjentow-9203457.html",
+      "title": "ALERT Cyberatak na Enel-Med. Hakerzy uzyskali dostęp do danych pacjentów W wyniku incydentu bezpieczeństwa polegającego na nieuprawnionym dostępie do części infrastruktury informatycznej spółki Centrum Medyczne Enel-Med doszło do uzyskania dostępu do części danych pacjentów. Naruszenie może dotyczyć ok. 3 proc. całej bazy pacjentów - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-09-28T06:28:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Perelki-i-gieldowe-pulapki-Dlaczego-debiut-nowego-indeksu-rozczarowal-inwestorow-9202845.html",
+      "url": "https://www.bankier.pl/wiadomosc/Perelki-i-gieldowe-pulapki-Dlaczego-debiut-nowego-indeksu-rozczarowal-inwestorow-9202845.html",
+      "title": "Perełki i giełdowe pułapki. Dlaczego debiut nowego indeksu rozczarował inwestorów? Rynek NewConnect od lat budzi skrajne emocje wśród inwestorów, stanowiąc z jednej strony obietnicę gigantycznych zysków, a z drugiej nierzadko przypominając finansowy Dziki Zachód. Zbliżający się do dwóch dekad swojego istnienia, jest miejscem, gdzie obok innowacyjnych biznesów z ogromnym potencjałem, którego akcje są chętnie handlowane między inwestorami, funkcjonują podmioty o wysoce wątpliwej jakości. Nowy indeks NCFIndex ma za zadanie odzwierciedlać koniunkturę wyłącznie w segmencie najbardziej rozwiniętych i aktywnie notowanych spółek i historyczne porównanie potwierdza lepszą formę elity NewConnect, nawet jeśli sam start notowań nowego indeksu nie wypadł najlepiej.",
+      "content_html": "",
+      "date_published": "2026-09-28T06:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rekordowo-drogie-tankowce-I-mozna-bylo-na-tym-zarobic-9202617.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rekordowo-drogie-tankowce-I-mozna-bylo-na-tym-zarobic-9202617.html",
+      "title": "Rekordowo drogie tankowce. I można było na tym zarobić O ile odbiorcy ropy naftowej muszą się liczyć z dodatkowymi kosztami, tak niektórzy inwestorzy mogli na tym wszystkim dobrze zarobić.",
+      "content_html": "",
+      "date_published": "2026-09-28T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ekspert-Rzadowy-windfall-tax-to-dosc-prosty-mechanizm-prezydencki-projekt-powazniejsza-ingerencja-9202488.html",
       "url": "https://www.bankier.pl/wiadomosc/Ekspert-Rzadowy-windfall-tax-to-dosc-prosty-mechanizm-prezydencki-projekt-powazniejsza-ingerencja-9202488.html",
       "title": "Ekspert: Rządowy windfall tax to dość prosty mechanizm, prezydencki projekt - poważniejsza ingerencja Przyjęta przez Senat rządowa ustawa o podatku od nadzwyczajnych zysków firm paliwowych wprowadza klasyczny podatek o dość prostej konstrukcji - wskazał partner w kancelarii MDDP Tomasz Michalik. Jego zdaniem prezydencki projekt, w którym zaproponowano m.in. tymczasowe ograniczanie marż koncernów paliwowych to ingerencja w jeden z filarów swobody prowadzenia działalności gospodarczej.",
@@ -37,20 +72,6 @@
       "title": "ALERT Atak hakerski na Enel-Med. Doszło do wycieku poufnych danych pacjentów Zarząd spółki Centrum Medyczne Enel-Med 24 września 2026 r. w godzinach wieczornych powziął informację o incydencie bezpieczeństwa IT i naruszenia poufności danych - podała spółka w komunikacie. Spółka podjęła działania zabezpieczające sieć, systemy spółki i dane klientów.",
       "content_html": "",
       "date_published": "2026-09-26T09:32:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ostrzezenie-z-Wall-Street-Zanim-nadejdzie-rajd-na-koniec-roku-akcje-moga-zaliczyc-spadki-9202966.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ostrzezenie-z-Wall-Street-Zanim-nadejdzie-rajd-na-koniec-roku-akcje-moga-zaliczyc-spadki-9202966.html",
-      "title": "Ostrzeżenie z Wall Street: Zanim nadejdzie rajd na koniec roku, akcje mogą zaliczyć spadki Tęgie umysły rynków finansowych zastanawiały się w tym tygodniu m.in. nad tym, czy akcje są w stanie oprzeć się presji wynikającej z rosnących rentowności obligacji, które właśnie osiągnęły najwyższe poziomy od dwóch dekad.",
-      "content_html": "",
-      "date_published": "2026-09-26T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niespodzianka-w-strefie-euro-rekordowy-Bitcoin-i-drozsze-kredyty-Co-dzieje-sie-z-gospodarka-9202605.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niespodzianka-w-strefie-euro-rekordowy-Bitcoin-i-drozsze-kredyty-Co-dzieje-sie-z-gospodarka-9202605.html",
-      "title": "WYKRESY TYGODNIA Niespodzianka w strefie euro, rekordowy Bitcoin i droższe kredyty. Co dzieje się z gospodarką? Cześć! Tu Inwestor Wojtek. Co słychać w tym tygodniu, zobaczmy. Od niespodziewanego ożywienia gospodarczego w strefie euro i rekordowych wycen złota, po wyraźne spowolnienie dynamiki płac oraz spadek zdolności kredytowej Polaków - przełom lata i jesieni przynosi skrajne sygnały z rynków finansowych. Podczas gdy Bitcoin bije tegoroczne rekordy, a deweloperzy oddają do użytku najwięcej mieszkań od czterech lat, koszty finansowania i niestabilne ceny energii zmuszają konsumentów oraz banki centralne do weryfikacji dotychczasowych planów.",
-      "content_html": "",
-      "date_published": "2026-09-26T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
