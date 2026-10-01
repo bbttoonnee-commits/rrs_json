@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-Zabka-Group-spelniony-zostal-jeden-z-warunkow-prawnych-9205608.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-Zabka-Group-spelniony-zostal-jeden-z-warunkow-prawnych-9205608.html",
+      "title": "W wezwaniu na akcje Zabka Group spełniony został jeden z warunków prawnych",
+      "content_html": "W wezwaniu Alimentation Couche-Tard na akcje Zabka Group spełniony został jeden z warunków prawnych - wzywający otrzymał decyzję Organu FDI wyrażającą zgodę na przeprowadzenie transakcji przewidzianych w dokumencie wezwania - poinformował pośredniczący...",
+      "date_published": "2026-09-30T23:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Komunikat-w-sprawie-spelnienia-jednego-z-warunkow-prawnych-okreslonego-w-wezwaniu-do-zapisywania-sie-na-sprzedaz-akcji-Zabka-Group-9205601.html",
       "url": "https://www.bankier.pl/wiadomosc/Komunikat-w-sprawie-spelnienia-jednego-z-warunkow-prawnych-okreslonego-w-wezwaniu-do-zapisywania-sie-na-sprzedaz-akcji-Zabka-Group-9205601.html",
       "title": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group",
@@ -695,13 +702,6 @@
       "title": "Gaz w Europie drożeje. Rynek czeka na informacje z cieśniny Ormuz",
       "content_html": "Ceny gazu w Europie rosną w środę o ponad 1 proc., po zniżce we wtorek o 5 proc. Inwestorzy czekają na informacje ws. ruchu statków w cieśninie Ormuz, przez którą przed wybuchem wojny na Bliskim Wschodzie transportowano 1/5 światowych dostaw...",
       "date_published": "2026-09-30T10:14:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Chiny-doplaca-obywatelom-do-kredytow-Pierwszy-taki-ruch-Pekinu-9204872.html",
-      "url": "https://www.bankier.pl/wiadomosc/Chiny-doplaca-obywatelom-do-kredytow-Pierwszy-taki-ruch-Pekinu-9204872.html",
-      "title": "Chiny dopłacą obywatelom do kredytów. Pierwszy taki ruch Pekinu",
-      "content_html": "Władze w Pekinie ogłosiły pakiet działań osłonowych, obejmujący państwowe dopłaty do kredytów hipotecznych oraz obniżkę stóp procentowych w banku centralnym - poinformował \"Financial Times\". Analitycy interpretują ten ruch jako odpowiedź...",
-      "date_published": "2026-09-30T10:10:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

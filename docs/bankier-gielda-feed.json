@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-Zabka-Group-spelniony-zostal-jeden-z-warunkow-prawnych-9205608.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-Zabka-Group-spelniony-zostal-jeden-z-warunkow-prawnych-9205608.html",
+      "title": "W wezwaniu na akcje Zabka Group spełniony został jeden z warunków prawnych W wezwaniu Alimentation Couche-Tard na akcje Zabka Group spełniony został jeden z warunków prawnych - wzywający otrzymał decyzję Organu FDI wyrażającą zgodę na przeprowadzenie transakcji przewidzianych w dokumencie wezwania - poinformował pośredniczący w wezwaniu Ipopema Securities.",
+      "content_html": "",
+      "date_published": "2026-09-30T22:30:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Komunikat-w-sprawie-spelnienia-jednego-z-warunkow-prawnych-okreslonego-w-wezwaniu-do-zapisywania-sie-na-sprzedaz-akcji-Zabka-Group-9205601.html",
       "url": "https://www.bankier.pl/wiadomosc/Komunikat-w-sprawie-spelnienia-jednego-z-warunkow-prawnych-okreslonego-w-wezwaniu-do-zapisywania-sie-na-sprzedaz-akcji-Zabka-Group-9205601.html",
       "title": "Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group Komunikat w sprawie spełnienia jednego z warunków prawnych określonego w wezwaniu do zapisywania się na sprzedaż akcji Zabka Group S.A. ogłoszonym przez Alimentation Couche-Tard Inc. - komunikat.",
@@ -548,13 +555,6 @@
       "title": "RN JSW zatwierdziła program naprawczy spółki na lata 2026-2035 Rada nadzorcza JSW zatwierdziła program naprawczy Jastrzębskiej Spółki Węglowej na lata 2026-2035 z uwzględnieniem spółek zależnych z operacjonalizacją - podała spółka w komunikacie. Program ma zapewnić grupie długoterminową poprawę rentowności, bezpieczeństwo płynności finansowej oraz dostosowanie skali działalności do warunków rynkowych i operacyjnych.",
       "content_html": "",
       "date_published": "2026-09-29T06:46:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-II-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9204064.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Compu-w-II-kw-2026-roku-vs-konsensus-PAP-Biznes-tabela-9204064.html",
-      "title": "Wyniki Compu w II kw. 2026 roku vs. konsensus PAP Biznes Poniżej przedstawiono wyniki Compu w drugim kwartale 2026 roku oraz ich odniesienie do konsensusu PAP Biznes i poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-09-28T23:14:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
