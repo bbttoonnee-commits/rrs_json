@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-roku-obrotowym-2025-26-wyniosl-322-mln-USD-9206999.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kernel-Holding-w-roku-obrotowym-2025-26-wyniosl-322-mln-USD-9206999.html",
+      "title": "Zysk netto Kernel Holding w roku obrotowym 2025/26 wyniósł 322 mln USD Zysk netto Kernel Holding, przypisany akcjonariuszom jednostki dominującej, w roku obrotowym 2025/26, kończącym się 30 czerwca 2026 roku, wyniósł 322 mln USD wobec 238 mln USD rok wcześniej - poinformowała spółka w raporcie.",
+      "content_html": "",
+      "date_published": "2026-10-02T22:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestorzy-reaguja-na-dane-z-gospodarki-Nasdaq-z-historycznym-szczytem-znizki-na-rynku-ropy-9206993.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestorzy-reaguja-na-dane-z-gospodarki-Nasdaq-z-historycznym-szczytem-znizki-na-rynku-ropy-9206993.html",
+      "title": "Inwestorzy reagują na dane z gospodarki. Nasdaq z historycznym szczytem, zniżki na rynku ropy Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Nasdaq osiągnął w ciągu dnia rekordowy poziom, wspierany m.in. przez akcje Nvidii. Po gorszym od oczekiwań raporcie z rynku pracy słabną oczekiwania na podwyżkę stóp proc. przez Fed.",
+      "content_html": "",
+      "date_published": "2026-10-02T22:18:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Fitch-zmienil-perspektywe-ratingu-Synthosu-z-negatywnej-na-stabilna-9206952.html",
       "url": "https://www.bankier.pl/wiadomosc/Fitch-zmienil-perspektywe-ratingu-Synthosu-z-negatywnej-na-stabilna-9206952.html",
       "title": "Fitch zmienił perspektywę ratingu Synthosu z negatywnej na stabilną Fitch Ratings zmienił perspektywę ratingu IDR spółki Synthos z negatywnej na stabilną oraz potwierdził rating na poziomie \"BB\" - podała agencja w komunikacie.",
@@ -436,20 +450,6 @@
       "title": "Grupa Azoty przedłużyła porozumienia z instytucjami finansującymi Grupa Azoty podpisała w imieniu własnym oraz wybranych spółek z grupy aneks z 11 instytucjami finansującymi w sprawie przedłużenia porozumień - poinformowała spółka w komunikacie. Aneksy umożliwią kontynuację działań restrukturyzacyjnych i wypracowywania długoterminowego planu restrukturyzacji Grupy Azoty.",
       "content_html": "",
       "date_published": "2026-10-01T06:44:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-przewaga-spadkow-mimo-nizszej-od-oczekiwan-inflacji-9205628.html",
-      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-przewaga-spadkow-mimo-nizszej-od-oczekiwan-inflacji-9205628.html",
-      "title": "Na Wall Street przewaga spadków mimo niższej od oczekiwań inflacji Giełdowe indeksy na Wall Street w większości spadły w środę pomimo tego, że nowe dane pokazały, że inflacja w Stanach Zjednoczonych spadła w zeszłym miesiącu. W centrum uwagi były też inne dane makro z amerykańskiej gospodarki.",
-      "content_html": "",
-      "date_published": "2026-09-30T23:47:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-Zabka-Group-spelniony-zostal-jeden-z-warunkow-prawnych-9205608.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-wezwaniu-na-akcje-Zabka-Group-spelniony-zostal-jeden-z-warunkow-prawnych-9205608.html",
-      "title": "Przejęcie Żabki coraz bliżej. Couche-Tard spełnił jeden z warunków wezwania W wezwaniu Alimentation Couche-Tard na akcje Zabka Group spełniony został jeden z warunków prawnych - wzywający otrzymał decyzję Organu FDI wyrażającą zgodę na przeprowadzenie transakcji przewidzianych w dokumencie wezwania - poinformował pośredniczący w wezwaniu Ipopema Securities.",
-      "content_html": "",
-      "date_published": "2026-09-30T22:30:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
