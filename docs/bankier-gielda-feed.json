@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gielda-i-waluta-w-gore-po-dobrym-wyniku-Bolsonaro-w-wyborach-prezydenckich-9207849.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gielda-i-waluta-w-gore-po-dobrym-wyniku-Bolsonaro-w-wyborach-prezydenckich-9207849.html",
+      "title": "BRAZYLIA Giełda i waluta w górę po dobrym wyniku Bolsonaro w wyborach prezydenckich Inwestorzy pozytywnie zareagowali na nadspodziewanie dobry wynik prawicowego senatora Flavia Bolsonaro i jego Partii Liberalnej (PL) w niedzielnych wyborach w Brazylii. Indeks giełdy w Sao Paulo wzrósł w poniedziałek o ponad 8 proc., a brazylijski real umocnił się względem dolara.",
+      "content_html": "",
+      "date_published": "2026-10-05T20:34:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/GPW-potwierdza-stabilne-funkcjonowanie-nowego-systemu-transakcyjnego-GPW-WATS-9207831.html",
       "url": "https://www.bankier.pl/wiadomosc/GPW-potwierdza-stabilne-funkcjonowanie-nowego-systemu-transakcyjnego-GPW-WATS-9207831.html",
       "title": "GPW potwierdza stabilne funkcjonowanie nowego systemu transakcyjnego GPW WATS Giełda Papierów Wartościowych w Warszawie potwierdza stabilne funkcjonowanie nowego systemu transakcyjnego GPW WATS oraz przebieg notowań w pierwszym dniu funkcjonowania tego systemu, w poniedziałek 5 października - poinformowała giełda w komunikacie.",
@@ -142,13 +149,6 @@
       "title": "Najgorsza giełda III kwartału wciąż jest wiceliderem roku. W Seulu jest tanio czy dopiero będzie? Jeden z najmocniejszych światowych indeksów tego roku był jednocześnie najsłabszym giełdowym benchmarkiem trzeciego kwartału. Południowokoreański KOSPI stracił w trzy miesiące prawie 19%, ale od 1 stycznia zyskuje wciąż ponad 60%. Wyprzedaż akcji Samsunga i SK Hynix to początek większej korekty czy okazja, na którą czekali inwestorzy?",
       "content_html": "",
       "date_published": "2026-10-05T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/GPW-zakonczyla-proces-migracji-do-WATS-5-X-bedzie-pierwszym-dniem-notowan-w-systemie-GPW-WATS-9207156.html",
-      "url": "https://www.bankier.pl/wiadomosc/GPW-zakonczyla-proces-migracji-do-WATS-5-X-bedzie-pierwszym-dniem-notowan-w-systemie-GPW-WATS-9207156.html",
-      "title": "GPW zakończyła migrację. 5 października ruszą notowania w nowym systemie WATS Giełda Papierów Wartościowych poinformowała o zakończeniu z sukcesem procesu migracji do WATS i potwierdziła, że 5 października 2026 r. będzie pierwszym dniem produkcyjnego prowadzenia notowań w systemie GPW WATS - wynika z komunikatu GPW.",
-      "content_html": "",
-      "date_published": "2026-10-03T22:08:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
