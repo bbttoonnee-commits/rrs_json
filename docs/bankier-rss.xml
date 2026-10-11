@@ -8,21 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>pl</language>
-    <lastBuildDate>Sun, 11 Oct 2026 15:23:00 +0200</lastBuildDate>
-    <item>
-      <title>Wall Street ze wzrostami. SpaceX pogrążył gigantów telekomunikacji, a Trump dogadał się z Putinem</title>
-      <link>https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-wzrostami-SpaceX-pograzyl-gigantow-telekomunikacji-a-Trump-dogadal-sie-z-Putinem-9210587.html</link>
-      <description>Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów po burzliwym tygodniu z wysokimi rentownościami obligacji skarbowych i cenami ropy. Dow Jones zyskał w piątek ponad 400 punktów.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-wzrostami-SpaceX-pograzyl-gigantow-telekomunikacji-a-Trump-dogadal-sie-z-Putinem-9210587.html</guid>
-      <pubDate>Sat, 10 Oct 2026 00:09:00 +0200</pubDate>
-    </item>
-    <item>
-      <title>Rosja wstrzymuje loty na Kubę. Jest jeden kluczowy warunek powrotu</title>
-      <link>https://www.bankier.pl/wiadomosc/Rosja-wstrzymuje-loty-na-Kube-Jest-jeden-kluczowy-warunek-powrotu-9207912.html</link>
-      <description>Władze Rosji uzależniają możliwość wznowienia lotów na Kubę od poprawy warunków logistycznych na wyspie, w szczególności od dostępu do paliwa lotniczego - wynika z cytowanych przez kubańskie media przedstawicieli Kremla.</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Rosja-wstrzymuje-loty-na-Kube-Jest-jeden-kluczowy-warunek-powrotu-9207912.html</guid>
-      <pubDate>Sat, 10 Oct 2026 06:52:00 +0200</pubDate>
-    </item>
+    <lastBuildDate>Sun, 11 Oct 2026 21:09:00 +0200</lastBuildDate>
     <item>
       <title>Tyle małżeństw jednopłciowych wpisano już do polskich rejestrów. Znamy dane</title>
       <link>https://www.bankier.pl/wiadomosc/Tyle-malzenstw-jednoplciowych-wpisano-juz-do-polskich-rejestrow-Znamy-dane-9207913.html</link>
@@ -577,13 +563,6 @@
       <pubDate>Sun, 11 Oct 2026 09:31:00 +0200</pubDate>
     </item>
     <item>
-      <title>Skąd Polacy czerpią informacje? Telewizja wciąż wygrywa z internetem</title>
-      <link>https://www.bankier.pl/wiadomosc/Skad-Polacy-czerpia-informacje-Telewizja-wciaz-wygrywa-z-internetem-9209233.html</link>
-      <description>Telewizja pozostaje głównym źródłem informacji o wydarzeniach w kraju i na świecie dla 59 proc. Polaków, a portale informacyjne w internecie wskazuje 50 proc. badanych - wynika z badania CBOS. Media społecznościowe są głównym źródłem informacji...</description>
-      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Skad-Polacy-czerpia-informacje-Telewizja-wciaz-wygrywa-z-internetem-9209233.html</guid>
-      <pubDate>Sun, 11 Oct 2026 09:36:00 +0200</pubDate>
-    </item>
-    <item>
       <title>Atak USA na statek handlowy. Myśliwiec unieruchomił jednostkę płynącą z Iranu</title>
       <link>https://www.bankier.pl/wiadomosc/Atak-USA-na-statek-handlowy-Mysliwiec-unieruchomil-jednostke-plynaca-z-Iranu-9210784.html</link>
       <description>Amerykańskie wojsko poinformowało w sobotę o unieruchomieniu komercyjnego statku towarowego w Zatoce Omańskiej, po tym jak jego załoga zignorowała ostrzeżenia i próbowała przełamać blokadę morską nałożoną na Iran.</description>
@@ -703,11 +682,25 @@
       <pubDate>Sun, 11 Oct 2026 15:03:00 +0200</pubDate>
     </item>
     <item>
-      <title>"Śmiertelnie poważna sprawa". Służby alarmują o możliwym zamachu na Tuska i Kosiniaka-Kamysza</title>
+      <title>Trump ogłasza rozejm energetyczny. Zełenski zaskoczony, ale dyktuje warunki</title>
+      <link>https://www.bankier.pl/wiadomosc/Trump-oglasza-rozejm-energetyczny-Zelenski-zaskoczony-ale-dyktuje-warunki-9210909.html</link>
+      <description>Ukraina popiera wstrzymanie ataków na infrastrukturę energetyczną ogłoszone przez prezydenta USA Donald Trump, ale ważne jest, by poparła je także Rosja; oczekujemy na szczegóły od strony amerykańskiej – oświadczył w niedzielę wieczorem...</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Trump-oglasza-rozejm-energetyczny-Zelenski-zaskoczony-ale-dyktuje-warunki-9210909.html</guid>
+      <pubDate>Sun, 11 Oct 2026 20:56:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Śmiertelnie poważna sprawa". Służby alarmują o planowanym zamachu na Tuska i Kosiniaka-Kamysza</title>
       <link>https://www.bankier.pl/wiadomosc/Smiertelnie-powazna-sprawa-Sluzby-alarmuja-o-mozliwym-zamachu-na-Tuska-i-Kosiniaka-Kamysza-9210864.html</link>
       <description>Jacek Dobrzyński, rzecznik ministra koordynatora służb specjalnych poinformował, że informacje dot. możliwego zamachu na premiera i szefa MON są traktowane „śmiertelnie poważnie”. Jak dodał, sygnały o ewentualnym zamachu wpłynęły najpierw...</description>
       <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Smiertelnie-powazna-sprawa-Sluzby-alarmuja-o-mozliwym-zamachu-na-Tuska-i-Kosiniaka-Kamysza-9210864.html</guid>
-      <pubDate>Sun, 11 Oct 2026 15:23:00 +0200</pubDate>
+      <pubDate>Sun, 11 Oct 2026 21:07:00 +0200</pubDate>
+    </item>
+    <item>
+      <title>"Nikt i nic nie złamie Ukrainy". Tusk po rozmowie z Zełenskim gwarantuje pełne wsparcie</title>
+      <link>https://www.bankier.pl/wiadomosc/Nikt-i-nic-nie-zlamie-Ukrainy-Tusk-po-rozmowie-z-Zelenskim-gwarantuje-pelne-wsparcie-9210881.html</link>
+      <description>Prezydent Ukrainy Wołodymyr Zełenski poinformował w niedzielę o rozmowie telefonicznej z premierem Donaldem Tuskiem, któremu podziękował za wsparcie i zrozumienia sytuacji bezpieczeństwa.</description>
+      <guid isPermaLink="false">https://www.bankier.pl/wiadomosc/Nikt-i-nic-nie-zlamie-Ukrainy-Tusk-po-rozmowie-z-Zelenskim-gwarantuje-pelne-wsparcie-9210881.html</guid>
+      <pubDate>Sun, 11 Oct 2026 21:09:00 +0200</pubDate>
     </item>
   </channel>
 </rss>

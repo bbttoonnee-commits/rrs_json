@@ -4,11 +4,25 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nikt-i-nic-nie-zlamie-Ukrainy-Tusk-po-rozmowie-z-Zelenskim-gwarantuje-pelne-wsparcie-9210881.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nikt-i-nic-nie-zlamie-Ukrainy-Tusk-po-rozmowie-z-Zelenskim-gwarantuje-pelne-wsparcie-9210881.html",
+      "title": "\"Nikt i nic nie złamie Ukrainy\". Tusk po rozmowie z Zełenskim gwarantuje pełne wsparcie",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski poinformował w niedzielę o rozmowie telefonicznej z premierem Donaldem Tuskiem, któremu podziękował za wsparcie i zrozumienia sytuacji bezpieczeństwa.",
+      "date_published": "2026-10-11T21:09:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Smiertelnie-powazna-sprawa-Sluzby-alarmuja-o-mozliwym-zamachu-na-Tuska-i-Kosiniaka-Kamysza-9210864.html",
       "url": "https://www.bankier.pl/wiadomosc/Smiertelnie-powazna-sprawa-Sluzby-alarmuja-o-mozliwym-zamachu-na-Tuska-i-Kosiniaka-Kamysza-9210864.html",
-      "title": "\"Śmiertelnie poważna sprawa\". Służby alarmują o możliwym zamachu na Tuska i Kosiniaka-Kamysza",
+      "title": "\"Śmiertelnie poważna sprawa\". Służby alarmują o planowanym zamachu na Tuska i Kosiniaka-Kamysza",
       "content_html": "Jacek Dobrzyński, rzecznik ministra koordynatora służb specjalnych poinformował, że informacje dot. możliwego zamachu na premiera i szefa MON są traktowane „śmiertelnie poważnie”. Jak dodał, sygnały o ewentualnym zamachu wpłynęły najpierw...",
-      "date_published": "2026-10-11T15:23:00+02:00"
+      "date_published": "2026-10-11T21:07:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-oglasza-rozejm-energetyczny-Zelenski-zaskoczony-ale-dyktuje-warunki-9210909.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-oglasza-rozejm-energetyczny-Zelenski-zaskoczony-ale-dyktuje-warunki-9210909.html",
+      "title": "Trump ogłasza rozejm energetyczny. Zełenski zaskoczony, ale dyktuje warunki",
+      "content_html": "Ukraina popiera wstrzymanie ataków na infrastrukturę energetyczną ogłoszone przez prezydenta USA Donald Trump, ale ważne jest, by poparła je także Rosja; oczekujemy na szczegóły od strony amerykańskiej – oświadczył w niedzielę wieczorem...",
+      "date_published": "2026-10-11T20:56:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Huti-terroryzuja-saudyjska-stolice-Krwawy-atak-na-lotnisko-w-Rijadzie-zachodnie-ambasady-ostrzegaja-9210735.html",
@@ -128,13 +142,6 @@
       "title": "Atak USA na statek handlowy. Myśliwiec unieruchomił jednostkę płynącą z Iranu",
       "content_html": "Amerykańskie wojsko poinformowało w sobotę o unieruchomieniu komercyjnego statku towarowego w Zatoce Omańskiej, po tym jak jego załoga zignorowała ostrzeżenia i próbowała przełamać blokadę morską nałożoną na Iran.",
       "date_published": "2026-10-11T09:50:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skad-Polacy-czerpia-informacje-Telewizja-wciaz-wygrywa-z-internetem-9209233.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skad-Polacy-czerpia-informacje-Telewizja-wciaz-wygrywa-z-internetem-9209233.html",
-      "title": "Skąd Polacy czerpią informacje? Telewizja wciąż wygrywa z internetem",
-      "content_html": "Telewizja pozostaje głównym źródłem informacji o wydarzeniach w kraju i na świecie dla 59 proc. Polaków, a portale informacyjne w internecie wskazuje 50 proc. badanych - wynika z badania CBOS. Media społecznościowe są głównym źródłem informacji...",
-      "date_published": "2026-10-11T09:36:00+02:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Pracowales-w-Holandii-Mozesz-dostac-tamtejsza-emeryture-ZUS-podaje-szczegoly-9208618.html",
@@ -688,20 +695,6 @@
       "title": "Tyle małżeństw jednopłciowych wpisano już do polskich rejestrów. Znamy dane",
       "content_html": "Polskie urzędy stanu cywilnego transkrybowały łącznie 516 aktów małżeństw jednopłciowych zawartych za granicą. 198 dotyczyło małżeństw kobiet, a 318 mężczyzn – przekazało PAP Ministerstwo Cyfryzacji.",
       "date_published": "2026-10-10T06:54:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-wstrzymuje-loty-na-Kube-Jest-jeden-kluczowy-warunek-powrotu-9207912.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-wstrzymuje-loty-na-Kube-Jest-jeden-kluczowy-warunek-powrotu-9207912.html",
-      "title": "Rosja wstrzymuje loty na Kubę. Jest jeden kluczowy warunek powrotu",
-      "content_html": "Władze Rosji uzależniają możliwość wznowienia lotów na Kubę od poprawy warunków logistycznych na wyspie, w szczególności od dostępu do paliwa lotniczego - wynika z cytowanych przez kubańskie media przedstawicieli Kremla.",
-      "date_published": "2026-10-10T06:52:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-wzrostami-SpaceX-pograzyl-gigantow-telekomunikacji-a-Trump-dogadal-sie-z-Putinem-9210587.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-wzrostami-SpaceX-pograzyl-gigantow-telekomunikacji-a-Trump-dogadal-sie-z-Putinem-9210587.html",
-      "title": "Wall Street ze wzrostami. SpaceX pogrążył gigantów telekomunikacji, a Trump dogadał się z Putinem",
-      "content_html": "Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów po burzliwym tygodniu z wysokimi rentownościami obligacji skarbowych i cenami ropy. Dow Jones zyskał w piątek ponad 400 punktów.",
-      "date_published": "2026-10-10T00:09:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
