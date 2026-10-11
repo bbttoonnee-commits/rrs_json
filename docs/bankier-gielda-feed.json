@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nastroje-na-GPW-gwaltownie-do-dolu-Byki-uciekaja-z-warszawskiej-gieldy-9210919.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nastroje-na-GPW-gwaltownie-do-dolu-Byki-uciekaja-z-warszawskiej-gieldy-9210919.html",
+      "title": "Nastroje na GPW gwałtownie do dołu. Byki uciekają z warszawskiej giełdy? Odsetek inwestorów spodziewających się w ciągu sześciu miesięcy trendu wzrostowego na GPW spadł o 13 pkt. proc. i wyniósł 42,4 proc. Odsetek respondentów oczekujących trendu spadkowego wzrósł o 10,9 pkt. proc. i wynosi 30,5 proc. - wynika z cotygodniowego sondażu Indeksu Nastrojów Inwestorów.",
+      "content_html": "",
+      "date_published": "2026-10-11T19:50:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polacy-maja-pieniadze-na-inwestycje-ale-wola-lokaty-Nowe-badanie-pokazuje-zmiane-9209478.html",
       "url": "https://www.bankier.pl/wiadomosc/Polacy-maja-pieniadze-na-inwestycje-ale-wola-lokaty-Nowe-badanie-pokazuje-zmiane-9209478.html",
       "title": "Polacy mają pieniądze na inwestycje, ale wolą lokaty. Nowe badanie pokazuje zmianę 23 proc. Polaków nie inwestuje, ale chciałoby zacząć to robić - wynika z badania przeprowadzonego na zlecenie UniCredit. Większość Polaków ma środki na inwestycje, a co trzeci może przeznaczyć na to nawet ponad 10 tys. zł.",
@@ -44,20 +51,6 @@
       "title": "WYKRESY TYGODNIA BANKIER.PL Polacy zarabiają mniej, niż sugeruje średnia, a obligacje rozczarowują. Tydzień na wykresach Ile naprawdę zarabiają Polacy, ile złota kupuje NBP i dlaczego bezpieczne obligacje przyniosły dotkliwe straty? W „Wykresach tygodnia” przyglądam się najnowszym danym z rynku pracy, finansów, nieruchomości i motoryzacji. Sprawdzam też, jak radzi sobie KGHM na tle największych spółek górniczych świata.",
       "content_html": "",
       "date_published": "2026-10-10T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-wzrostami-SpaceX-pograzyl-gigantow-telekomunikacji-a-Trump-dogadal-sie-z-Putinem-9210587.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-konczy-tydzien-wzrostami-SpaceX-pograzyl-gigantow-telekomunikacji-a-Trump-dogadal-sie-z-Putinem-9210587.html",
-      "title": "Wall Street ze wzrostami. SpaceX pogrążył gigantów telekomunikacji, a Trump dogadał się z Putinem Piątkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów po burzliwym tygodniu z wysokimi rentownościami obligacji skarbowych i cenami ropy. Dow Jones zyskał w piątek ponad 400 punktów.",
-      "content_html": "",
-      "date_published": "2026-10-09T23:09:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atal-w-III-kw-26-przekazal-1122-lokale-9210547.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atal-w-III-kw-26-przekazal-1122-lokale-9210547.html",
-      "title": "Atal w III kw. 2026 przekazał 1122 lokale W trzecim kwartale 2026 roku Atal przekazał 1122 lokale - podała spółka w komunikacie. Najwięcej lokali zostało wydanych w Poznaniu - 225, następnie w Trójmieście - 208, w Warszawie - 170, w Łodzi - 169, w Aglomeracji Śląskiej - 153, we Wrocławiu - 144 i w Krakowie - 53 .",
-      "content_html": "",
-      "date_published": "2026-10-09T20:42:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
