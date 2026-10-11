@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Jedna-spolka-zarabia-na-boomie-AI-znacznie-wiecej-niz-konkurenci-Moze-to-potrwac-do-lat-30-9210061.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jedna-spolka-zarabia-na-boomie-AI-znacznie-wiecej-niz-konkurenci-Moze-to-potrwac-do-lat-30-9210061.html",
+      "title": "Jedna spółka zarabia na boomie AI znacznie więcej niż konkurenci. \"Może to potrwać do lat 30\"",
+      "content_html": "Boom na sztuczną inteligencję przynosi producentom układów scalonych ogromne zyski, ale korzyści z inwestycyjnego szału rozkładają się nierównomiernie. Szczególnie wyróżnia się jedna spółka, która osiąga wyjątkowo wysoką rentowność...",
+      "date_published": "2026-10-11T07:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Lapy-precz-od-zlotego-Czarnek-bije-na-alarm-i-zapowiada-rewolucje-9210718.html",
       "url": "https://www.bankier.pl/wiadomosc/Lapy-precz-od-zlotego-Czarnek-bije-na-alarm-i-zapowiada-rewolucje-9210718.html",
       "title": "\"Łapy precz od złotego\". Czarnek bije na alarm i zapowiada rewolucję",
@@ -695,13 +702,6 @@
       "title": "Wojska Pakistanu już w Rijadzie. Islamabad mówi o misji obronnej",
       "content_html": "Rzecznik pakistańskiego ministerstwa spraw zagranicznych poinformował w piątek, że w Arabii Saudyjskiej rozmieszczono „znaczące” siły zbrojne Pakistanu w celach obronnych. Pakistan, Turcja i Arabia podpisały w sierpniu porozumienie zobowiązujące...",
       "date_published": "2026-10-09T14:53:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bruksela-ratuje-Armenie-przed-zemsta-Putina-Unia-zamyka-cla-na-owoce-i-alkohole-9210242.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bruksela-ratuje-Armenie-przed-zemsta-Putina-Unia-zamyka-cla-na-owoce-i-alkohole-9210242.html",
-      "title": "Bruksela ratuje Armenię przed zemstą Putina. Unia zamyka cła na owoce i alkohole",
-      "content_html": "Unia Europejska zniesie w sobotę cła na 80 proc. towarów importowanych z Armenii, w tym na niemal wszystkie świeże owoce, warzywa i kwiaty, a także alkohole. W ten sposób Wspólnota ma wesprzeć gospodarkę tego państwa na Kaukazie Południowym...",
-      "date_published": "2026-10-09T14:51:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
