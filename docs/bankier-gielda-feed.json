@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zwinna-ekonomia-vs-stare-zasady-Jak-Pokolenie-Loud-dyktuje-nowe-reguly-rynkowe-9211254.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zwinna-ekonomia-vs-stare-zasady-Jak-Pokolenie-Loud-dyktuje-nowe-reguly-rynkowe-9211254.html",
+      "title": "Zwinna ekonomia vs stare zasady. Jak Pokolenie Loud dyktuje nowe reguły rynkowe? Pokolenie Z to pierwsza generacja, która nie zamierza adaptować się do istniejących reguł gry, lecz bezkompromisowo zmusza rynek do radykalnej zmiany. Jak tradycyjny biznes musi przebudować swoje strategie, by wygrać uwagę konsumentów całkowicie uodpornionych na klasyczną reklamę? Już 23 października, podczas III edycji Forum Finansów Bankier.pl, eksperci ze świata finansów, prawa i nowych mediów rozłożą na czynniki pierwsze rynkowy fenomen „Pokolenia Loud”.",
+      "content_html": "",
+      "date_published": "2026-10-13T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/CEZ-otrzymal-nakazy-zajecia-udzialow-w-Czech-Gas-Networks-i-Czech-Gas-Networks-Investments-9211538.html",
       "url": "https://www.bankier.pl/wiadomosc/CEZ-otrzymal-nakazy-zajecia-udzialow-w-Czech-Gas-Networks-i-Czech-Gas-Networks-Investments-9211538.html",
       "title": "CEZ z nakazem zajęcia udziałów. W tle roszczenia na 17 mld koron Spółka CEZ otrzymała zawiadomienie o wydaniu nakazów zajęcia przez luksemburskiego komornika sądowego dotyczących udziałów kapitałowych spółki CEZ w Czech Gas Networks and Czech Gas Networks Investments - podał CEZ w komunikacie.",
@@ -226,13 +233,6 @@
       "title": "O TYM MÓWI WALL STREET Kiedy pęknie bańka AI? Niektórzy na Wall Street odliczają czas do krachu Coraz więcej wpływowych inwestorów przyznaje, że sytuacja wokół sztucznej inteligencji nosi znamiona bańki spekulacyjnej. Zastanawiają się, czy nadal warto próbować płynąć na tej fali, czy też nadszedł już czas na ewakuację.",
       "content_html": "",
       "date_published": "2026-10-11T08:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jedna-spolka-zarabia-na-boomie-AI-znacznie-wiecej-niz-konkurenci-Moze-to-potrwac-do-lat-30-9210061.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jedna-spolka-zarabia-na-boomie-AI-znacznie-wiecej-niz-konkurenci-Moze-to-potrwac-do-lat-30-9210061.html",
-      "title": "Jedna spółka zarabia na boomie AI znacznie więcej niż konkurenci. \"Może to potrwać do lat 30\" Boom na sztuczną inteligencję przynosi producentom układów scalonych ogromne zyski, ale korzyści z inwestycyjnego szału rozkładają się nierównomiernie. Szczególnie wyróżnia się jedna spółka, która osiąga wyjątkowo wysoką rentowność. Pytanie brzmi, jak długo utrzyma się ta sytuacja.",
-      "content_html": "",
-      "date_published": "2026-10-11T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
