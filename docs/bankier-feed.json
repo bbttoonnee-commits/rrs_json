@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-gore-Wall-Street-w-dol-Najmocniej-oberwalo-sie-polprzewodnikom-9212864.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-gore-Wall-Street-w-dol-Najmocniej-oberwalo-sie-polprzewodnikom-9212864.html",
+      "title": "Inflacja w górę, Wall Street w dół. Najmocniej oberwało się półprzewodnikom",
+      "content_html": "Nieco wyższy od oczekiwań odczyt wrześniowej inflacji konsumenckiej wystraszył inwestorów, doprowadzając do wyraźnych spadków na Wall Street.",
+      "date_published": "2026-10-14T23:05:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Planowal-zamach-na-Tuska-i-obalenie-wladzy-66-latek-tymczasowo-aresztowany-9212840.html",
       "url": "https://www.bankier.pl/wiadomosc/Planowal-zamach-na-Tuska-i-obalenie-wladzy-66-latek-tymczasowo-aresztowany-9212840.html",
       "title": "Planował zamach na Tuska i obalenie władzy. 66-latek tymczasowo aresztowany",
@@ -695,13 +702,6 @@
       "title": "Chiński lotniskowiec ruszył na Pacyfik. W tle napięcia wokół Tajwanu",
       "content_html": "Grupa uderzeniowa chińskiego lotniskowca Liaoning wypłynęła w środę na wody Zachodniego Pacyfiku w celu przeprowadzenia manewrów – poinformowała telewizja CCTV. Służby prasowe Marynarki Wojennej ChRL oświadczyły, że ćwiczenia mają charakter...",
       "date_published": "2026-10-14T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pacyfik-niszczy-wybrzeze-a-Atlantyk-niesie-snieg-i-wichury-Pogodowy-armagedon-w-USA-9212214.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pacyfik-niszczy-wybrzeze-a-Atlantyk-niesie-snieg-i-wichury-Pogodowy-armagedon-w-USA-9212214.html",
-      "title": "Pacyfik niszczy wybrzeże, a Atlantyk niesie śnieg i wichury. Pogodowy armagedon w USA",
-      "content_html": "Potężne fale wywołane pozostałościami burzy Rachel niszczą domy w Kalifornii, a na wschodzie USA spodziewane jest załamanie pogody oraz pierwsze opady śniegu. W Meksyku co najmniej sześć śmiertelnych ofiar huraganu Simon.",
-      "date_published": "2026-10-14T08:18:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
