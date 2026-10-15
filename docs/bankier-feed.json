@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tym-razem-bez-spadkow-9213541.html",
+      "url": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-tym-razem-bez-spadkow-9213541.html",
+      "title": "Na Wall Street tym razem bez spadków",
+      "content_html": "Czwartkowa sesja na Wall Street zakończyła się wzrostami głównych indeksów. Inwestorzy analizowali najnowsze dane, które wskazują na utrzymującą się w USA inflację.",
+      "date_published": "2026-10-15T23:12:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UniCredit-ma-zgode-EBC-na-przekroczenie-30-proc-udzialu-w-kapitale-Commerzbanku-9213523.html",
+      "url": "https://www.bankier.pl/wiadomosc/UniCredit-ma-zgode-EBC-na-przekroczenie-30-proc-udzialu-w-kapitale-Commerzbanku-9213523.html",
+      "title": "UniCredit ma zgodę EBC na przekroczenie 30 proc. udziału w kapitale Commerzbanku",
+      "content_html": "UniCredit S.p.A. otrzymał od Europejskiego Banku Centralnego zezwolenie na przekroczenie progu 30 proc. udziału w kapitale własnym Commerzbank AG oraz na dalsze zwiększanie swojego zaangażowania bez wyznaczania górnego limitu - poinformował UniCredit...",
+      "date_published": "2026-10-15T22:02:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zjednoczona-Prawica-jednak-razem-Kaczynski-PiS-bedzie-dazylo-do-odbudowy-9213478.html",
       "url": "https://www.bankier.pl/wiadomosc/Zjednoczona-Prawica-jednak-razem-Kaczynski-PiS-bedzie-dazylo-do-odbudowy-9213478.html",
       "title": "Zjednoczona Prawica jednak razem? Kaczyński: PiS będzie dążyło do odbudowy",
@@ -688,20 +702,6 @@
       "title": "„Stać ich na premie, stać na cyberodpowiedzialność”. Twarda zapowiedź Gawkowskiego",
       "content_html": "Do tej pory prosiliśmy firmy i wysyłaliśmy rekomendacje. Teraz będziemy przygotowywać listy podmiotów i ujawniać te, które nie wywiązały się z zaleceń ochrony danych – ujawnia wicepremier i minister cyfryzacji Krzysztof Gawkowski w opublikowanej...",
       "date_published": "2026-10-15T08:18:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polska-to-kon-pociagowy-Europy-Zachwycamy-wydatkami-na-armie-9212884.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polska-to-kon-pociagowy-Europy-Zachwycamy-wydatkami-na-armie-9212884.html",
-      "title": "\"Polska to koń pociągowy Europy\". Zachwycamy wydatkami na armię",
-      "content_html": "Ambasador USA przy NATO Matthew Whitaker poinformował w środę wieczorem, że odbył „produktywne” spotkania z szefem polskiej dyplomacji Radosławem Sikorskim oraz ministrem obrony narodowej Władysławem Kosiniakiem-Kamyszem. Podkreślił, że...",
-      "date_published": "2026-10-15T08:15:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberataki-na-supermarkety-to-dopiero-poczatek-Eksperci-ostrzegaja-przed-sabotazem-9212926.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberataki-na-supermarkety-to-dopiero-poczatek-Eksperci-ostrzegaja-przed-sabotazem-9212926.html",
-      "title": "Cyberataki na supermarkety to dopiero początek? Eksperci ostrzegają przed sabotażem",
-      "content_html": "Cyberataki na sieci supermarketów we Francji i w Holandii mogły być efektem działania obcych służb. Takich uderzeń w infrastrukturę krytyczną, związaną z produkcją, dystrybucją i sprzedażą żywności, będzie teraz więcej – mówi PAP...",
-      "date_published": "2026-10-15T08:15:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
