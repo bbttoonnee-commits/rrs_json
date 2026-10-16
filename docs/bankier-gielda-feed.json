@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Sektor-AI-znow-na-cenzurowanym-Nasdaq-z-najwiekszym-spadkiem-od-czerwca-9214160.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sektor-AI-znow-na-cenzurowanym-Nasdaq-z-najwiekszym-spadkiem-od-czerwca-9214160.html",
+      "title": "Sektor AI znów na cenzurowanym. Nasdaq z największym spadkiem od czerwca Piątek przyniósł kolejną falę przeceny spółek zarabiających na bomie na AI. Nasdaq zaliczył najgorszą sesję od czerwca.",
+      "content_html": "",
+      "date_published": "2026-10-16T22:05:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dekpol-planuje-sprzedac-555-lokali-w-2026-r-wobec-zakladanych-wczesniej-670-lokali-9214141.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dekpol-planuje-sprzedac-555-lokali-w-2026-r-wobec-zakladanych-wczesniej-670-lokali-9214141.html",
+      "title": "Dekpol planuje sprzedać 555 lokali w 2026 r. wobec zakładanych wcześniej 670 lokali Zarząd Dekpolu podjął decyzję o aktualizacji celów sprzedażowych w segmencie deweloperskim grupy na 2026 rok - podała spółka w komunikacie. Zaktualizowany cel sprzedaży lokali na podstawie umów rezerwacyjnych, deweloperskich i przedwstępnych wynosi 555 lokali wobec wcześniej zakładanych 670 lokali.",
+      "content_html": "",
+      "date_published": "2026-10-16T21:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Rafinerie-znow-zarabiaja-krocie-Inwestorzy-dostrzegli-okazje-9214046.html",
       "url": "https://www.bankier.pl/wiadomosc/Rafinerie-znow-zarabiaja-krocie-Inwestorzy-dostrzegli-okazje-9214046.html",
       "title": "Rafinerie znów zarabiają krocie. Inwestorzy dostrzegli okazję W tym roku nieustannie mówi się o sztucznej inteligencji i o tym, ile - a nawet jak ogromne - zyski może ona przynieść inwestorom w przyszłości. Tymczasem już teraz na pieniądzach pływają przedstawiciele znacznie bardziej tradycyjnych i stosunkowo nudnych branż. Niepewność dotycząca dostaw surowców przez cieśninę Ormuz sprawiła, że w i tak już bardzo trudnej sytuacji na światowym rynku energii na pierwszy plan wysunął się problem dostępności oleju napędowego. Wraz ze wzrostem cen ropy i jej produktów ogromne zyski, a w ślad za nimi wzrosty kursów akcji, notują jednak przede wszystkim rafinerie.",
@@ -338,13 +352,6 @@
       "title": "Fala przejęć w Polsce. Żabka największą transakcją kwartału W III kwartale 2026 roku na polskim rynku odnotowano 86 transakcji fuzji i przejęć - wynika z raportu M&A Index Poland przygotowanego przez Fordata i Navigator Capital. Największą aktywność obserwowano w obszarze oprogramowania komputerowego oraz medycyny i ochrony zdrowia.",
       "content_html": "",
       "date_published": "2026-10-15T07:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-w-gore-Wall-Street-w-dol-Najmocniej-oberwalo-sie-polprzewodnikom-9212864.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-w-gore-Wall-Street-w-dol-Najmocniej-oberwalo-sie-polprzewodnikom-9212864.html",
-      "title": "Inflacja w górę, Wall Street w dół. Najmocniej oberwało się półprzewodnikom Nieco wyższy od oczekiwań odczyt wrześniowej inflacji konsumenckiej wystraszył inwestorów, doprowadzając do wyraźnych spadków na Wall Street.",
-      "content_html": "",
-      "date_published": "2026-10-14T22:05:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
