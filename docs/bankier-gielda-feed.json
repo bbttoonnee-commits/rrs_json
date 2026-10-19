@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/NWZ-XTPL-zdecydowalo-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-do-400-tys-akcji-serii-Z-9214963.html",
+      "url": "https://www.bankier.pl/wiadomosc/NWZ-XTPL-zdecydowalo-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-do-400-tys-akcji-serii-Z-9214963.html",
+      "title": "NWZ XTPL zdecydowało o podwyższeniu kapitału zakładowego poprzez emisję do 400 tys. akcji serii Z Akcjonariusze XTPL zdecydowali o podwyższeniu kapitału zakładowego poprzez emisję do 400 tys. akcji serii Z, z pozbawieniem w całości prawa poboru akcjonariuszy - wynika z podjętych przez NWZ uchwał.",
+      "content_html": "",
+      "date_published": "2026-10-19T17:44:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/XTPL-szacuje-skonsolidowane-przychody-za-III-kw-na-2-7-mln-zl-9214949.html",
+      "url": "https://www.bankier.pl/wiadomosc/XTPL-szacuje-skonsolidowane-przychody-za-III-kw-na-2-7-mln-zl-9214949.html",
+      "title": "XTPL szacuje skonsolidowane przychody za III kw. na 2,7 mln zł XTPL szacuje skonsolidowane przychody za III kwartał 2026 roku na 2,7 mln zł wobec 5,1 mln zł w analogicznym okresie 2025 roku - podała spółka w komunikacie. Szacunki nie obejmują przychodów związanych z realizacją dotacji do wdrażanych przez spółkę projektów badawczo-rozwojowych.",
+      "content_html": "",
+      "date_published": "2026-10-19T17:34:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Murapol-w-III-kw-sprzedal-klientom-detalicznym-701-lokali-w-segmencie-PRS-515-lokali-9214946.html",
+      "url": "https://www.bankier.pl/wiadomosc/Murapol-w-III-kw-sprzedal-klientom-detalicznym-701-lokali-w-segmencie-PRS-515-lokali-9214946.html",
+      "title": "Murapol w III kw. sprzedał klientom detalicznym 701 lokali, w segmencie PRS 515 lokali Murapol w trzecim kwartale 2026 r. sprzedał klientom detalicznym, na podstawie umów deweloperskich i przedwstępnych, 701 lokali - podała spółka w komunikacie. Poza tym, w III kwartale Grupa sprzedała 515 lokali w segmencie PRS (Private Rented Sector, instytucjonalny najem lokali) w formule design & build.",
+      "content_html": "",
+      "date_published": "2026-10-19T17:32:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/PKP-Cargo-sprzedalo-106-z-oferowanych-337-lokomotyw-za-kwote-26-4-mln-zl-netto-9214935.html",
       "url": "https://www.bankier.pl/wiadomosc/PKP-Cargo-sprzedalo-106-z-oferowanych-337-lokomotyw-za-kwote-26-4-mln-zl-netto-9214935.html",
       "title": "PKP Cargo sprzedało 106 z oferowanych 337 lokomotyw za kwotę 26,4 mln zł netto PKP Cargo podpisało umowy sprzedaży 106 z wystawionych w marcu na sprzedaż 337 lokomotyw wyłączonych z eksploatacji - podała spółka w komunikacie. Łączna kwota sprzedaży to 26,4 mln zł netto.",
@@ -198,13 +219,6 @@
       "title": "Gospodarczy punkt ciężkości przenosi się nad Bałtyk. Miliardowe inwestycje na Pomorzu Pomorze staje się jednym z najważniejszych obszarów rozwojowych Polski, a strategiczne inwestycje realizowane nad Bałtykiem będą przez kolejne dekady wzmacniać bezpieczeństwo energetyczne, konkurencyjność gospodarczą i potencjał przemysłowy kraju.",
       "content_html": "",
       "date_published": "2026-10-18T06:01:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwieksza-banka-naszego-zycia-Miliarderzy-ostrzegaja-przed-krachem-9214052.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwieksza-banka-naszego-zycia-Miliarderzy-ostrzegaja-przed-krachem-9214052.html",
-      "title": "„Największa bańka naszego życia”. Miliarderzy ostrzegają przed krachem Coraz więcej miliarderów-inwestorów ostrzega przed bańką spekulacyjną związaną ze sztuczną inteligencją. Ponieważ giełdy wciąż biją rekordy, inwestorzy muszą zdecydować, czy już teraz zrealizować zyski, czy nadal korzystać z fali wzrostów.",
-      "content_html": "",
-      "date_published": "2026-10-17T21:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
