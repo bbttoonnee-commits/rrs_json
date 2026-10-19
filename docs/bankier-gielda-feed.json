@@ -4,6 +4,97 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/GPM-Vindexus-zwiekszyla-wartosc-programu-emisji-obligacji-do-121-mln-zl-9214615.html",
+      "url": "https://www.bankier.pl/wiadomosc/GPM-Vindexus-zwiekszyla-wartosc-programu-emisji-obligacji-do-121-mln-zl-9214615.html",
+      "title": "GPM Vindexus zwiększyła wartość programu emisji obligacji do 121 mln zł Giełda Praw Majątkowych Vindexus zwiększyła łączną wartość nominalną programu emisji obligacji do kwoty 121 mln zł - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-19T10:14:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Bloober-Team-do-38-zl-9214602.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Bloober-Team-do-38-zl-9214602.html",
+      "title": "Trigon DM obniżył cenę docelową akcji Bloober Team Analitycy Trigon DM, w raporcie z 19 października, obniżyli cenę docelową akcji Bloober Team do 38 zł z 40 zł i podtrzymali rekomendację \"kupuj\".",
+      "content_html": "",
+      "date_published": "2026-10-19T09:46:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podniosl-rekomendacje-Dom-Development-do-kupuj-cene-docelowa-obnizyl-do-285-zl-9214600.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podniosl-rekomendacje-Dom-Development-do-kupuj-cene-docelowa-obnizyl-do-285-zl-9214600.html",
+      "title": "Trigon DM podniósł rekomendację Dom Development do \"kupuj\", ale obniżył cenę docelową Analitycy Trigon DM, w raporcie z 12 października, podwyższyli rekomendację dla Dom Development do \"kupuj\" z \"trzymaj\", a cenę docelową obniżyli do 285 zł z 300 zł.",
+      "content_html": "",
+      "date_published": "2026-10-19T09:40:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-Medicalgorithmics-rosnie-o-9-proc-do-27-4-zl-indeks-sWIG80-lekko-zwyzkuje-9214585.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-Medicalgorithmics-rosnie-o-9-proc-do-27-4-zl-indeks-sWIG80-lekko-zwyzkuje-9214585.html",
+      "title": "Kurs Medicalgorithmics rośnie o 9 proc. do 27,4 zł; indeks sWIG80 lekko zwyżkuje Kurs akcji Medicalgorithmics rośnie o 9 proc. do 27,4 zł, przy wysokich obrotach. Indeks sWIG80 lekko zwyżkuje.",
+      "content_html": "",
+      "date_published": "2026-10-19T09:18:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-najwyzsze-od-konca-2022-roku-Rynek-obawia-sie-zimy-9214579.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-najwyzsze-od-konca-2022-roku-Rynek-obawia-sie-zimy-9214579.html",
+      "title": "Ceny gazu w Europie najwyższe od końca 2022 roku. Rynek obawia się zimy Ceny gazu w Europie powiększają wzrosty z ub. tygodnia, Notowania wzrosły do najwyższego poziomu od końca 2022 r. z powodu zagrożeń na Bliskim Wschodzie - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-10-19T09:10:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-akcji-Toya-do-17-zl-9214571.html",
+      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-podniosl-cene-docelowa-akcji-Toya-do-17-zl-9214571.html",
+      "title": "Noble Securities podniósł cenę docelową akcji Toya Analitycy Noble Securities, w raporcie z 16 października, podnieśli cenę docelową akcji spółki Toya do 17 zł z 15,5 zł i rekomendują kupno akcji.",
+      "content_html": "",
+      "date_published": "2026-10-19T08:50:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Murapol-wprowadza-do-oferty-191-lokali-w-Krakowie-9214555.html",
+      "url": "https://www.bankier.pl/wiadomosc/Murapol-wprowadza-do-oferty-191-lokali-w-Krakowie-9214555.html",
+      "title": "Murapol wprowadza do oferty 191 lokali w Krakowie Grupa Murapol wprowadza do oferty 191 lokali w rejonie Doliny Prądnika w Krakowie - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-10-19T08:06:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/USA-lagodza-restrykcje-wobec-Rosji-a-ropa-tanieje-Rynek-liczy-na-dostawy-9214553.html",
+      "url": "https://www.bankier.pl/wiadomosc/USA-lagodza-restrykcje-wobec-Rosji-a-ropa-tanieje-Rynek-liczy-na-dostawy-9214553.html",
+      "title": "USA łagodzą restrykcje wobec Rosji, a ropa tanieje. Rynek liczy na dostawy Ropa na globalnych rynkach tanieje, a notowania surowca wycofują się z najwyższych poziomów od 5 miesięcy. Inwestorzy liczą na to, że podaż ropy z Bliskiego Wschodu utrzyma się na poziomie sprzed wojny, mimo zaostrzenia walk w regionie - podają maklerzy.",
+      "content_html": "",
+      "date_published": "2026-10-19T08:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-ma-list-intencyjny-ws-przejecia-przez-spolke-notowana-na-Nasdaq-9214552.html",
+      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-ma-list-intencyjny-ws-przejecia-przez-spolke-notowana-na-Nasdaq-9214552.html",
+      "title": "Amerykański inwestor chce przejąć Medicalgorithmics. Jest list intencyjny Medicalgorithmics podpisał list intencyjny z amerykańską spółką z branży healthcare, działającą w sektorze technologii medycznych i notowaną na Nasdaq określający wstępne warunki potencjalnego przejęcia 100 proc. akcji Medicalgorithmics - poinformowała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-19T07:52:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-kosmicznymi-kolejkami-Polska-zbuduje-wlasne-rakiety-i-satelity-9214532.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-kosmicznymi-kolejkami-Polska-zbuduje-wlasne-rakiety-i-satelity-9214532.html",
+      "title": "Koniec z kosmicznymi kolejkami. Polska zbuduje własne rakiety i satelity Polska rozwija własne kompetencje w zakresie budowy satelitów i rakiet, a krajowe ośrodki pracują m.in. nad technologiami wynoszenia niewielkich satelitów na niską orbitę okołoziemską. Te same technologie...",
+      "content_html": "",
+      "date_published": "2026-10-19T07:00:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/OKI-wedlug-naszych-Czytelnikow-Samodzielne-inwestowanie-wygrywa-z-gotowcami-9213848.html",
+      "url": "https://www.bankier.pl/wiadomosc/OKI-wedlug-naszych-Czytelnikow-Samodzielne-inwestowanie-wygrywa-z-gotowcami-9213848.html",
+      "title": "OKI według naszych Czytelników: samodzielne inwestowanie wygrywa z „gotowcami” Jak powinny wyglądać osobiste konta inwestycyjne, które od nowego roku mają pozwolić inwestować i oszczędzać na preferencyjnych zasadach podatkowych? Aby to sprawdzić, przeprowadziliśmy w ostatnich tygodniach ankietę „Jakich OKI chcą Polacy?”, na którą odpowiedziało ponad 600 spośród Was.",
+      "content_html": "",
+      "date_published": "2026-10-19T06:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Karuzela-dywidendowa-w-Orlenie-Wyplata-bedzie-w-koncu-duza-czy-mala-9213902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Karuzela-dywidendowa-w-Orlenie-Wyplata-bedzie-w-koncu-duza-czy-mala-9213902.html",
+      "title": "Karuzela dywidendowa w Orlenie. Wypłata będzie w końcu duża czy mała? Jeszcze niedawno inwestorzy z GPW zacierali ręce na myśl o potencjalnie ogromnej dywidendzie z Orlenu za 2026 rok, licząc na udział w nadzwyczajnych zyskach paliwowego giganta. Sytuacja wokół płockiego koncernu zmienia się jednak dosłownie jak w kalejdoskopie. Przez nieokiełznany apetyt rządu na gotówkę z kontrolowanych spółek, wprowadzony podatek od nadzwyczajnych zysków i widmo gigantycznej transakcji, droga od zysków netto do portfeli akcjonariuszy staje się coraz bardziej wyboista.",
+      "content_html": "",
+      "date_published": "2026-10-19T06:01:00+02:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kapitalizm-ma-sie-swietnie-Varoufakis-calkowicie-sie-myli-ale-jednoczesnie-ma-racje-9211906.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kapitalizm-ma-sie-swietnie-Varoufakis-calkowicie-sie-myli-ale-jednoczesnie-ma-racje-9211906.html",
+      "title": "RECENZJA Kapitalizm ma się świetnie. Varoufakis całkowicie się myli, ale jednocześnie ma rację Kapitalizm umarł, a jego miejsce zajął neofeudalny system, w którym władza skupia się w rękach właścicieli cyfrowych platform - technofeudałów. Taki obraz świata w „Technofeudalizmie” przedstawia Yanis Varoufakis. Były minister finansów Grecji trafnie opisuje rosnącą zależność od cyfrowej infrastruktury, gorzej idzie mu jednak udowodnienie, że na naszych oczach powstał już zupełnie nowy ustrój. Być może to, co uznaje za śmierć kapitalizmu, świadczy właśnie o jego żywotności.",
+      "content_html": "",
+      "date_published": "2026-10-19T06:00:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Sezon-wynikow-w-USA-ruszyl-Wiekszosc-spolek-przebija-prognozy-9214418.html",
       "url": "https://www.bankier.pl/wiadomosc/Sezon-wynikow-w-USA-ruszyl-Wiekszosc-spolek-przebija-prognozy-9214418.html",
       "title": "Sezon wyników w USA ruszył. Większość spółek przebija prognozy 9 proc. firm z indeksu S&P 500 do tej pory przedstawiło rzeczywiste wyniki za trzeci kwartał 2026 roku. Spośród nich 84 proc. zgłosiło rzeczywiste EPS (zysk na akcję) powyżej szacunków, co jest powyżej 5-letniej średniej 78 proc. i powyżej 10-letniej średniej 77 proc. - poinformował FactSet.",
@@ -37,20 +128,6 @@
       "title": "„Polska świeci się na zielono”. Zagraniczne fundusze szukają tu inwestycji Polski Fundusz Rozwoju nie postrzega dostępności finansowania jako głównej bariery transformacji energetycznej, większym problemem jest niedobór odpowiednio dużych i dobrze przygotowanych projektów. PFR deklaruje gotowość do finansowania kolejnych inwestycji, chce pełnić rolę katalizatora finansowania bankowego i prywatnego - poinformował PAP Biznes Dariusz Samolej, starszy dyrektor ds. transformacji energetycznej w PFR.",
       "content_html": "",
       "date_published": "2026-10-17T14:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najwieksi-na-Wall-Street-ostrzegaja-Lista-zagrozen-jest-dluga-9213999.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najwieksi-na-Wall-Street-ostrzegaja-Lista-zagrozen-jest-dluga-9213999.html",
-      "title": "O TYM MÓWI WALL STREET Najwięksi na Wall Street ostrzegają. Lista zagrożeń jest długa Sezon publikacji wyników finansowych przez banki dał inwestorom doskonałą okazję, by usłyszeć, co o amerykańskiej gospodarce, inflacji i sytuacji na giełdzie myślą najwięksi gracze sektora finansowego. Wiele do myślenia inwestorom instytucjonalnym dało również ostatnie spotkanie z kierownictwem firmy Anthropic.",
-      "content_html": "",
-      "date_published": "2026-10-17T06:00:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Inflacja-przyspiesza-Polacy-szukaja-bezpieczenstwa-w-obligacjach-9212967.html",
-      "url": "https://www.bankier.pl/wiadomosc/Inflacja-przyspiesza-Polacy-szukaja-bezpieczenstwa-w-obligacjach-9212967.html",
-      "title": "WYKRESY TYGODNIA Inflacja przyspiesza, Polacy szukają bezpieczeństwa w obligacjach Wrześniowy szok paliwowy podbił inflację w Polsce i Europie, a ceny na stacjach rosły mimo obniżonego VAT-u. Jednocześnie Polacy masowo ogłaszają bankructwo, miliardy złotych płyną na rynek obligacji, a azjatyckie giełdy boleśnie odczuwają obawy o trwałość boomu na sztuczną inteligencję. W najnowszych „Wykresach tygodnia” przyglądam się także rynkowi nieruchomości i zmianom w strategii zakupów złota.",
-      "content_html": "",
-      "date_published": "2026-10-17T06:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
