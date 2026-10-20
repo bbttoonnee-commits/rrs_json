@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Gieldy-w-USA-w-gore-inwestorzy-wrocili-do-sektora-technologicznego-9215063.html",
+      "url": "https://www.bankier.pl/wiadomosc/Gieldy-w-USA-w-gore-inwestorzy-wrocili-do-sektora-technologicznego-9215063.html",
+      "title": "Giełdy w USA w górę, inwestorzy wrócili do sektora technologicznego Poniedziałkowa sesja na Wall Street zakończyła się przewagą wzrostów głównych indeksów. Nasdaq zyskał ponad 1 proc., gdyż inwestorzy powrócili do sektora technologicznego po ubiegłotygodniowej panice związanej ze sztuczną inteligencją.",
+      "content_html": "",
+      "date_published": "2026-10-19T23:01:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-XTPL-zdecydowalo-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-do-400-tys-akcji-serii-Z-9214963.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-XTPL-zdecydowalo-o-podwyzszeniu-kapitalu-zakladowego-poprzez-emisje-do-400-tys-akcji-serii-Z-9214963.html",
       "title": "NWZ XTPL zdecydowało o podwyższeniu kapitału zakładowego poprzez emisję do 400 tys. akcji serii Z Akcjonariusze XTPL zdecydowali o podwyższeniu kapitału zakładowego poprzez emisję do 400 tys. akcji serii Z, z pozbawieniem w całości prawa poboru akcjonariuszy - wynika z podjętych przez NWZ uchwał.",
@@ -212,13 +219,6 @@
       "title": "Sezon wyników w USA ruszył. Większość spółek przebija prognozy 9 proc. firm z indeksu S&P 500 do tej pory przedstawiło rzeczywiste wyniki za trzeci kwartał 2026 roku. Spośród nich 84 proc. zgłosiło rzeczywiste EPS (zysk na akcję) powyżej szacunków, co jest powyżej 5-letniej średniej 78 proc. i powyżej 10-letniej średniej 77 proc. - poinformował FactSet.",
       "content_html": "",
       "date_published": "2026-10-18T16:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gospodarczy-punkt-ciezkosci-przenosi-sie-nad-Baltyk-Miliardowe-inwestycje-na-Pomorzu-9212958.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gospodarczy-punkt-ciezkosci-przenosi-sie-nad-Baltyk-Miliardowe-inwestycje-na-Pomorzu-9212958.html",
-      "title": "Gospodarczy punkt ciężkości przenosi się nad Bałtyk. Miliardowe inwestycje na Pomorzu Pomorze staje się jednym z najważniejszych obszarów rozwojowych Polski, a strategiczne inwestycje realizowane nad Bałtykiem będą przez kolejne dekady wzmacniać bezpieczeństwo energetyczne, konkurencyjność gospodarczą i potencjał przemysłowy kraju.",
-      "content_html": "",
-      "date_published": "2026-10-18T06:01:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
