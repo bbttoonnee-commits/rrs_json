@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
+      "url": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
+      "title": "SpaceX w górę, Netflix w dół. Wall Street zareagowała na wyniki kwartalne",
+      "content_html": "Główne indeksy ruszyły w górę, napędzane znakomitymi wynikami kwartalnymi SpaceX. Znacznie gorzej przyjęto jednak rezultaty Netfliksa.",
+      "date_published": "2026-10-21T23:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Lwow-zaskoczyl-Kijow-Decyzje-w-sprawie-UPA-i-Szuchewycza-maja-zostac-zablokowane-9216402.html",
       "url": "https://www.bankier.pl/wiadomosc/Lwow-zaskoczyl-Kijow-Decyzje-w-sprawie-UPA-i-Szuchewycza-maja-zostac-zablokowane-9216402.html",
       "title": "Lwów zaskoczył Kijów. Decyzje w sprawie UPA i Szuchewycza mają zostać zablokowane",
@@ -202,7 +209,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/W-papierach-ich-nie-ma-w-srodku-mieszkaja-ludzie-Krakowska-samowola-czeka-na-wyburzenie-9216014.html",
       "url": "https://www.bankier.pl/wiadomosc/W-papierach-ich-nie-ma-w-srodku-mieszkaja-ludzie-Krakowska-samowola-czeka-na-wyburzenie-9216014.html",
-      "title": "W papierach ich nie ma, w środku mieszkają ludzie. Krakowska samowola czeka na wyburzenie",
+      "title": "W papierach braki, a wewnątrz mieszkają ludzie. Koniec 20-letniej samowoli?",
       "content_html": "Mimo niemal dwudziestu lat prób uregulowania sytuacji przez miasto Kraków, kompleks wzniesiony bez pozwoleń przy ul. Centralnej nieprzerwanie funkcjonuje na rynku najmu. Z ustaleń \"Gazety Wyborczej\" wynika, że przeprowadzona w maju interwencja służb...",
       "date_published": "2026-10-21T16:00:00+02:00"
     },
@@ -695,13 +702,6 @@
       "title": "\"Ani gram uranu nie opuści kraju\". Iran stawia twarde weto USA",
       "content_html": "Przedstawiciele władz Iranu przekazali we wtorek w Teheranie naczelnemu dowódcy armii Pakistanu, Asimowi Munirowi, że nie będzie rozmów ze Stanami Zjednoczonymi, dopóki nie zostaną spełnione irańskie żądania – podała państwowa agencja Nournews...",
       "date_published": "2026-10-21T08:20:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-na-Airbnb-Z-rynku-moze-zniknac-co-czwarte-mieszkanie-9215845.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-eldorado-na-Airbnb-Z-rynku-moze-zniknac-co-czwarte-mieszkanie-9215845.html",
-      "title": "Koniec eldorado na Airbnb? Z rynku może zniknąć co czwarte mieszkanie",
-      "content_html": "Nowe prawo uderzy w najem krótkoterminowy. Od 2028 r. wspólnoty i gminy będą mogły zakazać takiej działalności, oferowanej m.in. przez serwis Airbnb. Eksperci ostrzegają: z rynku może zniknąć od 25 do nawet 50 proc. ofert. Właścicieli czekają...",
-      "date_published": "2026-10-21T08:19:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

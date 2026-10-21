@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
+      "url": "https://www.bankier.pl/wiadomosc/SpaceX-w-gore-Netflix-w-dol-Wall-Street-zareagowala-na-wyniki-kwartalne-9216439.html",
+      "title": "SpaceX w górę, Netflix w dół. Wall Street zareagowała na wyniki kwartalne Główne indeksy ruszyły w górę, napędzane znakomitymi wynikami kwartalnymi SpaceX. Znacznie gorzej przyjęto jednak rezultaty Netfliksa.",
+      "content_html": "",
+      "date_published": "2026-10-21T22:06:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Ailleron-do-20-6-zl-9216389.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Ailleron-do-20-6-zl-9216389.html",
       "title": "Trigon DM podwyższył cenę docelową akcji Ailleron do 20,6 zł Analitycy Trigon DM, w raporcie z 21 października, podwyższyli cenę docelową akcji Ailleron do 20,6 zł z 17,4 zł wcześniej i podtrzymali rekomendację \"kupuj\".",
@@ -200,6 +207,13 @@
       "date_published": "2026-10-21T06:32:00+02:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Diagnostyki-do-181-zl-9215799.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Diagnostyki-do-181-zl-9215799.html",
+      "title": "Trigon DM obniżył cenę docelową akcji Diagnostyki do 181 zł Analitycy Trigon DM, w raporcie z 15 października, obniżyli cenę docelową akcji Diagnostyki do 181 zł, z 198 zł wcześniej, utrzymując rekomendację \"trzymaj\".",
+      "content_html": "",
+      "date_published": "2026-10-21T06:02:00+02:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Voxel-do-180-zl-9215803.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-podwyzszyl-cene-docelowa-akcji-Voxel-do-180-zl-9215803.html",
       "title": "Trigon DM podwyższył cenę docelową akcji Voxel do 180 zł Analitycy Trigon DM, w raporcie z 15 października, podwyższylii cenę docelową akcji Voxel do 180 zł, z 130 zł wcześniej, utrzymując rekomendację \"kupuj\".",
@@ -217,13 +231,6 @@
       "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-kupuj-Medicover-9215801.html",
       "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-rekomenduje-kupuj-Medicover-9215801.html",
       "title": "Trigon DM rekomenduje \"kupuj\" Medicover Analitycy Trigon DM, w raporcie z 15 października, podtrzymali rekomendację \"kupuj\" dla Medicover, podwyższając cenę docelową do 325 SEK z 271 SEK.",
-      "content_html": "",
-      "date_published": "2026-10-21T06:02:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Diagnostyki-do-181-zl-9215799.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trigon-DM-obnizyl-cene-docelowa-akcji-Diagnostyki-do-181-zl-9215799.html",
-      "title": "Trigon DM obniżył cenę docelową akcji Diagnostyki do 181 zł Analitycy Trigon DM, w raporcie z 15 października, obniżyli cenę docelową akcji Diagnostyki do 181 zł, z 198 zł wcześniej, utrzymując rekomendację \"trzymaj\".",
       "content_html": "",
       "date_published": "2026-10-21T06:02:00+02:00"
     },
@@ -429,13 +436,6 @@
       "title": "Quercus TFI zwiększył zysk po trzech kwartałach. Przychody mocno w górę Skonsolidowany zysk netto j.d. Quercus TFI w III kwartale 2026 r. wyniósł 13,4 mln zł wobec 14,2 mln zł przed rokiem - poinformowała spółka w komunikacie prasowym. W pierwszych trzech kwartałach 2026 r. Quercus TFI miał 51,6 mln zł zysku netto j.d. wobec 36,1 mln zł rok wcześniej.",
       "content_html": "",
       "date_published": "2026-10-20T08:04:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gieldy-w-USA-w-gore-inwestorzy-wrocili-do-sektora-technologicznego-9215063.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gieldy-w-USA-w-gore-inwestorzy-wrocili-do-sektora-technologicznego-9215063.html",
-      "title": "Giełdy w USA w górę, inwestorzy wrócili do sektora technologicznego Poniedziałkowa sesja na Wall Street zakończyła się przewagą wzrostów głównych indeksów. Nasdaq zyskał ponad 1 proc., gdyż inwestorzy powrócili do sektora technologicznego po ubiegłotygodniowej panice związanej ze sztuczną inteligencją.",
-      "content_html": "",
-      "date_published": "2026-10-19T23:01:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
