@@ -11,6 +11,13 @@
       "date_published": "2026-10-25T16:00:00+01:00"
     },
     {
+      "id": "https://www.bankier.pl/wiadomosc/Nastepny-prezydent-bedzie-musial-posiadac-stopien-doktora-9214830.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nastepny-prezydent-bedzie-musial-posiadac-stopien-doktora-9214830.html",
+      "title": "Następny prezydent będzie musiał posiadać stopień doktora",
+      "content_html": "Prezydent Egiptu Abdel Fatah el-Sisi chce, by jego następca rekrutował się ze specjalnego programu akademii wojskowej; aplikacja otwarta będzie dla posiadaczy stopnia doktora, którzy po 30 miesiącach szkolenia będą mogli „wziąć odpowiedzialność...",
+      "date_published": "2026-10-25T15:12:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Milenialsi-i-zetki-odchodza-z-kosciola-Parafia-to-biuro-uslug-religijnych-9215812.html",
       "url": "https://www.bankier.pl/wiadomosc/Milenialsi-i-zetki-odchodza-z-kosciola-Parafia-to-biuro-uslug-religijnych-9215812.html",
       "title": "Milenialsi i zetki odchodzą z kościoła. „Parafia to biuro usług religijnych”",
@@ -695,13 +702,6 @@
       "title": "Włochy szykują się na zamieszki. Policja postawiona w stan najwyższej gotowości",
       "content_html": "W stan najwyższej gotowości zostały postawione siły policji w Rzymie, Mediolanie i w innych włoskich miastach przed sobotnimi manifestacjami antyrządowymi. Wyrażane są obawy, że tak, jak tydzień wcześniej, może dojść do zamieszek i aktów...",
       "date_published": "2026-10-24T07:03:00+02:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Komunikaty-RCB-wymagaja-zmian-Osoby-z-niepelnosprawnosciami-maja-problem-9215800.html",
-      "url": "https://www.bankier.pl/wiadomosc/Komunikaty-RCB-wymagaja-zmian-Osoby-z-niepelnosprawnosciami-maja-problem-9215800.html",
-      "title": "Komunikaty RCB wymagają zmian. Osoby z niepełnosprawnościami mają problem",
-      "content_html": "Systemy ostrzegania przed zagrożeniem nie są dostosowane do osób z niepełnosprawnościami. W komunikatach RCB brakuje precyzyjnych informacji, a słownictwo jest zbyt specjalistyczne – wskazała dyrektorka Działu Dostępności Fundacji Avalon Ewa...",
-      "date_published": "2026-10-24T07:00:00+02:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
