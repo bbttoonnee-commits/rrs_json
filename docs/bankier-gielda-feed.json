@@ -4,11 +4,18 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Murapol-planuje-emisje-obligacji-o-lacznej-wartosci-150-mln-zl-9218611.html",
-      "url": "https://www.bankier.pl/wiadomosc/Murapol-planuje-emisje-obligacji-o-lacznej-wartosci-150-mln-zl-9218611.html",
-      "title": "Murapol planuje emisję obligacji o łącznej wartości 150 mln zł Murapol planuje emisję 150 tys. obligacji serii 1/2026 o łącznej wartości nominalnej 150 mln zł - podała spółka w komunikacie.",
+      "id": "https://www.bankier.pl/wiadomosc/MOL-wnioskuje-o-zwrot-ok-133-mld-HUF-podatku-od-uprawnien-do-emisji-CO2-9218652.html",
+      "url": "https://www.bankier.pl/wiadomosc/MOL-wnioskuje-o-zwrot-ok-133-mld-HUF-podatku-od-uprawnien-do-emisji-CO2-9218652.html",
+      "title": "MOL wnioskuje o zwrot ok. 133 mld HUF podatku od uprawnień do emisji CO2 Węgierski koncern paliwowo-energetyczny MOL oraz jego spółki zależne złożyły do organów podatkowych wnioski o zwrot wcześniej zapłaconego podatku od uprawnień do emisji CO2. Łączna wartość oczekiwanego zwrotu wraz z odsetkami wynosi ok. 133 mld forintów, czyli 405 mln USD - podał MOL w komunikacie.",
       "content_html": "",
-      "date_published": "2026-10-26T19:32:00+01:00"
+      "date_published": "2026-10-26T22:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-South-Eastern-Europe-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9218615.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Asseco-South-Eastern-Europe-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9218615.html",
+      "title": "Wyniki Asseco South Eastern Europe w III kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiamy wyniki Asseco South Eastern Europe w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP i do poprzednich wyników.",
+      "content_html": "",
+      "date_published": "2026-10-26T19:52:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Murapol-wykupi-obligacje-o-lacznej-wartosci-150-mln-zl-9218602.html",
@@ -95,16 +102,16 @@
       "date_published": "2026-10-26T14:20:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/SpaceX-stawia-na-najnowsze-uklady-Nvidii-Finansowanie-siega-40-mld-dolarow-9218370.html",
-      "url": "https://www.bankier.pl/wiadomosc/SpaceX-stawia-na-najnowsze-uklady-Nvidii-Finansowanie-siega-40-mld-dolarow-9218370.html",
-      "title": "SpaceX stawia na najnowsze układy Nvidii. Finansowanie sięga 40 mld dolarów SpaceX zawarło z Apollo umowę leasingu finansowego, dotyczącą procesorów graficznych (GPU) i powiązanego sprzętu, a łączna wartość płatności z tytułu leasingu wyniesie około 40 mld USD - podało SpaceX w komunikacie na stronie internetowej.",
+      "id": "https://www.bankier.pl/wiadomosc/Nowy-instrument-na-GPW-Pozwoli-grac-na-wzrost-Ethereum-z-dzwignia-2x-9218356.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowy-instrument-na-GPW-Pozwoli-grac-na-wzrost-Ethereum-z-dzwignia-2x-9218356.html",
+      "title": "Nowy instrument na GPW. Pozwoli grać na wzrost ethereum z dźwignią 2x Na GPW 27 października zadebiutuje nowy ETN oparty na Ethereum. Instrument będzie 49. produktem z grupy ETF, ETC i ETN notowanym na GPW oraz 13. instrumentem HANetf dostępnym na warszawskim parkiecie.",
       "content_html": "",
       "date_published": "2026-10-26T14:00:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Nowy-instrument-na-GPW-Pozwoli-grac-na-wzrost-Ethereum-z-dzwignia-2x-9218356.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nowy-instrument-na-GPW-Pozwoli-grac-na-wzrost-Ethereum-z-dzwignia-2x-9218356.html",
-      "title": "Nowy instrument na GPW. Pozwoli grać na wzrost ethereum z dźwignią 2x Na GPW 27 października zadebiutuje nowy ETN oparty na Ethereum. Instrument będzie 49. produktem z grupy ETF, ETC i ETN notowanym na GPW oraz 13. instrumentem HANetf dostępnym na warszawskim parkiecie.",
+      "id": "https://www.bankier.pl/wiadomosc/SpaceX-stawia-na-najnowsze-uklady-Nvidii-Finansowanie-siega-40-mld-dolarow-9218370.html",
+      "url": "https://www.bankier.pl/wiadomosc/SpaceX-stawia-na-najnowsze-uklady-Nvidii-Finansowanie-siega-40-mld-dolarow-9218370.html",
+      "title": "SpaceX stawia na najnowsze układy Nvidii. Finansowanie sięga 40 mld dolarów SpaceX zawarło z Apollo umowę leasingu finansowego, dotyczącą procesorów graficznych (GPU) i powiązanego sprzętu, a łączna wartość płatności z tytułu leasingu wyniesie około 40 mld USD - podało SpaceX w komunikacie na stronie internetowej.",
       "content_html": "",
       "date_published": "2026-10-26T14:00:00+01:00"
     },
