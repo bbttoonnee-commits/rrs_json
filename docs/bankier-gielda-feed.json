@@ -2,6 +2,105 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "Bankier.pl – Giełda – Wiadomości",
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
-  "items": [],
+  "items": [
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zakwalifikowanie-projektu-Celon-Pharma-do-dofinansowania-w-ramach-FENG-9218325.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zakwalifikowanie-projektu-Celon-Pharma-do-dofinansowania-w-ramach-FENG-9218325.html",
+      "title": "Zakwalifikowanie projektu Celon Pharma do dofinansowania w ramach FENG Projekt Celon Pharmy, JARVIS, został zakwalifikowany do dofinansowania w ramach programu FENG 2021-2027 w ścieżce SMART - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-26T13:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-chce-2-grudnia-opublikowac-aktualizacje-strategii-9218297.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-chce-2-grudnia-opublikowac-aktualizacje-strategii-9218297.html",
+      "title": "Tauron chce 2 grudnia opublikować aktualizację strategii Grupa Tauron chce 2 grudnia opublikować aktualizację strategii - poinformował Krzysztof Zawadzki, wiceprezes Tauronu.",
+      "content_html": "",
+      "date_published": "2026-10-26T12:36:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-postawil-Legimi-zarzut-jednostronnej-zmiany-warunkow-trwajacych-umow-9218254.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-postawil-Legimi-zarzut-jednostronnej-zmiany-warunkow-trwajacych-umow-9218254.html",
+      "title": "Problemy Legimi. UOKiK kwestionuje zmiany w ofercie i sposób naliczania opłat Prezes UOKiK postawił Legimi zarzut jednostronnej zmiany warunków trwających umów - podał urząd w komunikacie. Urząd ma również zastrzeżenia do sposobu uruchamiania darmowego okresu próbnego.",
+      "content_html": "",
+      "date_published": "2026-10-26T11:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przymusowy-wykup-akcji-do-zmiany-MF-zapowiada-nowe-przepisy-9218240.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przymusowy-wykup-akcji-do-zmiany-MF-zapowiada-nowe-przepisy-9218240.html",
+      "title": "Przymusowy wykup akcji do zmiany. MF zapowiada nowe przepisy MF zapowiada zmiany legislacyjne dotyczące przymusowych wykupów akcji - poinformował resort finansów, odpowiadając na zgłoszone uwagi do jednego z projektów ustaw dotyczących rynku kapitałowego.",
+      "content_html": "",
+      "date_published": "2026-10-26T11:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-najwyzsze-od-2022-roku-Niepokoj-o-dostawy-9218182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-gazu-w-Europie-najwyzsze-od-2022-roku-Niepokoj-o-dostawy-9218182.html",
+      "title": "Ceny gazu w Europie najwyższe od 2022 roku. Niepokój o dostawy Ceny gazu w Europie rosną i doszły do 97 euro za MWh - po raz pierwszy od 2022 r. - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-10-26T09:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/InPost-zdjety-z-gieldy-Co-dalej-ze-spolka-Rafala-Brzoski-9218155.html",
+      "url": "https://www.bankier.pl/wiadomosc/InPost-zdjety-z-gieldy-Co-dalej-ze-spolka-Rafala-Brzoski-9218155.html",
+      "title": "InPost zdjęty z giełdy. Co dalej ze spółką Rafała Brzoski? 22 października był ostatnim dniem handlu akcjami InPostu na giełdzie Euronext w Amsterdamie, a 23 października nastąpiło ich formalne wycofanie z obrotu. W ten sposób zakończył się blisko sześcioletni rozdział w historii spółki, w którym była obecna na holenderskim parkiecie. Co wycofanie z giełdy oznacza dla przyszłości lidera automatów paczkowych, układu sił w firmie i samych użytkowników Paczkomatów?",
+      "content_html": "",
+      "date_published": "2026-10-26T08:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Murapol-wprowadza-do-oferty-191-nowych-mieszkan-w-Katowicach-9218170.html",
+      "url": "https://www.bankier.pl/wiadomosc/Murapol-wprowadza-do-oferty-191-nowych-mieszkan-w-Katowicach-9218170.html",
+      "title": "Murapol wprowadza do oferty 191 nowych mieszkań w Katowicach Grupa Murapol wprowadza do oferty 191 nowych mieszkań na katowickim Brynowie - podała spółka w komunikacie prasowym.",
+      "content_html": "",
+      "date_published": "2026-10-26T08:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Pod-presja-spolki-zwiazane-z-AI-9218160.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-spadaja-Pod-presja-spolki-zwiazane-z-AI-9218160.html",
+      "title": "Ceny miedzi w Londynie spadają . Pod presją spółki związane z AI Notowania miedzi na giełdzie metali LME w Londynie kontynuują spadki z poprzedniego tygodnia w reakcji na presję na spółki związane z AI - informują maklerzy.",
+      "content_html": "",
+      "date_published": "2026-10-26T08:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ropa-wycofuje-sie-z-6-miesiecznych-szczytow-Rynek-obserwuje-konflikt-na-Bliskim-Wschodzie-9218159.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ropa-wycofuje-sie-z-6-miesiecznych-szczytow-Rynek-obserwuje-konflikt-na-Bliskim-Wschodzie-9218159.html",
+      "title": "Ropa wycofuje się z 6-miesięcznych szczytów. Rynek obserwuje konflikt na Bliskim Wschodzie Ropa na globalnych rynkach tanieje w poniedziałek i wycofuje się z najwyższych poziomów od 6 miesięcy - podają maklerzy.",
+      "content_html": "",
+      "date_published": "2026-10-26T08:09:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rynek-widzi-inflacyjna-fale-w-Ameryce-Czy-rentownosci-moga-klamac-9216702.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rynek-widzi-inflacyjna-fale-w-Ameryce-Czy-rentownosci-moga-klamac-9216702.html",
+      "title": "Rynek widzi inflacyjną falę w Ameryce. Czy rentowności mogą kłamać? Realna 10-letnia stopa procentowa w Stanach Zjednoczonych w październiku osiągnęła najwyższy poziom od 20 lat. Rynek finansowy spodziewa się trwale podwyższonej inflacji w perspektywie nie tylko następnych 12 miesięcy, ale też kilku najbliższych lat.",
+      "content_html": "",
+      "date_published": "2026-10-26T06:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-Fed-i-EBC-zmiana-czasu-oraz-najwazniejsze-wybory-tego-roku-9216735.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-Fed-i-EBC-zmiana-czasu-oraz-najwazniejsze-wybory-tego-roku-9216735.html",
+      "title": "Tym będą żyły rynki: Fed i EBC, zmiana czasu oraz najważniejsze wybory tego roku W ostatnim tygodniu października stery rynku może przejąć polityka. I to zarówno ta tradycyjna w postaci wyborów w Izraeli i Brazylii jak i ta monetarna w wykonaniu Rezerwy Federalnej, Europejskiego Banku Centralnego. I Banku Japonii",
+      "content_html": "",
+      "date_published": "2026-10-25T12:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Widmo-kryzysu-w-Europie-i-poszukiwanie-okazji-w-USA-Co-mowi-Wall-Street-9217985.html",
+      "url": "https://www.bankier.pl/wiadomosc/Widmo-kryzysu-w-Europie-i-poszukiwanie-okazji-w-USA-Co-mowi-Wall-Street-9217985.html",
+      "title": "Widmo kryzysu w Europie i poszukiwanie okazji w USA. Co mówi Wall Street? W kończącym się tygodniu do obaw na rynkach finansowych związanych ze spółkami sztucznej inteligencji dołączyły zawirowania polityczne w Europie. Mimo to stratedzy inwestycyjni już rozglądają się za okazjami do zakupów na największym rynku akcji na świecie.",
+      "content_html": "",
+      "date_published": "2026-10-25T12:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolki-z-S-P-500-raportuja-wyniki-Zyski-rosna-szybciej-niz-przychody-9217971.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolki-z-S-P-500-raportuja-wyniki-Zyski-rosna-szybciej-niz-przychody-9217971.html",
+      "title": "Spółki z S&P 500 raportują wyniki. Zyski rosną szybciej niż przychody Po około jednej czwartej sezonu publikacji raportów za trzeci kwartał spółki z indeksu S&P 500 raportują mieszane wyniki w porównaniu z oczekiwaniami. Odsetek spółek z indeksu S&P 500, które odnotowały pozytywne niespodzianki w zyskach, jest powyżej ostatnich kwartałów, ale skala niespodzianek jest niższa - wynika z analiz FactSet.",
+      "content_html": "",
+      "date_published": "2026-10-25T09:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Forum-Finansow-Bankier-pl-relacja-dzien-drugi-9217572.html",
+      "url": "https://www.bankier.pl/wiadomosc/Forum-Finansow-Bankier-pl-relacja-dzien-drugi-9217572.html",
+      "title": "RELACJA Portfel na 2027 rok. Eksperci ostrzegają przed bessą, ale nie każą uciekać z akcji Forum Finansów Bankier.pl to dwa dni rozmów o gospodarce, biznesie, technologiach i pieniądzach. W drugim dniu imprezy skupimy się na inwestowaniu. Zapraszamy na relację ze wszystkich paneli.",
+      "content_html": "",
+      "date_published": "2026-10-24T14:07:00+02:00"
+    }
+  ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
 }
