@@ -4,11 +4,67 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Zbrodnia-i-kara-na-Wall-Street-Google-zawiodl-a-Microsoft-dowiozl-9220674.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zbrodnia-i-kara-na-Wall-Street-Google-zawiodl-a-Microsoft-dowiozl-9220674.html",
+      "title": "Zbrodnia i kara na Wall Street. Google zawiódł, a Microsoft dowiózł",
+      "content_html": "Srogie rozczarowanie wynikami Alphabetu i neutralne przyjęcie mocnych wyników Microsoftu – to były główne siły wpływające na czwartkowy handel na Wall Street.",
+      "date_published": "2026-10-29T21:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-dzialania-ws-cen-gazu-Rzad-pracuje-nad-rozwiazaniami-9220642.html",
+      "url": "https://www.bankier.pl/wiadomosc/Domanski-zapowiada-dzialania-ws-cen-gazu-Rzad-pracuje-nad-rozwiazaniami-9220642.html",
+      "title": "Domański zapowiada działania ws. cen gazu. Rząd pracuje nad rozwiązaniami",
+      "content_html": "Rząd pracuje nad rozwiązaniami w związku z sytuacją na rynku gazu, szczegóły powinny być znane w ciągu najbliższych tygodni - poinformował Andrzej Domański, minister finansów i gospodarki.",
+      "date_published": "2026-10-29T20:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
+      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
+      "title": "Katastrofa kolejowa w Toledo. Bilans ofiar nadal wynosi 69",
+      "content_html": "Liczba ofiar śmiertelnych środowego wypadku kolejowego w prowincji Toledo w środkowej Hiszpanii wzrosła do 74 - wynika z danych Komisji ds. Badania Wypadków Kolejowych (CIAF), przekazanych w czwartek przez agencję EFE.",
+      "date_published": "2026-10-29T20:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Putin-deklaruje-gotowosc-do-rozmow-z-Europa-i-ostrzega-przed-wojna-9220643.html",
+      "url": "https://www.bankier.pl/wiadomosc/Putin-deklaruje-gotowosc-do-rozmow-z-Europa-i-ostrzega-przed-wojna-9220643.html",
+      "title": "Putin deklaruje gotowość do rozmów z Europą i... ostrzega przed wojną",
+      "content_html": "Rosja popiera wszelkie kroki zmierzające do odbudowy relacji z krajami europejskimi – oświadczył w piątek rosyjski lider Władimir Putin, komentując wtorkową rozmowę telefoniczną z prezydentem Finlandii Alexandrem Stubbem oraz premierem Norwegii...",
+      "date_published": "2026-10-29T20:03:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ukrainska-armia-uderzyla-w-rosyjska-baze-lotnicza-Zniszczono-dwa-Su-34-9220639.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ukrainska-armia-uderzyla-w-rosyjska-baze-lotnicza-Zniszczono-dwa-Su-34-9220639.html",
+      "title": "Ukraińska armia uderzyła w rosyjską bazę lotniczą. Zniszczono dwa Su-34",
+      "content_html": "Dwa rosyjskie myśliwce bombardujące Su-34 zostały zniszczone w wyniku uderzenia z użyciem systemu rakietowego Neptun w miejsce stacjonowania lotnictwa w obwodzie wołgogradzkim w Rosji – poinformowała służba prasowa Sił Morskich Sił Zbrojnych...",
+      "date_published": "2026-10-29T19:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyciek-danych-pacjentki-po-aborcji-Kotula-sklada-zawiadomienie-do-prokuratury-9220637.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyciek-danych-pacjentki-po-aborcji-Kotula-sklada-zawiadomienie-do-prokuratury-9220637.html",
+      "title": "Wyciek danych pacjentki po aborcji. Kotula składa zawiadomienie do prokuratury",
+      "content_html": "Pełnomocniczka rządu ds. równości Katarzyna Kotula złożyła zawiadomienie do prokuratury w sprawie wycieku danych pacjentki wrocławskiego szpitala. Te miały trafić do prowadzonej przez Kaję Godek fundacji antyaborcyjnej.",
+      "date_published": "2026-10-29T19:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-nie-zareagowal-na-alarm-sluzb-W-tle-szef-Nvidii-i-Chiny-9220638.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-nie-zareagowal-na-alarm-sluzb-W-tle-szef-Nvidii-i-Chiny-9220638.html",
+      "title": "Trump nie zareagował na alarm służb. W tle szef Nvidii i Chiny",
+      "content_html": "Szef Nvidii Jensen Huang znalazł się w kręgu zainteresowania chińskiego wywiadu – ujawnił „New York Times”. Amerykańskie służby uznały, że związana z nim chińska menedżerka Alice Huang przekazywała informacje Pekinowi. Prezydent Donald...",
+      "date_published": "2026-10-29T19:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Polska-wyprzedza-Norwegie-w-morskiej-energetyce-wiatrowej-Ponad-pieciokrotna-roznica-9220622.html",
       "url": "https://www.bankier.pl/wiadomosc/Polska-wyprzedza-Norwegie-w-morskiej-energetyce-wiatrowej-Ponad-pieciokrotna-roznica-9220622.html",
       "title": "Polska wyprzedza Norwegię w morskiej energetyce wiatrowej. Ponad pięciokrotna różnica",
       "content_html": "Choć to Norwegia ma znakomite warunki naturalne, Polska wyprzedza ją w rozwoju morskiej energetyki wiatrowej. Polskie projekty mają ponad pięciokrotnie większą moc od norweskich – wynika z opublikowanego w czwartek raportu Boston Consulting Group...",
       "date_published": "2026-10-29T19:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jemen-chce-sledztwa-ONZ-ws-uzycia-broni-chemicznej-przez-Huti-9220629.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jemen-chce-sledztwa-ONZ-ws-uzycia-broni-chemicznej-przez-Huti-9220629.html",
+      "title": "Jemen chce śledztwa ONZ ws. użycia broni chemicznej przez Huti",
+      "content_html": "Władze miasta Taiz w Jemenie, kontrolowanego przez siły rządowe, zażądały śledztwa ONZ w związku z doniesieniami o użyciu broni chemicznej przez proirańskich rebeliantów Huti - przekazał w czwartek saudyjski portal Arab News.",
+      "date_published": "2026-10-29T19:25:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Enea-ma-umowe-dot-programu-emisji-obligacji-hybrydowych-do-5-mld-zl-9220627.html",
@@ -100,13 +156,6 @@
       "title": "Estonia wzmacnia obronę przy granicy z Rosją. Powstanie 150 bunkrów",
       "content_html": "Minister obrony Estonii Martin Herem zapowiedział budowę ok. 150 bunkrów w prowincji Virumaa Wschodnia, na płn.- wsch. kraju, przy granicy z Rosją – poinformowała agencja BNS. Szef resortu obrony zapowiedział też dodatkowe nakłady z budżetu...",
       "date_published": "2026-10-29T17:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
-      "url": "https://www.bankier.pl/wiadomosc/Katastrofa-kolejowa-w-Toledo-Rosnie-bilans-ofiar-9220583.html",
-      "title": "Katastrofa kolejowa w Toledo. Rośnie bilans ofiar",
-      "content_html": "Liczba ofiar śmiertelnych środowego wypadku kolejowego w prowincji Toledo w środkowej Hiszpanii wzrosła do 74 - wynika z danych Komisji ds. Badania Wypadków Kolejowych (CIAF), przekazanych w czwartek przez agencję EFE.",
-      "date_published": "2026-10-29T17:51:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dramatyczna-sytuacja-w-Oleszkach-Zelenski-oskarza-Rosje-o-ataki-na-cywilow-9220581.html",
@@ -653,55 +702,6 @@
       "title": "Christine Lagarde odchodzi z EBC. Podała termin",
       "content_html": "Prezeska Europejskiego Banku Centralnego Christine Lagarde ogłosiła, że siódmego lutego 2027 roku odejdzie ze stanowiska – podał w komunikacie bank centralny. Decyzja ta zaostrza rywalizację o objęcie stanowiska po jednej z najbardziej wpływowych...",
       "date_published": "2026-10-29T12:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ozempic-gasi-ochote-na-piwo-Odchudzanie-przechodza-tez-zyski-browarow-9220159.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ozempic-gasi-ochote-na-piwo-Odchudzanie-przechodza-tez-zyski-browarow-9220159.html",
-      "title": "Ozempic gasi ochotę na piwo. Odchudzanie przechodzą też zyski browarów",
-      "content_html": "Dieta odchudza zyski producentów piwa - alarmuje największy z nich. Heineken w prezentacji, do której dotarł Reuters, wyraźnie wskazuje, że leki z grupy GLP-1 typu Ozempik lub Wegovy mogą zmniejszać chęć nie tylko do podjadania przekąsek czy...",
-      "date_published": "2026-10-29T12:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kontraktacja-Budimeksu-w-calym-2026-r-moze-siegnac-poziomu-8-mld-zl-9220206.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kontraktacja-Budimeksu-w-calym-2026-r-moze-siegnac-poziomu-8-mld-zl-9220206.html",
-      "title": "Kontraktacja Budimeksu w całym 2026 r. może sięgnąć poziomu 8 mld zł",
-      "content_html": "Kontraktacja Budimeksu w całym 2026 r. może sięgnąć poziomu 8 mld zł - poinformowali przedstawiciele zarządu podczas konferencji.",
-      "date_published": "2026-10-29T11:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ultimate-Games-szacuje-jednostkowy-zysk-netto-po-trzech-kwartalach-na-7-2-mln-zl-9220208.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ultimate-Games-szacuje-jednostkowy-zysk-netto-po-trzech-kwartalach-na-7-2-mln-zl-9220208.html",
-      "title": "Ultimate Games szacuje jednostkowy zysk netto po trzech kwartałach na 7,2 mln zł",
-      "content_html": "Ultimate Games szacuje jednostkowy zysk netto po trzech kwartałach 2026 roku na 7,2 mln zł, a przychody ze sprzedaży na 35,5 mln zł - podał deweloper gier w komunikacie.",
-      "date_published": "2026-10-29T11:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekord-w-PPK-Wartosc-oszczednosci-zbliza-sie-do-60-mld-zl-9220194.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekord-w-PPK-Wartosc-oszczednosci-zbliza-sie-do-60-mld-zl-9220194.html",
-      "title": "Rekord w PPK. Wartość oszczędności zbliża się do 60 mld zł",
-      "content_html": "Wartość aktywów PPK według stanu na 28 października wzrosła do 59,96 mld zł z 58,7 mld zł na koniec września - podał PFR Portal PPK w prezentacji w trakcie webinaru.",
-      "date_published": "2026-10-29T11:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OLX-nie-zwalnia-w-Polsce-Prezes-zapowiada-kolejne-lata-wzrostu-9220188.html",
-      "url": "https://www.bankier.pl/wiadomosc/OLX-nie-zwalnia-w-Polsce-Prezes-zapowiada-kolejne-lata-wzrostu-9220188.html",
-      "title": "OLX nie zwalnia w Polsce. Prezes zapowiada kolejne lata wzrostu",
-      "content_html": "Polska pozostaje największym rynkiem grupy OLX pod względem przychodów, liczby klientów oraz podaży ofert i grupa zamierza w kolejnych latach utrzymać na tym rynku tempo wzrostu zbliżone do ok. 20 proc. rocznie - poinformował PAP Biznes prezes...",
-      "date_published": "2026-10-29T11:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Krwawe-uderzenie-Rosji-w-Ukrainie-Dron-trafil-w-peron-pelen-pasazerow-9220186.html",
-      "url": "https://www.bankier.pl/wiadomosc/Krwawe-uderzenie-Rosji-w-Ukrainie-Dron-trafil-w-peron-pelen-pasazerow-9220186.html",
-      "title": "Krwawe uderzenie Rosji w Ukrainie. Dron trafił w peron pełen pasażerów",
-      "content_html": "Co najmniej 13 osób zginęło, a dziesięć zostało rannych w ataku rosyjskiego drona na dworzec kolejowy w mieście Dniepr w środkowo-wschodniej Ukrainie – poinformowały w czwartek władze.",
-      "date_published": "2026-10-29T11:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Co-czwarta-szkoda-z-OC-dotyczy-parkowania-Jak-zabezpieczyc-sie-przed-nieznanym-sprawca-9220183.html",
-      "url": "https://www.bankier.pl/wiadomosc/Co-czwarta-szkoda-z-OC-dotyczy-parkowania-Jak-zabezpieczyc-sie-przed-nieznanym-sprawca-9220183.html",
-      "title": "Co czwarta szkoda z OC dotyczy parkowania. Jak zabezpieczyć się przed nieznanym sprawcą?",
-      "content_html": "Wracasz do samochodu po zakupach, pracy albo spotkaniu ze znajomymi. Nagle widzisz rysę na drzwiach, wgniecenie zderzaka albo uszkodzone lusterko. Sprawcy nie ma, świadków też... A przecież tak może wyglądać codzienność każdego kierowcy, który...",
-      "date_published": "2026-10-29T11:26:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
