@@ -4,9 +4,142 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-wyznaczyl-dla-Banku-Millennium-dodatkowy-narzut-kapitalowy-P2G-9221244.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-wyznaczyl-dla-Banku-Millennium-dodatkowy-narzut-kapitalowy-P2G-9221244.html",
+      "title": "KNF wyznaczył dla Banku Millennium dodatkowy narzut kapitałowy (P2G) Bank Millennium otrzymał pismo Komisji Nadzoru Finansowego o wyznaczeniu dla banku dodatkowego narzutu kapitałowego (P2G) przed kompensacją buforem zabezpieczającym, w wysokości 4,56 p.p. na poziomie skonsolidowanym - podał bank w komunikacie. Na poziomie jednostkowym jest to 4,84 p.p.",
+      "content_html": "",
+      "date_published": "2026-10-30T16:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-nie-wyznaczyla-dla-PKO-BP-dodatkowego-wymogu-kapitalowego-P2G-9221239.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-nie-wyznaczyla-dla-PKO-BP-dodatkowego-wymogu-kapitalowego-P2G-9221239.html",
+      "title": "KNF nie wyznaczyła dla PKO BP dodatkowego wymogu kapitałowego (P2G) PKO Bank Polski otrzymał pismo Komisji Nadzoru Finansowego o niewyznaczeniu dodatkowego narzutu kapitałowego (P2G) - podał bank w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-10-30T16:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-wyznaczyl-dla-Banku-Handlowego-dodatkowy-narzut-kapitalowy-P2G-9221225.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-wyznaczyl-dla-Banku-Handlowego-dodatkowy-narzut-kapitalowy-P2G-9221225.html",
+      "title": "KNF wyznaczył dla Banku Handlowego dodatkowy narzut kapitałowy (P2G) Bank Handlowy otrzymał pismo Komisji Nadzoru Finansowego o wyznaczeniu dla banku narzutu kapitałowego (P2G) w wysokości 2,12 p.p. - podał bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T16:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezes-JSW-Boguslaw-Oleksy-zlozyl-rezygnacje-z-czlonkostwa-w-zarzadzie-9221142.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezes-JSW-Boguslaw-Oleksy-zlozyl-rezygnacje-z-czlonkostwa-w-zarzadzie-9221142.html",
+      "title": "Prezes JSW Bogusław Oleksy złożył rezygnację z członkostwa w zarządzie Prezes Jastrzębskiej Spółki Węglowej złożył rezygnację z członkostwa w zarządzie ze skutkiem na dzień 31 października 2026 roku - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T15:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tesco-wycofuje-sie-z-kolejnych-rynkow-Slowacja-i-Czechy-sprzedane-a-Wegry-9221184.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tesco-wycofuje-sie-z-kolejnych-rynkow-Slowacja-i-Czechy-sprzedane-a-Wegry-9221184.html",
+      "title": "Tesco wycofuje się z kolejnych rynków. Słowacja i Czechy sprzedane, a Węgry? Brytyjska sieć Tesco uzgodniła sprzedaż swojego biznesu w Czechach i na Słowacji na rzecz Ahold Delhaize - podało Tesco w komunikacie. Wartość transakcji odpowiada łącznej wartości przedsiębiorstwa (EV) wynoszącej 1,7 mld euro, przy założeniu braku gotówki i zadłużenia.",
+      "content_html": "",
+      "date_published": "2026-10-30T15:51:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-mial-w-I-III-kw-4-375-2-mln-zl-skons-przychodow-o-12-2-proc-wiecej-rdr-szacunki-9221182.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rainbow-Tours-mial-w-I-III-kw-4-375-2-mln-zl-skons-przychodow-o-12-2-proc-wiecej-rdr-szacunki-9221182.html",
+      "title": "Turystyka wciąż na fali. Przychody Rainbow Tours przekroczyły 4,37 mld zł po 9 miesiącach Rainbow Tours szacuje, że narastająco po 9 miesiącach 2026 roku miał 4.375,2 mln skonsolidowanych przychodów, wobec 3.898,6 mln zł w analogicznym okresie 2025 roku, co oznacza wzrost o 12,2 proc. rdr - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T15:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Instalacja-AV3-w-Rafinerii-Dunaj-powrocila-do-pracy-z-pelna-wydajnoscia-MOL-9221141.html",
+      "url": "https://www.bankier.pl/wiadomosc/Instalacja-AV3-w-Rafinerii-Dunaj-powrocila-do-pracy-z-pelna-wydajnoscia-MOL-9221141.html",
+      "title": "MOL Instalacja AV3 w Rafinerii Dunaj powróciła do pracy z pełną wydajnością Instalacja AV3 w Rafinerii Dunaj, uszkodzona w ubiegłorocznym pożarze, powróciła do pracy z pełną wydajnością - poinformował MOL w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T15:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferty-Onde-za-129-8-mln-zl-netto-wybrane-do-budowy-dwoch-magazynow-energii-9221138.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferty-Onde-za-129-8-mln-zl-netto-wybrane-do-budowy-dwoch-magazynow-energii-9221138.html",
+      "title": "Oferty Onde za 129,8 mln zł netto wybrane do budowy dwóch magazynów energii Oferty Onde za 129,8 mln zł netto, w ramach prywatnego postępowania zakupowego organizowanego przez polską spółkę celową należącą do grupy kapitałowej inwestora z branży OZE, zostały wybrane do realizacji dwóch magazynów energii - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T15:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-Grupa-Hutnicza-przejela-Andorie-i-Hute-Malapanew-9221100.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-Grupa-Hutnicza-przejela-Andorie-i-Hute-Malapanew-9221100.html",
+      "title": "Duża transakcja w polskim hutnictwie. Dwie huty zmieniają właściciela Polska Grupa Hutnicza przejęła 100 proc. udziałów w Andorii i Hucie Małapanew od RSJ Fundacji Rodzinnej, w zamian fundacja objęła 33,33 mln nowych akcji serii N6 spółki po 3 zł, czyli łącznie za ok. 100 mln zł – podała PGH w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T14:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-6-9-proc-a-Cyfrowy-Polsat-traci-13-proc-WIG20-w-dol-o-2-2-proc-9221097.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-6-9-proc-a-Cyfrowy-Polsat-traci-13-proc-WIG20-w-dol-o-2-2-proc-9221097.html",
+      "title": "Kurs KGHM spada o 6,9 proc., a Cyfrowy Polsat traci 13 proc.; WIG20 w dół o 2,2 proc. Kurs akcji KGHM spada o 6,9 proc. do 282 zł, a Cyfrowy Polsat traci 13 proc. do 12,8 zł, przy wysokich obrotach. Po kilka proc. zniżkują też niektóre banki. WIG20 idzie w dół o 2,2 proc.",
+      "content_html": "",
+      "date_published": "2026-10-30T14:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/8-tys-cyberatakow-na-energetyke-PSE-tworza-specjalny-zespol-9221085.html",
+      "url": "https://www.bankier.pl/wiadomosc/8-tys-cyberatakow-na-energetyke-PSE-tworza-specjalny-zespol-9221085.html",
+      "title": "8 tys. cyberataków na energetykę. PSE tworzą specjalny zespół W strukturach Polskich Sieci Elektroenergetycznych powstanie wyspecjalizowany zespół CSIRT Energia, który będzie wspierał spółki z sektora energetycznego w reagowaniu na cyberzagrożenia oraz koordynował obsługę incydentów w tym zakresie - poinformował w piątek operator systemu przesyłowego energii elektrycznej.",
+      "content_html": "",
+      "date_published": "2026-10-30T14:04:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nalezacy-do-Grupy-Pracuj-eRecruiter-przejmuje-Elevato-z-branzy-HR-Tech-9221057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nalezacy-do-Grupy-Pracuj-eRecruiter-przejmuje-Elevato-z-branzy-HR-Tech-9221057.html",
+      "title": "Grupa Pracuj przejmuje konkurenta. Ujawniono wartość transakcji eRecruitment Solutions, spółka należąca do Grupy Pracuj i dostarczająca system do zarządzania rekrutacjami eRecruiter, przejęła 100 proc. akcji firmy Elevato, oferującej narzędzie wspierające rekrutację pracowników - podała Grupa Pracuj w komunikacie prasowym. Wartość transakcji wyniosła 2,2 mln zł.",
+      "content_html": "",
+      "date_published": "2026-10-30T13:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/JSW-i-ARP-przesunely-date-koncowa-do-umowy-sprzedazy-udzialow-w-spolkach-PBSz-i-JZR-do-30-XI-9221018.html",
+      "url": "https://www.bankier.pl/wiadomosc/JSW-i-ARP-przesunely-date-koncowa-do-umowy-sprzedazy-udzialow-w-spolkach-PBSz-i-JZR-do-30-XI-9221018.html",
+      "title": "JSW i ARP przesunęły datę końcową do umowy sprzedaży udziałów JSW i ARP zawarły aneks do umowy sprzedaży akcji posiadanych przez JSW w Przedsiębiorstwie Budowy Szybów (PBSz) oraz udziałów w Jastrzębskich Zakładach Remontowych (JZR) na rzecz ARP, na mocy którego data końcowa została przesunięta z 31 października 2026 r. na 30 listopada 2026 r. - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T12:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PHR-otrzymal-od-MSWiA-koncesje-na-obrot-materialami-wybuchowymi-bronia-i-amunicja-9220980.html",
+      "url": "https://www.bankier.pl/wiadomosc/PHR-otrzymal-od-MSWiA-koncesje-na-obrot-materialami-wybuchowymi-bronia-i-amunicja-9220980.html",
+      "title": "PHR otrzymał koncesję na obrót materiałami wybuchowymi, bronią i amunicją Polski Holding Rozwoju (PHR) otrzymał koncesję udzieloną przez Ministerstwo Spraw Wewnętrznych i Administracji w zakresie obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T12:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/KNF-zalecil-BOS-utrzymywanie-dodatkowego-wymogu-kapitalowego-P2G-9220975.html",
+      "url": "https://www.bankier.pl/wiadomosc/KNF-zalecil-BOS-utrzymywanie-dodatkowego-wymogu-kapitalowego-P2G-9220975.html",
+      "title": "KNF zalecił BOŚ utrzymywanie dodatkowego wymogu kapitałowego P2G Komisja Nadzoru Finansowego zaleciła Bankowi Ochrony Środowiska utrzymywanie funduszy własnych na pokrycie dodatkowego narzutu kapitałowego (P2G) w celu zaabsorbowania potencjalnych strat wynikających z wystąpienia warunków skrajnych, w wysokości 3,15 pp. na poziomie jednostkowym oraz 2,73 pp. na poziomie skonsolidowanym - poinformował bank w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-10-30T12:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-wyrasta-na-technologiczne-serce-Europy-Wiceminister-Jaros-Wygralismy-te-rywalizacje-9220943.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-wyrasta-na-technologiczne-serce-Europy-Wiceminister-Jaros-Wygralismy-te-rywalizacje-9220943.html",
+      "title": "Polska wyrasta na technologiczne serce Europy? Wiceminister Jaros: Wygraliśmy tę rywalizację Polska staje przed historyczną szansą, by z europejskiego zaplecza usługowego zmienić się w technologiczne serce kontynentu. Współpraca z tajwańskimi gigantami nabiera bezprecedensowego tempa – w grze jest nie tylko budowa nowoczesnego parku przemysłowego pod Wrocławiem, ale również stworzenie nowej marki polskiego samochodu w oparciu o azjatyckie innowacje. O kulisach wygranej rywalizacji z państwami Zachodu, walce o pełną suwerenność cyfrową bez „tylnych furtek” oraz ambitnym planie stania się głównym hubem produkcyjnym Europy do 2040 roku, rozmawiamy z wiceministrem rozwoju i technologii, Michałem Jarosem.",
+      "content_html": "",
+      "date_published": "2026-10-30T11:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/EuroPKB-pozytywnie-zaskoczyl-Europa-rosnie-nawet-bez-Niemiec-i-Francji-9220922.html",
+      "url": "https://www.bankier.pl/wiadomosc/EuroPKB-pozytywnie-zaskoczyl-Europa-rosnie-nawet-bez-Niemiec-i-Francji-9220922.html",
+      "title": "EuroPKB pozytywnie zaskoczył. Europa rośnie nawet bez Niemiec i Francji Wyniki trzeciego kwartału pozytywnie zaskoczyły ekonomistów. PKB strefy euro wzrósł dwukrotnie silniej od prognoz i to pomimo marnych wyników Niemiec, Francji i Włoch",
+      "content_html": "",
+      "date_published": "2026-10-30T11:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Cyberataki-paralizuja-supermarkety-i-gieldy-krypto-Cyfrowa-tarcza-staje-sie-zyla-zlota-9220905.html",
+      "url": "https://www.bankier.pl/wiadomosc/Cyberataki-paralizuja-supermarkety-i-gieldy-krypto-Cyfrowa-tarcza-staje-sie-zyla-zlota-9220905.html",
+      "title": "Cyberataki paraliżują supermarkety i giełdy krypto. Cyfrowa tarcza staje się żyłą złota Fala cyberataków uderza już nie tylko w bazy danych, ale w fizyczną infrastrukturę fabryk i sieci handlowych, generując coraz większe straty dla gospodarki. Najnowszym przykładem są miliardy dolarów skradzione z największej giełdy kryptowalut Binance. W odpowiedzi rządy nakładają nowe obowiązki prawne, a korporacje wydają na cyfrową ochronę coraz większe sumy. Dla inwestorów giełdowych sektor cyberbezpieczeństwa stał się jednym z najbardziej zyskownych tematów inwestycyjnych ostatnich miesięcy.",
+      "content_html": "",
+      "date_published": "2026-10-30T11:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Erste-BP-chce-utrzymac-niskie-koszty-ryzyka-czesc-kosztow-integracji-przesunie-sie-na-27-9220902.html",
+      "url": "https://www.bankier.pl/wiadomosc/Erste-BP-chce-utrzymac-niskie-koszty-ryzyka-czesc-kosztow-integracji-przesunie-sie-na-27-9220902.html",
+      "title": "Erste BP chce utrzymać niskie koszty ryzyka Erste Bank Polska jest zadowolony z pierwszych efektów oferty akwizycyjnej w segmencie MSP, będzie ją kontynuował także w IV kwartale. Część kosztów integracji i rebrandingu przesunie się na 2027 rok, ale w przyszłym roku wzrost całkowitych kosztów nie przekroczy poziomu inflacji. Koszty ryzyka powinny pozostać niskie – poinformowali przedstawiciele banku.",
+      "content_html": "",
+      "date_published": "2026-10-30T11:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-wzrosl-rdr-po-IX-do-26-2-proc-UTK-9220846.html",
       "url": "https://www.bankier.pl/wiadomosc/Udzial-PKP-Cargo-w-rynku-przewiezionych-towarow-wg-masy-wzrosl-rdr-po-IX-do-26-2-proc-UTK-9220846.html",
-      "title": "Udział PKP Cargo w rynku przewiezionych towarów wg masy wzrósł rdr po IX do 26,2 proc. - UTK Udział PKP Cargo w rynku przewiezionych towarów według masy wzrósł po wrześniu do 26,20 proc. całego rynku wobec 25,86 proc. po wrześniu 2025 roku - podał Urząd Transportu Kolejowego.",
+      "title": "Udział PKP Cargo w rynku przewiezionych towarów wg masy rośnie Udział PKP Cargo w rynku przewiezionych towarów według masy wzrósł po wrześniu do 26,20 proc. całego rynku wobec 25,86 proc. po wrześniu 2025 roku - podał Urząd Transportu Kolejowego.",
       "content_html": "",
       "date_published": "2026-10-30T09:44:00+01:00"
     },
@@ -58,13 +191,6 @@
       "title": "Największy atak w historii kryptowalut. Z Binance zniknęło ponad 6 mld dolarów Rynek kryptowalut doświadcza właśnie największego wstrząsu w swojej historii. Z giełdy Binance – globalnego lidera cyfrowego handlu – w wyniku precyzyjnego cyberataku wypłynęły aktywa o szacowanej wartości od 5,9 mld do nawet 6,3 mld dolarów. To kwota czterokrotnie wyższa niż w przypadku dotychczasowego rekordu kradzieży. W obliczu rynkowego paraliżu i wstrzymania wypłat kluczowe pytanie inwestorów brzmi: co ze środkami klientów?",
       "content_html": "",
       "date_published": "2026-10-30T07:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OKI-IKE-czy-IKZE-Trzy-ulgi-podatkowe-trzy-rozne-zasady-9214694.html",
-      "url": "https://www.bankier.pl/wiadomosc/OKI-IKE-czy-IKZE-Trzy-ulgi-podatkowe-trzy-rozne-zasady-9214694.html",
-      "title": "OKI, IKE czy IKZE? Trzy ulgi podatkowe, trzy różne zasady Od stycznia 2027 roku otrzymamy nowe opakowanie prawne dla naszych inwestycji, pozwalające na legalne uniknięcie podatku Belki w postaci Osobistych Kont Inwestycyjnych. Ale czy to opcja lepsza od istniejących już IKE i IKZE? Odpowiedź brzmi: to zależy dla kogo.",
-      "content_html": "",
-      "date_published": "2026-10-30T06:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Ktore-spolki-z-GPW-moga-zarobic-na-wzroscie-cen-stali-Ekspert-opiniuje-Cognor-Bowim-MFO-Stalprofil-i-Stalprodukt-9220346.html",
@@ -499,146 +625,6 @@
       "title": "RN Pekao zgodziła się na emisję obligacji AT1 o łącznej wartości nominalnej do 500 mln zł Rada nadzorcza banku Pekao zgodziła się na emisję przez bank obligacji kapitałowych, które mają spełniać warunki zakwalifikowania jako instrumenty dodatkowe w Tier I - podał bank w komunikacie. Ostateczna łączna wartość nominalna obligacji nie będzie większa niż 500 mln zł.",
       "content_html": "",
       "date_published": "2026-10-28T17:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejne-kamienie-milowe-projektow-Edocera-i-Hybolic-w-27-zainteresowanie-inwestorow-projektami-podobne-9219828.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-kamienie-milowe-projektow-Edocera-i-Hybolic-w-27-zainteresowanie-inwestorow-projektami-podobne-9219828.html",
-      "title": "Kolejne kamienie milowe projektów Edocera i Hybolic w '27; zainteresowanie inwestorów projektami podobne Scope Fluidics ocenia, że zainteresowanie potencjalnych inwestorów projektami Edocera i Hybolic jest podobne. Kolejne kamienie milowe projektów mają zostać zrealizowane w 2027 r. - poinformowali przedstawiciele Scope Fluidics podczas webinaru.",
-      "content_html": "",
-      "date_published": "2026-10-28T16:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gielda-w-2027-roku-Zarzadzajacy-wskazali-kto-moze-przejac-paleczke-lidera-9219823.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gielda-w-2027-roku-Zarzadzajacy-wskazali-kto-moze-przejac-paleczke-lidera-9219823.html",
-      "title": "Giełda w 2027 roku. Zarządzający wskazali, kto może przejąć pałeczkę lidera W 2027 roku polskie spółki mogą nadal rosnąć, ale zmienią się liderzy wzrostów - oceniają przedstawiciele VIG/C-Quadrat TFI. Ich zdaniem wyceny są atrakcyjne w relacji do prognozowanych zysków, co widoczne jest zwłaszcza w sektorze bankowym. Spodziewają się, że w kolejnych miesiącach możliwe są dwie podwyżki stóp proc. w Polsce.",
-      "content_html": "",
-      "date_published": "2026-10-28T16:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cena-gazu-w-Europie-osiaga-100-euro-pierwszy-raz-od-kryzysu-energetycznego-z-2022-r-9219751.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cena-gazu-w-Europie-osiaga-100-euro-pierwszy-raz-od-kryzysu-energetycznego-z-2022-r-9219751.html",
-      "title": "Ceny gazu już trzycyfrowe. W tym roku błękitne paliwo zdrożało 3,5 krotnie Cena gazu ziemnego w Europie osiągnęła w środę poziom 100 euro za megawatogodzinę, po raz pierwszy od prawie czterech lat, co podsyca obawy przed nawrotem kryzysu energetycznego w momencie, gdy region wkracza w okres szczytowego zapotrzebowania.",
-      "content_html": "",
-      "date_published": "2026-10-28T14:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/mBank-spodziewa-sie-ze-w-27-zysk-netto-bedzie-wyraznie-wyzszy-niz-w-26-9219737.html",
-      "url": "https://www.bankier.pl/wiadomosc/mBank-spodziewa-sie-ze-w-27-zysk-netto-bedzie-wyraznie-wyzszy-niz-w-26-9219737.html",
-      "title": "mBank spodziewa się, że w '27 zysk netto będzie wyraźnie wyższy niż w '26 mBank spodziewa się, że w 2027 roku przychody banku będą rosły szybciej niż koszty, a zysk netto będzie wyraźnie wyższy niż w 2026 roku - poinformował wiceprezes ds. finansów Pascal Ruhland.",
-      "content_html": "",
-      "date_published": "2026-10-28T14:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/mBank-chce-utrzymac-mocna-pozycje-w-hipotekach-kontynuuje-pozytywny-trend-w-kredytach-korp-9219714.html",
-      "url": "https://www.bankier.pl/wiadomosc/mBank-chce-utrzymac-mocna-pozycje-w-hipotekach-kontynuuje-pozytywny-trend-w-kredytach-korp-9219714.html",
-      "title": "mBank chce utrzymać mocną pozycję w hipotekach, kontynuuje pozytywny trend w kredytach korp. mBank notuje szybki wzrost portfela kredytowego dzięki przyspieszeniu w kredytach hipotecznych i finansowania korporacji. Bank utrzymuje pozytywny trend w kredytach korporacyjnych, chce utrzymać udziały rynkowe w hipotekach, ale spodziewa się, że ich sprzedaż w IV kwartale będzie niższa ze względu na spadek zainteresowania refinansowaniem - poinformowali przedstawiciele banku.",
-      "content_html": "",
-      "date_published": "2026-10-28T14:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Woj-pomorskie-skorzystalo-z-prawa-opcji-w-zamowieniu-od-Newagu-o-wartosci-79-67-mln-zl-netto-9219712.html",
-      "url": "https://www.bankier.pl/wiadomosc/Woj-pomorskie-skorzystalo-z-prawa-opcji-w-zamowieniu-od-Newagu-o-wartosci-79-67-mln-zl-netto-9219712.html",
-      "title": "POMORSKIE Samorząd dokupi od Newagu dwa elektryczne pociągi za blisko 80 mln zł Województwo pomorskie skorzystało z prawa opcji w zamówieniu od Newagu o wartości 79,67 mln zł netto - podał Newag w komunikacie. Przedmiotem opcji jest zwiększenie przedmiotu umowy o dostawę przez Newag dwóch dodatkowych elektrycznych zespołów trakcyjnych (EZT).",
-      "content_html": "",
-      "date_published": "2026-10-28T14:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-ceny-docelowe-dla-Enei-i-PGE-a-obnizyl-dla-Tauronu-9219690.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-ceny-docelowe-dla-Enei-i-PGE-a-obnizyl-dla-Tauronu-9219690.html",
-      "title": "DM BOŚ podniósł ceny docelowe dla Enei i PGE, a obniżył dla Tauronu Analitycy DM BOŚ, w raporcie z 20 października, podtrzymali rekomendację \"kupuj\" dla Enei i PGE oraz \"trzymaj\" dla Tauronu. Cena docelowa akcji Enei w horyzoncie 12-miesięcznym wzrosła do 30 zł z 24 zł, PGE wzrosła do 20 zł z 14 zł, a Tauronu została obniżona do 9 zł z 10 zł.",
-      "content_html": "",
-      "date_published": "2026-10-28T14:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mennica-Polska-zarabia-krocie-nie-tylko-na-zlocie-Prawdziwe-miliony-przyniosly-mieszkania-9219634.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mennica-Polska-zarabia-krocie-nie-tylko-na-zlocie-Prawdziwe-miliony-przyniosly-mieszkania-9219634.html",
-      "title": "Mennica Polska zarabia krocie nie tylko na złocie. Prawdziwe miliony przyniosły mieszkania Grupa Kapitałowa Mennica Polska S.A. zamknęła pierwsze trzy kwartały 2026 roku rekordowymi wynikami finansowymi, osiągając 2,22 mld zł przychodów ze sprzedaży, czyli blisko miliard złotych więcej niż rok wcześniej. Choć Polacy na potęgę kupują złoto inwestycyjne, a firma wyprodukowała 1,8 mld monet, fundamentem wyniku okazał się segment deweloperski. Sprzedaż mieszkań odpowiadała za ponad 70% skonsolidowanego zysku operacyjnego całej grupy.",
-      "content_html": "",
-      "date_published": "2026-10-28T14:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Polsat-Plus-zawarla-trzyletnia-umowe-strategiczna-z-Vodafone-9219674.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Polsat-Plus-zawarla-trzyletnia-umowe-strategiczna-z-Vodafone-9219674.html",
-      "title": "Plus łączy siły z globalnym gigantem. Umowa strategiczna z Vodafone Grupa Polsat Plus i Grupa Vodafone podpisały umowę o partnerstwie strategicznym, która zapewni Polkomtelowi, operatorowi sieci Plus, dostęp do międzynarodowej wiedzy specjalistycznej, know-how i doświadczenia operacyjnego firmy Vodafone - podał Polsat w komunikacie. Umowa nie przewiduje żadnego zaangażowania kapitałowego.",
-      "content_html": "",
-      "date_published": "2026-10-28T13:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Saudi-Aramco-szykuje-odwrot-z-Polski-Minister-ujawnia-co-wie-rzad-9219647.html",
-      "url": "https://www.bankier.pl/wiadomosc/Saudi-Aramco-szykuje-odwrot-z-Polski-Minister-ujawnia-co-wie-rzad-9219647.html",
-      "title": "Saudi Aramco szykuje odwrót z Polski? Minister ujawnia, co wie rząd Jeżeli o sytuację Saudi Aramco, ze strony koncernu nie ma sygnałów wskazujących na ryzyko dla polskiego rynku naftowego - powiedział w środę minister energii Miłosz Motyka.",
-      "content_html": "",
-      "date_published": "2026-10-28T13:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zabka-wskazuje-na-trudniejsze-otoczenie-rynkowe-w-III-kw-br-podtrzymuje-cele-srednioterminowe-9219657.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zabka-wskazuje-na-trudniejsze-otoczenie-rynkowe-w-III-kw-br-podtrzymuje-cele-srednioterminowe-9219657.html",
-      "title": "Żabka ma problem? Sieć wskazuje na słabsze wydatki konsumentów Grupa Żabka ocenia, że otoczenie rynkowe w trzecim kwartale br. było wymagające i trudniejsze niż wcześniej; spółka podtrzymuje cele średnioterminowe - poinformowali w środę przedstawiciele grupy.",
-      "content_html": "",
-      "date_published": "2026-10-28T13:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-ocenia-ze-decyzja-KNF-istotna-dla-dokapitalizowania-Acciona-potwierdza-zaangazowanie-9219591.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mostostal-Warszawa-ocenia-ze-decyzja-KNF-istotna-dla-dokapitalizowania-Acciona-potwierdza-zaangazowanie-9219591.html",
-      "title": "KNF pozwala Accionie na niższą cenę w wezwaniu na Mostostal Warszawa: minimum 2,75 zł za akcję Decyzja KNF dotycząca zgody, by cena w wezwaniu na akcje Mostostalu Warszawa była niższa niż wynika z ustawy jest istotnym krokiem w kierunku usunięcia dotychczasowych rozbieżności dotyczących warunków planowanego dokapitalizowania Mostostalu Warszawa - oceniła spółka w komentarzu. Acciona potwierdza swoje zaangażowanie w dokapitalizowanie spółki.",
-      "content_html": "",
-      "date_published": "2026-10-28T12:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kruk-blizej-dodatkowej-dywidendy-niz-skupu-akcji-wlasnych-czlonek-zarzadu-9219580.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kruk-blizej-dodatkowej-dywidendy-niz-skupu-akcji-wlasnych-czlonek-zarzadu-9219580.html",
-      "title": "Kruk bliżej dodatkowej dywidendy niż skupu akcji własnych Kruk jest obecnie bliżej rozmów o ewentualnej dodatkowej dywidendzie niż o programie skupu akcji własnych, choć ostateczne decyzje będą zależeć od sytuacji finansowej grupy, poziomu zadłużenia oraz możliwości inwestycyjnych - poinformował członek zarządu Kruka Michał Zasępa podczas środowej telekonferencji.",
-      "content_html": "",
-      "date_published": "2026-10-28T12:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wejscie-Kruka-na-nowe-rynki-dopiero-po-rozwiazaniu-problemow-z-obecnymi-prezes-9219560.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wejscie-Kruka-na-nowe-rynki-dopiero-po-rozwiazaniu-problemow-z-obecnymi-prezes-9219560.html",
-      "title": "Wejście Kruka na nowe rynki dopiero po rozwiązaniu problemów z obecnymi Grupa Kruk jest otwarta na wejście na nowe rynki w Stanach Zjednoczonych i Wielkiej Brytanii, ale nie nastąpi to wcześniej niż po uporządkowaniu problemów z obecnymi rynkami - poinformował prezes Kruka Piotr Krupa.",
-      "content_html": "",
-      "date_published": "2026-10-28T11:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kruk-rozwaza-wieksza-dystrybucje-kapitalu-jesli-utrzyma-sie-presja-na-rentownosc-inwestycji-9219556.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kruk-rozwaza-wieksza-dystrybucje-kapitalu-jesli-utrzyma-sie-presja-na-rentownosc-inwestycji-9219556.html",
-      "title": "Kruk rozważa większą dystrybucję kapitału, jeśli utrzyma się presja na rentowność inwestycji Grupa Kruk może rozważyć większą dystrybucję kapitału do akcjonariuszy, jeśli możliwości inwestowania środków przy satysfakcjonujących stopach zwrotu będą ograniczone - poinformował prezes Piotr Krupa. Zaznaczył, że jest zbyt wcześnie, by mówić o zmianach polityki dywidendowej.",
-      "content_html": "",
-      "date_published": "2026-10-28T11:48:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kruka-w-2026-roku-moze-byc-nizszy-rok-do-roku-9219545.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-Kruka-w-2026-roku-moze-byc-nizszy-rok-do-roku-9219545.html",
-      "title": "Zysk netto Kruka w 2026 roku może być niższy rok do roku Zysk netto firmy windykacyjnej Kruk na koniec 2026 roku może być niższy niż w zeszłym roku - poinformował członek zarządu Kruka Michał Zasępa podczas środowej telekonferencji z analitykami. Dodał, że inwestycje w portfele kredytów mogą wynieść w tym roku około 2,5 mld zł.",
-      "content_html": "",
-      "date_published": "2026-10-28T11:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zabka-wskazuje-na-trudniejsze-otoczenie-w-26-oczekuje-sredniego-jednocyfrowego-wzrostu-LFL-9219531.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zabka-wskazuje-na-trudniejsze-otoczenie-w-26-oczekuje-sredniego-jednocyfrowego-wzrostu-LFL-9219531.html",
-      "title": "Ostrożniejsi konsumenci, lecz Żabka zwiększa udział w rynku Grupa Żabka ocenia, że otoczenie rynkowe w trzecim kwartale było wymagające i trudniejsze niż wcześniej. Spółka podtrzymuje cele średnioterminowe, ale oczekuje obecnie, że w 2026 roku wzrost LFL będzie bliższy średniemu jednocyfrowemu poziomowi - poinformowali przedstawiciele grupy.",
-      "content_html": "",
-      "date_published": "2026-10-28T11:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Asseco-i-Aruba-powoluja-spolke-joint-venture-aby-stworzyc-wspolny-rynek-e-Doreczen-w-Europie-9219530.html",
-      "url": "https://www.bankier.pl/wiadomosc/Asseco-i-Aruba-powoluja-spolke-joint-venture-aby-stworzyc-wspolny-rynek-e-Doreczen-w-Europie-9219530.html",
-      "title": "Cyfrowy przełom w UE. Powstanie europejski hub e-Doręczeń Asseco Data Systems oraz Aruba, włoski dostawca usług chmurowych, cyfrowych oraz centrów danych, ogłosili powołanie spółki joint venture, której celem jest stworzenie europejskiego centrum umożliwiającego transgraniczną wymianę e-Doręczeń - poinformowało Asseco w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-10-28T11:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-i-Banca-Transilvania-podpisaly-porozumienie-9219520.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-i-Banca-Transilvania-podpisaly-porozumienie-9219520.html",
-      "title": "PKO BP łączy siły z Banca Transilvania. Strategiczne porozumienie dla polskich i rumuńskich firm PKO BP i Banca Transilvania podpisały porozumienie, które ułatwi polskim i rumuńskim firmom rozwój działalności w obu krajach - podało PKO BP w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-10-28T10:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Projekt-realizowany-przez-konsorcjum-ze-spolka-ZSP-Niewiadow-wybrany-przez-KE-do-dofinansowania-9219509.html",
-      "url": "https://www.bankier.pl/wiadomosc/Projekt-realizowany-przez-konsorcjum-ze-spolka-ZSP-Niewiadow-wybrany-przez-KE-do-dofinansowania-9219509.html",
-      "title": "Projekt realizowany przez konsorcjum ze spółką ZSP Niewiadów wybrany do dofinansowania Projekt E-WARP, realizowany przez konsorcjum z udziałem spółki Zakłady Sprzętu Precyzyjnego Niewiadów, spółki zależnej Niewiadów Polska Grupa Militarna, został wybrany przez Komisję Europejską do dofinansowania w wysokości 25,8 mln euro w ramach programu European Defence Industry Programme (EDIP) - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-10-28T10:30:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
