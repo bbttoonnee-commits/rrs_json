@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Kanada-szykuje-sie-na-najgorsze-Buduje-tarcze-przed-zagranicznymi-ingerencjami-9220684.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kanada-szykuje-sie-na-najgorsze-Buduje-tarcze-przed-zagranicznymi-ingerencjami-9220684.html",
+      "title": "Kanada szykuje się na najgorsze. Buduje tarczę przed zagranicznymi ingerencjami",
+      "content_html": "Kanada będzie wzmacniać bezpieczeństwo gospodarki, odporność na zagrożenia, budować różnorodność polityki zagranicznej, wzmacniać armię i bezpieczeństwo kraju oraz modernizować wywiad – to cele ogłoszonej w czwartek strategii bezpieczeństwa...",
+      "date_published": "2026-10-31T21:45:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Amerykanie-zachwyceni-Polska-na-szczycie-G20-Padly-wielkie-slowa-9221703.html",
       "url": "https://www.bankier.pl/wiadomosc/Amerykanie-zachwyceni-Polska-na-szczycie-G20-Padly-wielkie-slowa-9221703.html",
       "title": "Amerykanie zachwyceni Polską na szczycie G20. Padły wielkie słowa",
@@ -695,13 +702,6 @@
       "title": "Duża transakcja w polskim hutnictwie. Dwie huty zmieniają właściciela",
       "content_html": "Polska Grupa Hutnicza przejęła 100 proc. udziałów w Andorii i Hucie Małapanew od RSJ Fundacji Rodzinnej, w zamian fundacja objęła 33,33 mln nowych akcji serii N6 spółki po 3 zł, czyli łącznie za ok. 100 mln zł – podała PGH w komunikacie...",
       "date_published": "2026-10-30T14:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-6-9-proc-a-Cyfrowy-Polsat-traci-13-proc-WIG20-w-dol-o-2-2-proc-9221097.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-KGHM-spada-o-6-9-proc-a-Cyfrowy-Polsat-traci-13-proc-WIG20-w-dol-o-2-2-proc-9221097.html",
-      "title": "Kurs KGHM spada o 6,9 proc., a Cyfrowy Polsat traci 13 proc.; WIG20 w dół o 2,2 proc.",
-      "content_html": "Kurs akcji KGHM spada o 6,9 proc. do 282 zł, a Cyfrowy Polsat traci 13 proc. do 12,8 zł, przy wysokich obrotach. Po kilka proc. zniżkują też niektóre banki. WIG20 idzie w dół o 2,2 proc.",
-      "date_published": "2026-10-30T14:18:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
