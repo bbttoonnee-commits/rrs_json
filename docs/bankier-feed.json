@@ -4,10 +4,108 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Amerykanie-zachwyceni-Polska-na-szczycie-G20-Padly-wielkie-slowa-9221703.html",
+      "url": "https://www.bankier.pl/wiadomosc/Amerykanie-zachwyceni-Polska-na-szczycie-G20-Padly-wielkie-slowa-9221703.html",
+      "title": "Amerykanie zachwyceni Polską na szczycie G20. Padły wielkie słowa",
+      "content_html": "Prezydent Donald Trump uważa, że Polsce należy się miejsce przy stole G20 - poinformował w sobotę sekretarz stanu USA Marco Rubio. Pochwalił Polskę za postępy w gospodarce i obszarze bezpieczeństwa. Wyraził nadzieję, że Polska zostanie zaproszona...",
+      "date_published": "2026-10-31T21:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-gieldzie-zaburzone-PSE-ostrzega-przed-chaosem-9220498.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-gieldzie-zaburzone-PSE-ostrzega-przed-chaosem-9220498.html",
+      "title": "Ceny prądu na giełdzie zaburzone. PSE ostrzega przed chaosem",
+      "content_html": "Kontynuacja obecnego trendu w niezbilansowaniu systemu elektroenergetycznego będzie skutkowała utraconymi korzyściami sięgającymi łącznie ok. 1 mld zł w 2026 r. - prognozują Polskie Sieci Elektroenergetyczne.",
+      "date_published": "2026-10-31T20:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unia-uderza-w-azjatyckich-gigantow-e-commerce-Paczki-z-Chin-beda-znacznie-drozsze-9221220.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unia-uderza-w-azjatyckich-gigantow-e-commerce-Paczki-z-Chin-beda-znacznie-drozsze-9221220.html",
+      "title": "Unia uderza w azjatyckich gigantów e-commerce. Paczki z Chin będą znacznie droższe",
+      "content_html": "W niedzielę w UE wejdzie w życie opłata manipulacyjna w wysokości 2 euro naliczana od towarów importowanych do Wspólnoty z krajów trzecich. Uzupełni ona 3 euro cła, jakie od 1 lipca br. obowiązuje na paczki do wartości 150 euro. W tym okresie...",
+      "date_published": "2026-10-31T20:49:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pilny-komunikat-ambasady-USA-w-Moskwie-Zagrozenie-zamachem-z-ogromna-liczba-ofiar-9221675.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pilny-komunikat-ambasady-USA-w-Moskwie-Zagrozenie-zamachem-z-ogromna-liczba-ofiar-9221675.html",
+      "title": "Pilny komunikat ambasady USA w Moskwie. Zagrożenie zamachem z ogromną liczbą ofiar",
+      "content_html": "Ambasada USA w Moskwie ostrzegła w sobotę przed możliwym atakiem terrorystycznym w kompleksie pałacowo-parkowym Carycyno w południowej części Moskwy. Amerykanie przekazali rosyjskim służbom informacje o potencjalnym ataku.",
+      "date_published": "2026-10-31T20:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Binance-uspokaja-po-cyberataku-Gielda-wznawia-wyplaty-i-uruchamia-wlasne-rezerwy-9221706.html",
+      "url": "https://www.bankier.pl/wiadomosc/Binance-uspokaja-po-cyberataku-Gielda-wznawia-wyplaty-i-uruchamia-wlasne-rezerwy-9221706.html",
+      "title": "Binance uspokaja po cyberataku. Giełda wznawia wypłaty i uruchamia własne rezerwy",
+      "content_html": "Giełda kryptowalut Binance poinformowała w sobotę w opublikowanym na platformie X oświadczeniu, że odtworzyła 90 proc. aktywów, które w ostatnim czasie zostały skradzione przez hakerów.",
+      "date_published": "2026-10-31T20:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-uderza-w-prezydenta-Nawrockiego-Agresywny-osilek-nie-moze-zastraszac-sedziow-9221709.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-uderza-w-prezydenta-Nawrockiego-Agresywny-osilek-nie-moze-zastraszac-sedziow-9221709.html",
+      "title": "Tusk uderza w prezydenta Nawrockiego: \"Agresywny osiłek\" nie może zastraszać sędziów",
+      "content_html": "Brutalna ocena nocnego skandalu w TK. Premier Donald Tusk w orędziu do narodu wprost zarzucił prezydentowi Nawrockiemu łamanie prawa i zastraszanie sędziów. Z ust szefa rządu padły kategoryczne słowa o końcu ustępstw wobec przemocy i obietnica...",
+      "date_published": "2026-10-31T20:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pokolenie-Z-wychodzi-na-ulice-Od-paryskich-przedmiesc-po-ruch-Flamingi-w-Albanii-9218351.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pokolenie-Z-wychodzi-na-ulice-Od-paryskich-przedmiesc-po-ruch-Flamingi-w-Albanii-9218351.html",
+      "title": "Pokolenie Z wychodzi na ulice. Od paryskich przedmieść po ruch „Flamingi” w Albanii",
+      "content_html": "Wraz z wybuchem we wrześniu i październiku fali protestów w państwach europejskich w sieci pojawiło się kilka fałszywych narracji. Raport Alliance4Europe wykazał, że szeroka fala dezinformacji bezpodstawnie obwiniała migrantów o wywołanie...",
+      "date_published": "2026-10-31T20:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestycja-zycia-Wladimira-Putina-Dlaczego-Bialy-Dom-pozwolil-Rosji-odzyskac-inicjatywe-9219244.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestycja-zycia-Wladimira-Putina-Dlaczego-Bialy-Dom-pozwolil-Rosji-odzyskac-inicjatywe-9219244.html",
+      "title": "Inwestycja życia Władimira Putina. Dlaczego Biały Dom pozwolił Rosji odzyskać inicjatywę?",
+      "content_html": "Władimir Putin przez dekady pielęgnował stosunki z Donaldem Trumpem; teraz odcina kupony od tej inwestycji, a prezydent USA pomaga mu pokonać Ukrainę - ostrzega na łamach \"Foreign Affairs\" były amerykański ambasador w Rosji i profesor nauk...",
+      "date_published": "2026-10-31T20:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ebola-rozprzestrzenia-sie-w-Afryce-Tysiace-ofiar-w-DRK-wirus-dotarl-do-Kenii-i-Nigerii-9219255.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ebola-rozprzestrzenia-sie-w-Afryce-Tysiace-ofiar-w-DRK-wirus-dotarl-do-Kenii-i-Nigerii-9219255.html",
+      "title": "Ebola rozprzestrzenia się w Afryce. Tysiące ofiar w DRK, wirus dotarł do Kenii i Nigerii",
+      "content_html": "Już ponad 10 tys. osób zostało zakażonych ebolą w Afryce, przy czym zdecydowana większość w Demokratycznej Republice Konga – poinformował Państwowy Instytut Zdrowia Publicznego Demokratycznej Republiki Konga (DRK).",
+      "date_published": "2026-10-31T20:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wojna-gangow-wciaga-Salwador-Tysiac-zolnierzy-leci-na-Haiti-odbijac-porwanych-towarzyszy-9219295.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wojna-gangow-wciaga-Salwador-Tysiac-zolnierzy-leci-na-Haiti-odbijac-porwanych-towarzyszy-9219295.html",
+      "title": "Wojna gangów wciąga Salwador. Tysiąc żołnierzy leci na Haiti odbijać porwanych towarzyszy",
+      "content_html": "W Salwadorze toczy się masowy proces 486 domniemanych członków gangu MS-13, oskarżonych o zabójstwa, wymuszenia, handel narkotykami i bronią. To jeden z największych takich procesów, odkąd prezydent Nayib Bukele rozpoczął w kraju twardą rozprawę...",
+      "date_published": "2026-10-31T20:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Diagnoza-wybitnego-badacza-Polacy-nie-uswiadamiaja-sobie-jak-bardzo-wyprzedzili-sasiadow-9217688.html",
+      "url": "https://www.bankier.pl/wiadomosc/Diagnoza-wybitnego-badacza-Polacy-nie-uswiadamiaja-sobie-jak-bardzo-wyprzedzili-sasiadow-9217688.html",
+      "title": "Diagnoza wybitnego badacza: Polacy nie uświadamiają sobie, jak bardzo wyprzedzili sąsiadów",
+      "content_html": "Rosja jest w fazie schyłkowej. To kolejne światowe imperium po brytyjskim, które się rozpadnie – ocenił w rozmowie z PAP brytyjsko-polski historyk prof. Norman Davies. Zaznaczył, że w odróżnieniu od Rosji „Polska kwitnie”, a Polacy czują...",
+      "date_published": "2026-10-31T18:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Zabiegi-za-granica-powiklania-w-Polsce-Alarm-w-sprawie-zabiegow-zacmy-w-Czechach-9218519.html",
       "url": "https://www.bankier.pl/wiadomosc/Zabiegi-za-granica-powiklania-w-Polsce-Alarm-w-sprawie-zabiegow-zacmy-w-Czechach-9218519.html",
       "title": "Zabiegi za granicą, powikłania w Polsce. Alarm w sprawie zabiegów zaćmy w Czechach",
       "content_html": "Polskie Towarzystwo Okulistyczne sprzeciwia się zmianom w opiece transgranicznej. W poniedziałek PTO opublikowało stanowisko, w którym zauważa, że mogą one spowodować wzrost liczby komercyjnych wyjazdów do innych krajów na zabiegi usunięcia...",
+      "date_published": "2026-10-31T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Realizowaly-tylko-polityke-firmy-Obroncy-zadaja-uniewinnienia-doradczyn-z-parabanku-9219151.html",
+      "url": "https://www.bankier.pl/wiadomosc/Realizowaly-tylko-polityke-firmy-Obroncy-zadaja-uniewinnienia-doradczyn-z-parabanku-9219151.html",
+      "title": "\"Realizowały tylko politykę firmy\". Obrońcy żądają uniewinnienia doradczyń z parabanku",
+      "content_html": "Przed Sądem Apelacyjnym w Białymstoku zakończył się proces odwoławczy dwóch byłych doradczyń finansowych w firmie udzielającej pożyczek, nieprawomocnie skazanych za oszustwa. Ubiegający się o pożyczki wnosili konieczne bezzwrotne opłaty...",
+      "date_published": "2026-10-31T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Godla-Polski-wyladowaly-w-smietniku-Policyjne-dochodzenie-w-Warszawie-9219152.html",
+      "url": "https://www.bankier.pl/wiadomosc/Godla-Polski-wyladowaly-w-smietniku-Policyjne-dochodzenie-w-Warszawie-9219152.html",
+      "title": "Godła Polski wylądowały w śmietniku? Policyjne dochodzenie w Warszawie",
+      "content_html": "Biuro Rzecznika Praw Obywatelskich współpracuje z policją w sprawdzaniu doniesień o godłach Polski umieszczonych w kontenerze na śmieci przed siedzibą biura – poinformowała PAP Monika Okrasa z biura RPO. Dodała, że policji przekazane zostały...",
+      "date_published": "2026-10-31T18:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-z-bezkarnoscia-nielegalnych-migrantow-UE-stworzy-wspolna-baze-deportacyjna-9219176.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-z-bezkarnoscia-nielegalnych-migrantow-UE-stworzy-wspolna-baze-deportacyjna-9219176.html",
+      "title": "Koniec z bezkarnością nielegalnych migrantów? UE stworzy wspólną bazę deportacyjną",
+      "content_html": "Komisja Europejska zaproponowała we wtorek zwiększenie liczby funkcjonariuszy Frontexu do 30 tys. Europejska Agencja Straży Granicznej i Przybrzeżnej z siedzibą w Warszawie ma otrzymać też mandat do monitorowania mediów społecznościowych. Ma...",
       "date_published": "2026-10-31T18:00:00+01:00"
     },
     {
@@ -23,6 +121,34 @@
       "title": "Nawet 3 mld zł straty. W tej branży szara strefa ma się dobrze",
       "content_html": "Malejąca liczba zgonów oznacza mniej zleceń, a rosnące koszty coraz mocniej obciążają zakłady pogrzebowe. Branża alarmuje, że podwyżki cen usług nie wystarczają, by poprawić rentowność firm. Wskazuje też na szarą strefę i przepisy,...",
       "date_published": "2026-10-31T16:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oskarzony-o-morderstwo-wygenerowal-swoj-pogrzeb-w-AI-Pochowal-kozla-9218199.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oskarzony-o-morderstwo-wygenerowal-swoj-pogrzeb-w-AI-Pochowal-kozla-9218199.html",
+      "title": "Oskarżony o morderstwo wygenerował swój pogrzeb w AI. Pochował kozła",
+      "content_html": "Oskarżony o morderstwo mieszkaniec Indii wykorzystał AI do stworzenia zdjęć z uroczystości pogrzebowej, by sfingować własną śmierć i uniknąć wyroku. Udało mu się nawet uzyskać akt zgonu, zanim władze odkryły, że zamiast niego na stosie...",
+      "date_published": "2026-10-31T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Meta-Google-i-TikTok-przymykaly-oko-podczas-wyborow-Miazdzacy-raport-o-biernosci-Big-Techow-9218502.html",
+      "url": "https://www.bankier.pl/wiadomosc/Meta-Google-i-TikTok-przymykaly-oko-podczas-wyborow-Miazdzacy-raport-o-biernosci-Big-Techow-9218502.html",
+      "title": "Meta, Google i TikTok przymykały oko podczas wyborów? Miażdżący raport o bierności Big Techów",
+      "content_html": "Europejskie Obserwatorium Mediów Cyfrowych (EDMO) wykazało wady w moderacji dezinformacji przez platformy społecznościowe podczas wyborów w Rumunii, Mołdawii, Bułgarii, na Węgrzech, Cyprze i Malcie w 2025 i 2026 r. Problemem były m.in. nielegalne...",
+      "date_published": "2026-10-31T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tajemnica-mobilizacji-zagrozona-Wojskowi-domagaja-sie-audytu-systemow-9219140.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tajemnica-mobilizacji-zagrozona-Wojskowi-domagaja-sie-audytu-systemow-9219140.html",
+      "title": "Tajemnica mobilizacji zagrożona? Wojskowi domagają się audytu systemów",
+      "content_html": "Po doniesieniach o awarii serwerów w Wojskowym Centrum Rekrutacji w Opolu pojawiły się pytania o bezpieczeństwo wojskowych baz danych. – Trudno wskazać obszar, w którym tajemnica miałaby większe znaczenie niż właśnie mobilizacja – powiedział...",
+      "date_published": "2026-10-31T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koszty-w-Madrycie-i-Londynie-zjadaja-stypendia-UE-chce-dostosowac-stawki-Erasmusa-9219398.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koszty-w-Madrycie-i-Londynie-zjadaja-stypendia-UE-chce-dostosowac-stawki-Erasmusa-9219398.html",
+      "title": "Koszty w Madrycie i Londynie zjadają stypendia. UE chce dostosować stawki Erasmusa",
+      "content_html": "Ponad 47 mld euro - tyle według Parlamentu Europejskiego powinno się znaleźć w puli przyszłego budżetu na program Erasmus+. To o ponad 20 mld euro więcej niż w poprzednich wieloletnich ramach finansowych i o blisko 7 mld euro więcej, niż zaproponowała...",
+      "date_published": "2026-10-31T16:00:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Mandaty-zablokuja-paszport-Polska-uszczelnia-procedury-dla-obcokrajowcow-9219108.html",
@@ -576,132 +702,6 @@
       "title": "Kurs KGHM spada o 6,9 proc., a Cyfrowy Polsat traci 13 proc.; WIG20 w dół o 2,2 proc.",
       "content_html": "Kurs akcji KGHM spada o 6,9 proc. do 282 zł, a Cyfrowy Polsat traci 13 proc. do 12,8 zł, przy wysokich obrotach. Po kilka proc. zniżkują też niektóre banki. WIG20 idzie w dół o 2,2 proc.",
       "date_published": "2026-10-30T14:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niespodziewany-ruch-Szwajcarii-Otwiera-stala-placowke-w-Pjongjangu-9221095.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niespodziewany-ruch-Szwajcarii-Otwiera-stala-placowke-w-Pjongjangu-9221095.html",
-      "title": "Niespodziewany ruch Szwajcarii. Otwiera stałą placówkę w Pjongjangu",
-      "content_html": "Szef MSZ Szwajcarii Ignazio Cassis przybył do Pjongjangu, gdzie spotkał się z ministrą spraw zagranicznych Korei Płn. Czoe Son Hui i otworzył pierwsze w historii stałe biuro dyplomatyczne Berna w tym kraju – podała w piątek agencja KCNA. Wizyta...",
-      "date_published": "2026-10-30T14:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejne-tankowce-zaplonely-w-ciesninie-Ormuz-9221092.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-tankowce-zaplonely-w-ciesninie-Ormuz-9221092.html",
-      "title": "Kolejne tankowce „zapłonęły” w cieśninie Ormuz",
-      "content_html": "Marynarka wojenna irańskiego Korpusu Strażników Rewolucji Islamskiej (IRGC) poinformowała w piątek, że trzy tankowce „zapłonęły” w cieśninie Ormuz po zignorowaniu ostrzeżeń radiowych.",
-      "date_published": "2026-10-30T14:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Szef-MON-o-dwoch-MiG-ach-dla-Ukrainy-nieprzydatne-w-polskiej-armii-rozwazamy-sprzedaz-pozostalych-9221090.html",
-      "url": "https://www.bankier.pl/wiadomosc/Szef-MON-o-dwoch-MiG-ach-dla-Ukrainy-nieprzydatne-w-polskiej-armii-rozwazamy-sprzedaz-pozostalych-9221090.html",
-      "title": "Polska przekaże Ukrainie kolejne myśliwce. „Skończył im się resurs”",
-      "content_html": "Dwa samoloty MiG-29, które Polska przekaże Ukrainie, byłby nieprzydatne w Wojsku Polskim, skończył im się resurs – podkreślił w piątek wicepremier, szef MON Władysław Kosiniak-Kamysz. Dodał, że rozważana jest sprzedaż pozostałych...",
-      "date_published": "2026-10-30T14:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Morska-farma-wiatrowa-Baltica-2-coraz-blizej-Wiadomo-kiedy-poplynie-prad-9220962.html",
-      "url": "https://www.bankier.pl/wiadomosc/Morska-farma-wiatrowa-Baltica-2-coraz-blizej-Wiadomo-kiedy-poplynie-prad-9220962.html",
-      "title": "Morska farma wiatrowa Baltica 2 coraz bliżej. Wiadomo, kiedy popłynie prąd",
-      "content_html": "Inwestycje w morską energetykę wiatrową oznacza większe bezpieczeństwo energetyczne, pierwszy prąd z farmy Baltica 2 popłynie w pierwszej połowie przyszłego roku - powiedział w piątek premier Donald Tusk podczas otwarcia terminalu T5 w porcie...",
-      "date_published": "2026-10-30T14:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/8-tys-cyberatakow-na-energetyke-PSE-tworza-specjalny-zespol-9221085.html",
-      "url": "https://www.bankier.pl/wiadomosc/8-tys-cyberatakow-na-energetyke-PSE-tworza-specjalny-zespol-9221085.html",
-      "title": "8 tys. cyberataków na energetykę. PSE tworzą specjalny zespół",
-      "content_html": "W strukturach Polskich Sieci Elektroenergetycznych powstanie wyspecjalizowany zespół CSIRT Energia, który będzie wspierał spółki z sektora energetycznego w reagowaniu na cyberzagrożenia oraz koordynował obsługę incydentów w tym zakresie...",
-      "date_published": "2026-10-30T14:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-remontow-na-A4-Katowice-Krakow-Nowe-MOP-y-juz-otwarte-9221083.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-remontow-na-A4-Katowice-Krakow-Nowe-MOP-y-juz-otwarte-9221083.html",
-      "title": "Koniec remontów na A4 Katowice–Kraków. Nowe MOP-y już otwarte",
-      "content_html": "Na płatnym odcinku autostrady A4 Katowice - Kraków zakończyły się zasadnicze prace związane z modernizacją nawierzchni i budową dwóch nowych Miejsc Obsługi Podróżnych (MOP) - poinformowała w piątek spółka Stalexport Autostrada Małopolska...",
-      "date_published": "2026-10-30T14:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Izrael-dzwoni-do-czlonkow-Hamasu-Daje-im-wybor-przed-atakiem-9221081.html",
-      "url": "https://www.bankier.pl/wiadomosc/Izrael-dzwoni-do-czlonkow-Hamasu-Daje-im-wybor-przed-atakiem-9221081.html",
-      "title": "Izrael dzwoni do członków Hamasu. Daje im wybór przed atakiem",
-      "content_html": "Portal saudyjskiej gazety „Asharq Al-Awsat” przekazał w piątek, że przed atakami na znaczących przedstawicieli organizacji terrorystycznej Hamas izraelska służba bezpieczeństwa Szin Bet dzwoni do nich, uprzedzając, że mogą wyjść...",
-      "date_published": "2026-10-30T13:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pozar-w-Rheinmetallu-Plonely-maszyny-na-budowie-centrum-dronow-9221022.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pozar-w-Rheinmetallu-Plonely-maszyny-na-budowie-centrum-dronow-9221022.html",
-      "title": "Pożar w Rheinmetallu. Płonęły maszyny na budowie centrum dronów",
-      "content_html": "Trzy pojazdy budowlane zapaliły się w nocy z czwartku na piątek na placu budowy nowego ośrodka logistycznego i centrum testowania dronów koncernu zbrojeniowego Rheinmetall przy lotnisku Kassel-Calden w Hesji w środkowych Niemczech. Policja zakłada...",
-      "date_published": "2026-10-30T13:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-uderza-w-Nawrockiego-Sklonilismy-prezydenta-do-zgody-na-CPN-stad-szybki-spadek-inflacji-9221011.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-uderza-w-Nawrockiego-Sklonilismy-prezydenta-do-zgody-na-CPN-stad-szybki-spadek-inflacji-9221011.html",
-      "title": "Tusk uderza w Nawrockiego? \"Skłoniliśmy prezydenta do zgody na CPN, stąd szybki spadek inflacji\"",
-      "content_html": "Spadek inflacji w październiku nastąpił dzięki skłonieniu prezydenta do odblokowania wprowadzenia pakietu CPN (Ceny Paliwa Niżej) - podkreślił w piątek w Gdańsku premier Donald Tusk.",
-      "date_published": "2026-10-30T13:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nalezacy-do-Grupy-Pracuj-eRecruiter-przejmuje-Elevato-z-branzy-HR-Tech-9221057.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nalezacy-do-Grupy-Pracuj-eRecruiter-przejmuje-Elevato-z-branzy-HR-Tech-9221057.html",
-      "title": "Grupa Pracuj przejmuje konkurenta. Ujawniono wartość transakcji",
-      "content_html": "eRecruitment Solutions, spółka należąca do Grupy Pracuj i dostarczająca system do zarządzania rekrutacjami eRecruiter, przejęła 100 proc. akcji firmy Elevato, oferującej narzędzie wspierające rekrutację pracowników - podała Grupa Pracuj...",
-      "date_published": "2026-10-30T13:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-oslony-przed-wzrostem-rachunkow-Minister-ujawnia-plany-9221050.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-szykuje-oslony-przed-wzrostem-rachunkow-Minister-ujawnia-plany-9221050.html",
-      "title": "Rząd szykuje osłony przed wzrostem rachunków. Minister ujawnia plany",
-      "content_html": "Rząd w pierwszej kolejności analizuje działania osłonowe dla odbiorców gazu ziemnego, ale bierze pod uwagę też działania na rynku energii elektrycznej - poinformował w piątek minister energii Miłosz Motyka.",
-      "date_published": "2026-10-30T13:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przelom-w-okupowanych-Oleszkach-Ruszyla-ewakuacja-mieszkancow-9220961.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przelom-w-okupowanych-Oleszkach-Ruszyla-ewakuacja-mieszkancow-9220961.html",
-      "title": "Przełom w okupowanych Ołeszkach. Ruszyła ewakuacja mieszkańców",
-      "content_html": "W okupowanych przez Rosję Ołeszkach w obwodzie chersońskim rozpoczęła się ewakuacja oraz rozdawanie pomocy humanitarnej – poinformował w piątek ukraiński deputowany Dawyd Arachamija, przewodniczący frakcji parlamentarnej partii Sługa Narodu...",
-      "date_published": "2026-10-30T13:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Elektrownia-jadrowa-w-Choczewie-Inwestor-chce-rozpoczac-glebokie-wykopy-9221047.html",
-      "url": "https://www.bankier.pl/wiadomosc/Elektrownia-jadrowa-w-Choczewie-Inwestor-chce-rozpoczac-glebokie-wykopy-9221047.html",
-      "title": "Elektrownia jądrowa w Choczewie. Inwestor chce rozpocząć głębokie wykopy",
-      "content_html": "Polskie Elektrownie Jądrowe złożyły wniosek o pozwolenie na budowę w zakresie Wstępnych Robót Budowlanych (WRB) dla części prac związanych z budową pierwszej polskiej elektrowni jądrowej - poinformowała w piątek spółka.",
-      "date_published": "2026-10-30T13:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Apokaliptyczny-widok-Rosyjska-rafineria-w-ogniu-po-ataku-dronow-9221046.html",
-      "url": "https://www.bankier.pl/wiadomosc/Apokaliptyczny-widok-Rosyjska-rafineria-w-ogniu-po-ataku-dronow-9221046.html",
-      "title": "Apokaliptyczny widok. Rosyjska rafineria w ogniu po ataku dronów",
-      "content_html": "Bezzałogowce należące do ukraińskiej armii zaatakowały rafinerię w Nowokujbyszewsku w obwodzie samarskim w europejskiej części Rosji – poinformował w piątek ukraiński portal Militarnyj.",
-      "date_published": "2026-10-30T13:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-studzi-nadzieje-Europy-Uszakow-samo-przybycie-do-Abu-Zabi-nie-oznacza-udzialu-w-rozmowach-9221024.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-studzi-nadzieje-Europy-Uszakow-samo-przybycie-do-Abu-Zabi-nie-oznacza-udzialu-w-rozmowach-9221024.html",
-      "title": "Rosja studzi nadzieje Europy. Uszakow: samo przybycie do Abu Zabi nie oznacza udziału w rozmowach",
-      "content_html": "Europejscy urzędnicy mogą przebywać w Abu Zabi w Zjednoczonych Emiratach Arabskich podczas rozmów pokojowych między Rosją, Ukrainą i USA, ale nie będą w nich bezpośrednio uczestniczyć - powiedział w piątek Jurij Uszakow, doradca przywódcy...",
-      "date_published": "2026-10-30T13:21:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ubezpieczenie-zdrowotne-pod-warunkiem-badan-Jest-propozycja-nowego-obowiazku-9221043.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ubezpieczenie-zdrowotne-pod-warunkiem-badan-Jest-propozycja-nowego-obowiazku-9221043.html",
-      "title": "Ubezpieczenie zdrowotne pod warunkiem badań? Jest propozycja nowego obowiązku",
-      "content_html": "Rekomenduję wprowadzenie obowiązkowego, odbywającego się co pięć lat przeglądu zdrowotnego, który gwarantowałby obywatelom utrzymanie ubezpieczenia - powiedziała prof. Małgorzata Gałązka-Sobotka z Uczelni Łazarskiego podczas Narodowej Debaty...",
-      "date_published": "2026-10-30T13:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Resort-energii-obniza-maksymalne-ceny-paliw-Zmiany-od-soboty-9221038.html",
-      "url": "https://www.bankier.pl/wiadomosc/Resort-energii-obniza-maksymalne-ceny-paliw-Zmiany-od-soboty-9221038.html",
-      "title": "Resort energii obniża maksymalne ceny paliw. Zmiany od soboty",
-      "content_html": "W najbliższą sobotę, niedzielę i poniedziałek litr benzyny 95 będzie kosztował nie więcej niż 6,48 zł, benzyny 98 – 7,32 zł, a oleju napędowego - 8,15 zł – wynika z piątkowego obwieszczenia Ministra Energii. Ceny maksymalne tych paliw...",
-      "date_published": "2026-10-30T13:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-mialy-prosic-sojusznikow-o-lagodniejszy-ton-wobec-Rosji-Litwa-odpowiada-9221040.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-mialy-prosic-sojusznikow-o-lagodniejszy-ton-wobec-Rosji-Litwa-odpowiada-9221040.html",
-      "title": "USA miały prosić sojuszników o łagodniejszy ton wobec Rosji. Litwa i Polska odpowiadają",
-      "content_html": "Litwa nie zamierza prowokować Rosji, ale jedynie przedstawiać fakty – oświadczył w piątek litewski minister obrony Robertas Kaunas w reakcji na doniesienia mediów, jakoby Pentagon poprosił w ostatnich tygodniach kilka europejskich państw NATO...",
-      "date_published": "2026-10-30T13:15:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"

@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-gieldzie-zaburzone-PSE-ostrzega-przed-chaosem-9220498.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-pradu-na-gieldzie-zaburzone-PSE-ostrzega-przed-chaosem-9220498.html",
+      "title": "Ceny prądu na giełdzie zaburzone. PSE ostrzega przed chaosem Kontynuacja obecnego trendu w niezbilansowaniu systemu elektroenergetycznego będzie skutkowała utraconymi korzyściami sięgającymi łącznie ok. 1 mld zł w 2026 r. - prognozują Polskie Sieci Elektroenergetyczne.",
+      "content_html": "",
+      "date_published": "2026-10-31T20:50:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Ceniony-ekonomista-Sztuczna-inteligencja-na-razie-sluzy-tylko-siedmiu-spolkom-9221291.html",
       "url": "https://www.bankier.pl/wiadomosc/Ceniony-ekonomista-Sztuczna-inteligencja-na-razie-sluzy-tylko-siedmiu-spolkom-9221291.html",
       "title": "Ceniony ekonomista: Sztuczna inteligencja na razie służy tylko siedmiu spółkom W mijającym tygodniu na Wall Street dominowały dyskusje o decyzji amerykańskiego banku centralnego, by nie podnosić stóp procentowych. Z kolei w oczekiwaniu na giełdowy debiut spółki Anthropic pojawiły się wątpliwości co do trwałości tezy inwestycyjnej opierającej się na sztucznej inteligencji.",
@@ -261,27 +268,6 @@
       "title": "Fatalna prognoza Intela na kolejny kwartał. Akcje runęły o 16 proc. Akcje Intela gwałtownie spadają w handlu pozasesyjnym po tym, jak producent układów scalonych opublikował słabą prognozę na czwarty kwartał, powołując się na utrzymującą się słabą koniunkturę na światowym rynku komputerów osobistych.",
       "content_html": "",
       "date_published": "2026-10-29T22:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcje-Amazona-mocno-w-dol-Inwestorzy-rozczarowani-wynikami-kwartalnymi-9220679.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcje-Amazona-mocno-w-dol-Inwestorzy-rozczarowani-wynikami-kwartalnymi-9220679.html",
-      "title": "Akcje Amazona mocno w dół. Inwestorzy rozczarowani wynikami kwartalnymi Akcje Amazon spadły o ponad 7 proc. w czwartek w handlu pozasesyjnym po tym, jak spółka opublikowała raport o zyskach i przychodach za trzeci kwartał, które okazały się niższe od oczekiwań Wall Street. Wyniki potęgują niepokój związany z wydatkami na sztuczną inteligencję.",
-      "content_html": "",
-      "date_published": "2026-10-29T21:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zbrodnia-i-kara-na-Wall-Street-Google-zawiodl-a-Microsoft-dowiozl-9220674.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zbrodnia-i-kara-na-Wall-Street-Google-zawiodl-a-Microsoft-dowiozl-9220674.html",
-      "title": "Zbrodnia i kara na Wall Street. Google zawiódł, a Microsoft dowiózł Srogie rozczarowanie wynikami Alphabetu i neutralne przyjęcie mocnych wyników Microsoftu – to były główne siły wpływające na czwartkowy handel na Wall Street.",
-      "content_html": "",
-      "date_published": "2026-10-29T21:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Enea-ma-umowe-dot-programu-emisji-obligacji-hybrydowych-do-5-mld-zl-9220627.html",
-      "url": "https://www.bankier.pl/wiadomosc/Enea-ma-umowe-dot-programu-emisji-obligacji-hybrydowych-do-5-mld-zl-9220627.html",
-      "title": "Enea ma umowę dot. programu emisji obligacji hybrydowych do 5 mld zł Enea zawarła z Bankiem Gospodarstwa Krajowego, Bankiem Polska Kasa Opieki oraz Powszechną Kasą Oszczędności Bank Polski umowę programową dotyczącą programu emisji obligacji hybrydowych do kwoty 5 mld zł - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-10-29T19:22:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
