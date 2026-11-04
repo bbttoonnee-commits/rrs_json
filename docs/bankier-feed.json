@@ -4,11 +4,438 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-cene-docelowa-dla-Polenergii-do-50-zl-9223665.html",
+      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podniosl-cene-docelowa-dla-Polenergii-do-50-zl-9223665.html",
+      "title": "DM BOŚ podniósł cenę docelową dla Polenergii do 50 zł",
+      "content_html": "Analitycy DM BOŚ w raporcie z 26 października podnieśli cenę docelową dla spółki Polenergia do 50 zł z 45,5 zł, podtrzymując rekomendację \"sprzedaj\".",
+      "date_published": "2026-11-04T16:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-PIT-wraca-do-Sejmu-Rzad-sklada-drugi-projekt-by-ominac-bledy-Senatu-9223610.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-PIT-wraca-do-Sejmu-Rzad-sklada-drugi-projekt-by-ominac-bledy-Senatu-9223610.html",
+      "title": "Rewolucja w PIT wraca do Sejmu. Rząd składa drugi projekt, by ominąć błędy Senatu",
+      "content_html": "Do Sejmu skierowano projekt ustawy, który zakłada podniesienie progu podatkowego do 130 tys. zł - wynika z informacji opublikowanej w środę przez Rządowe Centrum legislacji. To drugi projekt, który trafił do parlamentu w tym kształcie. Poprzedni...",
+      "date_published": "2026-11-04T16:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowa-bron-na-Baltyku-Saab-szykuje-nowa-generacje-lodzi-bojowych-9223473.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-bron-na-Baltyku-Saab-szykuje-nowa-generacje-lodzi-bojowych-9223473.html",
+      "title": "Nowa broń na Bałtyku. Saab szykuje nową generację łodzi bojowych",
+      "content_html": "Saab zaprezentował nową wersję łodzi bojowej CB90, wyposażoną w zaawansowane systemy uzbrojenia i rozwiązania autonomiczne. CB90 CX ma zwiększyć możliwości szwedzkiej marynarki wojennej, która zamówiła już 36 takich jednostek.",
+      "date_published": "2026-11-04T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dziecko-zawieszone-w-prozni-NSA-odrzuca-pytanie-o-dwie-matki-w-akcie-urodzenia-9223564.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dziecko-zawieszone-w-prozni-NSA-odrzuca-pytanie-o-dwie-matki-w-akcie-urodzenia-9223564.html",
+      "title": "Dziecko zawieszone w próżni. NSA odrzuca pytanie o dwie matki w akcie urodzenia",
+      "content_html": "Naczelny Sąd Administracyjny pozostawił bez rozpoznania pytanie Wojewódzkiego Sądu Administracyjnego w Krakowie ws. transkrypcji zagranicznego aktu urodzenia dziecka wychowanego przez dwie matki.",
+      "date_published": "2026-11-04T15:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/UOKiK-zobowiazal-cztery-banki-do-zmiany-procedur-ws-nieautoryzowanych-transakcji-platniczych-9223277.html",
+      "url": "https://www.bankier.pl/wiadomosc/UOKiK-zobowiazal-cztery-banki-do-zmiany-procedur-ws-nieautoryzowanych-transakcji-platniczych-9223277.html",
+      "title": "Przełom dla okradzionych klientów. UOKiK zmusza banki do oddania pieniędzy",
+      "content_html": "Prezes UOKiK zobowiązał ING Bank Śląski, Bank Ochrony Środowiska, Nest Bank i Plus Bank do zmiany procedur w sprawach nieautoryzowanych transakcji płatniczych - poinformował UOKiK w komunikacie.",
+      "date_published": "2026-11-04T15:53:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zmasowany-cyberatak-we-Francji-Hakerzy-uderzyli-w-duzy-bank-i-banki-krwi-9223642.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zmasowany-cyberatak-we-Francji-Hakerzy-uderzyli-w-duzy-bank-i-banki-krwi-9223642.html",
+      "title": "Zmasowany cyberatak we Francji. Hakerzy uderzyli w duży bank i... banki krwi",
+      "content_html": "Francuski bank Credit Mutuel Arkea oznajmił w środę, że padł ofiarą cyberataku, który umożliwił wykonanie nieuczciwych transakcji. Doszło również do cyberataku na kilka regionalnych banków krwi we Francji.",
+      "date_published": "2026-11-04T15:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Burza-wokol-TK-PiS-i-Palac-Prezydencki-ida-do-prokuratury-padaja-zarzuty-o-zamachu-stanu-9223637.html",
+      "url": "https://www.bankier.pl/wiadomosc/Burza-wokol-TK-PiS-i-Palac-Prezydencki-ida-do-prokuratury-padaja-zarzuty-o-zamachu-stanu-9223637.html",
+      "title": "Burza wokół TK. PiS i Pałac Prezydencki idą do prokuratury, padają zarzuty o „zamachu stanu”",
+      "content_html": "Klub PiS oraz Kancelaria Prezydenta RP składają zawiadomienia do prokuratury w sprawie wtorkowego zgromadzenia w Trybunale Konstytucyjnym, zwołanego przez sędzię Annę Korwin-Piotrowską. Oświadczenie wydali również Bogdan Święczkowski i Bartłomiej...",
+      "date_published": "2026-11-04T15:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Demokraci-po-wyborczym-trzesieniu-ziemi-Wojna-z-Iranem-musi-sie-natychmiast-zakonczyc-9223636.html",
+      "url": "https://www.bankier.pl/wiadomosc/Demokraci-po-wyborczym-trzesieniu-ziemi-Wojna-z-Iranem-musi-sie-natychmiast-zakonczyc-9223636.html",
+      "title": "Demokraci po wyborczym trzęsieniu ziemi: Wojna z Iranem musi się natychmiast zakończyć",
+      "content_html": "Hakeem Jeffries, lider Demokratów w amerykańskiej Izbie Reprezentantów, powiedział w środę w CNN, że wojna z Iranem musi się natychmiast zakończyć. Jeffries, który może zostać przyszłym szefem niższej izby Kongresu, zadeklarował, że jego...",
+      "date_published": "2026-11-04T15:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koncert-mocarstw-na-horyzoncie-Pekin-szykuje-spotkanie-Xi-z-Trumpem-i-Putinem-9223633.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koncert-mocarstw-na-horyzoncie-Pekin-szykuje-spotkanie-Xi-z-Trumpem-i-Putinem-9223633.html",
+      "title": "Koncert mocarstw na horyzoncie. Pekin szykuje spotkanie Xi z Trumpem i Putinem",
+      "content_html": "Pekin prowadzi rozmowy z USA i Rosją, by zorganizować szczyt z udziałem chińskiego przywódcy Xi Jinpinga oraz Donalda Trumpa i Władimira Putina - poinformowała w środę rzeczniczka resortu spraw zagranicznych Chin Mao Ning.",
+      "date_published": "2026-11-04T15:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Flagi-wystawa-LGBT-i-zydowski-zonkil-Braun-z-kolejnym-aktem-oskarzenia-9223580.html",
+      "url": "https://www.bankier.pl/wiadomosc/Flagi-wystawa-LGBT-i-zydowski-zonkil-Braun-z-kolejnym-aktem-oskarzenia-9223580.html",
+      "title": "Flagi, wystawa LGBT i „żydowski żonkil”. Braun z kolejnym aktem oskarżenia",
+      "content_html": "Prokuratura Okręgowa w Warszawie skierowała do sądu akt oskarżenia przeciwko europosłowi Grzegorzowi Braunowi. Zarzuca mu m.in. kradzież flagi Ukrainy w Białej Podlaskiej, flagi UE w Katowicach oraz zniszczenie wystawy LGBT w Sejmie – poinformował...",
+      "date_published": "2026-11-04T15:29:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inflacja-ponad-celem-a-stopy-bez-zmian-RPP-nie-zmienia-zdania-9223461.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inflacja-ponad-celem-a-stopy-bez-zmian-RPP-nie-zmienia-zdania-9223461.html",
+      "title": "Inflacja ponad celem, a stopy bez zmian. RPP nie zmienia zdania",
+      "content_html": "Rada Polityki Pieniężnej zdecydowała się utrzymać stopy procentowe na niezmienionych poziomach, mimo że inflacja CPI od kilku miesięcy wyraźnie przekracza cel Narodowego Banku Polskiego.",
+      "date_published": "2026-11-04T14:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/17-tys-nowych-karabinkow-jeszcze-w-tym-roku-Rusza-wielka-wymiana-uzbrojenia-piechoty-9223587.html",
+      "url": "https://www.bankier.pl/wiadomosc/17-tys-nowych-karabinkow-jeszcze-w-tym-roku-Rusza-wielka-wymiana-uzbrojenia-piechoty-9223587.html",
+      "title": "17 tys. nowych karabinków jeszcze w tym roku. Rusza wielka wymiana uzbrojenia piechoty",
+      "content_html": "Jeszcze w tym roku do żołnierzy Wojska Polskiego trafi 17 tys. karabinków Grot w najnowszej wersji A3, produkowanych w Fabryce Broni „Łucznik” w Radomiu – poinformował w środę wiceszef MON Cezary Tomczyk. Pierwsze 6 tys. sztuk broni zostało...",
+      "date_published": "2026-11-04T14:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Decyzja-o-bazie-USA-w-ciagu-kilku-tygodni-MON-Ostateczny-ruch-nalezy-do-Donalda-Trumpa-9223584.html",
+      "url": "https://www.bankier.pl/wiadomosc/Decyzja-o-bazie-USA-w-ciagu-kilku-tygodni-MON-Ostateczny-ruch-nalezy-do-Donalda-Trumpa-9223584.html",
+      "title": "Decyzja o bazie USA w ciągu kilku tygodni. MON: Ostateczny ruch należy do Donalda Trumpa",
+      "content_html": "Sprawa stałej amerykańskiej bazy w Polsce nabierze teraz nowej dynamiki i powinna się rozstrzygnąć w ciągu kilku tygodni - powiedziała w środę wiceszefowa MON Magdalena Sobkowiak-Czarnecka. Podkreśliła, że ten temat był jednym z tematów...",
+      "date_published": "2026-11-04T14:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-i-Czechy-ida-na-zwarcie-z-Bruksela-Wspolny-front-w-obronie-przemyslu-i-blokada-ETS2-9223577.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-i-Czechy-ida-na-zwarcie-z-Bruksela-Wspolny-front-w-obronie-przemyslu-i-blokada-ETS2-9223577.html",
+      "title": "Polska i Czechy idą na zwarcie z Brukselą. Wspólny front w obronie przemysłu i blokada ETS2",
+      "content_html": "Premierzy Polski i Czech Donald Tusk i Andrej Babisz zapewnili w środę, że oba kraje będą walczyć o wspólne interesy w UE - m.in. w kwestiach energetyki i systemu ETS, a także przy negocjacji nowych ram budżetowych UE. Zapowiedzieli też...",
+      "date_published": "2026-11-04T14:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ziobro-moze-stracic-polityczny-parasol-w-USA-Zurek-liczy-na-zmiany-9223566.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ziobro-moze-stracic-polityczny-parasol-w-USA-Zurek-liczy-na-zmiany-9223566.html",
+      "title": "Ziobro może stracić polityczny parasol w USA? Żurek liczy na zmiany",
+      "content_html": "Minister sprawiedliwości Waldemar Żurek ocenił, że po wyborach w USA amerykańska administracja może być bardziej skłonna do współpracy przy ekstradycji Zbigniewa Ziobry. Jak zaznaczył, były szef MS nie znalazłby się w Stanach Zjednoczonych...",
+      "date_published": "2026-11-04T14:34:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Inwestowanie-w-czasach-niepewnosci-Za-nami-Warsaw-Investment-Summit-2026-9223485.html",
+      "url": "https://www.bankier.pl/wiadomosc/Inwestowanie-w-czasach-niepewnosci-Za-nami-Warsaw-Investment-Summit-2026-9223485.html",
+      "title": "Inwestowanie w czasach niepewności. Za nami Warsaw Investment Summit 2026",
+      "content_html": "Rywalizacja technologiczna USA i Chin, pozycja Europy w nowym układzie sił oraz perspektywy rynków akcji i obligacji – to były główne tematy podczas trzeciej edycji Warsaw Investment Summit, organizowanego przez Dom Inwestycyjny Xelion.",
+      "date_published": "2026-11-04T14:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-rozwaza-wycofanie-sie-z-Mozejek-Litewski-minister-Nie-mamy-zadnych-informacji-9223500.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-rozwaza-wycofanie-sie-z-Mozejek-Litewski-minister-Nie-mamy-zadnych-informacji-9223500.html",
+      "title": "Orlen rozważa wycofanie się z Możejek. Litewski minister: Nie mamy żadnych informacji",
+      "content_html": "Nie mam absolutnie żadnych informacji o planowanym wycofaniu się spółki z Litwy – powiedział w środę mediom minister gospodarki i innowacji Edvinas Grikszas, komentując oświadczenie polskiej spółki Orlen o możliwości wycofania się...",
+      "date_published": "2026-11-04T14:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Soros-daleko-za-Muskiem-Tak-miliarderzy-finansowali-wybory-w-USA-9223551.html",
+      "url": "https://www.bankier.pl/wiadomosc/Soros-daleko-za-Muskiem-Tak-miliarderzy-finansowali-wybory-w-USA-9223551.html",
+      "title": "Soros daleko za Muskiem. Tak miliarderzy finansowali wybory w USA",
+      "content_html": "Ośmioro spośród 10 największych indywidualnych darczyńców we wtorkowych wyborach połówkowych w USA wsparło kandydatów Partii Republikańskiej - wynika z danych Federalnej Komisji Wyborczej (FEC). Mimo przewagi finansowej, Republikanie ponieśli...",
+      "date_published": "2026-11-04T14:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-i-375-mln-euro-z-EBI-na-trase-S8-Rusza-finansowanie-kluczowego-odcinka-Kobierzyce-Bardo-9223555.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zielone-swiatlo-i-375-mln-euro-z-EBI-na-trase-S8-Rusza-finansowanie-kluczowego-odcinka-Kobierzyce-Bardo-9223555.html",
+      "title": "Zielone światło i 375 mln euro z EBI na trasę S8. Rusza finansowanie kluczowego odcinka Kobierzyce–Bardo",
+      "content_html": "Europejski Bank Inwestycyjny zaakceptował udzielenie ok. 375 mln euro finansowania dla budowy odcinka drogi ekspresowej S8 Kobierzyce-Bardo. Wartość całego projektu szacowana jest na ok. 803 mln euro - podał EBI w na stronie.",
+      "date_published": "2026-11-04T14:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Waza-sie-losy-stalej-bazy-US-Army-Zalewski-po-rozmowach-z-Colbym-9223543.html",
+      "url": "https://www.bankier.pl/wiadomosc/Waza-sie-losy-stalej-bazy-US-Army-Zalewski-po-rozmowach-z-Colbym-9223543.html",
+      "title": "Ważą się losy stałej bazy US Army. Zalewski po rozmowach z Colbym",
+      "content_html": "Stała baza US Army w Polsce to ważny, ale jeden z wielu filarów naszej współpracy z USA - poinformował wiceszef MON Paweł Zalewski po spotkaniu z podsekretarzem obrony USA Elbridge’em Colbym.",
+      "date_published": "2026-11-04T13:51:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sojusz-z-Londynem-przypieczetowany-Polsko-brytyjski-traktat-z-podpisem-prezydenta-9223503.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sojusz-z-Londynem-przypieczetowany-Polsko-brytyjski-traktat-z-podpisem-prezydenta-9223503.html",
+      "title": "Sojusz z Londynem przypieczętowany. Polsko-brytyjski traktat z podpisem prezydenta",
+      "content_html": "Prezydent Karol Nawrocki podpisał ustawę w sprawie ratyfikacji polsko-brytyjskiego Traktatu o partnerstwie w dziedzinie bezpieczeństwa i obronności. Do wejścia Traktatu w życie potrzebna jest jeszcze ratyfikacja przez prezydenta i wymiana notyfikacji...",
+      "date_published": "2026-11-04T13:39:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-czwartek-na-stacjach-taniej-Diesla-zatankujemy-ponizej-8-zlotych-9223520.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-czwartek-na-stacjach-taniej-Diesla-zatankujemy-ponizej-8-zlotych-9223520.html",
+      "title": "W czwartek na stacjach taniej. Diesla zatankujemy poniżej 8 złotych",
+      "content_html": "W czwartek litr benzyny 95 będzie kosztował nie więcej niż 6,29 zł, benzyny 98 – 7,10 zł, a diesla - 7,97 zł – wynika z opublikowanego we wtorek obwieszczenia Ministra Energii. To ceny niższe od tych, które obowiązują w środę.",
+      "date_published": "2026-11-04T13:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-ustawe-ZUS-umorzy-stare-dlugi-sprzed-1999-roku-9223487.html",
+      "url": "https://www.bankier.pl/wiadomosc/Prezydent-podpisal-ustawe-ZUS-umorzy-stare-dlugi-sprzed-1999-roku-9223487.html",
+      "title": "Prezydent podpisał ustawę. ZUS umorzy stare długi sprzed 1999 roku",
+      "content_html": "Umorzenie należności dochodzonych przez ZUS, powstałych przed 1 stycznia 1999 r., których spłata nie została zabezpieczona hipoteką – zakłada ustawa, którą w środę podpisał prezydent Karol Nawrocki. Kwota zadłużenia szacowana jest na...",
+      "date_published": "2026-11-04T12:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spotify-pozwoli-przerabiac-znane-hity-Ale-trzeba-bedzie-zaplacic-9223475.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spotify-pozwoli-przerabiac-znane-hity-Ale-trzeba-bedzie-zaplacic-9223475.html",
+      "title": "Spotify pozwoli przerabiać znane hity. Ale trzeba będzie zapłacić",
+      "content_html": "Gigant rynku streamingu muzycznego, spółka Spotify, przygotowuje nowy płatny dodatek oparty na sztucznej inteligencji, który pozwoli subskrybentom na tworzenie własnych remiksów i coverów utworów znanych wykonawców. Jak wynika z doniesień Financial...",
+      "date_published": "2026-11-04T12:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/CBA-zatrzymalo-25-osob-ws-Elektrowni-Ostroleka-9223309.html",
+      "url": "https://www.bankier.pl/wiadomosc/CBA-zatrzymalo-25-osob-ws-Elektrowni-Ostroleka-9223309.html",
+      "title": "Miliard złotych wyrzucony w błoto? Akcja CBA ws. Elektrowni Ostrołęka",
+      "content_html": "Na polecenie prokuratora Prokuratury Regionalnej w Białymstoku agenci Centralnego Biura Antykorupcyjnego zatrzymali 25 osób ws. Elektrowni Ostrołęka - poinformował w środę na X minister Tomasz Siemoniak. Śledztwo obejmujące lata 2018-2019 dotyczy...",
+      "date_published": "2026-11-04T12:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Bogdanka-zawarla-z-Enea-Wytwarzanie-aneks-do-umowy-wieloletniej-na-dostawe-wegla-9223451.html",
+      "url": "https://www.bankier.pl/wiadomosc/Bogdanka-zawarla-z-Enea-Wytwarzanie-aneks-do-umowy-wieloletniej-na-dostawe-wegla-9223451.html",
+      "title": "Bogdanka zawarła z Enea Wytwarzanie aneks do umowy wieloletniej na dostawę węgla",
+      "content_html": "Bogdanka zawarła z Enea Wytwarzanie aneks do umowy wieloletniej na dostawę węgla, zawartej na okres do 31 grudnia 2036 r. - podała Bogdanka w komunikacie.",
+      "date_published": "2026-11-04T12:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tauron-Cieplo-wybral-konsorcjum-Siemensa-na-dostawce-wysp-turbinowych-dla-zrodla-w-Bedzin-Lagisza-9223435.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tauron-Cieplo-wybral-konsorcjum-Siemensa-na-dostawce-wysp-turbinowych-dla-zrodla-w-Bedzin-Lagisza-9223435.html",
+      "title": "Tauron Ciepło wybrał konsorcjum Siemensa na dostawcę wysp turbinowych dla źródła w Będzin Łagisza",
+      "content_html": "Tauron Ciepło wybrał konsorcjum firm Siemens Energy oraz Siemens Energy AB na dostawcę dwóch wysp turbinowych dla kogeneracyjnego źródła ciepła w lokalizacji Będzin Łagisza - podał Tauron w komunikacie.",
+      "date_published": "2026-11-04T12:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Z-mokrego-fotela-w-finansowa-pulapke-Pasazerka-Ryanaira-padla-ofiara-oszustwa-9223319.html",
+      "url": "https://www.bankier.pl/wiadomosc/Z-mokrego-fotela-w-finansowa-pulapke-Pasazerka-Ryanaira-padla-ofiara-oszustwa-9223319.html",
+      "title": "Z mokrego fotela w finansową pułapkę. Pasażerka Ryanaira padła ofiarą oszustwa",
+      "content_html": "Po opublikowaniu w mediach społecznościowych skargi na warunki podróży samolotem Ryanair pasażerka padła ofiarą oszustwa internetowego. Kobieta, która po locie z Bristolu na Majorkę skrytykowała stan kabiny i przemoczony fotel, domagała się...",
+      "date_published": "2026-11-04T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rachunki-oplacane-automatycznie-Blik-zapowiada-technologiczna-rewolucje-9223421.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rachunki-oplacane-automatycznie-Blik-zapowiada-technologiczna-rewolucje-9223421.html",
+      "title": "Rachunki opłacane automatycznie. Blik zapowiada technologiczną rewolucję",
+      "content_html": "BLIK pracuje nad udostępnieniem płatności zbliżeniowych wszystkim użytkownikom iPhona w Polsce, technologicznie jest przygotowany do obsługi transakcji realizowanych samodzielnie przez agentów AI i chce rozwinąć usługę płatności powtarzalnych -...",
+      "date_published": "2026-11-04T12:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Order-dla-Melanii-Trump-Pierwsza-dama-USA-pomogla-Ukraincom-9223425.html",
+      "url": "https://www.bankier.pl/wiadomosc/Order-dla-Melanii-Trump-Pierwsza-dama-USA-pomogla-Ukraincom-9223425.html",
+      "title": "Order dla Melanii Trump. Pierwsza dama USA pomogła Ukraińcom",
+      "content_html": "Prezydent Ukrainy Wołodymyr Zełenski odznaczył pierwszą damę USA Melanię Trump Orderem Księżnej Olgi I klasy; pośredniczyła ona w ewakuacji ukraińskich obywateli z okupowanych przez Rosję Ołeszek w obwodzie chersońskim.",
+      "date_published": "2026-11-04T11:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-rozbudowe-magazynu-gazu-w-Wierzchowicach-na-Dolnym-Slasku-9223420.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zakonczyl-rozbudowe-magazynu-gazu-w-Wierzchowicach-na-Dolnym-Slasku-9223420.html",
+      "title": "Orlen zakończył rozbudowę magazynu gazu w Wierzchowicach na Dolnym Śląsku",
+      "content_html": "Orlen zakończył wartą niemal 600 mln zł inwestycję w rozbudowę Podziemnego Magazynu Gazu Wierzchowice, zwiększając jego pojemność z 1,3 do 2,1 mld m sześc.",
+      "date_published": "2026-11-04T11:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Oferta-Atremu-za-44-5-mln-zl-brutto-wybrana-przez-Tauron-w-przetargu-9223407.html",
+      "url": "https://www.bankier.pl/wiadomosc/Oferta-Atremu-za-44-5-mln-zl-brutto-wybrana-przez-Tauron-w-przetargu-9223407.html",
+      "title": "Oferta Atremu za 44,5 mln zł brutto wybrana przez Tauron w przetargu",
+      "content_html": "Oferta Atremu o wartości 44,5 mln zł brutto została wybrana w przetargu Tauronu Dystrybucja na modernizację dwutorowej linii 110 kV Jaworzno 1 - Siersza - Włodzimierz - Trzebinia - Jaworzno 1 - Trzebinia - podał Atrem w komunikacie. (PAP Biznes)...",
+      "date_published": "2026-11-04T11:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Okazja-likwidacja-i-strata-w-portfelu-Falszywe-sklepy-ciagle-grozne-9222643.html",
+      "url": "https://www.bankier.pl/wiadomosc/Okazja-likwidacja-i-strata-w-portfelu-Falszywe-sklepy-ciagle-grozne-9222643.html",
+      "title": "Okazja, likwidacja i... strata w portfelu. Fałszywe sklepy ciągle groźne",
+      "content_html": "Zaczyna się od niewinnie wyglądającej reklamy. Czasem firmuje ją znana marka, a czasem wręcz przeciwnie – rzemieślniczy warsztat albo mały sklep „z tradycjami”. Kuszą wyprzedażowe ceny. To jednak tylko i wyłącznie fasada, pusta dekoracja...",
+      "date_published": "2026-11-04T11:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Proces-gangu-od-fikcyjnych-stluczek-znowu-zablokowany-Oskarzony-zachorowal-9223379.html",
+      "url": "https://www.bankier.pl/wiadomosc/Proces-gangu-od-fikcyjnych-stluczek-znowu-zablokowany-Oskarzony-zachorowal-9223379.html",
+      "title": "Proces gangu od fikcyjnych stłuczek znowu zablokowany. Oskarżony zachorował",
+      "content_html": "Z powodu choroby jednego z oskarżonych, po raz drugi sądowi w Białymstoku nie udało się rozpocząć procesu pięciu osób, którym prokuratura zarzuca udział w wyłudzaniu odszkodowań za fikcyjne kolizje drogowe. Odwołane zostały oba listopadowe...",
+      "date_published": "2026-11-04T11:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Euroinflacja-w-pazdzierniiu-2026-roku-odjechala-Europejskiemu-Bankowi-Centralnemu-9223338.html",
+      "url": "https://www.bankier.pl/wiadomosc/Euroinflacja-w-pazdzierniiu-2026-roku-odjechala-Europejskiemu-Bankowi-Centralnemu-9223338.html",
+      "title": "Euroinflacja odjeżdża Europejskiemu Bankowi Centralnemu. Cel przekroczony dwukrotnie",
+      "content_html": "W październiku inflacja HICP w strefie euro wzrosła do 4% i już dwukrotnie przewyższa cel Europejskiego Banku Centralnego. To także najwyższy odczyt od ponad 3 lat.",
+      "date_published": "2026-11-04T11:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Larry-Ellison-stracil-niemal-polowe-majatku-Nowy-wlasciciel-TVN-poza-podium-miliarderow-9223326.html",
+      "url": "https://www.bankier.pl/wiadomosc/Larry-Ellison-stracil-niemal-polowe-majatku-Nowy-wlasciciel-TVN-poza-podium-miliarderow-9223326.html",
+      "title": "Larry Ellison stracił niemal połowę majątku. Nowy właściciel TVN poza podium miliarderów",
+      "content_html": "Larry Ellison, współzałożyciel Oracle i jeden z najbogatszych ludzi świata, w ciągu roku stracił niemal połowę swojego majątku. Jego fortuna stopniała o 159 mld dolarów, a miliarder spadł na dziewiąte miejsce w rankingu najbogatszych. Problemy...",
+      "date_published": "2026-11-04T11:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/WB-Electronics-podjal-kluczowa-decyzje-Wycena-na-30-miliardow-zlotych-i-giganci-z-Wall-Street-9223347.html",
+      "url": "https://www.bankier.pl/wiadomosc/WB-Electronics-podjal-kluczowa-decyzje-Wycena-na-30-miliardow-zlotych-i-giganci-z-Wall-Street-9223347.html",
+      "title": "Polski producent dronów szykuje debiut dekady. Zgoda właścicieli otwiera drogę do historycznego IPO",
+      "content_html": "Właściciele największego prywatnego koncernu zbrojeniowego w Polsce, czyli Grupy WB Electronics, specjalizująca się w systemach dronowych dali zielone światło do wejścia na Giełdę Papierów Wartościowych w Warszawie – informuje Parkiet. Według...",
+      "date_published": "2026-11-04T10:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Szwedzi-zdecydowali-sie-na-podwyzke-stop-procentowych-w-listopadzie-2026-9223377.html",
+      "url": "https://www.bankier.pl/wiadomosc/Szwedzi-zdecydowali-sie-na-podwyzke-stop-procentowych-w-listopadzie-2026-9223377.html",
+      "title": "Już nawet Szwedzi zdecydowali się na podwyżkę stóp procentowych",
+      "content_html": "Już nawet słynący z luźnego podejścia do polityki monetarnej Riksbank zdecydował się na podwyżkę stóp procentowych. To pierwsza od ponad trzech lat taka decyzja banku centralnego Szwecji.",
+      "date_published": "2026-11-04T10:54:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/10-8-mld-euro-za-caly-projekt-Port-Polska-prosi-Europejski-Bank-Inwestycyjny-o-srodki-na-start-9223353.html",
+      "url": "https://www.bankier.pl/wiadomosc/10-8-mld-euro-za-caly-projekt-Port-Polska-prosi-Europejski-Bank-Inwestycyjny-o-srodki-na-start-9223353.html",
+      "title": "10,8 mld euro za cały projekt. Port Polska prosi Europejski Bank Inwestycyjny o środki na start",
+      "content_html": "Port Polska ubiega się o finansowanie pierwszego etapu budowy w kwocie 1,5 mld euro od Europejskiego Banku Inwestycyjnego - podano na stronach EBI. Łączny koszt przedsięwzięcia oszacowano na 10,8 mld euro.",
+      "date_published": "2026-11-04T10:43:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wypalenie-zawodowe-dotyka-8-na-10-pracownikow-Te-osoby-sa-najbardziej-narazone-9223365.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wypalenie-zawodowe-dotyka-8-na-10-pracownikow-Te-osoby-sa-najbardziej-narazone-9223365.html",
+      "title": "8 na 10 osób odczuwa objawy wypalenia. Tych pracowników dotyka najczęściej",
+      "content_html": "Aż 84 proc. pracowników przyznało, że doświadcza objawów wypalenia zawodowego. Najczęściej dotyczy to specjalistów oraz średniej kadry menedżerskiej, ale obserwowane są również na innych szczeblach kariery - wynika z raportu „Nastroje...",
+      "date_published": "2026-11-04T10:39:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/PiS-zawiadamia-prokurature-ws-TK-Blaszczak-mowi-o-zamachu-stanu-9223370.html",
+      "url": "https://www.bankier.pl/wiadomosc/PiS-zawiadamia-prokurature-ws-TK-Blaszczak-mowi-o-zamachu-stanu-9223370.html",
+      "title": "PiS zawiadamia prokuraturę ws. TK. Błaszczak mówi o zamachu stanu",
+      "content_html": "Klub PiS zawiadamia prokuraturę ws. zwołanego przez Annę Korwin-Piotrowską zgromadzenia w TK. Szef klubu PiS Mariusz Błaszczak napisał, że to zawiadomienie przeciw „8 osobom uczestniczącym w spotkaniu zorganizowanej grupy przestępczej w budynku...",
+      "date_published": "2026-11-04T10:38:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-0-35-USD-na-akcje-9223344.html",
+      "url": "https://www.bankier.pl/wiadomosc/Asbis-wyplaci-zaliczke-na-dywidende-w-wysokosci-0-35-USD-na-akcje-9223344.html",
+      "title": "Asbis wypłaci zaliczkę na dywidendę w wysokości 0,35 USD na akcję",
+      "content_html": "Rada dyrektorów Asbis Enterprises zdecydowała o wypłacie akcjonariuszom zaliczki na poczet przewidywanej dywidendy z zysku spółki za 2026 r. w łącznej wysokości 19,425 mln USD, co daje 0,35 USD na akcję - podała spółka w komunikacie.",
+      "date_published": "2026-11-04T10:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Srednia-placa-to-nie-wszystko-GUS-pokazal-ile-naprawde-zarabiaja-Polacy-9223328.html",
+      "url": "https://www.bankier.pl/wiadomosc/Srednia-placa-to-nie-wszystko-GUS-pokazal-ile-naprawde-zarabiaja-Polacy-9223328.html",
+      "title": "Średnia płaca to nie wszystko. GUS pokazał, ile naprawdę zarabiają Polacy",
+      "content_html": "Ponad 9,1 tys. zł wyniosło przeciętne wynagrodzenie w Polsce w maju, ale połowa pracowników otrzymywała nie więcej niż 7550 zł brutto. Najnowsze dane GUS pokazują, jak duże są różnice w zarobkach. Znaczenie ma nie tylko płeć, ale również...",
+      "date_published": "2026-11-04T10:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/200-milionow-zlotych-na-polska-AI-Wielka-inwestycja-i-wysyp-ofert-pracy-9223336.html",
+      "url": "https://www.bankier.pl/wiadomosc/200-milionow-zlotych-na-polska-AI-Wielka-inwestycja-i-wysyp-ofert-pracy-9223336.html",
+      "title": "200 milionów złotych na polską AI. Wielka inwestycja i wysyp ofert pracy",
+      "content_html": "Wonderful, firma technologiczna zajmująca się rozwiązaniami AI dla przedsiębiorstw, zainwestuje ponad 200 mln zł w Polsce w latach 2027-29, a do końca 2029 r. chce zatrudnić co najmniej 200 specjalistów - podała spółka w komunikacie prasowym...",
+      "date_published": "2026-11-04T10:13:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Demokraci-biora-Kongres-Azja-wpada-w-panike-Ostre-spadki-na-gieldach-i-strach-o-przyszlosc-AI-9223234.html",
       "url": "https://www.bankier.pl/wiadomosc/Demokraci-biora-Kongres-Azja-wpada-w-panike-Ostre-spadki-na-gieldach-i-strach-o-przyszlosc-AI-9223234.html",
-      "title": "Demokraci biorą Kongres, Azja wpada w panikę. Ostre spadki na giełdach i strach o przyszłość AI",
+      "title": "Demokraci biorą Kongres, Azja wpada w panikę. Spadki na giełdach i strach o przyszłość AI",
       "content_html": "Zwycięstwo Demokratów w wyborach połówkowych w USA wywołało w środę wyprzedaż na globalnych rynkach akcji. Inwestorzy obawiają się, że przejęcie Kongresu oraz kluczowych stanów przez opozycję zahamuje miliardowe inwestycje w centra danych...",
-      "date_published": "2026-11-04T07:54:00+01:00"
+      "date_published": "2026-11-04T10:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Miliardy-rubli-strat-i-drastyczny-wzrost-ubezpieczen-Ukraina-uderza-w-rosyjska-logistyke-9223314.html",
+      "url": "https://www.bankier.pl/wiadomosc/Miliardy-rubli-strat-i-drastyczny-wzrost-ubezpieczen-Ukraina-uderza-w-rosyjska-logistyke-9223314.html",
+      "title": "Miliardy rubli strat i drastyczny wzrost ubezpieczeń. Ukraina uderza w rosyjską logistykę",
+      "content_html": "Drony zaatakowały centrum logistyczne giganta e-commerce Ozon w mieście Adygejsk na południowym zachodzie Rosji; w magazynach wybuchł pożar – powiadomił w środę portal Ukrainska Prawda z powołaniem na źródła rosyjskie.",
+      "date_published": "2026-11-04T10:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kurs-euro-wycofal-sie-ze-szczytu-dolar-mocno-tanieje-Rynek-wyczekuje-decyzji-RPP-9223334.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kurs-euro-wycofal-sie-ze-szczytu-dolar-mocno-tanieje-Rynek-wyczekuje-decyzji-RPP-9223334.html",
+      "title": "Kurs euro wycofał się ze szczytu, dolar mocno tanieje. Rynek wyczekuje decyzji RPP",
+      "content_html": "Wyniki wyborów połówkowych w USA nie miały większego przełożenia na notowania złotego. Teraz uwaga rynku powinna się skupić na środowej decyzji Rady Polityki Pieniężnej.",
+      "date_published": "2026-11-04T10:02:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Znany-producent-butow-zamyka-fabryki-i-sklepy-Ponad-2400-osob-straci-prace-9223295.html",
+      "url": "https://www.bankier.pl/wiadomosc/Znany-producent-butow-zamyka-fabryki-i-sklepy-Ponad-2400-osob-straci-prace-9223295.html",
+      "title": "Znany producent butów zamyka fabryki i sklepy. Ponad 2400 osób straci pracę",
+      "content_html": "Duński producent obuwia ECCO zamyka dwie fabryki i 60 sklepów, a także likwiduje setki stanowisk w strukturach firmy. Restrukturyzacja może oznaczać utratę pracy dla ponad 2400 osób. Koncern, znany z produkcji skórzanego obuwia, próbuje w ten...",
+      "date_published": "2026-11-04T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Jak-z-8-mld-zl-zrobic-dwa-miliardy-Mowa-o-dlugach-i-najwiekszej-sanacji-w-Polsce-9223307.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jak-z-8-mld-zl-zrobic-dwa-miliardy-Mowa-o-dlugach-i-najwiekszej-sanacji-w-Polsce-9223307.html",
+      "title": "Jak z 8 mld zł zrobić 2 miliardy? Mowa o długach i największej sanacji w Polsce",
+      "content_html": "Obsłużenie 70% ze 110 tys. umów leasingowych, redukcja długu z ponad 8 mld zł do niespełna 2 mld zł i ponad 1,1 mld zł podatku VAT odprowadzonego do budżetu państwa - tak wygląda bilans trzech lat postępowania naprawczego w spółkach VB Leasing...",
+      "date_published": "2026-11-04T10:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Brutalnie-i-chamsko-Minister-Zurek-ostro-o-zachowaniu-prezydenta-Nawrockiego-wobec-sedzi-TK-9223290.html",
+      "url": "https://www.bankier.pl/wiadomosc/Brutalnie-i-chamsko-Minister-Zurek-ostro-o-zachowaniu-prezydenta-Nawrockiego-wobec-sedzi-TK-9223290.html",
+      "title": "\"Brutalnie i chamsko\". Minister Żurek ostro o zachowaniu prezydenta Nawrockiego wobec sędzi TK",
+      "content_html": "Minister Sprawiedliwości i Prokurator Generalny Waldemar Żurek poinformował, że śledztwo w sprawie czynnej napaści na sędziów TK jest prowadzone w kierunku osób, które w nieuprawniony sposób uczestniczyły w nocnym najściu na TK. Wymienił...",
+      "date_published": "2026-11-04T09:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/W-Polsce-zatrudniaja-setki-osob-Wlasnie-zwolnili-3-tys-pracownikow-9223317.html",
+      "url": "https://www.bankier.pl/wiadomosc/W-Polsce-zatrudniaja-setki-osob-Wlasnie-zwolnili-3-tys-pracownikow-9223317.html",
+      "title": "Gigant finansowy zwolnił 3 tys. osób. Ma swój oddział również w Polsce",
+      "content_html": "Amerykański gigant finansowy Fiserv tnie zatrudnienie. Pracę straciło już 3 tys. osób, w tym menedżerowie najwyższego szczebla – podał Reuters. Skutki zmian mogą odczuć także pracownicy w Polsce.",
+      "date_published": "2026-11-04T09:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zloto-znow-lsni-Wyborcza-kleska-Republikanow-blyskawicznie-podbila-ceny-kruszcu-9223313.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zloto-znow-lsni-Wyborcza-kleska-Republikanow-blyskawicznie-podbila-ceny-kruszcu-9223313.html",
+      "title": "Złoto znów lśni. Wyborcza klęska Republikanów błyskawicznie podbiła ceny kruszcu",
+      "content_html": "Po wyborach połówkowych w USA drożeje złoto - informują dealerzy.",
+      "date_published": "2026-11-04T09:17:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/BM-Millennium-rekomenduje-kupuj-Archicom-cena-docelowa-60-7-zl-9223308.html",
+      "url": "https://www.bankier.pl/wiadomosc/BM-Millennium-rekomenduje-kupuj-Archicom-cena-docelowa-60-7-zl-9223308.html",
+      "title": "BM Millennium rekomenduje \"kupuj\" Archicom, cena docelowa 60,7 zł",
+      "content_html": "BM Millennium w raporcie z 4 listopada rozpoczął wydawanie rekomendacji dla Archicomu od zalecenia „kupuj” z ceną docelową 60,7 zł za akcję.",
+      "date_published": "2026-11-04T09:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Mlodzi-o-oszczedzaniu-i-inwestowaniu-Jak-inwestuje-Pokolenie-Z-i-Millenialsi-9222859.html",
+      "url": "https://www.bankier.pl/wiadomosc/Mlodzi-o-oszczedzaniu-i-inwestowaniu-Jak-inwestuje-Pokolenie-Z-i-Millenialsi-9222859.html",
+      "title": "„Młodzi” o oszczędzaniu i inwestowaniu. Jak inwestuje pokolenie z i millenialsi?",
+      "content_html": "Oczekiwania rynku względem młodych inwestorów często mijają się z rzeczywistością. Choć popkultura kreuje wizerunek inwestora jako agresywnego gracza w garniturze, polscy początkujący uczestnicy rynku obierają zupełnie inne strategie. O tym...",
+      "date_published": "2026-11-04T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyborczy-rollercoaster-na-kryptowalutach-Branza-poniosla-polityczna-kleske-ale-bitcoin-odrabia-straty-9223271.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyborczy-rollercoaster-na-kryptowalutach-Branza-poniosla-polityczna-kleske-ale-bitcoin-odrabia-straty-9223271.html",
+      "title": "Wyborczy rollercoaster na kryptowalutach. Branża poniosła polityczną klęskę, ale bitcoin odrabia straty",
+      "content_html": "Branża kryptowalut przeznaczyła 176 ml dol. na wsparcie kandydatów w wyborach połówkowych w USA, ale jej polityczny zakład zakończył się porażką. Choć kurs bitcoina szybko odbił po nocnym tąpnięciu, \"błękitna fala\" w Kongresie i zmiana...",
+      "date_published": "2026-11-04T09:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Moje-kosmiczne-lasery-nie-zadzialaly-Musk-kpi-po-wyborczej-porazce-Republikanow-9223299.html",
+      "url": "https://www.bankier.pl/wiadomosc/Moje-kosmiczne-lasery-nie-zadzialaly-Musk-kpi-po-wyborczej-porazce-Republikanow-9223299.html",
+      "title": "\"Moje kosmiczne lasery nie zadziałały\". Musk kpi po wyborczej porażce Republikanów",
+      "content_html": "Najbogatszy człowiek świata Elon Musk odniósł się w środę do porażki wspieranej przez niego Partii Republikańskiej w wyborach do Kongresu USA, pisząc ironicznie, że „tym razem jego wypływające na wyniki wyborów lasery nie zadziały”...",
+      "date_published": "2026-11-04T08:57:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-chce-osobistej-gwardii-pretorian-Zaskakujacy-plan-po-incydencie-w-Trybunale-Konstytucyjnym-9223281.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-chce-osobistej-gwardii-pretorian-Zaskakujacy-plan-po-incydencie-w-Trybunale-Konstytucyjnym-9223281.html",
+      "title": "Nawrocki chce osobistej gwardii \"pretorian\". Zaskakujący plan po incydencie w Trybunale Konstytucyjnym",
+      "content_html": "Szef kancelarii prezydenta Zbigniew Bogucki przekazał, że Karol Nawrocki podejmował rozmowy z rządem nt. tego, by każdy prezydent RP miał oddzielną gwardię jemu podlegającą. Dodał, że prezydent nie ma pretensji do SOP ws. wydarzeń w TK i...",
+      "date_published": "2026-11-04T08:40:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Auto-Partner-szacuje-ze-w-I-III-kw-mial-243-1-mln-zl-skonsolidowanego-zysku-netto-9223283.html",
+      "url": "https://www.bankier.pl/wiadomosc/Auto-Partner-szacuje-ze-w-I-III-kw-mial-243-1-mln-zl-skonsolidowanego-zysku-netto-9223283.html",
+      "title": "Auto Partner szacuje, że w I-III kw. miał 243,1 mln zł skonsolidowanego zysku netto",
+      "content_html": "Grupa Auto Partner szacuje zysk netto w okresie I-III kwartału 2026 roku na 243,1 mln zł, o 66,1 proc. więcej rdr - podała spółka w komunikacie. Według wyliczeń PAP Biznes zysk w samym III kwartale wyniósł 86,9 mln zł i był o 14,6 proc. wyższy...",
+      "date_published": "2026-11-04T08:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spoldzielnia-obiecuje-dozywotnia-rente-we-wlasnej-walucie-Rzecznik-Finansowy-reaguje-9223278.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spoldzielnia-obiecuje-dozywotnia-rente-we-wlasnej-walucie-Rzecznik-Finansowy-reaguje-9223278.html",
+      "title": "Spółdzielnia obiecuje dożywotnią rentę we własnej walucie. Rzecznik Finansowy reaguje",
+      "content_html": "Słowacka spółdzielnia obiecuje członkom dożywotnią comiesięczną wypłatę w walucie, która istnieje tylko w jej własnym systemie, i nazywa się bankiem bez bankowej licencji. Sprawą zajął się Rzecznik Finansowy.",
+      "date_published": "2026-11-04T08:21:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grzegorz-Braun-nie-poszedl-do-sadu-ale-pojawil-sie-przed-TK-Wkracza-ZUS-9223267.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grzegorz-Braun-nie-poszedl-do-sadu-ale-pojawil-sie-przed-TK-Wkracza-ZUS-9223267.html",
+      "title": "Grzegorz Braun nie poszedł do sądu, ale pojawił się przed TK. Wkracza ZUS",
+      "content_html": "Prokuratura Okręgowa w Warszawie zwróciła się do sądu o weryfikację zaświadczenia lekarskiego Grzegorza Brauna. Europoseł usprawiedliwił nim nieobecność na rozprawie, ale kilka godzin później pojawił się przed Trybunałem Konstytucyjnym...",
+      "date_published": "2026-11-04T08:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Komornik-licytuje-mieszkanie-znanego-flippera-Wojciech-Orzechowski-i-jego-spolki-z-milionowymi-dlugami-9223270.html",
+      "url": "https://www.bankier.pl/wiadomosc/Komornik-licytuje-mieszkanie-znanego-flippera-Wojciech-Orzechowski-i-jego-spolki-z-milionowymi-dlugami-9223270.html",
+      "title": "Komornik licytuje mieszkanie znanego flippera. W tle milionowe długi",
+      "content_html": "Wojciech Orzechowski, jeden z najbardziej znanych flipperów i edukatorów rynku nieruchomości w Polsce, zmaga się z poważnymi problemami finansowymi. Na licytację komorniczą trafiło jego prywatne mieszkanie w Łodzi, a powiązane z nim podmioty...",
+      "date_published": "2026-11-04T08:08:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-wahaja-sie-po-wyborach-polowkowych-w-USA-9223269.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-wahaja-sie-po-wyborach-polowkowych-w-USA-9223269.html",
+      "title": "Ceny miedzi w Londynie wahają się po wyborach połówkowych w USA",
+      "content_html": "Notowania miedzi na giełdzie metali LME w Londynie wahają się po wyborach połówkowych w USA i osłabieniu amerykańskiej waluty - informują maklerzy.",
+      "date_published": "2026-11-04T07:55:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Generacja-Z-dyktuje-warunki-Jak-tradycyjny-biznes-musi-zmienic-swoje-strategie-9222839.html",
@@ -23,6 +450,13 @@
       "title": "Alarm bombowy na wycieczkowcu do Izraela. 1500 osób ewakuowanych na greckiej wyspie",
       "content_html": "Ponad 1500 osób utknęło we wtorek w porcie na wyspie Syros w Grecji po tym, gdy w związku z alarmem bombowym zatrzymano tam statek wycieczkowy zmierzający do Izraela - poinformował portal Times of Israel. Podobne sytuacje wymusiły tego dnia lądowania...",
       "date_published": "2026-11-04T07:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Ceny-ropy-na-swiecie-rosna-ale-na-razie-nie-mocno-9223265.html",
+      "url": "https://www.bankier.pl/wiadomosc/Ceny-ropy-na-swiecie-rosna-ale-na-razie-nie-mocno-9223265.html",
+      "title": "Ceny ropy na świecie rosną, ale na razie nie mocno",
+      "content_html": "Ropa na rynkach drożeje, ale na razie nie są to duże wzrosty, po dwóch poprzednich sesjach zakończonych spadkami notowań. Inwestorzy oceniają mieszane sygnały dotyczące rozmów pokojowych pomiędzy USA a Iranem - podają maklerzy.",
+      "date_published": "2026-11-04T07:40:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Gry-online-narzedziem-dzihadystow-Portugalska-policja-i-Europol-rozbily-siatke-werbunkowa-9223193.html",
@@ -268,398 +702,6 @@
       "title": "Była rzeczniczka Zełenskiego oskarżona o zdradę. Grozi jej dożywocie za słowa o korupcji",
       "content_html": "Byłej rzeczniczce prezydenta Ukrainy Wołodymyra Zełenskiego, Julii Mendel, przedstawiono zarzuty zdrady stanu i usprawiedliwiania prowadzonej przez Rosję wojny – poinformowało we wtorek Biuro Prokuratora Generalnego Ukrainy i Służba Bezpieczeństwa...",
       "date_published": "2026-11-03T19:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-ucina-wsparcie-dla-Izraela-4-miliardy-dolarow-rocznie-zostana-w-USA-9222858.html",
-      "title": "Trump ucina wsparcie dla Izraela. 4 miliardy dolarów rocznie zostaną w USA",
-      "content_html": "Prezydent USA Donald Trump powiedział we wtorek w rozmowie ze stacją Fox News, że zawarł porozumienie z Izraelem o zakończeniu wojskowej pomocy finansowej dla tego kraju wraz z końcem roku.",
-      "date_published": "2026-11-03T19:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rzad-drastycznie-podnosi-grzywny-Widelki-wzrosna-od-1-tys-do-5-4-mln-zl-9223101.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rzad-drastycznie-podnosi-grzywny-Widelki-wzrosna-od-1-tys-do-5-4-mln-zl-9223101.html",
-      "title": "Rząd drastycznie podnosi grzywny. Widełki wzrosną od 1 tys. do 5,4 mln zł",
-      "content_html": "Dziesięciokrotne podniesienie dolnej oraz pięciokrotne podwyższenie górnej granicy kwot, w jakich można określić stawki grzywny, przewiduje projekt zmiany Kodeksu karnego, który we wtorek przyjął rząd.",
-      "date_published": "2026-11-03T19:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wybory-testem-dla-prezydentury-Trumpa-W-Bialym-Domu-ostrozny-optymizm-9223069.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wybory-testem-dla-prezydentury-Trumpa-W-Bialym-Domu-ostrozny-optymizm-9223069.html",
-      "title": "Wybory testem dla prezydentury Trumpa. W Białym Domu ostrożny optymizm",
-      "content_html": "Nastroje w Białym Domu w dzień wyborów do Kongresu USA są „ostrożnie optymistyczne” - relacjonuje stacja CNN. Prezydent Donald Trump wieczorem będzie śledził spływające wyniki podczas spotkania z przedstawicielami administracji w Białym...",
-      "date_published": "2026-11-03T19:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lekarz-w-zaledwie-co-drugiej-karetce-S-Resort-zdrowia-przedluza-brak-kar-9223073.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lekarz-w-zaledwie-co-drugiej-karetce-S-Resort-zdrowia-przedluza-brak-kar-9223073.html",
-      "title": "Lekarz w zaledwie co drugiej karetce \"S\". Resort zdrowia przedłuża brak kar",
-      "content_html": "Gwarantowany ryczałt finansowy dla kluczowych terytorialnie szpitali oraz przedłużenie okresu bez kar dla pogotowia ratowniczego za brak lekarzy w karetkach - to najważniejsze założenia opublikowanego przez Ministerstwo Zdrowia projektu rozporządzenia...",
-      "date_published": "2026-11-03T19:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pakt-z-Trumpem-zatwierdzony-Grenlandia-otwiera-drzwi-dla-baz-USA-9223083.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pakt-z-Trumpem-zatwierdzony-Grenlandia-otwiera-drzwi-dla-baz-USA-9223083.html",
-      "title": "Pakt z Trumpem zatwierdzony. Grenlandia otwiera drzwi dla baz USA",
-      "content_html": "Parlament Grenlandii zatwierdził we wtorek duńsko-grenlandzkie porozumienie podpisane z prezydentem USA Donaldem Trumpem w sprawie bezpieczeństwa Arktyki. Dokument zezwala m.in. na nowe amerykańskie bazy wojskowe na wyspie.",
-      "date_published": "2026-11-03T19:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uchwala-NWZA-PZU-otwiera-droge-do-krokow-prawnych-przeciwko-Ernestowi-Bejdzie-9223036.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uchwala-NWZA-PZU-otwiera-droge-do-krokow-prawnych-przeciwko-Ernestowi-Bejdzie-9223036.html",
-      "title": "Zatajone wady odwiertu i ugoda z fundacją o. Rydzyka. Bejda odpowiada na zarzuty PZU",
-      "content_html": "Nadzwyczajne Walne Zgromadzenie Powszechnego Zakładu Ubezpieczeń (PZU) zdecydowało we wtorek o dochodzeniu roszczeń o naprawienie szkody wyrządzonej przez byłego członka zarządu Ernesta Bejdę - wynika z uchwał przyjętych przez zgromadzenie...",
-      "date_published": "2026-11-03T19:11:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Passus-mial-w-I-III-kw-8-9-mln-zl-zysku-EBITDA-bez-kosztow-programu-motywacyjnego-9223081.html",
-      "url": "https://www.bankier.pl/wiadomosc/Passus-mial-w-I-III-kw-8-9-mln-zl-zysku-EBITDA-bez-kosztow-programu-motywacyjnego-9223081.html",
-      "title": "Passus miał w I-III kw. 8,9 mln zł zysku EBITDA bez kosztów programu motywacyjnego",
-      "content_html": "Passus, integrator rozwiązań IT specjalizujący się w cyberbezpieczeństwie oraz monitorowaniu wydajności sieci i aplikacji, po trzech kwartałach 2026 roku miał 8,9 mln zł zysku EBITDA bez kosztów programu motywacyjnego, co oznacza wzrost o 25...",
-      "date_published": "2026-11-03T18:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/OpenAI-rekrutuje-z-Pentagonu-Przyjaciel-J-D-Vance-a-wkracza-do-Krzemowej-Doliny-9223064.html",
-      "url": "https://www.bankier.pl/wiadomosc/OpenAI-rekrutuje-z-Pentagonu-Przyjaciel-J-D-Vance-a-wkracza-do-Krzemowej-Doliny-9223064.html",
-      "title": "OpenAI rekrutuje z Pentagonu. Przyjaciel J.D. Vance'a wkracza do Krzemowej Doliny",
-      "content_html": "Spółka OpenAI poinformowała we wtorek, że zatrudniła Dana Driscolla - byłego wiceszefa Pentagonu ds. wojsk lądowych. Firma przekazała w rozmowie z „Financial Times”, że Driscoll będzie doradcą ds. modernizacji w obszarze bezpieczeństwa...",
-      "date_published": "2026-11-03T18:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mrozenie-cen-pradu-Ministerstwo-Energii-odpowiada-Tylko-przy-gwaltownych-wzrostach-9223000.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mrozenie-cen-pradu-Ministerstwo-Energii-odpowiada-Tylko-przy-gwaltownych-wzrostach-9223000.html",
-      "title": "Mrożenie cen prądu? Ministerstwo Energii odpowiada: Tylko przy gwałtownych wzrostach",
-      "content_html": "Ministerstwo Energii (ME) aktualnie nie identyfikuje ryzyka możliwych ograniczeń dostaw gazu ziemnego w najbliższym sezonie zimowym - podał resort w odpowiedzi na interpelację poselską. W ocenie ME, obecnie nie ma również w Polsce \"kryzysu cenowego\" na...",
-      "date_published": "2026-11-03T18:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-mial-4-9-mln-zl-przychodow-w-pazdzierniku-o-1-proc-wiecej-mdm-9223071.html",
-      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-mial-4-9-mln-zl-przychodow-w-pazdzierniku-o-1-proc-wiecej-mdm-9223071.html",
-      "title": "Gra „Unsolved” niezmiennie głównym motorem Artifex Mundi. 4,6 mln zł przychodów w październiku",
-      "content_html": "Artifex Mundi szacuje, że w październiku 2026 roku miał 4,9 mln zł przychodów ze sprzedaży, co oznacza wzrost o 1 proc. wobec września tego roku - poinformował producent i wydawca gier w komunikacie.",
-      "date_published": "2026-11-03T18:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Naparli-z-impetem-i-sila-odepchneli-sedziow-Prokuratura-wkracza-do-akcji-w-sprawie-TK-9222875.html",
-      "url": "https://www.bankier.pl/wiadomosc/Naparli-z-impetem-i-sila-odepchneli-sedziow-Prokuratura-wkracza-do-akcji-w-sprawie-TK-9222875.html",
-      "title": "\"Naparli z impetem i siłą odepchnęli sędziów\". Prokuratura wkracza do akcji w sprawie TK",
-      "content_html": "Prokurator z Prokuratury Krajowej wszczął we wtorek „śledztwo w sprawie czynnej napaści na sędziów Trybunału Konstytucyjnego Annę Korwin-Piotrowską i Krystiana Markiewicza” – poinformowała rzeczniczka Prokuratora Generalnego, prok. Anny...",
-      "date_published": "2026-11-03T18:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-ma-umowe-z-Microsoft-dot-udostepnienia-gier-w-programie-Game-Pass-9223067.html",
-      "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-ma-umowe-z-Microsoft-dot-udostepnienia-gier-w-programie-Game-Pass-9223067.html",
-      "title": "11 bit studios podpisuje umowę z Microsoftem. Trzy gry trafią do usługi Game Pass",
-      "content_html": "11 bit studios podpisał z Microsoft Corporation umowę dotyczącą udostępnienia gier w programie Game Pass - poinformowała spółka w komunikacie.",
-      "date_published": "2026-11-03T18:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Odkupisz-roszczenie-ale-pozwiesz-tylko-u-klienta-Zmiany-uderza-w-kancelarie-odszkodowawcze-9222987.html",
-      "url": "https://www.bankier.pl/wiadomosc/Odkupisz-roszczenie-ale-pozwiesz-tylko-u-klienta-Zmiany-uderza-w-kancelarie-odszkodowawcze-9222987.html",
-      "title": "Odkupisz roszczenie, ale pozwiesz tylko u klienta. Zmiany uderzą w kancelarie odszkodowawcze",
-      "content_html": "Rząd przyjął we wtorek projekt ustawy, który ma odciążyć sądy w największych miastach i przyspieszyć rozpatrywanie spraw przeciwko bankom - poinformowała kancelaria premiera. Projekt m.in. umożliwia kierowanie spraw do sądu właściwego...",
-      "date_published": "2026-11-03T18:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Hakerski-skok-na-Binance-Zaczelo-sie-od-niewinnej-rozmowy-o-prace-9223014.html",
-      "url": "https://www.bankier.pl/wiadomosc/Hakerski-skok-na-Binance-Zaczelo-sie-od-niewinnej-rozmowy-o-prace-9223014.html",
-      "title": "Hakerski skok na Binance. Zaczęło się od niewinnej rozmowy o pracę",
-      "content_html": "Giełda kryptowalut Binance ujawniła we wtorek, że cyberatak na nią przeprowadzono poprzez fałszywą rozmowę rekrutacyjną. Hakerzy wykorzystali ją do przejęcia kontroli nad komputerem i używając wewnętrznego narzędzia opartego na sztucznej...",
-      "date_published": "2026-11-03T18:23:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-I-III-kw-26-na-39-6-mln-zl-9223059.html",
-      "url": "https://www.bankier.pl/wiadomosc/DataWalk-szacuje-skorygowana-strate-EBITDA-w-I-III-kw-26-na-39-6-mln-zl-9223059.html",
-      "title": "Wyższe nakłady na R&D i marketing przy spadku sprzedaży. Przyczyny gorszych wyników DataWalk",
-      "content_html": "Grupa DataWalk szacuje skorygowaną stratę EBITDA w okresie I-III kwartału 2026 r. na 39,6 mln zł, wobec 7,9 mln zł straty w analogicznym okresie 2025 r. - podała spółka w komunikacie. Przychody grupy szacowane są na 14,6 mln zł, co oznacza...",
-      "date_published": "2026-11-03T18:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zelenski-odrzuca-zaproszenie-do-Moskwy-To-pluniecie-w-twarz-calemu-swiatu-9222899.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zelenski-odrzuca-zaproszenie-do-Moskwy-To-pluniecie-w-twarz-calemu-swiatu-9222899.html",
-      "title": "Zełenski odrzuca zaproszenie do Moskwy. \" To plunięcie w twarz całemu światu\"",
-      "content_html": "Zapraszanie prezydenta Ukrainy do Moskwy jest destrukcyjne i jest plunięciem w twarz całemu światu, który chce zakończenia wojny - tak Wołodymyr Zełenski odniósł się we wtorek w Berlinie do zaproszenia ze strony Kremla.",
-      "date_published": "2026-11-03T18:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kogeneracja-szacuje-skonsolidowany-wynik-EBITDA-w-III-kw-ok-18-mln-zl-9223053.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kogeneracja-szacuje-skonsolidowany-wynik-EBITDA-w-III-kw-ok-18-mln-zl-9223053.html",
-      "title": "Sprzedaż prądu i ciepła nie uchroniła przed kwartalną stratą. Wstępne wyniki Kogeneracji",
-      "content_html": "Kogeneracja szacuje skonsolidowany wynik EBITDA w III kwartale 2026 roku na ok. 18 mln zł, a stratę netto na ok. 34 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-11-03T18:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uklad-trojkowy-na-GPW-Aptekarska-dokladnosc-zagranicznego-kapitalu-9223042.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uklad-trojkowy-na-GPW-Aptekarska-dokladnosc-zagranicznego-kapitalu-9223042.html",
-      "title": "Układ trójkowy na GPW. Aptekarska dokładność zagranicznego kapitału",
-      "content_html": "Warszawski parkiet nie zdołał przerwać spadkowej passy i w Warszawie znów główne indeksy znalazły się pod kreską, choć presja sprzedających z każdą godziną słabła przez powrót łask do sektora finansowego. Echem odbił się spektakularny...",
-      "date_published": "2026-11-03T17:41:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Enea-szacuje-ze-miala-w-III-kw-1-139-mln-zl-EBITDA-a-zysk-netto-j-d-wyniosl-542-mln-zl-9223033.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Enea-szacuje-ze-miala-w-III-kw-1-139-mln-zl-EBITDA-a-zysk-netto-j-d-wyniosl-542-mln-zl-9223033.html",
-      "title": "Ponad 2,5 mld zł na inwestycje i niski dług. Enea odkrywa karty po trzecim kwartale",
-      "content_html": "Grupa Enea szacuje, że miała w III kwartale 2026 roku 1.139 mln zł EBITDA, a zysk netto j.d. wyniósł 542 mln zł - poinformowała spółka w komunikacie.",
-      "date_published": "2026-11-03T17:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MediaMark-bedzie-chinskie-Zielone-swiatlo-od-KE-ale-z-10-letnimi-rygorami-9222964.html",
-      "url": "https://www.bankier.pl/wiadomosc/MediaMark-bedzie-chinskie-Zielone-swiatlo-od-KE-ale-z-10-letnimi-rygorami-9222964.html",
-      "title": "MediaMark będzie chińskie. Zielone światło od KE, ale z 10-letnimi rygorami",
-      "content_html": "Komisja Europejska zgodziła się we wtorek na przejęcie niemieckiej spółki Ceconomy, właściciela sieci MediaMarkt i Saturn, przez chińską platformę e-commerce JD.com. Warunkiem jest jednak zakaz przekazywania wsparcia finansowego przejętej spółce...",
-      "date_published": "2026-11-03T17:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bunt-wydawcow-przeciwko-Mecie-Skarga-trafila-do-urzedu-9222958.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bunt-wydawcow-przeciwko-Mecie-Skarga-trafila-do-urzedu-9222958.html",
-      "title": "Bunt wydawców przeciwko Mecie. Skarga trafiła do urzędu",
-      "content_html": "Zawiadomienie Polskiej Izby Wydawców Prasy o podejrzeniu nadużywania pozycji dominującej przez koncern Meta wpłynęło do Urzędu Ochrony Konkurencji i Konsumentów w piątek i jest obecnie analizowane - przekazał PAP we wtorek UOKiK.",
-      "date_published": "2026-11-03T17:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zgoda-NWZ-PZU-na-emisje-obligacji-umozliwi-sprawne-przeprowadzenie-refinansowania-CFO-9223003.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zgoda-NWZ-PZU-na-emisje-obligacji-umozliwi-sprawne-przeprowadzenie-refinansowania-CFO-9223003.html",
-      "title": "PZU szykuje się do rolowania długu. Będzie emisja obligacji i możliwy wcześniejszy wykup",
-      "content_html": "Zgoda akcjonariuszy PZU na emisję obligacji kapitałowych o łącznej wartości nominalnej do 3 mld zł umożliwi sprawne przeprowadzenie refinansowania w dogodnym momencie i przy odpowiednich warunkach rynkowych - poinformował PAP Biznes CFO...",
-      "date_published": "2026-11-03T17:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Pegasus-Hermes-i-immunitet-prezesa-TK-Zurek-sklada-szosty-wniosek-o-uchylenie-immunitetu-prezesowi-TK-9222882.html",
-      "url": "https://www.bankier.pl/wiadomosc/Pegasus-Hermes-i-immunitet-prezesa-TK-Zurek-sklada-szosty-wniosek-o-uchylenie-immunitetu-prezesowi-TK-9222882.html",
-      "title": "Pegasus, Hermes i immunitet prezesa TK. Żurek składa szósty wniosek o uchylenie immunitetu prezesowi TK",
-      "content_html": "Skierowałem we wtorek do Trybunału Konstytucyjnego kolejny, szósty już wniosek o uchylenie immunitetu Bogdanowi Święczkowskiemu - przekazał prokurator generalny Waldemar Żurek. Poinformował, że wnioski z piątku i wtorku dotyczą m.in. spraw...",
-      "date_published": "2026-11-03T16:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-spolki-Wawel-chce-wyplacenia-zaliczki-dywidendowej-w-wysokosci-35-zl-na-akcje-9222995.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-spolki-Wawel-chce-wyplacenia-zaliczki-dywidendowej-w-wysokosci-35-zl-na-akcje-9222995.html",
-      "title": "Akcjonariusz spółki Wawel chce wypłacenia zaliczki dywidendowej w wysokości 35 zł na akcję",
-      "content_html": "WIK, akcjonariusz spółki Wawel, chce, by z zysku osiągniętego w roku obrotowym 2026 rok wypłacono zaliczkę na poczet przewidywanej dywidendy w łącznej kwocie 45,2 mln zł, czyli po 35 zł na jedną akcję - poinformowała spółka w komunikacie...",
-      "date_published": "2026-11-03T16:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Walka-o-unijne-miliardy-i-ochrone-przed-atakami-Giganci-polskiej-energetyk-lobbuja-w-Brukseli-9222976.html",
-      "url": "https://www.bankier.pl/wiadomosc/Walka-o-unijne-miliardy-i-ochrone-przed-atakami-Giganci-polskiej-energetyk-lobbuja-w-Brukseli-9222976.html",
-      "title": "Walka o unijne miliardy i ochronę przed atakami. Giganci polskiej energetyk lobbują w Brukseli",
-      "content_html": "W Brukseli rozpoczęło we wtorek działalność nowe stowarzyszenie - Polski Dom Infrastruktury Energetycznej zrzeszające polskie spółki: Polskie Sieci Elektroenergetyczne (PSE), Gaz-System oraz PERN. Nowa organizacja ma zabiegać o polskie interesy...",
-      "date_published": "2026-11-03T16:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Obroty-akcjami-na-GPW-w-pazdzierniku-wzrosly-o-35-6-proc-rdr-do-59-5-mld-zl-9222975.html",
-      "url": "https://www.bankier.pl/wiadomosc/Obroty-akcjami-na-GPW-w-pazdzierniku-wzrosly-o-35-6-proc-rdr-do-59-5-mld-zl-9222975.html",
-      "title": "Październikowe ożywienie na GPW. Obroty w górę o ponad 35 proc.",
-      "content_html": "Łączna wartość obrotu akcjami na Głównym Rynku GPW w październiku 2026 r. wyniosła 59,5 mld zł, co oznacza wzrost rdr o 35,6 proc. - poinformowała giełda w komunikacie. Wartość obrotu akcjami w ramach arkusza zleceń zwiększyła się...",
-      "date_published": "2026-11-03T16:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/KNF-ostrzega-przed-nowa-spolka-Podejrzenie-przestepstwa-finansowego-9222912.html",
-      "url": "https://www.bankier.pl/wiadomosc/KNF-ostrzega-przed-nowa-spolka-Podejrzenie-przestepstwa-finansowego-9222912.html",
-      "title": "KNF ostrzega przed nową spółką. Podejrzenie przestępstwa finansowego",
-      "content_html": "Na listę ostrzeżeń publicznych Komisji Nadzoru Finansowego wpisany został nowy podmiot - Money Coaching sp. z o.o. sp. k. - poinformowała we wtorek KNF.",
-      "date_published": "2026-11-03T16:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Premier-Ukrainy-o-akcesji-Ograniczenia-dla-naszego-rolnictwa-musza-byc-tymczasowe-9222891.html",
-      "url": "https://www.bankier.pl/wiadomosc/Premier-Ukrainy-o-akcesji-Ograniczenia-dla-naszego-rolnictwa-musza-byc-tymczasowe-9222891.html",
-      "title": "Premier Ukrainy o akcesji: Ograniczenia dla naszego rolnictwa muszą być tymczasowe",
-      "content_html": "Premier Ukrainy Serhij Korecki ogłosił, że ograniczenia eksportu ukraińskich produktów rolnych do UE po akcesji powinny być tymczasowe i mieć jasno określone warunki zniesienia. Powiedział o tym we wtorek podczas wydarzenia stacji Euronews poświęconego...",
-      "date_published": "2026-11-03T16:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cyberataki-na-urzadzenia-chlodnicze-dotarly-do-Polski-GIS-zwoluje-pilna-narade-9222887.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cyberataki-na-urzadzenia-chlodnicze-dotarly-do-Polski-GIS-zwoluje-pilna-narade-9222887.html",
-      "title": "Cyberataki na urządzenia chłodnicze dotarły do Polski. GIS zwołuje pilną naradę",
-      "content_html": "Główny Inspektor Sanitarny dr Paweł Grzesiowski, odnosząc się do fali ataków na urządzenia chłodnicze w Europie, poinformował we wtorek, że zostanie przeprowadzona narada z wojewódzkimi inspektorami i podjęte będą konkretne działania.",
-      "date_published": "2026-11-03T16:25:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-staje-w-obronie-Swieczkowskiego-Kolegium-SN-ostrzega-przed-prawnym-chaosem-9222926.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-staje-w-obronie-Swieczkowskiego-Kolegium-SN-ostrzega-przed-prawnym-chaosem-9222926.html",
-      "title": "Sąd Najwyższy staje w obronie Święczkowskiego. Kolegium SN ostrzega przed prawnym chaosem",
-      "content_html": "Na stronie Sądu Najwyższego zamieszczono uchwałę Kolegium SN wyrażającą „stanowczy sprzeciw wobec działań podważających konstytucyjne zasady funkcjonowania władzy sądowniczej”. W szczególności wskazano na odsunięcie prezesa TK Bogdana...",
-      "date_published": "2026-11-03T16:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zmierzch-twardego-brexitu-Brytyjski-rzad-zgadza-sie-na-powrot-do-unijnych-standardow-9222886.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zmierzch-twardego-brexitu-Brytyjski-rzad-zgadza-sie-na-powrot-do-unijnych-standardow-9222886.html",
-      "title": "Zmierzch twardego brexitu. Brytyjski rząd zgadza się na powrót do unijnych standardów",
-      "content_html": "Wielka Brytania i Komisja Europejska porozumiały się wstępnie w sprawie zniesienia pobrexitowych kontroli jedzenia i produktów rolnych – pisze we wtorek BBC. Ma to być część szerszego resetu i zbliżenia we wzajemnych stosunkach, o których...",
-      "date_published": "2026-11-03T16:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zamieszki-pod-Kijowem-sprowokowane-Budanow-Falszywa-lekarka-podburzyla-tlum-9222897.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zamieszki-pod-Kijowem-sprowokowane-Budanow-Falszywa-lekarka-podburzyla-tlum-9222897.html",
-      "title": "Zamieszki pod Kijowem sprowokowane. Budanow: Fałszywa lekarka podburzyła tłum",
-      "content_html": "Zamieszki pod Kijowem, gdzie tłum rzucił się w obronie rzekomo torturowanych żołnierzy, zostały sprowokowane. Trwa śledztwo, a jedna z osób, które wywołały starcia, została zatrzymana – oświadczył we wtorek szef kancelarii prezydenta Ukrainy Kyryło...",
-      "date_published": "2026-11-03T15:33:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ludzie-tylko-dowodcami-maszyn-na-froncie-czyli-jak-Saab-i-Nvidia-rewolucjonizuja-lotnictwo-wojskowe-9222869.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ludzie-tylko-dowodcami-maszyn-na-froncie-czyli-jak-Saab-i-Nvidia-rewolucjonizuja-lotnictwo-wojskowe-9222869.html",
-      "title": "Ludzie tylko dowódcami maszyn na froncie, czyli jak Saab i Nvidia rewolucjonizują lotnictwo wojskowe",
-      "content_html": "Zbudowany w Szwecji superkomputer z procesorami Nvidia szkoli pilotów-agentów AI, którzy w przyszłości mają zastąpić ludzi w samolotach bojowych – pisze we wtorek dziennik „Svenska Dagbladet”.",
-      "date_published": "2026-11-03T15:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konta-zablokowane-interweniuje-policja-Szef-banku-centralnego-Paragwaju-zrezygnowal-ze-stanowiska-9222874.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konta-zablokowane-interweniuje-policja-Szef-banku-centralnego-Paragwaju-zrezygnowal-ze-stanowiska-9222874.html",
-      "title": "Z dnia na dzień zablokowano konta, policja chroni placówki Ueno banku. Szef banku centralnego Paragwaju zrezygnował ze stanowiska",
-      "content_html": "Ueno, dynamicznie rozwijający się bank nazywany paragwajską odpowiedzią na Revoluta, decyzją krajowego nadzoru finansowego został postawiony w stan upadłości. Miliony Paragwajczyków zostały odcięte rano od rachunków bankowych, a w związku...",
-      "date_published": "2026-11-03T15:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kolejne-decyzje-kadrowe-w-TK-Sedzia-Korwin-Piotrowska-zwalnia-m-in-rzeczniczke-9222880.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kolejne-decyzje-kadrowe-w-TK-Sedzia-Korwin-Piotrowska-zwalnia-m-in-rzeczniczke-9222880.html",
-      "title": "Kolejne decyzje kadrowe w TK. Sędzia Korwin-Piotrowska zwalnia m.in. rzeczniczkę",
-      "content_html": "Sędzia Anna Korwin-Piotrowska odwołała wszystkie pełnomocnictwa i upoważnienia dwóm pracownicom Trybunału Konstytucyjnego Beacie Białowąs i Weronice Ścibor – podano we wtorek na stronie TK.",
-      "date_published": "2026-11-03T15:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Alarm-bombowy-w-Modlinie-Lotnisko-zostalo-zamkniete-9222668.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alarm-bombowy-w-Modlinie-Lotnisko-zostalo-zamkniete-9222668.html",
-      "title": "Lotnisko w Modlinie wznowiło loty po alarmie bombowym na pokładzie samolotu",
-      "content_html": "Zakończyły się utrudnienia na lotniskach im. Chopina oraz Warszawa-Modlin - poinformowały porty. W związku z doniesieniami o potencjalnych zagrożeniach we wtorek rano zamknięto lotnisko w Modlinie oraz jedną z dróg startowych Lotniska Chopina...",
-      "date_published": "2026-11-03T15:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Agent-AI-doda-do-koszyka-i-zaplaci-Przelomowy-projekt-Visa-i-polskich-bankow-9222863.html",
-      "url": "https://www.bankier.pl/wiadomosc/Agent-AI-doda-do-koszyka-i-zaplaci-Przelomowy-projekt-Visa-i-polskich-bankow-9222863.html",
-      "title": "Agent AI doda do koszyka i zapłaci. Przełomowy projekt Visa i polskich banków",
-      "content_html": "Wyszukanie produktu, porównanie ofert, dodanie towaru do koszyka, a nawet zapłata kartą. Wszystkimi tymi czynnościami będzie mogła zająć się sztuczna inteligencja. Visa poinformowała o przeprowadzeniu w Polsce pilotażu zakupów realizowanych...",
-      "date_published": "2026-11-03T15:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atrem-ma-umowe-z-PSE-za-157-8-mln-zl-brutto-9222870.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atrem-ma-umowe-z-PSE-za-157-8-mln-zl-brutto-9222870.html",
-      "title": "Atrem ma umowę z PSE za 157,8 mln zł brutto",
-      "content_html": "Atrem podpisał z Polskimi Sieciami Elektroenergetycznymi umowę dotyczącą rozbudowy stacji 400/220/110 kV Mikułowa. Wynagrodzenie wynosi 157,8 mln zł brutto, w tym 98,1 mln zł z tytułu zamówienia podstawowego - podał Atrem w komunikacie...",
-      "date_published": "2026-11-03T15:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Od-podwozi-do-w-pelni-zintegrowanego-zakladu-MAN-realizuje-wielki-plan-inwestycyjny-w-Polsce-9222841.html",
-      "url": "https://www.bankier.pl/wiadomosc/Od-podwozi-do-w-pelni-zintegrowanego-zakladu-MAN-realizuje-wielki-plan-inwestycyjny-w-Polsce-9222841.html",
-      "title": "Od podwozi do w pełni zintegrowanego zakładu. MAN realizuje wielki plan inwestycyjny w Polsce",
-      "content_html": "Producent ciężarówek MAN zainwestuje 110 mln euro w swój zakład w Niepołomicach k. Krakowa, w ramach ogłoszonego w lipcu szerszego planu inwestycyjnego o wartości ok. 1,2 mld euro. Spółka otrzymała decyzję o wsparciu przedsięwzięcia z programu...",
-      "date_published": "2026-11-03T14:37:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/MSZ-dementuje-doniesienia-o-ewakuacji-To-bzdura-i-dzialanie-czysto-logistyczne-9222824.html",
-      "url": "https://www.bankier.pl/wiadomosc/MSZ-dementuje-doniesienia-o-ewakuacji-To-bzdura-i-dzialanie-czysto-logistyczne-9222824.html",
-      "title": "MSZ dementuje doniesienia o ewakuacji. \"To bzdura\" i działanie czysto logistyczne",
-      "content_html": "Rzecznik MSZ Maciej Wewiór przekazał, że doniesienia części mediów o „ewakuacji” w siedzibie resortu to „bzdura”. Poinformował, że w związku z potencjalnymi utrudnieniami dojazdowymi w rejonie al. Szucha, zdecydowano, że we wtorek część...",
-      "date_published": "2026-11-03T14:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-analizuje-celowosc-inwestycji-BoB-w-Mozejkach-alternatywa-zamkniecie-rafinerii-prezes-9222807.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-analizuje-celowosc-inwestycji-BoB-w-Mozejkach-alternatywa-zamkniecie-rafinerii-prezes-9222807.html",
-      "title": "Fąfara: Inwestycja w Możejkach nigdy się nie zwróci. Orlen analizuje scenariusze",
-      "content_html": "Orlen analizuje celowość dodatkowych bardzo wysokich nakładów na dokończenie inwestycji w instalację BoB w Możejkach - poinformował PAP Biznes prezes Orlenu Ireneusz Fąfara. Alternatywą jest rezygnacja z inwestycji i ryzyko zamknięcia litewskiej...",
-      "date_published": "2026-11-03T14:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosja-moze-szykowac-prowokacje-na-granicy-Premier-ujawnia-ostrzezenia-sluzb-9222719.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosja-moze-szykowac-prowokacje-na-granicy-Premier-ujawnia-ostrzezenia-sluzb-9222719.html",
-      "title": "Groźba zbrojnego wtargnięcia. Nocna akcja służb po ostrzeżeniach dowódcy NATO",
-      "content_html": "Tuż po północy otrzymałem informację od Straży Granicznej, że zaobserwowano niepokojący ruch na granicy polsko-rosyjskiej. Osobnicy z latarkami. Bardzo szybko zadysponowaliśmy tam odpowiednie siły i środki – poinformował we wtorek premier...",
-      "date_published": "2026-11-03T14:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Dobro-dziecka-na-pierwszym-miejscu-Rzad-o-pieczy-wspoldzielonej-9222810.html",
-      "url": "https://www.bankier.pl/wiadomosc/Dobro-dziecka-na-pierwszym-miejscu-Rzad-o-pieczy-wspoldzielonej-9222810.html",
-      "title": "Dobro dziecka na pierwszym miejscu. Rząd o pieczy współdzielonej",
-      "content_html": "Rząd przyjął we wtorek projekt ustawy dotyczącej pieczy współdzielonej. Zawsze na pierwszym miejscu będzie dobro dziecka - podkreślił we wtorek rzecznik rządu Adam Szłapka.",
-      "date_published": "2026-11-03T14:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bunt-w-Sadzie-Najwyzszym-28-sedziow-nie-wezmie-udzialu-w-zgromadzeniu-9222779.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bunt-w-Sadzie-Najwyzszym-28-sedziow-nie-wezmie-udzialu-w-zgromadzeniu-9222779.html",
-      "title": "Bunt w Sądzie Najwyższym. 28 sędziów nie weźmie udziału w zgromadzeniu",
-      "content_html": "15 sędziów izby karnej Sądu Najwyższego i 13 sędziów innych izb deklaruje, że nie weźmie udziału w Zgromadzeniu Ogólnym SN - wynika z treści oświadczeń zamieszczonych w internecie przez sędziego Włodzimierza Wróbla.",
-      "date_published": "2026-11-03T14:09:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Skarbowka-bedzie-nagrywac-rozmowy-z-podatnikami-Rzad-szykuje-zmiany-w-KA-9222768.html",
-      "url": "https://www.bankier.pl/wiadomosc/Skarbowka-bedzie-nagrywac-rozmowy-z-podatnikami-Rzad-szykuje-zmiany-w-KA-9222768.html",
-      "title": "Skarbówka będzie nagrywać rozmowy z podatnikami. Rząd szykuje zmiany w KAS",
-      "content_html": "Rozmowy z Krajową Administracją Skarbową będą nagrywane – wynika z opublikowanych we wtorek założeń projektu nowelizacji ustawy o KAS. Skarbówka zamierza także w większym stopniu wykorzystywać model odmiejscowionej obsługi podatników.",
-      "date_published": "2026-11-03T14:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-pierwszych-trzech-kwartalach-26-mial-14-9-mln-zl-zysku-netto-i-21-7-mln-zl-EBITDA-9222805.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lentex-szacuje-ze-w-pierwszych-trzech-kwartalach-26-mial-14-9-mln-zl-zysku-netto-i-21-7-mln-zl-EBITDA-9222805.html",
-      "title": "Lentex szacuje, że w pierwszych trzech kwartałach '26 miał 14,9 mln zł zysku netto i 21,7 mln zł EBITDA",
-      "content_html": "Lentex szacuje, że w pierwszych trzech kwartałach 2026 roku miał 14,99 mln zł zysku netto i 21,76 mln zł EBITDA. Szacowane przychody netto wyniosły 132,7 mln zł - podała spółka w komunikacie.",
-      "date_published": "2026-11-03T14:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Uwaga-Pozyczanie-pieniedzy-kosztuje-Tak-maja-wygladac-nowe-reklamy-kredytow-9222767.html",
-      "url": "https://www.bankier.pl/wiadomosc/Uwaga-Pozyczanie-pieniedzy-kosztuje-Tak-maja-wygladac-nowe-reklamy-kredytow-9222767.html",
-      "title": "„Uwaga! Pożyczanie pieniędzy kosztuje”. Tak mają wyglądać nowe reklamy kredytów",
-      "content_html": "Projekt nowej ustawy o kredycie konsumenckim zakłada obowiązek zamieszczania w reklamach kredytów ostrzeżenia „Uwaga! Pożyczanie pieniędzy kosztuje”, rozszerzenie ochrony na usługi „kup teraz, zapłać później” (BNPL) oraz zakaz udzielania...",
-      "date_published": "2026-11-03T14:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mniejsze-zyski-i-wyzsze-koszty-NBP-podsumowuje-wyniki-polskich-bankow-9222778.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mniejsze-zyski-i-wyzsze-koszty-NBP-podsumowuje-wyniki-polskich-bankow-9222778.html",
-      "title": "Mniejsze zyski i wyższe koszty. NBP podsumowuje wyniki polskich banków",
-      "content_html": "Zysk netto sektora bankowego w okresie styczeń-wrzesień 2026 roku wyniósł 32,28 mld zł, czyli spadł o 10,5 proc. rdr - poinformował Narodowy Bank Polski.",
-      "date_published": "2026-11-03T13:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tusk-zabral-glos-w-sprawie-TK-Mocne-slowa-pod-adresem-Nawrockiego-9222726.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tusk-zabral-glos-w-sprawie-TK-Mocne-slowa-pod-adresem-Nawrockiego-9222726.html",
-      "title": "Tusk zabrał głos w sprawie TK. Mocne słowa pod adresem Nawrockiego",
-      "content_html": "Premier Donald Tusk podkreślił we wtorek, że obrona Trybunału Konstytucyjnego i warunków pracy dla sędziów jest oczywistym obowiązkiem władzy wykonawczej. Zaznaczył jednak, że nikt z władzy wykonawczej nie ma prawa „wkraczać przemocą” na...",
-      "date_published": "2026-11-03T13:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rekordowy-brak-zaufania-Polakow-do-niemieckiej-polityki-ale-relacje-gospodarcze-wciaz-silne-9222756.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rekordowy-brak-zaufania-Polakow-do-niemieckiej-polityki-ale-relacje-gospodarcze-wciaz-silne-9222756.html",
-      "title": "Rekordowy brak zaufania Polaków do niemieckiej polityki, ale relacje gospodarcze wciąż silne",
-      "content_html": "Odsetek Polaków przekonanych, że Niemcy uwzględniają w swojej polityce zagranicznej interesy innych państw, spadł do najniższego poziomu w historii pomiarów i wynosi 30 proc. - wynika z badania „Barometr Polska-Niemcy 2026”. Jednocześnie...",
-      "date_published": "2026-11-03T13:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lukasz-Kochanowski-czlonkiem-zarzadu-PFR-TFI-9222795.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lukasz-Kochanowski-czlonkiem-zarzadu-PFR-TFI-9222795.html",
-      "title": "Łukasz Kochanowski członkiem zarządu PFR TFI",
-      "content_html": "Od 1 listopada funkcję członka zarządu PFR TFI objął Łukasz Kochanowski - poinformował PFR TFI. Ma on odpowiadać za nadzór nad systemem zarządzania ryzykiem.",
-      "date_published": "2026-11-03T13:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Mlodzi-moga-zgarnac-800-zl-od-ING-Wystarczy-spelnic-kilka-warunkow-9222746.html",
-      "url": "https://www.bankier.pl/wiadomosc/Mlodzi-moga-zgarnac-800-zl-od-ING-Wystarczy-spelnic-kilka-warunkow-9222746.html",
-      "title": "Młodzi mogą zgarnąć 800 zł od ING. Wystarczy spełnić kilka warunków",
-      "content_html": "Zadbaj o finanse bez zbędnych kosztów i zyskaj premię za codzienne płatności w aplikacji. Biorąc udział w akcji ING „Mobilni zyskują”, młodzi klienci w wieku 18–25 lat zyskują w pełni darmowe konto, darmową kartę i bezpłatne wypłaty...",
-      "date_published": "2026-11-03T13:45:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rozwod-po-rosyjsku-Zniknal-majatek-a-alimenty-utknely-Maz-zaslania-sie-sankcjami-9222106.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rozwod-po-rosyjsku-Zniknal-majatek-a-alimenty-utknely-Maz-zaslania-sie-sankcjami-9222106.html",
-      "title": "Milioner nie płaci alimentów. Przed sądem zasłania się... sankcjami",
-      "content_html": "Na rozprawie rozwodowej poszło o 30 mln funtów, których rosyjski bogacz Wasilij Peganow nie może wypłacić swojej żonie. Przelewy z Moskwy do Londynu są jego zdaniem \"praktycznie niemożliwe\", a była już żona naciska na ujawnienie całego majątku...",
-      "date_published": "2026-11-03T13:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-USA-i-Ukraina-spotkaja-sie-w-Brukseli-Na-stole-odbudowa-kraju-9222742.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-USA-i-Ukraina-spotkaja-sie-w-Brukseli-Na-stole-odbudowa-kraju-9222742.html",
-      "title": "UE, USA i Ukraina spotkają się w Brukseli. Na stole odbudowa kraju",
-      "content_html": "W środę w Brukseli odbędzie się spotkanie przedstawicieli UE, USA i Ukrainy, a także Francji, Niemiec, Wielkiej Brytanii, NATO i Banku Światowego - ogłosiła Paula Pinho, rzeczniczka Komisji Europejskiej, która będzie gospodarzem rozmów. Tematem...",
-      "date_published": "2026-11-03T13:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Prezes-TK-odbil-sie-od-policyjnego-kordonu-Znowu-mnie-nie-wpuszczono-9222728.html",
-      "url": "https://www.bankier.pl/wiadomosc/Prezes-TK-odbil-sie-od-policyjnego-kordonu-Znowu-mnie-nie-wpuszczono-9222728.html",
-      "title": "Prezes TK odbił się od policyjnego kordonu. „Znowu mnie nie wpuszczono”",
-      "content_html": "We wtorek przed południem Bogdan Święczkowski chciał wejść na teren Trybunału Konstytucyjnego, ale nie został wpuszczony przez funkcjonariuszy policji, choć - jak podkreślił - jako prezes TK jest administratorem siedziby Trybunału.",
-      "date_published": "2026-11-03T12:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/20-tys-zl-za-znalezienie-bledu-Panstwo-placi-hakerom-za-szukanie-luk-9222721.html",
-      "url": "https://www.bankier.pl/wiadomosc/20-tys-zl-za-znalezienie-bledu-Panstwo-placi-hakerom-za-szukanie-luk-9222721.html",
-      "title": "20 tys. zł za znalezienie błędu. Państwo płaci hakerom za szukanie luk",
-      "content_html": "NASK przeznaczył milion zł na program, w ramach którego etyczni hakerzy i badacze mogą zgłaszać luki bezpieczeństwa w publicznych systemach - poinformował we wtorek wicepremier i minister cyfryzacji Krzysztof Gawkowski. Jednorazowo można...",
-      "date_published": "2026-11-03T12:43:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
