@@ -4,23 +4,198 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
-      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-gazu-w-grupie-Orlen-w-czwartym-kwartale-moze-wzrosnac-prezes-9224497.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-gazu-w-grupie-Orlen-w-czwartym-kwartale-moze-wzrosnac-prezes-9224497.html",
-      "title": "Sprzedaż gazu w grupie Orlen w czwartym kwartale może wzrosnąć - prezes",
-      "content_html": "Sprzedaż gazu w grupie Orlen w czwartym kwartale 2026 roku może wzrosnąć - poinformował prezes Orlenu Ireneusz Fąfara.",
-      "date_published": "2026-11-05T18:08:00+01:00"
+      "id": "https://www.bankier.pl/wiadomosc/Unidevelopment-z-grupy-Unibep-w-III-kwartale-sprzedal-116-lokali-9224611.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unidevelopment-z-grupy-Unibep-w-III-kwartale-sprzedal-116-lokali-9224611.html",
+      "title": "Unidevelopment z grupy Unibep w III kwartale sprzedał 116 lokali",
+      "content_html": "Spółka deweloperska Unidevelopment z grupy kapitałowej Unibepu sprzedała w trzecim kwartale 2026 roku 116 lokali, a narastająco od początku roku sprzedaż sięgnęła 280 lokali wobec 202 lokali rok wcześniej, co oznacza wzrost o 39 proc. r/r...",
+      "date_published": "2026-11-05T23:12:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unibep-ma-12-5-mln-zl-zysku-netto-po-III-kw-portfel-zamowien-wynosi-6-1-mld-zl-9224608.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unibep-ma-12-5-mln-zl-zysku-netto-po-III-kw-portfel-zamowien-wynosi-6-1-mld-zl-9224608.html",
+      "title": "Unibep ma 12,5 mln zł zysku netto po III kw., portfel zamówień wynosi 6,1 mld zł",
+      "content_html": "Unibep wstępnie szacuje, że po trzech kwartałach 2026 roku ma 12,5 mln zł zysku netto przy przychodach w wysokości 1,39 mld zł - poinformowała budowlana firma. Portfel zamówień grupy jest na rekordowym poziomie 6,1 mld zł.",
+      "date_published": "2026-11-05T23:06:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Alior-Bank-emituje-euroobligacje-o-wartosci-500-mln-euro-9224604.html",
+      "url": "https://www.bankier.pl/wiadomosc/Alior-Bank-emituje-euroobligacje-o-wartosci-500-mln-euro-9224604.html",
+      "title": "Alior Bank emituje euroobligacje o wartości 500 mln euro",
+      "content_html": "Alior Bank zakończył subskrypcję 4-letnich obligacji senioralnych serii 1 o łącznej wartości nominalnej 500 mln euro - poinformował bank w komunikacie.",
+      "date_published": "2026-11-05T22:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-III-kw-ujemna-EBITDE-na-25-mln-zl-odczuwa-wysokie-ceny-gazu-opis-9224601.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-szacuje-w-III-kw-ujemna-EBITDE-na-25-mln-zl-odczuwa-wysokie-ceny-gazu-opis-9224601.html",
+      "title": "Grupa Azoty szacuje w III kw. ujemną EBITDĘ na 25 mln zł, odczuwa wysokie ceny gazu (opis)",
+      "content_html": "Grupa Azoty wstępnie szacuje, że w trzecim kwartale 2026 r. miała przychody na poziomie 3,227 mld zł i wynik EBITDA minus 25 mln zł, przy marży EBITDA minus 0,8 proc. Pogorszenie wyników grupa tłumaczy dynamicznym wzrostem cen surowców, w...",
+      "date_published": "2026-11-05T22:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Demokraci-sa-jednak-jak-zaraza-Wall-Street-zmienia-zdanie-9224591.html",
+      "url": "https://www.bankier.pl/wiadomosc/Demokraci-sa-jednak-jak-zaraza-Wall-Street-zmienia-zdanie-9224591.html",
+      "title": "Demokraci są jednak jak zaraza. Wall Street zmienia zdanie",
+      "content_html": "Czwartkowa sesja na nowojorskich giełdach przyniosła najcięższe spadki od 19 miesięcy. Inwestorzy panice wyprzedawali akcje firm powiązanych z boomem AI, obawiając się przejęcia Kongresu przez Demokratów.",
+      "date_published": "2026-11-05T22:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Reset-konstytucyjny-laczy-PSL-i-Konfederacje-Kosiniak-Kamysz-spotkal-sie-z-Mentzenem-9224563.html",
+      "url": "https://www.bankier.pl/wiadomosc/Reset-konstytucyjny-laczy-PSL-i-Konfederacje-Kosiniak-Kamysz-spotkal-sie-z-Mentzenem-9224563.html",
+      "title": "Reset konstytucyjny łączy PSL i Konfederację? Kosiniak-Kamysz spotkał się z Mentzenem",
+      "content_html": "Wicepremier, szef MON i lider PSL Władysław Kosiniak-Kamysz spotkał się w czwartek z jednym z liderów Konfederacji Sławomirem Mentzenem. Jak przekazał PAP rzecznik Konfederacji Wojciech Machulski, podczas spotkania rozmawiano o kryzysie wokół...",
+      "date_published": "2026-11-05T20:26:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-133-mln-zl-wobec-108-8-mln-zl-konsensusu-9224554.html",
+      "url": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-133-mln-zl-wobec-108-8-mln-zl-konsensusu-9224554.html",
+      "title": "Unimot zaskoczył wynikami. Przychody w III kwartale sięgnęły aż 6 mld zł",
+      "content_html": "Szacunkowa skorygowana EBITDA Unimotu w trzecim kwartale 2026 roku wyniosła 133 mln zł - poinformowała paliwowa spółka w komunikacie. Analitycy ankietowani przez PAP Biznes spodziewali się 108,8 mln zł skorygowanej EBITDA.",
+      "date_published": "2026-11-05T20:15:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zabojstwo-mlodego-Polaka-wstrzasnelo-Wielka-Brytania-Sad-podwyzszyl-kare-9224555.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zabojstwo-mlodego-Polaka-wstrzasnelo-Wielka-Brytania-Sad-podwyzszyl-kare-9224555.html",
+      "title": "Zabójstwo młodego Polaka wstrząsnęło Wielką Brytanią. Sąd podwyższył karę",
+      "content_html": "Brytyjski sąd apelacyjny podwyższył w czwartek karę dla zabójcy Henry'ego Nowaka, 18-letniego brytyjskiego studenta polskiego pochodzenia. Vickrum Digwa będzie się mógł ubiegać o warunkowe zwolnienie najwcześniej po upływie 25 lat, a nie 21...",
+      "date_published": "2026-11-05T19:59:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nowa-mapa-bezpieczenstwa-Europy-Polska-podpisala-25-porozumien-obronnych-9224553.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nowa-mapa-bezpieczenstwa-Europy-Polska-podpisala-25-porozumien-obronnych-9224553.html",
+      "title": "Nowa mapa bezpieczeństwa Europy. Polska podpisała 25 porozumień obronnych",
+      "content_html": "W ciągu ostatnich czterech lat państwa europejskie zawarły siedem razy więcej porozumień obronnych niż przez poprzednich osiem lat – zauważa w czwartek norweski dziennik „Aftenposten”. Jego zdaniem Europa buduje sieć bezpieczeństwa...",
+      "date_published": "2026-11-05T19:49:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Koniec-impasu-w-rozmowach-nuklearnych-Iran-analizuje-propozycje-mediatorow-9224552.html",
+      "url": "https://www.bankier.pl/wiadomosc/Koniec-impasu-w-rozmowach-nuklearnych-Iran-analizuje-propozycje-mediatorow-9224552.html",
+      "title": "Koniec impasu w rozmowach nuklearnych? Iran analizuje propozycje mediatorów",
+      "content_html": "Iran analizuje „konkretne propozycje” dotyczące programu nuklearnego – poinformował w czwartek dziennik „New York Times”, powołując się na pięciu urzędników, w tym przedstawicieli Iranu i USA, zaznajomionych z przebiegiem negocjacji...",
+      "date_published": "2026-11-05T19:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-III-kw-26-na-3-mln-zl-9224549.html",
+      "url": "https://www.bankier.pl/wiadomosc/Artifex-Mundi-szacuje-zysk-netto-w-III-kw-26-na-3-mln-zl-9224549.html",
+      "title": "Artifex Mundi szacuje zysk netto w III kw. '26 na 3 mln zł",
+      "content_html": "Artifex Mundi szacuje, że zysk netto w trzecim kwartale 2026 roku wyniósł 3 mln zł, czyli był o 41 proc. niższy rdr - poinformowała spółka w komunikacie. Oczekiwania analityków co do zysku netto mieściły się w przedziale 3-4,2 mln zł...",
+      "date_published": "2026-11-05T19:28:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-zwolnienia-w-PKP-Cargo-Zarzadca-analizuje-poziom-zatrudnienia-9224547.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-zwolnienia-w-PKP-Cargo-Zarzadca-analizuje-poziom-zatrudnienia-9224547.html",
+      "title": "Kolejne zwolnienia w PKP Cargo? Zarządca analizuje poziom zatrudnienia",
+      "content_html": "Zarządca PKP Cargo analizuje sytuację spółki, w tym m.in. w zakresie optymalizacji zatrudnienia - przekazał PAP przewoźnik. Dodał, że nie zostały określone szczegóły dotyczące potencjalnej skali, harmonogramu, grup pracowników, których...",
+      "date_published": "2026-11-05T19:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nietypowy-spor-o-glosy-wyborcow-Trump-domaga-sie-zwyciestwa-senatora-9224545.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nietypowy-spor-o-glosy-wyborcow-Trump-domaga-sie-zwyciestwa-senatora-9224545.html",
+      "title": "Nietypowy spór o głosy wyborców. Trump domaga się zwycięstwa senatora",
+      "content_html": "Prezydent Donald Trump oświadczył w czwartek, że głosy oddane na dwóch innych kandydatów w wyścigu o mandat senatora z Alaski powinny zostać przyznane urzędującemu senatorowi Republikaninowi Danowi Sullivanowi, co dałoby mu zwycięstwo. Jego...",
+      "date_published": "2026-11-05T19:21:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-Trybunal-Konstytucyjny-PSL-proponuje-zmiane-Konstytucji-9224183.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-Trybunal-Konstytucyjny-PSL-proponuje-zmiane-Konstytucji-9224183.html",
+      "title": "Spór o Trybunał Konstytucyjny. PSL proponuje zmianę Konstytucji",
+      "content_html": "PSL przygotowało projekt zmiany Konstytucji, by doprowadzić do spokoju, pokoju społecznego, praworządności i odnowienia wiarygodności Trybunału Konstytucyjnego - poinformował w czwartek wicepremier, szef MON i prezes PSL Władysław Kosiniak-Kamysz...",
+      "date_published": "2026-11-05T19:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/RPP-moze-uniknac-podwyzek-stop-Kluczowe-beda-ceny-energii-i-paliw-9224541.html",
+      "url": "https://www.bankier.pl/wiadomosc/RPP-moze-uniknac-podwyzek-stop-Kluczowe-beda-ceny-energii-i-paliw-9224541.html",
+      "title": "RPP może uniknąć podwyżek stóp. Kluczowe będą ceny energii i paliw",
+      "content_html": "Są duże szanse na uniknięcie podwyżek stóp procentowych w związku z lepszą sytuacją na rynku surowców i rosnącym prawdopodobieństwem przedłużenia CPN - ocenił analityk Piotr Bielski z banku Erste. Dodał, że w takim scenariuszu inflacja...",
+      "date_published": "2026-11-05T19:14:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strzelanina-w-Turcji-Osiem-osob-nie-zyje-napastnik-uciekl-9224538.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strzelanina-w-Turcji-Osiem-osob-nie-zyje-napastnik-uciekl-9224538.html",
+      "title": "Strzelanina w Turcji. Osiem osób nie żyje, napastnik uciekł",
+      "content_html": "W wyniku ataku uzbrojonego napastnika w położonej na zachodzie Turcji prowincji Afyonkarahisar zginęło w czwartek osiem osób, a jedna została ciężko ranna - podało biuro gubernatora prowincji, cytowane przez telewizję A Haber.",
+      "date_published": "2026-11-05T19:05:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zlote-zniwa-nafciarzy-w-cieniu-wojny-z-Iranem-Amerykanskie-koncerny-zarobily-ponad-130-mld-dolarow-9224053.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zlote-zniwa-nafciarzy-w-cieniu-wojny-z-Iranem-Amerykanskie-koncerny-zarobily-ponad-130-mld-dolarow-9224053.html",
+      "title": "Złote żniwa w cieniu wojny. Amerykańscy nafciarze zarobili ponad 130 mld dolarów",
+      "content_html": "Konflikt zbrojny na Bliskim Wschodzie przyniósł gigantyczne zyski amerykańskiej branży naftowej. Od kwietnia do września spółki wydobywcze i rafineryjne wypracowały łącznie ponad 130 mld dolarów – niemal trzykrotnie więcej niż w analogicznym...",
+      "date_published": "2026-11-05T19:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Legendarny-producent-rowerow-w-tarapatach-Elektryki-nie-uratowaly-biznesu-9224110.html",
+      "url": "https://www.bankier.pl/wiadomosc/Legendarny-producent-rowerow-w-tarapatach-Elektryki-nie-uratowaly-biznesu-9224110.html",
+      "title": "Legendarny producent rowerów w tarapatach. Elektryki nie uratowały biznesu",
+      "content_html": "Legendarny włoski producent rowerów Bianchi znalazł się w poważnym kryzysie finansowym i rozpoczął restrukturyzację. Firma, której historia sięga XIX wieku, musi zmierzyć się z zadłużeniem sięgającym 91 mln euro, słabnącym popytem i...",
+      "date_published": "2026-11-05T19:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Melania-Trump-z-apelem-do-Rosjan-i-Ukraincow-Cos-trwalszego-niz-rozejm-9224448.html",
+      "url": "https://www.bankier.pl/wiadomosc/Melania-Trump-z-apelem-do-Rosjan-i-Ukraincow-Cos-trwalszego-niz-rozejm-9224448.html",
+      "title": "Melania Trump z apelem do Rosjan i Ukraińców. „Coś trwalszego niż rozejm”",
+      "content_html": "Musimy użyć odwagi i razem stworzyć coś trwalszego niż tymczasowy rozejm - powiedziała pierwsza dama USA Melania Trump podczas spotkania z delegacjami z Rosji i Ukrainy.",
+      "date_published": "2026-11-05T18:55:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-zaplaci-2-4-mld-zl-podatku-Niepewnosc-takze-wokol-rafinerii-na-Litwie-9224527.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-zaplaci-2-4-mld-zl-podatku-Niepewnosc-takze-wokol-rafinerii-na-Litwie-9224527.html",
+      "title": "Orlen zapłaci 2,4 mld zł podatku. Niepewność także wokół rafinerii na Litwie",
+      "content_html": "Wartość podatku od nadzwyczajnych zysków do zapłacenia przez Orlen za okres do końca września to 2,4 mld zł - poinformował w czwartek prezes spółki Ireneusz Fąfara. Grupa może w tym roku zrealizować niższe nakłady inwestycyjne niż planowane...",
+      "date_published": "2026-11-05T18:47:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wielki-cyberatak-na-norweski-rzad-Zagrozone-dane-tysiecy-organizacji-9224137.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wielki-cyberatak-na-norweski-rzad-Zagrozone-dane-tysiecy-organizacji-9224137.html",
+      "title": "Wielki cyberatak na norweski rząd. Zagrożone dane tysięcy organizacji",
+      "content_html": "Hakerzy włamali się do systemu dotacyjnego norweskiego MSZ i agencji wspierającej organizacje prodemokratyczne na całym świecie - poinformowano w czwartkowym wydaniu dziennika „Vaart Land”. Według gazety przejęte mogły zostać dane tysięcy...",
+      "date_published": "2026-11-05T18:45:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-wokol-TK-trafia-do-Brukseli-Europoslowie-PiS-napisali-list-do-Metsoli-9224520.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-wokol-TK-trafia-do-Brukseli-Europoslowie-PiS-napisali-list-do-Metsoli-9224520.html",
+      "title": "Kryzys wokół TK trafia do Brukseli. Europosłowie PiS napisali list do Metsoli",
+      "content_html": "Europosłowie PiS poinformowali na konferencji w PE w Brukseli, że skierowali list otwarty do przewodniczącej PE Roberty Metsoli w związku z jej wizytą w Polsce. - Chcemy, żeby przewodnicząca PE była obiektywna i nie pozwoliła na manipulacje ze...",
+      "date_published": "2026-11-05T18:34:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-III-kw-483-mln-zl-zysku-netto-j-d-wobec-konsensusu-484-5-mln-zl-zysku-9224495.html",
       "url": "https://www.bankier.pl/wiadomosc/Dino-Polska-mialo-w-III-kw-483-mln-zl-zysku-netto-j-d-wobec-konsensusu-484-5-mln-zl-zysku-9224495.html",
-      "title": "Dino Polska miało w III kw. 483 mln zł zysku netto j.d. wobec konsensusu 484,5 mln zł zysku",
+      "title": "Sprzedaż Dino Polska rośnie, ale marże pod presją. Spółka podała wyniki",
       "content_html": "Zysk netto jednostki dominującej grupy Dino Polska wyniósł w trzecim kwartale 2026 roku 483 mln zł wobec 481,9 mln zł zysku rok wcześniej - podała spółka w raporcie. Konsensus PAP Biznes zakładał 484,5 mln zł zysku netto.",
-      "date_published": "2026-11-05T18:06:00+01:00"
+      "date_published": "2026-11-05T18:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zadaja-niemal-trzykrotnej-podwyzki-Protesty-zatrzymuja-fabryki-odziezowe-9224483.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zadaja-niemal-trzykrotnej-podwyzki-Protesty-zatrzymuja-fabryki-odziezowe-9224483.html",
+      "title": "Żądają niemal trzykrotnej podwyżki. Protesty zatrzymują fabryki odzieżowe",
+      "content_html": "Pracownicy branży tekstylnej ponownie demonstrowali w czwartek w Bangladeszu, zmuszając fabryki do wstrzymania pracy, mimo zapowiedzi zmiany siatki płac w sektorze.",
+      "date_published": "2026-11-05T18:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-spodziewa-sie-w-drugim-kwartale-27-roku-wyroku-arbitrazu-ws-Venture-Global-9224509.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-spodziewa-sie-w-drugim-kwartale-27-roku-wyroku-arbitrazu-ws-Venture-Global-9224509.html",
+      "title": "Spór Orlenu z amerykańskim dostawcą LNG. Jest możliwy termin wyroku",
+      "content_html": "Orlen spodziewa się w drugim kwartale 2027 roku wyroku sądu arbitrażowego w sprawie Venture Global - poinformował wiceprezes Orlenu Sławomir Jędrzejczyk.",
+      "date_published": "2026-11-05T18:24:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kryzys-bankowy-w-Paragwaju-Prezydent-rezygnuje-po-upadlosci-Ueno-9224507.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kryzys-bankowy-w-Paragwaju-Prezydent-rezygnuje-po-upadlosci-Ueno-9224507.html",
+      "title": "Kryzys bankowy w Paragwaju. Prezydent rezygnuje po upadłości Ueno",
+      "content_html": "Prezydent Paragwaju Santiago Pena podał się w czwartek do dymisji po bankructwie internetowego banku Ueno, którego akcje posiadał aż do ubiegłego roku. Opozycja zarzucała mu m.in. konflikt interesów.",
+      "date_published": "2026-11-05T18:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sprzedaz-gazu-w-grupie-Orlen-w-czwartym-kwartale-moze-wzrosnac-prezes-9224497.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sprzedaz-gazu-w-grupie-Orlen-w-czwartym-kwartale-moze-wzrosnac-prezes-9224497.html",
+      "title": "Orlen liczy na gazowe odbicie. Prezes wskazał na Norwegię",
+      "content_html": "Sprzedaż gazu w grupie Orlen w czwartym kwartale 2026 roku może wzrosnąć - poinformował prezes Orlenu Ireneusz Fąfara.",
+      "date_published": "2026-11-05T18:08:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Orlen-liczy-na-porozumienie-z-partnerami-przy-SMR-w-w-ciagu-miesiaca-prezes-9224490.html",
       "url": "https://www.bankier.pl/wiadomosc/Orlen-liczy-na-porozumienie-z-partnerami-przy-SMR-w-w-ciagu-miesiaca-prezes-9224490.html",
-      "title": "Orlen liczy na porozumienie z partnerami przy SMR w w ciągu miesiąca - prezes",
+      "title": "SMR-y we Włocławku. Orlen liczy na porozumienie z partnerami w ciągu miesiąca",
       "content_html": "Orlen liczy na osiągnięcie w ciągu miesiąca porozumienia z partnerami przy projekcie budowy małych reaktorów jądrowych SMR - poinformował prezes Orlenu Ireneusz Fąfara.",
       "date_published": "2026-11-05T18:04:00+01:00"
     },
@@ -30,6 +205,13 @@
       "title": "Grupa Atende szacuje zysk EBITDA w III kw. na 1,6 mln zł",
       "content_html": "Grupa Atende szacuje skonsolidowany zysk EBITDA w III kwartale 2026 roku na blisko 1,6 mln zł, podczas gdy rok wcześniej grupa miała 2,5 mln zł zysku EBITDA - podała spółka w komunikacie.",
       "date_published": "2026-11-05T17:56:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjski-diesel-mial-trafic-do-USA-2-z-3-tankowcow-zmienily-kurs-9224481.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjski-diesel-mial-trafic-do-USA-2-z-3-tankowcow-zmienily-kurs-9224481.html",
+      "title": "Rosyjski diesel miał trafić do USA. 2 z 3 tankowców zmieniły kurs",
+      "content_html": "Dwa z trzech transportów rosyjskiego diesla, które miały trafić do USA w ramach porozumienia zawartego przez Donalda Trumpa i Władimira Putina, zmieniły kierunek podróży - podał „Financial Times”. Według gazety może to świadczyć o trudnościach...",
+      "date_published": "2026-11-05T17:50:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wydatki-inwestycyjne-grupy-Orlen-w-2026-roku-moga-byc-nizsze-niz-zakladane-36-mld-zl-9224478.html",
@@ -60,13 +242,6 @@
       "date_published": "2026-11-05T17:41:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Melania-Trump-z-apelem-do-Rosjan-i-Ukraincow-Cos-trwalszego-niz-rozejm-9224448.html",
-      "url": "https://www.bankier.pl/wiadomosc/Melania-Trump-z-apelem-do-Rosjan-i-Ukraincow-Cos-trwalszego-niz-rozejm-9224448.html",
-      "title": "Melania Trump z apelem do Rosjan i Ukraińców. „Coś trwalszego niż rozejm”",
-      "content_html": "Musimy użyć odwagi i razem stworzyć coś trwalszego niż tymczasowy rozejm - powiedziała pierwsza dama USA Melania Trump podczas spotkania z delegacjami z Rosji i Ukrainy.",
-      "date_published": "2026-11-05T17:40:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/PSL-ponownie-chce-zniesc-dwukadencyjnosc-w-samorzadach-9224198.html",
       "url": "https://www.bankier.pl/wiadomosc/PSL-ponownie-chce-zniesc-dwukadencyjnosc-w-samorzadach-9224198.html",
       "title": "PSL ponownie chce znieść dwukadencyjność w samorządach",
@@ -90,7 +265,7 @@
     {
       "id": "https://www.bankier.pl/wiadomosc/EBITDA-LIFO-Orlen-w-III-kw-14-78-mld-zl-wynik-pod-wplywem-zmiennosci-cen-surowcow-i-geopolityki-9224444.html",
       "url": "https://www.bankier.pl/wiadomosc/EBITDA-LIFO-Orlen-w-III-kw-14-78-mld-zl-wynik-pod-wplywem-zmiennosci-cen-surowcow-i-geopolityki-9224444.html",
-      "title": "Orlen zwiększył zysk netto o 158 proc. Konsensus pozostał poza zasięgiem",
+      "title": "Orlen zwiększył zysk netto o 163 proc. rdr. Konsensus pozostał poza zasięgiem",
       "content_html": "Grupa Orlen wypracowała w trzecim kwartale 2026 roku wynik EBITDA LIFO na poziomie 14,78 mld zł wobec 8,9 mld zł przed rokiem - poinformowała spółka w komunikacie. Analitycy oczekiwali EBITDA LIFO w wysokości 15,32 mld zł.",
       "date_published": "2026-11-05T17:16:00+01:00"
     },
@@ -233,13 +408,6 @@
       "title": "Rosja dostarczy Iranowi 90 wyrzutni zaawansowanych pocisków kierowanych",
       "content_html": "Dziennik „Financial Times” powiadomił w czwartek, że Rosja zgodziła się dostarczyć Iranowi 90 wyrzutni zaawansowanych pocisków kierowanych – broni wykorzystywanej przez rosyjskie siły w Ukrainie. W ocenie „FT” świadczy to o militarnym...",
       "date_published": "2026-11-05T14:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spor-o-Trybunal-Konstytucyjny-PSL-proponuje-zmiane-Konstytucji-9224183.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spor-o-Trybunal-Konstytucyjny-PSL-proponuje-zmiane-Konstytucji-9224183.html",
-      "title": "Spór o Trybunał Konstytucyjny. PSL proponuje zmianę Konstytucji",
-      "content_html": "PSL przygotowało projekt zmiany Konstytucji, by doprowadzić do spokoju, pokoju społecznego, praworządności i odnowienia wiarygodności Trybunału Konstytucyjnego - poinformował w czwartek wicepremier, szef MON i prezes PSL Władysław Kosiniak-Kamysz...",
-      "date_published": "2026-11-05T14:54:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Tankowce-Ukraina-i-cyberataki-Kreml-odpowiada-na-doniesienia-mediow-9224277.html",
@@ -534,174 +702,6 @@
       "title": "Polacy na giełdowej oślej ławce. \"Jakby lata 90. nigdy się nie skończyły\"",
       "content_html": "Polska rozwija się w imponującym tempie, ale pod względem indywidualnego inwestowania wciąż tkwimy na szarym końcu Europy. Problemem nie jest jednak rzekomy brak edukacji czy lenistwo Polaków, tylko produkty finansowe - od nieoprocentowanych kont...",
       "date_published": "2026-11-05T11:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Polecialy-glowy-w-nowym-imperium-medialnym-Trzeba-zaoszczedzic-6-mld-dolarow-9224016.html",
-      "url": "https://www.bankier.pl/wiadomosc/Polecialy-glowy-w-nowym-imperium-medialnym-Trzeba-zaoszczedzic-6-mld-dolarow-9224016.html",
-      "title": "Poleciały głowy w nowym imperium medialnym. Trzeba zaoszczędzić 6 mld dolarów",
-      "content_html": "Nowy zespół kierowniczy zajmie się zmianami w organizacji podległych im działów - to treść notatki służbowej, do której dotarł Reuters. Nowopowstała spółka Skydance, stanowiąca połączenie Warner Bros. i Paramount-Skydance, pożegnała...",
-      "date_published": "2026-11-05T11:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Drastyczna-podwyzka-od-1-stycznia-piec-razy-wiecej-za-butelki-i-puszki-Co-to-oznacza-dla-konsumentow-9224066.html",
-      "url": "https://www.bankier.pl/wiadomosc/Drastyczna-podwyzka-od-1-stycznia-piec-razy-wiecej-za-butelki-i-puszki-Co-to-oznacza-dla-konsumentow-9224066.html",
-      "title": "Drastyczna podwyżka: pięć razy więcej za butelki. Co to oznacza dla konsumentów?",
-      "content_html": "Producenci napojów, którzy do końca roku nie zrealizują obowiązków dotyczących zbiórki opakowań i pozostaną poza systemem kaucyjnym, muszą liczyć się z olbrzymim wzrostem wydatków. Od 1 stycznia 2027 r. podstawowa stawka opłaty produktowej...",
-      "date_published": "2026-11-05T10:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Stare-bloki-weglowe-zostana-na-dluzej-Balczun-Moga-jeszcze-sporo-lat-stabilizowac-system-9224049.html",
-      "url": "https://www.bankier.pl/wiadomosc/Stare-bloki-weglowe-zostana-na-dluzej-Balczun-Moga-jeszcze-sporo-lat-stabilizowac-system-9224049.html",
-      "title": "Stare bloki węglowe zostaną na dłużej? Balczun: „Mogą jeszcze sporo lat stabilizować system”",
-      "content_html": "Stare bloki węglowe, tzw. dwusetki, mogą jeszcze sporo lat stabilizować polski system energetyczny, zwłaszcza w kontekście ostatnich wydarzeń na międzynarodowym rynku gazu - ocenił podczas konferencji EuroPOWER & OZE POWER minister aktywów...",
-      "date_published": "2026-11-05T10:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Arctic-Paper-lekko-negatywne-perspektywy-rynkowe-dla-spolki-pozostaja-niepewne-BM-PKO-BP-9224059.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Arctic-Paper-lekko-negatywne-perspektywy-rynkowe-dla-spolki-pozostaja-niepewne-BM-PKO-BP-9224059.html",
-      "title": "Wyniki Arctic Paper lekko negatywne. Perspektywy rynkowe dla spółki pozostają niepewne",
-      "content_html": "Analitycy BM PKO BP wyniki Arctic Paper za trzeci kwartał 2026 r., które okazały się niższe od oczekiwań, oceniają lekko negatywnie. Perspektywy rynkowe dla spółki pozostają niepewne, a BM PKO BP nadal dostrzega ryzyko w dół prognoz dla...",
-      "date_published": "2026-11-05T10:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-wojennej-hossy-na-gieldzie-Bolesny-cios-w-Rheinmetall-europejskiego-lidera-zbrojeniowki-9224060.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-wojennej-hossy-na-gieldzie-Bolesny-cios-w-Rheinmetall-europejskiego-lidera-zbrojeniowki-9224060.html",
-      "title": "Krach na akcjach Rheinmetallu. Zbrojeniowy gigant już 60 proc. od szczytu",
-      "content_html": "Dramatyczna wyprzedaż akcji europejskiego lidera sektora obronnego wstrząsnęła niemieckim rynkiem akcji po tym, jak Rheinmetall po raz kolejny w tym roku ściął prognozy wyników. Choć w księgach spółki wciąż widać imponujący wzrost przychodów...",
-      "date_published": "2026-11-05T10:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Revolut-zwalnia-pracownikow-Kolejna-fala-odejsc-w-europejskim-fintechu-9223964.html",
-      "url": "https://www.bankier.pl/wiadomosc/Revolut-zwalnia-pracownikow-Kolejna-fala-odejsc-w-europejskim-fintechu-9223964.html",
-      "title": "Revolut zwalnia pracowników. Kolejna fala odejść w europejskim fintechu",
-      "content_html": "Revolut pozbywa się kolejnych pracowników. Dziesiątki osób, w tym przedstawiciele działów sprzedaży w Wielkiej Brytanii i innych europejskich biurach, odchodzą z jednostki Revolut Business. Firma przekonuje, że nie prowadzi zwolnień, a odejścia...",
-      "date_published": "2026-11-05T10:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-serce-rosyjskiej-gospodarki-Plonie-rafineria-i-ogromny-magazyn-9224056.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-w-serce-rosyjskiej-gospodarki-Plonie-rafineria-i-ogromny-magazyn-9224056.html",
-      "title": "Ukraina uderzyła w serce rosyjskiej gospodarki. Płonie rafineria i ogromny magazyn",
-      "content_html": "Bezzałogowce ukraińskiej armii przeprowadziły w nocy ze środy na czwartek ataki na rafinerię oraz magazyn sieci logistycznej Wildberries w Riazaniu w europejskiej części Rosji – poinformował ukraiński portal Militarnyj, zajmujący się tematyką...",
-      "date_published": "2026-11-05T10:27:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
-      "url": "https://www.bankier.pl/wiadomosc/ABW-rozbila-siatke-szpiegowska-Pieciu-Polakow-i-Rosjanka-zatrzymani-za-wspieranie-rosyjskiej-armii-9224009.html",
-      "title": "ABW rozbiła siatkę szpiegowską. Pięciu Polaków i Rosjanka zatrzymani za wspieranie rosyjskiej armii",
-      "content_html": "Funkcjonariusze ABW zatrzymali 6 osób podejrzanych o udział w zorganizowanej grupie przestępczej działającej przeciwko Rzeczypospolitej Polskiej. Wśród zatrzymanych jest pięciu Polaków w wieku od 25 do 52 lat i 37-letnia Rosjanka - poinformował...",
-      "date_published": "2026-11-05T10:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tansza-ropa-wzmocnila-zlotego-Ale-niekorzystne-trendy-nie-zostaly-naruszone-9224048.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tansza-ropa-wzmocnila-zlotego-Ale-niekorzystne-trendy-nie-zostaly-naruszone-9224048.html",
-      "title": "Tańsza ropa wzmocniła złotego. Ale niekorzystne trendy nie zostały naruszone",
-      "content_html": "Silna środowa przecena ropy naftowej sprawiła, że kurs euro cofnął się poniżej 4,40 zł. Złotemu mógł też pomóc renesans oczekiwań na podwyżkę stóp procentowych w NBP.",
-      "date_published": "2026-11-05T10:15:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Burza-w-Sejmie-o-Trybunal-Konstytucyjny-Czarnek-apeluje-o-przedterminowe-wybory-9224038.html",
-      "url": "https://www.bankier.pl/wiadomosc/Burza-w-Sejmie-o-Trybunal-Konstytucyjny-Czarnek-apeluje-o-przedterminowe-wybory-9224038.html",
-      "title": "Burza w Sejmie o Trybunał Konstytucyjny. Czarnek apeluje o przedterminowe wybory",
-      "content_html": "Wiceprezes PiS Przemysław Czarnek zaapelował w czwartek w Sejmie, aby przeprowadzić wybory przedterminowe. Jego zdaniem, reset konstytucyjny w tej izbie oznacza „dogadanie się z zamachowcami”.",
-      "date_published": "2026-11-05T10:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Asbisu-do-202-zl-podtrzymuje-kupuj-9224026.html",
-      "url": "https://www.bankier.pl/wiadomosc/DM-BOS-podwyzszyl-wycene-akcji-Asbisu-do-202-zl-podtrzymuje-kupuj-9224026.html",
-      "title": "DM BOŚ podwyższył wycenę akcji Asbisu do 202 zł. Podtrzymuje \"kupuj\"",
-      "content_html": "Analitycy DM BOŚ, w raporcie z 28 października, podwyższyli wycenę akcji Asbisu w horyzoncie 12-miesięcznym do 202 zł z 127,2 zł wcześniej, utrzymując rekomendację \"kupuj\".",
-      "date_published": "2026-11-05T09:38:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-szykuje-reset-konstytucyjny-Czarzasty-ujawnia-plany-PSL-9224003.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-szykuje-reset-konstytucyjny-Czarzasty-ujawnia-plany-PSL-9224003.html",
-      "title": "Wicepremier szykuje reset konstytucyjny. Czarzasty ujawnia plany PSL",
-      "content_html": "W środę podczas spotkania koalicjantów wicepremier, szef MON, szef PSL Władysław Kosiniak-Kamysz przekazał, że będzie wnosił projekt resetu konstytucyjnego - poinformował w czwartek marszałek Sejmu Włodzimierz Czarzasty.",
-      "date_published": "2026-11-05T09:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-rozpoczyna-prace-nad-aktualizacja-strategii-chce-ja-przedstawic-wiosna-2027-r-9224019.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-rozpoczyna-prace-nad-aktualizacja-strategii-chce-ja-przedstawic-wiosna-2027-r-9224019.html",
-      "title": "PKO BP rozpoczyna prace nad aktualizacją strategii, chce ją przedstawić wiosną 2027 r.",
-      "content_html": "PKO BP rozpoczyna prace nad aktualizacją strategii, planuje przedstawić ją wiosną 2027 roku - poinformował prezes banku Szymon Midera.",
-      "date_published": "2026-11-05T09:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/FDA-pozytywnie-ocenila-kluczowe-zalozenia-rozwoju-MabionCD20-9224018.html",
-      "url": "https://www.bankier.pl/wiadomosc/FDA-pozytywnie-ocenila-kluczowe-zalozenia-rozwoju-MabionCD20-9224018.html",
-      "title": "FDA pozytywnie oceniła kluczowe założenia rozwoju MabionCD20",
-      "content_html": "Amerykańska Agencja ds. Żywności i Leków (FDA) pozytywnie oceniła kluczowe założenia rozwoju MabionCD20 - poinformował Mabion w komunikacie. Do końca listopada Mabion i strategiczny partner Oddifact SAS uzgodnią ostateczną strategię rozwoju...",
-      "date_published": "2026-11-05T09:28:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/InPost-zmienia-zasady-odbioru-paczek-Nowa-funkcja-o-ktorej-marzylo-wielu-ale-sa-haczyki-9223956.html",
-      "url": "https://www.bankier.pl/wiadomosc/InPost-zmienia-zasady-odbioru-paczek-Nowa-funkcja-o-ktorej-marzylo-wielu-ale-sa-haczyki-9223956.html",
-      "title": "InPost zmienia zasady odbioru paczek. Nowa funkcja, o której marzyło wielu, ale są haczyki",
-      "content_html": "InPost wprowadza zmiany przy odbieraniu paczek - teraz będzie można automatycznie przekierować wszystkie swoje przesyłki do paczkomatu. Usługa ta będzie bezpłatna, jednak firma Rafała Brzoski obwarowała ją kilkoma warunkami. Tak będzie działała...",
-      "date_published": "2026-11-05T09:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spor-o-budzet-TK-wchodzi-w-kolejny-etap-Trybunal-Konstytucyjny-walczy-o-budzet-9224011.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spor-o-budzet-TK-wchodzi-w-kolejny-etap-Trybunal-Konstytucyjny-walczy-o-budzet-9224011.html",
-      "title": "Spór o budżet TK wchodzi w kolejny etap. Trybunał Konstytucyjny walczy o pieniądze",
-      "content_html": "Marszałek Sejmu Włodzimierz Czarzasty poinformował w czwartek, że do Sejmu wpłynęła wtorkowa uchwała Trybunału Konstytucyjnego ws. budżetu tej instytucji na przyszły rok. Przekazał, że uchwała została skierowana do sejmowej Komisji Finansów...",
-      "date_published": "2026-11-05T09:18:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zamykaja-znana-fabryke-mebli-Prace-straci-cala-zaloga-9224005.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zamykaja-znana-fabryke-mebli-Prace-straci-cala-zaloga-9224005.html",
-      "title": "Koniec znanej fabryki mebli. Pracę straci prawie 260 osób",
-      "content_html": "Blisko 260 osób straci zatrudnienie w fabryce mebli Maripol w Kobylnicy. Powodem zwolnień jest zamknięcie zakładu – poinformowało Polskie Radio Koszalin.",
-      "date_published": "2026-11-05T09:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-III-kw-wzrost-przychodow-o-20-proc-sprzedaz-LFL-wzrosla-o-1-8-proc-9224001.html",
-      "url": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-III-kw-wzrost-przychodow-o-20-proc-sprzedaz-LFL-wzrosla-o-1-8-proc-9224001.html",
-      "title": "Świetny kwartał LPP. Przychody wzrosły o 20 proc., zyski w górę o niemal jedną trzecią",
-      "content_html": "Grupa LPP zanotowała w III kwartale, czyli w okresie sierpień-październik 2026 r., 20 proc. wzrost dynamiki przychodów w walutach stałych. Sprzedaż LFL wzrosła o 4,4 proc. - podała spółka w komunikacie.",
-      "date_published": "2026-11-05T09:04:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miedz-geopolityka-i-odpornosc-na-kryzysy-Co-napedzi-polska-gospodarke-do-2030-roku-9218229.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miedz-geopolityka-i-odpornosc-na-kryzysy-Co-napedzi-polska-gospodarke-do-2030-roku-9218229.html",
-      "title": "Polskie firmy ruszają w świat. Jak zagraniczna ekspansja KGHM napędza krajowy biznes?",
-      "content_html": "Międzynarodowa obecność koncernów surowcowych to również impuls rozwojowy dla całego ekosystemu rodzimej gospodarki. Podczas Forum Finansów Bankiera Piotr Krzyżewski, wiceprezes KGHM ds. finansowych i handlu , zwrócił uwagę na to, jak zagraniczna...",
-      "date_published": "2026-11-05T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zetki-coraz-smielej-inwestuja-Zaskakujace-co-wybieraja-zamiast-kryptowalut-9220899.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zetki-coraz-smielej-inwestuja-Zaskakujace-co-wybieraja-zamiast-kryptowalut-9220899.html",
-      "title": "Zetki coraz śmielej inwestują. Zaskakujące, co wybierają zamiast kryptowalut",
-      "content_html": "Obraz inwestora kojarzący się z maklerem w garniturze z „Wilka z Wall Street” bezpowrotnie odchodzi do lamusa. Współczesny rynek finansowy przechodzi głęboką transformację, a próg wejścia do świata inwestycji uległ znacznemu obniżeniu...",
-      "date_published": "2026-11-05T09:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu-hipotecznego-wywiad-9223998.html",
-      "url": "https://www.bankier.pl/wiadomosc/PKO-BP-chce-utrzymac-dwucyfrowy-wzrost-kredytow-wdrozy-modelowa-umowe-kredytu-hipotecznego-wywiad-9223998.html",
-      "title": "PKO BP chce utrzymać dwucyfrowy wzrost kredytów. Wdroży modelową umowę",
-      "content_html": "PKO BP spodziewa się, że w najbliższych kwartałach utrzyma dwucyfrowe tempo wzrostu kredytów i zakłada, że przy utrzymaniu obecnego poziomu stóp wzrost kredytów będzie nadal wspierał marżę odsetkową. Do końca roku bank chce wdrożyć modelową...",
-      "date_published": "2026-11-05T08:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-wycene-Digital-Network-do-324-zl-9223993.html",
-      "url": "https://www.bankier.pl/wiadomosc/East-Value-Research-obnizyl-wycene-Digital-Network-do-324-zl-9223993.html",
-      "title": "East Value Research obniżył wycenę Digital Network do 324 zł",
-      "content_html": "Analitycy East Value Research, w raporcie z 5 listopada, obniżyli 12-miesięczną cenę docelową Digital Network z 331,20 zł do 324 zł oraz podwyższyli rekomendację z „akumuluj” do „kupuj”.",
-      "date_published": "2026-11-05T08:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Arctic-Paper-w-III-kw-2026-r-mial-9-7-mln-zl-EBITDA-mocno-ponizej-konsensusu-9223990.html",
-      "url": "https://www.bankier.pl/wiadomosc/Arctic-Paper-w-III-kw-2026-r-mial-9-7-mln-zl-EBITDA-mocno-ponizej-konsensusu-9223990.html",
-      "title": "Arctic Paper w III kw. 2026 r. miał 9,7 mln zł EBITDA. Mocno poniżej konsensusu",
-      "content_html": "Arctic Paper odnotował w III kwartale 2026 roku EBITDA na poziomie 9,7 mln zł, a konsensus PAP Biznes zakładał 20,5 mln zł EBITDA. W tym okresie przychody wyniosły 736,6 mln zł wobec 758,2 mln zł konsensusu.",
-      "date_published": "2026-11-05T08:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Najlepsza-sesja-Toyoty-od-39-lat-Japonski-kolos-wystrzelil-o-17-proc-i-rozpoczyna-marsz-w-strone-robotyki-9223965.html",
-      "url": "https://www.bankier.pl/wiadomosc/Najlepsza-sesja-Toyoty-od-39-lat-Japonski-kolos-wystrzelil-o-17-proc-i-rozpoczyna-marsz-w-strone-robotyki-9223965.html",
-      "title": "Najlepsza sesja Toyoty od 39 lat. Japoński kolos rozpoczyna marsz w stronę robotyki",
-      "content_html": "Japoński gigant motoryzacyjny podniósł całoroczną prognozę zysku operacyjnego o 15 proc., korzystając z silnego popytu na modele hybrydowe oraz ogłaszając rekordowe zwroty dla akcjonariuszy. W reakcji na wyniki akcje Toyoty w Tokio podrożały...",
-      "date_published": "2026-11-05T08:15:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
