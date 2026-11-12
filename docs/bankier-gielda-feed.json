@@ -4,11 +4,67 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
+      "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej Grupa Torpol wstępnie szacuje, że po trzech kwartałach 2026 roku jej skonsolidowany zysk netto wzrósł do 50,1 mln zł z 48,3 mln zł przed rokiem. Analitycy ankietowani przez PAP Biznes spodziewali się 59,7 mln zł zysku netto.",
+      "content_html": "",
+      "date_published": "2026-11-12T22:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa-nasion-roslin-oleistych-9228119.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa-nasion-roslin-oleistych-9228119.html",
+      "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych Kernel Holding podjął decyzję o tymczasowym zawieszeniu działalności we wszystkich swoich zakładach przetwórstwa nasion roślin oleistych w związku z nasileniem rosyjskich ataków na ukraiński sektor rolniczy - podała spółka w komunikacie. (PAP Biznes)",
+      "content_html": "",
+      "date_published": "2026-11-12T19:18:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Nvidii-Jensen-Huang-odchodzi-po-aferze-szpiegowskiej-9227904.html",
       "url": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Nvidii-Jensen-Huang-odchodzi-po-aferze-szpiegowskiej-9227904.html",
       "title": "Wstrząs w Nvidii. Jensen Huang odchodzi po aferze szpiegowskiej Szef i współzałożyciel Nvidii Jensen Huang zrezygnował w czwartek ze stanowisk prezesa, dyrektora generalnego (CEO) oraz członka rady dyrektorów ze skutkiem natychmiastowym - poinformowała firma w komunikacie.",
       "content_html": "",
-      "date_published": "2026-11-12T15:17:00+01:00"
+      "date_published": "2026-11-12T18:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/S-P-podtrzymal-ocene-ratingowa-PZU-na-poziomie-A-9228067.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P-podtrzymal-ocene-ratingowa-PZU-na-poziomie-A-9228067.html",
+      "title": "S&P podtrzymał ocenę ratingową PZU na poziomie \"A-\" Agencja S&P Global Ratings podtrzymała ocenę ratingową PZU na poziomie \"A-\" z perspektywą pozytywną, mimo obniżenia ratingu Polski w walucie lokalnej do \"A-\" z \"A\" - poinformowała agencja w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-11-12T17:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-III-kw-2026-r-vs-konsensus-PAP-tabela-9228061.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-III-kw-2026-r-vs-konsensus-PAP-tabela-9228061.html",
+      "title": "Wyniki AmRestu w III kw. 2026 r. vs konsensus PAP (tabela) Poniżej przedstawiono wyniki AmRestu w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP oraz do wyników poprzednich okresów.",
+      "content_html": "",
+      "date_published": "2026-11-12T17:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Green-Lanes-planuje-emisje-do-500-tys-nowych-akcji-9228047.html",
+      "url": "https://www.bankier.pl/wiadomosc/Green-Lanes-planuje-emisje-do-500-tys-nowych-akcji-9228047.html",
+      "title": "Green Lanes planuje emisję do 500 tys. nowych akcji Zarząd Green Lanes podjął decyzję o pozyskaniu dodatkowego finansowania i planuje przeprowadzić emisję do 500 tys. nowych akcji - podała spółka w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-11-12T17:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html",
+      "url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html",
+      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą wzrostów w indeksie WIG20 było Allegro, napędzane lepszymi od oczekiwań wynikami. Pozytywny sentyment wspierały również Orlen oraz sektor bankowy.",
+      "content_html": "",
+      "date_published": "2026-11-12T17:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Creepy-Jar-szacuje-zysk-netto-w-III-kw-na-1-1-mln-zl-wobec-2-1-mln-zl-konsensusu-9228031.html",
+      "url": "https://www.bankier.pl/wiadomosc/Creepy-Jar-szacuje-zysk-netto-w-III-kw-na-1-1-mln-zl-wobec-2-1-mln-zl-konsensusu-9228031.html",
+      "title": "Creepy Jar szacuje zysk netto w III kw. na 1,1 mln zł, wobec 2,1 mln zł konsensusu Creepy Jar szacuje, że miał w III kw. 2026 roku 1,1 mln zł zysku, wobec 2,6 mln zł w analogicznym okresie poprzedniego roku - podał producent gier w komunikacie. Konsensus PAP Biznes zakładał 2,1 mln zł zysku netto.",
+      "content_html": "",
+      "date_published": "2026-11-12T17:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-z-grupy-Niewiadow-PGM-z-decyzja-o-wsparciu-inwestycji-w-produkcje-amunicji-40-mm-9227969.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-z-grupy-Niewiadow-PGM-z-decyzja-o-wsparciu-inwestycji-w-produkcje-amunicji-40-mm-9227969.html",
+      "title": "Niewiadów stawia na produkcję amunicji. Powstanie nowy zakład Zarząd Łódzkiej Specjalnej Strefy Ekonomicznej wydał decyzję o wsparciu inwestycji spółki z grupy Niewiadów PGM, Fabryki Amunicji Pocisk, w produkcję amunicji 40 mm - poinformował Niewiadów PGM w komunikacie.",
+      "content_html": "",
+      "date_published": "2026-11-12T16:10:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-Litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-Orlen-Lietuva-9227912.html",
@@ -184,48 +240,6 @@
       "title": "ZCh Police podpisały list intencyjny z Grupą Azoty dot. dokapitalizowania spółki Grupa Azoty Zakłady Chemiczne \"Police\" podpisała list intencyjny z jednostką dominującą Grupą Azoty w sprawie możliwego dokapitalizowania spółki - poinformowały Police w komunikacie. Plan zakłada emisję do 60 mln nowych akcji Polic, które miałyby zostać objęte wyłącznie przez Grupę Azoty.",
       "content_html": "",
       "date_published": "2026-11-10T23:32:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-wypowiedzial-jedna-z-dwoch-umow-dlugoterminowych-na-dostawy-skroplonego-gazu-ziemnego-zawartych-z-QatarEnergy-9227166.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-wypowiedzial-jedna-z-dwoch-umow-dlugoterminowych-na-dostawy-skroplonego-gazu-ziemnego-zawartych-z-QatarEnergy-9227166.html",
-      "title": "Orlen wypowiada kontrakt na katarski gaz. Wartość kontraktu szacowana na 570 mln euro Orlen wypowiedział jedną z dwóch umów długoterminowych na dostawy skroplonego gazu ziemnego zawartych z Qatar Liquefied Gas Company Limited (obecnie QatarEnergy LNG) z uwagi na utrzymującą się siłę wyższą skutkującą brakiem dostaw - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-10T20:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cognor-Holding-planuje-pozyskanie-finansowania-w-drodze-emisji-akcji-9227092.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cognor-Holding-planuje-pozyskanie-finansowania-w-drodze-emisji-akcji-9227092.html",
-      "title": "Cognor Holding planuje pozyskanie finansowania w drodze emisji akcji Cognor Holding planuje przeprowadzenie oferty publicznej w trybie subskrypcji prywatnej maksymalnie 27.840.000 nowych akcji z wyłączeniem prawa poboru, co stanowi 12,0 proc. obecnego kapitału - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-11-10T18:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-32-zl-na-akcje-9227075.html",
-      "url": "https://www.bankier.pl/wiadomosc/iFirma-wyplaci-zaliczke-na-poczet-dywidendy-w-wysokosci-0-32-zl-na-akcje-9227075.html",
-      "title": "iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję iFirma wypłaci zaliczkę na poczet dywidendy w wysokości 0,32 zł na akcję - poinformowała spółka w komunikacie. Wypłata ta dotyczy III kwartału 2026 roku.",
-      "content_html": "",
-      "date_published": "2026-11-10T17:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przecena-Orlenu-zatrzymana-Uderzenie-popytu-w-ostatnich-minutach-sesji-9227046.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przecena-Orlenu-zatrzymana-Uderzenie-popytu-w-ostatnich-minutach-sesji-9227046.html",
-      "title": "Przecena Orlenu zatrzymana. Uderzenie popytu w ostatnich minutach sesji Podczas gdy Wall Street uginała się pod ciężarem jastrzębich obaw o politykę Rezerwy Federalnej, na GPW i pozostałych rynkach Europy dominowały wzrosty, co tłumaczono gwałtownym spadkiem cen surowców energetycznych. Na krajowym parkiecie znów brylowała branża odzieżowa, wspomagana przez banki i CD Projekt, ale wartym odnotowania jest zatrzymanie przeceny Orlenu mi najniższych od września cen ropy.",
-      "content_html": "",
-      "date_published": "2026-11-10T17:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Delko-chce-by-spolka-wyplacila-0-65-zl-dywidendy-nadzwyczajnej-na-akcje-9226991.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcjonariusz-Delko-chce-by-spolka-wyplacila-0-65-zl-dywidendy-nadzwyczajnej-na-akcje-9226991.html",
-      "title": "Akcjonariusz Delko chce, by spółka wypłaciła 0,65 zł dywidendy nadzwyczajnej na akcję Akcjonariusz Delko, Dariusz Kawecki chce, by spółka wypłaciła 0,65 zł dywidendy nadzwyczajnej na akcję z kapitału zapasowego w łącznej kwocie 7,77 mln zł - podała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-10T16:34:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-wylacznosc-na-negocjacje-nabycia-podmiotu-z-branzy-transportowo-logistycznej-9226824.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trans-Polonia-ma-wylacznosc-na-negocjacje-nabycia-podmiotu-z-branzy-transportowo-logistycznej-9226824.html",
-      "title": "Trans Polonia planuje duże przejęcie. Polska spółka chce połknąć zachodniego giganta Trans Polonia zawarła umowę o wyłączności negocjacyjnej dotyczącą transakcji potencjalnego nabycia targetu działającego w branży transportowo-logistycznej, z rocznym obrotem w zakresie od 200 do 300 mln euro - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-10T16:23:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"

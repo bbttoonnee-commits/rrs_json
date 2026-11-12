@@ -4,25 +4,263 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
+      "url": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
+      "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej",
+      "content_html": "Grupa Torpol wstępnie szacuje, że po trzech kwartałach 2026 roku jej skonsolidowany zysk netto wzrósł do 50,1 mln zł z 48,3 mln zł przed rokiem. Analitycy ankietowani przez PAP Biznes spodziewali się 59,7 mln zł zysku netto.",
+      "date_published": "2026-11-12T22:20:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tysiace-szkol-sparalizowane-Fala-falszywych-alarmow-bombowych-uderza-we-Wlochy-9227816.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tysiace-szkol-sparalizowane-Fala-falszywych-alarmow-bombowych-uderza-we-Wlochy-9227816.html",
+      "title": "Tysiące szkół sparaliżowane. Fala fałszywych alarmów bombowych uderza we Włochy",
+      "content_html": "Włoski rząd poinformował w czwartek, że 3778 szkół otrzymało wiadomości e-mail z informacjami o rzekomo podłożonych materiałach wybuchowych. Ewakuacje przeprowadzono w 77 placówkach, a w 36 z nich zajęcia wznowiono jeszcze tego samego dnia...",
+      "date_published": "2026-11-12T20:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Stala-baza-wojsk-USA-w-Polsce-Znamy-mozliwy-termin-decyzji-Trumpa-9228129.html",
+      "url": "https://www.bankier.pl/wiadomosc/Stala-baza-wojsk-USA-w-Polsce-Znamy-mozliwy-termin-decyzji-Trumpa-9228129.html",
+      "title": "Stała baza wojsk USA w Polsce. Znamy możliwy termin decyzji Trumpa",
+      "content_html": "Decyzji w sprawie stałej bazy amerykańskiej w Polsce powinniśmy spodziewać się 3 lub 4 grudnia – powiedziała w czwartek wiceszefowa MON Magdalena Sobkowiak-Czarnecka.",
+      "date_published": "2026-11-12T20:25:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polska-i-Ukraina-zaciesnia-wspolprace-W-Kijowie-powolano-nowa-rade-9228098.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polska-i-Ukraina-zaciesnia-wspolprace-W-Kijowie-powolano-nowa-rade-9228098.html",
+      "title": "Polska i Ukraina zacieśnią współpracę? W Kijowie powołano nową radę",
+      "content_html": "W Radzie Najwyższej (parlamencie) Ukrainy utworzono Radę Współpracy z Polską. Jej zadaniem będzie zacieśnianie współpracy parlamentarnej obu państw oraz angażowanie różnych środowisk w rozwijanie przyjaznych stosunków polsko-ukraińskich...",
+      "date_published": "2026-11-12T19:46:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Huti-uderzyli-w-obiekty-Aramco-Celem-takze-strategiczny-ropociag-9228123.html",
+      "url": "https://www.bankier.pl/wiadomosc/Huti-uderzyli-w-obiekty-Aramco-Celem-takze-strategiczny-ropociag-9228123.html",
+      "title": "Huti uderzyli w obiekty Aramco. Celem także strategiczny ropociąg",
+      "content_html": "Jemeńscy proirańscy rebelianci Huti poinformowali w czwartek o zaatakowaniu ropociągu Wschód-Zachód oraz terminalu naftowego w mieście Janbu w Arabii Saudyjskiej. Zapewnili też, że nie zaatakowali Mekki.",
+      "date_published": "2026-11-12T19:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Witkoff-i-Kushner-zakonczyli-rozmowy-z-Putinem-Co-dalej-z-negocjacjami-9227982.html",
+      "url": "https://www.bankier.pl/wiadomosc/Witkoff-i-Kushner-zakonczyli-rozmowy-z-Putinem-Co-dalej-z-negocjacjami-9227982.html",
+      "title": "Witkoff i Kushner zakończyli rozmowy z Putinem. Co dalej z negocjacjami?",
+      "content_html": "Wysłannicy prezydenta USA Steve Witkoff i Jared Kushner zakończyli w czwartek spotkanie na Kremlu z rosyjskim przywódcą Władimirem Putinem - poinformowała agencja AFP. Rozmowa dotyczyła możliwości zakończenia wojny Rosji z Ukrainą.",
+      "date_published": "2026-11-12T19:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-Meksykowi-Cla-na-towary-moga-wzrosnac-dwukrotnie-9227909.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-Meksykowi-Cla-na-towary-moga-wzrosnac-dwukrotnie-9227909.html",
+      "title": "Trump grozi Meksykowi. Cła na towary mogą wzrosnąć dwukrotnie",
+      "content_html": "Prezydent USA Donald Trump zagroził w czwartek podwojeniem ceł na towary z Meksyku, jeśli władze tego kraju nie powstrzymają grupy migrantów zmierzających w kierunku granicy ze Stanami Zjednoczonymi.",
+      "date_published": "2026-11-12T19:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa-nasion-roslin-oleistych-9228119.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kernel-zdecydowal-o-tymczasowym-zawieszeniu-dzialalnosci-zakladow-przetworstwa-nasion-roslin-oleistych-9228119.html",
+      "title": "Kernel zdecydował o tymczasowym zawieszeniu działalności zakładów przetwórstwa nasion roślin oleistych",
+      "content_html": "Kernel Holding podjął decyzję o tymczasowym zawieszeniu działalności we wszystkich swoich zakładach przetwórstwa nasion roślin oleistych w związku z nasileniem rosyjskich ataków na ukraiński sektor rolniczy - podała spółka w komunikacie...",
+      "date_published": "2026-11-12T19:18:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/12-Firma-doradcy-ministra-pod-lupa-Krajewski-sprawdza-zlecenia-KOWR-9228108.html",
+      "url": "https://www.bankier.pl/wiadomosc/12-Firma-doradcy-ministra-pod-lupa-Krajewski-sprawdza-zlecenia-KOWR-9228108.html",
+      "title": "Firma doradcy ministra pod lupą. Krajewski sprawdza zlecenia KOWR",
+      "content_html": "Minister rolnictwa Stefan Krajewski przekazał, że zlecił sprawdzenie wszystkich zleceń z Krajowego Ośrodka Wsparcia Rolnictwa dla spółki powiązanej z bliskimi jego społecznego doradcy. Zdaniem mediów firma miała w ciągu ostatnich trzech...",
+      "date_published": "2026-11-12T18:48:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Putin-proponuje-wspolprace-z-Kijowem-Jednoczesnie-ostrzega-Europe-9227921.html",
       "url": "https://www.bankier.pl/wiadomosc/Putin-proponuje-wspolprace-z-Kijowem-Jednoczesnie-ostrzega-Europe-9227921.html",
       "title": "Putin proponuje współpracę z Kijowem. Jednocześnie ostrzega Europę",
       "content_html": "Przywódca Rosji Władimir Putin zaproponował w czwartek w Moskwie amerykańskim wysłannikom Steve'owi Witkoffowi i Jaredowi Kushnerowi przeprowadzenie wspólnej rosyjsko-ukraińskiej misji humanitarnej w Konstantynówce we wschodniej Ukrainie -...",
-      "date_published": "2026-11-12T15:19:00+01:00"
+      "date_published": "2026-11-12T18:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Pieniadze-PAZP-nie-pojda-na-splate-Pfizera-Jest-decyzja-belgijskiego-sadu-9227955.html",
+      "url": "https://www.bankier.pl/wiadomosc/Pieniadze-PAZP-nie-pojda-na-splate-Pfizera-Jest-decyzja-belgijskiego-sadu-9227955.html",
+      "title": "Pieniądze PAŻP nie pójdą na spłatę Pfizera. Jest decyzja belgijskiego sądu",
+      "content_html": "Sąd w Belgii uchylił w czwartek o zajęciu środków Polskiej Agencji Żeglugi Powietrznej (PAŻP) na rzecz koncernu farmaceutycznego Pfizer. Przychylił się tym samym do skargi PAŻP, która dowodziła, że nie jest stroną sporu między Pfizerem...",
+      "date_published": "2026-11-12T18:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-pozwal-dziennikarzy-Onetu-Sad-wyznaczyl-termin-pierwszej-rozpraw-9228095.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-pozwal-dziennikarzy-Onetu-Sad-wyznaczyl-termin-pierwszej-rozpraw-9228095.html",
+      "title": "Nawrocki pozwał dziennikarzy Onetu. Sąd wyznaczył termin pierwszej rozpraw",
+      "content_html": "Na 11 stycznia 2027 r. został wyznaczony w czwartek termin pierwszej rozprawy w sprawie z prywatnego aktu oskarżenia, który Karol Nawrocki - jeszcze w trakcie kampanii prezydenckiej - skierował wobec dwóch dziennikarzy portalu Onet. Chodzi o opublikowany...",
+      "date_published": "2026-11-12T18:26:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Nvidii-Jensen-Huang-odchodzi-po-aferze-szpiegowskiej-9227904.html",
       "url": "https://www.bankier.pl/wiadomosc/Wstrzas-w-Nvidii-Jensen-Huang-odchodzi-po-aferze-szpiegowskiej-9227904.html",
       "title": "Wstrząs w Nvidii. Jensen Huang odchodzi po aferze szpiegowskiej",
       "content_html": "Szef i współzałożyciel Nvidii Jensen Huang zrezygnował w czwartek ze stanowisk prezesa, dyrektora generalnego (CEO) oraz członka rady dyrektorów ze skutkiem natychmiastowym - poinformowała firma w komunikacie.",
-      "date_published": "2026-11-12T15:17:00+01:00"
+      "date_published": "2026-11-12T18:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/WPolsce24-odmawia-wydania-nagran-policji-Wczesniej-pismo-dostala-TV-Republika-9228080.html",
+      "url": "https://www.bankier.pl/wiadomosc/WPolsce24-odmawia-wydania-nagran-policji-Wczesniej-pismo-dostala-TV-Republika-9228080.html",
+      "title": "WPolsce24 odmawia wydania nagrań policji. Wcześniej pismo dostała TV Republika",
+      "content_html": "Redakcja telewizji wPolsce24 otrzymała w czwartek oficjalne pisma policji z żądaniem wydania nagrań wideo z październikowej manifestacji przed Trybunałem Konstytucyjnym — poinformował portal wPolsce24.tv. Wcześniej policja wystąpiła z podobnym...",
+      "date_published": "2026-11-12T18:11:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/S-P-podtrzymal-ocene-ratingowa-PZU-na-poziomie-A-9228067.html",
+      "url": "https://www.bankier.pl/wiadomosc/S-P-podtrzymal-ocene-ratingowa-PZU-na-poziomie-A-9228067.html",
+      "title": "S&P podtrzymał ocenę ratingową PZU na poziomie \"A-\"",
+      "content_html": "Agencja S&P Global Ratings podtrzymała ocenę ratingową PZU na poziomie \"A-\" z perspektywą pozytywną, mimo obniżenia ratingu Polski w walucie lokalnej do \"A-\" z \"A\" - poinformowała agencja w komunikacie.",
+      "date_published": "2026-11-12T17:58:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-III-kw-2026-r-vs-konsensus-PAP-tabela-9228061.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wyniki-AmRestu-w-III-kw-2026-r-vs-konsensus-PAP-tabela-9228061.html",
+      "title": "Wyniki AmRestu w III kw. 2026 r. vs konsensus PAP (tabela)",
+      "content_html": "Poniżej przedstawiono wyniki AmRestu w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP oraz do wyników poprzednich okresów.",
+      "date_published": "2026-11-12T17:52:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Unia-Europejska-zapowiada-pomoc-Ukrainie-500-generatorow-przed-zima-9228028.html",
+      "url": "https://www.bankier.pl/wiadomosc/Unia-Europejska-zapowiada-pomoc-Ukrainie-500-generatorow-przed-zima-9228028.html",
+      "title": "Unia Europejska zapowiada pomoc Ukrainie. 500 generatorów przed zimą",
+      "content_html": "Unia Europejska będzie nadal wspierać Ukrainę finansowo i militarnie oraz uczestniczyć w działaniach na rzecz osiągnięcia sprawiedliwego i trwałego pokoju - oświadczyli w Dublinie przewodnicząca Komisji Europejskiej Ursula von der Leyen i przewodniczący...",
+      "date_published": "2026-11-12T17:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Zelenski-spotkal-sie-z-Tuskiem-Rozmawiali-o-paliwie-i-bezpieczenstwie-Ukrainy-9228057.html",
+      "url": "https://www.bankier.pl/wiadomosc/Zelenski-spotkal-sie-z-Tuskiem-Rozmawiali-o-paliwie-i-bezpieczenstwie-Ukrainy-9228057.html",
+      "title": "Zełenski spotkał się z Tuskiem. Rozmawiali o paliwie i bezpieczeństwie Ukrainy",
+      "content_html": "Prezydent Wołodymyr Zełenski poinformował w czwartek w Dublinie, że spotkał się z premierem Polski Donaldem Tuskiem i omówił z nim rosyjskie ataki na Ukrainę, wsparcie Polski w przygotowaniach do zimy oraz rozszerzenie połączeń na potrzeby...",
+      "date_published": "2026-11-12T17:48:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Green-Lanes-planuje-emisje-do-500-tys-nowych-akcji-9228047.html",
+      "url": "https://www.bankier.pl/wiadomosc/Green-Lanes-planuje-emisje-do-500-tys-nowych-akcji-9228047.html",
+      "title": "Green Lanes planuje emisję do 500 tys. nowych akcji",
+      "content_html": "Zarząd Green Lanes podjął decyzję o pozyskaniu dodatkowego finansowania i planuje przeprowadzić emisję do 500 tys. nowych akcji - podała spółka w komunikacie.",
+      "date_published": "2026-11-12T17:44:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Polak-zatrzymany-na-granicy-z-Niemcami-Sad-uznal-kontrole-za-niezgodna-z-prawem-9228045.html",
+      "url": "https://www.bankier.pl/wiadomosc/Polak-zatrzymany-na-granicy-z-Niemcami-Sad-uznal-kontrole-za-niezgodna-z-prawem-9228045.html",
+      "title": "Polak zatrzymany na granicy z Niemcami. Sąd uznał kontrolę za niezgodną z prawem",
+      "content_html": "Kontrole graniczne zarządzone przez niemieckie ministerstwo spraw wewnętrznych na granicach z Polską i Czechami były niezgodne z prawem - orzekł w czwartek sąd administracyjny w Dreźnie. Wyroki są nieprawomocne.",
+      "date_published": "2026-11-12T17:41:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html",
+      "url": "https://www.bankier.pl/wiadomosc/Warszawa-liderem-wzrostow-w-Europie-Allegro-Orlen-i-banki-ciagna-GPW-w-gore-9227989.html",
+      "title": "Warszawa liderem wzrostów w Europie. Allegro, Orlen i banki ciągną GPW w górę",
+      "content_html": "Czwartkowa sesja na warszawskim parkiecie przyniosła wyraźną przewagę strony popytowej, czyniąc z głównych indeksów GPW najsilniejsze benchmarki w Europie. Warszawska giełda skutecznie oparła się ospałym nastrojom na rynkach bazowych. Lokomotywą...",
+      "date_published": "2026-11-12T17:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Creepy-Jar-szacuje-zysk-netto-w-III-kw-na-1-1-mln-zl-wobec-2-1-mln-zl-konsensusu-9228031.html",
+      "url": "https://www.bankier.pl/wiadomosc/Creepy-Jar-szacuje-zysk-netto-w-III-kw-na-1-1-mln-zl-wobec-2-1-mln-zl-konsensusu-9228031.html",
+      "title": "Creepy Jar szacuje zysk netto w III kw. na 1,1 mln zł, wobec 2,1 mln zł konsensusu",
+      "content_html": "Creepy Jar szacuje, że miał w III kw. 2026 roku 1,1 mln zł zysku, wobec 2,6 mln zł w analogicznym okresie poprzedniego roku - podał producent gier w komunikacie. Konsensus PAP Biznes zakładał 2,1 mln zł zysku netto.",
+      "date_published": "2026-11-12T17:30:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Waszyngtonu-Co-najmniej-cztery-osoby-postrzelone-9227892.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Waszyngtonu-Co-najmniej-cztery-osoby-postrzelone-9227892.html",
+      "title": "Strzelanina w centrum Waszyngtonu. Co 4 osoby ranne, 1 osoba nie żyje",
+      "content_html": "Jedna osoba zginęła, a cztery zostały ranione przez mężczyznę podczas strzelaniny na siłowni w Waszyngtonie - poinformowała stołeczna policja. Według mediów sprawca popełnił samobójstwo.",
+      "date_published": "2026-11-12T17:27:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Byly-kandydat-na-prezydenta-Rumunii-oskarzony-Chodzi-o-1-1-mln-euro-9228023.html",
+      "url": "https://www.bankier.pl/wiadomosc/Byly-kandydat-na-prezydenta-Rumunii-oskarzony-Chodzi-o-1-1-mln-euro-9228023.html",
+      "title": "Były kandydat na prezydenta Rumunii oskarżony. Chodzi o 1,1 mln euro",
+      "content_html": "Rumuńska prokuratura poinformowała w czwartek o oskarżeniu byłego prorosyjskiego kandydata na prezydenta Calina Georgescu o zorganizowanie oszustwa na sumę 1,1 mln euro.",
+      "date_published": "2026-11-12T17:23:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-zajmie-sie-wyrokami-TK-Chodzi-o-nieopublikowane-orzeczenia-9228019.html",
+      "url": "https://www.bankier.pl/wiadomosc/Sad-Najwyzszy-zajmie-sie-wyrokami-TK-Chodzi-o-nieopublikowane-orzeczenia-9228019.html",
+      "title": "Sąd Najwyższy zajmie się wyrokami TK. Chodzi o nieopublikowane orzeczenia",
+      "content_html": "Sąd Najwyższy w składzie trzech połączonych Izb 18 listopada ma zająć się pytaniami prezes Izby Cywilnej Joanny Misztal-Koneckiej o to, czy wyroki Trybunału Konstytucyjnego obowiązują od ogłoszenia, choć rząd nie opublikował ich w Dzienniku...",
+      "date_published": "2026-11-12T17:21:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spor-o-Trybunal-Konstytucyjny-Prezydent-zaprasza-politykow-do-rozmow-9227940.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spor-o-Trybunal-Konstytucyjny-Prezydent-zaprasza-politykow-do-rozmow-9227940.html",
+      "title": "Spór o Trybunał Konstytucyjny. Prezydent zaprasza polityków do rozmów",
+      "content_html": "Prezydent Karol Nawrocki zaprasza przedstawicieli środowisk politycznych na poniedziałek, by porozmawiać o uzdrowieniu sytuacji w Trybunale Konstytucyjnym. Do prowadzenia spotkania wyznaczony został szef prezydenckiej kancelarii Zbigniew Bogucki...",
+      "date_published": "2026-11-12T17:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Impas-pod-brama-Trybunalu-Konstytucyjnego-Postanowienie-SN-kontra-stanowisko-kierujacej-9227729.html",
+      "url": "https://www.bankier.pl/wiadomosc/Impas-pod-brama-Trybunalu-Konstytucyjnego-Postanowienie-SN-kontra-stanowisko-kierujacej-9227729.html",
+      "title": "Impas pod bramą Trybunału Konstytucyjnego. Postanowienie SN kontra stanowisko kierującej",
+      "content_html": "Bogdan Święczkowski, który w czwartek przed południem przybył przed siedzibę Trybunału Konstytucyjnego, zaapelował do pilnujących TK policjantów o otwarcie bramy i wpuszczenie go do Trybunału. Zwracał się też, aby odebrać od niego...",
+      "date_published": "2026-11-12T16:49:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Policja-w-siedzibie-TV-Republika-Prokuratura-zada-nagran-i-dokumentacji-9227733.html",
+      "url": "https://www.bankier.pl/wiadomosc/Policja-w-siedzibie-TV-Republika-Prokuratura-zada-nagran-i-dokumentacji-9227733.html",
+      "title": "Policja w siedzibie TV Republika. Prokuratura żąda nagrań i dokumentacji",
+      "content_html": "Na polecenie Prokuratury Okręgowej w Szczecinie policja dostarczyła w czwartek kierownictwu Telewizji Republika dokument z żądaniem wydania zapisu rejestrowego i dokumentacji koncesyjnej. Ma to związek z prowadzonym postępowaniem dotyczącym...",
+      "date_published": "2026-11-12T16:37:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Zelenski-apeluje-do-Europy-o-czujnosc-W-tle-rozmowy-z-Moskwa-9227841.html",
       "url": "https://www.bankier.pl/wiadomosc/Zelenski-apeluje-do-Europy-o-czujnosc-W-tle-rozmowy-z-Moskwa-9227841.html",
       "title": "Zełenski apeluje do Europy o czujność. W tle rozmowy z Moskwą",
       "content_html": "Prezydent Wołodymyr Zełenski powiedział w czwartek w Dublinie liderom państw europejskich, że Europa musi zachować czujność w rozmowach o gwarancjach bezpieczeństwa. Według niego Amerykanom i Rosjanom chodzi o stworzenie nowych ram bezpieczeństwa...",
-      "date_published": "2026-11-12T15:16:00+01:00"
+      "date_published": "2026-11-12T16:22:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Spolka-z-grupy-Niewiadow-PGM-z-decyzja-o-wsparciu-inwestycji-w-produkcje-amunicji-40-mm-9227969.html",
+      "url": "https://www.bankier.pl/wiadomosc/Spolka-z-grupy-Niewiadow-PGM-z-decyzja-o-wsparciu-inwestycji-w-produkcje-amunicji-40-mm-9227969.html",
+      "title": "Niewiadów stawia na produkcję amunicji. Powstanie nowy zakład",
+      "content_html": "Zarząd Łódzkiej Specjalnej Strefy Ekonomicznej wydał decyzję o wsparciu inwestycji spółki z grupy Niewiadów PGM, Fabryki Amunicji Pocisk, w produkcję amunicji 40 mm - poinformował Niewiadów PGM w komunikacie.",
+      "date_published": "2026-11-12T16:10:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Rosyjska-branza-naftowa-pod-presja-Wielka-Brytania-rozszerza-sankcje-9227960.html",
+      "url": "https://www.bankier.pl/wiadomosc/Rosyjska-branza-naftowa-pod-presja-Wielka-Brytania-rozszerza-sankcje-9227960.html",
+      "title": "Rosyjska branża naftowa pod presją. Wielka Brytania rozszerza sankcje",
+      "content_html": "Wielka Brytania przyjęła w czwartek nowe sankcje przeciwko rosyjskiej branży energetycznej, w tym przeciw firmie naftowej Sławnieft oraz dużemu projektowi Rosnieftu w Arktyce – poinformował premier Andy Burnham.",
+      "date_published": "2026-11-12T16:01:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Samochody-elektryczne-nie-podrozeja-od-nowego-roku-Dania-zamraza-podatek-rejestracyjny-9227687.html",
+      "url": "https://www.bankier.pl/wiadomosc/Samochody-elektryczne-nie-podrozeja-od-nowego-roku-Dania-zamraza-podatek-rejestracyjny-9227687.html",
+      "title": "Tu samochody elektryczne nie podrożeją od nowego roku. Jeden kraj zamraża podatek rejestracyjny",
+      "content_html": "Duńscy kierowcy planujący zakup samochodu elektrycznego mogą odetchnąć z ulgą. Planowane na początek nowego roku stopniowe podnoszenie podatku rejestracyjnego dla pojazdów zeroemisyjnych zostanie odroczone o kolejny rok – wynika z nieoficjalnych...",
+      "date_published": "2026-11-12T16:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Duza-zmiana-w-finansowaniu-psychiatrii-NFZ-bedzie-rozdzielal-srodki-centralnie-9227954.html",
+      "url": "https://www.bankier.pl/wiadomosc/Duza-zmiana-w-finansowaniu-psychiatrii-NFZ-bedzie-rozdzielal-srodki-centralnie-9227954.html",
+      "title": "Duża zmiana w finansowaniu psychiatrii. NFZ będzie rozdzielał środki centralnie",
+      "content_html": "Centra zdrowia psychicznego mają być finansowane przez centralę NFZ, powodem jest dysproporcja między regionami, jeśli chodzi o wdrażanie psychiatrii środowiskowej. Projekt nowelizacji rozporządzenia w tej sprawie skierowano do konsultacji...",
+      "date_published": "2026-11-12T15:50:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kolejne-unijne-dofinansowanie-dla-CPK-Na-stole-ponad-70-mln-zl-9227943.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kolejne-unijne-dofinansowanie-dla-CPK-Na-stole-ponad-70-mln-zl-9227943.html",
+      "title": "Kolejne unijne dofinansowanie dla CPK? Na stole ponad 70 mln zł",
+      "content_html": "Spółka CPK złożyła wniosek o 70 mln zł dofinansowania z unijnego programu FEnIKS na budowę inteligentnej sieci dystrybucyjnej energii elektrycznej, która ma zasilić nowe lotnisko - poinformował w czwartek Port Polska.",
+      "date_published": "2026-11-12T15:42:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Trump-odwraca-uwage-od-Iranu-Vance-ma-zajac-sie-korupcja-9227937.html",
+      "url": "https://www.bankier.pl/wiadomosc/Trump-odwraca-uwage-od-Iranu-Vance-ma-zajac-sie-korupcja-9227937.html",
+      "title": "Trump odwraca uwagę od Iranu. Vance ma zająć się korupcją",
+      "content_html": "Prezydent USA Donald Trump ogłosił w czwartek, że porozumienie z Iranem nie jest potrzebne. Polecił też wiceprezydentowi J.D. Vance'owi, by całą uwagę poświęcił nie na negocjacjach, lecz walce z korupcją w miastach rządzonych przez Demokratów...",
+      "date_published": "2026-11-12T15:37:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Kaczynski-przed-11-listopada-Niepodleglosc-III-RP-moze-okazac-sie-incydentem-9227178.html",
+      "url": "https://www.bankier.pl/wiadomosc/Kaczynski-przed-11-listopada-Niepodleglosc-III-RP-moze-okazac-sie-incydentem-9227178.html",
+      "title": "Kaczyński przed 11 listopada: Niepodległość III RP może okazać się incydentem",
+      "content_html": "Obecna władza nie chce służyć Polsce – ocenił we wtorek prezes PiS Jarosław Kaczyński. Jak podkreślił, przez działania rządzących niepodległość III RP może okazać się jedynie historycznym „incydentem”.",
+      "date_published": "2026-11-12T15:32:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Tusk-ostrzega-przed-wyborami-w-2027-roku-Zadecyduje-mobilizacja-9227930.html",
+      "url": "https://www.bankier.pl/wiadomosc/Tusk-ostrzega-przed-wyborami-w-2027-roku-Zadecyduje-mobilizacja-9227930.html",
+      "title": "Tusk ostrzega przed wyborami w 2027 roku. „Zadecyduje mobilizacja”",
+      "content_html": "Wynik wyborów w 2027 r. będzie zależał od mobilizacji wyborców – podkreślił w czwartek premier Donald Tusk. Dodał, że problemem jest, że w ostatnich badaniach niektórzy partnerzy koalicyjni nie przekraczają progu wyborczego.",
+      "date_published": "2026-11-12T15:30:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Rzad-Litwy-szacuje-ze-tzw-windfall-tax-obejmie-ok-10-spolek-w-tym-Orlen-Lietuva-9227912.html",
@@ -30,13 +268,6 @@
       "title": "Litwa chce sięgnąć po zyski Orlenu. Na liście nawet 10 spółek",
       "content_html": "Uzgodniony przez litewską koalicję rządową tymczasowy podatek od nadmiarowych zysków, tzw. windfall tax, może dotyczyć około dziesięciu litewskich spółek, choć głównym - a być może jedynym - jego płatnikiem będzie Orlen Lietuva - poinformował...",
       "date_published": "2026-11-12T15:10:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Trump-grozi-Meksykowi-Cla-na-towary-moga-wzrosnac-dwukrotnie-9227909.html",
-      "url": "https://www.bankier.pl/wiadomosc/Trump-grozi-Meksykowi-Cla-na-towary-moga-wzrosnac-dwukrotnie-9227909.html",
-      "title": "Trump grozi Meksykowi. Cła na towary mogą wzrosnąć dwukrotnie",
-      "content_html": "Prezydent USA Donald Trump zagroził w czwartek podwojeniem ceł na towary z Meksyku, jeśli władze tego kraju nie powstrzymają grupy migrantów zmierzających w kierunku granicy ze Stanami Zjednoczonymi.",
-      "date_published": "2026-11-12T15:05:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Wystapili-o-azyl-by-pracowac-dla-wywiadu-Iranu-Wyrok-w-Wielkiej-Brytanii-9227897.html",
@@ -64,13 +295,6 @@
       "url": "https://www.bankier.pl/wiadomosc/Wspolpraca-wyszehradzka-odzyla-Czarzasty-Rozszerzenie-UE-to-sprawa-bezpieczenstwa-9227891.html",
       "title": "Współpraca wyszehradzka odżyła. Czarzasty: Rozszerzenie UE to sprawa bezpieczeństwa",
       "content_html": "Rozszerzenie UE to nie tylko polityczna debata, to kwestia nowej architektury bezpieczeństwa, która się obecnie kształtuje - powiedział w czwartek w Bratysławie marszałek Sejmu Włodzimierz Czarzasty. Wziął udział w spotkaniu szefów parlamentów...",
-      "date_published": "2026-11-12T14:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Waszyngtonu-Co-najmniej-cztery-osoby-postrzelone-9227892.html",
-      "url": "https://www.bankier.pl/wiadomosc/Strzelanina-w-centrum-Waszyngtonu-Co-najmniej-cztery-osoby-postrzelone-9227892.html",
-      "title": "Strzelanina w centrum Waszyngtonu. Co najmniej cztery osoby postrzelone",
-      "content_html": "W centrum stolicy Stanów Zjednoczonych, Waszyngtonu trwa strzelanina - podała w czwartek stołeczna policja. Według telewizji ABC postrzelone zostały co najmniej cztery osoby.",
       "date_published": "2026-11-12T14:44:00+01:00"
     },
     {
@@ -116,13 +340,6 @@
       "date_published": "2026-11-12T14:13:00+01:00"
     },
     {
-      "id": "https://www.bankier.pl/wiadomosc/Impas-pod-brama-Trybunalu-Konstytucyjnego-Postanowienie-SN-kontra-stanowisko-kierujacej-9227729.html",
-      "url": "https://www.bankier.pl/wiadomosc/Impas-pod-brama-Trybunalu-Konstytucyjnego-Postanowienie-SN-kontra-stanowisko-kierujacej-9227729.html",
-      "title": "Impas pod bramą Trybunału Konstytucyjnego. Postanowienie SN kontra stanowisko kierującej",
-      "content_html": "Bogdan Święczkowski, który w czwartek przed południem przybył przed siedzibę Trybunału Konstytucyjnego, zaapelował do pilnujących TK policjantów o otwarcie bramy i wpuszczenie go do Trybunału. Zwracał się też, aby odebrać od niego...",
-      "date_published": "2026-11-12T14:12:00+01:00"
-    },
-    {
       "id": "https://www.bankier.pl/wiadomosc/FDA-zatwierdzila-Mabion-jako-dostawce-na-rynek-amerykanski-9227861.html",
       "url": "https://www.bankier.pl/wiadomosc/FDA-zatwierdzila-Mabion-jako-dostawce-na-rynek-amerykanski-9227861.html",
       "title": "FDA zatwierdziła Mabion jako dostawcę na rynek amerykański",
@@ -142,13 +359,6 @@
       "title": "Allegro nie wyklucza osiągnięcia breakeven przez biznes międzynarodowy wcześniej niż w '29",
       "content_html": "Grupa Allegro jest zadowolona z tempa rozwoju biznesu międzynarodowego i nie wyklucza, że do osiągnięcia rentowności tego segmentu może dojść wcześniej niż w 2029 r. - poinformował prezes Marcin Kuśmierz.",
       "date_published": "2026-11-12T13:52:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Policja-w-siedzibie-TV-Republika-Prokuratura-zada-nagran-i-dokumentacji-9227733.html",
-      "url": "https://www.bankier.pl/wiadomosc/Policja-w-siedzibie-TV-Republika-Prokuratura-zada-nagran-i-dokumentacji-9227733.html",
-      "title": "Policja w siedzibie TV Republika. Prokuratura żąda nagrań i dokumentacji",
-      "content_html": "Na polecenie Prokuratury Okręgowej w Szczecinie policja dostarczyła w czwartek kierownictwu Telewizji Republika dokument z żądaniem wydania zapisu rejestrowego i dokumentacji koncesyjnej. Ma to związek z prowadzonym postępowaniem dotyczącym...",
-      "date_published": "2026-11-12T13:39:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Kable-energia-i-miedz-Na-boomie-AI-moga-zarobic-nie-tylko-technologiczni-giganci-9227825.html",
@@ -184,13 +394,6 @@
       "title": "Allegro nie ma w planach spowolnienia rozwoju sieci automatów paczkowych",
       "content_html": "Grupa Allegro nie ma w planach spowolnienia rozwoju sieci automatów paczkowych po zawarciu nowej umowy z InPostem - poinformował prezes Allegro Marcin Kuśmierz.",
       "date_published": "2026-11-12T13:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Tysiace-szkol-sparalizowane-Fala-falszywych-alarmow-bombowych-uderza-we-Wlochy-9227816.html",
-      "url": "https://www.bankier.pl/wiadomosc/Tysiace-szkol-sparalizowane-Fala-falszywych-alarmow-bombowych-uderza-we-Wlochy-9227816.html",
-      "title": "Tysiące szkół sparaliżowane. Fala fałszywych alarmów bombowych uderza we Włochy",
-      "content_html": "Włoski rząd poinformował w czwartek, że około 1800 szkół otrzymało wiadomości e-mail z informacjami o rzekomym podłożeniu materiałów wybuchowych, a część placówek została ewakuowana.",
-      "date_published": "2026-11-12T13:20:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/Von-der-Leyen-z-zadowoleniem-o-rozmowach-pokojowych-w-Abu-Zabi-i-udziale-Europejczykow-9227776.html",
@@ -499,209 +702,6 @@
       "title": "UE bierze pod but e-commerce. Kaganiec na algorytmy cenowe i koniec fikcyjnych „ostatnich sztuk”",
       "content_html": "Prawo do kontaktu z człowiekiem w sklepach internetowych, przejrzystość cen biletów na mecze i koncerty, zakaz ukrytych opłat na ostatnim etapie, łatwa rezygnacja z subskrypcji, uregulowanie zakupów robionych przez AI - takie propozycje zawiera...",
       "date_published": "2026-11-12T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Jest-kolejny-wniosek-o-uchylenie-immunitetu-Grzegorza-Brauna-Chodzi-o-negowanie-zbrodni-w-Auschwitz-9227485.html",
-      "url": "https://www.bankier.pl/wiadomosc/Jest-kolejny-wniosek-o-uchylenie-immunitetu-Grzegorza-Brauna-Chodzi-o-negowanie-zbrodni-w-Auschwitz-9227485.html",
-      "title": "Jest kolejny wniosek o uchylenie immunitetu Grzegorza Brauna. Chodzi o negowanie zbrodni w Auschwitz",
-      "content_html": "Do Parlamentu Europejskiego trafił wniosek o uchylenie immunitetu europosłowi Grzegorzowi Braunowi - poinformowała w środę przewodnicząca PE Roberta Metsola. Wniosek skierował do izby prokurator generalny Waldemar Żurek w związku z negowaniem...",
-      "date_published": "2026-11-12T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Niespodzianka-w-Missisipi-Demokrata-odbija-bastion-po-44-latach-dominacji-Republikanow-9227509.html",
-      "url": "https://www.bankier.pl/wiadomosc/Niespodzianka-w-Missisipi-Demokrata-odbija-bastion-po-44-latach-dominacji-Republikanow-9227509.html",
-      "title": "Niespodzianka w Missisipi. Demokrata odbija bastion po 44 latach dominacji Republikanów",
-      "content_html": "Demokrata Scott Colom wygrał wyścig o mandat senatora z konserwatywnego stanu Missisipi - podała agencja Associated Press, opierając się na niemal kompletnych wynikach wyborów. To pierwsze zwycięstwo w tym stanie kandydata Partii Demokratycznej...",
-      "date_published": "2026-11-12T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zaskakujacy-podzial-mandatow-Historyczny-dolek-PiS-i-zadyszka-KO-w-nowym-sondazu-9227532.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zaskakujacy-podzial-mandatow-Historyczny-dolek-PiS-i-zadyszka-KO-w-nowym-sondazu-9227532.html",
-      "title": "Zaskakujący podział mandatów. Historyczny dołek PiS i zadyszka KO w nowym sondażu",
-      "content_html": "Kryzys wokół TK nie zmienił mocno układu sił między partiami - czytamy w czwartkowej „Rzeczpospolitej”. W najnowszym sondażu gazety, Koalicja Obywatelska może liczyć na 29 proc. głosów, a Prawo i Sprawiedliwość na 16,5 proc. Podium...",
-      "date_published": "2026-11-12T06:59:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/USA-zwrocily-sie-do-Rosji-o-nowa-propozycje-ws-bezpieczenstwa-w-Europie-9227483.html",
-      "url": "https://www.bankier.pl/wiadomosc/USA-zwrocily-sie-do-Rosji-o-nowa-propozycje-ws-bezpieczenstwa-w-Europie-9227483.html",
-      "title": "USA zwróciły się do Rosji o nową propozycję ws. bezpieczeństwa w Europie",
-      "content_html": "USA zwróciły się do Rosji o przedstawienie nowej propozycji przyszłego porozumienia dotyczącego bezpieczeństwa w Europie, która ma obejmować działania Moskwy zmierzające do zmniejszenia napięć na kontynencie – poinformował w środę Axios...",
-      "date_published": "2026-11-12T06:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Koniec-ery-Jensena-Huanga-w-Nvidii-Media-o-mozliwym-odwolaniu-szefa-giganta-AI-9227538.html",
-      "url": "https://www.bankier.pl/wiadomosc/Koniec-ery-Jensena-Huanga-w-Nvidii-Media-o-mozliwym-odwolaniu-szefa-giganta-AI-9227538.html",
-      "title": "Koniec ery Jensena Huanga w Nvidii? Media o możliwym odwołaniu szefa giganta AI",
-      "content_html": "Zarząd Nvidii spotkał się w środę, by rozważyć zwolnienie szefa i współzałożyciela spółki Jensena Huanga - podał „Wall Street Journal”. To efekt rewelacji o jego romansie z domniemaną agentką chińskiego wywiadu. „New York Times”...",
-      "date_published": "2026-11-12T06:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-ma-umowe-z-InPost-wplyw-na-skoryg-EBITDA-za-pelny-2026-r-270-280-mln-zl-9227501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-ma-umowe-z-InPost-wplyw-na-skoryg-EBITDA-za-pelny-2026-r-270-280-mln-zl-9227501.html",
-      "title": "Allegro i InPost podpisały umowę do 2031 roku. Minimalna wartość kontraktu to 8 mld zł",
-      "content_html": "Allegro podpisało z InPost nową umowę ramową do 31 grudnia 2031 roku dotyczącą usług dostaw poza domem o minimalnej wartości 8 mld zł. Allegro oczekuje, że retroaktywne zastosowanie nowych stawek cenowych za pełny rok 2026 przyniesie pozytywny...",
-      "date_published": "2026-11-12T06:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-pokazalo-w-III-kw-wyniki-powyzej-konsensusu-podnioslo-caloroczne-prognozy-9227505.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-pokazalo-w-III-kw-wyniki-powyzej-konsensusu-podnioslo-caloroczne-prognozy-9227505.html",
-      "title": "Allegro z wynikami powyżej oczekiwań i wyższą prognozą na 2026 rok",
-      "content_html": "Allegro pokazało w trzecim kwartale 2026 roku wyniki powyżej oczekiwań ankietowanych przez PAP Biznes analityków - skorygowana EBITDA sięgnęła 1,13 mld zł a rynek liczył na 1,08 mld zł. Grupa podniosła całoroczne prognozy na 2026 rok.",
-      "date_published": "2026-11-12T06:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-listopad-2026-9226720.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ranking-kredytow-hipotecznych-listopad-2026-9226720.html",
-      "title": "Chwilowy odwrót? Seria obniżek w stałoprocentowych hipotekach",
-      "content_html": "Po październikowej \"górce\" nie ma już śladu. Zdecydowana większość banków proponuje w listopadzie niższe stawki niż miesiąc wcześniej. Mniej korzystne zmiany widać natomiast w marżach. To efekt dalszego ciągu migracji na nowy wskaźnik...",
-      "date_published": "2026-11-12T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html",
-      "url": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html",
-      "title": "Singapur rozpycha się na złotym podwórku. Poluje na sztaby, którym nie po drodze z Londynem i Nowym Jorkiem",
-      "content_html": "Azjatyckie Miasto-Lew ma coraz większe złote zakusy. Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu. To obranie celu na alternatywe - neutralną przystań...",
-      "date_published": "2026-11-12T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Finansowa-iluzja-Kremla-Jak-Rosja-odmrozila-miliardy-bez-zgody-Zachodu-9226751.html",
-      "url": "https://www.bankier.pl/wiadomosc/Finansowa-iluzja-Kremla-Jak-Rosja-odmrozila-miliardy-bez-zgody-Zachodu-9226751.html",
-      "title": "Finansowa iluzja Kremla. Jak Rosja \"odmroziła\" miliardy bez zgody Zachodu",
-      "content_html": "Szefowa Banku Rosji Elwira Nabiullina ogłosiła w Dumie Państwowej, że Moskwie udało się zwrócić inwestorom \"znaczną część\" aktywów zamrożonych przez zachodnie sankcje. Z europejskich instytucji takich jak Euroclear nie wypłynęło jednak...",
-      "date_published": "2026-11-12T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Coraz-wyzsze-rachunki-za-prad-Ratunkiem-comiesieczna-doplata-ponad-300-zl-z-ZUS-Dochod-sie-nie-liczy-9226871.html",
-      "url": "https://www.bankier.pl/wiadomosc/Coraz-wyzsze-rachunki-za-prad-Ratunkiem-comiesieczna-doplata-ponad-300-zl-z-ZUS-Dochod-sie-nie-liczy-9226871.html",
-      "title": "Wysokie rachunki za prąd? Ratunkiem dopłata - ponad 300 zł z ZUS. Dochód się nie liczy",
-      "content_html": "Temperatury spadają, a rachunki za energię rosną. Niektóre grupy seniorów mogą dostać specjalne dofinansowanie, które można przeznaczyć na opłacenie kosztów energii, czyli np. prądu lub gazu. Ta dopłata to tzw. ryczałt energetyczny. Zakład...",
-      "date_published": "2026-11-12T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-IV-kw-grupa-Allegro-notuje-wzrost-GMV-o-ok-17-proc-9227534.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-IV-kw-grupa-Allegro-notuje-wzrost-GMV-o-ok-17-proc-9227534.html",
-      "title": "W IV kw. grupa Allegro notuje wzrost GMV o ok. 17 proc.",
-      "content_html": "W IV kwartale grupa Allegro notuje wzrost GMV o ok. 17 proc. rdr, a od początku roku wzrost wynosi 15 proc. rdr - podała spółka w prezentacji.",
-      "date_published": "2026-11-12T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-z-ponad-1-4-mld-zl-zysku-netto-po-trzech-kwartalach-2026-r-9227506.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-z-ponad-1-4-mld-zl-zysku-netto-po-trzech-kwartalach-2026-r-9227506.html",
-      "title": "Allegro z ponad 1,4 mld zł zysku netto po trzech kwartałach 2026 r.",
-      "content_html": "Ponad 1,4 mld zł zysku netto wypracowało Allegro po trzech kwartałach 2026 r. - wynika z raportu giełdowego spółki. Z platformy korzystało 21,5 mln aktywnych kupujących, z czego 15,8 mln w Polsce.",
-      "date_published": "2026-11-12T00:39:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wzrosty-na-Wall-Street-napedzane-AI-CoreWeave-zyskuje-20-proc-Nvidia-odrabia-straty-9227488.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wzrosty-na-Wall-Street-napedzane-AI-CoreWeave-zyskuje-20-proc-Nvidia-odrabia-straty-9227488.html",
-      "title": "Wzrosty na Wall Street napędzane AI. CoreWeave zyskuje 20 proc., Nvidia odrabia straty",
-      "content_html": "Środowa sesja na Wall Street zakończyła się wzrostami głównych indeksów, wspieranych przez duże wzrosty akcji CoreWeave i odbicie notowań Nvidii po dwóch kolejnych sesjach, w których producent chipów poniósł straty.",
-      "date_published": "2026-11-11T22:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Glowny-akcjonariusz-Mostostalu-Warszawa-podtrzymuje-zamiar-objecia-akcji-nowej-emisji-9227479.html",
-      "url": "https://www.bankier.pl/wiadomosc/Glowny-akcjonariusz-Mostostalu-Warszawa-podtrzymuje-zamiar-objecia-akcji-nowej-emisji-9227479.html",
-      "title": "Główny akcjonariusz Mostostalu Warszawa podtrzymuje zamiar objęcia akcji nowej emisji",
-      "content_html": "Acciona Construcción Polonia, większościowy akcjonariusz Mostostalu Warszawa, podtrzymał zamiar wzięcia udziału w planowanej emisji do 100 mln akcji serii VI, o której zdecydowało walne zgromadzenie polskiej spółki pod koniec października -...",
-      "date_published": "2026-11-11T22:26:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ponad-11-tys-obcokrajowcow-zginelo-walczac-po-stronie-Rosji-Sa-tam-Polacy-9227453.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ponad-11-tys-obcokrajowcow-zginelo-walczac-po-stronie-Rosji-Sa-tam-Polacy-9227453.html",
-      "title": "Ponad 11 tys. obcokrajowców zginęło walcząc po stronie Rosji. Są tam Polacy",
-      "content_html": "Od początku rosyjskiej inwazji na Ukrainę zginęło ponad 11 tys. osób urodzonych poza Rosją lub mających obce obywatelstwo – wynika z tajnych danych rosyjskiego urzędu statystycznego Rosstat, które przekazała w środę agencja Bloomberga...",
-      "date_published": "2026-11-11T20:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Iran-grozi-uderzeniem-w-Europe-Zaatakujemy-bazy-z-ktorych-wystartuja-samoloty-USA-9227454.html",
-      "url": "https://www.bankier.pl/wiadomosc/Iran-grozi-uderzeniem-w-Europe-Zaatakujemy-bazy-z-ktorych-wystartuja-samoloty-USA-9227454.html",
-      "title": "Iran grozi uderzeniem w Europę. \"Zaatakujemy bazy, z których wystartują samoloty USA\"",
-      "content_html": "Szef służb bezpieczeństwa Iranu Mohsen Rezaei zagroził w środę, że irańska armia będzie atakować amerykańskie bazy, również te w Europie, jeśli wojska USA będą z nich korzystać w atakach na Iran. Rezaei powiedział o tym w wywiadzie...",
-      "date_published": "2026-11-11T20:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-odpowiada-prezydentowi-Do-upadku-I-RP-doprowadzilo-liberum-veto-9227375.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kosiniak-Kamysz-odpowiada-prezydentowi-Do-upadku-I-RP-doprowadzilo-liberum-veto-9227375.html",
-      "title": "Kosiniak-Kamysz odpowiada prezydentowi: Do upadku I RP doprowadziło liberum veto",
-      "content_html": "Zawsze trzeba nam jedności; bez niej upadamy, bez niej przegrywamy, bez niej przychodzą zaborcy i okupanci - mówił podczas uroczystości w dniu Narodowego Święta Niepodległości wicepremier, szef MON Władysław Kosiniak-Kamysz.",
-      "date_published": "2026-11-11T20:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nie-zadowoli-nas-93-proc-Trump-stawia-twarde-warunki-zakonczenia-wojny-z-Iranem-9227449.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nie-zadowoli-nas-93-proc-Trump-stawia-twarde-warunki-zakonczenia-wojny-z-Iranem-9227449.html",
-      "title": "\"Nie zadowoli nas 93 proc.\" Trump stawia twarde warunki zakończenia wojny z Iranem",
-      "content_html": "Prezydent USA Donald Trump powiedział w środę podczas ceremonii z okazji Dnia Weteranów, że zakończy wojnę z Iranem wtedy, kiedy zapewni „całkowite zwycięstwo”. Wyraził jednocześnie nadzieję, że nie będzie musiał dalej niszczyć Iranu...",
-      "date_published": "2026-11-11T20:13:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/AI-wymyka-sie-spod-kontroli-Nowy-Jork-wraz-z-Wall-Street-nie-czeka-na-Waszyngton-9227107.html",
-      "url": "https://www.bankier.pl/wiadomosc/AI-wymyka-sie-spod-kontroli-Nowy-Jork-wraz-z-Wall-Street-nie-czeka-na-Waszyngton-9227107.html",
-      "title": "AI wymyka się spod kontroli? Nowy Jork wraz z Wall Street nie czeka na Waszyngton",
-      "content_html": "Gubernator stanu Nowy Jork Kathy Hochul zainicjowała we wtorek pierwszy w USA program testowania AI pod kątem bezpieczeństwa i szkolenia ekspertów w tej dziedzinie. Portal Politico zauważa, że administracja Trumpa pozostawiła inicjatywy...",
-      "date_published": "2026-11-11T20:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rewolucja-w-szkolach-Dyrektorzy-skontroluja-plecaki-uczniow-i-uzyja-wykrywaczy-metali-9227137.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rewolucja-w-szkolach-Dyrektorzy-skontroluja-plecaki-uczniow-i-uzyja-wykrywaczy-metali-9227137.html",
-      "title": "Rewolucja w szkołach. Dyrektorzy skontrolują plecaki uczniów i użyją wykrywaczy metali",
-      "content_html": "Dyrektorzy szkół lub upoważnieni pracownicy będą mogli kontrolować bagaż i odzież wierzchnią oraz miejsca ich przechowywania, także przy użyciu wykrywaczy metali – zakłada projekt nowelizacji ustawy, który we wtorek trafił do zaopiniowania...",
-      "date_published": "2026-11-11T20:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Cios-w-naftowe-eldorado-Kremla-Ukrainskie-uderzenie-w-port-nad-Baltykiem-9227444.html",
-      "url": "https://www.bankier.pl/wiadomosc/Cios-w-naftowe-eldorado-Kremla-Ukrainskie-uderzenie-w-port-nad-Baltykiem-9227444.html",
-      "title": "Cios w naftowe eldorado Kremla. Ukraińskie uderzenie w port nad Bałtykiem",
-      "content_html": "Siły Obrony Ukrainy uderzyły w infrastrukturę naftową rosyjskiego portu Ust-Ługa nad Morzem Bałtyckim, głównego ośrodka eksportowego w północno-zachodniej Rosji – poinformował w środę Sztab Generalny ukraińskich sił zbrojnych.",
-      "date_published": "2026-11-11T19:57:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bezprecedensowy-list-z-Bialego-Domu-Groza-kongresmenom-Zatrudnijcie-prawnikow-9227427.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bezprecedensowy-list-z-Bialego-Domu-Groza-kongresmenom-Zatrudnijcie-prawnikow-9227427.html",
-      "title": "Bezprecedensowy list z Białego Domu. Grożą kongresmenom: Zatrudnijcie prawników",
-      "content_html": "Biały Dom zagroził Demokratom w Kongresie wszczęciem śledztwa karnego za ich zapowiedzi śledztw i rozliczeń ludzi związanych z prezydentem Donaldem Trumpem. Prezydent twierdzi, że zapowiedzi te stanowią „zastraszanie”, zaś Demokraci odpowiadają...",
-      "date_published": "2026-11-11T19:55:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Podziemne-miasto-rakietowe-Iranu-Ich-pociski-drenuja-zapasy-amerykanskich-Patriotow-9227441.html",
-      "url": "https://www.bankier.pl/wiadomosc/Podziemne-miasto-rakietowe-Iranu-Ich-pociski-drenuja-zapasy-amerykanskich-Patriotow-9227441.html",
-      "title": "Podziemne \"miasto rakietowe\" Iranu. Ich pociski drenują zapasy amerykańskich Patriotów",
-      "content_html": "Irańska armia zaprezentowała podziemne „miasto rakietowe” – podała w środę agencja Tasnim. Według źródeł Bloomberga Iran produkuje obecnie około 50 rakiet balistycznych miesięcznie, mimo poważnych zniszczeń przemysłu zbrojeniowego...",
-      "date_published": "2026-11-11T19:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Nawrocki-na-czele-Marszu-Niepodleglosci-Spalona-flaga-Lewicy-petardy-i-radykalne-hasla-na-trasie-9227447.html",
-      "url": "https://www.bankier.pl/wiadomosc/Nawrocki-na-czele-Marszu-Niepodleglosci-Spalona-flaga-Lewicy-petardy-i-radykalne-hasla-na-trasie-9227447.html",
-      "title": "Nawrocki na czele Marszu Niepodległości. Spalona flaga Lewicy, petardy i radykalne hasła na trasie",
-      "content_html": "Frekwencja w tegorocznym Marszu Niepodległości, który w środę przeszedł przez Warszawę, wyniosła nawet 250 tys. osób - poinformował w środę dyrektor Stołecznego Centrum Bezpieczeństwa Jarosław Misztal.",
-      "date_published": "2026-11-11T19:35:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przygotowania-do-szczytu-Trump-Xi-Pekin-Stabilnosc-z-USA-to-racjonalny-wybor-obu-mocarstw-9227428.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przygotowania-do-szczytu-Trump-Xi-Pekin-Stabilnosc-z-USA-to-racjonalny-wybor-obu-mocarstw-9227428.html",
-      "title": "Przygotowania do szczytu Trump–Xi. Pekin: Stabilność z USA to racjonalny wybór obu mocarstw",
-      "content_html": "Szef chińskiej dyplomacji Wang Yi ocenił w środę podczas rozmowy z amerykańskim sekretarzem stanu Marco Rubio, że stabilność w relacjach z USA nie została osiągnięta z łatwością – wynika z komunikatu MSZ w Pekinie. Rozmowa odbyła się...",
-      "date_published": "2026-11-11T19:29:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Miazdzaca-opinia-Rady-Etyki-Mediow-ws-relacji-Tomasza-Sakiewicza-w-TV-Republika-9227419.html",
-      "url": "https://www.bankier.pl/wiadomosc/Miazdzaca-opinia-Rady-Etyki-Mediow-ws-relacji-Tomasza-Sakiewicza-w-TV-Republika-9227419.html",
-      "title": "Miażdżąca opinia Rady Etyki Mediów ws. relacji Tomasza Sakiewicza w TV Republika",
-      "content_html": "Rady Etyki Mediów oceniła, że autorzy relacji dotyczącej strzelaniny w Krakowie nadanej w Telewizji Republika, w tym prowadzący Tomasz Sakiewicz, naruszyli wszystkie zasady Karty Etycznej Mediów.",
-      "date_published": "2026-11-11T19:03:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Alarmy-bombowe-paralizuja-ok-7-tys-europejskich-szkol-Szerzenie-strachu-i-niepokoju-9227401.html",
-      "url": "https://www.bankier.pl/wiadomosc/Alarmy-bombowe-paralizuja-ok-7-tys-europejskich-szkol-Szerzenie-strachu-i-niepokoju-9227401.html",
-      "title": "Alarmy bombowe paraliżują ok. 7 tys. europejskich szkół. \"Szerzenie strachu i niepokoju\"",
-      "content_html": "Około 6300 włoskich szkół otrzymało w środę fałszywy e-mail z informacją o rzekomym podłożeniu w placówkach materiałów wybuchowych - poinformował rzecznik ministerstwa edukacji. Premierka Giorgia Meloni zapewniła, że nie ma zagrożenia...",
-      "date_published": "2026-11-11T19:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grozil-smiercia-ministrowi-i-jego-dzieciom-Policja-odebrala-mu-dwie-sztuki-broni-palnej-9227393.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grozil-smiercia-ministrowi-i-jego-dzieciom-Policja-odebrala-mu-dwie-sztuki-broni-palnej-9227393.html",
-      "title": "Groził śmiercią ministrowi i jego dzieciom. Policja odebrała mu dwie sztuki broni palnej",
-      "content_html": "Zarzuty dotyczące kierowania gróźb pozbawienia życia wobec ministra spraw wewnętrznych i administracji Marcina Kierwińskiego przedstawiła policja 41-letniemu mieszkańcowi powiatu złotoryjskiego. Mężczyzna miał pozwolenie i posiadał broń...",
-      "date_published": "2026-11-11T18:55:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
