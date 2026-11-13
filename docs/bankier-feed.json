@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/wiadomosc/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html",
+      "url": "https://www.bankier.pl/wiadomosc/Jeden-z-glownych-akcjonariuszy-Sanok-Rubber-Company-wnioskuje-o-skup-akcji-wlasnych-9228167.html",
+      "title": "Jeden z głównych akcjonariuszy Sanok Rubber Company wnioskuje o skup akcji własnych",
+      "content_html": "Marek Łęcki, posiadający 13 proc. akcji Sanok Rubber Company, złożył wniosek o zwołanie walnego zgromadzenia w celu przegłosowania programu skupu akcji własnych - poinformował producent technicznych wyrobów gumowych i gumowo-metalowych w komunikacie...",
+      "date_published": "2026-11-12T23:26:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
       "url": "https://www.bankier.pl/wiadomosc/Grupa-Torpol-po-III-kwartalach-ma-50-1-mln-zl-zysku-netto-rynek-liczyl-na-wiecej-9228158.html",
       "title": "Grupa Torpol po III kwartałach ma 50,1 mln zł zysku netto, rynek liczył na więcej",
@@ -695,13 +702,6 @@
       "title": "Polska liderem unijnych projektów obronnych. Szefowa Parlamentu Europejskiego stawia nas za wzór",
       "content_html": "Mobilność wojskowa, dostawy amunicji oraz ogólne bezpieczeństwo w ramach NATO i UE - te tematy zdominują znaczną część rokowań na temat nowej wieloletniej perspektywy finansowej Wspólnoty - powiedziała w czwartkowym „DGP” przewodnicząca...",
       "date_published": "2026-11-12T07:01:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-bierze-pod-but-e-commerce-Kaganiec-na-algorytmy-cenowe-i-koniec-fikcyjnych-ostatnich-sztuk-9227464.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-bierze-pod-but-e-commerce-Kaganiec-na-algorytmy-cenowe-i-koniec-fikcyjnych-ostatnich-sztuk-9227464.html",
-      "title": "UE bierze pod but e-commerce. Kaganiec na algorytmy cenowe i koniec fikcyjnych „ostatnich sztuk”",
-      "content_html": "Prawo do kontaktu z człowiekiem w sklepach internetowych, przejrzystość cen biletów na mecze i koncerty, zakaz ukrytych opłat na ostatnim etapie, łatwa rezygnacja z subskrypcji, uregulowanie zakupów robionych przez AI - takie propozycje zawiera...",
-      "date_published": "2026-11-12T07:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-feed.json"
