@@ -4,6 +4,27 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-nadzwyczajne-straty-a-nie-zyski-minister-Motyka-o-windfall-tax-na-Litwie-9228430.html",
+      "url": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-nadzwyczajne-straty-a-nie-zyski-minister-Motyka-o-windfall-tax-na-Litwie-9228430.html",
+      "title": "Minister energii: Orlen Litwa ma nadzwyczajne straty, a nie nadzwyczajne zyski Orlen Lietuva ma w obecnej sytuacji nadzwyczajne straty, a nie nadzwyczajne zyski - ocenił minister energii Miłosz Motyka, odnosząc się do zamiarów litewskiego rządu ws. nałożenia podatku windfall tax na firmy paliwowe. W przyszłym tygodniu Motyka ma spotykać się z litewskimi ministrami.",
+      "content_html": "",
+      "date_published": "2026-11-14T08:19:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Przewaga-spadkow-na-Wall-Street-po-odejsciu-szefa-Nvidii-Inwestorzy-analizuja-dane-9228871.html",
+      "url": "https://www.bankier.pl/wiadomosc/Przewaga-spadkow-na-Wall-Street-po-odejsciu-szefa-Nvidii-Inwestorzy-analizuja-dane-9228871.html",
+      "title": "Przewaga spadków na Wall Street po odejściu szefa Nvidii. Inwestorzy analizują dane Piątkowa sesja na Wall Street zakończyła się przewagą spadków wśród głównych indeksów, a rynkowi w dalszym ciągu ciążyły zniżkujące akcje koncernu Nvidia. W centrum uwagi inwestorów były też dane o PPI w Stanach Zjednoczonych.",
+      "content_html": "",
+      "date_published": "2026-11-14T08:16:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Nvidia-bez-steru-Anthropic-z-potezna-strata-i-wycena-w-kosmos-Wall-Street-ostrzega-przed-drenazem-mozgow-9228586.html",
+      "url": "https://www.bankier.pl/wiadomosc/Nvidia-bez-steru-Anthropic-z-potezna-strata-i-wycena-w-kosmos-Wall-Street-ostrzega-przed-drenazem-mozgow-9228586.html",
+      "title": "O TYM MÓWI WALL STREET Nvidia bez steru, Anthropic z potężną stratą i wyceną w kosmos. Wall Street ostrzega przed \"drenażem mózgów\" Fala wyprzedaży wstrząsnęła akcjami Nvidii po niespodziewanej rezygnacji J. Huanga w związku ze skandalem obyczajowym. Odejście dotychczasowego lidera podzieliło Wall Street – część rynku ostro rewiduje wycenę giganta, podczas gdy inni szukają okazji na tańsze wejście w sektor AI. Równolegle uwaga analityków przenosi się na nadchodzące debiuty w branży sztucznej inteligencji.",
+      "content_html": "",
+      "date_published": "2026-11-14T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Trzy-podmioty-obejma-akcje-nowej-emisji-Synthaverse-za-26-45-mln-zl-9228837.html",
       "url": "https://www.bankier.pl/wiadomosc/Trzy-podmioty-obejma-akcje-nowej-emisji-Synthaverse-za-26-45-mln-zl-9228837.html",
       "title": "Trzy podmioty obejmą akcje nowej emisji Synthaverse za 26,45 mln zł Value FIZ, Medi_More i Hurtap podpisały umowę przewidującą dokapitalizowanie Synthaverse w łącznej kwocie 26,45 mln zł. Jak pisze Synthaverse w komunikacie, umowa stanowi kluczowy element umożliwiający finalizację kompleksowego procesu refinansowania zadłużenia spółki.",
@@ -93,13 +114,6 @@
       "title": "Cyfrowy paraliż w biurach. Microsoft wydłuża oczekiwanie na maila do 48h Użytkownicy mogą nie być w stanie połączyć się z wieloma usługami Microsoft 365 - poinformowała w czwartek wieczorem firma. Chodzi m.in. o działanie aplikacji takich jak Microsoft Teams, SharePoint Online, czy Microsoft Copilot 365. Firma pracuje nad przywróceniem pełnej funkcjonalności.",
       "content_html": "",
       "date_published": "2026-11-13T14:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-nadzwyczajne-straty-a-nie-zyski-minister-Motyka-o-windfall-tax-na-Litwie-9228430.html",
-      "url": "https://www.bankier.pl/wiadomosc/Orlen-Lietuva-ma-nadzwyczajne-straty-a-nie-zyski-minister-Motyka-o-windfall-tax-na-Litwie-9228430.html",
-      "title": "Minister energii: Orlen Litwa ma nadzwyczajne straty, a nie nadzwyczajne zyski Orlen Litwa ma w obecnej sytuacji nadzwyczajne straty, a nie nadzwyczajne zyski - ocenił minister energii Miłosz Motyka, odnosząc się do zamiarów rządu litewskiego dotyczących nałożenia podatku windfall tax na firmy paliwowe, w tym na Orlen.",
-      "content_html": "",
-      "date_published": "2026-11-13T13:02:00+01:00"
     },
     {
       "id": "https://www.bankier.pl/wiadomosc/WIG-i-WIG20-uznane-za-istotne-wskazniki-referencyjne-Jest-decyzja-KNF-9228410.html",
@@ -296,83 +310,6 @@
       "title": "Dobre wieści dla inwestorów na GPW. Ekspert zdradza, które branże mogą teraz najmocniej zyskać Mimo bardzo wysokich wzrostów w tym roku warszawska giełda ma szanse na dalsze zwyżki. Przemawiają za tym solidne fundamenty gospodarki, napływ kapitału na GPW i pozytywne nastawienie inwestorów zagranicznych – ocenia Tomasz Matras, dyrektor Biura Rynku Akcji TFI PZU. Jego zdaniem, in plus mogą wyróżniać się m. in. spółki energetyczne, przemysłowe, konsumenckie i surowcowe.",
       "content_html": "",
       "date_published": "2026-11-12T10:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-Wieltonu-do-5-37-zl-9227673.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-Wieltonu-do-5-37-zl-9227673.html",
-      "title": "Noble Securities obniżył cenę docelową Wieltonu do 5,37 zł Analitycy Noble Securities, w raporcie z 9 listopada, obniżyli cenę docelową dla Wieltonu do 5,37 zł z 7,25 zł wcześniej i jednocześnie podnieśli rekomendację z \"akumuluj\" do\"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-11-12T10:16:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kto-moze-zastapic-prezesa-Nvidii-Elon-Musk-bylby-zaszczycony-zatrudnieniem-Huanga-u-siebie-9227635.html",
-      "title": "Jensen Huang na wylocie, a na jego miejsce córka, syn lub nawet zdradzona żona. Kto mógłby przejąć władzę w Nvidii? Rada dyrektorów Nvidii zebrała się w środę, aby zdecydować o przyszłości współzałożyciela i prezesa giganta AI, 63-letniego Jensena Huanga, po ujawnieniu jego romansów, w tym kobietą podejrzewaną o szpiegostwo na rzecz Chin. Rynki predykcyjne dają liderowi Nvidii zaledwie 30 proc. szans na przetrwanie tego tygodnia na stanowisku prezesa. Branżowe media już rozpisują się o potencjalnych następcach Jensena Huanga, którego chętnie w swoich firmach widziałby Elon Musk.",
-      "content_html": "",
-      "date_published": "2026-11-12T09:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Amiki-do-58-zl-9227619.html",
-      "url": "https://www.bankier.pl/wiadomosc/Noble-Securities-obnizyl-cene-docelowa-akcji-Amiki-do-58-zl-9227619.html",
-      "title": "Noble Securities obniżył cenę docelową akcji Amiki do 58 zł Analitycy Noble Securities, w raporcie z 10 listopada, obniżyli cenę docelową dla akcji spółki Amica do 58 zł z 74 zł, podtrzymując rekomendację \"kupuj\".",
-      "content_html": "",
-      "date_published": "2026-11-12T09:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Rosyjska-ropa-bije-wieloletnie-rekordy-cenowe-mimo-zachodnich-sankcji-9227613.html",
-      "url": "https://www.bankier.pl/wiadomosc/Rosyjska-ropa-bije-wieloletnie-rekordy-cenowe-mimo-zachodnich-sankcji-9227613.html",
-      "title": "Rosyjska ropa bije wieloletnie rekordy cenowe mimo zachodnich sankcji Rosyjska ropa, mimo międzynarodowych sankcji w związku z wojną przeciwko Ukrainie, osiąga wieloletnie maksima i jest rekordowo droga na tle światowych notowań – powiadomił w czwartek japoński dziennik „Nikkei Asia”. To efekt rosnącego popytu w Chinach i Indiach oraz wysokich kosztów transportu morskiego.",
-      "content_html": "",
-      "date_published": "2026-11-12T09:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kurs-Allegro-rosnie-o-blisko-5-proc-spolka-podniosla-prognozy-i-ma-nowa-umowe-z-InPostem-9227610.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kurs-Allegro-rosnie-o-blisko-5-proc-spolka-podniosla-prognozy-i-ma-nowa-umowe-z-InPostem-9227610.html",
-      "title": "Kurs Allegro rośnie o blisko 5%. Spółka podniosła prognozy i ma nową umowę Notowania Allegro zyskują 4,9 proc. na początku czwartkowej sesji po wynikach i podniesieniu całorocznych prognoz oraz informacji o podpisaniu nowej umowy z InPostem.",
-      "content_html": "",
-      "date_published": "2026-11-12T09:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/William-O-Neil-rekomenduje-kupuj-dla-Pepco-Group-9227563.html",
-      "url": "https://www.bankier.pl/wiadomosc/William-O-Neil-rekomenduje-kupuj-dla-Pepco-Group-9227563.html",
-      "title": "William O'Neil rekomenduje \"kupuj\" dla Pepco Group Analitycy William O'Neil & Co rozpoczęli wydawanie rekomendacji dla Pepco Group od \"kupuj\" - poinformowała agencja Bloomberg. (PAP Biznes)",
-      "content_html": "",
-      "date_published": "2026-11-12T07:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UE-bierze-pod-but-e-commerce-Kaganiec-na-algorytmy-cenowe-i-koniec-fikcyjnych-ostatnich-sztuk-9227464.html",
-      "url": "https://www.bankier.pl/wiadomosc/UE-bierze-pod-but-e-commerce-Kaganiec-na-algorytmy-cenowe-i-koniec-fikcyjnych-ostatnich-sztuk-9227464.html",
-      "title": "UE bierze pod but e-commerce. Kaganiec na algorytmy cenowe i koniec fikcyjnych „ostatnich sztuk” Prawo do kontaktu z człowiekiem w sklepach internetowych, przejrzystość cen biletów na mecze i koncerty, zakaz ukrytych opłat na ostatnim etapie, łatwa rezygnacja z subskrypcji, uregulowanie zakupów robionych przez AI - takie propozycje zawiera zaproponowany w środę Akt uczciwości cyfrowej (DFA).",
-      "content_html": "",
-      "date_published": "2026-11-12T07:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-pokazalo-w-III-kw-wyniki-powyzej-konsensusu-podnioslo-caloroczne-prognozy-9227505.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-pokazalo-w-III-kw-wyniki-powyzej-konsensusu-podnioslo-caloroczne-prognozy-9227505.html",
-      "title": "Allegro z wynikami powyżej oczekiwań i wyższą prognozą na 2026 rok Allegro pokazało w trzecim kwartale 2026 roku wyniki powyżej oczekiwań ankietowanych przez PAP Biznes analityków - skorygowana EBITDA sięgnęła 1,13 mld zł a rynek liczył na 1,08 mld zł. Grupa podniosła całoroczne prognozy na 2026 rok.",
-      "content_html": "",
-      "date_published": "2026-11-12T06:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Allegro-ma-umowe-z-InPost-wplyw-na-skoryg-EBITDA-za-pelny-2026-r-270-280-mln-zl-9227501.html",
-      "url": "https://www.bankier.pl/wiadomosc/Allegro-ma-umowe-z-InPost-wplyw-na-skoryg-EBITDA-za-pelny-2026-r-270-280-mln-zl-9227501.html",
-      "title": "Allegro i InPost podpisały umowę do 2031 roku. Minimalna wartość kontraktu to 8 mld zł Allegro podpisało z InPost nową umowę ramową do 31 grudnia 2031 roku dotyczącą usług dostaw poza domem o minimalnej wartości 8 mld zł. Allegro oczekuje, że retroaktywne zastosowanie nowych stawek cenowych za pełny rok 2026 przyniesie pozytywny wpływ na skorygowaną EBITDĘ spółki w wysokości 270-280 mln zł.",
-      "content_html": "",
-      "date_published": "2026-11-12T06:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/W-IV-kw-grupa-Allegro-notuje-wzrost-GMV-o-ok-17-proc-9227534.html",
-      "url": "https://www.bankier.pl/wiadomosc/W-IV-kw-grupa-Allegro-notuje-wzrost-GMV-o-ok-17-proc-9227534.html",
-      "title": "W IV kw. grupa Allegro notuje wzrost GMV o ok. 17 proc. W IV kwartale grupa Allegro notuje wzrost GMV o ok. 17 proc. rdr, a od początku roku wzrost wynosi 15 proc. rdr - podała spółka w prezentacji.",
-      "content_html": "",
-      "date_published": "2026-11-12T06:00:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html",
-      "url": "https://www.bankier.pl/wiadomosc/Singapur-rozpycha-sie-na-zlotym-podworku-Poluje-na-sztaby-ktorym-nie-po-drodze-z-Londynem-i-Nowym-Jorkiem-9226738.html",
-      "title": "Singapur rozpycha się na złotym podwórku. Poluje na sztaby, którym nie po drodze z Londynem i Nowym Jorkiem Azjatyckie Miasto-Lew ma coraz większe złote zakusy. Singapurski bank centralny otwiera swój nowy skarbiec na złoto innych państw, oferując bankom centralnym bezpieczne miejsce na 500 ton kruszcu. To obranie celu na alternatywe - neutralną przystań na rezerwy państw szukających przeciwwagi dla Wielkiej Brytanii i USA.",
-      "content_html": "",
-      "date_published": "2026-11-12T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
