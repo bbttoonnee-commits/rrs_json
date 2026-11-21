@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Strach-i-niepewnosc-na-Wall-Street-Co-dalej-z-Nvidia-dokad-zmierza-inflacja-9233028.html",
+      "url": "https://www.bankier.pl/wiadomosc/Strach-i-niepewnosc-na-Wall-Street-Co-dalej-z-Nvidia-dokad-zmierza-inflacja-9233028.html",
+      "title": "O TYM MÓWI WALL STREET Strach i niepewność na Wall Street. Co dalej z Nvidią, dokąd zmierza inflacja? Na Wall Street nie milkną dyskusje wokół Nvidii oraz spadających notowań innych firm związanych ze sztuczną inteligencją. Część ekspertów zastanawia się nad wyceną akcji producenta chipów, inni krytykują pochopne decyzje rady dyrektorów po odejściu Jensena Huanga. W tym samym czasie bankierzy centralni i analitycy ostrzegają przed nową falą inflacji napędzaną polityką monetarną oraz zjawiskiem El Niño.",
+      "content_html": "",
+      "date_published": "2026-11-21T20:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/NWZ-MCI-Capital-zdecyduje-o-skupie-akcji-wlasnych-o-wartosci-do-80-mln-zl-9232981.html",
       "url": "https://www.bankier.pl/wiadomosc/NWZ-MCI-Capital-zdecyduje-o-skupie-akcji-wlasnych-o-wartosci-do-80-mln-zl-9232981.html",
       "title": "NWZ MCI Capital zdecyduje o skupie akcji własnych o wartości do 80 mln zł NWZ MCI Capital zdecyduje w sprawie upoważnienia zarządu do skupu akcji własnych o wartości do 80 mln zł - wynika z projektów uchwał na NWZ zwołane na 18 grudnia.",
@@ -366,83 +373,6 @@
       "title": "Eurocash rozpoczyna przygotowania do IPO Frisco Zarząd Eurocash podjął decyzję o rozpoczęciu przygotowań do procesu pierwszej oferty publicznej akcji supermarketu internetowego Frisco i ubiegania się o dopuszczenie i wprowadzenie ich do obrotu na Giełdzie Papierów Wartościowych w Warszawie - podał Eurocash w komunikacie prasowym.",
       "content_html": "",
       "date_published": "2026-11-19T23:22:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Udany-debiut-Anthopica-Nasdaq-poglebia-korekte-9232105.html",
-      "url": "https://www.bankier.pl/wiadomosc/Udany-debiut-Anthopica-Nasdaq-poglebia-korekte-9232105.html",
-      "title": "Udany debiut Anthopica. Nasdaq pogłębia korektę Pomimo bardzo udanego debiutu giełdowego Anthopica na Wall Street znów dominowała czerwień spadków. Wyprzedaż tym razem nie była selektywna i dosięgła wszystkie segmenty rynku.",
-      "content_html": "",
-      "date_published": "2026-11-19T22:05:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Bogdanka-do-konca-lutego-27-podniesie-place-zasadnicze-ma-rozpoczac-projekt-budowy-nowego-szybu-9232070.html",
-      "url": "https://www.bankier.pl/wiadomosc/Bogdanka-do-konca-lutego-27-podniesie-place-zasadnicze-ma-rozpoczac-projekt-budowy-nowego-szybu-9232070.html",
-      "title": "Pracownicy Bogdanki czekają na podwyżki. Zarząd wskazał termin Zarząd Bogdanki najpóźniej na początku grudnia rozpocznie negocjacje wzrostu wynagrodzeń zasadniczych, a uzgodnioną podwyżkę wypłaci do końca lutego 2027 r. - wynika z deklaracji podpisanej przez zarządy Bogdanki i Enei, związki zawodowe działające w spółce oraz kierownictwo Ministerstwa Aktywów Państwowych.",
-      "content_html": "",
-      "date_published": "2026-11-19T19:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Akcje-Anthropic-ruszyly-w-gore-o-ponad-30-proc-Tak-wyglada-debiut-tworcy-Claude-9232067.html",
-      "url": "https://www.bankier.pl/wiadomosc/Akcje-Anthropic-ruszyly-w-gore-o-ponad-30-proc-Tak-wyglada-debiut-tworcy-Claude-9232067.html",
-      "title": "Akcje Anthropic ruszyły w górę o ponad 30 proc. Tak wygląda debiut twórcy Claude Twórca modeli AI Claude, spółka Anthropic zadebiutowała w czwartek na giełdzie Nasdaq w Nowym Jorku. Akcje jednego z liderów branży AI rozpoczęły notowania po cenie 111,5 dol., ponad 30 proc. wyżej od ceny emisyjnej.",
-      "content_html": "",
-      "date_published": "2026-11-19T19:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Backlog-Selvity-na-26-wynosi-330-mln-zl-9232045.html",
-      "url": "https://www.bankier.pl/wiadomosc/Backlog-Selvity-na-26-wynosi-330-mln-zl-9232045.html",
-      "title": "Selvita poprawiła wyniki względem poprzedniego kwartału, ale straty pozostały Backlog Selvity na 2026 r. wynosi 330 mln zł, wobec 360 mln zł rok wcześniej - podała spółka w komunikacie prasowym. Selvita spodziewa się dalszego wzrostu w segmencie Rozwoju Leków.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:56:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-ZUE-wynosi-ok-4-7-mld-zl-9232039.html",
-      "url": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-ZUE-wynosi-ok-4-7-mld-zl-9232039.html",
-      "title": "Portfel zamówień grupy ZUE wynosi ok. 4,7 mld zł Aktualny portfel zamówień grupy ZUE wynosi łącznie ok. 4,7 mld zł netto. Dodatkowo, grupa ma złożone cztery najlepsze oferty w przetargach na łączną kwotę ok. 317 mln zł - podało ZUE w komunikacie prasowym. Jednym z priorytetów grupy jest zwiększanie udziału rynków zagranicznych w działalności.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-miala-w-III-kw-strate-EBITDA-na-poziomie-25-mln-zl-zgodnie-z-szacunkami-9232029.html",
-      "url": "https://www.bankier.pl/wiadomosc/Grupa-Azoty-miala-w-III-kw-strate-EBITDA-na-poziomie-25-mln-zl-zgodnie-z-szacunkami-9232029.html",
-      "title": "Grupa Azoty ze stratą EBITDA w III kwartale. Wzrost przychodów nie wystarczył Grupa Azoty miała w trzecim kwartale 2026 roku stratę EBITDA na poziomie 25 mln zł, zgodnie z wcześniejszymi szacunkami - wynika z raportu kwartalnego spółki. Grupa ocenia, że perspektywy rynkowe na kolejne kwartały pozostają wymagające.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/PHN-rozwaza-przeprowadzenie-emisji-obligacji-w-IV-kw-9232026.html",
-      "url": "https://www.bankier.pl/wiadomosc/PHN-rozwaza-przeprowadzenie-emisji-obligacji-w-IV-kw-9232026.html",
-      "title": "PHN rozważa przeprowadzenie emisji obligacji w IV kw. Polski Holding Nieruchomości rozważa przeprowadzenie w czwartym kwartale 2026 r. oferty obligacji serii G. Maksymalna wartość emisji zostanie ustalona na późniejszym etapie i nie przekroczy dostępnego limitu programu emisji obligacji spółki - podał PHN w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:24:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Unibepem-i-Atremem-zawarlo-umowe-na-modernizacje-oczyszczalni-sciekow-na-rzecz-Orlenu-9232017.html",
-      "url": "https://www.bankier.pl/wiadomosc/Konsorcjum-z-Unibepem-i-Atremem-zawarlo-umowe-na-modernizacje-oczyszczalni-sciekow-na-rzecz-Orlenu-9232017.html",
-      "title": "Konsorcjum z Unibepem i Atremem zawarło umowę na modernizację oczyszczalni ścieków na rzecz Orlenu Konsorcjum SEEN TECHNOLOGIE, Atrem i Unibep zawarło umowę na modernizację oczyszczalni ścieków na rzecz Orlenu - podały spółki w komunikatach.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:14:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-zaklada-w-27-m-in-wzrost-netto-o-ok-150-tys-kart-w-Polsce-9232012.html",
-      "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-zaklada-w-27-m-in-wzrost-netto-o-ok-150-tys-kart-w-Polsce-9232012.html",
-      "title": "Benefit Systems zakłada w '27 m.in. wzrost netto o ok. 150 tys. kart w Polsce Benefit Systems oczekuje w 2027 roku wzrostu kart netto o 150 tys. w Polsce, o 100 tys. kart w regionie Zagranica UE oraz o ok. 90 tys. kart na rynku tureckim - podała spółka w prognozach na 2027 rok.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Ferro-w-III-kw-26-wyniosl-16-4-mln-zl-wobec-18-5-mln-zl-konsensusu-9232000.html",
-      "url": "https://www.bankier.pl/wiadomosc/Zysk-netto-j-d-Ferro-w-III-kw-26-wyniosl-16-4-mln-zl-wobec-18-5-mln-zl-konsensusu-9232000.html",
-      "title": "Ferro zarobiło 16,4 mln zł. Zysk netto poniżej konsensusu Grupa Ferro odnotowała w III kwartale 2026 roku zysk netto j.d. w wysokości 16,4 mln zł - podała spółka w raporcie. Analitycy ankietowani przez PAP Biznes spodziewali się zysku netto na poziomie 18,5 mln zł.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:06:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Benefit-Systems-mial-w-III-kw-284-4-mln-zl-zysku-netto-j-d-wobec-konsensusu-221-mln-zl-9231991.html",
-      "url": "https://www.bankier.pl/wiadomosc/Benefit-Systems-mial-w-III-kw-284-4-mln-zl-zysku-netto-j-d-wobec-konsensusu-221-mln-zl-9231991.html",
-      "title": "Zysk netto Benefit Systems wzrósł o 34 proc. Spółka przebiła prognozy Grupa Benefit Systems miała w III kw. 2026 roku 284,4 mln zł zysku netto j.d. - podała spółka w raporcie kwartalnym. Z wyliczeń PAP Biznes wynika, że EBITDA za ten okres wyniosła 537,6 mln zł. Konsensus PAP Biznes zakładał 221 mln zł zysku netto j.d. oraz 489,1 mln zł zysku EBITDA.",
-      "content_html": "",
-      "date_published": "2026-11-19T18:02:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
