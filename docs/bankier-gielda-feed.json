@@ -4,6 +4,13 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html",
+      "url": "https://www.bankier.pl/wiadomosc/OKI-bez-lukru-Kiedy-nowe-konto-moze-sie-nie-oplacac-9213929.html",
+      "title": "OKI bez lukru. Kiedy nowe konto może się nie opłacać? Samo założenie rachunku OKI prawdopodobnie opłaci się każdemu inwestorowi. Ale już to, ile na niego wpłacić i do czego go używać, jest już kwestią indywidualną i nie zawsze oczywistą.",
+      "content_html": "",
+      "date_published": "2026-11-26T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Wzywajacy-zmienil-cene-akcji-w-wezwaniu-na-akcje-Erste-Bank-Polska-na-713-6-zl-za-akcje-9235211.html",
       "url": "https://www.bankier.pl/wiadomosc/Wzywajacy-zmienil-cene-akcji-w-wezwaniu-na-akcje-Erste-Bank-Polska-na-713-6-zl-za-akcje-9235211.html",
       "title": "Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję Wzywający zmienił cenę akcji w wezwaniu na akcje Erste Bank Polska na 713,6 zł za akcję, ze skutkiem od 26 listopada 2026 r. od godziny 00:00 - poinformował Erste Securities Polska, pośredniczący w wezwaniu.",
@@ -583,13 +590,6 @@
       "title": "TYLKO U NAS Prezes Euronext Amsterdam: Jeśli giełda koncentruje się na krótkoterminowych zyskach, zaczyna konsumować własną przyszłość Europa nie cierpi na brak kapitału, lecz na problemy z jego efektywnym wykorzystaniem. Potrzebujemy większej integracji giełd, silniejszej płynności i lepszego dostępu firm do finansowania – przekonuje René van Vlerken, prezes Euronext Amsterdam, w rozmowie z Bankier.pl. We wtorek, 24 listopada, w Warszawie odbywa się Euronext IPO Day, wydarzenie poświęcone finansowaniu przedsiębiorstw przez europejski rynek kapitałowy.",
       "content_html": "",
       "date_published": "2026-11-24T06:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Oto-portfel-polskiego-inwestora-w-2026-r-100-tys-zl-w-portfelu-to-juz-standard-9233661.html",
-      "url": "https://www.bankier.pl/wiadomosc/Oto-portfel-polskiego-inwestora-w-2026-r-100-tys-zl-w-portfelu-to-juz-standard-9233661.html",
-      "title": "Rekordy na giełdzie, a Polacy wciąż wściekli na ten sam podatek. Prompt zamiast maklera, czyli wyniki OBI 2026 Ogólnopolskie Badanie Inwestorów (OBI), przygotowywane co roku przez Stowarzyszenie Inwestorów Indywidualnych (SII), to najważniejsza fotografia rodzimego rynku detalicznego. W tegorocznej, 24. już edycji ankiety (przeprowadzonej na przełomie października i listopada) wzięło udział 3388 aktywnych inwestorów.",
-      "content_html": "",
-      "date_published": "2026-11-24T06:00:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
