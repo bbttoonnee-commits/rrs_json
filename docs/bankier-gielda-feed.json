@@ -4,6 +4,20 @@
   "home_page_url": "https://www.bankier.pl/gielda/wiadomosci/",
   "items": [
     {
+      "id": "https://www.bankier.pl/wiadomosc/Wall-Street-mocno-odbija-Dow-Jones-z-najlepszym-tygodniem-od-2022-roku-9236747.html",
+      "url": "https://www.bankier.pl/wiadomosc/Wall-Street-mocno-odbija-Dow-Jones-z-najlepszym-tygodniem-od-2022-roku-9236747.html",
+      "title": "Wall Street mocno odbija. Dow Jones z najlepszym tygodniem od 2022 roku Piątkowa, skrócona o trzy godziny, sesja na Wall Street przyniosła solidne wzrosty głównych indeksów. W centrum uwagi pozostają spółki związane ze sztuczną inteligencją. Dow Jones zanotował najlepszy tydzień tego indeksu od 2022 roku.",
+      "content_html": "",
+      "date_published": "2026-11-28T08:00:00+01:00"
+    },
+    {
+      "id": "https://www.bankier.pl/wiadomosc/Dolar-znow-po-4-zl-pensje-w-gore-i-gieldowy-rollercoaster-14-wykresow-ktore-musisz-zobaczyc-9236086.html",
+      "url": "https://www.bankier.pl/wiadomosc/Dolar-znow-po-4-zl-pensje-w-gore-i-gieldowy-rollercoaster-14-wykresow-ktore-musisz-zobaczyc-9236086.html",
+      "title": "Dolar znów po 4 zł, pensje w górę i giełdowy rollercoaster. 14 wykresów, które musisz zobaczyć Gospodarka wysyła sprzeczne sygnały, a rynki fundują inwestorom prawdziwy rollercoaster. Realne wynagrodzenia odbijają, przemysł hamuje, a różnice między cenami mieszkań na rynku pierwotnym i wtórnym ponownie się pogłębiają. W tym samym czasie dolar wraca powyżej 4 zł, a giełdowe indeksy notują spektakularne odbicie. W „Wykresach tygodnia” przyglądam się liczbom, które najlepiej pokazują, w jakim miejscu znalazły się dziś gospodarka i rynki.",
+      "content_html": "",
+      "date_published": "2026-11-28T06:00:00+01:00"
+    },
+    {
       "id": "https://www.bankier.pl/wiadomosc/Strata-netto-Kernel-Holding-w-I-kw-2026-27-wyniosla-143-mln-USD-9236693.html",
       "url": "https://www.bankier.pl/wiadomosc/Strata-netto-Kernel-Holding-w-I-kw-2026-27-wyniosla-143-mln-USD-9236693.html",
       "title": "Strata netto Kernel Holding w I kw. 2026/27 wyniosła 143 mln USD Strata netto j.d. Kernel Holding w I kwartale roku obrotowego 2026/27, zakończonym 30 września, wyniosła 143 mln USD wobec 95 mln USD zysku rok wcześniej - podała spółka w raporcie.",
@@ -457,132 +471,6 @@
       "title": "Więcej polskiego gazu w sieci. Orlen rozpoczął wydobycie ze złóż Zabiała i Kulno Orlen uruchomił wydobycie z sześciu odwiertów na Podkarpaciu. Łącznie dostarczą one ponad 500 mln m sześc. gazu ziemnego - podał Orlen w komunikacie prasowym. Koncern chce zwiększyć krajowe wydobycie do 4 mld m sześc. rocznie.",
       "content_html": "",
       "date_published": "2026-11-26T10:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Sniezka-nie-spodziewa-sie-szybkiego-odbicia-popytu-w-Polsce-rozpoczyna-sprzedaz-w-Czechach-i-Slowacji-9235436.html",
-      "url": "https://www.bankier.pl/wiadomosc/Sniezka-nie-spodziewa-sie-szybkiego-odbicia-popytu-w-Polsce-rozpoczyna-sprzedaz-w-Czechach-i-Slowacji-9235436.html",
-      "title": "Śnieżka nie spodziewa się szybkiego odbicia popytu w Polsce Śnieżka nie widzi przesłanek do szybkiego odbicia popytu na polskim rynku farb. Sytuacja w czwartym kwartale jest stabilna - poinformowali przedstawiciele spółki podczas wideokonferencji. Śnieżka rozpoczyna sprzedaż na nowych rynkach - czeskim i słowackim.",
-      "content_html": "",
-      "date_published": "2026-11-26T10:40:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/UniCredit-ma-zgode-KNF-na-przejecie-kontroli-nad-Commerzbankiem-9235356.html",
-      "url": "https://www.bankier.pl/wiadomosc/UniCredit-ma-zgode-KNF-na-przejecie-kontroli-nad-Commerzbankiem-9235356.html",
-      "title": "UniCredit ze zgodą KNF na przejęcie Commerzbanku. W tle przyszłość mBanku Polska Komisja Nadzoru Finansowego wydała brakujące zgody regulacyjne, usuwając ostatnią formalną przeszkodę na drodze do przejęcia Commerzbanku przez UniCredit. Spełnienie wszystkich warunków wezwania otwiera drogę do rozliczenia transakcji do 7 grudnia 2026 roku i niesie bezpośrednie implikacje dla struktury właścicielskiej Commerzbanku oraz pośrednio dla polskiego mBanku.",
-      "content_html": "",
-      "date_published": "2026-11-26T10:17:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Kazachstanski-gigant-budowalny-wchodzi-nad-Wisle-Polska-przyczolkiem-do-ekspansji-w-Europie-9235410.html",
-      "url": "https://www.bankier.pl/wiadomosc/Kazachstanski-gigant-budowalny-wchodzi-nad-Wisle-Polska-przyczolkiem-do-ekspansji-w-Europie-9235410.html",
-      "title": "Kazachstański gigant budowalny wchodzi nad Wisłę. Polska przyczółkiem do ekspansji w Europie BI Group, kazachstański holding budowlano-inwestycyjny, działający poprzez swoją spółkę zależną BI Global Polska, podjął kroki w celu nabycia 10 proc. udziałów w Commercecon celem wejścia na polski rynek - podały spółki w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-11-26T10:08:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Gaz-drozeje-w-obliczu-nizszych-temperatur-Polska-wyroznia-sie-na-tle-kontynentu-9235395.html",
-      "url": "https://www.bankier.pl/wiadomosc/Gaz-drozeje-w-obliczu-nizszych-temperatur-Polska-wyroznia-sie-na-tle-kontynentu-9235395.html",
-      "title": "Gaz drożeje w obliczu niższych temperatur. Polska wyróżnia się na tle kontynentu Ceny gazu w Europie rosną w czwartek. W regionie jednak ma być chłodniejsza pogoda, a wcześniej liczono na łagodniejsze warunki atmosferyczne - informują maklerzy.",
-      "content_html": "",
-      "date_published": "2026-11-26T09:46:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Develia-rozpoczela-przedsprzedaz-280-mieszkan-we-Wroclawiu-9235387.html",
-      "url": "https://www.bankier.pl/wiadomosc/Develia-rozpoczela-przedsprzedaz-280-mieszkan-we-Wroclawiu-9235387.html",
-      "title": "Develia rozpoczęła przedsprzedaż 280 mieszkań we Wrocławiu Develia uruchomiła przedsprzedaż mieszkań w nowej inwestycji - L62, zlokalizowanej na wrocławskich Popowicach - podała spółka w komunikacie prasowym. Do oferty trafiło 280 lokali.",
-      "content_html": "",
-      "date_published": "2026-11-26T09:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Mirbud-na-koniec-pazdziernika-wynosil-8-84-mld-zl-9235383.html",
-      "url": "https://www.bankier.pl/wiadomosc/Portfel-zamowien-grupy-Mirbud-na-koniec-pazdziernika-wynosil-8-84-mld-zl-9235383.html",
-      "title": "Portfel zamówień grupy Mirbud na koniec października wynosił 8,84 mld zł Wartość portfela zamówień grupy Mirbud na koniec października 2026 r. wynosiła 8,84 mld zł netto - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-26T09:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyemituje-obligacje-o-wartosci-do-50-mln-zl-9235374.html",
-      "url": "https://www.bankier.pl/wiadomosc/Marvipol-Development-wyemituje-obligacje-o-wartosci-do-50-mln-zl-9235374.html",
-      "title": "Marvipol Development wyemituje obligacje o wartości do 50 mln zł Marvipol Development wyemituje do 50 tys. obligacji serii P2026A o łącznej wartości nominalnej do 50 mln zł - poinformowała spółka w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-26T09:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Spolka-Trakcji-ma-umowe-na-Litwie-o-wartosci-35-26-mln-euro-netto-9235359.html",
-      "url": "https://www.bankier.pl/wiadomosc/Spolka-Trakcji-ma-umowe-na-Litwie-o-wartosci-35-26-mln-euro-netto-9235359.html",
-      "title": "Spółka Trakcji ma umowę na Litwie o wartości 35,26 mln euro netto AB Kauno tiltai, spółka zależna Trakcji, zawarła z litewskim zarządcą dróg krajowych Via Lietuva umowę o wartości netto 35,26 mln euro, czyli 158 mln zł - podała Trakcja w komunikacie.",
-      "content_html": "",
-      "date_published": "2026-11-26T09:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/ShockPrice-zadebiutowal-na-Slowacji-w-grudniu-ma-pojawic-sie-w-Czechach-9235358.html",
-      "url": "https://www.bankier.pl/wiadomosc/ShockPrice-zadebiutowal-na-Slowacji-w-grudniu-ma-pojawic-sie-w-Czechach-9235358.html",
-      "title": "ShockPrice zadebiutował na Słowacji. W grudniu ma pojawić się w Czechach ShockPrice, nowa sieć sklepów off-price rozwijana przez Modivo Platform, wraz z otwarciem 20. sklepu, zadebiutowała na Słowacji, a w grudniu planowane jest otwarcie sklepu w Czechach - poinformowało Modivo Platform w komunikacie prasowym. Do końca roku Modivo Platform planuje rozbudować sieć ShockPrice do niemal 40 sklepów.",
-      "content_html": "",
-      "date_published": "2026-11-26T08:54:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-spodziewa-sie-wzrostu-przychodow-w-IV-kw-9235350.html",
-      "url": "https://www.bankier.pl/wiadomosc/Medicalgorithmics-spodziewa-sie-wzrostu-przychodow-w-IV-kw-9235350.html",
-      "title": "Medicalgorithmics spodziewa się wzrostu przychodów w IV kw. Medicalgorithmics, który po trzech kwartałach 2026 roku zwiększył przychody o 53 proc. rdr do 32 mln zł przychodów, spodziewa się wzrostu sprzedaży w IV kwartale i skokowego wzrostu od I kwartału przyszłego roku - podała spółka w komunikacie prasowym.",
-      "content_html": "",
-      "date_published": "2026-11-26T08:44:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Onde-zaprzestanie-dzialalnosci-w-budownictwie-drogowym-planuje-redukcje-zatrudnienia-o-max-125-osob-9235349.html",
-      "url": "https://www.bankier.pl/wiadomosc/Onde-zaprzestanie-dzialalnosci-w-budownictwie-drogowym-planuje-redukcje-zatrudnienia-o-max-125-osob-9235349.html",
-      "title": "Onde wycofuje się z budownictwa drogowego. Spółka planuje zwolnienia grupowe do 125 osób i sprzedaż majątku Onde zakończyło przegląd opcji strategicznych i zdecydowało o zamiarze zaprzestania działalności w ramach segmentu budownictwa drogowego. Planuje redukcję zatrudnienia o max. 125 pracowników oraz sprzedaż aktywów związanych z działalnością segmentu - poinformowała spółka w komunikacie. Rezerwa w wysokości ok. 3 mln zł zostanie ujęta w wynikach za IV kw. 2026 r.",
-      "content_html": "",
-      "date_published": "2026-11-26T08:42:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/11-bit-studios-w-III-kw-mialo-15-4-mln-zl-zysku-EBITDA-wobec-13-2-mln-zl-konsensusu-popr-9235342.html",
-      "url": "https://www.bankier.pl/wiadomosc/11-bit-studios-w-III-kw-mialo-15-4-mln-zl-zysku-EBITDA-wobec-13-2-mln-zl-konsensusu-popr-9235342.html",
-      "title": "11 bit studios przebija prognozy rynkowe w III kwartale 2026 roku. Spółka wypracowała 1,4 mln zł zysku netto 11 bit studios w trzecim kwartale 2026 roku miało 15,4 mln zł zysku EBITDA oraz 1,4 mln zł zysku netto - podała spółka w raporcie. Konsensus PAP Biznes zakładał 13,2 mln zł EBITDA oraz 0,3 mln zł zysku netto.",
-      "content_html": "",
-      "date_published": "2026-11-26T08:30:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Lisala-podnosi-cene-w-wezwaniu-na-akcje-Echo-Investment-do-5-55-zl-szt-9235334.html",
-      "url": "https://www.bankier.pl/wiadomosc/Lisala-podnosi-cene-w-wezwaniu-na-akcje-Echo-Investment-do-5-55-zl-szt-9235334.html",
-      "title": "Lisala podnosi cenę w wezwaniu na akcje Echo Investment do 5,55 zł/szt. Lisala podnosi cenę w wezwaniu na akcje Echo Investment do 5,55 zł/szt. -poinformował pośredniczący w wezwaniu Erste Biuro Maklerskie.",
-      "content_html": "",
-      "date_published": "2026-11-26T08:20:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/CI-Games-mial-po-trzech-kw-26-1-mln-zl-zysku-EBITDA-9235332.html",
-      "url": "https://www.bankier.pl/wiadomosc/CI-Games-mial-po-trzech-kw-26-1-mln-zl-zysku-EBITDA-9235332.html",
-      "title": "CI Games miał po trzech kw. 26,1 mln zł zysku EBITDA EBITDA CI Games po trzech kwartałach 2026 r. wzrosła do 26,1 mln zł z 21,8 mln zł - podała spółka w raporcie. Zysk netto wyniósł 6,7 mln zł wobec 0,9 mln zł zysku przed rokiem.",
-      "content_html": "",
-      "date_published": "2026-11-26T08:12:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Przewidzial-kryzys-2008-r-i-ostrzegal-przed-banka-AI-Teraz-zaczal-grac-na-wzrosty-9235325.html",
-      "url": "https://www.bankier.pl/wiadomosc/Przewidzial-kryzys-2008-r-i-ostrzegal-przed-banka-AI-Teraz-zaczal-grac-na-wzrosty-9235325.html",
-      "title": "Przewidział kryzys 2008 r. i ostrzegał przed bańką AI. Teraz zaczął grać na wzrosty Michael Burry - inwestor, któremu rozpoznawalność na świecie zapewniły książka i film \"The Big Short\" - przestał grać na spadki indeksu Nasdaq-100 oraz zredukował zakład przeciwko Nvidii. W najnowszym wpisie na platformie Substack zadeklarował, że jest obecnie \"tymczasowo niemal w całości po długiej stronie rynku\" i przenosi kapitał w stronę niedowartościowanych spółek.",
-      "content_html": "",
-      "date_published": "2026-11-26T08:02:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Wyniki-Creotech-Instruments-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9235319.html",
-      "url": "https://www.bankier.pl/wiadomosc/Wyniki-Creotech-Instruments-w-III-kw-2026-roku-vs-konsensus-PAP-tabela-9235319.html",
-      "title": "Wyniki Creotech Instruments w III kw. 2026 roku vs. konsensus PAP (tabela) Poniżej przedstawiono wyniki Creotech Instruments w trzecim kwartale 2026 roku i ich odniesienie do konsensusu PAP Biznes oraz poprzednich wyników.",
-      "content_html": "",
-      "date_published": "2026-11-26T07:58:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Ministerstwo-Energii-obniza-planowana-oplate-kogeneracyjna-na-2027-rok-Wyniesie-3-41-zl-MWh-9235311.html",
-      "url": "https://www.bankier.pl/wiadomosc/Ministerstwo-Energii-obniza-planowana-oplate-kogeneracyjna-na-2027-rok-Wyniesie-3-41-zl-MWh-9235311.html",
-      "title": "Dobra wiadomość dla odbiorców prądu. Rząd ścina planowaną podwyżkę opłaty kogeneracyjnej Resort energii obniży opłatę kogeneracyjną na przyszły rok do 3,41 zł/MWh z 3,83 zł/MWh pierwotnie planowanej - podano na stronie RCL.",
-      "content_html": "",
-      "date_published": "2026-11-26T07:36:00+01:00"
-    },
-    {
-      "id": "https://www.bankier.pl/wiadomosc/Atal-mial-w-III-kw-149-4-mln-zl-zysku-netto-j-d-konsensus-zakladal-152-7-mln-zl-9235304.html",
-      "url": "https://www.bankier.pl/wiadomosc/Atal-mial-w-III-kw-149-4-mln-zl-zysku-netto-j-d-konsensus-zakladal-152-7-mln-zl-9235304.html",
-      "title": "Atal zarobił 149,4 mln zł w III kwartale 2026 roku. Przychody wyższe od oczekiwań rynku Atal miał w trzecim kwartale 2026 roku 149,4 mln zł zysku netto j.d. przy przychodach na poziomie 754,8 mln zł - wynika z wyliczeń PAP Biznes na podstawie raportu. Konsensus PAP Biznes zakładał odpowiednio 152,7 mln zł zysku netto j.d. oraz 744,7 mln zł przychodów.",
-      "content_html": "",
-      "date_published": "2026-11-26T07:12:00+01:00"
     }
   ],
   "feed_url": "https://twoj-login.github.io/twoj-repo/bankier-gielda-feed.json"
